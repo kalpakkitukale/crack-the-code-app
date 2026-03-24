@@ -42,7 +42,18 @@ class Phonogram {
               .toList() ??
           [],
       detailWords: (json['detailWords'] as List<dynamic>?)
-              ?.map((e) => ExampleWord.fromJson(e as Map<String, dynamic>))
+              ?.map((e) {
+                if (e is Map<String, dynamic>) {
+                  return ExampleWord.fromJson(e);
+                }
+                // Plain string like "CAT" — convert to ExampleWord
+                final word = e.toString();
+                return ExampleWord(
+                  word: word,
+                  emoji: '',
+                  audioFile: 'words/${word.toLowerCase()}.ogg',
+                );
+              })
               .toList() ??
           [],
       funFact: json['funFact'] as String? ?? '',
