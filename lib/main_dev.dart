@@ -40,6 +40,20 @@ Future<void> main() async {
   await audioService.initialize();
   final audioRepo = AudioRepository(audioService);
 
+  // Register phonogram sounds for TTS fallback
+  final soundMap = <String, String>{};
+  for (final phonogram in phonogramRepo.getAll()) {
+    for (final sound in phonogram.sounds) {
+      final exWord = sound.exampleWords.isNotEmpty
+          ? sound.exampleWords.first.word
+          : '';
+      soundMap[sound.soundId] = exWord.isNotEmpty
+          ? '${sound.notation.replaceAll("/", "")}, as in $exWord'
+          : sound.notation.replaceAll("/", "");
+    }
+  }
+  audioService.registerPhonogramSounds(soundMap);
+
   debugPrint('✅ Loaded: ${phonogramRepo.totalPhonograms} phonograms, '
       '${phonogramRepo.totalSounds} sounds, '
       '${ruleRepo.getAll().length} rules, '

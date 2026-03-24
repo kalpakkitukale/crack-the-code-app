@@ -129,9 +129,14 @@ class _PhonogramDetailScreenState
               const SizedBox(height: 8),
               ElevatedButton.icon(
                 onPressed: () {
-                  // Play sound
-                  ref.read(audioRepositoryProvider)
-                      .playPhonogram(currentSound.soundId);
+                  final ex = currentSound.exampleWords.isNotEmpty
+                      ? currentSound.exampleWords.first.word
+                      : null;
+                  ref.read(audioRepositoryProvider).playPhonogram(
+                        currentSound.soundId,
+                        notation: currentSound.notation,
+                        exampleWord: ex,
+                      );
                 },
                 icon: const Icon(Icons.volume_up),
                 label: const Text('Tap to hear'),
@@ -155,8 +160,14 @@ class _PhonogramDetailScreenState
                     selected: isActive,
                     onSelected: (_) {
                       setState(() => _currentSoundIndex = i);
-                      ref.read(audioRepositoryProvider)
-                          .playPhonogram(sound.soundId);
+                      final ex = sound.exampleWords.isNotEmpty
+                          ? sound.exampleWords.first.word
+                          : null;
+                      ref.read(audioRepositoryProvider).playPhonogram(
+                            sound.soundId,
+                            notation: sound.notation,
+                            exampleWord: ex,
+                          );
                     },
                     selectedColor: phonogram.color.withValues(alpha: 0.3),
                     backgroundColor: const Color(0xFF1A1832),

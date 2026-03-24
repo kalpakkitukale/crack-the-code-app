@@ -18,27 +18,47 @@ class AudioRepository {
     await _audioService.evictNonEssential();
   }
 
-  Future<void> playPhonogram(String soundId) async {
-    await _audioService.play('phonograms/$soundId.ogg');
+  /// Play a phonogram sound — tries audio file, falls back to TTS
+  Future<void> playPhonogram(String soundId,
+      {String? notation, String? exampleWord}) async {
+    if (notation != null) {
+      // Use TTS with pronunciation info for better quality
+      await _audioService.speakPhonogram(soundId, notation,
+          exampleWord: exampleWord);
+    } else {
+      // Try audio file (will fall back to TTS via AudioService)
+      await _audioService.play('phonograms/$soundId.ogg');
+    }
   }
 
+  /// Play a word — tries audio file, falls back to TTS
   Future<void> playWord(String word) async {
-    await _audioService.play('words/${word.toLowerCase()}.ogg');
+    await _audioService.speakWord(word);
   }
 
   Future<void> playUI(String soundName) async {
     await _audioService.play('ui/$soundName.ogg');
   }
 
-  Future<void> playHindi(String soundId) async {
-    await _audioService.play('hindi/$soundId.ogg');
+  /// Speak text in Hindi
+  Future<void> playHindi(String text) async {
+    await _audioService.setTtsLanguage('hi-IN');
+    await _audioService.speak(text);
+    await _audioService.setTtsLanguage('en-US'); // reset
   }
 
-  Future<void> playMarathi(String soundId) async {
-    await _audioService.play('marathi/$soundId.ogg');
+  /// Speak text in Marathi
+  Future<void> playMarathi(String text) async {
+    await _audioService.setTtsLanguage('mr-IN');
+    await _audioService.speak(text);
+    await _audioService.setTtsLanguage('en-US'); // reset
   }
 
   Future<void> setVolume(double volume) async {
     await _audioService.setVolume(volume);
+  }
+
+  Future<void> stop() async {
+    await _audioService.stop();
   }
 }

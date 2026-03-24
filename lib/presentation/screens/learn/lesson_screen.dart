@@ -190,9 +190,14 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
               size: 120,
               onTap: () {
                 if (primarySound != null) {
-                  ref
-                      .read(audioRepositoryProvider)
-                      .playPhonogram(primarySound.soundId);
+                  final ex = primarySound.exampleWords.isNotEmpty
+                      ? primarySound.exampleWords.first.word
+                      : null;
+                  ref.read(audioRepositoryProvider).playPhonogram(
+                        primarySound.soundId,
+                        notation: primarySound.notation,
+                        exampleWord: ex,
+                      );
                 }
               },
             ),
