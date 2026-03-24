@@ -1,0 +1,5653 @@
+[
+  {
+    "word": "CAT",
+    "phonogramBreakdown": [
+      "C",
+      "A",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      1
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/cat.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "C says /k/ before A (Rule 1)"
+    }
+  },
+  {
+    "word": "BED",
+    "phonogramBreakdown": [
+      "B",
+      "E",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/bed.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — E says short /e/"
+    }
+  },
+  {
+    "word": "SIT",
+    "phonogramBreakdown": [
+      "S",
+      "I",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/sit.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — I says short /i/"
+    }
+  },
+  {
+    "word": "HOT",
+    "phonogramBreakdown": [
+      "H",
+      "O",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/hot.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — O says short /o/"
+    }
+  },
+  {
+    "word": "CUP",
+    "phonogramBreakdown": [
+      "C",
+      "U",
+      "P"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      1
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/cup.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "C says /k/ before U"
+    }
+  },
+  {
+    "word": "JAM",
+    "phonogramBreakdown": [
+      "J",
+      "A",
+      "M"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/jam.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "J always says /j/"
+    }
+  },
+  {
+    "word": "VAN",
+    "phonogramBreakdown": [
+      "V",
+      "A",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/van.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "V says /v/ — simple consonant"
+    }
+  },
+  {
+    "word": "WAX",
+    "phonogramBreakdown": [
+      "W",
+      "A",
+      "X"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/wax.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "X says /ks/ at end of word"
+    }
+  },
+  {
+    "word": "HUG",
+    "phonogramBreakdown": [
+      "H",
+      "U",
+      "G"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/hug.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "G says /g/ before nothing (end of word)"
+    }
+  },
+  {
+    "word": "YAM",
+    "phonogramBreakdown": [
+      "Y",
+      "A",
+      "M"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/yam.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Y as consonant at start of word"
+    }
+  },
+  {
+    "word": "KIT",
+    "phonogramBreakdown": [
+      "K",
+      "I",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/kit.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable keeps I short"
+    }
+  },
+  {
+    "word": "PEN",
+    "phonogramBreakdown": [
+      "P",
+      "E",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/pen.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — short E"
+    }
+  },
+  {
+    "word": "LOG",
+    "phonogramBreakdown": [
+      "L",
+      "O",
+      "G"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/log.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — short O"
+    }
+  },
+  {
+    "word": "RUN",
+    "phonogramBreakdown": [
+      "R",
+      "U",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/run.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — short U"
+    }
+  },
+  {
+    "word": "FIG",
+    "phonogramBreakdown": [
+      "F",
+      "I",
+      "G"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      4
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/fig.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Closed syllable — short I"
+    }
+  },
+  {
+    "word": "SHIP",
+    "phonogramBreakdown": [
+      "SH",
+      "I",
+      "P"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/ship.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SH consonant team says /sh/"
+    }
+  },
+  {
+    "word": "THAT",
+    "phonogramBreakdown": [
+      "TH",
+      "A",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/that.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TH says voiced /th/ here"
+    }
+  },
+  {
+    "word": "CHOP",
+    "phonogramBreakdown": [
+      "CH",
+      "O",
+      "P"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/chop.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CH consonant team says /ch/"
+    }
+  },
+  {
+    "word": "WHEN",
+    "phonogramBreakdown": [
+      "WH",
+      "E",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/when.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "WH consonant team"
+    }
+  },
+  {
+    "word": "RING",
+    "phonogramBreakdown": [
+      "R",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/ring.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "NG consonant team says /ng/"
+    }
+  },
+  {
+    "word": "BANK",
+    "phonogramBreakdown": [
+      "B",
+      "A",
+      "NK"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/bank.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "NK says /ngk/"
+    }
+  },
+  {
+    "word": "FISH",
+    "phonogramBreakdown": [
+      "F",
+      "I",
+      "SH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/fish.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SH at the end of a word"
+    }
+  },
+  {
+    "word": "MATH",
+    "phonogramBreakdown": [
+      "M",
+      "A",
+      "TH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/math.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TH unvoiced at end"
+    }
+  },
+  {
+    "word": "DUCK",
+    "phonogramBreakdown": [
+      "D",
+      "U",
+      "CK"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      26
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/duck.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CK after single short vowel (Rule 26)"
+    }
+  },
+  {
+    "word": "BACK",
+    "phonogramBreakdown": [
+      "B",
+      "A",
+      "CK"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      26
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/back.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CK protects the short A"
+    }
+  },
+  {
+    "word": "KICK",
+    "phonogramBreakdown": [
+      "K",
+      "I",
+      "CK"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      26
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/kick.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CK after short I"
+    }
+  },
+  {
+    "word": "LOCK",
+    "phonogramBreakdown": [
+      "L",
+      "O",
+      "CK"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      26
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/lock.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CK after short O"
+    }
+  },
+  {
+    "word": "RAIN",
+    "phonogramBreakdown": [
+      "R",
+      "AI",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      9
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/rain.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AI used in middle of word (Rule 9)"
+    }
+  },
+  {
+    "word": "PLAY",
+    "phonogramBreakdown": [
+      "P",
+      "L",
+      "AY"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      9
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/play.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AY at end of base word (Rule 9)"
+    }
+  },
+  {
+    "word": "TREE",
+    "phonogramBreakdown": [
+      "T",
+      "R",
+      "EE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/tree.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EE vowel team — always says /ee/"
+    }
+  },
+  {
+    "word": "SEED",
+    "phonogramBreakdown": [
+      "S",
+      "EE",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/seed.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EE vowel team — reliable long E"
+    }
+  },
+  {
+    "word": "GOAT",
+    "phonogramBreakdown": [
+      "G",
+      "OA",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/goat.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OA vowel team says long O"
+    }
+  },
+  {
+    "word": "BOAT",
+    "phonogramBreakdown": [
+      "B",
+      "OA",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/boat.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OA — first vowel says its name"
+    }
+  },
+  {
+    "word": "BEAN",
+    "phonogramBreakdown": [
+      "B",
+      "EA",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/bean.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EA vowel team says /ee/"
+    }
+  },
+  {
+    "word": "FOOD",
+    "phonogramBreakdown": [
+      "F",
+      "OO",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/food.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OO says /oo/ as in moon"
+    }
+  },
+  {
+    "word": "BOOK",
+    "phonogramBreakdown": [
+      "B",
+      "OO",
+      "K"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/book.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OO says short /oo/ as in book"
+    }
+  },
+  {
+    "word": "COIN",
+    "phonogramBreakdown": [
+      "C",
+      "OI",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      10
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/coin.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OI in middle of word (Rule 10)"
+    }
+  },
+  {
+    "word": "BOY",
+    "phonogramBreakdown": [
+      "B",
+      "OY"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      10
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/boy.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OY at end of word (Rule 10)"
+    }
+  },
+  {
+    "word": "DAY",
+    "phonogramBreakdown": [
+      "D",
+      "AY"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      9
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/day.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AY at end of base word"
+    }
+  },
+  {
+    "word": "OUT",
+    "phonogramBreakdown": [
+      "OU",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/out.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OU vowel team says /ow/"
+    }
+  },
+  {
+    "word": "COW",
+    "phonogramBreakdown": [
+      "C",
+      "OW"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/cow.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OW can say /ow/ or /oh/"
+    }
+  },
+  {
+    "word": "SAW",
+    "phonogramBreakdown": [
+      "S",
+      "AW"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/saw.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AW says /aw/ — end position partner of AU"
+    }
+  },
+  {
+    "word": "NEW",
+    "phonogramBreakdown": [
+      "N",
+      "EW"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/new.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EW vowel team says /oo/"
+    }
+  },
+  {
+    "word": "KIND",
+    "phonogramBreakdown": [
+      "K",
+      "I",
+      "N",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      5
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/kind.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "I says long /eye/ before ND (Rule 5)"
+    }
+  },
+  {
+    "word": "FIND",
+    "phonogramBreakdown": [
+      "F",
+      "I",
+      "N",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      5
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/find.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "I before ND says its name"
+    }
+  },
+  {
+    "word": "COLD",
+    "phonogramBreakdown": [
+      "C",
+      "O",
+      "L",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      5,
+      8
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/cold.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O says long /oh/ before LD (Rule 5/8)"
+    }
+  },
+  {
+    "word": "GOLD",
+    "phonogramBreakdown": [
+      "G",
+      "O",
+      "L",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      5,
+      8
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/gold.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O before LD says its name"
+    }
+  },
+  {
+    "word": "MOST",
+    "phonogramBreakdown": [
+      "M",
+      "O",
+      "S",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      5,
+      8
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/most.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O before ST says long /oh/"
+    }
+  },
+  {
+    "word": "FLY",
+    "phonogramBreakdown": [
+      "F",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      6
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/fly.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Y says /eye/ — one syllable (Rule 6)"
+    }
+  },
+  {
+    "word": "CRY",
+    "phonogramBreakdown": [
+      "C",
+      "R",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      6
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/cry.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "One-syllable Y says /eye/"
+    }
+  },
+  {
+    "word": "DRY",
+    "phonogramBreakdown": [
+      "D",
+      "R",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      6
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/dry.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Y as long I in one syllable"
+    }
+  },
+  {
+    "word": "SKY",
+    "phonogramBreakdown": [
+      "S",
+      "K",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      6
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/sky.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Y says /eye/ at end of one-syllable word"
+    }
+  },
+  {
+    "word": "WHY",
+    "phonogramBreakdown": [
+      "WH",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      6
+    ],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/why.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "WH team + Y saying /eye/"
+    }
+  },
+  {
+    "word": "QUIT",
+    "phonogramBreakdown": [
+      "QU",
+      "I",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/quit.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "QU always together — says /kw/"
+    }
+  },
+  {
+    "word": "CAR",
+    "phonogramBreakdown": [
+      "C",
+      "AR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/car.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AR — R controls the vowel sound"
+    }
+  },
+  {
+    "word": "HER",
+    "phonogramBreakdown": [
+      "H",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/her.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ER — one of the /er/ triplets"
+    }
+  },
+  {
+    "word": "BIRD",
+    "phonogramBreakdown": [
+      "B",
+      "IR",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/bird.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IR — sounds same as ER and UR"
+    }
+  },
+  {
+    "word": "BURN",
+    "phonogramBreakdown": [
+      "B",
+      "UR",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/burn.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UR — third /er/ triplet"
+    }
+  },
+  {
+    "word": "FORK",
+    "phonogramBreakdown": [
+      "F",
+      "OR",
+      "K"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/fork.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OR — R controls the O"
+    }
+  },
+  {
+    "word": "GNAT",
+    "phonogramBreakdown": [
+      "GN",
+      "A",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 1,
+    "frequency": 0,
+    "gradeLevel": 1,
+    "audioFile": "words/gnat.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "GN consonant team — G is silent"
+    }
+  },
+  {
+    "word": "SHAKE",
+    "phonogramBreakdown": [
+      "SH",
+      "A",
+      "K",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/shake.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E makes A say its name (Rule 12.1)"
+    }
+  },
+  {
+    "word": "PHONE",
+    "phonogramBreakdown": [
+      "PH",
+      "O",
+      "N",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/phone.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "PH says /f/; silent E makes O long"
+    }
+  },
+  {
+    "word": "WRITE",
+    "phonogramBreakdown": [
+      "WR",
+      "I",
+      "T",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12,
+      33
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/write.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent W in WR + silent E for long I"
+    }
+  },
+  {
+    "word": "KNIFE",
+    "phonogramBreakdown": [
+      "KN",
+      "I",
+      "F",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12,
+      33
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/knife.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent K in KN + silent E for long I"
+    }
+  },
+  {
+    "word": "WHALE",
+    "phonogramBreakdown": [
+      "WH",
+      "A",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/whale.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "WH team + silent E makes A long"
+    }
+  },
+  {
+    "word": "PRIZE",
+    "phonogramBreakdown": [
+      "P",
+      "R",
+      "I",
+      "Z",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/prize.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E makes I say /eye/"
+    }
+  },
+  {
+    "word": "SPOKE",
+    "phonogramBreakdown": [
+      "S",
+      "P",
+      "O",
+      "K",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/spoke.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E makes O long"
+    }
+  },
+  {
+    "word": "FLUTE",
+    "phonogramBreakdown": [
+      "F",
+      "L",
+      "U",
+      "T",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/flute.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E makes U say /oo/"
+    }
+  },
+  {
+    "word": "GRAPE",
+    "phonogramBreakdown": [
+      "G",
+      "R",
+      "A",
+      "P",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/grape.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E makes A long"
+    }
+  },
+  {
+    "word": "FLAME",
+    "phonogramBreakdown": [
+      "F",
+      "L",
+      "A",
+      "M",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/flame.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E jumps over M to make A long"
+    }
+  },
+  {
+    "word": "GLOVE",
+    "phonogramBreakdown": [
+      "G",
+      "L",
+      "O",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/glove.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E guards V — English words don't end in V (Rule 3/12.2)"
+    }
+  },
+  {
+    "word": "NERVE",
+    "phonogramBreakdown": [
+      "N",
+      "ER",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/nerve.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E after V — V-guard + R-controlled"
+    }
+  },
+  {
+    "word": "CURVE",
+    "phonogramBreakdown": [
+      "C",
+      "UR",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/curve.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E guards V; UR is R-controlled"
+    }
+  },
+  {
+    "word": "SOLVE",
+    "phonogramBreakdown": [
+      "S",
+      "O",
+      "L",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/solve.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E guards V at end"
+    }
+  },
+  {
+    "word": "DANCE",
+    "phonogramBreakdown": [
+      "D",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      1,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/dance.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E keeps C soft (/s/) at end (Rule 12.3)"
+    }
+  },
+  {
+    "word": "FENCE",
+    "phonogramBreakdown": [
+      "F",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      1,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/fence.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent E softens C to /s/"
+    }
+  },
+  {
+    "word": "STAGE",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "A",
+      "G",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      2,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/stage.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E softens G to /j/ and makes A long"
+    }
+  },
+  {
+    "word": "BADGE",
+    "phonogramBreakdown": [
+      "B",
+      "A",
+      "DGE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      25
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/badge.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "DGE after short vowel for /j/ (Rule 25)"
+    }
+  },
+  {
+    "word": "FUDGE",
+    "phonogramBreakdown": [
+      "F",
+      "U",
+      "DGE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      25
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/fudge.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "DGE protects short U"
+    }
+  },
+  {
+    "word": "LEDGE",
+    "phonogramBreakdown": [
+      "L",
+      "E",
+      "DGE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      25
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/ledge.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "DGE after short E for /j/ sound"
+    }
+  },
+  {
+    "word": "MATCH",
+    "phonogramBreakdown": [
+      "M",
+      "A",
+      "TCH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      27
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/match.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TCH after short A (Rule 27)"
+    }
+  },
+  {
+    "word": "FETCH",
+    "phonogramBreakdown": [
+      "F",
+      "E",
+      "TCH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      27
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/fetch.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TCH protects short E"
+    }
+  },
+  {
+    "word": "DITCH",
+    "phonogramBreakdown": [
+      "D",
+      "I",
+      "TCH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      27
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/ditch.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TCH after short I"
+    }
+  },
+  {
+    "word": "NOTCH",
+    "phonogramBreakdown": [
+      "N",
+      "O",
+      "TCH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      27
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/notch.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TCH after short O"
+    }
+  },
+  {
+    "word": "CATCH",
+    "phonogramBreakdown": [
+      "C",
+      "A",
+      "TCH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      27
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/catch.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TCH after short A for /ch/"
+    }
+  },
+  {
+    "word": "HOPED",
+    "phonogramBreakdown": [
+      "H",
+      "O",
+      "P",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      13,
+      19
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/hoped.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "hope→hoped: drop E, add -ED (Rule 13)"
+    }
+  },
+  {
+    "word": "BAKED",
+    "phonogramBreakdown": [
+      "B",
+      "A",
+      "K",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      13,
+      19
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/baked.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "bake→baked: E dropped before -ED"
+    }
+  },
+  {
+    "word": "LIKED",
+    "phonogramBreakdown": [
+      "L",
+      "I",
+      "K",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      13,
+      19
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/liked.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "like→liked: drop E, ED says /t/"
+    }
+  },
+  {
+    "word": "BIGGER",
+    "phonogramBreakdown": [
+      "B",
+      "I",
+      "G",
+      "G",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      14
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/bigger.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "big+er: double G before vowel suffix (Rule 14)"
+    }
+  },
+  {
+    "word": "HOPPING",
+    "phonogramBreakdown": [
+      "H",
+      "O",
+      "P",
+      "P",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      14
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/hopping.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "hop+ing: double P keeps O short"
+    }
+  },
+  {
+    "word": "RUNNER",
+    "phonogramBreakdown": [
+      "R",
+      "U",
+      "N",
+      "N",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      14
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/runner.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "run+er: double N before vowel suffix"
+    }
+  },
+  {
+    "word": "SITTING",
+    "phonogramBreakdown": [
+      "S",
+      "I",
+      "T",
+      "T",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      14
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/sitting.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "sit+ing: double T, vowel is short"
+    }
+  },
+  {
+    "word": "WANTED",
+    "phonogramBreakdown": [
+      "W",
+      "A",
+      "N",
+      "T",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      19,
+      20,
+      32
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/wanted.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ED says /ed/ after T — adds syllable (Rule 19)"
+    }
+  },
+  {
+    "word": "PLAYED",
+    "phonogramBreakdown": [
+      "P",
+      "L",
+      "AY",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      19,
+      20
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/played.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ED says /d/ after voiced sound"
+    }
+  },
+  {
+    "word": "JUMPED",
+    "phonogramBreakdown": [
+      "J",
+      "U",
+      "M",
+      "P",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      19,
+      20
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/jumped.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ED says /t/ after unvoiced P"
+    }
+  },
+  {
+    "word": "NEEDED",
+    "phonogramBreakdown": [
+      "N",
+      "EE",
+      "D",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      19,
+      20
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/needed.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ED says /ed/ after D — adds syllable"
+    }
+  },
+  {
+    "word": "CALLED",
+    "phonogramBreakdown": [
+      "C",
+      "A",
+      "LL",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      19,
+      20,
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/called.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ED says /d/ after voiced L; LL in one-syllable word"
+    }
+  },
+  {
+    "word": "FOXES",
+    "phonogramBreakdown": [
+      "F",
+      "O",
+      "X",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      21
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/foxes.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Add -ES after X (/ks/ is hissing) (Rule 21)"
+    }
+  },
+  {
+    "word": "BOXES",
+    "phonogramBreakdown": [
+      "B",
+      "O",
+      "X",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      21
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/boxes.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ES after hissing /ks/ sound"
+    }
+  },
+  {
+    "word": "DISHES",
+    "phonogramBreakdown": [
+      "D",
+      "I",
+      "SH",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      21
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/dishes.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ES after SH (hissing sound)"
+    }
+  },
+  {
+    "word": "CLIFF",
+    "phonogramBreakdown": [
+      "C",
+      "L",
+      "I",
+      "FF"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/cliff.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "FF after short vowel, one syllable (Rule 30)"
+    }
+  },
+  {
+    "word": "GRASS",
+    "phonogramBreakdown": [
+      "G",
+      "R",
+      "A",
+      "SS"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/grass.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SS after short A in one-syllable word"
+    }
+  },
+  {
+    "word": "SPELL",
+    "phonogramBreakdown": [
+      "S",
+      "P",
+      "E",
+      "LL"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/spell.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "LL after short E in one-syllable word"
+    }
+  },
+  {
+    "word": "STUFF",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "U",
+      "FF"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/stuff.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "FF after short U"
+    }
+  },
+  {
+    "word": "DRESS",
+    "phonogramBreakdown": [
+      "D",
+      "R",
+      "E",
+      "SS"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/dress.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SS after short E"
+    }
+  },
+  {
+    "word": "STIFF",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "I",
+      "FF"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      30
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/stiff.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "FF after short I"
+    }
+  },
+  {
+    "word": "NIGHT",
+    "phonogramBreakdown": [
+      "N",
+      "IGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/night.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IGH — three letters, one sound /eye/ (Rule 28)"
+    }
+  },
+  {
+    "word": "LIGHT",
+    "phonogramBreakdown": [
+      "L",
+      "IGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/light.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IGH with GH silent"
+    }
+  },
+  {
+    "word": "SIGHT",
+    "phonogramBreakdown": [
+      "S",
+      "IGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/sight.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IGH says /eye/"
+    }
+  },
+  {
+    "word": "FIGHT",
+    "phonogramBreakdown": [
+      "F",
+      "IGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/fight.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IGH — the GH is silent"
+    }
+  },
+  {
+    "word": "SHOUT",
+    "phonogramBreakdown": [
+      "SH",
+      "OU",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/shout.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OU says /ow/ in the middle"
+    }
+  },
+  {
+    "word": "POINT",
+    "phonogramBreakdown": [
+      "P",
+      "OI",
+      "N",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      10
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/point.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OI in middle of word (Rule 10)"
+    }
+  },
+  {
+    "word": "TRAIN",
+    "phonogramBreakdown": [
+      "T",
+      "R",
+      "AI",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      9
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/train.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AI in middle of word (Rule 9)"
+    }
+  },
+  {
+    "word": "FLOAT",
+    "phonogramBreakdown": [
+      "F",
+      "L",
+      "OA",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/float.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OA vowel team — long O"
+    }
+  },
+  {
+    "word": "CREAM",
+    "phonogramBreakdown": [
+      "C",
+      "R",
+      "EA",
+      "M"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      11
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/cream.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EA vowel team — long E"
+    }
+  },
+  {
+    "word": "HAUNT",
+    "phonogramBreakdown": [
+      "H",
+      "AU",
+      "N",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/haunt.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AU vowel team says /aw/"
+    }
+  },
+  {
+    "word": "BLUE",
+    "phonogramBreakdown": [
+      "B",
+      "L",
+      "UE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/blue.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UE vowel team — E guards U (Rule 3/12.2)"
+    }
+  },
+  {
+    "word": "FRUIT",
+    "phonogramBreakdown": [
+      "F",
+      "R",
+      "UI",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/fruit.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UI vowel team says /oo/"
+    }
+  },
+  {
+    "word": "GHOST",
+    "phonogramBreakdown": [
+      "GH",
+      "O",
+      "S",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      5
+    ],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/ghost.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "GH says /g/ at start; O long before ST"
+    }
+  },
+  {
+    "word": "STIR",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "IR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 2,
+    "frequency": 0,
+    "gradeLevel": 2,
+    "audioFile": "words/stir.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IR R-controlled vowel — same as ER/UR"
+    }
+  },
+  {
+    "word": "ALREADY",
+    "phonogramBreakdown": [
+      "A",
+      "L",
+      "R",
+      "EA",
+      "D",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      23,
+      7
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/already.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ALL→AL as prefix, drops one L (Rule 23)"
+    }
+  },
+  {
+    "word": "ALWAYS",
+    "phonogramBreakdown": [
+      "A",
+      "L",
+      "W",
+      "AY",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      23
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/always.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "ALL→AL prefix + AY vowel team"
+    }
+  },
+  {
+    "word": "ALMOST",
+    "phonogramBreakdown": [
+      "A",
+      "L",
+      "M",
+      "O",
+      "S",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      23,
+      5
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/almost.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AL- prefix; O before ST may say long /oh/"
+    }
+  },
+  {
+    "word": "ALTHOUGH",
+    "phonogramBreakdown": [
+      "A",
+      "L",
+      "TH",
+      "OUGH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      23,
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/although.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AL- prefix + OUGH says /oh/"
+    }
+  },
+  {
+    "word": "ALTOGETHER",
+    "phonogramBreakdown": [
+      "A",
+      "L",
+      "T",
+      "O",
+      "G",
+      "E",
+      "TH",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      23
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/altogether.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AL- from ALL + together"
+    }
+  },
+  {
+    "word": "CAREFUL",
+    "phonogramBreakdown": [
+      "C",
+      "AR",
+      "E",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      24
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/careful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "FULL→-FUL as suffix, drops one L (Rule 24)"
+    }
+  },
+  {
+    "word": "HOPEFUL",
+    "phonogramBreakdown": [
+      "H",
+      "O",
+      "P",
+      "E",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      24,
+      12
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/hopeful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-FUL suffix; keep silent E before consonant suffix"
+    }
+  },
+  {
+    "word": "PLAYFUL",
+    "phonogramBreakdown": [
+      "P",
+      "L",
+      "AY",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      24
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/playful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-FUL drops one L from FULL"
+    }
+  },
+  {
+    "word": "TRUTHFUL",
+    "phonogramBreakdown": [
+      "T",
+      "R",
+      "U",
+      "TH",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      24
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/truthful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "truth + -FUL; TH consonant team"
+    }
+  },
+  {
+    "word": "THANKFUL",
+    "phonogramBreakdown": [
+      "TH",
+      "A",
+      "NK",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      24
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/thankful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "NK team + -FUL suffix"
+    }
+  },
+  {
+    "word": "HAPPIER",
+    "phonogramBreakdown": [
+      "H",
+      "A",
+      "PP",
+      "I",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/happier.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "happy→happier: Y changes to I (Rule 15)"
+    }
+  },
+  {
+    "word": "CARRIED",
+    "phonogramBreakdown": [
+      "C",
+      "AR",
+      "R",
+      "IE",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15,
+      19
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/carried.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "carry→carried: Y→I before -ED"
+    }
+  },
+  {
+    "word": "CRIED",
+    "phonogramBreakdown": [
+      "C",
+      "R",
+      "IE",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15,
+      19
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/cried.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "cry→cried: Y→I before -ED"
+    }
+  },
+  {
+    "word": "STUDIED",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "U",
+      "D",
+      "IE",
+      "D"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15,
+      19
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/studied.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "study→studied: Y→I + ED suffix"
+    }
+  },
+  {
+    "word": "HAPPILY",
+    "phonogramBreakdown": [
+      "H",
+      "A",
+      "PP",
+      "I",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/happily.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "happy→happily: Y→I before -LY"
+    }
+  },
+  {
+    "word": "EASIEST",
+    "phonogramBreakdown": [
+      "EA",
+      "S",
+      "I",
+      "E",
+      "S",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/easiest.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "easy→easiest: Y changes to I before -EST"
+    }
+  },
+  {
+    "word": "STAYING",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "AY",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      16
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/staying.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "stay+ing: AY keeps Y (not single vowel Y, Rule 16)"
+    }
+  },
+  {
+    "word": "BRIDGES",
+    "phonogramBreakdown": [
+      "B",
+      "R",
+      "I",
+      "DGE",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      25,
+      21
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/bridges.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "DGE after short I + -ES plural"
+    }
+  },
+  {
+    "word": "JUDGING",
+    "phonogramBreakdown": [
+      "J",
+      "U",
+      "DGE",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      25,
+      13
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/judging.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "judge→judging: DGE, drop E before -ING"
+    }
+  },
+  {
+    "word": "THOUGHT",
+    "phonogramBreakdown": [
+      "TH",
+      "OUGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/thought.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OUGH says /aw/ here (Rule 28)"
+    }
+  },
+  {
+    "word": "BROUGHT",
+    "phonogramBreakdown": [
+      "B",
+      "R",
+      "OUGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/brought.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OUGH says /aw/ — six possible sounds"
+    }
+  },
+  {
+    "word": "THROUGH",
+    "phonogramBreakdown": [
+      "TH",
+      "R",
+      "OUGH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/through.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OUGH says /oo/ here"
+    }
+  },
+  {
+    "word": "DAUGHTER",
+    "phonogramBreakdown": [
+      "D",
+      "AUGH",
+      "T",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/daughter.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AUGH says /aw/ (Rule 28)"
+    }
+  },
+  {
+    "word": "CAUGHT",
+    "phonogramBreakdown": [
+      "C",
+      "AUGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/caught.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AUGH — four letters for /aw/ sound"
+    }
+  },
+  {
+    "word": "NAUGHTY",
+    "phonogramBreakdown": [
+      "N",
+      "AUGH",
+      "T",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28,
+      7
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/naughty.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AUGH combo + Y says /ee/ (multi-syllable)"
+    }
+  },
+  {
+    "word": "FREIGHT",
+    "phonogramBreakdown": [
+      "F",
+      "R",
+      "EIGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/freight.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EIGH says /ay/ (Rule 28)"
+    }
+  },
+  {
+    "word": "WEIGHED",
+    "phonogramBreakdown": [
+      "W",
+      "EIGH",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28,
+      19
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/weighed.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EIGH says /ay/; ED says /d/"
+    }
+  },
+  {
+    "word": "BRIGHTER",
+    "phonogramBreakdown": [
+      "B",
+      "R",
+      "IGH",
+      "T",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/brighter.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IGH says /eye/ + -ER suffix"
+    }
+  },
+  {
+    "word": "MIDNIGHT",
+    "phonogramBreakdown": [
+      "M",
+      "I",
+      "D",
+      "N",
+      "IGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/midnight.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Compound word with IGH"
+    }
+  },
+  {
+    "word": "ZIGZAG",
+    "phonogramBreakdown": [
+      "Z",
+      "I",
+      "G",
+      "Z",
+      "A",
+      "G"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      29
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/zigzag.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "/z/ at start spelled with Z (Rule 29)"
+    }
+  },
+  {
+    "word": "ZEPHYR",
+    "phonogramBreakdown": [
+      "Z",
+      "E",
+      "PH",
+      "Y",
+      "R"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      29
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/zephyr.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Z starts the word; PH says /f/"
+    }
+  },
+  {
+    "word": "NATION",
+    "phonogramBreakdown": [
+      "N",
+      "A",
+      "TI",
+      "O",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/nation.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TI says /sh/ at start of suffix (Rule 17)"
+    }
+  },
+  {
+    "word": "ACTION",
+    "phonogramBreakdown": [
+      "A",
+      "C",
+      "TI",
+      "O",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/action.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TI says /sh/ in -TION"
+    }
+  },
+  {
+    "word": "SPECIAL",
+    "phonogramBreakdown": [
+      "S",
+      "P",
+      "E",
+      "CI",
+      "A",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/special.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CI says /sh/ at start of suffix (Rule 17)"
+    }
+  },
+  {
+    "word": "SOCIAL",
+    "phonogramBreakdown": [
+      "S",
+      "O",
+      "CI",
+      "A",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/social.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CI says /sh/ in -CIAL"
+    }
+  },
+  {
+    "word": "SESSION",
+    "phonogramBreakdown": [
+      "S",
+      "E",
+      "SS",
+      "I",
+      "O",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/session.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SI says /sh/ — double S before suffix"
+    }
+  },
+  {
+    "word": "TENSION",
+    "phonogramBreakdown": [
+      "T",
+      "E",
+      "N",
+      "SI",
+      "O",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/tension.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SI says /sh/ in -SION"
+    }
+  },
+  {
+    "word": "VISION",
+    "phonogramBreakdown": [
+      "V",
+      "I",
+      "SI",
+      "O",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/vision.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SI says /zh/ here — voiced version"
+    }
+  },
+  {
+    "word": "KNIGHT",
+    "phonogramBreakdown": [
+      "KN",
+      "IGH",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33,
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/knight.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "K silent in KN + IGH says /eye/"
+    }
+  },
+  {
+    "word": "WRINKLE",
+    "phonogramBreakdown": [
+      "WR",
+      "I",
+      "NK",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33,
+      12
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/wrinkle.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "W silent in WR; NK says /ngk/"
+    }
+  },
+  {
+    "word": "CRUMBLE",
+    "phonogramBreakdown": [
+      "C",
+      "R",
+      "U",
+      "M",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      12
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/crumble.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Consonant-LE ending (Rule 12.4)"
+    }
+  },
+  {
+    "word": "WATCHES",
+    "phonogramBreakdown": [
+      "W",
+      "A",
+      "TCH",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      22,
+      27
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/watches.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ES after TCH (hissing sound) (Rule 22)"
+    }
+  },
+  {
+    "word": "TEACHES",
+    "phonogramBreakdown": [
+      "T",
+      "EA",
+      "CH",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      22
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/teaches.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ES after CH (hissing /ch/ sound)"
+    }
+  },
+  {
+    "word": "BRUSHES",
+    "phonogramBreakdown": [
+      "B",
+      "R",
+      "U",
+      "SH",
+      "E",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      22
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/brushes.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ES after SH (hissing sound)"
+    }
+  },
+  {
+    "word": "TRACKER",
+    "phonogramBreakdown": [
+      "T",
+      "R",
+      "A",
+      "CK",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      26
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/tracker.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CK after short A; -ER suffix"
+    }
+  },
+  {
+    "word": "SKETCHED",
+    "phonogramBreakdown": [
+      "S",
+      "K",
+      "E",
+      "TCH",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      27,
+      19
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/sketched.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "TCH + ED says /t/ (unvoiced)"
+    }
+  },
+  {
+    "word": "QUICKLY",
+    "phonogramBreakdown": [
+      "QU",
+      "I",
+      "CK",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      26,
+      7
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/quickly.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "QU team + CK after short I + Y says /ee/"
+    }
+  },
+  {
+    "word": "ENJOYED",
+    "phonogramBreakdown": [
+      "E",
+      "N",
+      "J",
+      "OY",
+      "ED"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      10,
+      19
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/enjoyed.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OY at end of base; ED says /d/"
+    }
+  },
+  {
+    "word": "DRAWING",
+    "phonogramBreakdown": [
+      "D",
+      "R",
+      "AW",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/drawing.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AW vowel team + -ING suffix"
+    }
+  },
+  {
+    "word": "CHEWING",
+    "phonogramBreakdown": [
+      "CH",
+      "EW",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/chewing.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CH team + EW vowel team"
+    }
+  },
+  {
+    "word": "RESCUE",
+    "phonogramBreakdown": [
+      "R",
+      "E",
+      "S",
+      "C",
+      "UE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/rescue.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UE — E guards U at end of word"
+    }
+  },
+  {
+    "word": "CONTINUE",
+    "phonogramBreakdown": [
+      "C",
+      "O",
+      "N",
+      "T",
+      "I",
+      "N",
+      "UE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      3,
+      12
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/continue.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UE guards U — English words don't end in U"
+    }
+  },
+  {
+    "word": "BUILDING",
+    "phonogramBreakdown": [
+      "B",
+      "UI",
+      "L",
+      "D",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/building.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UI vowel team says /i/ here"
+    }
+  },
+  {
+    "word": "JUICE",
+    "phonogramBreakdown": [
+      "J",
+      "UI",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/juice.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UI vowel team says /oo/"
+    }
+  },
+  {
+    "word": "TURNIP",
+    "phonogramBreakdown": [
+      "T",
+      "UR",
+      "N",
+      "I",
+      "P"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/turnip.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "UR R-controlled + simple consonants"
+    }
+  },
+  {
+    "word": "STIRRING",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "IR",
+      "R",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      14
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/stirring.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IR + double R before vowel suffix (Rule 14)"
+    }
+  },
+  {
+    "word": "SIGNING",
+    "phonogramBreakdown": [
+      "S",
+      "IGN",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/signing.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "GN — G silent; I says long /eye/ (Rule 33)"
+    }
+  },
+  {
+    "word": "GNAWING",
+    "phonogramBreakdown": [
+      "GN",
+      "AW",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/gnawing.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "GN team — G is silent before N"
+    }
+  },
+  {
+    "word": "SLEIGH",
+    "phonogramBreakdown": [
+      "S",
+      "L",
+      "EIGH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/sleigh.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EIGH says /ay/ — four letters, one sound"
+    }
+  },
+  {
+    "word": "DONKEY",
+    "phonogramBreakdown": [
+      "D",
+      "O",
+      "NK",
+      "EY"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 3,
+    "frequency": 0,
+    "gradeLevel": 3,
+    "audioFile": "words/donkey.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "NK says /ngk/; EY says /ee/"
+    }
+  },
+  {
+    "word": "BALLOON",
+    "phonogramBreakdown": [
+      "B",
+      "A",
+      "LL",
+      "OO",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31,
+      30
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/balloon.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "First A is schwa in unstressed syllable (Rule 31.1)"
+    }
+  },
+  {
+    "word": "CAPTAIN",
+    "phonogramBreakdown": [
+      "C",
+      "A",
+      "P",
+      "T",
+      "AI",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/captain.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Second A is schwa — sounds like /uh/"
+    }
+  },
+  {
+    "word": "ELEPHANT",
+    "phonogramBreakdown": [
+      "E",
+      "L",
+      "E",
+      "PH",
+      "A",
+      "N",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/elephant.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "PH says /f/; second E is schwa"
+    }
+  },
+  {
+    "word": "BANANA",
+    "phonogramBreakdown": [
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/banana.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "First and third A are schwa"
+    }
+  },
+  {
+    "word": "PENCIL",
+    "phonogramBreakdown": [
+      "P",
+      "E",
+      "N",
+      "C",
+      "I",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/pencil.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "I in second syllable becomes schwa"
+    }
+  },
+  {
+    "word": "MOTHER",
+    "phonogramBreakdown": [
+      "M",
+      "O",
+      "TH",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/mother.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O says /uh/ near TH (Rule 31.2)"
+    }
+  },
+  {
+    "word": "BROTHER",
+    "phonogramBreakdown": [
+      "B",
+      "R",
+      "O",
+      "TH",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/brother.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O says /uh/ near TH"
+    }
+  },
+  {
+    "word": "NOTHING",
+    "phonogramBreakdown": [
+      "N",
+      "O",
+      "TH",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/nothing.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O says /uh/ near TH — not short O"
+    }
+  },
+  {
+    "word": "MONKEY",
+    "phonogramBreakdown": [
+      "M",
+      "O",
+      "NK",
+      "EY"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/monkey.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O says /uh/ near M/N; EY says /ee/"
+    }
+  },
+  {
+    "word": "WONDER",
+    "phonogramBreakdown": [
+      "W",
+      "O",
+      "N",
+      "D",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/wonder.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "O says /uh/ near N"
+    }
+  },
+  {
+    "word": "DOLLAR",
+    "phonogramBreakdown": [
+      "D",
+      "O",
+      "LL",
+      "AR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/dollar.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AR says /er/ in unstressed syllable (Rule 31.3)"
+    }
+  },
+  {
+    "word": "DOCTOR",
+    "phonogramBreakdown": [
+      "D",
+      "O",
+      "C",
+      "T",
+      "OR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/doctor.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OR says /er/ in unstressed syllable"
+    }
+  },
+  {
+    "word": "GRAMMAR",
+    "phonogramBreakdown": [
+      "G",
+      "R",
+      "A",
+      "MM",
+      "AR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/grammar.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "AR sounds like /er/ — unstressed"
+    }
+  },
+  {
+    "word": "CALENDAR",
+    "phonogramBreakdown": [
+      "C",
+      "A",
+      "L",
+      "E",
+      "N",
+      "D",
+      "AR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      31
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/calendar.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Final AR is schwa-like /er/"
+    }
+  },
+  {
+    "word": "WANDER",
+    "phonogramBreakdown": [
+      "W",
+      "A",
+      "N",
+      "D",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      32
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/wander.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "W changes A to /ah/ sound (Rule 32)"
+    }
+  },
+  {
+    "word": "SWALLOW",
+    "phonogramBreakdown": [
+      "S",
+      "W",
+      "A",
+      "LL",
+      "OW"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      32,
+      30
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/swallow.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "W warps A to /ah/; LL after short vowel"
+    }
+  },
+  {
+    "word": "WARRANT",
+    "phonogramBreakdown": [
+      "W",
+      "AR",
+      "R",
+      "A",
+      "N",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      32
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/warrant.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "W changes the vowel after it"
+    }
+  },
+  {
+    "word": "WARNING",
+    "phonogramBreakdown": [
+      "W",
+      "AR",
+      "N",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      32
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/warning.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "W + AR — W influences the vowel"
+    }
+  },
+  {
+    "word": "KNOWLEDGE",
+    "phonogramBreakdown": [
+      "KN",
+      "O",
+      "W",
+      "L",
+      "E",
+      "DGE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33,
+      25
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/knowledge.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent K in KN + DGE for /j/ (Rule 33/25)"
+    }
+  },
+  {
+    "word": "WRECKAGE",
+    "phonogramBreakdown": [
+      "WR",
+      "E",
+      "CK",
+      "A",
+      "G",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33,
+      26,
+      12
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/wreckage.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent W in WR + CK after short vowel"
+    }
+  },
+  {
+    "word": "CLIMBING",
+    "phonogramBreakdown": [
+      "C",
+      "L",
+      "I",
+      "M",
+      "B",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33,
+      5
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/climbing.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent B in MB; I before MB says long /eye/"
+    }
+  },
+  {
+    "word": "PLUMBER",
+    "phonogramBreakdown": [
+      "P",
+      "L",
+      "U",
+      "M",
+      "B",
+      "ER"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/plumber.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent B after M in MB family"
+    }
+  },
+  {
+    "word": "WALKING",
+    "phonogramBreakdown": [
+      "W",
+      "A",
+      "L",
+      "K",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/walking.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent L in LK family"
+    }
+  },
+  {
+    "word": "AUTUMN",
+    "phonogramBreakdown": [
+      "AU",
+      "T",
+      "U",
+      "M",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/autumn.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent N in MN family; AU says /aw/"
+    }
+  },
+  {
+    "word": "COLUMNS",
+    "phonogramBreakdown": [
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/columns.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent N after M in MN family"
+    }
+  },
+  {
+    "word": "READABLE",
+    "phonogramBreakdown": [
+      "R",
+      "EA",
+      "D",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/readable.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ABLE because 'read' is a standalone word (Rule 34)"
+    }
+  },
+  {
+    "word": "WASHABLE",
+    "phonogramBreakdown": [
+      "W",
+      "A",
+      "SH",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/washable.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ABLE: 'wash' can stand alone"
+    }
+  },
+  {
+    "word": "ENJOYABLE",
+    "phonogramBreakdown": [
+      "E",
+      "N",
+      "J",
+      "OY",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      34,
+      10
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/enjoyable.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ABLE: 'enjoy' is complete; OY at base end"
+    }
+  },
+  {
+    "word": "TERRIBLE",
+    "phonogramBreakdown": [
+      "T",
+      "ER",
+      "R",
+      "I",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/terrible.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-IBLE: 'terr-' is not a standalone word"
+    }
+  },
+  {
+    "word": "POSSIBLE",
+    "phonogramBreakdown": [
+      "P",
+      "O",
+      "SS",
+      "I",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/possible.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-IBLE: 'poss-' is not a word alone"
+    }
+  },
+  {
+    "word": "DISTANCE",
+    "phonogramBreakdown": [
+      "D",
+      "I",
+      "S",
+      "T",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      35
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/distance.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ANCE suffix pattern (Rule 35)"
+    }
+  },
+  {
+    "word": "PATIENCE",
+    "phonogramBreakdown": [
+      "P",
+      "A",
+      "TI",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      35,
+      17
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/patience.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ENCE pattern; TI says /sh/"
+    }
+  },
+  {
+    "word": "EVIDENCE",
+    "phonogramBreakdown": [
+      "E",
+      "V",
+      "I",
+      "D",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      35
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/evidence.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ENCE suffix pattern"
+    }
+  },
+  {
+    "word": "IMPORTANCE",
+    "phonogramBreakdown": [
+      "I",
+      "M",
+      "P",
+      "OR",
+      "T",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      35
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/importance.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "-ANCE pattern with R-controlled OR"
+    }
+  },
+  {
+    "word": "BELIEVE",
+    "phonogramBreakdown": [
+      "B",
+      "E",
+      "L",
+      "IE",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      36,
+      3
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/believe.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "I before E — standard pattern (Rule 36)"
+    }
+  },
+  {
+    "word": "ACHIEVE",
+    "phonogramBreakdown": [
+      "A",
+      "CH",
+      "IE",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      36,
+      3
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/achieve.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "I before E; E guards V"
+    }
+  },
+  {
+    "word": "CEILING",
+    "phonogramBreakdown": [
+      "C",
+      "EI",
+      "L",
+      "I",
+      "NG"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      36,
+      1
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/ceiling.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E before I after C (Rule 36 exception)"
+    }
+  },
+  {
+    "word": "RECEIVE",
+    "phonogramBreakdown": [
+      "R",
+      "E",
+      "C",
+      "EI",
+      "V",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      36,
+      1,
+      3
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/receive.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "E before I after C; E guards V"
+    }
+  },
+  {
+    "word": "NEIGHBOR",
+    "phonogramBreakdown": [
+      "N",
+      "EIGH",
+      "B",
+      "OR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      36,
+      28
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/neighbor.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EI when sounding like A (/ay/)"
+    }
+  },
+  {
+    "word": "IMPOSSIBLE",
+    "phonogramBreakdown": [
+      "I",
+      "M",
+      "P",
+      "O",
+      "SS",
+      "I",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      37,
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/impossible.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IN→IM before P — assimilation (Rule 37)"
+    }
+  },
+  {
+    "word": "ILLEGAL",
+    "phonogramBreakdown": [
+      "I",
+      "LL",
+      "E",
+      "G",
+      "A",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      37
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/illegal.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IN→IL before L — prefix assimilation"
+    }
+  },
+  {
+    "word": "IRREGULAR",
+    "phonogramBreakdown": [
+      "I",
+      "R",
+      "R",
+      "E",
+      "G",
+      "U",
+      "L",
+      "AR"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      37
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/irregular.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IN→IR before R — assimilation"
+    }
+  },
+  {
+    "word": "IMMATURE",
+    "phonogramBreakdown": [
+      "I",
+      "M",
+      "M",
+      "A",
+      "T",
+      "URE"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      37
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/immature.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "IN→IM before M — double M explained"
+    }
+  },
+  {
+    "word": "BRAVELY",
+    "phonogramBreakdown": [
+      "B",
+      "R",
+      "A",
+      "V",
+      "E",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      38,
+      3
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/bravely.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Just add -LY to brave (Rule 38)"
+    }
+  },
+  {
+    "word": "GENTLY",
+    "phonogramBreakdown": [
+      "G",
+      "E",
+      "N",
+      "T",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      38,
+      2
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/gently.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "gentle→gently: drop LE, add -LY"
+    }
+  },
+  {
+    "word": "HAPPILY",
+    "phonogramBreakdown": [
+      "H",
+      "A",
+      "PP",
+      "I",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      38,
+      15
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/happily.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "happy→happily: Y→I then add -LY"
+    }
+  },
+  {
+    "word": "POSSIBLY",
+    "phonogramBreakdown": [
+      "P",
+      "O",
+      "SS",
+      "I",
+      "B",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      38,
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/possibly.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "possible→possibly: drop E, add -Y"
+    }
+  },
+  {
+    "word": "TRULY",
+    "phonogramBreakdown": [
+      "T",
+      "R",
+      "U",
+      "L",
+      "Y"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      38
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/truly.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "true→truly: drop E before -LY (exception)"
+    }
+  },
+  {
+    "word": "SCIENCE",
+    "phonogramBreakdown": [
+      "SCI",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      18
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/science.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SCI says /sh/ — rare phonogram (Rule 18)"
+    }
+  },
+  {
+    "word": "CONSCIOUS",
+    "phonogramBreakdown": [
+      "C",
+      "O",
+      "N",
+      "SCI",
+      "OU",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      18
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/conscious.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "SCI says /sh/ + OU vowel team"
+    }
+  },
+  {
+    "word": "NOTICEABLE",
+    "phonogramBreakdown": [
+      "N",
+      "O",
+      "T",
+      "I",
+      "C",
+      "E",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      1,
+      12,
+      13,
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/noticeable.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Keep E after C before -ABLE (soft C protection)"
+    }
+  },
+  {
+    "word": "BEAUTIFUL",
+    "phonogramBreakdown": [
+      "B",
+      "EAU",
+      "T",
+      "I",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      15,
+      24
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/beautiful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "beauty→beautiful: Y→I + -FUL suffix"
+    }
+  },
+  {
+    "word": "KNOWLEDGEABLE",
+    "phonogramBreakdown": [
+      "KN",
+      "O",
+      "W",
+      "L",
+      "E",
+      "DGE",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      33,
+      25,
+      34
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/knowledgeable.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "Silent K + DGE + -ABLE: triple rule word"
+    }
+  },
+  {
+    "word": "THROUGHOUT",
+    "phonogramBreakdown": [
+      "TH",
+      "R",
+      "OUGH",
+      "OU",
+      "T"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/throughout.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OUGH says /oo/ + OU says /ow/ in one word"
+    }
+  },
+  {
+    "word": "STRENGTHEN",
+    "phonogramBreakdown": [
+      "S",
+      "T",
+      "R",
+      "E",
+      "NG",
+      "TH",
+      "E",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/strengthen.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "NG team + TH team in one word"
+    }
+  },
+  {
+    "word": "PHOTOGRAPH",
+    "phonogramBreakdown": [
+      "PH",
+      "O",
+      "T",
+      "O",
+      "G",
+      "R",
+      "A",
+      "PH"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/photograph.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "PH appears twice — both say /f/"
+    }
+  },
+  {
+    "word": "QUESTION",
+    "phonogramBreakdown": [
+      "QU",
+      "E",
+      "S",
+      "TI",
+      "O",
+      "N"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      17
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/question.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "QU + TI says /sh/ — two special phonograms"
+    }
+  },
+  {
+    "word": "VEINS",
+    "phonogramBreakdown": [
+      "V",
+      "EI",
+      "N",
+      "S"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      36
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/veins.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "EI vowel team says /ay/ — Rule 36 pattern"
+    }
+  },
+  {
+    "word": "TECHNIQUE",
+    "phonogramBreakdown": [
+      "T",
+      "E",
+      "CH",
+      "N",
+      "I",
+      "QU",
+      "E"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/technique.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "CH says /k/ (Greek origin); QU team"
+    }
+  },
+  {
+    "word": "THOUGHTFUL",
+    "phonogramBreakdown": [
+      "TH",
+      "OUGH",
+      "T",
+      "F",
+      "U",
+      "L"
+    ],
+    "soundBreakdown": [],
+    "ruleNumbers": [
+      28,
+      24
+    ],
+    "difficulty": 4,
+    "frequency": 0,
+    "gradeLevel": 4,
+    "audioFile": "words/thoughtful.ogg",
+    "emoji": "",
+    "meanings": {},
+    "sentences": {},
+    "spellingNotes": {
+      "hint": "OUGH says /aw/ + -FUL suffix (Rule 28/24)"
+    }
+  }
+]

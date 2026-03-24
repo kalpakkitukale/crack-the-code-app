@@ -1,0 +1,1618 @@
+[
+  {
+    "ruleNum": 1,
+    "category": "Consonant Rules",
+    "title": "ZERO exceptions! C before E, I, Y = always /s/.",
+    "shortDescription": "C says /s/ before E, I, or Y.",
+    "fullExplanation": "C says /s/ before E, I, or Y. Otherwise, C says /k/.",
+    "examples": [
+      {
+        "word": "CITY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CEILING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CYCLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CANCEL",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "cent (C before E = /s/)",
+      "citizen (C before I = /s/)",
+      "icy (C before Y = /s/)",
+      "ceiling (C before E = /s/)"
+    ],
+    "noWords": [
+      "cat (C before A = /k/)",
+      "cup (C before U = /k/)",
+      "clap (C before L = /k/)",
+      "music (C at end = /k/)"
+    ],
+    "relatedPhonogramIds": [
+      "C"
+    ]
+  },
+  {
+    "ruleNum": 2,
+    "category": "Consonant Rules",
+    "title": "G TENDS to soften before E, I, Y — but has exceptions unlike C.",
+    "shortDescription": "G may soften to /j/ before E, I, or Y.",
+    "fullExplanation": "G may soften to /j/ before E, I, or Y. Otherwise, G always says /g/.",
+    "examples": [
+      {
+        "word": "GIRAFFE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GENERATE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GYMNASIUM",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GORGE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "gentle (G before E = /j/)",
+      "giant (G before I = /j/)",
+      "gym (G before Y = /j/)",
+      "emergency (G before E = /j/)"
+    ],
+    "noWords": [
+      "get (G before E but stays /g/)",
+      "gift (G before I but stays /g/)",
+      "girl (G before I but stays /g/)",
+      "give (G before I but stays /g/)"
+    ],
+    "relatedPhonogramIds": [
+      "G"
+    ]
+  },
+  {
+    "ruleNum": 3,
+    "category": "Consonant Rules",
+    "title": "I, U, V, J never fly solo at the end — they always bring a friend.",
+    "shortDescription": "English words do not end",
+    "fullExplanation": "English words do not end in I, U, V, or J. A companion letter is added.",
+    "examples": [
+      {
+        "word": "BLUE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GIVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FLY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BRIDGE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "true (U needs E → UE)",
+      "have (V needs E → VE)",
+      "dry (I becomes Y)",
+      "judge (J becomes DGE)"
+    ],
+    "noWords": [
+      "ski (borrowed word)",
+      "tofu (borrowed word)",
+      "menu (borrowed from French)",
+      "guru (borrowed from Hindi)"
+    ],
+    "relatedPhonogramIds": [
+      "I",
+      "U",
+      "V",
+      "J"
+    ]
+  },
+  {
+    "ruleNum": 4,
+    "category": "Consonant Rules",
+    "title": "One vowel + end of word? S gets a buddy — double it to SS.",
+    "shortDescription": "After a single vowel, a base word",
+    "fullExplanation": "After a single vowel, a base word does not end in S alone. It doubles to SS.",
+    "examples": [
+      {
+        "word": "MISS",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BOSS",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FUSS",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "DRESS",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "bliss (single I, then SS)",
+      "cross (single O, then SS)",
+      "bless (single E, then SS)",
+      "floss (single O, then SS)"
+    ],
+    "noWords": [
+      "bus (common exception)",
+      "gas (common exception)",
+      "yes (common exception)",
+      "this (common exception)"
+    ],
+    "relatedPhonogramIds": [
+      "S",
+      "SS"
+    ]
+  },
+  {
+    "ruleNum": 5,
+    "category": "Consonant Rules",
+    "title": "Short vowel + F, L, S, or Z at the end? Double it up: FF, LL, SS, ZZ.",
+    "shortDescription": "In a one-syllable word, after a",
+    "fullExplanation": "In a one-syllable word, after a single short vowel, final /f/, /l/, /s/, or /z/ is doubled.",
+    "examples": [
+      {
+        "word": "STAFF",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BELL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BUZZ",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "SKILL",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "bluff (short U → double FF)",
+      "doll (short O → double LL)",
+      "miss (short I → double SS)",
+      "jazz (short A → double ZZ)"
+    ],
+    "noWords": [
+      "chef (borrowed from French)",
+      "if (function word)",
+      "pal (common exception)",
+      "quiz (exception — Z not doubled)"
+    ],
+    "relatedPhonogramIds": [
+      "FF",
+      "LL",
+      "SS",
+      "ZZ"
+    ]
+  },
+  {
+    "ruleNum": 6,
+    "category": "Consonant Rules",
+    "title": "Short vowel needs a shield? CK is the bodyguard for /k/.",
+    "shortDescription": "CK is used right after a single",
+    "fullExplanation": "CK is used right after a single short vowel at the end of a one-syllable word.",
+    "examples": [
+      {
+        "word": "BACK",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "NECK",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TRICK",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CLOCK",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "stuck (short U → CK)",
+      "brick (short I → CK)",
+      "black (short A → CK)",
+      "pocket (short O → CK in stressed syllable)"
+    ],
+    "noWords": [
+      "bake (long A → just K with E)",
+      "creek (two vowels → just K)",
+      "milk (consonant before → just K)",
+      "stoke (long O → just K with E)"
+    ],
+    "relatedPhonogramIds": [
+      "CK",
+      "C",
+      "K"
+    ]
+  },
+  {
+    "ruleNum": 7,
+    "category": "Consonant Rules",
+    "title": "Short vowel before /ch/? Add a T shield: TCH.",
+    "shortDescription": "TCH is used right after a single",
+    "fullExplanation": "TCH is used right after a single short vowel.",
+    "examples": [
+      {
+        "word": "MATCH",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FETCH",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "STITCH",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CLUTCH",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "catch (short A → TCH)",
+      "kitchen (short I → TCH)",
+      "notch (short O → TCH)",
+      "hatchet (short A → TCH)"
+    ],
+    "noWords": [
+      "such (exception — no T)",
+      "much (exception — no T)",
+      "rich (exception — no T)",
+      "which (exception — no T)"
+    ],
+    "relatedPhonogramIds": [
+      "TCH",
+      "CH"
+    ]
+  },
+  {
+    "ruleNum": 8,
+    "category": "Consonant Rules",
+    "title": "Short vowel before /j/? Add a D shield: DGE.",
+    "shortDescription": "DGE is used right after a single",
+    "fullExplanation": "DGE is used right after a single short vowel.",
+    "examples": [
+      {
+        "word": "BADGE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "LEDGE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BRIDGE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FUDGE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "lodge (short O → DGE)",
+      "gadget (short A → DGE)",
+      "budget (short U → DGE)",
+      "knowledge (short O → DGE)"
+    ],
+    "noWords": [
+      "cage (long A → just GE)",
+      "huge (long U → just GE)",
+      "stage (long A → just GE)",
+      "charge (consonant before → just GE)"
+    ],
+    "relatedPhonogramIds": [
+      "DGE",
+      "GE"
+    ]
+  },
+  {
+    "ruleNum": 9,
+    "category": "Vowel Rules",
+    "title": "End of the road? AY. Middle of the word? AI.",
+    "shortDescription": "AY is used at the end of a",
+    "fullExplanation": "AY is used at the end of a base word for /ay/. AI is used everywhere else.",
+    "examples": [
+      {
+        "word": "PLAY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "RAIN",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "STAY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WAIT",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "display (end of base → AY)",
+      "birthday (end of base → AY)",
+      "contain (middle → AI)",
+      "maintain (middle → AI)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "AI",
+      "AY"
+    ]
+  },
+  {
+    "ruleNum": 10,
+    "category": "Vowel Rules",
+    "title": "Same pattern as AY/AI — OY at the end, OI in the middle.",
+    "shortDescription": "OY is used at the end of a",
+    "fullExplanation": "OY is used at the end of a base word for /oi/. OI is used everywhere else.",
+    "examples": [
+      {
+        "word": "BOY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "JOIN",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "ENJOY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "COIN",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "destroy (end of base → OY)",
+      "decoy (end of base → OY)",
+      "moisture (middle → OI)",
+      "exploit (middle → OI)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "OI",
+      "OY"
+    ]
+  },
+  {
+    "ruleNum": 11,
+    "category": "Vowel Rules",
+    "title": "Q is never alone — U is always its partner.",
+    "shortDescription": "Q always appears with U.",
+    "fullExplanation": "Q always appears with U. QU says /kw/. No English word has Q without U.",
+    "examples": [
+      {
+        "word": "QUEEN",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "QUARTER",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BANQUET",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TRANQUIL",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "conquest (QU = /kw/)",
+      "mosquito (QU = /k/)",
+      "earthquake (QU = /kw/)",
+      "technique (QUE = /k/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "QU"
+    ]
+  },
+  {
+    "ruleNum": 12,
+    "category": "Suffix Rules",
+    "title": "Vowel suffix coming? Silent E steps aside.",
+    "shortDescription": "Drop the silent E when adding",
+    "fullExplanation": "Drop the silent E when adding a suffix that starts with a vowel.",
+    "examples": [
+      {
+        "word": "BAKING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "HOPING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WRITING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "DANCING",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "create → creating (drop E before -ing)",
+      "bake → baking (drop E before -ing)",
+      "excite → excitable (drop E before -able)",
+      "hope → hoping (drop E before -ing)"
+    ],
+    "noWords": [
+      "dyeing (keep E to distinguish from dying)",
+      "mileage (sometimes E kept)",
+      "noticeable (E kept to preserve soft C)",
+      "courageous (E kept to preserve soft G)"
+    ],
+    "relatedPhonogramIds": [
+      "E"
+    ]
+  },
+  {
+    "ruleNum": 13,
+    "category": "Suffix Rules",
+    "title": "Consonant suffix coming? Silent E stays put.",
+    "shortDescription": "Keep the silent E when adding",
+    "fullExplanation": "Keep the silent E when adding a suffix that starts with a consonant.",
+    "examples": [
+      {
+        "word": "HOPEFUL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CARELESS",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MOVEMENT",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "SAFETY",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "taste → tasteful (keep E before -ful)",
+      "place → placement (keep E before -ment)",
+      "care → careless (keep E before -less)",
+      "safe → safety (keep E before -ty)"
+    ],
+    "noWords": [
+      "argue → argument (E dropped)",
+      "true → truly (E dropped)",
+      "judge → judgment (E often dropped)",
+      "whole → wholly (E dropped)"
+    ],
+    "relatedPhonogramIds": [
+      "E"
+    ]
+  },
+  {
+    "ruleNum": 14,
+    "category": "Suffix Rules",
+    "title": "Stressed ending + 1 vowel + 1 consonant? Double up before a vowel suffix.",
+    "shortDescription": "Double the final consonant before",
+    "fullExplanation": "Double the final consonant before a vowel suffix when the word ends in 1 vowel + 1 consonant (stressed).",
+    "examples": [
+      {
+        "word": "RUNNING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "STOPPING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BEGINNING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "ADMITTED",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "run → running (one syllable, CVC)",
+      "forget → forgetting (stress on last syllable)",
+      "permit → permitted (stress on last syllable)",
+      "begin → beginning (stress on last syllable)"
+    ],
+    "noWords": [
+      "open → opening (stress NOT on last syllable)",
+      "visit → visiting (stress NOT on last syllable)",
+      "benefit → benefiting (stress NOT on last)",
+      "enter → entering (stress NOT on last syllable)"
+    ],
+    "relatedPhonogramIds": []
+  },
+  {
+    "ruleNum": 15,
+    "category": "Suffix Rules",
+    "title": "Consonant + Y? Y becomes I — unless the suffix already starts with I.",
+    "shortDescription": "Consonant + Y at the end?",
+    "fullExplanation": "Consonant + Y at the end? Change Y to I before any suffix (except suffixes starting with I).",
+    "examples": [
+      {
+        "word": "HAPPINESS",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CARRIED",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BEAUTIFUL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "STUDIED",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "happy → happiness (Y → I before -ness)",
+      "carry → carried (Y → I before -ed)",
+      "plenty → plentiful (Y → I before -ful)",
+      "rely → reliable (Y → I before -able)"
+    ],
+    "noWords": [
+      "carry → carrying (keep Y before -ing)",
+      "study → studying (keep Y before -ing)",
+      "baby → babyish (keep Y before -ish with I)",
+      "dry → drying (keep Y before -ing)"
+    ],
+    "relatedPhonogramIds": [
+      "Y",
+      "I"
+    ]
+  },
+  {
+    "ruleNum": 16,
+    "category": "Suffix Rules",
+    "title": "Vowel + Y = best friends. Never separate them.",
+    "shortDescription": "Vowel + Y at the end?",
+    "fullExplanation": "Vowel + Y at the end? Keep the Y when adding any suffix.",
+    "examples": [
+      {
+        "word": "PLAYING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "ENJOYMENT",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "STAYING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "DELAYED",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "play → playing (AY stays)",
+      "enjoy → enjoyment (OY stays)",
+      "convey → conveyed (EY stays)",
+      "delay → delayed (AY stays)"
+    ],
+    "noWords": [
+      "day → daily (exception — Y → I)",
+      "say → said (irregular)",
+      "pay → paid (irregular)",
+      "lay → laid (irregular)"
+    ],
+    "relatedPhonogramIds": [
+      "AY",
+      "OY",
+      "EY"
+    ]
+  },
+  {
+    "ruleNum": 17,
+    "category": "Silent E Rules",
+    "title": "The most famous E job — it makes the vowel say its own name.",
+    "shortDescription": "Silent E Job 1:",
+    "fullExplanation": "Silent E Job 1: Makes the preceding vowel say its long sound.",
+    "examples": [
+      {
+        "word": "BAKE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "THEME",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "DRIVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FLUTE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "hope (O says /oh/ thanks to E)",
+      "kite (I says /eye/ thanks to E)",
+      "escape (A says /ay/ thanks to E)",
+      "complete (E says /ee/ thanks to final E)"
+    ],
+    "noWords": [
+      "have (E protects V, not long A)",
+      "give (E protects V, not long I)",
+      "love (E protects V, not long O)",
+      "gone (E does not make O long)"
+    ],
+    "relatedPhonogramIds": [
+      "E"
+    ]
+  },
+  {
+    "ruleNum": 18,
+    "category": "Silent E Rules",
+    "title": "V and U are shy — they need E to stand at the end.",
+    "shortDescription": "Silent E Job 2:",
+    "fullExplanation": "Silent E Job 2: English words do not end in V or U, so E follows them.",
+    "examples": [
+      {
+        "word": "GIVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "HAVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BLUE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TRUE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "love (V cannot end alone → VE)",
+      "above (V cannot end alone → VE)",
+      "twelve (V cannot end alone → VE)",
+      "argue (U cannot end alone → UE)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "V",
+      "U",
+      "E"
+    ]
+  },
+  {
+    "ruleNum": 19,
+    "category": "Silent E Rules",
+    "title": "Without the E, C would snap to /k/ and G would snap to /g/.",
+    "shortDescription": "Silent E Job 3:",
+    "fullExplanation": "Silent E Job 3: Keeps C and G soft (/s/ and /j/) at the end of a word.",
+    "examples": [
+      {
+        "word": "DANCE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "PRINCE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "LARGE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CHARGE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "fence (E keeps C saying /s/)",
+      "chance (E keeps C saying /s/)",
+      "bridge (E keeps G saying /j/)",
+      "change (E keeps G saying /j/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "C",
+      "G",
+      "E"
+    ]
+  },
+  {
+    "ruleNum": 20,
+    "category": "Silent E Rules",
+    "title": "The -LE ending would be vowel-less without that silent E.",
+    "shortDescription": "Silent E Job 4:",
+    "fullExplanation": "Silent E Job 4: Every syllable needs a vowel. E provides one where needed.",
+    "examples": [
+      {
+        "word": "CASTLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BOTTLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TABLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "PEOPLE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "little (-tle needs a vowel → E)",
+      "purple (-ple needs a vowel → E)",
+      "single (-gle needs a vowel → E)",
+      "whistle (-tle needs a vowel → E)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "E"
+    ]
+  },
+  {
+    "ruleNum": 21,
+    "category": "Silent E Rules",
+    "title": "Without E, 'house' would be 'hous' — looks like a weird plural!",
+    "shortDescription": "Silent E Job 5:",
+    "fullExplanation": "Silent E Job 5: Prevents a word from looking like a plural ending in S.",
+    "examples": [
+      {
+        "word": "HOUSE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GOOSE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MOOSE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "PROMISE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "dense (without E → dens = plural of den)",
+      "purchase (E prevents plural look)",
+      "purpose (E prevents plural look)",
+      "license (E prevents plural look)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "E",
+      "S"
+    ]
+  },
+  {
+    "ruleNum": 22,
+    "category": "Suffix Rules",
+    "title": "Three costumes for one suffix: /ed/, /d/, or /t/ — listen to the last sound.",
+    "shortDescription": "The suffix -ED has 3 sounds:",
+    "fullExplanation": "The suffix -ED has 3 sounds: /ed/ after T or D, /d/ after voiced, /t/ after unvoiced.",
+    "examples": [
+      {
+        "word": "PLANTED",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CALLED",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "JUMPED",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WALKED",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "wanted (ends in /t/ → ED says /ed/)",
+      "rained (voiced /n/ → ED says /d/)",
+      "stuffed (unvoiced /f/ → ED says /t/)",
+      "amazed (voiced /z/ → ED says /d/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "ED"
+    ]
+  },
+  {
+    "ruleNum": 23,
+    "category": "Suffix Rules",
+    "title": "If the ending already hisses or buzzes, -ES adds a whole new syllable.",
+    "shortDescription": "Add -ES (not just -S) when",
+    "fullExplanation": "Add -ES (not just -S) when a word ends in S, X, Z, CH, or SH.",
+    "examples": [
+      {
+        "word": "BOXES",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BRUSHES",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CHURCHES",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GLASSES",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "foxes (X → add -ES)",
+      "wishes (SH → add -ES)",
+      "matches (CH → add -ES)",
+      "quizzes (Z → add -ES)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "S",
+      "X",
+      "Z",
+      "CH",
+      "SH"
+    ]
+  },
+  {
+    "ruleNum": 24,
+    "category": "Suffix Rules",
+    "title": "Consonant + Y plurals: Y steps out, I + ES step in.",
+    "shortDescription": "Consonant + Y at the end?",
+    "fullExplanation": "Consonant + Y at the end? Change Y to I and add -ES to make it plural.",
+    "examples": [
+      {
+        "word": "BABIES",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CITIES",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FAMILIES",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "STORIES",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "baby → babies (Y → I + ES)",
+      "city → cities (Y → I + ES)",
+      "country → countries (Y → I + ES)",
+      "butterfly → butterflies (Y → I + ES)"
+    ],
+    "noWords": [
+      "monkey → monkeys (vowel + Y, just add S)",
+      "key → keys (vowel + Y, just add S)",
+      "day → days (vowel + Y, just add S)",
+      "toy → toys (vowel + Y, just add S)"
+    ],
+    "relatedPhonogramIds": [
+      "Y",
+      "I"
+    ]
+  },
+  {
+    "ruleNum": 25,
+    "category": "Suffix Rules",
+    "title": "Both say /shun/ — TION is far more common, SION is the specialist.",
+    "shortDescription": "-TION and -SION both say /shun/.",
+    "fullExplanation": "-TION and -SION both say /shun/. -TION follows consonants/long vowels. -SION follows other patterns.",
+    "examples": [
+      {
+        "word": "NATION",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MOTION",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TENSION",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "DECISION",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "fraction (consonant CT → -TION)",
+      "celebration (long A → -TION)",
+      "explosion (after D/DE → -SION)",
+      "permission (after MIT → -SION)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "TI",
+      "SI"
+    ]
+  },
+  {
+    "ruleNum": 26,
+    "category": "Suffix Rules",
+    "title": "Can the base stand alone? ABLE. Can't? IBLE.",
+    "shortDescription": "-ABLE joins complete words.",
+    "fullExplanation": "-ABLE joins complete words. -IBLE joins roots that can't stand alone.",
+    "examples": [
+      {
+        "word": "COMFORTABLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WASHABLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "VISIBLE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "POSSIBLE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "enjoy → enjoyable (complete word → -ABLE)",
+      "break → breakable (complete word → -ABLE)",
+      "terr- → terrible (not a word → -IBLE)",
+      "flex- → flexible (not a word → -IBLE)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": []
+  },
+  {
+    "ruleNum": 27,
+    "category": "Suffix Rules",
+    "title": "Need an adjective? Slap on -AL and the noun transforms.",
+    "shortDescription": "The suffix -AL turns a noun",
+    "fullExplanation": "The suffix -AL turns a noun or verb into an adjective.",
+    "examples": [
+      {
+        "word": "ACCIDENTAL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "EMOTIONAL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TRADITIONAL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MUSICAL",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "accident → accidental",
+      "emotion → emotional",
+      "nature → natural",
+      "music → musical"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "AL"
+    ]
+  },
+  {
+    "ruleNum": 28,
+    "category": "Suffix Rules",
+    "title": "Adjective ends in L? Adding -LY gives you double LL. That's correct!",
+    "shortDescription": "Add -LY to adjectives to make",
+    "fullExplanation": "Add -LY to adjectives to make adverbs. If the adjective ends in L, the result is -LLY.",
+    "examples": [
+      {
+        "word": "QUICKLY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CAREFULLY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "USUALLY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FINALLY",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "quick → quickly (add -LY)",
+      "beautiful → beautifully (L + LY = LLY)",
+      "accidental → accidentally (L + LY = LLY)",
+      "usual → usually (L + LY = LLY)"
+    ],
+    "noWords": [
+      "true → truly (E is dropped)",
+      "whole → wholly (E is dropped)",
+      "due → duly (E is dropped)"
+    ],
+    "relatedPhonogramIds": [
+      "LY"
+    ]
+  },
+  {
+    "ruleNum": 29,
+    "category": "Shield Rules",
+    "title": "The I in -ING acts like a shield — it keeps C and G soft.",
+    "shortDescription": "The letter I in a suffix",
+    "fullExplanation": "The letter I in a suffix keeps C soft (/s/) and G soft (/j/) in the base word.",
+    "examples": [
+      {
+        "word": "DANCING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CHANGING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "NOTICING",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MANAGING",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "dancing (I in -ing keeps C = /s/)",
+      "noticing (I in -ing keeps C = /s/)",
+      "managing (I in -ing keeps G = /j/)",
+      "charging (I in -ing keeps G = /j/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "C",
+      "G",
+      "I"
+    ]
+  },
+  {
+    "ruleNum": 30,
+    "category": "Shield Rules",
+    "title": "The shield trio: CK, DGE, TCH protect short vowels. Remove the shield for long vowels.",
+    "shortDescription": "After a short vowel: use CK, DGE, TCH.",
+    "fullExplanation": "After a short vowel: use CK, DGE, TCH. After anything else (long vowel, consonant, two vowels): use K, GE, CH.",
+    "examples": [
+      {
+        "word": "BACK",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BAKE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BADGE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CAGE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "back vs. bake (short → CK, long → K)",
+      "match vs. march (short → TCH, consonant → CH)",
+      "badge vs. cage (short → DGE, long → GE)",
+      "stock vs. stoke (short → CK, long → K)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "CK",
+      "DGE",
+      "TCH",
+      "K",
+      "GE",
+      "CH"
+    ]
+  },
+  {
+    "ruleNum": 31,
+    "category": "Advanced Rules",
+    "title": "O before M, N, V, TH often sounds like /u/ — 'love' rhymes with 'dove', not 'stove'.",
+    "shortDescription": "O says /u/ when followed by",
+    "fullExplanation": "O says /u/ when followed by M, N, V, or TH.",
+    "examples": [
+      {
+        "word": "MOTHER",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MONEY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "LOVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "MONTH",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "oven (O before V = /u/)",
+      "wonder (O before N = /u/)",
+      "comfort (O before M = /u/)",
+      "brother (O before TH = /u/)"
+    ],
+    "noWords": [
+      "bone (O before N but long O — silent E job)",
+      "home (O before M but long O — silent E job)",
+      "over (O before V but long O — silent E job)",
+      "both (O before TH but says /oh/)"
+    ],
+    "relatedPhonogramIds": [
+      "O"
+    ]
+  },
+  {
+    "ruleNum": 32,
+    "category": "Advanced Rules",
+    "title": "Not every final E makes a long vowel — check Jobs 2 through 5.",
+    "shortDescription": "When vowel-consonant-E doesn't",
+    "fullExplanation": "When vowel-consonant-E doesn't make a long vowel, the E has a different silent E job (2–5).",
+    "examples": [
+      {
+        "word": "HAVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "DANCE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GIVE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "LOVE",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "have (E = Job 2, protects V)",
+      "dance (E = Job 3, keeps C soft)",
+      "give (E = Job 2, protects V)",
+      "solve (E = Job 2, protects V)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "E",
+      "V",
+      "C",
+      "G"
+    ]
+  },
+  {
+    "ruleNum": 33,
+    "category": "Advanced Rules",
+    "title": "Five silent pairs: KN, WR, GN, MB, MN — the first letter hides but stays in spelling.",
+    "shortDescription": "Silent consonant families:",
+    "fullExplanation": "Silent consonant families: KN (K silent), WR (W silent), GN (G silent), MB (B silent), MN (N silent).",
+    "examples": [
+      {
+        "word": "KNEE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WRITE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "GNOME",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "THUMB",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "knight (KN → K is silent)",
+      "wrong (WR → W is silent)",
+      "design (GN → G is silent)",
+      "plumber (MB → B is silent)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "KN",
+      "WR",
+      "GN"
+    ]
+  },
+  {
+    "ruleNum": 34,
+    "category": "Advanced Rules",
+    "title": "In WALK and CALM, the L is a ghost — silent but never removed from spelling.",
+    "shortDescription": "More silent L patterns:",
+    "fullExplanation": "More silent L patterns: LK — the L is silent. LM — the L is silent.",
+    "examples": [
+      {
+        "word": "WALK",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "TALK",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CALM",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "PALM",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "chalk (LK → L is silent)",
+      "stalk (LK → L is silent)",
+      "salmon (LM → L is silent)",
+      "almond (LM → L is silent)"
+    ],
+    "noWords": [
+      "milk (L is pronounced before K)",
+      "silk (L is pronounced before K)",
+      "film (L is pronounced before M)",
+      "helm (L is pronounced before M)"
+    ],
+    "relatedPhonogramIds": [
+      "L"
+    ]
+  },
+  {
+    "ruleNum": 35,
+    "category": "Advanced Rules",
+    "title": "W is a vowel-warper — it bends the A from /a/ toward /o/.",
+    "shortDescription": "After W, the letter A often",
+    "fullExplanation": "After W, the letter A often says /o/ instead of /a/.",
+    "examples": [
+      {
+        "word": "WATCH",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WANT",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WATER",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "WASP",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "wander (WA = /wo/)",
+      "swamp (WA = /wo/)",
+      "swallow (WA = /wo/)",
+      "squash (QU + A after W-sound = /o/)"
+    ],
+    "noWords": [
+      "wax (A stays short /a/)",
+      "wag (A stays short /a/)",
+      "wave (A says long /ay/ — silent E)",
+      "wake (A says long /ay/ — silent E)"
+    ],
+    "relatedPhonogramIds": [
+      "W",
+      "A"
+    ]
+  },
+  {
+    "ruleNum": 36,
+    "category": "Advanced Rules",
+    "title": "L is another vowel-warper — it shifts ALL, OLL, and ULL into unique sounds.",
+    "shortDescription": "L modifies certain vowels:",
+    "fullExplanation": "L modifies certain vowels: ALL = /awl/, OLL = /ohl/, ULL = /ool/.",
+    "examples": [
+      {
+        "word": "BALL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "ROLL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FULL",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "INSTALL",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "call (ALL = /awl/)",
+      "small (ALL = /awl/)",
+      "toll (OLL = /ohl/)",
+      "pull (ULL = /ool/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "L",
+      "A",
+      "O",
+      "U"
+    ]
+  },
+  {
+    "ruleNum": 37,
+    "category": "Advanced Rules",
+    "title": "One of the most reliable patterns in English — IGHT always says /eye-t/.",
+    "shortDescription": "The pattern -IGHT always",
+    "fullExplanation": "The pattern -IGHT always says /eye-t/. GH is silent in this pattern.",
+    "examples": [
+      {
+        "word": "LIGHT",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "NIGHT",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "BRIGHT",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "FLIGHT",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "might (-IGHT = /eye-t/)",
+      "sight (-IGHT = /eye-t/)",
+      "delight (-IGHT = /eye-t/)",
+      "midnight (-IGHT = /eye-t/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "IGH"
+    ]
+  },
+  {
+    "ruleNum": 38,
+    "category": "Advanced Rules",
+    "title": "Weird spelling? Check the passport — Greek, French, and Latin words travel with their own rules.",
+    "shortDescription": "Borrowed words keep their",
+    "fullExplanation": "Borrowed words keep their original spelling patterns: Greek PH, CH; French CH; Latin TI.",
+    "examples": [
+      {
+        "word": "PHILOSOPHY",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CHARACTER",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "CHAMPAGNE",
+        "explanation": "",
+        "audioFile": ""
+      },
+      {
+        "word": "PARTITION",
+        "explanation": "",
+        "audioFile": ""
+      }
+    ],
+    "yesWords": [
+      "pharmacy (Greek PH = /f/)",
+      "chorus (Greek CH = /k/)",
+      "brochure (French CH = /sh/)",
+      "musician (Latin CI = /sh/)"
+    ],
+    "noWords": [],
+    "relatedPhonogramIds": [
+      "PH",
+      "CH"
+    ]
+  }
+]

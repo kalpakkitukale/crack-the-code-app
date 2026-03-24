@@ -1,0 +1,6653 @@
+[
+  {
+    "id": "01",
+    "text": "A",
+    "category": "singleVowel",
+    "colorHex": "#E57373",
+    "funFact": "A is the third most used letter in English and makes 3 distinct sounds.",
+    "hindiText": "ऐ (जैसे कैट)",
+    "marathiText": "ॲ (जसे कॅट)",
+    "sounds": [
+      {
+        "soundId": "01a",
+        "phonogramId": "01",
+        "notation": "/a/",
+        "audioFile": "phonograms/01a.ogg",
+        "hindiText": "ऐ (जैसे कैट)",
+        "marathiText": "ॲ (जसे कॅट)",
+        "hindiAudio": "hindi/01a.ogg",
+        "marathiAudio": "marathi/01a.ogg",
+        "exampleWords": [
+          {
+            "word": "CAT",
+            "emoji": "🐱",
+            "audioFile": "words/cat.ogg"
+          },
+          {
+            "word": "BAT",
+            "emoji": "🦇",
+            "audioFile": "words/bat.ogg"
+          },
+          {
+            "word": "HAT",
+            "emoji": "🎩",
+            "audioFile": "words/hat.ogg"
+          },
+          {
+            "word": "APPLE",
+            "emoji": "",
+            "audioFile": "words/apple.ogg"
+          },
+          {
+            "word": "MATCH",
+            "emoji": "",
+            "audioFile": "words/match.ogg"
+          },
+          {
+            "word": "RABBIT",
+            "emoji": "",
+            "audioFile": "words/rabbit.ogg"
+          },
+          {
+            "word": "LAMP",
+            "emoji": "",
+            "audioFile": "words/lamp.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "01b",
+        "phonogramId": "01",
+        "notation": "/ay/",
+        "audioFile": "phonograms/01b.ogg",
+        "hindiText": "ए (जैसे केक)",
+        "marathiText": "ए (जसे केक)",
+        "hindiAudio": "hindi/01b.ogg",
+        "marathiAudio": "marathi/01b.ogg",
+        "exampleWords": [
+          {
+            "word": "CAKE",
+            "emoji": "🎂",
+            "audioFile": "words/cake.ogg"
+          },
+          {
+            "word": "LAKE",
+            "emoji": "🏞️",
+            "audioFile": "words/lake.ogg"
+          },
+          {
+            "word": "GAME",
+            "emoji": "🎮",
+            "audioFile": "words/game.ogg"
+          },
+          {
+            "word": "MAKE",
+            "emoji": "",
+            "audioFile": "words/make.ogg"
+          },
+          {
+            "word": "TAPE",
+            "emoji": "",
+            "audioFile": "words/tape.ogg"
+          },
+          {
+            "word": "BAKE",
+            "emoji": "",
+            "audioFile": "words/bake.ogg"
+          },
+          {
+            "word": "PLANE",
+            "emoji": "",
+            "audioFile": "words/plane.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "01c",
+        "phonogramId": "01",
+        "notation": "/ah/",
+        "audioFile": "phonograms/01c.ogg",
+        "hindiText": "आ (जैसे फ़ादर)",
+        "marathiText": "आ (जसे फादर)",
+        "hindiAudio": "hindi/01c.ogg",
+        "marathiAudio": "marathi/01c.ogg",
+        "exampleWords": [
+          {
+            "word": "DAD",
+            "emoji": "👨",
+            "audioFile": "words/dad.ogg"
+          },
+          {
+            "word": "CAR",
+            "emoji": "🚗",
+            "audioFile": "words/car.ogg"
+          },
+          {
+            "word": "STAR",
+            "emoji": "⭐",
+            "audioFile": "words/star.ogg"
+          },
+          {
+            "word": "FATHER",
+            "emoji": "",
+            "audioFile": "words/father.ogg"
+          },
+          {
+            "word": "PALM",
+            "emoji": "",
+            "audioFile": "words/palm.ogg"
+          },
+          {
+            "word": "CALM",
+            "emoji": "",
+            "audioFile": "words/calm.ogg"
+          },
+          {
+            "word": "DRAMA",
+            "emoji": "",
+            "audioFile": "words/drama.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "CAT",
+      "BAT",
+      "HAT",
+      "APPLE",
+      "MATCH",
+      "RABBIT"
+    ]
+  },
+  {
+    "id": "02",
+    "text": "E",
+    "category": "singleVowel",
+    "colorHex": "#E57373",
+    "funFact": "E is the most common letter in the entire English language.",
+    "hindiText": "ए (जैसे बेड)",
+    "marathiText": "ए (जसे बेड)",
+    "sounds": [
+      {
+        "soundId": "02a",
+        "phonogramId": "02",
+        "notation": "/e/",
+        "audioFile": "phonograms/02a.ogg",
+        "hindiText": "ए (जैसे बेड)",
+        "marathiText": "ए (जसे बेड)",
+        "hindiAudio": "hindi/02a.ogg",
+        "marathiAudio": "marathi/02a.ogg",
+        "exampleWords": [
+          {
+            "word": "BED",
+            "emoji": "🛏️",
+            "audioFile": "words/bed.ogg"
+          },
+          {
+            "word": "PEN",
+            "emoji": "🖊️",
+            "audioFile": "words/pen.ogg"
+          },
+          {
+            "word": "HEN",
+            "emoji": "🐔",
+            "audioFile": "words/hen.ogg"
+          },
+          {
+            "word": "BEST",
+            "emoji": "",
+            "audioFile": "words/best.ogg"
+          },
+          {
+            "word": "NEST",
+            "emoji": "",
+            "audioFile": "words/nest.ogg"
+          },
+          {
+            "word": "LEMON",
+            "emoji": "",
+            "audioFile": "words/lemon.ogg"
+          },
+          {
+            "word": "ENTER",
+            "emoji": "",
+            "audioFile": "words/enter.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "02b",
+        "phonogramId": "02",
+        "notation": "/ee/",
+        "audioFile": "phonograms/02b.ogg",
+        "hindiText": "ई (जैसे बी)",
+        "marathiText": "ई (जसे बी)",
+        "hindiAudio": "hindi/02b.ogg",
+        "marathiAudio": "marathi/02b.ogg",
+        "exampleWords": [
+          {
+            "word": "BE",
+            "emoji": "🐝",
+            "audioFile": "words/be.ogg"
+          },
+          {
+            "word": "SHE",
+            "emoji": "👩",
+            "audioFile": "words/she.ogg"
+          },
+          {
+            "word": "ME",
+            "emoji": "🙋",
+            "audioFile": "words/me.ogg"
+          },
+          {
+            "word": "EVEN",
+            "emoji": "",
+            "audioFile": "words/even.ogg"
+          },
+          {
+            "word": "EVIL",
+            "emoji": "",
+            "audioFile": "words/evil.ogg"
+          },
+          {
+            "word": "FEMALE",
+            "emoji": "",
+            "audioFile": "words/female.ogg"
+          },
+          {
+            "word": "SECRET",
+            "emoji": "",
+            "audioFile": "words/secret.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BED",
+      "PEN",
+      "HEN",
+      "BEST",
+      "NEST",
+      "LEMON"
+    ]
+  },
+  {
+    "id": "03",
+    "text": "I",
+    "category": "singleVowel",
+    "colorHex": "#E57373",
+    "funFact": "Short I is one of the trickiest sounds for non-native speakers.",
+    "hindiText": "इ (जैसे सिट)",
+    "marathiText": "इ (जसे सिट)",
+    "sounds": [
+      {
+        "soundId": "03a",
+        "phonogramId": "03",
+        "notation": "/i/",
+        "audioFile": "phonograms/03a.ogg",
+        "hindiText": "इ (जैसे सिट)",
+        "marathiText": "इ (जसे सिट)",
+        "hindiAudio": "hindi/03a.ogg",
+        "marathiAudio": "marathi/03a.ogg",
+        "exampleWords": [
+          {
+            "word": "SIT",
+            "emoji": "🪑",
+            "audioFile": "words/sit.ogg"
+          },
+          {
+            "word": "PIG",
+            "emoji": "🐷",
+            "audioFile": "words/pig.ogg"
+          },
+          {
+            "word": "FISH",
+            "emoji": "🐟",
+            "audioFile": "words/fish.ogg"
+          },
+          {
+            "word": "SKIP",
+            "emoji": "",
+            "audioFile": "words/skip.ogg"
+          },
+          {
+            "word": "GIFT",
+            "emoji": "",
+            "audioFile": "words/gift.ogg"
+          },
+          {
+            "word": "BRIDGE",
+            "emoji": "",
+            "audioFile": "words/bridge.ogg"
+          },
+          {
+            "word": "KITTEN",
+            "emoji": "",
+            "audioFile": "words/kitten.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "03b",
+        "phonogramId": "03",
+        "notation": "/eye/",
+        "audioFile": "phonograms/03b.ogg",
+        "hindiText": "आइ (जैसे आइस)",
+        "marathiText": "आय (जसे आइस)",
+        "hindiAudio": "hindi/03b.ogg",
+        "marathiAudio": "marathi/03b.ogg",
+        "exampleWords": [
+          {
+            "word": "KITE",
+            "emoji": "🪁",
+            "audioFile": "words/kite.ogg"
+          },
+          {
+            "word": "BIKE",
+            "emoji": "🚲",
+            "audioFile": "words/bike.ogg"
+          },
+          {
+            "word": "ICE",
+            "emoji": "🧊",
+            "audioFile": "words/ice.ogg"
+          },
+          {
+            "word": "FIND",
+            "emoji": "",
+            "audioFile": "words/find.ogg"
+          },
+          {
+            "word": "MIND",
+            "emoji": "",
+            "audioFile": "words/mind.ogg"
+          },
+          {
+            "word": "TIGER",
+            "emoji": "",
+            "audioFile": "words/tiger.ogg"
+          },
+          {
+            "word": "ISLAND",
+            "emoji": "",
+            "audioFile": "words/island.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SIT",
+      "PIG",
+      "FISH",
+      "SKIP",
+      "GIFT",
+      "BRIDGE"
+    ]
+  },
+  {
+    "id": "04",
+    "text": "O",
+    "category": "singleVowel",
+    "colorHex": "#E57373",
+    "funFact": "O is the oldest letter — it comes from ancient Phoenician.",
+    "hindiText": "ऑ (जैसे हॉट)",
+    "marathiText": "ऑ (जसे हॉट)",
+    "sounds": [
+      {
+        "soundId": "04a",
+        "phonogramId": "04",
+        "notation": "/o/",
+        "audioFile": "phonograms/04a.ogg",
+        "hindiText": "ऑ (जैसे हॉट)",
+        "marathiText": "ऑ (जसे हॉट)",
+        "hindiAudio": "hindi/04a.ogg",
+        "marathiAudio": "marathi/04a.ogg",
+        "exampleWords": [
+          {
+            "word": "DOG",
+            "emoji": "🐶",
+            "audioFile": "words/dog.ogg"
+          },
+          {
+            "word": "HOT",
+            "emoji": "🔥",
+            "audioFile": "words/hot.ogg"
+          },
+          {
+            "word": "POT",
+            "emoji": "🍲",
+            "audioFile": "words/pot.ogg"
+          },
+          {
+            "word": "STOP",
+            "emoji": "",
+            "audioFile": "words/stop.ogg"
+          },
+          {
+            "word": "ROCK",
+            "emoji": "",
+            "audioFile": "words/rock.ogg"
+          },
+          {
+            "word": "CLOCK",
+            "emoji": "",
+            "audioFile": "words/clock.ogg"
+          },
+          {
+            "word": "OCTOPUS",
+            "emoji": "",
+            "audioFile": "words/octopus.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "04b",
+        "phonogramId": "04",
+        "notation": "/oh/",
+        "audioFile": "phonograms/04b.ogg",
+        "hindiText": "ओ (जैसे गो)",
+        "marathiText": "ओ (जसे गो)",
+        "hindiAudio": "hindi/04b.ogg",
+        "marathiAudio": "marathi/04b.ogg",
+        "exampleWords": [
+          {
+            "word": "GO",
+            "emoji": "🏃",
+            "audioFile": "words/go.ogg"
+          },
+          {
+            "word": "NO",
+            "emoji": "🚫",
+            "audioFile": "words/no.ogg"
+          },
+          {
+            "word": "HOME",
+            "emoji": "🏠",
+            "audioFile": "words/home.ogg"
+          },
+          {
+            "word": "OPEN",
+            "emoji": "",
+            "audioFile": "words/open.ogg"
+          },
+          {
+            "word": "OVER",
+            "emoji": "",
+            "audioFile": "words/over.ogg"
+          },
+          {
+            "word": "ALONE",
+            "emoji": "",
+            "audioFile": "words/alone.ogg"
+          },
+          {
+            "word": "BROKEN",
+            "emoji": "",
+            "audioFile": "words/broken.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "04c",
+        "phonogramId": "04",
+        "notation": "/oo/",
+        "audioFile": "phonograms/04c.ogg",
+        "hindiText": "ऊ (जैसे डू)",
+        "marathiText": "ऊ (जसे डू)",
+        "hindiAudio": "hindi/04c.ogg",
+        "marathiAudio": "marathi/04c.ogg",
+        "exampleWords": [
+          {
+            "word": "DO",
+            "emoji": "✅",
+            "audioFile": "words/do.ogg"
+          },
+          {
+            "word": "TO",
+            "emoji": "➡️",
+            "audioFile": "words/to.ogg"
+          },
+          {
+            "word": "WHO",
+            "emoji": "❓",
+            "audioFile": "words/who.ogg"
+          },
+          {
+            "word": "MOVE",
+            "emoji": "",
+            "audioFile": "words/move.ogg"
+          },
+          {
+            "word": "PROVE",
+            "emoji": "",
+            "audioFile": "words/prove.ogg"
+          },
+          {
+            "word": "LOSE",
+            "emoji": "",
+            "audioFile": "words/lose.ogg"
+          },
+          {
+            "word": "APPROVE",
+            "emoji": "",
+            "audioFile": "words/approve.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "DOG",
+      "HOT",
+      "POT",
+      "STOP",
+      "ROCK",
+      "CLOCK"
+    ]
+  },
+  {
+    "id": "05",
+    "text": "U",
+    "category": "singleVowel",
+    "colorHex": "#E57373",
+    "funFact": "U always follows Q in English words — they are best friends.",
+    "hindiText": "अ (जैसे कप)",
+    "marathiText": "अ (जसे कप)",
+    "sounds": [
+      {
+        "soundId": "05a",
+        "phonogramId": "05",
+        "notation": "/u/",
+        "audioFile": "phonograms/05a.ogg",
+        "hindiText": "अ (जैसे कप)",
+        "marathiText": "अ (जसे कप)",
+        "hindiAudio": "hindi/05a.ogg",
+        "marathiAudio": "marathi/05a.ogg",
+        "exampleWords": [
+          {
+            "word": "CUP",
+            "emoji": "☕",
+            "audioFile": "words/cup.ogg"
+          },
+          {
+            "word": "BUS",
+            "emoji": "🚌",
+            "audioFile": "words/bus.ogg"
+          },
+          {
+            "word": "SUN",
+            "emoji": "☀️",
+            "audioFile": "words/sun.ogg"
+          },
+          {
+            "word": "JUMP",
+            "emoji": "",
+            "audioFile": "words/jump.ogg"
+          },
+          {
+            "word": "UNDER",
+            "emoji": "",
+            "audioFile": "words/under.ogg"
+          },
+          {
+            "word": "BUTTER",
+            "emoji": "",
+            "audioFile": "words/butter.ogg"
+          },
+          {
+            "word": "UMBRELLA",
+            "emoji": "",
+            "audioFile": "words/umbrella.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "05b",
+        "phonogramId": "05",
+        "notation": "/yoo/",
+        "audioFile": "phonograms/05b.ogg",
+        "hindiText": "यू (जैसे यूज़)",
+        "marathiText": "यू (जसे यूज)",
+        "hindiAudio": "hindi/05b.ogg",
+        "marathiAudio": "marathi/05b.ogg",
+        "exampleWords": [
+          {
+            "word": "USE",
+            "emoji": "🔧",
+            "audioFile": "words/use.ogg"
+          },
+          {
+            "word": "CUTE",
+            "emoji": "🥰",
+            "audioFile": "words/cute.ogg"
+          },
+          {
+            "word": "MULE",
+            "emoji": "🫏",
+            "audioFile": "words/mule.ogg"
+          },
+          {
+            "word": "UNICORN",
+            "emoji": "",
+            "audioFile": "words/unicorn.ogg"
+          },
+          {
+            "word": "MUSIC",
+            "emoji": "",
+            "audioFile": "words/music.ogg"
+          },
+          {
+            "word": "HUMAN",
+            "emoji": "",
+            "audioFile": "words/human.ogg"
+          },
+          {
+            "word": "FUTURE",
+            "emoji": "",
+            "audioFile": "words/future.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "CUP",
+      "BUS",
+      "SUN",
+      "JUMP",
+      "UNDER",
+      "BUTTER"
+    ]
+  },
+  {
+    "id": "06",
+    "text": "Y",
+    "category": "singleVowel",
+    "colorHex": "#E57373",
+    "funFact": "Y is both a consonant AND a vowel — the only letter that is both.",
+    "hindiText": "य (जैसे यस)",
+    "marathiText": "य (जसे यस)",
+    "sounds": [
+      {
+        "soundId": "06a",
+        "phonogramId": "06",
+        "notation": "/y/",
+        "audioFile": "phonograms/06a.ogg",
+        "hindiText": "य (जैसे यस)",
+        "marathiText": "य (जसे यस)",
+        "hindiAudio": "hindi/06a.ogg",
+        "marathiAudio": "marathi/06a.ogg",
+        "exampleWords": [
+          {
+            "word": "YES",
+            "emoji": "✅",
+            "audioFile": "words/yes.ogg"
+          },
+          {
+            "word": "YAM",
+            "emoji": "🍠",
+            "audioFile": "words/yam.ogg"
+          },
+          {
+            "word": "YAK",
+            "emoji": "🐃",
+            "audioFile": "words/yak.ogg"
+          },
+          {
+            "word": "YARD",
+            "emoji": "",
+            "audioFile": "words/yard.ogg"
+          },
+          {
+            "word": "YELL",
+            "emoji": "",
+            "audioFile": "words/yell.ogg"
+          },
+          {
+            "word": "YELLOW",
+            "emoji": "",
+            "audioFile": "words/yellow.ogg"
+          },
+          {
+            "word": "YOGURT",
+            "emoji": "",
+            "audioFile": "words/yogurt.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "06b",
+        "phonogramId": "06",
+        "notation": "/ee/",
+        "audioFile": "phonograms/06b.ogg",
+        "hindiText": "ई (जैसे हैप्पी)",
+        "marathiText": "ई (जसे हॅप्पी)",
+        "hindiAudio": "hindi/06b.ogg",
+        "marathiAudio": "marathi/06b.ogg",
+        "exampleWords": [
+          {
+            "word": "HAPPY",
+            "emoji": "😊",
+            "audioFile": "words/happy.ogg"
+          },
+          {
+            "word": "BABY",
+            "emoji": "👶",
+            "audioFile": "words/baby.ogg"
+          },
+          {
+            "word": "PUPPY",
+            "emoji": "🐶",
+            "audioFile": "words/puppy.ogg"
+          },
+          {
+            "word": "FUNNY",
+            "emoji": "",
+            "audioFile": "words/funny.ogg"
+          },
+          {
+            "word": "LUCKY",
+            "emoji": "",
+            "audioFile": "words/lucky.ogg"
+          },
+          {
+            "word": "FAMILY",
+            "emoji": "",
+            "audioFile": "words/family.ogg"
+          },
+          {
+            "word": "CHERRY",
+            "emoji": "",
+            "audioFile": "words/cherry.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "06c",
+        "phonogramId": "06",
+        "notation": "/eye/",
+        "audioFile": "phonograms/06c.ogg",
+        "hindiText": "आइ (जैसे फ़्लाइ)",
+        "marathiText": "आय (जसे फ्लाय)",
+        "hindiAudio": "hindi/06c.ogg",
+        "marathiAudio": "marathi/06c.ogg",
+        "exampleWords": [
+          {
+            "word": "FLY",
+            "emoji": "✈️",
+            "audioFile": "words/fly.ogg"
+          },
+          {
+            "word": "CRY",
+            "emoji": "😢",
+            "audioFile": "words/cry.ogg"
+          },
+          {
+            "word": "SKY",
+            "emoji": "🌌",
+            "audioFile": "words/sky.ogg"
+          },
+          {
+            "word": "WHY",
+            "emoji": "",
+            "audioFile": "words/why.ogg"
+          },
+          {
+            "word": "DRY",
+            "emoji": "",
+            "audioFile": "words/dry.ogg"
+          },
+          {
+            "word": "REPLY",
+            "emoji": "",
+            "audioFile": "words/reply.ogg"
+          },
+          {
+            "word": "SUPPLY",
+            "emoji": "",
+            "audioFile": "words/supply.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "06d",
+        "phonogramId": "06",
+        "notation": "/i/",
+        "audioFile": "phonograms/06d.ogg",
+        "hindiText": "इ (जैसे जिम)",
+        "marathiText": "इ (जसे जिम)",
+        "hindiAudio": "hindi/06d.ogg",
+        "marathiAudio": "marathi/06d.ogg",
+        "exampleWords": [
+          {
+            "word": "GYM",
+            "emoji": "🏋️",
+            "audioFile": "words/gym.ogg"
+          },
+          {
+            "word": "MYTH",
+            "emoji": "🐉",
+            "audioFile": "words/myth.ogg"
+          },
+          {
+            "word": "LYNX",
+            "emoji": "🐱",
+            "audioFile": "words/lynx.ogg"
+          },
+          {
+            "word": "SYSTEM",
+            "emoji": "",
+            "audioFile": "words/system.ogg"
+          },
+          {
+            "word": "SYMBOL",
+            "emoji": "",
+            "audioFile": "words/symbol.ogg"
+          },
+          {
+            "word": "CRYSTAL",
+            "emoji": "",
+            "audioFile": "words/crystal.ogg"
+          },
+          {
+            "word": "MYSTERY",
+            "emoji": "",
+            "audioFile": "words/mystery.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "YES",
+      "YAM",
+      "YAK",
+      "YARD",
+      "YELL",
+      "YELLOW"
+    ]
+  },
+  {
+    "id": "07",
+    "text": "B",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "B is silent in words like LAMB and CLIMB.",
+    "hindiText": "ब (जैसे बैट)",
+    "marathiText": "ब (जसे बॅट)",
+    "sounds": [
+      {
+        "soundId": "07",
+        "phonogramId": "07",
+        "notation": "/b/",
+        "audioFile": "phonograms/07.ogg",
+        "hindiText": "ब (जैसे बैट)",
+        "marathiText": "ब (जसे बॅट)",
+        "hindiAudio": "hindi/07.ogg",
+        "marathiAudio": "marathi/07.ogg",
+        "exampleWords": [
+          {
+            "word": "BAT",
+            "emoji": "🦇",
+            "audioFile": "words/bat.ogg"
+          },
+          {
+            "word": "BIG",
+            "emoji": "🐘",
+            "audioFile": "words/big.ogg"
+          },
+          {
+            "word": "BUS",
+            "emoji": "🚌",
+            "audioFile": "words/bus.ogg"
+          },
+          {
+            "word": "BIKE",
+            "emoji": "",
+            "audioFile": "words/bike.ogg"
+          },
+          {
+            "word": "CLUB",
+            "emoji": "",
+            "audioFile": "words/club.ogg"
+          },
+          {
+            "word": "BEST",
+            "emoji": "",
+            "audioFile": "words/best.ogg"
+          },
+          {
+            "word": "RABBIT",
+            "emoji": "",
+            "audioFile": "words/rabbit.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BAT",
+      "BIG",
+      "BUS",
+      "BIKE",
+      "CLUB",
+      "BEST"
+    ]
+  },
+  {
+    "id": "08",
+    "text": "C",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "C says /k/ before A, O, U, or any consonant.",
+    "hindiText": "क (जैसे कैट)",
+    "marathiText": "क (जसे कॅट)",
+    "sounds": [
+      {
+        "soundId": "08a",
+        "phonogramId": "08",
+        "notation": "/k/",
+        "audioFile": "phonograms/08a.ogg",
+        "hindiText": "क (जैसे कैट)",
+        "marathiText": "क (जसे कॅट)",
+        "hindiAudio": "hindi/08a.ogg",
+        "marathiAudio": "marathi/08a.ogg",
+        "exampleWords": [
+          {
+            "word": "CAT",
+            "emoji": "🐱",
+            "audioFile": "words/cat.ogg"
+          },
+          {
+            "word": "CUP",
+            "emoji": "☕",
+            "audioFile": "words/cup.ogg"
+          },
+          {
+            "word": "COW",
+            "emoji": "🐄",
+            "audioFile": "words/cow.ogg"
+          },
+          {
+            "word": "CRAB",
+            "emoji": "",
+            "audioFile": "words/crab.ogg"
+          },
+          {
+            "word": "COLD",
+            "emoji": "",
+            "audioFile": "words/cold.ogg"
+          },
+          {
+            "word": "CRAFT",
+            "emoji": "",
+            "audioFile": "words/craft.ogg"
+          },
+          {
+            "word": "CAPTAIN",
+            "emoji": "",
+            "audioFile": "words/captain.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "08b",
+        "phonogramId": "08",
+        "notation": "/s/",
+        "audioFile": "phonograms/08b.ogg",
+        "hindiText": "स (जैसे सिटी)",
+        "marathiText": "स (जसे सिटी)",
+        "hindiAudio": "hindi/08b.ogg",
+        "marathiAudio": "marathi/08b.ogg",
+        "exampleWords": [
+          {
+            "word": "ICE",
+            "emoji": "🧊",
+            "audioFile": "words/ice.ogg"
+          },
+          {
+            "word": "CITY",
+            "emoji": "🏙️",
+            "audioFile": "words/city.ogg"
+          },
+          {
+            "word": "RICE",
+            "emoji": "🍚",
+            "audioFile": "words/rice.ogg"
+          },
+          {
+            "word": "CIRCLE",
+            "emoji": "",
+            "audioFile": "words/circle.ogg"
+          },
+          {
+            "word": "CEILING",
+            "emoji": "",
+            "audioFile": "words/ceiling.ogg"
+          },
+          {
+            "word": "PENCIL",
+            "emoji": "",
+            "audioFile": "words/pencil.ogg"
+          },
+          {
+            "word": "BICYCLE",
+            "emoji": "",
+            "audioFile": "words/bicycle.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "CAT",
+      "CUP",
+      "COW",
+      "CRAB",
+      "COLD",
+      "CRAFT"
+    ]
+  },
+  {
+    "id": "09",
+    "text": "D",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "D is one of the most reliable consonants — it almost always says /d/.",
+    "hindiText": "ड (जैसे डॉग)",
+    "marathiText": "ड (जसे डॉग)",
+    "sounds": [
+      {
+        "soundId": "09",
+        "phonogramId": "09",
+        "notation": "/d/",
+        "audioFile": "phonograms/09.ogg",
+        "hindiText": "ड (जैसे डॉग)",
+        "marathiText": "ड (जसे डॉग)",
+        "hindiAudio": "hindi/09.ogg",
+        "marathiAudio": "marathi/09.ogg",
+        "exampleWords": [
+          {
+            "word": "DOG",
+            "emoji": "🐶",
+            "audioFile": "words/dog.ogg"
+          },
+          {
+            "word": "DIG",
+            "emoji": "⛏️",
+            "audioFile": "words/dig.ogg"
+          },
+          {
+            "word": "DAD",
+            "emoji": "👨",
+            "audioFile": "words/dad.ogg"
+          },
+          {
+            "word": "DEEP",
+            "emoji": "",
+            "audioFile": "words/deep.ogg"
+          },
+          {
+            "word": "DREAM",
+            "emoji": "",
+            "audioFile": "words/dream.ogg"
+          },
+          {
+            "word": "DID",
+            "emoji": "",
+            "audioFile": "words/did.ogg"
+          },
+          {
+            "word": "ROAD",
+            "emoji": "",
+            "audioFile": "words/road.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "DOG",
+      "DIG",
+      "DAD",
+      "DEEP",
+      "DREAM",
+      "DID"
+    ]
+  },
+  {
+    "id": "10",
+    "text": "F",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "F used to be written as a double letter (FF) in Old English.",
+    "hindiText": "फ़ (जैसे फ़िश)",
+    "marathiText": "फ (जसे फिश)",
+    "sounds": [
+      {
+        "soundId": "10",
+        "phonogramId": "10",
+        "notation": "/f/",
+        "audioFile": "phonograms/10.ogg",
+        "hindiText": "फ़ (जैसे फ़िश)",
+        "marathiText": "फ (जसे फिश)",
+        "hindiAudio": "hindi/10.ogg",
+        "marathiAudio": "marathi/10.ogg",
+        "exampleWords": [
+          {
+            "word": "FISH",
+            "emoji": "🐟",
+            "audioFile": "words/fish.ogg"
+          },
+          {
+            "word": "FUN",
+            "emoji": "🎉",
+            "audioFile": "words/fun.ogg"
+          },
+          {
+            "word": "FAN",
+            "emoji": "🌀",
+            "audioFile": "words/fan.ogg"
+          },
+          {
+            "word": "FAST",
+            "emoji": "",
+            "audioFile": "words/fast.ogg"
+          },
+          {
+            "word": "LEAF",
+            "emoji": "",
+            "audioFile": "words/leaf.ogg"
+          },
+          {
+            "word": "LIFE",
+            "emoji": "",
+            "audioFile": "words/life.ogg"
+          },
+          {
+            "word": "GIFT",
+            "emoji": "",
+            "audioFile": "words/gift.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "FISH",
+      "FUN",
+      "FAN",
+      "FAST",
+      "LEAF",
+      "LIFE"
+    ]
+  },
+  {
+    "id": "11",
+    "text": "G",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "G says its hard sound /g/ in most positions.",
+    "hindiText": "ग (जैसे गो)",
+    "marathiText": "ग (जसे गो)",
+    "sounds": [
+      {
+        "soundId": "11a",
+        "phonogramId": "11",
+        "notation": "/g/",
+        "audioFile": "phonograms/11a.ogg",
+        "hindiText": "ग (जैसे गो)",
+        "marathiText": "ग (जसे गो)",
+        "hindiAudio": "hindi/11a.ogg",
+        "marathiAudio": "marathi/11a.ogg",
+        "exampleWords": [
+          {
+            "word": "GO",
+            "emoji": "🏃",
+            "audioFile": "words/go.ogg"
+          },
+          {
+            "word": "BIG",
+            "emoji": "🐘",
+            "audioFile": "words/big.ogg"
+          },
+          {
+            "word": "GOT",
+            "emoji": "🎯",
+            "audioFile": "words/got.ogg"
+          },
+          {
+            "word": "GIFT",
+            "emoji": "",
+            "audioFile": "words/gift.ogg"
+          },
+          {
+            "word": "GAME",
+            "emoji": "",
+            "audioFile": "words/game.ogg"
+          },
+          {
+            "word": "GRASS",
+            "emoji": "",
+            "audioFile": "words/grass.ogg"
+          },
+          {
+            "word": "DRAGON",
+            "emoji": "",
+            "audioFile": "words/dragon.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "11b",
+        "phonogramId": "11",
+        "notation": "/j/",
+        "audioFile": "phonograms/11b.ogg",
+        "hindiText": "ज (जैसे जेम)",
+        "marathiText": "ज (जसे जेम)",
+        "hindiAudio": "hindi/11b.ogg",
+        "marathiAudio": "marathi/11b.ogg",
+        "exampleWords": [
+          {
+            "word": "GEM",
+            "emoji": "💎",
+            "audioFile": "words/gem.ogg"
+          },
+          {
+            "word": "GIANT",
+            "emoji": "🦕",
+            "audioFile": "words/giant.ogg"
+          },
+          {
+            "word": "GIRAFFE",
+            "emoji": "🦒",
+            "audioFile": "words/giraffe.ogg"
+          },
+          {
+            "word": "GENTLE",
+            "emoji": "",
+            "audioFile": "words/gentle.ogg"
+          },
+          {
+            "word": "GINGER",
+            "emoji": "",
+            "audioFile": "words/ginger.ogg"
+          },
+          {
+            "word": "MAGIC",
+            "emoji": "",
+            "audioFile": "words/magic.ogg"
+          },
+          {
+            "word": "ENERGY",
+            "emoji": "",
+            "audioFile": "words/energy.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "GO",
+      "BIG",
+      "GOT",
+      "GIFT",
+      "GAME",
+      "GRASS"
+    ]
+  },
+  {
+    "id": "12",
+    "text": "H",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "H is silent in HOUR, HONEST, and HEIR.",
+    "hindiText": "ह (जैसे हैट)",
+    "marathiText": "ह (जसे हॅट)",
+    "sounds": [
+      {
+        "soundId": "12",
+        "phonogramId": "12",
+        "notation": "/h/",
+        "audioFile": "phonograms/12.ogg",
+        "hindiText": "ह (जैसे हैट)",
+        "marathiText": "ह (जसे हॅट)",
+        "hindiAudio": "hindi/12.ogg",
+        "marathiAudio": "marathi/12.ogg",
+        "exampleWords": [
+          {
+            "word": "HAT",
+            "emoji": "🎩",
+            "audioFile": "words/hat.ogg"
+          },
+          {
+            "word": "HEN",
+            "emoji": "🐔",
+            "audioFile": "words/hen.ogg"
+          },
+          {
+            "word": "HOP",
+            "emoji": "🐇",
+            "audioFile": "words/hop.ogg"
+          },
+          {
+            "word": "HELP",
+            "emoji": "",
+            "audioFile": "words/help.ogg"
+          },
+          {
+            "word": "HOUSE",
+            "emoji": "",
+            "audioFile": "words/house.ogg"
+          },
+          {
+            "word": "HAPPY",
+            "emoji": "",
+            "audioFile": "words/happy.ogg"
+          },
+          {
+            "word": "BEHIND",
+            "emoji": "",
+            "audioFile": "words/behind.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "HAT",
+      "HEN",
+      "HOP",
+      "HELP",
+      "HOUSE",
+      "HAPPY"
+    ]
+  },
+  {
+    "id": "13",
+    "text": "J",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "J was the last letter added to the English alphabet.",
+    "hindiText": "ज (जैसे जैम)",
+    "marathiText": "ज (जसे जॅम)",
+    "sounds": [
+      {
+        "soundId": "13",
+        "phonogramId": "13",
+        "notation": "/j/",
+        "audioFile": "phonograms/13.ogg",
+        "hindiText": "ज (जैसे जैम)",
+        "marathiText": "ज (जसे जॅम)",
+        "hindiAudio": "hindi/13.ogg",
+        "marathiAudio": "marathi/13.ogg",
+        "exampleWords": [
+          {
+            "word": "JAM",
+            "emoji": "🫙",
+            "audioFile": "words/jam.ogg"
+          },
+          {
+            "word": "JET",
+            "emoji": "✈️",
+            "audioFile": "words/jet.ogg"
+          },
+          {
+            "word": "JOY",
+            "emoji": "😄",
+            "audioFile": "words/joy.ogg"
+          },
+          {
+            "word": "JUMP",
+            "emoji": "",
+            "audioFile": "words/jump.ogg"
+          },
+          {
+            "word": "JELLY",
+            "emoji": "",
+            "audioFile": "words/jelly.ogg"
+          },
+          {
+            "word": "JUST",
+            "emoji": "",
+            "audioFile": "words/just.ogg"
+          },
+          {
+            "word": "ENJOY",
+            "emoji": "",
+            "audioFile": "words/enjoy.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "JAM",
+      "JET",
+      "JOY",
+      "JUMP",
+      "JELLY",
+      "JUST"
+    ]
+  },
+  {
+    "id": "14",
+    "text": "K",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "K is silent before N as in KNEE and KNOW.",
+    "hindiText": "क (जैसे काइट)",
+    "marathiText": "क (जसे काइट)",
+    "sounds": [
+      {
+        "soundId": "14",
+        "phonogramId": "14",
+        "notation": "/k/",
+        "audioFile": "phonograms/14.ogg",
+        "hindiText": "क (जैसे काइट)",
+        "marathiText": "क (जसे काइट)",
+        "hindiAudio": "hindi/14.ogg",
+        "marathiAudio": "marathi/14.ogg",
+        "exampleWords": [
+          {
+            "word": "KITE",
+            "emoji": "🪁",
+            "audioFile": "words/kite.ogg"
+          },
+          {
+            "word": "KING",
+            "emoji": "👑",
+            "audioFile": "words/king.ogg"
+          },
+          {
+            "word": "KEY",
+            "emoji": "🔑",
+            "audioFile": "words/key.ogg"
+          },
+          {
+            "word": "KEEP",
+            "emoji": "",
+            "audioFile": "words/keep.ogg"
+          },
+          {
+            "word": "MASK",
+            "emoji": "",
+            "audioFile": "words/mask.ogg"
+          },
+          {
+            "word": "KICK",
+            "emoji": "",
+            "audioFile": "words/kick.ogg"
+          },
+          {
+            "word": "BASKET",
+            "emoji": "",
+            "audioFile": "words/basket.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "KITE",
+      "KING",
+      "KEY",
+      "KEEP",
+      "MASK",
+      "KICK"
+    ]
+  },
+  {
+    "id": "15",
+    "text": "L",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "L is sometimes silent as in WALK, TALK, and CALM.",
+    "hindiText": "ल (जैसे लिप)",
+    "marathiText": "ल (जसे लिप)",
+    "sounds": [
+      {
+        "soundId": "15",
+        "phonogramId": "15",
+        "notation": "/l/",
+        "audioFile": "phonograms/15.ogg",
+        "hindiText": "ल (जैसे लिप)",
+        "marathiText": "ल (जसे लिप)",
+        "hindiAudio": "hindi/15.ogg",
+        "marathiAudio": "marathi/15.ogg",
+        "exampleWords": [
+          {
+            "word": "LIP",
+            "emoji": "👄",
+            "audioFile": "words/lip.ogg"
+          },
+          {
+            "word": "LEG",
+            "emoji": "🦵",
+            "audioFile": "words/leg.ogg"
+          },
+          {
+            "word": "LION",
+            "emoji": "🦁",
+            "audioFile": "words/lion.ogg"
+          },
+          {
+            "word": "BALL",
+            "emoji": "",
+            "audioFile": "words/ball.ogg"
+          },
+          {
+            "word": "LOVE",
+            "emoji": "",
+            "audioFile": "words/love.ogg"
+          },
+          {
+            "word": "LEARN",
+            "emoji": "",
+            "audioFile": "words/learn.ogg"
+          },
+          {
+            "word": "HELLO",
+            "emoji": "",
+            "audioFile": "words/hello.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "LIP",
+      "LEG",
+      "LION",
+      "BALL",
+      "LOVE",
+      "LEARN"
+    ]
+  },
+  {
+    "id": "16",
+    "text": "M",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "M is one of the first sounds babies learn to make.",
+    "hindiText": "म (जैसे मैप)",
+    "marathiText": "म (जसे मॅप)",
+    "sounds": [
+      {
+        "soundId": "16",
+        "phonogramId": "16",
+        "notation": "/m/",
+        "audioFile": "phonograms/16.ogg",
+        "hindiText": "म (जैसे मैप)",
+        "marathiText": "म (जसे मॅप)",
+        "hindiAudio": "hindi/16.ogg",
+        "marathiAudio": "marathi/16.ogg",
+        "exampleWords": [
+          {
+            "word": "MAP",
+            "emoji": "🗺️",
+            "audioFile": "words/map.ogg"
+          },
+          {
+            "word": "MILK",
+            "emoji": "🥛",
+            "audioFile": "words/milk.ogg"
+          },
+          {
+            "word": "MOON",
+            "emoji": "🌙",
+            "audioFile": "words/moon.ogg"
+          },
+          {
+            "word": "MOM",
+            "emoji": "",
+            "audioFile": "words/mom.ogg"
+          },
+          {
+            "word": "DRUM",
+            "emoji": "",
+            "audioFile": "words/drum.ogg"
+          },
+          {
+            "word": "DREAM",
+            "emoji": "",
+            "audioFile": "words/dream.ogg"
+          },
+          {
+            "word": "MONKEY",
+            "emoji": "",
+            "audioFile": "words/monkey.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "MAP",
+      "MILK",
+      "MOON",
+      "MOM",
+      "DRUM",
+      "DREAM"
+    ]
+  },
+  {
+    "id": "17",
+    "text": "N",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "N is the 6th most common letter in English.",
+    "hindiText": "न (जैसे नेट)",
+    "marathiText": "न (जसे नेट)",
+    "sounds": [
+      {
+        "soundId": "17",
+        "phonogramId": "17",
+        "notation": "/n/",
+        "audioFile": "phonograms/17.ogg",
+        "hindiText": "न (जैसे नेट)",
+        "marathiText": "न (जसे नेट)",
+        "hindiAudio": "hindi/17.ogg",
+        "marathiAudio": "marathi/17.ogg",
+        "exampleWords": [
+          {
+            "word": "NET",
+            "emoji": "🥅",
+            "audioFile": "words/net.ogg"
+          },
+          {
+            "word": "NOSE",
+            "emoji": "👃",
+            "audioFile": "words/nose.ogg"
+          },
+          {
+            "word": "NUT",
+            "emoji": "🥜",
+            "audioFile": "words/nut.ogg"
+          },
+          {
+            "word": "NINE",
+            "emoji": "",
+            "audioFile": "words/nine.ogg"
+          },
+          {
+            "word": "FAN",
+            "emoji": "",
+            "audioFile": "words/fan.ogg"
+          },
+          {
+            "word": "NEST",
+            "emoji": "",
+            "audioFile": "words/nest.ogg"
+          },
+          {
+            "word": "ANIMAL",
+            "emoji": "",
+            "audioFile": "words/animal.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "NET",
+      "NOSE",
+      "NUT",
+      "NINE",
+      "FAN",
+      "NEST"
+    ]
+  },
+  {
+    "id": "18",
+    "text": "P",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "P is silent in PSALM, PNEUMONIA, and PSYCHOLOGY.",
+    "hindiText": "प (जैसे पैन)",
+    "marathiText": "प (जसे पॅन)",
+    "sounds": [
+      {
+        "soundId": "18",
+        "phonogramId": "18",
+        "notation": "/p/",
+        "audioFile": "phonograms/18.ogg",
+        "hindiText": "प (जैसे पैन)",
+        "marathiText": "प (जसे पॅन)",
+        "hindiAudio": "hindi/18.ogg",
+        "marathiAudio": "marathi/18.ogg",
+        "exampleWords": [
+          {
+            "word": "PAN",
+            "emoji": "🍳",
+            "audioFile": "words/pan.ogg"
+          },
+          {
+            "word": "PIG",
+            "emoji": "🐷",
+            "audioFile": "words/pig.ogg"
+          },
+          {
+            "word": "PIE",
+            "emoji": "🥧",
+            "audioFile": "words/pie.ogg"
+          },
+          {
+            "word": "CUP",
+            "emoji": "",
+            "audioFile": "words/cup.ogg"
+          },
+          {
+            "word": "OPEN",
+            "emoji": "",
+            "audioFile": "words/open.ogg"
+          },
+          {
+            "word": "PLANT",
+            "emoji": "",
+            "audioFile": "words/plant.ogg"
+          },
+          {
+            "word": "PEPPER",
+            "emoji": "",
+            "audioFile": "words/pepper.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "PAN",
+      "PIG",
+      "PIE",
+      "CUP",
+      "OPEN",
+      "PLANT"
+    ]
+  },
+  {
+    "id": "19",
+    "text": "Q",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "Q almost ALWAYS needs U — they are best friends.",
+    "hindiText": "क्व (जैसे क्वीन)",
+    "marathiText": "क्व (जसे क्वीन)",
+    "sounds": [
+      {
+        "soundId": "19",
+        "phonogramId": "19",
+        "notation": "/kw/",
+        "audioFile": "phonograms/19.ogg",
+        "hindiText": "क्व (जैसे क्वीन)",
+        "marathiText": "क्व (जसे क्वीन)",
+        "hindiAudio": "hindi/19.ogg",
+        "marathiAudio": "marathi/19.ogg",
+        "exampleWords": [
+          {
+            "word": "QUEEN",
+            "emoji": "👑",
+            "audioFile": "words/queen.ogg"
+          },
+          {
+            "word": "QUIZ",
+            "emoji": "❓",
+            "audioFile": "words/quiz.ogg"
+          },
+          {
+            "word": "QUILT",
+            "emoji": "🛏️",
+            "audioFile": "words/quilt.ogg"
+          },
+          {
+            "word": "QUICK",
+            "emoji": "",
+            "audioFile": "words/quick.ogg"
+          },
+          {
+            "word": "QUIET",
+            "emoji": "",
+            "audioFile": "words/quiet.ogg"
+          },
+          {
+            "word": "SQUARE",
+            "emoji": "",
+            "audioFile": "words/square.ogg"
+          },
+          {
+            "word": "QUARTER",
+            "emoji": "",
+            "audioFile": "words/quarter.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "QUEEN",
+      "QUIZ",
+      "QUILT",
+      "QUICK",
+      "QUIET",
+      "SQUARE"
+    ]
+  },
+  {
+    "id": "20",
+    "text": "R",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "R is the 'bossy' letter — it changes every vowel it follows.",
+    "hindiText": "र (जैसे रन)",
+    "marathiText": "र (जसे रन)",
+    "sounds": [
+      {
+        "soundId": "20",
+        "phonogramId": "20",
+        "notation": "/r/",
+        "audioFile": "phonograms/20.ogg",
+        "hindiText": "र (जैसे रन)",
+        "marathiText": "र (जसे रन)",
+        "hindiAudio": "hindi/20.ogg",
+        "marathiAudio": "marathi/20.ogg",
+        "exampleWords": [
+          {
+            "word": "RUN",
+            "emoji": "🏃",
+            "audioFile": "words/run.ogg"
+          },
+          {
+            "word": "RED",
+            "emoji": "🔴",
+            "audioFile": "words/red.ogg"
+          },
+          {
+            "word": "RAIN",
+            "emoji": "🌧️",
+            "audioFile": "words/rain.ogg"
+          },
+          {
+            "word": "ROAD",
+            "emoji": "",
+            "audioFile": "words/road.ogg"
+          },
+          {
+            "word": "CAR",
+            "emoji": "",
+            "audioFile": "words/car.ogg"
+          },
+          {
+            "word": "RIVER",
+            "emoji": "",
+            "audioFile": "words/river.ogg"
+          },
+          {
+            "word": "RABBIT",
+            "emoji": "",
+            "audioFile": "words/rabbit.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "RUN",
+      "RED",
+      "RAIN",
+      "ROAD",
+      "CAR",
+      "RIVER"
+    ]
+  },
+  {
+    "id": "21",
+    "text": "S",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "S is the most common letter used to make plurals.",
+    "hindiText": "स (जैसे सन)",
+    "marathiText": "स (जसे सन)",
+    "sounds": [
+      {
+        "soundId": "21a",
+        "phonogramId": "21",
+        "notation": "/s/",
+        "audioFile": "phonograms/21a.ogg",
+        "hindiText": "स (जैसे सन)",
+        "marathiText": "स (जसे सन)",
+        "hindiAudio": "hindi/21a.ogg",
+        "marathiAudio": "marathi/21a.ogg",
+        "exampleWords": [
+          {
+            "word": "SUN",
+            "emoji": "☀️",
+            "audioFile": "words/sun.ogg"
+          },
+          {
+            "word": "SIT",
+            "emoji": "🪑",
+            "audioFile": "words/sit.ogg"
+          },
+          {
+            "word": "SOCK",
+            "emoji": "🧦",
+            "audioFile": "words/sock.ogg"
+          },
+          {
+            "word": "STAR",
+            "emoji": "",
+            "audioFile": "words/star.ogg"
+          },
+          {
+            "word": "BEST",
+            "emoji": "",
+            "audioFile": "words/best.ogg"
+          },
+          {
+            "word": "SNAKE",
+            "emoji": "",
+            "audioFile": "words/snake.ogg"
+          },
+          {
+            "word": "SISTER",
+            "emoji": "",
+            "audioFile": "words/sister.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "21b",
+        "phonogramId": "21",
+        "notation": "/z/",
+        "audioFile": "phonograms/21b.ogg",
+        "hindiText": "ज़ (जैसे इज़)",
+        "marathiText": "झ (जसे इज)",
+        "hindiAudio": "hindi/21b.ogg",
+        "marathiAudio": "marathi/21b.ogg",
+        "exampleWords": [
+          {
+            "word": "IS",
+            "emoji": "🟰",
+            "audioFile": "words/is.ogg"
+          },
+          {
+            "word": "HIS",
+            "emoji": "👤",
+            "audioFile": "words/his.ogg"
+          },
+          {
+            "word": "NOSE",
+            "emoji": "👃",
+            "audioFile": "words/nose.ogg"
+          },
+          {
+            "word": "DOES",
+            "emoji": "",
+            "audioFile": "words/does.ogg"
+          },
+          {
+            "word": "RISE",
+            "emoji": "",
+            "audioFile": "words/rise.ogg"
+          },
+          {
+            "word": "PLEASE",
+            "emoji": "",
+            "audioFile": "words/please.ogg"
+          },
+          {
+            "word": "MUSIC",
+            "emoji": "",
+            "audioFile": "words/music.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SUN",
+      "SIT",
+      "SOCK",
+      "STAR",
+      "BEST",
+      "SNAKE"
+    ]
+  },
+  {
+    "id": "22",
+    "text": "T",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "T is the second most common consonant in English.",
+    "hindiText": "ट (जैसे टॉप)",
+    "marathiText": "ट (जसे टॉप)",
+    "sounds": [
+      {
+        "soundId": "22",
+        "phonogramId": "22",
+        "notation": "/t/",
+        "audioFile": "phonograms/22.ogg",
+        "hindiText": "ट (जैसे टॉप)",
+        "marathiText": "ट (जसे टॉप)",
+        "hindiAudio": "hindi/22.ogg",
+        "marathiAudio": "marathi/22.ogg",
+        "exampleWords": [
+          {
+            "word": "TOP",
+            "emoji": "🔝",
+            "audioFile": "words/top.ogg"
+          },
+          {
+            "word": "TEN",
+            "emoji": "🔟",
+            "audioFile": "words/ten.ogg"
+          },
+          {
+            "word": "TOY",
+            "emoji": "🧸",
+            "audioFile": "words/toy.ogg"
+          },
+          {
+            "word": "TENT",
+            "emoji": "",
+            "audioFile": "words/tent.ogg"
+          },
+          {
+            "word": "BAT",
+            "emoji": "",
+            "audioFile": "words/bat.ogg"
+          },
+          {
+            "word": "WATER",
+            "emoji": "",
+            "audioFile": "words/water.ogg"
+          },
+          {
+            "word": "BUTTER",
+            "emoji": "",
+            "audioFile": "words/butter.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "TOP",
+      "TEN",
+      "TOY",
+      "TENT",
+      "BAT",
+      "WATER"
+    ]
+  },
+  {
+    "id": "23",
+    "text": "V",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "English words never end in just V — they add a silent E.",
+    "hindiText": "व (जैसे वैन)",
+    "marathiText": "व (जसे वॅन)",
+    "sounds": [
+      {
+        "soundId": "23",
+        "phonogramId": "23",
+        "notation": "/v/",
+        "audioFile": "phonograms/23.ogg",
+        "hindiText": "व (जैसे वैन)",
+        "marathiText": "व (जसे वॅन)",
+        "hindiAudio": "hindi/23.ogg",
+        "marathiAudio": "marathi/23.ogg",
+        "exampleWords": [
+          {
+            "word": "VAN",
+            "emoji": "🚐",
+            "audioFile": "words/van.ogg"
+          },
+          {
+            "word": "VINE",
+            "emoji": "🌿",
+            "audioFile": "words/vine.ogg"
+          },
+          {
+            "word": "VASE",
+            "emoji": "🏺",
+            "audioFile": "words/vase.ogg"
+          },
+          {
+            "word": "VERY",
+            "emoji": "",
+            "audioFile": "words/very.ogg"
+          },
+          {
+            "word": "GIVE",
+            "emoji": "",
+            "audioFile": "words/give.ogg"
+          },
+          {
+            "word": "LOVE",
+            "emoji": "",
+            "audioFile": "words/love.ogg"
+          },
+          {
+            "word": "RIVER",
+            "emoji": "",
+            "audioFile": "words/river.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "VAN",
+      "VINE",
+      "VASE",
+      "VERY",
+      "GIVE",
+      "LOVE"
+    ]
+  },
+  {
+    "id": "24",
+    "text": "W",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "W is silent before R as in WRITE and WRONG.",
+    "hindiText": "व (जैसे वेट)",
+    "marathiText": "व (जसे वेट)",
+    "sounds": [
+      {
+        "soundId": "24",
+        "phonogramId": "24",
+        "notation": "/w/",
+        "audioFile": "phonograms/24.ogg",
+        "hindiText": "व (जैसे वेट)",
+        "marathiText": "व (जसे वेट)",
+        "hindiAudio": "hindi/24.ogg",
+        "marathiAudio": "marathi/24.ogg",
+        "exampleWords": [
+          {
+            "word": "WET",
+            "emoji": "💧",
+            "audioFile": "words/wet.ogg"
+          },
+          {
+            "word": "WIN",
+            "emoji": "🏆",
+            "audioFile": "words/win.ogg"
+          },
+          {
+            "word": "WEB",
+            "emoji": "🕸️",
+            "audioFile": "words/web.ogg"
+          },
+          {
+            "word": "SWIM",
+            "emoji": "",
+            "audioFile": "words/swim.ogg"
+          },
+          {
+            "word": "WATER",
+            "emoji": "",
+            "audioFile": "words/water.ogg"
+          },
+          {
+            "word": "WINDOW",
+            "emoji": "",
+            "audioFile": "words/window.ogg"
+          },
+          {
+            "word": "WINTER",
+            "emoji": "",
+            "audioFile": "words/winter.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "WET",
+      "WIN",
+      "WEB",
+      "SWIM",
+      "WATER",
+      "WINDOW"
+    ]
+  },
+  {
+    "id": "25",
+    "text": "X",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "X at the end of a word says /ks/ — it is a two-sound letter.",
+    "hindiText": "क्स (जैसे फ़ॉक्स)",
+    "marathiText": "क्स (जसे फॉक्स)",
+    "sounds": [
+      {
+        "soundId": "25a",
+        "phonogramId": "25",
+        "notation": "/ks/",
+        "audioFile": "phonograms/25a.ogg",
+        "hindiText": "क्स (जैसे फ़ॉक्स)",
+        "marathiText": "क्स (जसे फॉक्स)",
+        "hindiAudio": "hindi/25a.ogg",
+        "marathiAudio": "marathi/25a.ogg",
+        "exampleWords": [
+          {
+            "word": "FOX",
+            "emoji": "🦊",
+            "audioFile": "words/fox.ogg"
+          },
+          {
+            "word": "BOX",
+            "emoji": "📦",
+            "audioFile": "words/box.ogg"
+          },
+          {
+            "word": "SIX",
+            "emoji": "6️⃣",
+            "audioFile": "words/six.ogg"
+          },
+          {
+            "word": "MIX",
+            "emoji": "",
+            "audioFile": "words/mix.ogg"
+          },
+          {
+            "word": "NEXT",
+            "emoji": "",
+            "audioFile": "words/next.ogg"
+          },
+          {
+            "word": "TEXT",
+            "emoji": "",
+            "audioFile": "words/text.ogg"
+          },
+          {
+            "word": "RELAX",
+            "emoji": "",
+            "audioFile": "words/relax.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "25b",
+        "phonogramId": "25",
+        "notation": "/z/",
+        "audioFile": "phonograms/25b.ogg",
+        "hindiText": "ज़ (जैसे ज़ाइलोफ़ोन)",
+        "marathiText": "झ (जसे झायलोफोन)",
+        "hindiAudio": "hindi/25b.ogg",
+        "marathiAudio": "marathi/25b.ogg",
+        "exampleWords": [
+          {
+            "word": "X-RAY",
+            "emoji": "🩻",
+            "audioFile": "words/xray.ogg"
+          },
+          {
+            "word": "XMAS",
+            "emoji": "🎄",
+            "audioFile": "words/xmas.ogg"
+          },
+          {
+            "word": "XEROX",
+            "emoji": "📄",
+            "audioFile": "words/xerox.ogg"
+          },
+          {
+            "word": "XYLOPHONE",
+            "emoji": "",
+            "audioFile": "words/xylophone.ogg"
+          },
+          {
+            "word": "XENON",
+            "emoji": "",
+            "audioFile": "words/xenon.ogg"
+          },
+          {
+            "word": "XERUS",
+            "emoji": "",
+            "audioFile": "words/xerus.ogg"
+          },
+          {
+            "word": "XYLEM",
+            "emoji": "",
+            "audioFile": "words/xylem.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "FOX",
+      "BOX",
+      "SIX",
+      "MIX",
+      "NEXT",
+      "TEXT"
+    ]
+  },
+  {
+    "id": "26",
+    "text": "Z",
+    "category": "singleConsonant",
+    "colorHex": "#2196F3",
+    "funFact": "Z is the least used letter in English.",
+    "hindiText": "ज़ (जैसे ज़िप)",
+    "marathiText": "झ (जसे झिप)",
+    "sounds": [
+      {
+        "soundId": "26",
+        "phonogramId": "26",
+        "notation": "/z/",
+        "audioFile": "phonograms/26.ogg",
+        "hindiText": "ज़ (जैसे ज़िप)",
+        "marathiText": "झ (जसे झिप)",
+        "hindiAudio": "hindi/26.ogg",
+        "marathiAudio": "marathi/26.ogg",
+        "exampleWords": [
+          {
+            "word": "ZIP",
+            "emoji": "🤐",
+            "audioFile": "words/zip.ogg"
+          },
+          {
+            "word": "ZOO",
+            "emoji": "🦁",
+            "audioFile": "words/zoo.ogg"
+          },
+          {
+            "word": "ZERO",
+            "emoji": "0️⃣",
+            "audioFile": "words/zero.ogg"
+          },
+          {
+            "word": "BUZZ",
+            "emoji": "",
+            "audioFile": "words/buzz.ogg"
+          },
+          {
+            "word": "FIZZ",
+            "emoji": "",
+            "audioFile": "words/fizz.ogg"
+          },
+          {
+            "word": "PIZZA",
+            "emoji": "",
+            "audioFile": "words/pizza.ogg"
+          },
+          {
+            "word": "PUZZLE",
+            "emoji": "",
+            "audioFile": "words/puzzle.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "ZIP",
+      "ZOO",
+      "ZERO",
+      "BUZZ",
+      "FIZZ",
+      "PIZZA"
+    ]
+  },
+  {
+    "id": "27",
+    "text": "SH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "SH makes a 'be quiet' sound — shhh!",
+    "hindiText": "श (जैसे शिप)",
+    "marathiText": "श (जसे शिप)",
+    "sounds": [
+      {
+        "soundId": "27",
+        "phonogramId": "27",
+        "notation": "/sh/",
+        "audioFile": "phonograms/27.ogg",
+        "hindiText": "श (जैसे शिप)",
+        "marathiText": "श (जसे शिप)",
+        "hindiAudio": "hindi/27.ogg",
+        "marathiAudio": "marathi/27.ogg",
+        "exampleWords": [
+          {
+            "word": "SHIP",
+            "emoji": "🚢",
+            "audioFile": "words/ship.ogg"
+          },
+          {
+            "word": "FISH",
+            "emoji": "🐟",
+            "audioFile": "words/fish.ogg"
+          },
+          {
+            "word": "SHOE",
+            "emoji": "👟",
+            "audioFile": "words/shoe.ogg"
+          },
+          {
+            "word": "SHELL",
+            "emoji": "",
+            "audioFile": "words/shell.ogg"
+          },
+          {
+            "word": "WISH",
+            "emoji": "",
+            "audioFile": "words/wish.ogg"
+          },
+          {
+            "word": "BRUSH",
+            "emoji": "",
+            "audioFile": "words/brush.ogg"
+          },
+          {
+            "word": "MUSHROOM",
+            "emoji": "",
+            "audioFile": "words/mushroom.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SHIP",
+      "FISH",
+      "SHOE",
+      "SHELL",
+      "WISH",
+      "BRUSH"
+    ]
+  },
+  {
+    "id": "28",
+    "text": "TH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "Voiced TH vibrates your vocal cords — put your hand on your throat to feel it.",
+    "hindiText": "द (जैसे दिस)",
+    "marathiText": "द (जसे दिस)",
+    "sounds": [
+      {
+        "soundId": "28a",
+        "phonogramId": "28",
+        "notation": "/th/ (voiced)",
+        "audioFile": "phonograms/28a.ogg",
+        "hindiText": "द (जैसे दिस)",
+        "marathiText": "द (जसे दिस)",
+        "hindiAudio": "hindi/28a.ogg",
+        "marathiAudio": "marathi/28a.ogg",
+        "exampleWords": [
+          {
+            "word": "THE",
+            "emoji": "👆",
+            "audioFile": "words/the.ogg"
+          },
+          {
+            "word": "THIS",
+            "emoji": "👉",
+            "audioFile": "words/this.ogg"
+          },
+          {
+            "word": "THAT",
+            "emoji": "👈",
+            "audioFile": "words/that.ogg"
+          },
+          {
+            "word": "THEY",
+            "emoji": "",
+            "audioFile": "words/they.ogg"
+          },
+          {
+            "word": "THEM",
+            "emoji": "",
+            "audioFile": "words/them.ogg"
+          },
+          {
+            "word": "FATHER",
+            "emoji": "",
+            "audioFile": "words/father.ogg"
+          },
+          {
+            "word": "TOGETHER",
+            "emoji": "",
+            "audioFile": "words/together.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "28b",
+        "phonogramId": "28",
+        "notation": "/th/ (unvoiced)",
+        "audioFile": "phonograms/28b.ogg",
+        "hindiText": "थ (जैसे थिंक)",
+        "marathiText": "थ (जसे थिंक)",
+        "hindiAudio": "hindi/28b.ogg",
+        "marathiAudio": "marathi/28b.ogg",
+        "exampleWords": [
+          {
+            "word": "THIN",
+            "emoji": "📏",
+            "audioFile": "words/thin.ogg"
+          },
+          {
+            "word": "BATH",
+            "emoji": "🛁",
+            "audioFile": "words/bath.ogg"
+          },
+          {
+            "word": "THREE",
+            "emoji": "3️⃣",
+            "audioFile": "words/three.ogg"
+          },
+          {
+            "word": "THINK",
+            "emoji": "",
+            "audioFile": "words/think.ogg"
+          },
+          {
+            "word": "MATH",
+            "emoji": "",
+            "audioFile": "words/math.ogg"
+          },
+          {
+            "word": "TEETH",
+            "emoji": "",
+            "audioFile": "words/teeth.ogg"
+          },
+          {
+            "word": "BIRTHDAY",
+            "emoji": "",
+            "audioFile": "words/birthday.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "THE",
+      "THIS",
+      "THAT",
+      "THEY",
+      "THEM",
+      "FATHER"
+    ]
+  },
+  {
+    "id": "29",
+    "text": "CH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "CH is the most common sound of this team — like a train: choo-choo!",
+    "hindiText": "च (जैसे चिप)",
+    "marathiText": "च (जसे चिप)",
+    "sounds": [
+      {
+        "soundId": "29a",
+        "phonogramId": "29",
+        "notation": "/ch/",
+        "audioFile": "phonograms/29a.ogg",
+        "hindiText": "च (जैसे चिप)",
+        "marathiText": "च (जसे चिप)",
+        "hindiAudio": "hindi/29a.ogg",
+        "marathiAudio": "marathi/29a.ogg",
+        "exampleWords": [
+          {
+            "word": "CHIP",
+            "emoji": "🍟",
+            "audioFile": "words/chip.ogg"
+          },
+          {
+            "word": "CHAT",
+            "emoji": "💬",
+            "audioFile": "words/chat.ogg"
+          },
+          {
+            "word": "CHEST",
+            "emoji": "📦",
+            "audioFile": "words/chest.ogg"
+          },
+          {
+            "word": "LUNCH",
+            "emoji": "",
+            "audioFile": "words/lunch.ogg"
+          },
+          {
+            "word": "CHAIR",
+            "emoji": "",
+            "audioFile": "words/chair.ogg"
+          },
+          {
+            "word": "CHILD",
+            "emoji": "",
+            "audioFile": "words/child.ogg"
+          },
+          {
+            "word": "TEACHER",
+            "emoji": "",
+            "audioFile": "words/teacher.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "29b",
+        "phonogramId": "29",
+        "notation": "/k/",
+        "audioFile": "phonograms/29b.ogg",
+        "hindiText": "क (जैसे स्कूल)",
+        "marathiText": "क (जसे स्कूल)",
+        "hindiAudio": "hindi/29b.ogg",
+        "marathiAudio": "marathi/29b.ogg",
+        "exampleWords": [
+          {
+            "word": "SCHOOL",
+            "emoji": "🏫",
+            "audioFile": "words/school.ogg"
+          },
+          {
+            "word": "CHOIR",
+            "emoji": "🎵",
+            "audioFile": "words/choir.ogg"
+          },
+          {
+            "word": "ACHE",
+            "emoji": "🤕",
+            "audioFile": "words/ache.ogg"
+          },
+          {
+            "word": "CHORUS",
+            "emoji": "",
+            "audioFile": "words/chorus.ogg"
+          },
+          {
+            "word": "ANCHOR",
+            "emoji": "",
+            "audioFile": "words/anchor.ogg"
+          },
+          {
+            "word": "STOMACH",
+            "emoji": "",
+            "audioFile": "words/stomach.ogg"
+          },
+          {
+            "word": "ORCHESTRA",
+            "emoji": "",
+            "audioFile": "words/orchestra.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "29c",
+        "phonogramId": "29",
+        "notation": "/sh/",
+        "audioFile": "phonograms/29c.ogg",
+        "hindiText": "श (जैसे शेफ़)",
+        "marathiText": "श (जसे शेफ)",
+        "hindiAudio": "hindi/29c.ogg",
+        "marathiAudio": "marathi/29c.ogg",
+        "exampleWords": [
+          {
+            "word": "CHEF",
+            "emoji": "👨‍🍳",
+            "audioFile": "words/chef.ogg"
+          },
+          {
+            "word": "MACHINE",
+            "emoji": "⚙️",
+            "audioFile": "words/machine.ogg"
+          },
+          {
+            "word": "BROCHURE",
+            "emoji": "📰",
+            "audioFile": "words/brochure.ogg"
+          },
+          {
+            "word": "CHALET",
+            "emoji": "",
+            "audioFile": "words/chalet.ogg"
+          },
+          {
+            "word": "CHARADE",
+            "emoji": "",
+            "audioFile": "words/charade.ogg"
+          },
+          {
+            "word": "MUSTACHE",
+            "emoji": "",
+            "audioFile": "words/mustache.ogg"
+          },
+          {
+            "word": "PARACHUTE",
+            "emoji": "",
+            "audioFile": "words/parachute.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "CHIP",
+      "CHAT",
+      "CHEST",
+      "LUNCH",
+      "CHAIR",
+      "CHILD"
+    ]
+  },
+  {
+    "id": "30",
+    "text": "WH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "WH used to be pronounced with a puff of air — some dialects still do.",
+    "hindiText": "व (जैसे व्हेल)",
+    "marathiText": "व (जसे व्हेल)",
+    "sounds": [
+      {
+        "soundId": "30",
+        "phonogramId": "30",
+        "notation": "/wh/",
+        "audioFile": "phonograms/30.ogg",
+        "hindiText": "व (जैसे व्हेल)",
+        "marathiText": "व (जसे व्हेल)",
+        "hindiAudio": "hindi/30.ogg",
+        "marathiAudio": "marathi/30.ogg",
+        "exampleWords": [
+          {
+            "word": "WHALE",
+            "emoji": "🐳",
+            "audioFile": "words/whale.ogg"
+          },
+          {
+            "word": "WHEN",
+            "emoji": "⏰",
+            "audioFile": "words/when.ogg"
+          },
+          {
+            "word": "WHITE",
+            "emoji": "⬜",
+            "audioFile": "words/white.ogg"
+          },
+          {
+            "word": "WHAT",
+            "emoji": "",
+            "audioFile": "words/what.ogg"
+          },
+          {
+            "word": "WHERE",
+            "emoji": "",
+            "audioFile": "words/where.ogg"
+          },
+          {
+            "word": "WHEEL",
+            "emoji": "",
+            "audioFile": "words/wheel.ogg"
+          },
+          {
+            "word": "WHISPER",
+            "emoji": "",
+            "audioFile": "words/whisper.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "WHALE",
+      "WHEN",
+      "WHITE",
+      "WHAT",
+      "WHERE",
+      "WHEEL"
+    ]
+  },
+  {
+    "id": "31",
+    "text": "PH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "PH comes from Greek — it replaced the Greek letter Phi.",
+    "hindiText": "फ़ (जैसे फ़ोन)",
+    "marathiText": "फ (जसे फोन)",
+    "sounds": [
+      {
+        "soundId": "31",
+        "phonogramId": "31",
+        "notation": "/f/",
+        "audioFile": "phonograms/31.ogg",
+        "hindiText": "फ़ (जैसे फ़ोन)",
+        "marathiText": "फ (जसे फोन)",
+        "hindiAudio": "hindi/31.ogg",
+        "marathiAudio": "marathi/31.ogg",
+        "exampleWords": [
+          {
+            "word": "PHONE",
+            "emoji": "📱",
+            "audioFile": "words/phone.ogg"
+          },
+          {
+            "word": "PHOTO",
+            "emoji": "📷",
+            "audioFile": "words/photo.ogg"
+          },
+          {
+            "word": "GRAPH",
+            "emoji": "📊",
+            "audioFile": "words/graph.ogg"
+          },
+          {
+            "word": "ELEPHANT",
+            "emoji": "",
+            "audioFile": "words/elephant.ogg"
+          },
+          {
+            "word": "ALPHABET",
+            "emoji": "",
+            "audioFile": "words/alphabet.ogg"
+          },
+          {
+            "word": "DOLPHIN",
+            "emoji": "",
+            "audioFile": "words/dolphin.ogg"
+          },
+          {
+            "word": "PHANTOM",
+            "emoji": "",
+            "audioFile": "words/phantom.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "PHONE",
+      "PHOTO",
+      "GRAPH",
+      "ELEPHANT",
+      "ALPHABET",
+      "DOLPHIN"
+    ]
+  },
+  {
+    "id": "32",
+    "text": "CK",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "CK is used right after a short vowel at the end of a syllable.",
+    "hindiText": "क (जैसे डक)",
+    "marathiText": "क (जसे डक)",
+    "sounds": [
+      {
+        "soundId": "32",
+        "phonogramId": "32",
+        "notation": "/k/",
+        "audioFile": "phonograms/32.ogg",
+        "hindiText": "क (जैसे डक)",
+        "marathiText": "क (जसे डक)",
+        "hindiAudio": "hindi/32.ogg",
+        "marathiAudio": "marathi/32.ogg",
+        "exampleWords": [
+          {
+            "word": "DUCK",
+            "emoji": "🦆",
+            "audioFile": "words/duck.ogg"
+          },
+          {
+            "word": "BACK",
+            "emoji": "🔙",
+            "audioFile": "words/back.ogg"
+          },
+          {
+            "word": "KICK",
+            "emoji": "🦶",
+            "audioFile": "words/kick.ogg"
+          },
+          {
+            "word": "ROCK",
+            "emoji": "",
+            "audioFile": "words/rock.ogg"
+          },
+          {
+            "word": "TRICK",
+            "emoji": "",
+            "audioFile": "words/trick.ogg"
+          },
+          {
+            "word": "CLOCK",
+            "emoji": "",
+            "audioFile": "words/clock.ogg"
+          },
+          {
+            "word": "CHICKEN",
+            "emoji": "",
+            "audioFile": "words/chicken.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "DUCK",
+      "BACK",
+      "KICK",
+      "ROCK",
+      "TRICK",
+      "CLOCK"
+    ]
+  },
+  {
+    "id": "33",
+    "text": "NK",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "NK says /ngk/ — the N changes to the /ng/ sound before K.",
+    "hindiText": "ंक (जैसे बैंक)",
+    "marathiText": "ंक (जसे बँक)",
+    "sounds": [
+      {
+        "soundId": "33",
+        "phonogramId": "33",
+        "notation": "/ngk/",
+        "audioFile": "phonograms/33.ogg",
+        "hindiText": "ंक (जैसे बैंक)",
+        "marathiText": "ंक (जसे बँक)",
+        "hindiAudio": "hindi/33.ogg",
+        "marathiAudio": "marathi/33.ogg",
+        "exampleWords": [
+          {
+            "word": "BANK",
+            "emoji": "🏦",
+            "audioFile": "words/bank.ogg"
+          },
+          {
+            "word": "PINK",
+            "emoji": "💗",
+            "audioFile": "words/pink.ogg"
+          },
+          {
+            "word": "THINK",
+            "emoji": "🤔",
+            "audioFile": "words/think.ogg"
+          },
+          {
+            "word": "DRINK",
+            "emoji": "",
+            "audioFile": "words/drink.ogg"
+          },
+          {
+            "word": "BLANK",
+            "emoji": "",
+            "audioFile": "words/blank.ogg"
+          },
+          {
+            "word": "TRUNK",
+            "emoji": "",
+            "audioFile": "words/trunk.ogg"
+          },
+          {
+            "word": "MONKEY",
+            "emoji": "",
+            "audioFile": "words/monkey.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BANK",
+      "PINK",
+      "THINK",
+      "DRINK",
+      "BLANK",
+      "TRUNK"
+    ]
+  },
+  {
+    "id": "34",
+    "text": "NG",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "NG makes a single nasal sound — try saying it without the G!",
+    "hindiText": "ंग (जैसे रिंग)",
+    "marathiText": "ंग (जसे रिंग)",
+    "sounds": [
+      {
+        "soundId": "34",
+        "phonogramId": "34",
+        "notation": "/ng/",
+        "audioFile": "phonograms/34.ogg",
+        "hindiText": "ंग (जैसे रिंग)",
+        "marathiText": "ंग (जसे रिंग)",
+        "hindiAudio": "hindi/34.ogg",
+        "marathiAudio": "marathi/34.ogg",
+        "exampleWords": [
+          {
+            "word": "RING",
+            "emoji": "💍",
+            "audioFile": "words/ring.ogg"
+          },
+          {
+            "word": "SONG",
+            "emoji": "🎵",
+            "audioFile": "words/song.ogg"
+          },
+          {
+            "word": "KING",
+            "emoji": "👑",
+            "audioFile": "words/king.ogg"
+          },
+          {
+            "word": "THING",
+            "emoji": "",
+            "audioFile": "words/thing.ogg"
+          },
+          {
+            "word": "BRING",
+            "emoji": "",
+            "audioFile": "words/bring.ogg"
+          },
+          {
+            "word": "LONG",
+            "emoji": "",
+            "audioFile": "words/long.ogg"
+          },
+          {
+            "word": "MORNING",
+            "emoji": "",
+            "audioFile": "words/morning.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "RING",
+      "SONG",
+      "KING",
+      "THING",
+      "BRING",
+      "LONG"
+    ]
+  },
+  {
+    "id": "35",
+    "text": "GH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "GH says /g/ at the beginning of words like GHOST.",
+    "hindiText": "ग (जैसे गोस्ट)",
+    "marathiText": "ग (जसे गोस्ट)",
+    "sounds": [
+      {
+        "soundId": "35a",
+        "phonogramId": "35",
+        "notation": "/g/",
+        "audioFile": "phonograms/35a.ogg",
+        "hindiText": "ग (जैसे गोस्ट)",
+        "marathiText": "ग (जसे गोस्ट)",
+        "hindiAudio": "hindi/35a.ogg",
+        "marathiAudio": "marathi/35a.ogg",
+        "exampleWords": [
+          {
+            "word": "GHOST",
+            "emoji": "👻",
+            "audioFile": "words/ghost.ogg"
+          },
+          {
+            "word": "GHEE",
+            "emoji": "🧈",
+            "audioFile": "words/ghee.ogg"
+          },
+          {
+            "word": "GHERKIN",
+            "emoji": "🥒",
+            "audioFile": "words/gherkin.ogg"
+          },
+          {
+            "word": "GHASTLY",
+            "emoji": "",
+            "audioFile": "words/ghastly.ogg"
+          },
+          {
+            "word": "GHETTO",
+            "emoji": "",
+            "audioFile": "words/ghetto.ogg"
+          },
+          {
+            "word": "GHANA",
+            "emoji": "",
+            "audioFile": "words/ghana.ogg"
+          },
+          {
+            "word": "AGHAST",
+            "emoji": "",
+            "audioFile": "words/aghast.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "35b",
+        "phonogramId": "35",
+        "notation": "silent",
+        "audioFile": "phonograms/35b.ogg",
+        "hindiText": "(शांत/साइलेंट)",
+        "marathiText": "(शांत/सायलेंट)",
+        "hindiAudio": "hindi/35b.ogg",
+        "marathiAudio": "marathi/35b.ogg",
+        "exampleWords": [
+          {
+            "word": "NIGHT",
+            "emoji": "🌙",
+            "audioFile": "words/night.ogg"
+          },
+          {
+            "word": "LIGHT",
+            "emoji": "💡",
+            "audioFile": "words/light.ogg"
+          },
+          {
+            "word": "HIGH",
+            "emoji": "⬆️",
+            "audioFile": "words/high.ogg"
+          },
+          {
+            "word": "FIGHT",
+            "emoji": "",
+            "audioFile": "words/fight.ogg"
+          },
+          {
+            "word": "RIGHT",
+            "emoji": "",
+            "audioFile": "words/right.ogg"
+          },
+          {
+            "word": "BRIGHT",
+            "emoji": "",
+            "audioFile": "words/bright.ogg"
+          },
+          {
+            "word": "DAUGHTER",
+            "emoji": "",
+            "audioFile": "words/daughter.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "GHOST",
+      "GHEE",
+      "GHERKIN",
+      "GHASTLY",
+      "GHETTO",
+      "GHANA"
+    ]
+  },
+  {
+    "id": "36",
+    "text": "KN",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "The K in KN used to be pronounced in Old English!",
+    "hindiText": "न (जैसे नी)",
+    "marathiText": "न (जसे नी)",
+    "sounds": [
+      {
+        "soundId": "36",
+        "phonogramId": "36",
+        "notation": "/n/",
+        "audioFile": "phonograms/36.ogg",
+        "hindiText": "न (जैसे नी)",
+        "marathiText": "न (जसे नी)",
+        "hindiAudio": "hindi/36.ogg",
+        "marathiAudio": "marathi/36.ogg",
+        "exampleWords": [
+          {
+            "word": "KNEE",
+            "emoji": "🦵",
+            "audioFile": "words/knee.ogg"
+          },
+          {
+            "word": "KNOW",
+            "emoji": "🧠",
+            "audioFile": "words/know.ogg"
+          },
+          {
+            "word": "KNIFE",
+            "emoji": "🔪",
+            "audioFile": "words/knife.ogg"
+          },
+          {
+            "word": "KNOT",
+            "emoji": "",
+            "audioFile": "words/knot.ogg"
+          },
+          {
+            "word": "KNOCK",
+            "emoji": "",
+            "audioFile": "words/knock.ogg"
+          },
+          {
+            "word": "KNIGHT",
+            "emoji": "",
+            "audioFile": "words/knight.ogg"
+          },
+          {
+            "word": "KNUCKLE",
+            "emoji": "",
+            "audioFile": "words/knuckle.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "KNEE",
+      "KNOW",
+      "KNIFE",
+      "KNOT",
+      "KNOCK",
+      "KNIGHT"
+    ]
+  },
+  {
+    "id": "37",
+    "text": "WR",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "The W in WR was pronounced 1000 years ago in Old English.",
+    "hindiText": "र (जैसे राइट)",
+    "marathiText": "र (जसे राइट)",
+    "sounds": [
+      {
+        "soundId": "37",
+        "phonogramId": "37",
+        "notation": "/r/",
+        "audioFile": "phonograms/37.ogg",
+        "hindiText": "र (जैसे राइट)",
+        "marathiText": "र (जसे राइट)",
+        "hindiAudio": "hindi/37.ogg",
+        "marathiAudio": "marathi/37.ogg",
+        "exampleWords": [
+          {
+            "word": "WRITE",
+            "emoji": "✍️",
+            "audioFile": "words/write.ogg"
+          },
+          {
+            "word": "WRONG",
+            "emoji": "❌",
+            "audioFile": "words/wrong.ogg"
+          },
+          {
+            "word": "WRAP",
+            "emoji": "🎁",
+            "audioFile": "words/wrap.ogg"
+          },
+          {
+            "word": "WRIST",
+            "emoji": "",
+            "audioFile": "words/wrist.ogg"
+          },
+          {
+            "word": "WRECK",
+            "emoji": "",
+            "audioFile": "words/wreck.ogg"
+          },
+          {
+            "word": "WREN",
+            "emoji": "",
+            "audioFile": "words/wren.ogg"
+          },
+          {
+            "word": "WRESTLE",
+            "emoji": "",
+            "audioFile": "words/wrestle.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "WRITE",
+      "WRONG",
+      "WRAP",
+      "WRIST",
+      "WRECK",
+      "WREN"
+    ]
+  },
+  {
+    "id": "38",
+    "text": "GN",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "GN words often come from Old English or Latin.",
+    "hindiText": "न (जैसे नैट)",
+    "marathiText": "न (जसे नॅट)",
+    "sounds": [
+      {
+        "soundId": "38",
+        "phonogramId": "38",
+        "notation": "/n/",
+        "audioFile": "phonograms/38.ogg",
+        "hindiText": "न (जैसे नैट)",
+        "marathiText": "न (जसे नॅट)",
+        "hindiAudio": "hindi/38.ogg",
+        "marathiAudio": "marathi/38.ogg",
+        "exampleWords": [
+          {
+            "word": "GNAT",
+            "emoji": "🦟",
+            "audioFile": "words/gnat.ogg"
+          },
+          {
+            "word": "GNAW",
+            "emoji": "🦷",
+            "audioFile": "words/gnaw.ogg"
+          },
+          {
+            "word": "SIGN",
+            "emoji": "🪧",
+            "audioFile": "words/sign.ogg"
+          },
+          {
+            "word": "GNOME",
+            "emoji": "",
+            "audioFile": "words/gnome.ogg"
+          },
+          {
+            "word": "GNASH",
+            "emoji": "",
+            "audioFile": "words/gnash.ogg"
+          },
+          {
+            "word": "DESIGN",
+            "emoji": "",
+            "audioFile": "words/design.ogg"
+          },
+          {
+            "word": "REIGN",
+            "emoji": "",
+            "audioFile": "words/reign.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "GNAT",
+      "GNAW",
+      "SIGN",
+      "GNOME",
+      "GNASH",
+      "DESIGN"
+    ]
+  },
+  {
+    "id": "39",
+    "text": "DGE",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "DGE is used right after a short vowel to spell the /j/ sound.",
+    "hindiText": "ज (जैसे ब्रिज)",
+    "marathiText": "ज (जसे ब्रिज)",
+    "sounds": [
+      {
+        "soundId": "39",
+        "phonogramId": "39",
+        "notation": "/j/",
+        "audioFile": "phonograms/39.ogg",
+        "hindiText": "ज (जैसे ब्रिज)",
+        "marathiText": "ज (जसे ब्रिज)",
+        "hindiAudio": "hindi/39.ogg",
+        "marathiAudio": "marathi/39.ogg",
+        "exampleWords": [
+          {
+            "word": "BRIDGE",
+            "emoji": "🌉",
+            "audioFile": "words/bridge.ogg"
+          },
+          {
+            "word": "JUDGE",
+            "emoji": "⚖️",
+            "audioFile": "words/judge.ogg"
+          },
+          {
+            "word": "EDGE",
+            "emoji": "🔪",
+            "audioFile": "words/edge.ogg"
+          },
+          {
+            "word": "BADGE",
+            "emoji": "",
+            "audioFile": "words/badge.ogg"
+          },
+          {
+            "word": "FRIDGE",
+            "emoji": "",
+            "audioFile": "words/fridge.ogg"
+          },
+          {
+            "word": "WEDGE",
+            "emoji": "",
+            "audioFile": "words/wedge.ogg"
+          },
+          {
+            "word": "KNOWLEDGE",
+            "emoji": "",
+            "audioFile": "words/knowledge.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "74",
+        "phonogramId": "39",
+        "notation": "/j/",
+        "audioFile": "phonograms/74.ogg",
+        "hindiText": "ज (जैसे फ़ज)",
+        "marathiText": "ज (जसे फज)",
+        "hindiAudio": "hindi/74.ogg",
+        "marathiAudio": "marathi/74.ogg",
+        "exampleWords": [
+          {
+            "word": "FUDGE",
+            "emoji": "🍫",
+            "audioFile": "words/fudge.ogg"
+          },
+          {
+            "word": "BADGE",
+            "emoji": "🎖️",
+            "audioFile": "words/badge.ogg"
+          },
+          {
+            "word": "LEDGE",
+            "emoji": "🧗",
+            "audioFile": "words/ledge.ogg"
+          },
+          {
+            "word": "HEDGE",
+            "emoji": "",
+            "audioFile": "words/hedge.ogg"
+          },
+          {
+            "word": "LODGE",
+            "emoji": "",
+            "audioFile": "words/lodge.ogg"
+          },
+          {
+            "word": "RIDGE",
+            "emoji": "",
+            "audioFile": "words/ridge.ogg"
+          },
+          {
+            "word": "SMUDGE",
+            "emoji": "",
+            "audioFile": "words/smudge.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BRIDGE",
+      "JUDGE",
+      "EDGE",
+      "BADGE",
+      "FRIDGE",
+      "WEDGE"
+    ]
+  },
+  {
+    "id": "40",
+    "text": "TCH",
+    "category": "consonantTeam",
+    "colorHex": "#4CAF50",
+    "funFact": "TCH is used right after a short vowel to spell the /ch/ sound.",
+    "hindiText": "च (जैसे मैच)",
+    "marathiText": "च (जसे मॅच)",
+    "sounds": [
+      {
+        "soundId": "40",
+        "phonogramId": "40",
+        "notation": "/ch/",
+        "audioFile": "phonograms/40.ogg",
+        "hindiText": "च (जैसे मैच)",
+        "marathiText": "च (जसे मॅच)",
+        "hindiAudio": "hindi/40.ogg",
+        "marathiAudio": "marathi/40.ogg",
+        "exampleWords": [
+          {
+            "word": "MATCH",
+            "emoji": "🔥",
+            "audioFile": "words/match.ogg"
+          },
+          {
+            "word": "CATCH",
+            "emoji": "🥎",
+            "audioFile": "words/catch.ogg"
+          },
+          {
+            "word": "WATCH",
+            "emoji": "⌚",
+            "audioFile": "words/watch.ogg"
+          },
+          {
+            "word": "WITCH",
+            "emoji": "",
+            "audioFile": "words/witch.ogg"
+          },
+          {
+            "word": "KITCHEN",
+            "emoji": "",
+            "audioFile": "words/kitchen.ogg"
+          },
+          {
+            "word": "HATCH",
+            "emoji": "",
+            "audioFile": "words/hatch.ogg"
+          },
+          {
+            "word": "SCRATCH",
+            "emoji": "",
+            "audioFile": "words/scratch.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "MATCH",
+      "CATCH",
+      "WATCH",
+      "WITCH",
+      "KITCHEN",
+      "HATCH"
+    ]
+  },
+  {
+    "id": "41",
+    "text": "EE",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "EE almost always says its long sound — very reliable!",
+    "hindiText": "ई (जैसे ट्री)",
+    "marathiText": "ई (जसे ट्री)",
+    "sounds": [
+      {
+        "soundId": "41",
+        "phonogramId": "41",
+        "notation": "/ee/",
+        "audioFile": "phonograms/41.ogg",
+        "hindiText": "ई (जैसे ट्री)",
+        "marathiText": "ई (जसे ट्री)",
+        "hindiAudio": "hindi/41.ogg",
+        "marathiAudio": "marathi/41.ogg",
+        "exampleWords": [
+          {
+            "word": "TREE",
+            "emoji": "🌳",
+            "audioFile": "words/tree.ogg"
+          },
+          {
+            "word": "BEE",
+            "emoji": "🐝",
+            "audioFile": "words/bee.ogg"
+          },
+          {
+            "word": "FEET",
+            "emoji": "🦶",
+            "audioFile": "words/feet.ogg"
+          },
+          {
+            "word": "SLEEP",
+            "emoji": "",
+            "audioFile": "words/sleep.ogg"
+          },
+          {
+            "word": "GREEN",
+            "emoji": "",
+            "audioFile": "words/green.ogg"
+          },
+          {
+            "word": "WHEEL",
+            "emoji": "",
+            "audioFile": "words/wheel.ogg"
+          },
+          {
+            "word": "CHEESE",
+            "emoji": "",
+            "audioFile": "words/cheese.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "TREE",
+      "BEE",
+      "FEET",
+      "SLEEP",
+      "GREEN",
+      "WHEEL"
+    ]
+  },
+  {
+    "id": "42",
+    "text": "EA",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "EA saying /ee/ is the most common of its three sounds.",
+    "hindiText": "ई (जैसे ईट)",
+    "marathiText": "ई (जसे ईट)",
+    "sounds": [
+      {
+        "soundId": "42a",
+        "phonogramId": "42",
+        "notation": "/ee/",
+        "audioFile": "phonograms/42a.ogg",
+        "hindiText": "ई (जैसे ईट)",
+        "marathiText": "ई (जसे ईट)",
+        "hindiAudio": "hindi/42a.ogg",
+        "marathiAudio": "marathi/42a.ogg",
+        "exampleWords": [
+          {
+            "word": "EAT",
+            "emoji": "🍽️",
+            "audioFile": "words/eat.ogg"
+          },
+          {
+            "word": "READ",
+            "emoji": "📖",
+            "audioFile": "words/read.ogg"
+          },
+          {
+            "word": "BEACH",
+            "emoji": "🏖️",
+            "audioFile": "words/beach.ogg"
+          },
+          {
+            "word": "BEAD",
+            "emoji": "",
+            "audioFile": "words/bead.ogg"
+          },
+          {
+            "word": "DREAM",
+            "emoji": "",
+            "audioFile": "words/dream.ogg"
+          },
+          {
+            "word": "CLEAN",
+            "emoji": "",
+            "audioFile": "words/clean.ogg"
+          },
+          {
+            "word": "TEACHER",
+            "emoji": "",
+            "audioFile": "words/teacher.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "42b",
+        "phonogramId": "42",
+        "notation": "/e/",
+        "audioFile": "phonograms/42b.ogg",
+        "hindiText": "ए (जैसे ब्रेड)",
+        "marathiText": "ए (जसे ब्रेड)",
+        "hindiAudio": "hindi/42b.ogg",
+        "marathiAudio": "marathi/42b.ogg",
+        "exampleWords": [
+          {
+            "word": "BREAD",
+            "emoji": "🍞",
+            "audioFile": "words/bread.ogg"
+          },
+          {
+            "word": "HEAD",
+            "emoji": "🗣️",
+            "audioFile": "words/head.ogg"
+          },
+          {
+            "word": "DEAD",
+            "emoji": "💀",
+            "audioFile": "words/dead.ogg"
+          },
+          {
+            "word": "THREAD",
+            "emoji": "",
+            "audioFile": "words/thread.ogg"
+          },
+          {
+            "word": "SPREAD",
+            "emoji": "",
+            "audioFile": "words/spread.ogg"
+          },
+          {
+            "word": "FEATHER",
+            "emoji": "",
+            "audioFile": "words/feather.ogg"
+          },
+          {
+            "word": "WEATHER",
+            "emoji": "",
+            "audioFile": "words/weather.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "42c",
+        "phonogramId": "42",
+        "notation": "/ay/",
+        "audioFile": "phonograms/42c.ogg",
+        "hindiText": "ए (जैसे स्टेक)",
+        "marathiText": "ए (जसे स्टेक)",
+        "hindiAudio": "hindi/42c.ogg",
+        "marathiAudio": "marathi/42c.ogg",
+        "exampleWords": [
+          {
+            "word": "STEAK",
+            "emoji": "🥩",
+            "audioFile": "words/steak.ogg"
+          },
+          {
+            "word": "BREAK",
+            "emoji": "💔",
+            "audioFile": "words/break.ogg"
+          },
+          {
+            "word": "GREAT",
+            "emoji": "👍",
+            "audioFile": "words/great.ogg"
+          },
+          {
+            "word": "BEAR",
+            "emoji": "",
+            "audioFile": "words/bear.ogg"
+          },
+          {
+            "word": "PEAR",
+            "emoji": "",
+            "audioFile": "words/pear.ogg"
+          },
+          {
+            "word": "SWEAR",
+            "emoji": "",
+            "audioFile": "words/swear.ogg"
+          },
+          {
+            "word": "WEAR",
+            "emoji": "",
+            "audioFile": "words/wear.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "EAT",
+      "READ",
+      "BEACH",
+      "BEAD",
+      "DREAM",
+      "CLEAN"
+    ]
+  },
+  {
+    "id": "43",
+    "text": "OA",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "OA almost always says long O — it is very dependable.",
+    "hindiText": "ओ (जैसे बोट)",
+    "marathiText": "ओ (जसे बोट)",
+    "sounds": [
+      {
+        "soundId": "43",
+        "phonogramId": "43",
+        "notation": "/oh/",
+        "audioFile": "phonograms/43.ogg",
+        "hindiText": "ओ (जैसे बोट)",
+        "marathiText": "ओ (जसे बोट)",
+        "hindiAudio": "hindi/43.ogg",
+        "marathiAudio": "marathi/43.ogg",
+        "exampleWords": [
+          {
+            "word": "BOAT",
+            "emoji": "⛵",
+            "audioFile": "words/boat.ogg"
+          },
+          {
+            "word": "ROAD",
+            "emoji": "🛣️",
+            "audioFile": "words/road.ogg"
+          },
+          {
+            "word": "COAT",
+            "emoji": "🧥",
+            "audioFile": "words/coat.ogg"
+          },
+          {
+            "word": "TOAST",
+            "emoji": "",
+            "audioFile": "words/toast.ogg"
+          },
+          {
+            "word": "SOAP",
+            "emoji": "",
+            "audioFile": "words/soap.ogg"
+          },
+          {
+            "word": "FOAM",
+            "emoji": "",
+            "audioFile": "words/foam.ogg"
+          },
+          {
+            "word": "THROAT",
+            "emoji": "",
+            "audioFile": "words/throat.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BOAT",
+      "ROAD",
+      "COAT",
+      "TOAST",
+      "SOAP",
+      "FOAM"
+    ]
+  },
+  {
+    "id": "44",
+    "text": "OI",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "OI is used in the middle of words — OY goes at the end.",
+    "hindiText": "ऑय (जैसे ऑइल)",
+    "marathiText": "ऑय (जसे ऑइल)",
+    "sounds": [
+      {
+        "soundId": "44",
+        "phonogramId": "44",
+        "notation": "/oy/",
+        "audioFile": "phonograms/44.ogg",
+        "hindiText": "ऑय (जैसे ऑइल)",
+        "marathiText": "ऑय (जसे ऑइल)",
+        "hindiAudio": "hindi/44.ogg",
+        "marathiAudio": "marathi/44.ogg",
+        "exampleWords": [
+          {
+            "word": "OIL",
+            "emoji": "🛢️",
+            "audioFile": "words/oil.ogg"
+          },
+          {
+            "word": "COIN",
+            "emoji": "🪙",
+            "audioFile": "words/coin.ogg"
+          },
+          {
+            "word": "JOIN",
+            "emoji": "🤝",
+            "audioFile": "words/join.ogg"
+          },
+          {
+            "word": "BOIL",
+            "emoji": "",
+            "audioFile": "words/boil.ogg"
+          },
+          {
+            "word": "POINT",
+            "emoji": "",
+            "audioFile": "words/point.ogg"
+          },
+          {
+            "word": "NOISE",
+            "emoji": "",
+            "audioFile": "words/noise.ogg"
+          },
+          {
+            "word": "CHOICE",
+            "emoji": "",
+            "audioFile": "words/choice.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "OIL",
+      "COIN",
+      "JOIN",
+      "BOIL",
+      "POINT",
+      "NOISE"
+    ]
+  },
+  {
+    "id": "45",
+    "text": "OY",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "OY is the end-of-word partner of OI — same sound, different position.",
+    "hindiText": "ऑय (जैसे बॉय)",
+    "marathiText": "ऑय (जसे बॉय)",
+    "sounds": [
+      {
+        "soundId": "45",
+        "phonogramId": "45",
+        "notation": "/oy/",
+        "audioFile": "phonograms/45.ogg",
+        "hindiText": "ऑय (जैसे बॉय)",
+        "marathiText": "ऑय (जसे बॉय)",
+        "hindiAudio": "hindi/45.ogg",
+        "marathiAudio": "marathi/45.ogg",
+        "exampleWords": [
+          {
+            "word": "BOY",
+            "emoji": "👦",
+            "audioFile": "words/boy.ogg"
+          },
+          {
+            "word": "TOY",
+            "emoji": "🧸",
+            "audioFile": "words/toy.ogg"
+          },
+          {
+            "word": "JOY",
+            "emoji": "😊",
+            "audioFile": "words/joy.ogg"
+          },
+          {
+            "word": "ENJOY",
+            "emoji": "",
+            "audioFile": "words/enjoy.ogg"
+          },
+          {
+            "word": "ROYAL",
+            "emoji": "",
+            "audioFile": "words/royal.ogg"
+          },
+          {
+            "word": "DESTROY",
+            "emoji": "",
+            "audioFile": "words/destroy.ogg"
+          },
+          {
+            "word": "VOYAGE",
+            "emoji": "",
+            "audioFile": "words/voyage.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BOY",
+      "TOY",
+      "JOY",
+      "ENJOY",
+      "ROYAL",
+      "DESTROY"
+    ]
+  },
+  {
+    "id": "46",
+    "text": "OU",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "OU is one of the trickiest vowel teams with multiple sounds.",
+    "hindiText": "आउ (जैसे आउट)",
+    "marathiText": "आउ (जसे आउट)",
+    "sounds": [
+      {
+        "soundId": "46a",
+        "phonogramId": "46",
+        "notation": "/ow/",
+        "audioFile": "phonograms/46a.ogg",
+        "hindiText": "आउ (जैसे आउट)",
+        "marathiText": "आउ (जसे आउट)",
+        "hindiAudio": "hindi/46a.ogg",
+        "marathiAudio": "marathi/46a.ogg",
+        "exampleWords": [
+          {
+            "word": "OUT",
+            "emoji": "👉",
+            "audioFile": "words/out.ogg"
+          },
+          {
+            "word": "HOUSE",
+            "emoji": "🏠",
+            "audioFile": "words/house.ogg"
+          },
+          {
+            "word": "LOUD",
+            "emoji": "📢",
+            "audioFile": "words/loud.ogg"
+          },
+          {
+            "word": "MOUSE",
+            "emoji": "",
+            "audioFile": "words/mouse.ogg"
+          },
+          {
+            "word": "CLOUD",
+            "emoji": "",
+            "audioFile": "words/cloud.ogg"
+          },
+          {
+            "word": "FOUND",
+            "emoji": "",
+            "audioFile": "words/found.ogg"
+          },
+          {
+            "word": "MOUNTAIN",
+            "emoji": "",
+            "audioFile": "words/mountain.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "46b",
+        "phonogramId": "46",
+        "notation": "/oo/",
+        "audioFile": "phonograms/46b.ogg",
+        "hindiText": "ऊ (जैसे सूप)",
+        "marathiText": "ऊ (जसे सूप)",
+        "hindiAudio": "hindi/46b.ogg",
+        "marathiAudio": "marathi/46b.ogg",
+        "exampleWords": [
+          {
+            "word": "SOUP",
+            "emoji": "🍜",
+            "audioFile": "words/soup.ogg"
+          },
+          {
+            "word": "YOU",
+            "emoji": "🫵",
+            "audioFile": "words/you.ogg"
+          },
+          {
+            "word": "GROUP",
+            "emoji": "👥",
+            "audioFile": "words/group.ogg"
+          },
+          {
+            "word": "YOUTH",
+            "emoji": "",
+            "audioFile": "words/youth.ogg"
+          },
+          {
+            "word": "ROUTE",
+            "emoji": "",
+            "audioFile": "words/route.ogg"
+          },
+          {
+            "word": "WOUND",
+            "emoji": "",
+            "audioFile": "words/wound.ogg"
+          },
+          {
+            "word": "COUGAR",
+            "emoji": "",
+            "audioFile": "words/cougar.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "46c",
+        "phonogramId": "46",
+        "notation": "/u/",
+        "audioFile": "phonograms/46c.ogg",
+        "hindiText": "अ (जैसे टच)",
+        "marathiText": "अ (जसे टच)",
+        "hindiAudio": "hindi/46c.ogg",
+        "marathiAudio": "marathi/46c.ogg",
+        "exampleWords": [
+          {
+            "word": "TOUCH",
+            "emoji": "🤞",
+            "audioFile": "words/touch.ogg"
+          },
+          {
+            "word": "YOUNG",
+            "emoji": "👶",
+            "audioFile": "words/young.ogg"
+          },
+          {
+            "word": "COUSIN",
+            "emoji": "👫",
+            "audioFile": "words/cousin.ogg"
+          },
+          {
+            "word": "DOUBLE",
+            "emoji": "",
+            "audioFile": "words/double.ogg"
+          },
+          {
+            "word": "TROUBLE",
+            "emoji": "",
+            "audioFile": "words/trouble.ogg"
+          },
+          {
+            "word": "COUNTRY",
+            "emoji": "",
+            "audioFile": "words/country.ogg"
+          },
+          {
+            "word": "ENOUGH",
+            "emoji": "",
+            "audioFile": "words/enough.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "OUT",
+      "HOUSE",
+      "LOUD",
+      "MOUSE",
+      "CLOUD",
+      "FOUND"
+    ]
+  },
+  {
+    "id": "47",
+    "text": "OW",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "OW says /ow/ in words like COW, HOW, and NOW.",
+    "hindiText": "आउ (जैसे काउ)",
+    "marathiText": "आउ (जसे काउ)",
+    "sounds": [
+      {
+        "soundId": "47a",
+        "phonogramId": "47",
+        "notation": "/ow/",
+        "audioFile": "phonograms/47a.ogg",
+        "hindiText": "आउ (जैसे काउ)",
+        "marathiText": "आउ (जसे काउ)",
+        "hindiAudio": "hindi/47a.ogg",
+        "marathiAudio": "marathi/47a.ogg",
+        "exampleWords": [
+          {
+            "word": "COW",
+            "emoji": "🐄",
+            "audioFile": "words/cow.ogg"
+          },
+          {
+            "word": "OWL",
+            "emoji": "🦉",
+            "audioFile": "words/owl.ogg"
+          },
+          {
+            "word": "HOW",
+            "emoji": "🤷",
+            "audioFile": "words/how.ogg"
+          },
+          {
+            "word": "FLOWER",
+            "emoji": "",
+            "audioFile": "words/flower.ogg"
+          },
+          {
+            "word": "TOWER",
+            "emoji": "",
+            "audioFile": "words/tower.ogg"
+          },
+          {
+            "word": "BROWN",
+            "emoji": "",
+            "audioFile": "words/brown.ogg"
+          },
+          {
+            "word": "POWDER",
+            "emoji": "",
+            "audioFile": "words/powder.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "47b",
+        "phonogramId": "47",
+        "notation": "/oh/",
+        "audioFile": "phonograms/47b.ogg",
+        "hindiText": "ओ (जैसे स्नो)",
+        "marathiText": "ओ (जसे स्नो)",
+        "hindiAudio": "hindi/47b.ogg",
+        "marathiAudio": "marathi/47b.ogg",
+        "exampleWords": [
+          {
+            "word": "SNOW",
+            "emoji": "❄️",
+            "audioFile": "words/snow.ogg"
+          },
+          {
+            "word": "BOW",
+            "emoji": "🎀",
+            "audioFile": "words/bow.ogg"
+          },
+          {
+            "word": "LOW",
+            "emoji": "⬇️",
+            "audioFile": "words/low.ogg"
+          },
+          {
+            "word": "GROW",
+            "emoji": "",
+            "audioFile": "words/grow.ogg"
+          },
+          {
+            "word": "SHOW",
+            "emoji": "",
+            "audioFile": "words/show.ogg"
+          },
+          {
+            "word": "YELLOW",
+            "emoji": "",
+            "audioFile": "words/yellow.ogg"
+          },
+          {
+            "word": "FOLLOW",
+            "emoji": "",
+            "audioFile": "words/follow.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "COW",
+      "OWL",
+      "HOW",
+      "FLOWER",
+      "TOWER",
+      "BROWN"
+    ]
+  },
+  {
+    "id": "48",
+    "text": "AU",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "AU comes from Latin words — it always says /aw/.",
+    "hindiText": "ऑ (जैसे हॉल)",
+    "marathiText": "ऑ (जसे हॉल)",
+    "sounds": [
+      {
+        "soundId": "48",
+        "phonogramId": "48",
+        "notation": "/aw/",
+        "audioFile": "phonograms/48.ogg",
+        "hindiText": "ऑ (जैसे हॉल)",
+        "marathiText": "ऑ (जसे हॉल)",
+        "hindiAudio": "hindi/48.ogg",
+        "marathiAudio": "marathi/48.ogg",
+        "exampleWords": [
+          {
+            "word": "HAUL",
+            "emoji": "🚛",
+            "audioFile": "words/haul.ogg"
+          },
+          {
+            "word": "SAUCE",
+            "emoji": "🍅",
+            "audioFile": "words/sauce.ogg"
+          },
+          {
+            "word": "PAUSE",
+            "emoji": "⏸️",
+            "audioFile": "words/pause.ogg"
+          },
+          {
+            "word": "CAUSE",
+            "emoji": "",
+            "audioFile": "words/cause.ogg"
+          },
+          {
+            "word": "LAUNCH",
+            "emoji": "",
+            "audioFile": "words/launch.ogg"
+          },
+          {
+            "word": "AUTHOR",
+            "emoji": "",
+            "audioFile": "words/author.ogg"
+          },
+          {
+            "word": "DINOSAUR",
+            "emoji": "",
+            "audioFile": "words/dinosaur.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "HAUL",
+      "SAUCE",
+      "PAUSE",
+      "CAUSE",
+      "LAUNCH",
+      "AUTHOR"
+    ]
+  },
+  {
+    "id": "49",
+    "text": "AW",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "AW is the end-of-word partner of AU — same sound.",
+    "hindiText": "ऑ (जैसे सॉ)",
+    "marathiText": "ऑ (जसे सॉ)",
+    "sounds": [
+      {
+        "soundId": "49",
+        "phonogramId": "49",
+        "notation": "/aw/",
+        "audioFile": "phonograms/49.ogg",
+        "hindiText": "ऑ (जैसे सॉ)",
+        "marathiText": "ऑ (जसे सॉ)",
+        "hindiAudio": "hindi/49.ogg",
+        "marathiAudio": "marathi/49.ogg",
+        "exampleWords": [
+          {
+            "word": "SAW",
+            "emoji": "🪚",
+            "audioFile": "words/saw.ogg"
+          },
+          {
+            "word": "DRAW",
+            "emoji": "✏️",
+            "audioFile": "words/draw.ogg"
+          },
+          {
+            "word": "CLAW",
+            "emoji": "🦞",
+            "audioFile": "words/claw.ogg"
+          },
+          {
+            "word": "PAWN",
+            "emoji": "",
+            "audioFile": "words/pawn.ogg"
+          },
+          {
+            "word": "STRAW",
+            "emoji": "",
+            "audioFile": "words/straw.ogg"
+          },
+          {
+            "word": "CRAWL",
+            "emoji": "",
+            "audioFile": "words/crawl.ogg"
+          },
+          {
+            "word": "AWESOME",
+            "emoji": "",
+            "audioFile": "words/awesome.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SAW",
+      "DRAW",
+      "CLAW",
+      "PAWN",
+      "STRAW",
+      "CRAWL"
+    ]
+  },
+  {
+    "id": "50",
+    "text": "EW",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "EW saying /oo/ appears in words like FLEW, GREW, and DREW.",
+    "hindiText": "ऊ (जैसे फ़्लू)",
+    "marathiText": "ऊ (जसे फ्लू)",
+    "sounds": [
+      {
+        "soundId": "50a",
+        "phonogramId": "50",
+        "notation": "/oo/",
+        "audioFile": "phonograms/50a.ogg",
+        "hindiText": "ऊ (जैसे फ़्लू)",
+        "marathiText": "ऊ (जसे फ्लू)",
+        "hindiAudio": "hindi/50a.ogg",
+        "marathiAudio": "marathi/50a.ogg",
+        "exampleWords": [
+          {
+            "word": "NEW",
+            "emoji": "🆕",
+            "audioFile": "words/new.ogg"
+          },
+          {
+            "word": "FLEW",
+            "emoji": "🕊️",
+            "audioFile": "words/flew.ogg"
+          },
+          {
+            "word": "DREW",
+            "emoji": "🎨",
+            "audioFile": "words/drew.ogg"
+          },
+          {
+            "word": "BLEW",
+            "emoji": "",
+            "audioFile": "words/blew.ogg"
+          },
+          {
+            "word": "CHEW",
+            "emoji": "",
+            "audioFile": "words/chew.ogg"
+          },
+          {
+            "word": "STEW",
+            "emoji": "",
+            "audioFile": "words/stew.ogg"
+          },
+          {
+            "word": "JEWEL",
+            "emoji": "",
+            "audioFile": "words/jewel.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "50b",
+        "phonogramId": "50",
+        "notation": "/yoo/",
+        "audioFile": "phonograms/50b.ogg",
+        "hindiText": "यू (जैसे फ़्यू)",
+        "marathiText": "यू (जसे फ्यू)",
+        "hindiAudio": "hindi/50b.ogg",
+        "marathiAudio": "marathi/50b.ogg",
+        "exampleWords": [
+          {
+            "word": "FEW",
+            "emoji": "🤏",
+            "audioFile": "words/few.ogg"
+          },
+          {
+            "word": "DEW",
+            "emoji": "💧",
+            "audioFile": "words/dew.ogg"
+          },
+          {
+            "word": "VIEW",
+            "emoji": "👀",
+            "audioFile": "words/view.ogg"
+          },
+          {
+            "word": "NEPHEW",
+            "emoji": "",
+            "audioFile": "words/nephew.ogg"
+          },
+          {
+            "word": "PEWS",
+            "emoji": "",
+            "audioFile": "words/pews.ogg"
+          },
+          {
+            "word": "HEWN",
+            "emoji": "",
+            "audioFile": "words/hewn.ogg"
+          },
+          {
+            "word": "CURFEW",
+            "emoji": "",
+            "audioFile": "words/curfew.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "NEW",
+      "FLEW",
+      "DREW",
+      "BLEW",
+      "CHEW",
+      "STEW"
+    ]
+  },
+  {
+    "id": "51",
+    "text": "OO",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "Long OO is the 'moon' sound — open and round.",
+    "hindiText": "ऊ (जैसे मून)",
+    "marathiText": "ऊ (जसे मून)",
+    "sounds": [
+      {
+        "soundId": "51a",
+        "phonogramId": "51",
+        "notation": "/oo/",
+        "audioFile": "phonograms/51a.ogg",
+        "hindiText": "ऊ (जैसे मून)",
+        "marathiText": "ऊ (जसे मून)",
+        "hindiAudio": "hindi/51a.ogg",
+        "marathiAudio": "marathi/51a.ogg",
+        "exampleWords": [
+          {
+            "word": "MOON",
+            "emoji": "🌙",
+            "audioFile": "words/moon.ogg"
+          },
+          {
+            "word": "FOOD",
+            "emoji": "🍕",
+            "audioFile": "words/food.ogg"
+          },
+          {
+            "word": "ZOO",
+            "emoji": "🦁",
+            "audioFile": "words/zoo.ogg"
+          },
+          {
+            "word": "COOL",
+            "emoji": "",
+            "audioFile": "words/cool.ogg"
+          },
+          {
+            "word": "SPOON",
+            "emoji": "",
+            "audioFile": "words/spoon.ogg"
+          },
+          {
+            "word": "SCHOOL",
+            "emoji": "",
+            "audioFile": "words/school.ogg"
+          },
+          {
+            "word": "BALLOON",
+            "emoji": "",
+            "audioFile": "words/balloon.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "51b",
+        "phonogramId": "51",
+        "notation": "/oo/ (short)",
+        "audioFile": "phonograms/51b.ogg",
+        "hindiText": "उ (जैसे बुक)",
+        "marathiText": "उ (जसे बुक)",
+        "hindiAudio": "hindi/51b.ogg",
+        "marathiAudio": "marathi/51b.ogg",
+        "exampleWords": [
+          {
+            "word": "BOOK",
+            "emoji": "📖",
+            "audioFile": "words/book.ogg"
+          },
+          {
+            "word": "COOK",
+            "emoji": "👨‍🍳",
+            "audioFile": "words/cook.ogg"
+          },
+          {
+            "word": "FOOT",
+            "emoji": "🦶",
+            "audioFile": "words/foot.ogg"
+          },
+          {
+            "word": "GOOD",
+            "emoji": "",
+            "audioFile": "words/good.ogg"
+          },
+          {
+            "word": "WOOD",
+            "emoji": "",
+            "audioFile": "words/wood.ogg"
+          },
+          {
+            "word": "STOOD",
+            "emoji": "",
+            "audioFile": "words/stood.ogg"
+          },
+          {
+            "word": "COOKIE",
+            "emoji": "",
+            "audioFile": "words/cookie.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "MOON",
+      "FOOD",
+      "ZOO",
+      "COOL",
+      "SPOON",
+      "SCHOOL"
+    ]
+  },
+  {
+    "id": "52",
+    "text": "AI",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "AI is used in the middle of words — AY goes at the end.",
+    "hindiText": "ए (जैसे रेन)",
+    "marathiText": "ए (जसे रेन)",
+    "sounds": [
+      {
+        "soundId": "52",
+        "phonogramId": "52",
+        "notation": "/ay/",
+        "audioFile": "phonograms/52.ogg",
+        "hindiText": "ए (जैसे रेन)",
+        "marathiText": "ए (जसे रेन)",
+        "hindiAudio": "hindi/52.ogg",
+        "marathiAudio": "marathi/52.ogg",
+        "exampleWords": [
+          {
+            "word": "RAIN",
+            "emoji": "🌧️",
+            "audioFile": "words/rain.ogg"
+          },
+          {
+            "word": "TRAIN",
+            "emoji": "🚂",
+            "audioFile": "words/train.ogg"
+          },
+          {
+            "word": "WAIT",
+            "emoji": "⏳",
+            "audioFile": "words/wait.ogg"
+          },
+          {
+            "word": "BRAIN",
+            "emoji": "",
+            "audioFile": "words/brain.ogg"
+          },
+          {
+            "word": "PAINT",
+            "emoji": "",
+            "audioFile": "words/paint.ogg"
+          },
+          {
+            "word": "SNAIL",
+            "emoji": "",
+            "audioFile": "words/snail.ogg"
+          },
+          {
+            "word": "CAPTAIN",
+            "emoji": "",
+            "audioFile": "words/captain.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "RAIN",
+      "TRAIN",
+      "WAIT",
+      "BRAIN",
+      "PAINT",
+      "SNAIL"
+    ]
+  },
+  {
+    "id": "53",
+    "text": "AY",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "AY is the end-of-word partner of AI — same long A sound.",
+    "hindiText": "ए (जैसे प्ले)",
+    "marathiText": "ए (जसे प्ले)",
+    "sounds": [
+      {
+        "soundId": "53",
+        "phonogramId": "53",
+        "notation": "/ay/",
+        "audioFile": "phonograms/53.ogg",
+        "hindiText": "ए (जैसे प्ले)",
+        "marathiText": "ए (जसे प्ले)",
+        "hindiAudio": "hindi/53.ogg",
+        "marathiAudio": "marathi/53.ogg",
+        "exampleWords": [
+          {
+            "word": "PLAY",
+            "emoji": "🎮",
+            "audioFile": "words/play.ogg"
+          },
+          {
+            "word": "DAY",
+            "emoji": "☀️",
+            "audioFile": "words/day.ogg"
+          },
+          {
+            "word": "SAY",
+            "emoji": "🗣️",
+            "audioFile": "words/say.ogg"
+          },
+          {
+            "word": "STAY",
+            "emoji": "",
+            "audioFile": "words/stay.ogg"
+          },
+          {
+            "word": "BIRTHDAY",
+            "emoji": "",
+            "audioFile": "words/birthday.ogg"
+          },
+          {
+            "word": "RELAY",
+            "emoji": "",
+            "audioFile": "words/relay.ogg"
+          },
+          {
+            "word": "HOLIDAY",
+            "emoji": "",
+            "audioFile": "words/holiday.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "PLAY",
+      "DAY",
+      "SAY",
+      "STAY",
+      "BIRTHDAY",
+      "RELAY"
+    ]
+  },
+  {
+    "id": "54",
+    "text": "EI",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "EI says /ay/ in words like VEIN, REIN, and REINDEER.",
+    "hindiText": "ए (जैसे वेन)",
+    "marathiText": "ए (जसे वेन)",
+    "sounds": [
+      {
+        "soundId": "54a",
+        "phonogramId": "54",
+        "notation": "/ay/",
+        "audioFile": "phonograms/54a.ogg",
+        "hindiText": "ए (जैसे वेन)",
+        "marathiText": "ए (जसे वेन)",
+        "hindiAudio": "hindi/54a.ogg",
+        "marathiAudio": "marathi/54a.ogg",
+        "exampleWords": [
+          {
+            "word": "VEIN",
+            "emoji": "💉",
+            "audioFile": "words/vein.ogg"
+          },
+          {
+            "word": "REIN",
+            "emoji": "🐴",
+            "audioFile": "words/rein.ogg"
+          },
+          {
+            "word": "EIGHT",
+            "emoji": "8️⃣",
+            "audioFile": "words/eight.ogg"
+          },
+          {
+            "word": "REINDEER",
+            "emoji": "",
+            "audioFile": "words/reindeer.ogg"
+          },
+          {
+            "word": "WEIGHT",
+            "emoji": "",
+            "audioFile": "words/weight.ogg"
+          },
+          {
+            "word": "NEIGHBOR",
+            "emoji": "",
+            "audioFile": "words/neighbor.ogg"
+          },
+          {
+            "word": "FREIGHT",
+            "emoji": "",
+            "audioFile": "words/freight.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "54b",
+        "phonogramId": "54",
+        "notation": "/ee/",
+        "audioFile": "phonograms/54b.ogg",
+        "hindiText": "ई (जैसे सीलिंग)",
+        "marathiText": "ई (जसे सीलिंग)",
+        "hindiAudio": "hindi/54b.ogg",
+        "marathiAudio": "marathi/54b.ogg",
+        "exampleWords": [
+          {
+            "word": "CEILING",
+            "emoji": "🏠",
+            "audioFile": "words/ceiling.ogg"
+          },
+          {
+            "word": "RECEIVE",
+            "emoji": "📬",
+            "audioFile": "words/receive.ogg"
+          },
+          {
+            "word": "SEIZE",
+            "emoji": "✊",
+            "audioFile": "words/seize.ogg"
+          },
+          {
+            "word": "DECEIVE",
+            "emoji": "",
+            "audioFile": "words/deceive.ogg"
+          },
+          {
+            "word": "CONCEIVE",
+            "emoji": "",
+            "audioFile": "words/conceive.ogg"
+          },
+          {
+            "word": "PROTEIN",
+            "emoji": "",
+            "audioFile": "words/protein.ogg"
+          },
+          {
+            "word": "CAFFEINE",
+            "emoji": "",
+            "audioFile": "words/caffeine.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "VEIN",
+      "REIN",
+      "EIGHT",
+      "REINDEER",
+      "WEIGHT",
+      "NEIGHBOR"
+    ]
+  },
+  {
+    "id": "55",
+    "text": "EY",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "EY says /ay/ in common words like THEY, GREY, and OBEY.",
+    "hindiText": "ए (जैसे दे)",
+    "marathiText": "ए (जसे दे)",
+    "sounds": [
+      {
+        "soundId": "55a",
+        "phonogramId": "55",
+        "notation": "/ay/",
+        "audioFile": "phonograms/55a.ogg",
+        "hindiText": "ए (जैसे दे)",
+        "marathiText": "ए (जसे दे)",
+        "hindiAudio": "hindi/55a.ogg",
+        "marathiAudio": "marathi/55a.ogg",
+        "exampleWords": [
+          {
+            "word": "THEY",
+            "emoji": "👥",
+            "audioFile": "words/they.ogg"
+          },
+          {
+            "word": "GREY",
+            "emoji": "🩶",
+            "audioFile": "words/grey.ogg"
+          },
+          {
+            "word": "PREY",
+            "emoji": "🦅",
+            "audioFile": "words/prey.ogg"
+          },
+          {
+            "word": "OBEY",
+            "emoji": "",
+            "audioFile": "words/obey.ogg"
+          },
+          {
+            "word": "SURVEY",
+            "emoji": "",
+            "audioFile": "words/survey.ogg"
+          },
+          {
+            "word": "CONVEY",
+            "emoji": "",
+            "audioFile": "words/convey.ogg"
+          },
+          {
+            "word": "WHEY",
+            "emoji": "",
+            "audioFile": "words/whey.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "55b",
+        "phonogramId": "55",
+        "notation": "/ee/",
+        "audioFile": "phonograms/55b.ogg",
+        "hindiText": "ई (जैसे की)",
+        "marathiText": "ई (जसे की)",
+        "hindiAudio": "hindi/55b.ogg",
+        "marathiAudio": "marathi/55b.ogg",
+        "exampleWords": [
+          {
+            "word": "KEY",
+            "emoji": "🔑",
+            "audioFile": "words/key.ogg"
+          },
+          {
+            "word": "MONKEY",
+            "emoji": "🐵",
+            "audioFile": "words/monkey.ogg"
+          },
+          {
+            "word": "MONEY",
+            "emoji": "💰",
+            "audioFile": "words/money.ogg"
+          },
+          {
+            "word": "HONEY",
+            "emoji": "",
+            "audioFile": "words/honey.ogg"
+          },
+          {
+            "word": "DONKEY",
+            "emoji": "",
+            "audioFile": "words/donkey.ogg"
+          },
+          {
+            "word": "TURKEY",
+            "emoji": "",
+            "audioFile": "words/turkey.ogg"
+          },
+          {
+            "word": "VALLEY",
+            "emoji": "",
+            "audioFile": "words/valley.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "THEY",
+      "GREY",
+      "PREY",
+      "OBEY",
+      "SURVEY",
+      "CONVEY"
+    ]
+  },
+  {
+    "id": "56",
+    "text": "IE",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "IE says /ee/ in the middle of words like FIELD and CHIEF.",
+    "hindiText": "ई (जैसे फ़ील्ड)",
+    "marathiText": "ई (जसे फील्ड)",
+    "sounds": [
+      {
+        "soundId": "56a",
+        "phonogramId": "56",
+        "notation": "/ee/",
+        "audioFile": "phonograms/56a.ogg",
+        "hindiText": "ई (जैसे फ़ील्ड)",
+        "marathiText": "ई (जसे फील्ड)",
+        "hindiAudio": "hindi/56a.ogg",
+        "marathiAudio": "marathi/56a.ogg",
+        "exampleWords": [
+          {
+            "word": "FIELD",
+            "emoji": "🏟️",
+            "audioFile": "words/field.ogg"
+          },
+          {
+            "word": "CHIEF",
+            "emoji": "👮",
+            "audioFile": "words/chief.ogg"
+          },
+          {
+            "word": "THIEF",
+            "emoji": "🥷",
+            "audioFile": "words/thief.ogg"
+          },
+          {
+            "word": "SHIELD",
+            "emoji": "",
+            "audioFile": "words/shield.ogg"
+          },
+          {
+            "word": "PIECE",
+            "emoji": "",
+            "audioFile": "words/piece.ogg"
+          },
+          {
+            "word": "BELIEVE",
+            "emoji": "",
+            "audioFile": "words/believe.ogg"
+          },
+          {
+            "word": "ACHIEVE",
+            "emoji": "",
+            "audioFile": "words/achieve.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "56b",
+        "phonogramId": "56",
+        "notation": "/eye/",
+        "audioFile": "phonograms/56b.ogg",
+        "hindiText": "आइ (जैसे पाइ)",
+        "marathiText": "आय (जसे पाय)",
+        "hindiAudio": "hindi/56b.ogg",
+        "marathiAudio": "marathi/56b.ogg",
+        "exampleWords": [
+          {
+            "word": "PIE",
+            "emoji": "🥧",
+            "audioFile": "words/pie.ogg"
+          },
+          {
+            "word": "TIE",
+            "emoji": "👔",
+            "audioFile": "words/tie.ogg"
+          },
+          {
+            "word": "LIE",
+            "emoji": "🤥",
+            "audioFile": "words/lie.ogg"
+          },
+          {
+            "word": "DIE",
+            "emoji": "",
+            "audioFile": "words/die.ogg"
+          },
+          {
+            "word": "FRY",
+            "emoji": "",
+            "audioFile": "words/fry.ogg"
+          },
+          {
+            "word": "DRIED",
+            "emoji": "",
+            "audioFile": "words/dried.ogg"
+          },
+          {
+            "word": "APPLIED",
+            "emoji": "",
+            "audioFile": "words/applied.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "FIELD",
+      "CHIEF",
+      "THIEF",
+      "SHIELD",
+      "PIECE",
+      "BELIEVE"
+    ]
+  },
+  {
+    "id": "57",
+    "text": "UE",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "UE often appears at the end of words after a consonant.",
+    "hindiText": "ऊ (जैसे ब्लू)",
+    "marathiText": "ऊ (जसे ब्लू)",
+    "sounds": [
+      {
+        "soundId": "57a",
+        "phonogramId": "57",
+        "notation": "/oo/",
+        "audioFile": "phonograms/57a.ogg",
+        "hindiText": "ऊ (जैसे ब्लू)",
+        "marathiText": "ऊ (जसे ब्लू)",
+        "hindiAudio": "hindi/57a.ogg",
+        "marathiAudio": "marathi/57a.ogg",
+        "exampleWords": [
+          {
+            "word": "BLUE",
+            "emoji": "🔵",
+            "audioFile": "words/blue.ogg"
+          },
+          {
+            "word": "CLUE",
+            "emoji": "🔍",
+            "audioFile": "words/clue.ogg"
+          },
+          {
+            "word": "GLUE",
+            "emoji": "🧴",
+            "audioFile": "words/glue.ogg"
+          },
+          {
+            "word": "TRUE",
+            "emoji": "",
+            "audioFile": "words/true.ogg"
+          },
+          {
+            "word": "FLUE",
+            "emoji": "",
+            "audioFile": "words/flue.ogg"
+          },
+          {
+            "word": "TISSUE",
+            "emoji": "",
+            "audioFile": "words/tissue.ogg"
+          },
+          {
+            "word": "STATUE",
+            "emoji": "",
+            "audioFile": "words/statue.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "57b",
+        "phonogramId": "57",
+        "notation": "/yoo/",
+        "audioFile": "phonograms/57b.ogg",
+        "hindiText": "यू (जैसे क्यू)",
+        "marathiText": "यू (जसे क्यू)",
+        "hindiAudio": "hindi/57b.ogg",
+        "marathiAudio": "marathi/57b.ogg",
+        "exampleWords": [
+          {
+            "word": "CUE",
+            "emoji": "🎱",
+            "audioFile": "words/cue.ogg"
+          },
+          {
+            "word": "RESCUE",
+            "emoji": "🚑",
+            "audioFile": "words/rescue.ogg"
+          },
+          {
+            "word": "ARGUE",
+            "emoji": "🗯️",
+            "audioFile": "words/argue.ogg"
+          },
+          {
+            "word": "VALUE",
+            "emoji": "",
+            "audioFile": "words/value.ogg"
+          },
+          {
+            "word": "VENUE",
+            "emoji": "",
+            "audioFile": "words/venue.ogg"
+          },
+          {
+            "word": "STATUE",
+            "emoji": "",
+            "audioFile": "words/statue.ogg"
+          },
+          {
+            "word": "CONTINUE",
+            "emoji": "",
+            "audioFile": "words/continue.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BLUE",
+      "CLUE",
+      "GLUE",
+      "TRUE",
+      "FLUE",
+      "TISSUE"
+    ]
+  },
+  {
+    "id": "58",
+    "text": "UI",
+    "category": "vowelTeam",
+    "colorHex": "#FF9800",
+    "funFact": "UI is unpredictable — /oo/ in FRUIT but /i/ in BUILD.",
+    "hindiText": "ऊ (जैसे फ़्रूट)",
+    "marathiText": "ऊ (जसे फ्रूट)",
+    "sounds": [
+      {
+        "soundId": "58a",
+        "phonogramId": "58",
+        "notation": "/oo/",
+        "audioFile": "phonograms/58a.ogg",
+        "hindiText": "ऊ (जैसे फ़्रूट)",
+        "marathiText": "ऊ (जसे फ्रूट)",
+        "hindiAudio": "hindi/58a.ogg",
+        "marathiAudio": "marathi/58a.ogg",
+        "exampleWords": [
+          {
+            "word": "FRUIT",
+            "emoji": "🍎",
+            "audioFile": "words/fruit.ogg"
+          },
+          {
+            "word": "JUICE",
+            "emoji": "🧃",
+            "audioFile": "words/juice.ogg"
+          },
+          {
+            "word": "SUIT",
+            "emoji": "🤵",
+            "audioFile": "words/suit.ogg"
+          },
+          {
+            "word": "CRUISE",
+            "emoji": "",
+            "audioFile": "words/cruise.ogg"
+          },
+          {
+            "word": "BRUISE",
+            "emoji": "",
+            "audioFile": "words/bruise.ogg"
+          },
+          {
+            "word": "RECRUIT",
+            "emoji": "",
+            "audioFile": "words/recruit.ogg"
+          },
+          {
+            "word": "PURSUIT",
+            "emoji": "",
+            "audioFile": "words/pursuit.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "58b",
+        "phonogramId": "58",
+        "notation": "/i/",
+        "audioFile": "phonograms/58b.ogg",
+        "hindiText": "इ (जैसे बिल्ड)",
+        "marathiText": "इ (जसे बिल्ड)",
+        "hindiAudio": "hindi/58b.ogg",
+        "marathiAudio": "marathi/58b.ogg",
+        "exampleWords": [
+          {
+            "word": "BUILD",
+            "emoji": "🏗️",
+            "audioFile": "words/build.ogg"
+          },
+          {
+            "word": "GUITAR",
+            "emoji": "🎸",
+            "audioFile": "words/guitar.ogg"
+          },
+          {
+            "word": "BISCUIT",
+            "emoji": "🍪",
+            "audioFile": "words/biscuit.ogg"
+          },
+          {
+            "word": "GUILT",
+            "emoji": "",
+            "audioFile": "words/guilt.ogg"
+          },
+          {
+            "word": "CIRCUIT",
+            "emoji": "",
+            "audioFile": "words/circuit.ogg"
+          },
+          {
+            "word": "GUILD",
+            "emoji": "",
+            "audioFile": "words/guild.ogg"
+          },
+          {
+            "word": "GUINEA",
+            "emoji": "",
+            "audioFile": "words/guinea.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "FRUIT",
+      "JUICE",
+      "SUIT",
+      "CRUISE",
+      "BRUISE",
+      "RECRUIT"
+    ]
+  },
+  {
+    "id": "59",
+    "text": "AR",
+    "category": "rControlled",
+    "colorHex": "#9C27B0",
+    "funFact": "AR makes the 'pirate' sound — ARRR!",
+    "hindiText": "आर (जैसे कार)",
+    "marathiText": "आर (जसे कार)",
+    "sounds": [
+      {
+        "soundId": "59",
+        "phonogramId": "59",
+        "notation": "/ar/",
+        "audioFile": "phonograms/59.ogg",
+        "hindiText": "आर (जैसे कार)",
+        "marathiText": "आर (जसे कार)",
+        "hindiAudio": "hindi/59.ogg",
+        "marathiAudio": "marathi/59.ogg",
+        "exampleWords": [
+          {
+            "word": "CAR",
+            "emoji": "🚗",
+            "audioFile": "words/car.ogg"
+          },
+          {
+            "word": "STAR",
+            "emoji": "⭐",
+            "audioFile": "words/star.ogg"
+          },
+          {
+            "word": "JAR",
+            "emoji": "🫙",
+            "audioFile": "words/jar.ogg"
+          },
+          {
+            "word": "PARK",
+            "emoji": "",
+            "audioFile": "words/park.ogg"
+          },
+          {
+            "word": "FARM",
+            "emoji": "",
+            "audioFile": "words/farm.ogg"
+          },
+          {
+            "word": "DARK",
+            "emoji": "",
+            "audioFile": "words/dark.ogg"
+          },
+          {
+            "word": "GARDEN",
+            "emoji": "",
+            "audioFile": "words/garden.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "CAR",
+      "STAR",
+      "JAR",
+      "PARK",
+      "FARM",
+      "DARK"
+    ]
+  },
+  {
+    "id": "60",
+    "text": "ER",
+    "category": "rControlled",
+    "colorHex": "#9C27B0",
+    "funFact": "ER, IR, and UR all make the same sound — the /er/ triplets.",
+    "hindiText": "अर (जैसे हर)",
+    "marathiText": "अर (जसे हर)",
+    "sounds": [
+      {
+        "soundId": "60",
+        "phonogramId": "60",
+        "notation": "/er/",
+        "audioFile": "phonograms/60.ogg",
+        "hindiText": "अर (जैसे हर)",
+        "marathiText": "अर (जसे हर)",
+        "hindiAudio": "hindi/60.ogg",
+        "marathiAudio": "marathi/60.ogg",
+        "exampleWords": [
+          {
+            "word": "HER",
+            "emoji": "👩",
+            "audioFile": "words/her.ogg"
+          },
+          {
+            "word": "FERN",
+            "emoji": "🌿",
+            "audioFile": "words/fern.ogg"
+          },
+          {
+            "word": "WATER",
+            "emoji": "💧",
+            "audioFile": "words/water.ogg"
+          },
+          {
+            "word": "TIGER",
+            "emoji": "",
+            "audioFile": "words/tiger.ogg"
+          },
+          {
+            "word": "SISTER",
+            "emoji": "",
+            "audioFile": "words/sister.ogg"
+          },
+          {
+            "word": "FLOWER",
+            "emoji": "",
+            "audioFile": "words/flower.ogg"
+          },
+          {
+            "word": "NEVER",
+            "emoji": "",
+            "audioFile": "words/never.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "HER",
+      "FERN",
+      "WATER",
+      "TIGER",
+      "SISTER",
+      "FLOWER"
+    ]
+  },
+  {
+    "id": "61",
+    "text": "IR",
+    "category": "rControlled",
+    "colorHex": "#9C27B0",
+    "funFact": "IR sounds the same as ER and UR — you just have to memorize which to use.",
+    "hindiText": "अर (जैसे बर्ड)",
+    "marathiText": "अर (जसे बर्ड)",
+    "sounds": [
+      {
+        "soundId": "61",
+        "phonogramId": "61",
+        "notation": "/er/",
+        "audioFile": "phonograms/61.ogg",
+        "hindiText": "अर (जैसे बर्ड)",
+        "marathiText": "अर (जसे बर्ड)",
+        "hindiAudio": "hindi/61.ogg",
+        "marathiAudio": "marathi/61.ogg",
+        "exampleWords": [
+          {
+            "word": "BIRD",
+            "emoji": "🐦",
+            "audioFile": "words/bird.ogg"
+          },
+          {
+            "word": "GIRL",
+            "emoji": "👧",
+            "audioFile": "words/girl.ogg"
+          },
+          {
+            "word": "STIR",
+            "emoji": "🥄",
+            "audioFile": "words/stir.ogg"
+          },
+          {
+            "word": "FIRST",
+            "emoji": "",
+            "audioFile": "words/first.ogg"
+          },
+          {
+            "word": "SHIRT",
+            "emoji": "",
+            "audioFile": "words/shirt.ogg"
+          },
+          {
+            "word": "CIRCLE",
+            "emoji": "",
+            "audioFile": "words/circle.ogg"
+          },
+          {
+            "word": "BIRTHDAY",
+            "emoji": "",
+            "audioFile": "words/birthday.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BIRD",
+      "GIRL",
+      "STIR",
+      "FIRST",
+      "SHIRT",
+      "CIRCLE"
+    ]
+  },
+  {
+    "id": "62",
+    "text": "UR",
+    "category": "rControlled",
+    "colorHex": "#9C27B0",
+    "funFact": "UR is the third member of the /er/ sound triplets.",
+    "hindiText": "अर (जैसे बर्न)",
+    "marathiText": "अर (जसे बर्न)",
+    "sounds": [
+      {
+        "soundId": "62",
+        "phonogramId": "62",
+        "notation": "/er/",
+        "audioFile": "phonograms/62.ogg",
+        "hindiText": "अर (जैसे बर्न)",
+        "marathiText": "अर (जसे बर्न)",
+        "hindiAudio": "hindi/62.ogg",
+        "marathiAudio": "marathi/62.ogg",
+        "exampleWords": [
+          {
+            "word": "BURN",
+            "emoji": "🔥",
+            "audioFile": "words/burn.ogg"
+          },
+          {
+            "word": "TURN",
+            "emoji": "🔄",
+            "audioFile": "words/turn.ogg"
+          },
+          {
+            "word": "FUR",
+            "emoji": "🐻",
+            "audioFile": "words/fur.ogg"
+          },
+          {
+            "word": "HURT",
+            "emoji": "",
+            "audioFile": "words/hurt.ogg"
+          },
+          {
+            "word": "NURSE",
+            "emoji": "",
+            "audioFile": "words/nurse.ogg"
+          },
+          {
+            "word": "PURPLE",
+            "emoji": "",
+            "audioFile": "words/purple.ogg"
+          },
+          {
+            "word": "TURTLE",
+            "emoji": "",
+            "audioFile": "words/turtle.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "BURN",
+      "TURN",
+      "FUR",
+      "HURT",
+      "NURSE",
+      "PURPLE"
+    ]
+  },
+  {
+    "id": "63",
+    "text": "OR",
+    "category": "rControlled",
+    "colorHex": "#9C27B0",
+    "funFact": "OR makes a unique sound — R 'bosses' the O into a new sound.",
+    "hindiText": "ऑर (जैसे फ़ॉर्क)",
+    "marathiText": "ऑर (जसे फॉर्क)",
+    "sounds": [
+      {
+        "soundId": "63",
+        "phonogramId": "63",
+        "notation": "/or/",
+        "audioFile": "phonograms/63.ogg",
+        "hindiText": "ऑर (जैसे फ़ॉर्क)",
+        "marathiText": "ऑर (जसे फॉर्क)",
+        "hindiAudio": "hindi/63.ogg",
+        "marathiAudio": "marathi/63.ogg",
+        "exampleWords": [
+          {
+            "word": "FORK",
+            "emoji": "🍴",
+            "audioFile": "words/fork.ogg"
+          },
+          {
+            "word": "CORN",
+            "emoji": "🌽",
+            "audioFile": "words/corn.ogg"
+          },
+          {
+            "word": "HORSE",
+            "emoji": "🐴",
+            "audioFile": "words/horse.ogg"
+          },
+          {
+            "word": "STORM",
+            "emoji": "",
+            "audioFile": "words/storm.ogg"
+          },
+          {
+            "word": "BORN",
+            "emoji": "",
+            "audioFile": "words/born.ogg"
+          },
+          {
+            "word": "MORNING",
+            "emoji": "",
+            "audioFile": "words/morning.ogg"
+          },
+          {
+            "word": "EXPLORE",
+            "emoji": "",
+            "audioFile": "words/explore.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "FORK",
+      "CORN",
+      "HORSE",
+      "STORM",
+      "BORN",
+      "MORNING"
+    ]
+  },
+  {
+    "id": "64",
+    "text": "IGH",
+    "category": "ghCombo",
+    "colorHex": "#FFD700",
+    "funFact": "IGH is a 3-letter team where GH is silent — only I speaks.",
+    "hindiText": "आइ (जैसे नाइट)",
+    "marathiText": "आय (जसे नाइट)",
+    "sounds": [
+      {
+        "soundId": "64",
+        "phonogramId": "64",
+        "notation": "/eye/",
+        "audioFile": "phonograms/64.ogg",
+        "hindiText": "आइ (जैसे नाइट)",
+        "marathiText": "आय (जसे नाइट)",
+        "hindiAudio": "hindi/64.ogg",
+        "marathiAudio": "marathi/64.ogg",
+        "exampleWords": [
+          {
+            "word": "NIGHT",
+            "emoji": "🌙",
+            "audioFile": "words/night.ogg"
+          },
+          {
+            "word": "LIGHT",
+            "emoji": "💡",
+            "audioFile": "words/light.ogg"
+          },
+          {
+            "word": "HIGH",
+            "emoji": "⬆️",
+            "audioFile": "words/high.ogg"
+          },
+          {
+            "word": "SIGHT",
+            "emoji": "",
+            "audioFile": "words/sight.ogg"
+          },
+          {
+            "word": "FIGHT",
+            "emoji": "",
+            "audioFile": "words/fight.ogg"
+          },
+          {
+            "word": "BRIGHT",
+            "emoji": "",
+            "audioFile": "words/bright.ogg"
+          },
+          {
+            "word": "MIDNIGHT",
+            "emoji": "",
+            "audioFile": "words/midnight.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "NIGHT",
+      "LIGHT",
+      "HIGH",
+      "SIGHT",
+      "FIGHT",
+      "BRIGHT"
+    ]
+  },
+  {
+    "id": "65",
+    "text": "EIGH",
+    "category": "ghCombo",
+    "colorHex": "#FFD700",
+    "funFact": "EIGH uses 4 letters to make one sound — the long A!",
+    "hindiText": "ए (जैसे एट)",
+    "marathiText": "ए (जसे एट)",
+    "sounds": [
+      {
+        "soundId": "65",
+        "phonogramId": "65",
+        "notation": "/ay/",
+        "audioFile": "phonograms/65.ogg",
+        "hindiText": "ए (जैसे एट)",
+        "marathiText": "ए (जसे एट)",
+        "hindiAudio": "hindi/65.ogg",
+        "marathiAudio": "marathi/65.ogg",
+        "exampleWords": [
+          {
+            "word": "EIGHT",
+            "emoji": "8️⃣",
+            "audioFile": "words/eight.ogg"
+          },
+          {
+            "word": "WEIGH",
+            "emoji": "⚖️",
+            "audioFile": "words/weigh.ogg"
+          },
+          {
+            "word": "SLEIGH",
+            "emoji": "🛷",
+            "audioFile": "words/sleigh.ogg"
+          },
+          {
+            "word": "WEIGHT",
+            "emoji": "",
+            "audioFile": "words/weight.ogg"
+          },
+          {
+            "word": "NEIGHBOR",
+            "emoji": "",
+            "audioFile": "words/neighbor.ogg"
+          },
+          {
+            "word": "FREIGHT",
+            "emoji": "",
+            "audioFile": "words/freight.ogg"
+          },
+          {
+            "word": "REIGH",
+            "emoji": "",
+            "audioFile": "words/reigh.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "EIGHT",
+      "WEIGH",
+      "SLEIGH",
+      "WEIGHT",
+      "NEIGHBOR",
+      "FREIGHT"
+    ]
+  },
+  {
+    "id": "66",
+    "text": "OUGH",
+    "category": "ghCombo",
+    "colorHex": "#FFD700",
+    "funFact": "OUGH can make SIX different sounds — the trickiest phonogram in English!",
+    "hindiText": "ओ (जैसे दो)",
+    "marathiText": "ओ (जसे दो)",
+    "sounds": [
+      {
+        "soundId": "66a",
+        "phonogramId": "66",
+        "notation": "/oh/",
+        "audioFile": "phonograms/66a.ogg",
+        "hindiText": "ओ (जैसे दो)",
+        "marathiText": "ओ (जसे दो)",
+        "hindiAudio": "hindi/66a.ogg",
+        "marathiAudio": "marathi/66a.ogg",
+        "exampleWords": [
+          {
+            "word": "THOUGH",
+            "emoji": "🤔",
+            "audioFile": "words/though.ogg"
+          },
+          {
+            "word": "DOUGH",
+            "emoji": "🫓",
+            "audioFile": "words/dough.ogg"
+          },
+          {
+            "word": "ALTHOUGH",
+            "emoji": "💭",
+            "audioFile": "words/although.ogg"
+          },
+          {
+            "word": "THOROUGH",
+            "emoji": "",
+            "audioFile": "words/thorough.ogg"
+          },
+          {
+            "word": "FURLOUGH",
+            "emoji": "",
+            "audioFile": "words/furlough.ogg"
+          },
+          {
+            "word": "BOROUGH",
+            "emoji": "",
+            "audioFile": "words/borough.ogg"
+          },
+          {
+            "word": "SOURDOUGH",
+            "emoji": "",
+            "audioFile": "words/sourdough.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "66b",
+        "phonogramId": "66",
+        "notation": "/oo/",
+        "audioFile": "phonograms/66b.ogg",
+        "hindiText": "ऊ (जैसे थ्रू)",
+        "marathiText": "ऊ (जसे थ्रू)",
+        "hindiAudio": "hindi/66b.ogg",
+        "marathiAudio": "marathi/66b.ogg",
+        "exampleWords": [
+          {
+            "word": "THROUGH",
+            "emoji": "🚪",
+            "audioFile": "words/through.ogg"
+          },
+          {
+            "word": "SLOUGH",
+            "emoji": "🌊",
+            "audioFile": "words/slough.ogg"
+          },
+          {
+            "word": "BREAKTHROUGH",
+            "emoji": "🎯",
+            "audioFile": "words/breakthrough.ogg"
+          },
+          {
+            "word": "THOROUGH",
+            "emoji": "",
+            "audioFile": "words/thorough.ogg"
+          },
+          {
+            "word": "THROUGHOUT",
+            "emoji": "",
+            "audioFile": "words/throughout.ogg"
+          },
+          {
+            "word": "BREAKTHROUGHS",
+            "emoji": "",
+            "audioFile": "words/breakthroughs.ogg"
+          },
+          {
+            "word": "PASSTHROUGH",
+            "emoji": "",
+            "audioFile": "words/passthrough.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "66c",
+        "phonogramId": "66",
+        "notation": "/ow/",
+        "audioFile": "phonograms/66c.ogg",
+        "hindiText": "आउ (जैसे प्लाउ)",
+        "marathiText": "आउ (जसे प्लाउ)",
+        "hindiAudio": "hindi/66c.ogg",
+        "marathiAudio": "marathi/66c.ogg",
+        "exampleWords": [
+          {
+            "word": "PLOUGH",
+            "emoji": "🚜",
+            "audioFile": "words/plough.ogg"
+          },
+          {
+            "word": "BOUGH",
+            "emoji": "🌿",
+            "audioFile": "words/bough.ogg"
+          },
+          {
+            "word": "DROUGHT",
+            "emoji": "🏜️",
+            "audioFile": "words/drought.ogg"
+          },
+          {
+            "word": "SLOUGH",
+            "emoji": "",
+            "audioFile": "words/slough.ogg"
+          },
+          {
+            "word": "PLOUGHED",
+            "emoji": "",
+            "audioFile": "words/ploughed.ogg"
+          },
+          {
+            "word": "BOUGHS",
+            "emoji": "",
+            "audioFile": "words/boughs.ogg"
+          },
+          {
+            "word": "DROUGHTS",
+            "emoji": "",
+            "audioFile": "words/droughts.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "66d",
+        "phonogramId": "66",
+        "notation": "/uf/",
+        "audioFile": "phonograms/66d.ogg",
+        "hindiText": "अफ़ (जैसे रफ़)",
+        "marathiText": "अफ (जसे रफ)",
+        "hindiAudio": "hindi/66d.ogg",
+        "marathiAudio": "marathi/66d.ogg",
+        "exampleWords": [
+          {
+            "word": "ROUGH",
+            "emoji": "🪨",
+            "audioFile": "words/rough.ogg"
+          },
+          {
+            "word": "TOUGH",
+            "emoji": "💪",
+            "audioFile": "words/tough.ogg"
+          },
+          {
+            "word": "ENOUGH",
+            "emoji": "🛑",
+            "audioFile": "words/enough.ogg"
+          },
+          {
+            "word": "ROUGHER",
+            "emoji": "",
+            "audioFile": "words/rougher.ogg"
+          },
+          {
+            "word": "TOUGHEN",
+            "emoji": "",
+            "audioFile": "words/toughen.ogg"
+          },
+          {
+            "word": "ROUGHLY",
+            "emoji": "",
+            "audioFile": "words/roughly.ogg"
+          },
+          {
+            "word": "TOUGHEST",
+            "emoji": "",
+            "audioFile": "words/toughest.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "66e",
+        "phonogramId": "66",
+        "notation": "/off/",
+        "audioFile": "phonograms/66e.ogg",
+        "hindiText": "ऑफ़ (जैसे कॉफ़)",
+        "marathiText": "ऑफ (जसे कॉफ)",
+        "hindiAudio": "hindi/66e.ogg",
+        "marathiAudio": "marathi/66e.ogg",
+        "exampleWords": [
+          {
+            "word": "COUGH",
+            "emoji": "🤧",
+            "audioFile": "words/cough.ogg"
+          },
+          {
+            "word": "TROUGH",
+            "emoji": "🐷",
+            "audioFile": "words/trough.ogg"
+          },
+          {
+            "word": "COUGHING",
+            "emoji": "😷",
+            "audioFile": "words/coughing.ogg"
+          },
+          {
+            "word": "COUGHS",
+            "emoji": "",
+            "audioFile": "words/coughs.ogg"
+          },
+          {
+            "word": "TROUGHS",
+            "emoji": "",
+            "audioFile": "words/troughs.ogg"
+          },
+          {
+            "word": "COUGHED",
+            "emoji": "",
+            "audioFile": "words/coughed.ogg"
+          },
+          {
+            "word": "WHOOPING",
+            "emoji": "",
+            "audioFile": "words/whooping.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "66f",
+        "phonogramId": "66",
+        "notation": "/aw/",
+        "audioFile": "phonograms/66f.ogg",
+        "hindiText": "ऑ (जैसे थॉट)",
+        "marathiText": "ऑ (जसे थॉट)",
+        "hindiAudio": "hindi/66f.ogg",
+        "marathiAudio": "marathi/66f.ogg",
+        "exampleWords": [
+          {
+            "word": "THOUGHT",
+            "emoji": "💭",
+            "audioFile": "words/thought.ogg"
+          },
+          {
+            "word": "BOUGHT",
+            "emoji": "🛒",
+            "audioFile": "words/bought.ogg"
+          },
+          {
+            "word": "BROUGHT",
+            "emoji": "🎁",
+            "audioFile": "words/brought.ogg"
+          },
+          {
+            "word": "FOUGHT",
+            "emoji": "",
+            "audioFile": "words/fought.ogg"
+          },
+          {
+            "word": "SOUGHT",
+            "emoji": "",
+            "audioFile": "words/sought.ogg"
+          },
+          {
+            "word": "WROUGHT",
+            "emoji": "",
+            "audioFile": "words/wrought.ogg"
+          },
+          {
+            "word": "OUGHT",
+            "emoji": "",
+            "audioFile": "words/ought.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "THOUGH",
+      "DOUGH",
+      "ALTHOUGH",
+      "THOROUGH",
+      "FURLOUGH",
+      "BOROUGH"
+    ]
+  },
+  {
+    "id": "67",
+    "text": "AUGH",
+    "category": "ghCombo",
+    "colorHex": "#FFD700",
+    "funFact": "AUGH uses 4 letters just to say /aw/ — talk about overkill!",
+    "hindiText": "ऑ (जैसे कॉट)",
+    "marathiText": "ऑ (जसे कॉट)",
+    "sounds": [
+      {
+        "soundId": "67",
+        "phonogramId": "67",
+        "notation": "/aw/",
+        "audioFile": "phonograms/67.ogg",
+        "hindiText": "ऑ (जैसे कॉट)",
+        "marathiText": "ऑ (जसे कॉट)",
+        "hindiAudio": "hindi/67.ogg",
+        "marathiAudio": "marathi/67.ogg",
+        "exampleWords": [
+          {
+            "word": "CAUGHT",
+            "emoji": "🥎",
+            "audioFile": "words/caught.ogg"
+          },
+          {
+            "word": "TAUGHT",
+            "emoji": "👩‍🏫",
+            "audioFile": "words/taught.ogg"
+          },
+          {
+            "word": "DAUGHTER",
+            "emoji": "👧",
+            "audioFile": "words/daughter.ogg"
+          },
+          {
+            "word": "NAUGHTY",
+            "emoji": "",
+            "audioFile": "words/naughty.ogg"
+          },
+          {
+            "word": "SLAUGHTER",
+            "emoji": "",
+            "audioFile": "words/slaughter.ogg"
+          },
+          {
+            "word": "LAUGHTER",
+            "emoji": "",
+            "audioFile": "words/laughter.ogg"
+          },
+          {
+            "word": "HAUGHTY",
+            "emoji": "",
+            "audioFile": "words/haughty.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "CAUGHT",
+      "TAUGHT",
+      "DAUGHTER",
+      "NAUGHTY",
+      "SLAUGHTER",
+      "LAUGHTER"
+    ]
+  },
+  {
+    "id": "68",
+    "text": "TI",
+    "category": "special",
+    "colorHex": "#BDBDBD",
+    "funFact": "TI says /sh/ at the beginning of a suffix — like in NATION.",
+    "hindiText": "श (जैसे नेशन)",
+    "marathiText": "श (जसे नेशन)",
+    "sounds": [
+      {
+        "soundId": "68",
+        "phonogramId": "68",
+        "notation": "/sh/",
+        "audioFile": "phonograms/68.ogg",
+        "hindiText": "श (जैसे नेशन)",
+        "marathiText": "श (जसे नेशन)",
+        "hindiAudio": "hindi/68.ogg",
+        "marathiAudio": "marathi/68.ogg",
+        "exampleWords": [
+          {
+            "word": "NATION",
+            "emoji": "🌍",
+            "audioFile": "words/nation.ogg"
+          },
+          {
+            "word": "ACTION",
+            "emoji": "🎬",
+            "audioFile": "words/action.ogg"
+          },
+          {
+            "word": "MOTION",
+            "emoji": "🏃",
+            "audioFile": "words/motion.ogg"
+          },
+          {
+            "word": "PATIENT",
+            "emoji": "",
+            "audioFile": "words/patient.ogg"
+          },
+          {
+            "word": "STATION",
+            "emoji": "",
+            "audioFile": "words/station.ogg"
+          },
+          {
+            "word": "MENTION",
+            "emoji": "",
+            "audioFile": "words/mention.ogg"
+          },
+          {
+            "word": "VACATION",
+            "emoji": "",
+            "audioFile": "words/vacation.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "NATION",
+      "ACTION",
+      "MOTION",
+      "PATIENT",
+      "STATION",
+      "MENTION"
+    ]
+  },
+  {
+    "id": "69",
+    "text": "CI",
+    "category": "special",
+    "colorHex": "#BDBDBD",
+    "funFact": "CI says /sh/ at the beginning of a suffix — like in SPECIAL.",
+    "hindiText": "श (जैसे स्पेशल)",
+    "marathiText": "श (जसे स्पेशल)",
+    "sounds": [
+      {
+        "soundId": "69",
+        "phonogramId": "69",
+        "notation": "/sh/",
+        "audioFile": "phonograms/69.ogg",
+        "hindiText": "श (जैसे स्पेशल)",
+        "marathiText": "श (जसे स्पेशल)",
+        "hindiAudio": "hindi/69.ogg",
+        "marathiAudio": "marathi/69.ogg",
+        "exampleWords": [
+          {
+            "word": "SPECIAL",
+            "emoji": "⭐",
+            "audioFile": "words/special.ogg"
+          },
+          {
+            "word": "SOCIAL",
+            "emoji": "👥",
+            "audioFile": "words/social.ogg"
+          },
+          {
+            "word": "OFFICIAL",
+            "emoji": "📋",
+            "audioFile": "words/official.ogg"
+          },
+          {
+            "word": "ANCIENT",
+            "emoji": "",
+            "audioFile": "words/ancient.ogg"
+          },
+          {
+            "word": "GLACIER",
+            "emoji": "",
+            "audioFile": "words/glacier.ogg"
+          },
+          {
+            "word": "MUSICIAN",
+            "emoji": "",
+            "audioFile": "words/musician.ogg"
+          },
+          {
+            "word": "MAGICIAN",
+            "emoji": "",
+            "audioFile": "words/magician.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SPECIAL",
+      "SOCIAL",
+      "OFFICIAL",
+      "ANCIENT",
+      "GLACIER",
+      "MUSICIAN"
+    ]
+  },
+  {
+    "id": "70",
+    "text": "SI",
+    "category": "special",
+    "colorHex": "#BDBDBD",
+    "funFact": "SI says /sh/ in words like SESSION, TENSION, and PASSION.",
+    "hindiText": "श (जैसे सेशन)",
+    "marathiText": "श (जसे सेशन)",
+    "sounds": [
+      {
+        "soundId": "70a",
+        "phonogramId": "70",
+        "notation": "/sh/",
+        "audioFile": "phonograms/70a.ogg",
+        "hindiText": "श (जैसे सेशन)",
+        "marathiText": "श (जसे सेशन)",
+        "hindiAudio": "hindi/70a.ogg",
+        "marathiAudio": "marathi/70a.ogg",
+        "exampleWords": [
+          {
+            "word": "SESSION",
+            "emoji": "📝",
+            "audioFile": "words/session.ogg"
+          },
+          {
+            "word": "TENSION",
+            "emoji": "😬",
+            "audioFile": "words/tension.ogg"
+          },
+          {
+            "word": "PASSION",
+            "emoji": "❤️",
+            "audioFile": "words/passion.ogg"
+          },
+          {
+            "word": "MISSION",
+            "emoji": "",
+            "audioFile": "words/mission.ogg"
+          },
+          {
+            "word": "PERMISSION",
+            "emoji": "",
+            "audioFile": "words/permission.ogg"
+          },
+          {
+            "word": "EXPRESSION",
+            "emoji": "",
+            "audioFile": "words/expression.ogg"
+          },
+          {
+            "word": "DISCUSSION",
+            "emoji": "",
+            "audioFile": "words/discussion.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "70b",
+        "phonogramId": "70",
+        "notation": "/zh/",
+        "audioFile": "phonograms/70b.ogg",
+        "hindiText": "झ़ (जैसे विज़न)",
+        "marathiText": "झ (जसे व्हिजन)",
+        "hindiAudio": "hindi/70b.ogg",
+        "marathiAudio": "marathi/70b.ogg",
+        "exampleWords": [
+          {
+            "word": "VISION",
+            "emoji": "👁️",
+            "audioFile": "words/vision.ogg"
+          },
+          {
+            "word": "FUSION",
+            "emoji": "⚡",
+            "audioFile": "words/fusion.ogg"
+          },
+          {
+            "word": "DECISION",
+            "emoji": "🤔",
+            "audioFile": "words/decision.ogg"
+          },
+          {
+            "word": "TELEVISION",
+            "emoji": "",
+            "audioFile": "words/television.ogg"
+          },
+          {
+            "word": "EXPLOSION",
+            "emoji": "",
+            "audioFile": "words/explosion.ogg"
+          },
+          {
+            "word": "OCCASION",
+            "emoji": "",
+            "audioFile": "words/occasion.ogg"
+          },
+          {
+            "word": "INVASION",
+            "emoji": "",
+            "audioFile": "words/invasion.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SESSION",
+      "TENSION",
+      "PASSION",
+      "MISSION",
+      "PERMISSION",
+      "EXPRESSION"
+    ]
+  },
+  {
+    "id": "71",
+    "text": "SCI",
+    "category": "special",
+    "colorHex": "#BDBDBD",
+    "funFact": "SCI says /sh/ in just a few words — quite rare!",
+    "hindiText": "श (जैसे साइंस)",
+    "marathiText": "श (जसे सायन्स)",
+    "sounds": [
+      {
+        "soundId": "71",
+        "phonogramId": "71",
+        "notation": "/sh/",
+        "audioFile": "phonograms/71.ogg",
+        "hindiText": "श (जैसे साइंस)",
+        "marathiText": "श (जसे सायन्स)",
+        "hindiAudio": "hindi/71.ogg",
+        "marathiAudio": "marathi/71.ogg",
+        "exampleWords": [
+          {
+            "word": "SCIENCE",
+            "emoji": "🔬",
+            "audioFile": "words/science.ogg"
+          },
+          {
+            "word": "CONSCIOUS",
+            "emoji": "🧠",
+            "audioFile": "words/conscious.ogg"
+          },
+          {
+            "word": "SCISSORS",
+            "emoji": "✂️",
+            "audioFile": "words/scissors.ogg"
+          },
+          {
+            "word": "FASCINATE",
+            "emoji": "",
+            "audioFile": "words/fascinate.ogg"
+          },
+          {
+            "word": "LUSCIOUS",
+            "emoji": "",
+            "audioFile": "words/luscious.ogg"
+          },
+          {
+            "word": "CRESCENT",
+            "emoji": "",
+            "audioFile": "words/crescent.ogg"
+          },
+          {
+            "word": "DISCIPLE",
+            "emoji": "",
+            "audioFile": "words/disciple.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "SCIENCE",
+      "CONSCIOUS",
+      "SCISSORS",
+      "FASCINATE",
+      "LUSCIOUS",
+      "CRESCENT"
+    ]
+  },
+  {
+    "id": "72",
+    "text": "ED",
+    "category": "special",
+    "colorHex": "#BDBDBD",
+    "funFact": "ED says /ed/ after T or D — adding a whole new syllable.",
+    "hindiText": "एड (जैसे वॉन्टेड)",
+    "marathiText": "एड (जसे वॉन्टेड)",
+    "sounds": [
+      {
+        "soundId": "72a",
+        "phonogramId": "72",
+        "notation": "/ed/",
+        "audioFile": "phonograms/72a.ogg",
+        "hindiText": "एड (जैसे वॉन्टेड)",
+        "marathiText": "एड (जसे वॉन्टेड)",
+        "hindiAudio": "hindi/72a.ogg",
+        "marathiAudio": "marathi/72a.ogg",
+        "exampleWords": [
+          {
+            "word": "WANTED",
+            "emoji": "🔍",
+            "audioFile": "words/wanted.ogg"
+          },
+          {
+            "word": "STARTED",
+            "emoji": "🚀",
+            "audioFile": "words/started.ogg"
+          },
+          {
+            "word": "LANDED",
+            "emoji": "🛬",
+            "audioFile": "words/landed.ogg"
+          },
+          {
+            "word": "PAINTED",
+            "emoji": "",
+            "audioFile": "words/painted.ogg"
+          },
+          {
+            "word": "NEEDED",
+            "emoji": "",
+            "audioFile": "words/needed.ogg"
+          },
+          {
+            "word": "MELTED",
+            "emoji": "",
+            "audioFile": "words/melted.ogg"
+          },
+          {
+            "word": "TWISTED",
+            "emoji": "",
+            "audioFile": "words/twisted.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "72b",
+        "phonogramId": "72",
+        "notation": "/d/",
+        "audioFile": "phonograms/72b.ogg",
+        "hindiText": "ड (जैसे प्लेड)",
+        "marathiText": "ड (जसे प्लेड)",
+        "hindiAudio": "hindi/72b.ogg",
+        "marathiAudio": "marathi/72b.ogg",
+        "exampleWords": [
+          {
+            "word": "PLAYED",
+            "emoji": "🎮",
+            "audioFile": "words/played.ogg"
+          },
+          {
+            "word": "CALLED",
+            "emoji": "📞",
+            "audioFile": "words/called.ogg"
+          },
+          {
+            "word": "LOVED",
+            "emoji": "❤️",
+            "audioFile": "words/loved.ogg"
+          },
+          {
+            "word": "OPENED",
+            "emoji": "",
+            "audioFile": "words/opened.ogg"
+          },
+          {
+            "word": "RAINED",
+            "emoji": "",
+            "audioFile": "words/rained.ogg"
+          },
+          {
+            "word": "NAMED",
+            "emoji": "",
+            "audioFile": "words/named.ogg"
+          },
+          {
+            "word": "CLIMBED",
+            "emoji": "",
+            "audioFile": "words/climbed.ogg"
+          }
+        ]
+      },
+      {
+        "soundId": "72c",
+        "phonogramId": "72",
+        "notation": "/t/",
+        "audioFile": "phonograms/72c.ogg",
+        "hindiText": "ट (जैसे जम्प्ट)",
+        "marathiText": "ट (जसे जम्प्ट)",
+        "hindiAudio": "hindi/72c.ogg",
+        "marathiAudio": "marathi/72c.ogg",
+        "exampleWords": [
+          {
+            "word": "JUMPED",
+            "emoji": "🤸",
+            "audioFile": "words/jumped.ogg"
+          },
+          {
+            "word": "KICKED",
+            "emoji": "⚽",
+            "audioFile": "words/kicked.ogg"
+          },
+          {
+            "word": "STOPPED",
+            "emoji": "🛑",
+            "audioFile": "words/stopped.ogg"
+          },
+          {
+            "word": "WASHED",
+            "emoji": "",
+            "audioFile": "words/washed.ogg"
+          },
+          {
+            "word": "COOKED",
+            "emoji": "",
+            "audioFile": "words/cooked.ogg"
+          },
+          {
+            "word": "CRASHED",
+            "emoji": "",
+            "audioFile": "words/crashed.ogg"
+          },
+          {
+            "word": "SEARCHED",
+            "emoji": "",
+            "audioFile": "words/searched.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "WANTED",
+      "STARTED",
+      "LANDED",
+      "PAINTED",
+      "NEEDED",
+      "MELTED"
+    ]
+  },
+  {
+    "id": "73",
+    "text": "QU",
+    "category": "special",
+    "colorHex": "#BDBDBD",
+    "funFact": "Q and U are inseparable — Q never goes anywhere without U.",
+    "hindiText": "क्व (जैसे क्वीन)",
+    "marathiText": "क्व (जसे क्वीन)",
+    "sounds": [
+      {
+        "soundId": "73",
+        "phonogramId": "73",
+        "notation": "/kw/",
+        "audioFile": "phonograms/73.ogg",
+        "hindiText": "क्व (जैसे क्वीन)",
+        "marathiText": "क्व (जसे क्वीन)",
+        "hindiAudio": "hindi/73.ogg",
+        "marathiAudio": "marathi/73.ogg",
+        "exampleWords": [
+          {
+            "word": "QUEEN",
+            "emoji": "👑",
+            "audioFile": "words/queen.ogg"
+          },
+          {
+            "word": "QUICK",
+            "emoji": "⚡",
+            "audioFile": "words/quick.ogg"
+          },
+          {
+            "word": "QUIET",
+            "emoji": "🤫",
+            "audioFile": "words/quiet.ogg"
+          },
+          {
+            "word": "QUITE",
+            "emoji": "",
+            "audioFile": "words/quite.ogg"
+          },
+          {
+            "word": "QUEST",
+            "emoji": "",
+            "audioFile": "words/quest.ogg"
+          },
+          {
+            "word": "QUILT",
+            "emoji": "",
+            "audioFile": "words/quilt.ogg"
+          },
+          {
+            "word": "QUARTER",
+            "emoji": "",
+            "audioFile": "words/quarter.ogg"
+          }
+        ]
+      }
+    ],
+    "detailWords": [
+      "QUEEN",
+      "QUICK",
+      "QUIET",
+      "QUITE",
+      "QUEST",
+      "QUILT"
+    ]
+  }
+]
