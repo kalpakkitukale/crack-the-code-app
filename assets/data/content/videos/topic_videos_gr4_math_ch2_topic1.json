@@ -1,0 +1,318 @@
+{
+  "playlistId": "gr4_m2_t1_main",
+  "topicId": "gr4_m_2_1",
+  "topicName": "Addition of 4-5 Digit Numbers (Basic)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 6,
+    "totalDuration": 2130,
+    "totalDurationDisplay": "35:30",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_1_1"],
+    "followUpTopics": ["gr4_m_2_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_add_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Adding 4-Digit Numbers | Introduction",
+      "description": "Learn how to add 4-digit numbers using column addition",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 880000,
+      "tags": ["addition", "4-digit", "column addition", "introduction"],
+      "learningObjectives": [
+        "Understand 4-digit addition concept",
+        "Set up addition problems correctly",
+        "Add place by place from right to left",
+        "Practice basic 4-digit addition"
+      ],
+      "keyConceptsCovered": [
+        "Column addition with 4-digit numbers",
+        "Align by place value (ones under ones, etc.)",
+        "Add from right to left: ones, tens, hundreds, thousands",
+        "Example: 2,345 + 1,234 = 3,579 (no regrouping)"
+      ],
+      "prerequisites": ["3-digit addition", "Place value"],
+      "followUpTopics": ["5-digit addition"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_add_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "4-Digit Addition | Worked Examples",
+      "description": "Practice adding 4-digit numbers with step-by-step examples",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 820000,
+      "tags": ["addition", "4-digit", "examples", "practice"],
+      "learningObjectives": [
+        "Practice 4-digit addition with examples",
+        "Build confidence and accuracy",
+        "Learn to check answers",
+        "Develop problem-solving skills"
+      ],
+      "keyConceptsCovered": [
+        "Example 1: 3,456 + 2,123 = 5,579",
+        "Example 2: 5,200 + 1,300 = 6,500",
+        "Example 3: 4,321 + 3,567 = 7,888",
+        "Checking answers using estimation"
+      ],
+      "prerequisites": ["Basic 4-digit addition"],
+      "followUpTopics": ["Addition with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_add_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Adding Numbers with Zeros",
+      "description": "Learn to add 4-digit numbers that contain zeros",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 750000,
+      "tags": ["addition", "zeros", "4-digit", "special cases"],
+      "learningObjectives": [
+        "Add numbers with zeros correctly",
+        "Understand zero in different positions",
+        "Handle multiple zeros",
+        "Build confidence with zeros"
+      ],
+      "keyConceptsCovered": [
+        "Adding with zeros: 3,040 + 2,050 = 5,090",
+        "Zeros in different places",
+        "Example: 5,000 + 2,000 = 7,000",
+        "Remember: 0 + any number = that number"
+      ],
+      "prerequisites": ["4-digit addition basics"],
+      "followUpTopics": ["5-digit addition"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_add_v4",
+      "sequenceNumber": 4,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Adding 5-Digit Numbers | Introduction",
+      "description": "Extend addition skills to 5-digit numbers",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 790000,
+      "tags": ["addition", "5-digit", "extension", "introduction"],
+      "learningObjectives": [
+        "Add 5-digit numbers using same method",
+        "Extend understanding to larger numbers",
+        "Add ten thousands place",
+        "Build confidence with larger numbers"
+      ],
+      "keyConceptsCovered": [
+        "Same process: align and add from right",
+        "Add ones, tens, hundreds, thousands, ten thousands",
+        "Example: 23,456 + 12,123 = 35,579",
+        "No new concepts, just one more place"
+      ],
+      "prerequisites": ["4-digit addition"],
+      "followUpTopics": ["Mixed digit addition"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_add_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Mixed Practice | 4 and 5 Digit Addition",
+      "description": "Practice adding both 4-digit and 5-digit numbers",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 760000,
+      "tags": ["addition", "mixed practice", "4-5 digit", "fluency"],
+      "learningObjectives": [
+        "Practice with varying digit counts",
+        "Build fluency and speed",
+        "Reinforce concepts",
+        "Develop automatic skills"
+      ],
+      "keyConceptsCovered": [
+        "Mix of 4-digit and 5-digit problems",
+        "Adding numbers of different lengths",
+        "Speed and accuracy practice",
+        "Real exam-style questions"
+      ],
+      "prerequisites": ["4-digit and 5-digit addition"],
+      "followUpTopics": ["Addition with regrouping"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_add_v6",
+      "sequenceNumber": 6,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Adding Large Numbers Quickly",
+      "description": "Learn strategies for adding large numbers mentally and quickly",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.7,
+      "viewCount": 520000,
+      "tags": ["challenge", "mental math", "strategies", "speed"],
+      "learningObjectives": [
+        "Learn mental math strategies",
+        "Add round numbers quickly",
+        "Use estimation effectively",
+        "Develop advanced skills"
+      ],
+      "keyConceptsCovered": [
+        "Rounding and adjusting strategy",
+        "Adding from left to right mentally",
+        "Breaking numbers apart",
+        "Quick estimation techniques"
+      ],
+      "prerequisites": ["Strong addition skills"],
+      "followUpTopics": ["Advanced mental math"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_add_v1", "gr4_add_v2", "gr4_add_v4", "gr4_add_v5", "gr4_add_v6"],
+      "totalVideos": 5,
+      "estimatedTime": 1800,
+      "estimatedTimeDisplay": "30:00",
+      "rationale": "Fast-track through 4-5 digit addition with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_add_v1", "gr4_add_v2", "gr4_add_v3", "gr4_add_v4", "gr4_add_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1800,
+      "estimatedTimeDisplay": "30:00",
+      "rationale": "Complete coverage including zeros"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_add_v1", "gr4_add_v2", "gr4_add_v3", "gr4_add_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1440,
+      "estimatedTimeDisplay": "24:00",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_add_v1", "gr4_add_v2", "gr4_add_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1110,
+      "estimatedTimeDisplay": "18:30",
+      "rationale": "Essential addition skills only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_add_v2",
+      "checkpointName": "4-Digit Addition Check",
+      "questions": [
+        {
+          "question": "What is 2,345 + 1,234?",
+          "options": ["3,579", "3,479", "3,679", "3,569"],
+          "correctAnswer": 0,
+          "explanation": "Add place by place: 5+4=9, 4+3=7, 3+2=5, 2+1=3 → 3,579."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_add_v4",
+      "checkpointName": "5-Digit Addition Check",
+      "questions": [
+        {
+          "question": "What is 23,000 + 12,000?",
+          "options": ["35,000", "25,000", "33,000", "45,000"],
+          "correctAnswer": 0,
+          "explanation": "Add the ten thousands: 2+1=3, thousands: 3+2=5 → 35,000."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-2 cover 4-digit addition, video 3 handles zeros, video 4 introduces 5-digit. All core videos are essential.",
+    "parentGuidance": "Help your child practice by setting up addition problems vertically. Remind them to align by place value and add from right to left.",
+    "studentGuidance": "Always align numbers by place value. Start from the ones place and move left. Check your work using estimation."
+  }
+}

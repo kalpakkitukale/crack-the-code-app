@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_eng_ncert_u1",
+    "level": "chapter",
+    "entityId": "gr4_eng_ncert_u1",
+    "title": "Wake Up! / Neha's Alarm Clock - Unit 1 Quiz",
+    "questionIds": ["q_wu_001", "q_wu_002", "q_wu_003", "q_wu_004", "q_wu_005", "q_wu_006", "q_wu_007", "q_wu_008", "q_wu_009", "q_wu_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_wu_001",
+      "questionText": "The poem 'Wake Up!' is about:",
+      "questionType": "mcq",
+      "options": ["Going to sleep", "Waking up in the morning", "Playing games", "Eating breakfast"],
+      "correctAnswer": "B",
+      "explanation": "The poem 'Wake Up!' is about waking up in the morning and noticing all the beautiful things around us.",
+      "hints": ["Look at the title of the poem"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "morning", "wake up"],
+      "topicIds": ["gr4_en_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_002",
+      "questionText": "In the story, what did Neha use to wake up on time?",
+      "questionType": "mcq",
+      "options": ["A rooster", "An alarm clock", "Her mother", "A bell"],
+      "correctAnswer": "B",
+      "explanation": "Neha used an alarm clock to wake up on time for school.",
+      "hints": ["The title of the story gives you a clue"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "alarm clock", "Neha"],
+      "topicIds": ["gr4_en_1_2"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_003",
+      "questionText": "What is a sentence?",
+      "questionType": "mcq",
+      "options": ["A single word", "A group of words that makes complete sense", "Any group of words", "Just a name"],
+      "correctAnswer": "B",
+      "explanation": "A sentence is a group of words that makes complete sense and expresses a complete thought.",
+      "hints": ["It tells us something complete"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "sentence"],
+      "topicIds": ["gr4_en_1_3"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_004",
+      "questionText": "Which of these is a complete sentence?",
+      "questionType": "mcq",
+      "options": ["The big dog", "Running fast", "She went to school", "Beautiful flowers in"],
+      "correctAnswer": "C",
+      "explanation": "'She went to school' is a complete sentence because it has a subject (She) and tells us what she did (went to school).",
+      "hints": ["A sentence needs a subject and tells what happens"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "sentence"],
+      "topicIds": ["gr4_en_1_3"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_005",
+      "questionText": "True or False: Every sentence must start with a capital letter.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Every sentence starts with a capital letter and ends with a full stop, question mark, or exclamation mark.",
+      "hints": ["Look at how sentences are written in your book"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "capitalization"],
+      "topicIds": ["gr4_en_1_3"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_006",
+      "questionText": "In the poem, the sky is described as:",
+      "questionType": "mcq",
+      "options": ["Dark and cloudy", "Bright with sun", "Full of stars", "Raining"],
+      "correctAnswer": "B",
+      "explanation": "The poem describes the morning sky as bright, with the sun shining - a beautiful start to the day.",
+      "hints": ["Think about what the sky looks like in the morning"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "morning", "nature"],
+      "topicIds": ["gr4_en_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_007",
+      "questionText": "A sentence that asks a question ends with a:",
+      "questionType": "mcq",
+      "options": ["Full stop", "Comma", "Question mark", "Exclamation mark"],
+      "correctAnswer": "C",
+      "explanation": "Questions end with a question mark (?). For example: 'What is your name?'",
+      "hints": ["It looks like a hook"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "punctuation", "question"],
+      "topicIds": ["gr4_en_1_3"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_008",
+      "questionText": "Why is it important to wake up on time?",
+      "questionType": "mcq",
+      "options": ["To watch TV", "To be ready for school and activities", "To stay in bed longer", "To eat more"],
+      "correctAnswer": "B",
+      "explanation": "Waking up on time helps us get ready for school, finish our morning tasks, and not be late.",
+      "hints": ["Think about what happens when you wake up late"],
+      "difficulty": "basic",
+      "conceptTags": ["life skills", "time management"],
+      "topicIds": ["gr4_en_1_2"],
+      "points": 1
+    },
+    {
+      "id": "q_wu_009",
+      "questionText": "Which sentence shows excitement?",
+      "questionType": "mcq",
+      "options": ["I am going to school.", "Are you coming?", "What a beautiful day!", "The sun is bright."],
+      "correctAnswer": "C",
+      "explanation": "'What a beautiful day!' shows excitement and ends with an exclamation mark (!)",
+      "hints": ["Excited sentences end with !"],
+      "difficulty": "intermediate",
+      "conceptTags": ["grammar", "exclamatory sentence"],
+      "topicIds": ["gr4_en_1_3"],
+      "points": 2
+    },
+    {
+      "id": "q_wu_010",
+      "questionText": "True or False: In the poem, nature wakes up along with us in the morning.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! The poem shows that nature - birds, flowers, the sun - all wake up in the morning along with us.",
+      "hints": ["Think about what happens in nature in the morning"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "nature", "morning"],
+      "topicIds": ["gr4_en_1_1"],
+      "points": 1
+    }
+  ]
+}

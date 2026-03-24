@@ -1,0 +1,133 @@
+{
+  "quiz": {
+    "id": "quiz_video__4VC3IHbuW8",
+    "title": "Electric Charge, Field, and Potential",
+    "level": "video",
+    "entityId": "_4VC3IHbuW8",
+    "subjectId": "physics",
+    "subjectName": "Physics",
+    "chapterId": "ch1_electric_charges",
+    "chapterName": "Electric Charges and Fields",
+    "questionIds": [
+      "q_elec_field_pot_001",
+      "q_elec_field_pot_002",
+      "q_elec_field_pot_003",
+      "q_elec_field_pot_004",
+      "q_elec_field_pot_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_elec_field_pot_001",
+      "questionText": "What is an electric field?",
+      "questionType": "mcq",
+      "options": [
+        "A region where a charge experiences a force",
+        "The flow of electrons through a wire",
+        "The resistance in a circuit",
+        "The storage of charge in a battery"
+      ],
+      "correctAnswer": "A",
+      "explanation": "An electric field is defined as a region of space around an electrically charged object where another charged object would experience a force. The field exists whether or not another charge is present to feel it.",
+      "hints": [
+        "Think about the space around a charged object",
+        "What would a test charge feel?",
+        "It's invisible but has effects"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["electric_field", "field_concept"],
+      "videoTimestamp": "2:30",
+      "points": 3
+    },
+    {
+      "id": "q_elec_field_pot_002",
+      "questionText": "The direction of electric field at any point is defined as the direction of force on a positive test charge placed at that point.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True. By convention, the electric field direction is defined as the direction a positive test charge would move if placed in the field. Field lines point away from positive charges and toward negative charges.",
+      "hints": [
+        "Think about how we define field direction",
+        "What type of charge do we use as reference?",
+        "Positive charges repel positive charges"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["electric_field", "field_direction"],
+      "videoTimestamp": "5:15",
+      "points": 3
+    },
+    {
+      "id": "q_elec_field_pot_003",
+      "questionText": "What is electric potential?",
+      "questionType": "mcq",
+      "options": [
+        "Electric potential energy per unit charge",
+        "The total charge in a system",
+        "The current flowing through a conductor",
+        "The resistance of a material"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Electric potential (V) is defined as the electric potential energy per unit charge. It represents the work done per unit charge to bring a test charge from infinity to that point. The SI unit is Volt (V).",
+      "hints": [
+        "Think about energy divided by charge",
+        "It's measured in Volts",
+        "Related to potential energy concept"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["electric_potential", "voltage"],
+      "videoTimestamp": "8:00",
+      "points": 4
+    },
+    {
+      "id": "q_elec_field_pot_004",
+      "questionText": "What is the SI unit of electric potential?",
+      "questionType": "mcq",
+      "options": [
+        "Volt (V)",
+        "Coulomb (C)",
+        "Newton (N)",
+        "Joule (J)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The SI unit of electric potential is the Volt (V), named after Alessandro Volta. One volt equals one joule per coulomb (1 V = 1 J/C). This represents the potential energy per unit charge.",
+      "hints": [
+        "Named after an Italian scientist",
+        "Same unit as voltage",
+        "Think about energy per charge"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["electric_potential", "units"],
+      "videoTimestamp": "10:30",
+      "points": 3
+    },
+    {
+      "id": "q_elec_field_pot_005",
+      "questionText": "The relationship between electric field (E) and electric potential (V) is:",
+      "questionType": "mcq",
+      "options": [
+        "E = -dV/dr (negative gradient of potential)",
+        "E = V/Q (potential divided by charge)",
+        "E = V × r (potential times distance)",
+        "E = Q/V (charge divided by potential)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The electric field is the negative gradient of the electric potential: E = -dV/dr. This means the electric field points in the direction of decreasing potential, and its magnitude depends on how rapidly the potential changes with distance.",
+      "hints": [
+        "Think about how field relates to potential change",
+        "It involves a derivative",
+        "Field points from high to low potential"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": ["electric_field", "electric_potential", "relationship"],
+      "videoTimestamp": "12:45",
+      "points": 5
+    }
+  ]
+}

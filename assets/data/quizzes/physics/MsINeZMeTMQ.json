@@ -1,0 +1,138 @@
+{
+  "quiz": {
+    "id": "quiz_video_MsINeZMeTMQ",
+    "title": "Coulomb's Law (Mathematical)",
+    "level": "video",
+    "entityId": "MsINeZMeTMQ",
+    "subjectId": "physics",
+    "subjectName": "Physics",
+    "chapterId": "ch1_electric_charges",
+    "chapterName": "Electric Charges and Fields",
+    "questionIds": [
+      "q_coulomb_math_001",
+      "q_coulomb_math_002",
+      "q_coulomb_math_003",
+      "q_coulomb_math_004",
+      "q_coulomb_math_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_coulomb_math_001",
+      "questionText": "In the equation F = kq1q2/r², what happens to the force if both charges are doubled?",
+      "questionType": "mcq",
+      "options": [
+        "Force becomes 4 times larger",
+        "Force becomes 2 times larger",
+        "Force remains the same",
+        "Force becomes half"
+      ],
+      "correctAnswer": "A",
+      "explanation": "If q1 → 2q1 and q2 → 2q2, then F = k(2q1)(2q2)/r² = 4kq1q2/r² = 4F. The force becomes 4 times the original because charge appears as a product in the numerator.",
+      "hints": [
+        "Both charges appear in the numerator",
+        "They multiply together",
+        "2 × 2 = 4"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["coulombs_law", "proportionality"],
+      "videoTimestamp": "3:00",
+      "points": 4
+    },
+    {
+      "id": "q_coulomb_math_002",
+      "questionText": "Calculate the force between two charges of +2C and +3C separated by 1m. (k = 9 × 10^9 N·m²/C²)",
+      "questionType": "mcq",
+      "options": [
+        "54 × 10^9 N",
+        "6 × 10^9 N",
+        "5 × 10^9 N",
+        "18 × 10^9 N"
+      ],
+      "correctAnswer": "A",
+      "explanation": "F = kq1q2/r² = (9 × 10^9)(2)(3)/(1)² = 9 × 10^9 × 6 = 54 × 10^9 N. This is an enormous force, showing why such large charges don't exist in everyday situations.",
+      "hints": [
+        "Use F = kq1q2/r²",
+        "Plug in the values directly",
+        "r = 1 makes calculation simple"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["coulombs_law", "calculation"],
+      "videoTimestamp": "6:30",
+      "points": 4
+    },
+    {
+      "id": "q_coulomb_math_003",
+      "questionText": "The electrostatic force between two charges is 36N. If the distance is tripled, the new force will be:",
+      "questionType": "mcq",
+      "options": [
+        "4N",
+        "12N",
+        "9N",
+        "3N"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Since F ∝ 1/r², when r → 3r, the force becomes F/9. New force = 36/9 = 4N. The inverse square law means tripling the distance reduces force by a factor of 9.",
+      "hints": [
+        "Use inverse square relationship",
+        "3 squared is 9",
+        "Divide original force by 9"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["coulombs_law", "inverse_square"],
+      "videoTimestamp": "8:45",
+      "points": 4
+    },
+    {
+      "id": "q_coulomb_math_004",
+      "questionText": "What is the dimension of Coulomb's constant k?",
+      "questionType": "mcq",
+      "options": [
+        "[M L³ T⁻⁴ A⁻²]",
+        "[M L² T⁻² A⁻¹]",
+        "[M L T⁻² A⁻²]",
+        "[M L² T⁻³ A⁻²]"
+      ],
+      "correctAnswer": "A",
+      "explanation": "From F = kq1q2/r², k = Fr²/(q1q2). Using dimensions: [M L T⁻²][L²]/[A T]² = [M L³ T⁻² A⁻² T⁻²] = [M L³ T⁻⁴ A⁻²]. This is the dimensional formula of Coulomb's constant.",
+      "hints": [
+        "Start from F = kq1q2/r²",
+        "Solve for k",
+        "Charge dimension is [A T]"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": ["coulombs_law", "dimensions"],
+      "videoTimestamp": "10:30",
+      "points": 5
+    },
+    {
+      "id": "q_coulomb_math_005",
+      "questionText": "Coulomb's Law is similar in mathematical form to which other fundamental law?",
+      "questionType": "mcq",
+      "options": [
+        "Newton's Law of Gravitation",
+        "Ohm's Law",
+        "Faraday's Law",
+        "Hooke's Law"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Coulomb's Law (F = kq1q2/r²) has the same mathematical form as Newton's Law of Gravitation (F = Gm1m2/r²). Both are inverse square laws, though they describe different fundamental forces.",
+      "hints": [
+        "Both have inverse square dependence",
+        "Think about force between masses",
+        "Another fundamental force law"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["coulombs_law", "comparison"],
+      "videoTimestamp": "12:00",
+      "points": 3
+    }
+  ]
+}

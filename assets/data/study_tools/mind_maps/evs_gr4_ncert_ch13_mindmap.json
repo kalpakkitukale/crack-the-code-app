@@ -1,0 +1,187 @@
+{
+  "chapterId": "gr4_evs_ncert_ch13",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "A River's Tale",
+      "description": "The story of rivers and water pollution",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_river_journey",
+      "label": "River's Journey",
+      "description": "From mountains to the sea",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_source",
+      "label": "Source (Mountains)",
+      "description": "Starts from glaciers and springs",
+      "parentId": "node_river_journey",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_plains",
+      "label": "Through Plains",
+      "description": "Becomes wider and slower",
+      "parentId": "node_river_journey",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_mouth",
+      "label": "Mouth (Sea)",
+      "description": "Ends at the ocean",
+      "parentId": "node_river_journey",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_importance",
+      "label": "Importance of Rivers",
+      "description": "Why rivers matter to us",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_drinking",
+      "label": "Drinking Water",
+      "description": "Rivers supply fresh water to cities",
+      "parentId": "node_importance",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_farming_water",
+      "label": "Farming & Irrigation",
+      "description": "Water for growing crops",
+      "parentId": "node_importance",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_pollution",
+      "label": "Water Pollution",
+      "description": "How rivers get dirty",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_factory_waste",
+      "label": "Factory Waste",
+      "description": "Chemicals dumped into rivers",
+      "parentId": "node_pollution",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_sewage",
+      "label": "City Sewage",
+      "description": "Dirty water from homes and cities",
+      "parentId": "node_pollution",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_garbage",
+      "label": "Garbage & Plastic",
+      "description": "Waste thrown directly into rivers",
+      "parentId": "node_pollution",
+      "positionX": 250,
+      "positionY": 260,
+      "color": "#EF5350",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_effects",
+      "label": "Effects of Pollution",
+      "description": "How pollution harms life",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#FF9800",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_fish_die",
+      "label": "Fish & Animals Die",
+      "description": "Aquatic life destroyed",
+      "parentId": "node_effects",
+      "positionX": -200,
+      "positionY": 380,
+      "color": "#FFC107",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_diseases",
+      "label": "Human Diseases",
+      "description": "Cholera, typhoid, diarrhoea",
+      "parentId": "node_effects",
+      "positionX": -100,
+      "positionY": 380,
+      "color": "#FFC107",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_solutions",
+      "label": "Keeping Rivers Clean",
+      "description": "What we can do",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#9C27B0",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_namami_gange",
+      "label": "Namami Gange",
+      "description": "Government programme to clean Ganga",
+      "parentId": "node_solutions",
+      "positionX": 100,
+      "positionY": 380,
+      "color": "#BA68C8",
+      "orderIndex": 16
+    },
+    {
+      "id": "node_our_role",
+      "label": "Our Responsibility",
+      "description": "Don't litter, save water, plant trees",
+      "parentId": "node_solutions",
+      "positionX": 200,
+      "positionY": 380,
+      "color": "#BA68C8",
+      "orderIndex": 17
+    }
+  ]
+}

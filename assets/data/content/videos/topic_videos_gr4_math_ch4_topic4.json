@@ -1,0 +1,432 @@
+{
+  "playlistId": "gr4_m4_t4_main",
+  "topicId": "gr4_m_4_4",
+  "topicName": "Expanded Form and Word Form (4-digit Numbers)",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2700,
+    "totalDurationDisplay": "45:00",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_4_1"],
+    "followUpTopics": ["gr4_m_4_5"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_exp_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+
+      "title": "Expanded Form of 4-Digit Numbers | Introduction",
+      "description": "Introduction to writing 4-digit numbers in expanded form",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 820000,
+
+      "tags": ["expanded form", "4-digit numbers", "introduction", "place value"],
+
+      "learningObjectives": [
+        "Understand what expanded form means for 4-digit numbers",
+        "Learn to break numbers into thousands, hundreds, tens, ones",
+        "Write expanded form using addition",
+        "See the connection to place value"
+      ],
+
+      "keyConceptsCovered": [
+        "Expanded form definition",
+        "Example: 3,456 = 3000 + 400 + 50 + 6",
+        "Why we use expanded form",
+        "Connection to place value"
+      ],
+
+      "prerequisites": ["4-digit place value"],
+      "followUpTopics": ["Converting between forms"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_exp_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+
+      "title": "Writing 4-Digit Numbers in Expanded Form | Examples",
+      "description": "Practice writing 4-digit numbers in expanded form with step-by-step examples",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1100000,
+
+      "tags": ["expanded form", "examples", "practice", "4-digit"],
+
+      "learningObjectives": [
+        "Practice writing expanded form step by step",
+        "Handle different 4-digit numbers",
+        "Learn the systematic approach",
+        "Build confidence with multiple examples"
+      ],
+
+      "keyConceptsCovered": [
+        "Step 1: Identify place value of each digit",
+        "Step 2: Write place values with + signs",
+        "Examples: 5,234 = 5000 + 200 + 30 + 4",
+        "Practice with various numbers"
+      ],
+
+      "prerequisites": ["Expanded form introduction"],
+      "followUpTopics": ["Converting from expanded form"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_exp_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+
+      "title": "Converting Expanded Form to Standard Form",
+      "description": "Learn to convert from expanded form back to standard form",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+
+      "tags": ["expanded form", "conversion", "standard form", "addition"],
+
+      "learningObjectives": [
+        "Convert expanded form to standard form",
+        "Add place values correctly",
+        "Understand the reverse process",
+        "Practice both directions of conversion"
+      ],
+
+      "keyConceptsCovered": [
+        "Given: 2000 + 300 + 40 + 5, find: 2,345",
+        "Adding place values",
+        "Writing the final number correctly",
+        "Two-way conversion practice"
+      ],
+
+      "prerequisites": ["Writing expanded form"],
+      "followUpTopics": ["Word form"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_word_v1",
+      "sequenceNumber": 4,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+
+      "title": "Word Form of 4-Digit Numbers | Number Names",
+      "description": "Learn to read and write 4-digit numbers in words",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 920000,
+
+      "tags": ["word form", "number names", "4-digit", "reading numbers"],
+
+      "learningObjectives": [
+        "Read 4-digit numbers aloud correctly",
+        "Write 4-digit numbers in words",
+        "Understand naming pattern for thousands",
+        "Use proper commas and hyphens"
+      ],
+
+      "keyConceptsCovered": [
+        "Pattern: X thousand Y hundred Z",
+        "Example: 3,456 = Three thousand four hundred fifty-six",
+        "When to use commas vs hyphens",
+        "Reading numbers aloud"
+      ],
+
+      "prerequisites": ["3-digit word form"],
+      "followUpTopics": ["Converting between all three forms"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_word_v2",
+      "sequenceNumber": 5,
+      "type": "worked_examples",
+      "importance": "must_watch",
+
+      "title": "Word Form Practice | Writing 4-Digit Numbers in Words",
+      "description": "Practice reading and writing 4-digit numbers in word form",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 680000,
+
+      "tags": ["word form", "practice", "examples", "4-digit"],
+
+      "learningObjectives": [
+        "Practice writing numbers in words",
+        "Practice converting words to numbers",
+        "Handle special cases (numbers with zeros)",
+        "Build fluency with number names"
+      ],
+
+      "keyConceptsCovered": [
+        "Examples with different digit patterns",
+        "Special case: 5,007 = Five thousand seven",
+        "Special case: 4,050 = Four thousand fifty",
+        "Common mistakes to avoid"
+      ],
+
+      "prerequisites": ["Word form introduction"],
+      "followUpTopics": ["All three forms together"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_forms_v1",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+
+      "title": "Three Forms of Numbers | Standard, Expanded, Word",
+      "description": "Learn to work with all three forms: standard, expanded, and word form",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 580000,
+
+      "tags": ["all forms", "conversion", "standard", "expanded", "word"],
+
+      "learningObjectives": [
+        "Understand the three forms of numbers",
+        "Convert between any two forms",
+        "Recognize same number in different forms",
+        "Apply in real-world contexts"
+      ],
+
+      "keyConceptsCovered": [
+        "Standard form: 3,456",
+        "Expanded form: 3000 + 400 + 50 + 6",
+        "Word form: Three thousand four hundred fifty-six",
+        "Converting between all three forms"
+      ],
+
+      "prerequisites": ["Expanded and word form basics"],
+      "followUpTopics": ["Problem solving with different forms"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_forms_v2",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+
+      "title": "Number Forms Challenge | Problem Solving",
+      "description": "Challenge problems using standard, expanded, and word forms",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 420000,
+
+      "tags": ["challenge", "problem solving", "all forms", "advanced"],
+
+      "learningObjectives": [
+        "Solve multi-step problems with number forms",
+        "Find missing numbers given partial information",
+        "Use logical reasoning with different forms",
+        "Prepare for advanced questions"
+      ],
+
+      "keyConceptsCovered": [
+        "Finding missing digits in expanded form",
+        "Matching numbers across different forms",
+        "Word problems involving number forms",
+        "Critical thinking with place value"
+      ],
+
+      "prerequisites": ["Strong understanding of all three forms"],
+      "followUpTopics": ["5-digit number forms"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness (strong prerequisites)",
+      "recommendedVideos": ["gr4_exp_v1", "gr4_exp_v2", "gr4_word_v1", "gr4_word_v2", "gr4_forms_v2"],
+      "totalVideos": 5,
+      "estimatedTime": 1980,
+      "estimatedTimeDisplay": "33:00",
+      "rationale": "Skip basic conversion, focus on 4-digit specific content and challenges"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness (good foundation)",
+      "recommendedVideos": ["gr4_exp_v1", "gr4_exp_v2", "gr4_exp_v3", "gr4_word_v1", "gr4_word_v2", "gr4_forms_v1"],
+      "totalVideos": 6,
+      "estimatedTime": 2340,
+      "estimatedTimeDisplay": "39:00",
+      "rationale": "Complete coverage of expanded and word form with conversions"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness (some gaps)",
+      "recommendedVideos": ["gr4_exp_v1", "gr4_exp_v2", "gr4_exp_v3", "gr4_word_v1", "gr4_word_v2"],
+      "totalVideos": 5,
+      "estimatedTime": 1980,
+      "estimatedTimeDisplay": "33:00",
+      "rationale": "Core concepts after prerequisite review, skip optional integration"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisite videos",
+      "recommendedVideos": ["gr4_exp_v1", "gr4_exp_v2", "gr4_word_v1", "gr4_word_v2"],
+      "totalVideos": 4,
+      "estimatedTime": 1620,
+      "estimatedTimeDisplay": "27:00",
+      "rationale": "Essential content only: expanded form and word form basics"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_exp_v2",
+      "checkpointName": "Expanded Form Writing Check",
+      "questions": [
+        {
+          "question": "Write 3,456 in expanded form.",
+          "options": ["3000 + 400 + 50 + 6", "3 + 4 + 5 + 6", "300 + 40 + 50 + 6", "3456"],
+          "correctAnswer": 0,
+          "explanation": "3,456 = 3000 + 400 + 50 + 6. Each digit is shown with its place value."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_word_v2",
+      "checkpointName": "Word Form Mastery Check",
+      "questions": [
+        {
+          "question": "What is 2,735 in words?",
+          "options": ["Two thousand seven hundred thirty-five", "Two seven three five", "Twenty-seven thirty-five", "Two hundred seventy-three five"],
+          "correctAnswer": 0,
+          "explanation": "2,735 is read as 'Two thousand seven hundred thirty-five'."
+        },
+        {
+          "question": "Which number is 'Five thousand forty-two'?",
+          "options": ["5,042", "5,420", "5,402", "50,042"],
+          "correctAnswer": 0,
+          "explanation": "'Five thousand forty-two' = 5,042. Note: there are no hundreds."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "These videos should be assigned based on readiness assessment results. Videos 1-2 teach expanded form, videos 4-5 teach word form. Video 6 integrates both concepts.",
+    "parentGuidance": "Watch videos in sequence. Have your child practice writing numbers in both forms after each video. Videos 1-5 are essential.",
+    "studentGuidance": "Take notes on the patterns. Practice is key - write many numbers in expanded and word form. Use the comprehension checks to test yourself."
+  }
+}

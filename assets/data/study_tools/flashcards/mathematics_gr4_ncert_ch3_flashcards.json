@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch3",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn3_repeating",
+      "name": "Repeating Patterns",
+      "description": "Learn about patterns that repeat the same group of elements over and over",
+      "topicId": "gr4_mn_3_1",
+      "chapterId": "gr4_math_ncert_ch3",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn3_001",
+          "front": "What is a repeating pattern?",
+          "back": "A repeating pattern is a set of shapes, colours, or numbers that keeps coming back in the same order. For example: circle, square, circle, square, circle, square...",
+          "hint": "Think of a string of beads with the same colours coming again and again",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn3_002",
+          "front": "What is the 'core' of a repeating pattern?",
+          "back": "The core is the smallest group that repeats. In the pattern red, blue, red, blue, red, blue... the core is 'red, blue'. Everything else is just this core repeating.",
+          "hint": "Find the shortest piece that, when copied, makes the whole pattern",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn3_003",
+          "front": "In the pattern: triangle, triangle, circle, triangle, triangle, circle... what comes next?",
+          "back": "Triangle. The core is 'triangle, triangle, circle'. After the circle, the pattern starts again with triangle.",
+          "hint": "Find the group that keeps repeating",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn3_004",
+          "front": "Where do we see repeating patterns in real life?",
+          "back": "Repeating patterns are everywhere! Look at floor tiles, saree borders, rangoli designs, mehndi art, fence railings, and even the stripes on a zebra crossing.",
+          "hint": "Look at the borders on your clothes or the tiles in your kitchen",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn3_005",
+          "front": "Can sounds make a repeating pattern?",
+          "back": "Yes! Clap-clap-snap, clap-clap-snap is a repeating sound pattern. Music, dance steps, and even the beat of a dhol follow repeating patterns.",
+          "hint": "Think of the rhythm when you clap along to a song",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn3_growing",
+      "name": "Growing Patterns",
+      "description": "Understand patterns where something increases or changes step by step",
+      "topicId": "gr4_mn_3_2",
+      "chapterId": "gr4_math_ncert_ch3",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn3_006",
+          "front": "What is a growing pattern?",
+          "back": "A growing pattern is one where the elements increase or change in a regular way. For example: 1 dot, 3 dots, 5 dots, 7 dots... Each step adds 2 more dots.",
+          "hint": "In a growing pattern, each step is bigger or different from the last",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn3_007",
+          "front": "How is a growing pattern different from a repeating pattern?",
+          "back": "In a repeating pattern, the same group comes again and again. In a growing pattern, each step changes -- it usually gets bigger. For example, 2, 4, 6, 8... keeps growing by 2.",
+          "hint": "Repeating = same thing again; Growing = something new each time",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn3_008",
+          "front": "What comes next: 1, 4, 7, 10, ?",
+          "back": "13. The pattern adds 3 each time.\n\n1 + 3 = 4\n4 + 3 = 7\n7 + 3 = 10\n10 + 3 = 13",
+          "hint": "Find the difference between each pair of numbers",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn3_009",
+          "front": "Can shapes make a growing pattern?",
+          "back": "Yes! Imagine building stairs with blocks: step 1 has 1 block, step 2 has 3 blocks, step 3 has 6 blocks. The shape grows bigger at each step.",
+          "hint": "Think of stacking blocks to make a staircase",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn3_010",
+          "front": "What is the rule for the pattern: 5, 10, 15, 20, 25?",
+          "back": "The rule is 'add 5 each time'. Each number is 5 more than the one before. This is also the table of 5!",
+          "hint": "Look at how much each number increases by",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn3_number_seq",
+      "name": "Number Sequences & Pattern Rules",
+      "description": "Discover rules behind number patterns and predict what comes next",
+      "topicId": "gr4_mn_3_3",
+      "chapterId": "gr4_math_ncert_ch3",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn3_011",
+          "front": "What is a number sequence?",
+          "back": "A number sequence is a list of numbers that follow a certain rule. For example: 2, 4, 6, 8, 10 is a sequence where you add 2 each time.",
+          "hint": "Think of numbers standing in a line, each connected by a rule",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn3_012",
+          "front": "How do you find the rule of a number pattern?",
+          "back": "Look at the difference between one number and the next. If the differences are the same, that is your rule. For example: 10, 15, 20, 25 -- the difference is always 5, so the rule is 'add 5'.",
+          "hint": "Subtract each number from the next one to find the difference",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn3_013",
+          "front": "What comes next: 100, 90, 80, 70, ?",
+          "back": "60. The pattern subtracts 10 each time.\n\n100 - 10 = 90\n90 - 10 = 80\n80 - 10 = 70\n70 - 10 = 60",
+          "hint": "This is a decreasing pattern -- the numbers get smaller",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn3_014",
+          "front": "What is an odd-even pattern?",
+          "back": "Odd numbers (1, 3, 5, 7, 9...) and even numbers (2, 4, 6, 8, 10...) each form a pattern. Odd numbers always end in 1, 3, 5, 7, or 9. Even numbers always end in 0, 2, 4, 6, or 8.",
+          "hint": "Check the last digit of the number",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn3_015",
+          "front": "Can patterns help us predict what comes next?",
+          "back": "Yes! Once you know the rule, you can find any number in the pattern. If the rule is 'add 3' and the pattern starts at 2: the next numbers are 5, 8, 11, 14, and so on.",
+          "hint": "Knowing the rule is like having a magic key to the whole pattern",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

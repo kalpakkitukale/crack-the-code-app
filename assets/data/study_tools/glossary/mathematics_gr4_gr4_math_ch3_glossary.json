@@ -1,0 +1,103 @@
+{
+  "chapterId": "gr4_math_ch3",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_m3_001",
+      "term": "Multiplication",
+      "definition": "A quick way of adding the same number many times. For example, 4 x 3 means 4 + 4 + 4 = 12.",
+      "pronunciation": "mul-tih-plih-KAY-shun",
+      "exampleUsage": "If you have 5 bags with 6 apples each, you use multiplication: 5 x 6 = 30 apples.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m3_002",
+      "term": "Division",
+      "definition": "Splitting a number into equal groups. It is the opposite of multiplication.",
+      "pronunciation": "dih-VIH-zhun",
+      "exampleUsage": "If you share 20 chocolates among 4 friends, each gets 20 ÷ 4 = 5 chocolates.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m3_003",
+      "term": "Product",
+      "definition": "The answer you get when you multiply two or more numbers together.",
+      "pronunciation": "PROD-ukt",
+      "exampleUsage": "The product of 6 and 7 is 42.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m3_004",
+      "term": "Factor",
+      "definition": "A number that is multiplied by another number to get a product. In 3 x 4 = 12, both 3 and 4 are factors.",
+      "pronunciation": "FAK-ter",
+      "exampleUsage": "The factors of 12 include 1, 2, 3, 4, 6, and 12.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m3_005",
+      "term": "Remainder",
+      "definition": "The amount left over after dividing a number as evenly as possible.",
+      "pronunciation": "rih-MAIN-der",
+      "exampleUsage": "When you divide 13 by 4, the answer is 3 with a remainder of 1.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m3_006",
+      "term": "Dividend",
+      "definition": "The number being divided. It is the total amount you want to split up.",
+      "pronunciation": "DIV-ih-dend",
+      "exampleUsage": "In 15 ÷ 3 = 5, the dividend is 15.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m3_007",
+      "term": "Divisor",
+      "definition": "The number you divide by. It tells you how many groups to make.",
+      "pronunciation": "dih-VY-zer",
+      "exampleUsage": "In 15 ÷ 3 = 5, the divisor is 3.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m3_008",
+      "term": "Quotient",
+      "definition": "The answer you get when you divide one number by another.",
+      "pronunciation": "KWO-shent",
+      "exampleUsage": "In 20 ÷ 4 = 5, the quotient is 5.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m3_009",
+      "term": "Times Table",
+      "definition": "A list that shows the results of multiplying a number by 1, 2, 3, and so on. Also called a multiplication table.",
+      "pronunciation": "TYMZ TAY-bul",
+      "exampleUsage": "The 5 times table goes: 5, 10, 15, 20, 25, 30...",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m3_010",
+      "term": "Commutative Property",
+      "definition": "A rule that says you can multiply numbers in any order and get the same answer. 3 x 5 = 5 x 3.",
+      "pronunciation": "kuh-MYOO-tuh-tiv PROP-er-tee",
+      "exampleUsage": "Because of the commutative property, 7 x 8 = 8 x 7 = 56.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m3_011",
+      "term": "Carrying Over",
+      "definition": "Moving extra tens to the next column during multiplication when a product is 10 or more. Also called regrouping.",
+      "pronunciation": "KAIR-ee-ing OH-ver",
+      "exampleUsage": "In 6 x 8 = 48, you write 8 in the ones place and carry over 4 to the tens.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m3_012",
+      "term": "Multiple",
+      "definition": "The result of multiplying a number by any whole number. Multiples of 3 are 3, 6, 9, 12, 15, and so on.",
+      "pronunciation": "MUL-tih-pul",
+      "exampleUsage": "The first five multiples of 4 are 4, 8, 12, 16, and 20.",
+      "difficulty": "easy"
+    }
+  ]
+}

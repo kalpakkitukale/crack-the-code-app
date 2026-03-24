@@ -1,0 +1,392 @@
+{
+  "assessmentId": "readiness_gr4_m2_t3",
+  "topicId": "gr4_m_2_3",
+  "topicName": "Subtraction of 4-5 Digit Numbers (Basic)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning basic subtraction of 4-5 digit numbers (without regrouping/borrowing)",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "subtraction_3digit",
+      "conceptName": "Subtracting 3-digit numbers without regrouping",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_sub3_v1", "prereq_sub3_v2"]
+    },
+    {
+      "conceptId": "place_value_alignment_sub",
+      "conceptName": "Aligning numbers by place value for subtraction",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_align_sub_v1"]
+    },
+    {
+      "conceptId": "subtraction_facts",
+      "conceptName": "Basic subtraction facts (0-20)",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_subfacts_v1"]
+    },
+    {
+      "conceptId": "place_value_understanding_sub",
+      "conceptName": "Understanding place value in large numbers for subtraction",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_pv_sub_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_3digit",
+
+      "question": "What is 489 - 152?",
+
+      "options": ["337", "327", "347", "237"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "337",
+
+      "explanation": "Subtract: 9-2=7 (ones), 8-5=3 (tens), 4-1=3 (hundreds) → 337.",
+
+      "tags": ["subtraction", "3-digit", "no regrouping", "basic"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Error in tens place (8-5=2 instead of 3)",
+          "conceptGap": "Subtraction fact accuracy",
+          "remediation": "Review basic subtraction facts"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_3digit",
+
+      "question": "What is 785 - 423?",
+
+      "options": ["362", "352", "462", "262"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "362",
+
+      "explanation": "Ones: 5-3=2, Tens: 8-2=6, Hundreds: 7-4=3 → 362.",
+
+      "tags": ["subtraction", "3-digit", "column subtraction"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Error in tens place calculation",
+          "conceptGap": "Column subtraction accuracy",
+          "remediation": "Practice column subtraction carefully"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_3digit",
+
+      "question": "True or False: In subtraction, we always subtract the smaller digit from the larger digit in each place value column when there is no regrouping needed.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! When no regrouping is needed, each digit in the top number is larger than or equal to the digit below it, so we subtract directly.",
+
+      "tags": ["subtraction", "concept", "column subtraction"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Confused about subtraction direction",
+          "conceptGap": "Understanding subtraction procedure",
+          "remediation": "Review subtraction concept: larger - smaller"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_alignment_sub",
+
+      "question": "When subtracting 5,678 - 1,234, how should the numbers be aligned?",
+
+      "options": [
+        "Ones under ones, tens under tens, hundreds under hundreds, thousands under thousands",
+        "Left aligned (5 under 1, 6 under 2, etc.)",
+        "Right to left randomly",
+        "Doesn't matter"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Ones under ones, tens under tens, hundreds under hundreds, thousands under thousands",
+
+      "explanation": "Always align by place value: ones under ones, tens under tens, etc. This ensures we subtract correct values.",
+
+      "tags": ["place value", "alignment", "subtraction setup"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Thought numbers align from left",
+          "conceptGap": "Place value alignment understanding",
+          "remediation": "Review place value alignment rules"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_alignment_sub",
+
+      "question": "In 8,765 - 432, where should the 2 be written in column form?",
+
+      "options": ["Under the 5", "Under the 6", "Under the 7", "Under the 8"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Under the 5",
+
+      "explanation": "432 has ones, tens, hundreds. The 2 is in ones place, so it goes under 5 (the ones digit of 8,765).",
+
+      "tags": ["place value", "alignment", "column setup"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Aligned from left instead of right",
+          "conceptGap": "Place value alignment",
+          "remediation": "Practice aligning numbers from right (ones place)"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "true_false",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_alignment_sub",
+
+      "question": "True or False: When subtracting, we always start from the ones place (rightmost column) and work towards the left.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! We always subtract from right to left: ones, then tens, then hundreds, then thousands, etc.",
+
+      "tags": ["subtraction", "procedure", "direction"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't know the subtraction direction",
+          "conceptGap": "Subtraction procedure",
+          "remediation": "Learn to always start at ones place"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_facts",
+
+      "question": "What is 15 - 8?",
+
+      "options": ["6", "7", "8", "9"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "7",
+
+      "explanation": "15 - 8 = 7. Knowing subtraction facts quickly is essential for larger number subtraction.",
+
+      "tags": ["subtraction facts", "mental math", "basic"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Calculation error",
+          "conceptGap": "Subtraction fact fluency",
+          "remediation": "Practice subtraction facts to 20"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_facts",
+
+      "question": "What is 13 - 5?",
+
+      "options": ["7", "8", "9", "6"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "8",
+
+      "explanation": "13 - 5 = 8. These facts are used frequently in column subtraction.",
+
+      "tags": ["subtraction facts", "mental math"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Off by 1",
+          "conceptGap": "Subtraction fact accuracy",
+          "remediation": "Review and practice subtraction facts"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_understanding_sub",
+
+      "question": "What is 7,000 - 3,000?",
+
+      "options": ["4,000", "3,000", "5,000", "40,000"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "4,000",
+
+      "explanation": "Subtract thousands: 7-3=4 thousands = 4,000.",
+
+      "tags": ["subtraction", "4-digit", "thousands", "place value"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added extra zero",
+          "conceptGap": "Place value in subtraction",
+          "remediation": "Review place value subtraction"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "place_value_understanding_sub",
+
+      "question": "What is 6,789 - 2,345 (without regrouping)?",
+
+      "options": ["4,444", "4,344", "4,544", "4,434"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "4,444",
+
+      "explanation": "Subtract place by place: 9-5=4, 8-4=4, 7-3=4, 6-2=4 → 4,444.",
+
+      "tags": ["subtraction", "4-digit", "column subtraction"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Error in hundreds place",
+          "conceptGap": "Column subtraction accuracy",
+          "remediation": "Practice 4-digit subtraction carefully"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You understand 3-digit subtraction well. You're ready to learn subtraction with 4-5 digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand subtraction basics. Let's extend to larger numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in 3-digit subtraction or place value alignment. Watch review videos before learning larger number subtraction.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review 3-digit subtraction basics and place value first. We'll build your foundation.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you master subtraction.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn subtraction with 4-5 digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

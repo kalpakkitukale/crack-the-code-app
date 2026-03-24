@@ -1,0 +1,290 @@
+{
+  "quiz": {
+    "id": "quiz_english_gr4",
+    "level": "subject",
+    "entityId": "english_gr4",
+    "title": "English Grade 4 - Complete Assessment",
+    "questionIds": [
+      "q_eng4_001",
+      "q_eng4_002",
+      "q_eng4_003",
+      "q_eng4_004",
+      "q_eng4_005",
+      "q_eng4_006",
+      "q_eng4_007",
+      "q_eng4_008",
+      "q_eng4_009",
+      "q_eng4_010",
+      "q_eng4_011",
+      "q_eng4_012"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_eng4_001",
+      "questionText": "Which word is a noun in this sentence: 'The cat sleeps on the mat.'?",
+      "questionType": "mcq",
+      "options": [
+        "sleeps",
+        "on",
+        "cat",
+        "the"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cat is a noun. It is the name of an animal. Nouns are naming words for people, places, animals, or things.",
+      "hints": [
+        "Nouns are names",
+        "What is doing the action?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_002",
+      "questionText": "Choose the correct pronoun: '_____ is my sister.'",
+      "questionType": "mcq",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "correctAnswer": "B",
+      "explanation": "She is the correct pronoun for a female person (sister). Pronouns replace nouns to avoid repetition.",
+      "hints": [
+        "Sister is female",
+        "Use 'she' for girls/women"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["pronouns"],
+      "topicIds": ["gr4_e_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_003",
+      "questionText": "What type of word is 'run' in: 'I run every morning'?",
+      "questionType": "mcq",
+      "options": [
+        "Noun",
+        "Pronoun",
+        "Verb",
+        "Adjective"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Run is a verb. Verbs are action words that tell us what someone or something does.",
+      "hints": [
+        "It's an action",
+        "What am I doing?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["verbs", "action_verbs"],
+      "topicIds": ["gr4_e_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_004",
+      "questionText": "Which sentence is in present tense?",
+      "questionType": "mcq",
+      "options": [
+        "I played cricket yesterday.",
+        "I play cricket every day.",
+        "I will play cricket tomorrow.",
+        "I was playing cricket."
+      ],
+      "correctAnswer": "B",
+      "explanation": "I play cricket every day is in present tense. It tells us about what happens regularly now.",
+      "hints": [
+        "Present tense is about now",
+        "Look for 'play' not 'played' or 'will play'"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["verbs", "present_tense"],
+      "topicIds": ["gr4_e_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_005",
+      "questionText": "Choose the action verb: 'The bird sings sweetly.'",
+      "questionType": "mcq",
+      "options": [
+        "bird",
+        "sings",
+        "sweetly",
+        "the"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sings is the action verb. It tells us what the bird is doing.",
+      "hints": [
+        "What is the bird doing?",
+        "Verbs show action"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["verbs", "action_verbs"],
+      "topicIds": ["gr4_e_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_006",
+      "questionText": "Which is an adjective: 'The tall boy wears a red shirt.'?",
+      "questionType": "mcq",
+      "options": [
+        "boy",
+        "wears",
+        "tall",
+        "shirt"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tall is an adjective. It describes the boy. Adjectives are describing words that tell us more about nouns.",
+      "hints": [
+        "Adjectives describe nouns",
+        "What kind of boy?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["adjectives", "describing"],
+      "topicIds": ["gr4_e_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_007",
+      "questionText": "Complete: 'My bag is heavy, but yours is _____.'",
+      "questionType": "mcq",
+      "options": [
+        "heavy",
+        "heavier",
+        "heaviest",
+        "more heavy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Heavier is correct. We use comparative adjectives (ending in -er) to compare two things.",
+      "hints": [
+        "Comparing two bags",
+        "Add -er for comparison"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["adjectives", "comparison"],
+      "topicIds": ["gr4_e_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_008",
+      "questionText": "What is the plural of 'child'?",
+      "questionType": "mcq",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "child"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Children is the plural of child. Some nouns have irregular plural forms that don't follow the usual rules.",
+      "hints": [
+        "Not regular plural",
+        "Special word"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nouns", "plural"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_009",
+      "questionText": "Replace the underlined word with a pronoun: 'Raj and Neha are playing.'",
+      "questionType": "mcq",
+      "options": [
+        "He",
+        "She",
+        "They",
+        "We"
+      ],
+      "correctAnswer": "C",
+      "explanation": "They is correct because we use 'they' for more than one person. Raj and Neha = they.",
+      "hints": [
+        "Two people",
+        "More than one"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["pronouns"],
+      "topicIds": ["gr4_e_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_010",
+      "questionText": "Which word makes this sentence correct: 'She _____ to school every day.'",
+      "questionType": "mcq",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Goes is correct. With 'he/she/it' in present tense, we add 's' or 'es' to the verb.",
+      "hints": [
+        "Present tense with 'she'",
+        "Add 's' or 'es'"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["verbs", "present_tense"],
+      "topicIds": ["gr4_e_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_011",
+      "questionText": "Choose the superlative form of 'big':",
+      "questionType": "mcq",
+      "options": [
+        "big",
+        "bigger",
+        "biggest",
+        "more big"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Biggest is the superlative form. We use superlatives (ending in -est) when comparing three or more things.",
+      "hints": [
+        "For three or more things",
+        "Add -est"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["adjectives", "comparison"],
+      "topicIds": ["gr4_e_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng4_012",
+      "questionText": "Identify the collective noun: 'A bunch of flowers is on the table.'",
+      "questionType": "mcq",
+      "options": [
+        "flowers",
+        "bunch",
+        "table",
+        "is"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bunch is a collective noun. It refers to a group of flowers together.",
+      "hints": [
+        "Word for a group",
+        "Many flowers together"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nouns", "collective_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

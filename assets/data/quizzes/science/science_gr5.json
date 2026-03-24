@@ -1,0 +1,290 @@
+{
+  "quiz": {
+    "id": "quiz_science_gr5",
+    "level": "subject",
+    "entityId": "science_gr5",
+    "title": "Science Grade 5 - Complete Assessment",
+    "questionIds": [
+      "q_sci5_001",
+      "q_sci5_002",
+      "q_sci5_003",
+      "q_sci5_004",
+      "q_sci5_005",
+      "q_sci5_006",
+      "q_sci5_007",
+      "q_sci5_008",
+      "q_sci5_009",
+      "q_sci5_010",
+      "q_sci5_011",
+      "q_sci5_012"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_sci5_001",
+      "questionText": "Which organ pumps blood throughout the body?",
+      "questionType": "mcq",
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Kidneys"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The heart is a muscular organ that pumps blood to all parts of the body through blood vessels.",
+      "hints": [
+        "It beats constantly",
+        "Found in chest"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["circulatory_system", "heart"],
+      "topicIds": ["gr5_s_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_002",
+      "questionText": "What gas do we breathe in?",
+      "questionType": "mcq",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctAnswer": "C",
+      "explanation": "We breathe in oxygen from the air, which our body needs to produce energy.",
+      "hints": [
+        "Essential for life",
+        "We exhale carbon dioxide"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["respiratory_system", "breathing"],
+      "topicIds": ["gr5_s_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_003",
+      "questionText": "Where does digestion begin?",
+      "questionType": "mcq",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Intestine",
+        "Liver"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Digestion begins in the mouth with chewing and saliva.",
+      "hints": [
+        "First place food goes",
+        "Where we chew"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["digestive_system"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_004",
+      "questionText": "What is a force?",
+      "questionType": "mcq",
+      "options": [
+        "A type of energy",
+        "A push or pull",
+        "A machine",
+        "A speed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A force is a push or pull that can change an object's motion, shape, or direction.",
+      "hints": [
+        "Can move things",
+        "Push or pull"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["force", "motion"],
+      "topicIds": ["gr5_s_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_005",
+      "questionText": "What pulls objects toward Earth?",
+      "questionType": "mcq",
+      "options": [
+        "Magnetism",
+        "Electricity",
+        "Gravity",
+        "Friction"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gravity is the force that pulls all objects toward the center of Earth.",
+      "hints": [
+        "Makes things fall down",
+        "Keeps us on ground"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["gravity", "force"],
+      "topicIds": ["gr5_s_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_006",
+      "questionText": "Which is an example of a simple machine?",
+      "questionType": "mcq",
+      "options": [
+        "Computer",
+        "Lever",
+        "Robot",
+        "Television"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A lever is a simple machine that helps us lift or move things with less effort. Examples: seesaw, crowbar.",
+      "hints": [
+        "Very basic tool",
+        "Uses a fulcrum"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["simple_machines", "lever"],
+      "topicIds": ["gr5_s_2_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_007",
+      "questionText": "Light travels in _____ lines.",
+      "questionType": "mcq",
+      "options": [
+        "curved",
+        "zigzag",
+        "straight",
+        "circular"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Light always travels in straight lines unless it hits an object or passes through different materials.",
+      "hints": [
+        "Not bent",
+        "Direct path"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["light", "properties"],
+      "topicIds": ["gr5_s_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_008",
+      "questionText": "What causes sound?",
+      "questionType": "mcq",
+      "options": [
+        "Light",
+        "Vibrations",
+        "Heat",
+        "Electricity"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sound is caused by vibrations. When something vibrates, it creates sound waves that travel through air or other materials.",
+      "hints": [
+        "Things shake",
+        "Creates waves"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["sound", "vibration"],
+      "topicIds": ["gr5_s_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_009",
+      "questionText": "Which form of energy do plants use to make food?",
+      "questionType": "mcq",
+      "options": [
+        "Sound energy",
+        "Light energy",
+        "Electrical energy",
+        "Heat energy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Plants use light energy from the sun to make food through photosynthesis.",
+      "hints": [
+        "From the sun",
+        "For photosynthesis"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["energy", "photosynthesis"],
+      "topicIds": ["gr5_s_3_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_010",
+      "questionText": "What happens when light bounces off a surface?",
+      "questionType": "mcq",
+      "options": [
+        "Absorption",
+        "Reflection",
+        "Refraction",
+        "Diffraction"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Reflection occurs when light bounces off a surface, like a mirror.",
+      "hints": [
+        "Bouncing back",
+        "Mirrors do this"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["light", "reflection"],
+      "topicIds": ["gr5_s_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_011",
+      "questionText": "Which blood vessels carry blood away from the heart?",
+      "questionType": "mcq",
+      "options": [
+        "Veins",
+        "Arteries",
+        "Capillaries",
+        "Nerves"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Arteries carry oxygen-rich blood away from the heart to all parts of the body.",
+      "hints": [
+        "Away from heart",
+        "Starts with 'A'"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["circulatory_system", "blood_vessels"],
+      "topicIds": ["gr5_s_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci5_012",
+      "questionText": "Sound cannot travel through:",
+      "questionType": "mcq",
+      "options": [
+        "Air",
+        "Water",
+        "Vacuum",
+        "Metal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sound needs a medium (solid, liquid, or gas) to travel. It cannot travel through a vacuum (empty space).",
+      "hints": [
+        "No air, no sound",
+        "Empty space"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["sound", "medium"],
+      "topicIds": ["gr5_s_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

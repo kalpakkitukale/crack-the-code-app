@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_math_ch4",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_m4",
+    "title": "Fractions",
+    "content": "This chapter introduces students to the world of fractions. A fraction represents a part of a whole, written with a numerator (top number) and a denominator (bottom number). Students will learn what fractions mean, explore equivalent fractions that look different but show the same amount, and practise adding fractions with the same denominator. Through real-world examples like sharing pizza, measuring ingredients, and telling time, students will see that fractions are an important part of everyday life.",
+    "keyPoints": [
+      "A fraction shows a part of a whole divided into equal parts",
+      "The numerator tells how many parts you have; the denominator tells total parts",
+      "Equivalent fractions look different but represent the same value",
+      "To find equivalent fractions, multiply or divide both numbers by the same amount",
+      "When adding fractions with the same denominator, add the numerators and keep the denominator"
+    ],
+    "learningObjectives": [
+      "Understand what fractions are and identify numerator and denominator",
+      "Represent fractions using pictures, shapes, and number lines",
+      "Find and create equivalent fractions",
+      "Simplify fractions to their lowest form",
+      "Add fractions that have the same denominator"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_m4_001",
+      "title": "Draw It Out!",
+      "content": "The best way to understand fractions is to draw them. Take a circle or rectangle and divide it into equal parts. Shade in the parts your fraction talks about. For example, to show 3/4, draw a shape with 4 equal parts and colour 3 of them. Seeing fractions makes them much easier to understand!",
+      "tags": ["study-tip", "visual-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_m4_002",
+      "title": "Common Mistake: Unequal Parts",
+      "content": "Remember, fractions only work with EQUAL parts! If you cut a pizza into 4 pieces but one piece is bigger than the others, you can't call each piece 1/4. Always check that all parts are the same size before writing a fraction.",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m4_003",
+      "title": "Kitchen Fractions Practice",
+      "content": "Next time you're in the kitchen, look at measuring cups and spoons. You'll find 1/2 cup, 1/4 cup, and 1/3 cup measures. Try helping with a recipe and practise reading fractions. Ask: which is bigger, 1/2 cup or 1/4 cup? Real-life practice makes fractions stick!",
+      "tags": ["practice", "real-world"],
+      "isPinned": false
+    }
+  ]
+}

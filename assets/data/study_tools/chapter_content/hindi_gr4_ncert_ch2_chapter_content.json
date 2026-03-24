@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch2",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hi2",
+    "title": "जैसा सवाल वैसा जवाब (As the Question, So the Answer)",
+    "content": "यह कक्षा 4 की NCERT रिमझिम पुस्तक का दूसरा अध्याय है। यह एक रोचक और हास्यपूर्ण कहानी है जो चतुराई और हाज़िरजवाबी पर आधारित है। कहानी में एक बुद्धिमान व्यक्ति से बहुत कठिन और चालाकी भरे सवाल पूछे जाते हैं। लेकिन वह हर सवाल का इतना सटीक और मज़ेदार जवाब देता है कि सवाल पूछने वाला स्वयं निरुत्तर हो जाता है। कहानी संवाद शैली में लिखी गई है जो इसे जीवंत और पढ़ने में रोचक बनाती है। इस अध्याय से बच्चे शब्दार्थ, मुहावरे, कहावतें, और संवाद लेखन सीखते हैं। मुख्य संदेश है कि बुद्धि बल से बड़ी होती है। (This is Chapter 2 of NCERT Rimjhim Class 4. It is an interesting and humorous story based on cleverness and quick wit. A wise person is asked very difficult questions but gives such accurate and funny answers that the questioner is silenced. The story is written in dialogue style, making it lively and interesting. Children learn vocabulary, idioms, proverbs, and dialogue writing. The main message is that intelligence is greater than strength.)",
+    "keyPoints": [
+      "कहानी चतुराई और हाज़िरजवाबी पर आधारित है (The story is based on cleverness and quick wit)",
+      "कठिन सवालों के चतुर और मज़ेदार जवाब दिए जाते हैं (Clever and funny answers to difficult questions)",
+      "कहानी संवाद (dialogue) शैली में लिखी गई है (The story is written in dialogue style)",
+      "मुख्य संदेश: बुद्धि शारीरिक बल से बड़ी है (Message: Intelligence is greater than physical strength)",
+      "'जैसा सवाल वैसा जवाब' एक प्रसिद्ध कहावत है (The title is a famous proverb)",
+      "कहानी में हास्य अप्रत्याशित जवाबों से आता है (Humor comes from unexpected answers)"
+    ],
+    "learningObjectives": [
+      "कहानी को सही उच्चारण और भाव के साथ पढ़ना (Read the story with correct pronunciation and expression)",
+      "कठिन शब्दों के अर्थ जानना और वाक्यों में प्रयोग करना (Learn difficult words and use them in sentences)",
+      "मुहावरे और कहावतों को पहचानना और प्रयोग करना (Identify and use idioms and proverbs)",
+      "संवाद लेखन का अभ्यास करना (Practice dialogue writing)",
+      "कहानी के प्रश्न-उत्तर लिखना (Write answers to story-based questions)",
+      "हास्य और व्यंग्य को समझना (Understand humor and satire)"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hi2_001",
+      "title": "कहानी पढ़ने की टिप (Story Reading Tip)",
+      "content": "कहानी को पढ़ते समय हर पात्र की आवाज़ अलग-अलग करके पढ़ो। सवाल पूछने वाले की आवाज़ गंभीर रखो और चतुर पात्र की आवाज़ हँसमुख। इससे कहानी जीवंत (lively) लगेगी और मज़ा भी आएगा। अगर संभव हो तो दोस्त के साथ मिलकर भूमिका निभाते हुए (role-play) पढ़ो! (Read the story using different voices for each character. Keep the questioner's voice serious and the clever character's voice cheerful. If possible, read it as role-play with a friend!)",
+      "tags": ["study-tip", "reading-aloud"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hi2_002",
+      "title": "मुहावरे का खेल (Idiom Game)",
+      "content": "एक कॉपी में 'मुहावरा कोश' (idiom dictionary) बनाओ। हर हफ़्ते 2-3 नए मुहावरे लिखो - जैसे 'नाक में दम करना', 'आँखें चुराना', 'हाथ मलना'। हर मुहावरे का अर्थ और एक वाक्य लिखो। दोस्तों के साथ मुहावरों का अंताक्षरी खेलो - बहुत मज़ा आएगा और शब्दकोश भी बढ़ेगा! (Make an 'idiom dictionary' in a notebook. Write 2-3 new idioms weekly with meanings and sentences. Play idiom antakshari with friends!)",
+      "tags": ["activity", "vocabulary-building"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hi2_003",
+      "title": "संवाद लेखन अभ्यास (Dialogue Writing Practice)",
+      "content": "कहानी से प्रेरित होकर अपना एक मज़ेदार संवाद लिखो। दो पात्रों को चुनो - जैसे शिक्षक और छात्र, या दो दोस्त। एक पात्र मुश्किल सवाल पूछे और दूसरा चतुर जवाब दे। याद रखो: संवाद में हर पात्र का नाम लिखो, विराम चिह्न (punctuation) का ध्यान रखो, और भाषा सरल रखो। (Inspired by the story, write your own funny dialogue. Choose two characters. One asks difficult questions, the other gives clever answers. Remember to write character names and use proper punctuation.)",
+      "tags": ["writing-practice", "creative-writing"],
+      "isPinned": false
+    }
+  ]
+}

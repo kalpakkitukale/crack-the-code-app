@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn5_t3",
+  "topicId": "gr4_mn_5_3",
+  "topicName": "Division and Multiplication Connection",
+  "chapterId": "gr4_math_ncert_ch5",
+  "chapterName": "Sharing and Measuring",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2428,
+    "totalDurationDisplay": "40:28",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_5_1", "gr4_mn_5_2"],
+    "followUpTopics": ["gr4_mn_5_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn5_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "How Multiplication and Division are Connected",
+      "description": "Discover how multiplication and division are related! If you know your times tables, you can solve division problems easily.",
+      "youtubeId": "i31rRt5m1-4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=i31rRt5m1-4",
+      "thumbnailUrl": "https://img.youtube.com/vi/i31rRt5m1-4/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Education",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 650000,
+      "tags": ["multiplication division connection", "inverse operations", "fact families"],
+      "learningObjectives": ["Understand that multiplication and division are inverse operations", "Use multiplication to check division", "Create fact families"],
+      "keyConceptsCovered": ["If 3 x 6 = 18, then 18 / 3 = 6 and 18 / 6 = 3", "Inverse operations", "Fact families with 3 numbers"],
+      "prerequisites": ["Basic division facts", "Multiplication tables"],
+      "followUpTopics": ["Using fact families to solve problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Basic Division | Understanding Division Facts",
+      "description": "Learn basic division facts and how to divide small numbers. See how multiplication tables help you divide.",
+      "youtubeId": "KGMf314LUc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KGMf314LUc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/KGMf314LUc0/hqdefault.jpg",
+      "duration": 598,
+      "durationDisplay": "9:58",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3500000,
+      "tags": ["basic division", "division facts", "multiplication connection"],
+      "learningObjectives": ["Use multiplication to solve division", "Practice reverse thinking", "Build fact family fluency"],
+      "keyConceptsCovered": ["Think multiplication to divide", "Division as missing factor", "Division facts from times tables"],
+      "prerequisites": ["Multiplication-division relationship"],
+      "followUpTopics": ["Fact families practice"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch5_multiplication_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Multiplication Basics | Times Tables for Kids",
+      "description": "Review basic multiplication facts and times tables. Knowing multiplication is the key to mastering division!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["multiplication", "times tables", "foundation for division"],
+      "learningObjectives": ["Review times tables", "Identify multiplication facts that help with division", "Build fluency"],
+      "keyConceptsCovered": ["Multiplication tables", "How each multiplication fact gives two division facts"],
+      "prerequisites": ["Addition fluency"],
+      "followUpTopics": ["Using multiplication to check division"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v3",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Easy Division | Division Made Simple for Kids",
+      "description": "Practice connecting multiplication and division with easy problems. See how times tables unlock division!",
+      "youtubeId": "EvmAIpWTNMc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvmAIpWTNMc",
+      "thumbnailUrl": "https://img.youtube.com/vi/EvmAIpWTNMc/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+      "tags": ["division practice", "multiplication division link"],
+      "learningObjectives": ["Practice using multiplication to divide", "Solve mixed multiplication-division problems"],
+      "keyConceptsCovered": ["Flipping multiplication to get division", "Quick division using times tables"],
+      "prerequisites": ["Multiplication-division connection"],
+      "followUpTopics": ["Measurement in sharing"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v6",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Long Division Step by Step | Division with Bigger Numbers",
+      "description": "Ready for a challenge? Learn how to do long division step by step with bigger numbers using the divide, multiply, subtract, bring down method.",
+      "youtubeId": "LGqBQrUYua4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LGqBQrUYua4",
+      "thumbnailUrl": "https://img.youtube.com/vi/LGqBQrUYua4/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 4200000,
+      "tags": ["long division", "bigger numbers", "challenge", "advanced"],
+      "learningObjectives": ["Apply multiplication-division connection to larger numbers", "Learn long division steps", "Use multiplication to check long division"],
+      "keyConceptsCovered": ["Divide, Multiply, Subtract, Bring Down", "Long division algorithm", "Checking with multiplication"],
+      "prerequisites": ["Strong multiplication facts", "Basic division facts"],
+      "followUpTopics": ["Multi-digit division", "Division with remainders"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn5_v4", "gr4_mn5_v2", "gr4_mn5_v3", "gr4_mn5_v6"],
+      "totalVideos": 4,
+      "estimatedTime": 2008,
+      "estimatedTimeDisplay": "33:28",
+      "rationale": "Full connection coverage plus long division challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn5_v4", "gr4_mn5_v2", "prereq_ch5_multiplication_v1", "gr4_mn5_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1888,
+      "estimatedTimeDisplay": "31:28",
+      "rationale": "Complete connection with multiplication review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch5_multiplication_v1", "gr4_mn5_v4", "gr4_mn5_v2"],
+      "totalVideos": 3,
+      "estimatedTime": 1408,
+      "estimatedTimeDisplay": "23:28",
+      "rationale": "Multiplication review first, then connection concept"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn5_v4", "gr4_mn5_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 988,
+      "estimatedTimeDisplay": "16:28",
+      "rationale": "Core connection concept only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn5_v4",
+      "checkpointName": "Multiplication-Division Link Check",
+      "questions": [
+        {
+          "question": "If 8 x 7 = 56, what is 56 divided by 8?",
+          "options": ["6", "7", "8", "48"],
+          "correctAnswer": 1,
+          "explanation": "Since 8 x 7 = 56, we know 56 divided by 8 = 7. Multiplication and division are opposites!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Stress fact families throughout this topic. Write all four related facts for each set of numbers. Example: 4, 5, 20 gives 4x5=20, 5x4=20, 20/4=5, 20/5=4.",
+    "parentGuidance": "Practice fact families at home. Give your child a multiplication fact and ask them to write the two related division facts.",
+    "studentGuidance": "Here is a superpower: if you know your multiplication tables, you already know division! Every times table fact gives you two division facts for free."
+  }
+}

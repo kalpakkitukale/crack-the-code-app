@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch8",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en8",
+    "title": "Reaching Grandmother's House",
+    "content": "This chapter from the NCERT Looking Around textbook takes students on a journey to grandmother's house. Through this journey, students learn about family relationships - grandparents, uncles, aunts, and cousins on both the maternal and paternal sides. They explore the differences between joint families and nuclear families, and understand how Indian languages have specific names for each family relationship. The chapter also compares life in villages and cities, and highlights the importance of learning traditions, recipes, and stories from our elders before they are forgotten.",
+    "keyPoints": [
+      "Families can be joint (many relatives together) or nuclear (parents and children)",
+      "Maternal relatives are from mother's side and paternal relatives from father's side",
+      "Indian languages have unique words for each family relationship",
+      "Village life and city life are different in many ways",
+      "Grandparents share stories, traditions, and recipes from the past",
+      "Family bonds are strengthened through visits, communication, and shared celebrations"
+    ],
+    "learningObjectives": [
+      "Identify family members and describe their relationships using proper terms",
+      "Distinguish between joint families and nuclear families",
+      "Draw a family tree showing at least three generations",
+      "Compare life in a village with life in a city",
+      "Understand the importance of learning traditions and stories from elders"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en8_001",
+      "title": "Build Your Family Tree",
+      "content": "Take a large sheet of paper and draw your family tree. Start with your grandparents at the top, your parents and their siblings in the middle, and you and your cousins at the bottom. Use lines to connect parents to children. Add names and, if possible, small photos. Ask your parents and grandparents to help. You might discover relatives you did not know about!",
+      "tags": ["activity", "family"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en8_002",
+      "title": "Interview Your Grandparents",
+      "content": "Sit with your grandparents (in person or on a call) and ask them these questions: What games did you play as a child? What was your school like? What did you eat for lunch? How did you travel? What is your favourite memory from childhood? Write down their answers in a notebook. This is your family's oral history - something very precious!",
+      "tags": ["activity", "history"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en8_003",
+      "title": "Relationship Names in Your Language",
+      "content": "Different Indian languages have different words for family members. Ask your parents what your language calls: mother's brother, father's sister, father's elder brother, mother's mother. Make a chart comparing these words in Hindi, your mother tongue, and English. You will discover how rich Indian languages are when it comes to family!",
+      "tags": ["study-tip", "language"],
+      "isPinned": false
+    }
+  ]
+}

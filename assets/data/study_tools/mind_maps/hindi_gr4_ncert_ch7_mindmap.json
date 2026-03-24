@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch7",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "दान का हिसाब (Account of Charity)",
+      "description": "A story about the true meaning of charity and giving from the heart",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_theme",
+      "label": "कहानी का विषय (Theme)",
+      "description": "True charity comes from the heart, not from keeping accounts or showing off",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_saccha_daan",
+      "label": "सच्चा दान (True Charity)",
+      "description": "Giving selflessly without expecting praise or keeping score",
+      "parentId": "node_theme",
+      "positionX": -450,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_dikhaava",
+      "label": "दिखावे का दान (Charity for Show)",
+      "description": "Giving only to impress others and gain praise - not genuine charity",
+      "parentId": "node_theme",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_characters",
+      "label": "पात्र (Characters)",
+      "description": "The people in the story who show different attitudes towards giving",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_hisaabi",
+      "label": "हिसाब रखने वाला (The Accountant)",
+      "description": "The person who keeps track of every donation and tells everyone about it",
+      "parentId": "node_characters",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_saccha_daani",
+      "label": "सच्चा दानी (The True Giver)",
+      "description": "The person who gives quietly without wanting recognition",
+      "parentId": "node_characters",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_values",
+      "label": "मूल्य / सीख (Values / Lesson)",
+      "description": "Important values and morals we learn from the story",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_udaarta",
+      "label": "उदारता (Generosity)",
+      "description": "Being generous and sharing with others from the heart",
+      "parentId": "node_values",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_paropkaar",
+      "label": "परोपकार (Selfless Service)",
+      "description": "Helping others without expecting anything in return",
+      "parentId": "node_values",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_namrata",
+      "label": "नम्रता (Humility)",
+      "description": "Being humble about one's good deeds and not boasting",
+      "parentId": "node_values",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_daan_types",
+      "label": "दान के प्रकार (Types of Charity)",
+      "description": "Different ways to practise charity in daily life",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_dhan_daan",
+      "label": "धन दान (Money/Material)",
+      "description": "Giving money, food, clothes, or other material things to those in need",
+      "parentId": "node_daan_types",
+      "positionX": -100,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_seva_daan",
+      "label": "सेवा दान (Service)",
+      "description": "Giving your time and effort to help others - equally valuable as giving money",
+      "parentId": "node_daan_types",
+      "positionX": 100,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    }
+  ]
+}

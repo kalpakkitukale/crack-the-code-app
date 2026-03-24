@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch23",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evn_23_001",
+      "term": "Weaving",
+      "definition": "The process of making cloth by crossing two sets of threads (warp and weft) over and under each other on a loom.",
+      "pronunciation": "WEE-ving",
+      "exampleUsage": "Weaving is a traditional craft practised by many families in Pochampalli.",
+      "difficulty": "easy",
+      "relatedTerms": ["loom", "cloth", "fabric"]
+    },
+    {
+      "id": "gls_evn_23_002",
+      "term": "Loom",
+      "definition": "A frame or machine used for weaving cloth. The weaver stretches threads on it and interlaces them to make fabric.",
+      "pronunciation": "LOOM",
+      "exampleUsage": "The weaver sat at the loom from early morning to make a beautiful saree.",
+      "difficulty": "easy",
+      "relatedTerms": ["handloom", "power loom", "weaving"]
+    },
+    {
+      "id": "gls_evn_23_003",
+      "term": "Handloom",
+      "definition": "A loom that is operated by hand and foot power, without electricity. It produces unique, handmade cloth.",
+      "pronunciation": "HAND-loom",
+      "exampleUsage": "Pochampalli weavers use handlooms to create their famous Ikat sarees.",
+      "difficulty": "easy",
+      "relatedTerms": ["loom", "weaving", "artisan"]
+    },
+    {
+      "id": "gls_evn_23_004",
+      "term": "Ikat",
+      "definition": "A special dyeing technique where threads are tied and dyed with colours before they are woven, creating beautiful blurred patterns.",
+      "pronunciation": "EE-kaht",
+      "exampleUsage": "The Ikat technique gives Pochampalli sarees their distinctive look.",
+      "difficulty": "medium",
+      "relatedTerms": ["tie-and-dye", "Pochampalli", "pattern"]
+    },
+    {
+      "id": "gls_evn_23_005",
+      "term": "Warp",
+      "definition": "The set of threads that run lengthwise (up and down) on a loom. They are stretched tightly before weaving begins.",
+      "pronunciation": "WORP",
+      "exampleUsage": "The weaver carefully set up the warp threads on the loom before starting.",
+      "difficulty": "medium",
+      "relatedTerms": ["weft", "thread", "loom"]
+    },
+    {
+      "id": "gls_evn_23_006",
+      "term": "Weft",
+      "definition": "The set of threads that are passed horizontally (side to side) through the warp threads to create cloth.",
+      "pronunciation": "WEFT",
+      "exampleUsage": "The shuttle carries the weft thread across the warp on the loom.",
+      "difficulty": "medium",
+      "relatedTerms": ["warp", "shuttle", "weaving"]
+    },
+    {
+      "id": "gls_evn_23_007",
+      "term": "Shuttle",
+      "definition": "A tool used in weaving to carry the weft thread back and forth across the warp threads on a loom.",
+      "pronunciation": "SHUT-ul",
+      "exampleUsage": "The weaver threw the shuttle quickly from one side to the other.",
+      "difficulty": "medium",
+      "relatedTerms": ["weft", "loom", "weaving"]
+    },
+    {
+      "id": "gls_evn_23_008",
+      "term": "Artisan",
+      "definition": "A skilled worker who makes things by hand using traditional methods, such as a weaver, potter, or carpenter.",
+      "pronunciation": "AR-tih-zan",
+      "exampleUsage": "The artisans of Pochampalli are known for their exceptional weaving skills.",
+      "difficulty": "medium",
+      "relatedTerms": ["craftsperson", "weaver", "skilled worker"]
+    },
+    {
+      "id": "gls_evn_23_009",
+      "term": "Silk",
+      "definition": "A smooth, shiny fabric made from the threads produced by silkworms. It is used to make expensive and beautiful sarees.",
+      "pronunciation": "SILK",
+      "exampleUsage": "Pochampalli silk sarees are prized for their beautiful patterns and quality.",
+      "difficulty": "easy",
+      "relatedTerms": ["silkworm", "fabric", "saree"]
+    },
+    {
+      "id": "gls_evn_23_010",
+      "term": "Swadeshi",
+      "definition": "A movement in India that encouraged people to use goods made in India rather than foreign products, supporting local artisans and workers.",
+      "pronunciation": "swuh-DAY-shee",
+      "exampleUsage": "The Swadeshi Movement inspired Indians to buy handloom cloth instead of British machine-made fabric.",
+      "difficulty": "medium",
+      "relatedTerms": ["freedom movement", "handloom", "Indian-made"]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "quiz": {
+    "id": "quiz_hindi_gr5",
+    "level": "subject",
+    "entityId": "hindi_gr5",
+    "title": "Hindi Grade 5 - Complete Assessment",
+    "questionIds": [
+      "q_hin5_001",
+      "q_hin5_002",
+      "q_hin5_003",
+      "q_hin5_004",
+      "q_hin5_005",
+      "q_hin5_006",
+      "q_hin5_007",
+      "q_hin5_008",
+      "q_hin5_009",
+      "q_hin5_010"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_hin5_001",
+      "questionText": "क्रिया किसे कहते हैं? (What is a verb?)",
+      "questionType": "mcq",
+      "options": [
+        "नाम (Name)",
+        "काम (Action)",
+        "गुण (Quality)",
+        "स्थान (Place)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "क्रिया वह शब्द है जो किसी काम का बोध कराए। जैसे: दौड़ना, खाना, पढ़ना। (Verb is a word that indicates an action.)",
+      "hints": [
+        "काम या कार्य बताता है",
+        "जैसे: दौड़ना, खाना"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["kriya", "verbs"],
+      "topicIds": ["gr5_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_002",
+      "questionText": "'मैं स्कूल गया था' कौन सा काल है? (Which tense is this?)",
+      "questionType": "mcq",
+      "options": [
+        "वर्तमान काल (Present)",
+        "भूतकाल (Past)",
+        "भविष्य काल (Future)",
+        "कोई नहीं (None)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'गया था' से पता चलता है कि यह कार्य बीत चुका है। यह भूतकाल है। (This indicates an action that has happened - past tense.)",
+      "hints": [
+        "बीता हुआ समय",
+        "'था' का प्रयोग"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["kaal", "bhoot_kaal", "past_tense"],
+      "topicIds": ["gr5_h_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_003",
+      "questionText": "'मैं कल स्कूल जाऊंगा' कौन सा काल है? (Which tense?)",
+      "questionType": "mcq",
+      "options": [
+        "वर्तमान काल",
+        "भूतकाल",
+        "भविष्य काल (Future)",
+        "कोई नहीं"
+      ],
+      "correctAnswer": "C",
+      "explanation": "'जाऊंगा' और 'कल' से पता चलता है कि यह कार्य आने वाले समय में होगा। (Indicates future action.)",
+      "hints": [
+        "आने वाला समय",
+        "'गा/गी/गे' का प्रयोग"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["kaal", "bhavishya_kaal", "future_tense"],
+      "topicIds": ["gr5_h_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_004",
+      "questionText": "विशेषण किसे कहते हैं? (What is an adjective?)",
+      "questionType": "mcq",
+      "options": [
+        "संज्ञा की विशेषता बताने वाला (Describes noun)",
+        "क्रिया बताने वाला (Action word)",
+        "स्थान बताने वाला (Place word)",
+        "समय बताने वाला (Time word)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "विशेषण वह शब्द है जो संज्ञा की विशेषता बताए। जैसे: सुंदर, बड़ा, अच्छा। (Adjective describes a noun.)",
+      "hints": [
+        "गुण बताता है",
+        "जैसे: सुंदर, बड़ा"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["visheshan", "adjectives"],
+      "topicIds": ["gr5_h_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_005",
+      "questionText": "'वह तेज़ दौड़ता है' में क्रिया विशेषण कौन सा है?",
+      "questionType": "mcq",
+      "options": [
+        "वह",
+        "तेज़",
+        "दौड़ता",
+        "है"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'तेज़' क्रिया विशेषण है। यह बताता है कि दौड़ना कैसे हो रहा है। (Tez is an adverb describing how he runs.)",
+      "hints": [
+        "क्रिया की विशेषता",
+        "कैसे दौड़ता है?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["kriya_visheshan", "adverbs"],
+      "topicIds": ["gr5_h_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_006",
+      "questionText": "सरल वाक्य में कितनी क्रिया होती है? (How many verbs in simple sentence?)",
+      "questionType": "mcq",
+      "options": [
+        "एक (One)",
+        "दो (Two)",
+        "तीन (Three)",
+        "कोई नहीं (None)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "सरल वाक्य में केवल एक क्रिया होती है। (A simple sentence has only one verb.)",
+      "hints": [
+        "सरल = सादा",
+        "एक ही क्रिया"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["vakya", "sentences"],
+      "topicIds": ["gr5_h_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_007",
+      "questionText": "पूर्ण विराम का चिह्न कौन सा है? (Full stop mark?)",
+      "questionType": "mcq",
+      "options": [
+        "?",
+        "!",
+        "।",
+        ","
+      ],
+      "correctAnswer": "C",
+      "explanation": "हिंदी में पूर्ण विराम का चिह्न '।' है। (Full stop in Hindi is ।)",
+      "hints": [
+        "वाक्य के अंत में",
+        "खड़ी पाई जैसा"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["viram_chinh", "punctuation"],
+      "topicIds": ["gr5_h_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_008",
+      "questionText": "'सुंदर फूल' में विशेषण कौन सा है?",
+      "questionType": "mcq",
+      "options": [
+        "सुंदर",
+        "फूल",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'सुंदर' विशेषण है जो 'फूल' (संज्ञा) की विशेषता बता रहा है। (Sundar is adjective describing the flower.)",
+      "hints": [
+        "गुण बताने वाला शब्द",
+        "फूल कैसा है?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["visheshan"],
+      "topicIds": ["gr5_h_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_009",
+      "questionText": "'खाना', 'पीना', 'सोना' ये क्या हैं?",
+      "questionType": "mcq",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "क्रिया (Verbs)",
+        "विशेषण"
+      ],
+      "correctAnswer": "C",
+      "explanation": "ये सभी क्रियाएं हैं क्योंकि ये कार्य का बोध कराती हैं। (These are all verbs indicating actions.)",
+      "hints": [
+        "काम बताते हैं",
+        "कार्य के नाम"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["kriya"],
+      "topicIds": ["gr5_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin5_010",
+      "questionText": "प्रश्नवाचक चिह्न कौन सा है? (Question mark?)",
+      "questionType": "mcq",
+      "options": [
+        "।",
+        "?",
+        "!",
+        ","
+      ],
+      "correctAnswer": "B",
+      "explanation": "प्रश्नवाचक वाक्यों के अंत में '?' लगता है। (Question mark is ? for questions.)",
+      "hints": [
+        "प्रश्न के अंत में",
+        "हुक जैसा चिह्न"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["viram_chinh", "punctuation"],
+      "topicIds": ["gr5_h_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

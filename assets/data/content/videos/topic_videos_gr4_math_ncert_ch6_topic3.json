@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn6_t3",
+  "topicId": "gr4_mn_6_3",
+  "topicName": "Estimating Lengths",
+  "chapterId": "gr4_math_ncert_ch6",
+  "chapterName": "Measuring Length",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_6_1", "gr4_mn_6_2"],
+    "followUpTopics": ["gr4_mn_6_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn6_v5",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Estimating Lengths | Guess and Measure for Kids",
+      "description": "Learn how to estimate the length of objects before measuring them. Use your hand span, arm length, and footsteps to make smart guesses!",
+      "youtubeId": "WqLbR8gT2Xk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WqLbR8gT2Xk",
+      "thumbnailUrl": "https://img.youtube.com/vi/WqLbR8gT2Xk/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Education",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 620000,
+      "tags": ["estimation", "estimating length", "guess and measure", "benchmarks"],
+      "learningObjectives": ["Estimate lengths before measuring", "Use body parts as measurement benchmarks", "Compare estimates with actual measurements"],
+      "keyConceptsCovered": ["Fingernail width is about 1 cm", "Hand span is about 15-20 cm", "One big step is about 1 m"],
+      "prerequisites": ["Understanding of cm, m, km"],
+      "followUpTopics": ["Choosing the right unit", "Length word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Units of Length | Centimetres, Metres, and Kilometres for Kids",
+      "description": "Learn about the three main units of length: centimetres (cm), metres (m), and kilometres (km). Discover when to use each unit with fun everyday examples!",
+      "youtubeId": "TkH6MsBq_G4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TkH6MsBq_G4",
+      "thumbnailUrl": "https://img.youtube.com/vi/TkH6MsBq_G4/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1850000,
+      "tags": ["units of length", "centimetre", "metre", "kilometre", "choosing unit"],
+      "learningObjectives": ["Review units of length", "Choose the correct unit for estimation", "Relate objects to the right unit"],
+      "keyConceptsCovered": ["Pencil in cm", "Room in m", "City distance in km"],
+      "prerequisites": ["Understanding of measurement"],
+      "followUpTopics": ["Estimation practice"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch6_measurement_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "What is Measurement? | Introduction to Measuring for Kids",
+      "description": "Learn what measurement means and why we measure things. Understand that measurement tells us how long, how heavy, or how much something is.",
+      "youtubeId": "HjbHRLnB6Jk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HjbHRLnB6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/HjbHRLnB6Jk/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1450000,
+      "tags": ["measurement", "introduction", "estimation context"],
+      "learningObjectives": ["Understand why estimation is useful", "Connect estimation to real measurement", "Know when estimation is enough and when exact measurement is needed"],
+      "keyConceptsCovered": ["Why we estimate before measuring", "Estimation vs exact measurement", "When estimation is good enough"],
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Accurate measurement"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v6",
+      "sequenceNumber": 4,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Length Word Problems | Solving Measurement Problems Step by Step",
+      "description": "Solve fun word problems about measuring length! Learn how to add, subtract, and compare lengths in real-life situations like measuring cloth and roads.",
+      "youtubeId": "nJ4zRe7KXPA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nJ4zRe7KXPA",
+      "thumbnailUrl": "https://img.youtube.com/vi/nJ4zRe7KXPA/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 740000,
+      "tags": ["word problems", "estimation in problems", "challenge"],
+      "learningObjectives": ["Use estimation to check word problem answers", "Estimate before solving for reasonableness", "Apply estimation skills to real problems"],
+      "keyConceptsCovered": ["Estimating to check answers", "Is my answer reasonable?", "Real-world estimation scenarios"],
+      "prerequisites": ["Estimation basics", "Length conversions"],
+      "followUpTopics": ["Advanced measurement"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn6_v5", "gr4_mn6_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 810,
+      "estimatedTimeDisplay": "13:30",
+      "rationale": "Quick estimation introduction and unit review for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn6_v5", "gr4_mn6_v1", "gr4_mn6_v6"],
+      "totalVideos": 3,
+      "estimatedTime": 1320,
+      "estimatedTimeDisplay": "22:00",
+      "rationale": "Complete estimation coverage with word problem application"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch6_measurement_v1", "gr4_mn6_v5", "gr4_mn6_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1200,
+      "estimatedTimeDisplay": "20:00",
+      "rationale": "Measurement review first, then estimation concepts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn6_v5"],
+      "totalVideos": 1,
+      "estimatedTime": 390,
+      "estimatedTimeDisplay": "6:30",
+      "rationale": "Essential estimation video only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn6_v5",
+      "checkpointName": "Estimation Skills Check",
+      "questions": [
+        {
+          "question": "About how long is a new pencil?",
+          "options": ["2 cm", "18 cm", "1 m", "5 km"],
+          "correctAnswer": 1,
+          "explanation": "A new pencil is about 18 cm long. That is less than your ruler! It would not be 2 cm (too small), 1 m (too big), or 5 km (way too big)."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Make estimation a fun game! Show objects and ask students to guess the length before measuring. Keep a class chart of estimates vs actual measurements.",
+    "parentGuidance": "Play the estimation game at home: guess how long something is, then measure together. This builds number sense and measurement intuition.",
+    "studentGuidance": "Estimation is like being a measurement detective! Use clues like your hand span (about 15 cm) and your arm span (about 1 m) to make smart guesses."
+  }
+}

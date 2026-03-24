@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_evs_ncert_ch10",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Traditional Indian Games",
+      "description": "Games our grandparents played and we still enjoy",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_team_games",
+      "label": "Team Games",
+      "description": "Games played in groups or teams",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_kabaddi",
+      "label": "Kabaddi",
+      "description": "Tag opponents while chanting in one breath",
+      "parentId": "node_team_games",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_khokho",
+      "label": "Kho-Kho",
+      "description": "Fast chasing game with two teams",
+      "parentId": "node_team_games",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_pittugaram",
+      "label": "Pittu-Garam",
+      "description": "Stack stones and hit with a ball",
+      "parentId": "node_team_games",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_solo_games",
+      "label": "Individual Games",
+      "description": "Games that can be played alone or with a few friends",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_gillidanda",
+      "label": "Gilli-Danda",
+      "description": "Hit the short stick with the long stick",
+      "parentId": "node_solo_games",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_lattoo",
+      "label": "Lattoo (Spinning Top)",
+      "description": "Spin a wooden top using a string",
+      "parentId": "node_solo_games",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_marbles",
+      "label": "Kanche (Marbles)",
+      "description": "Shoot glass marbles to hit others",
+      "parentId": "node_solo_games",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_ground_games",
+      "label": "Ground Games",
+      "description": "Games drawn on the ground",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_hopscotch",
+      "label": "Hopscotch (Stapu)",
+      "description": "Hop on one foot through numbered squares",
+      "parentId": "node_ground_games",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_hide",
+      "label": "Hide and Seek",
+      "description": "One seeks while others hide",
+      "parentId": "node_ground_games",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_benefits",
+      "label": "Why These Games Matter",
+      "description": "Benefits of playing traditional games",
+      "parentId": "node_root",
+      "positionX": -100,
+      "positionY": 280,
+      "color": "#2196F3",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_fitness",
+      "label": "Physical Fitness",
+      "description": "Keep the body strong and healthy",
+      "parentId": "node_benefits",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#03A9F4",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_culture",
+      "label": "Cultural Heritage",
+      "description": "Connect us to our traditions and history",
+      "parentId": "node_benefits",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#03A9F4",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_teamwork",
+      "label": "Teamwork & Fair Play",
+      "description": "Learn to work together and follow rules",
+      "parentId": "node_benefits",
+      "positionX": 0,
+      "positionY": 360,
+      "color": "#03A9F4",
+      "orderIndex": 15
+    }
+  ]
+}

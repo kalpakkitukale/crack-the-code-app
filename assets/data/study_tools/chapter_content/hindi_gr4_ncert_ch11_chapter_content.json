@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_hin_ncert_ch11",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn11",
+    "title": "पढ़क्कू की सूझ (The Reader's Wisdom)",
+    "content": "This chapter from the NCERT Rimjhim textbook for Class 4 presents a humorous story about a character called Padhakku (पढ़क्कू) who is an avid reader and bookworm. Despite being extremely well-read and knowledgeable, Padhakku lacks practical common sense and struggles with simple everyday situations. The story uses comedy and irony to teach children that while reading and bookish knowledge are valuable, practical wisdom (सूझ-बूझ) and real-life experience (अनुभव) are equally important. The chapter helps students understand the difference between किताबी ज्ञान (book knowledge) and व्यावहारिक ज्ञान (practical knowledge), and encourages them to develop both. It also introduces Hindi idioms like किताबी कीड़ा (bookworm) and builds vocabulary and comprehension skills.",
+    "keyPoints": [
+      "Padhakku (पढ़क्कू) is a bookworm who reads all the time but lacks practical sense",
+      "The story is a हास्य कथा (humorous story) using irony for comedy",
+      "Bookish knowledge alone is not enough - practical wisdom is also needed",
+      "The chapter teaches the Hindi idiom किताबी कीड़ा (bookworm)",
+      "Students learn to balance reading with real-world experience",
+      "New vocabulary includes सूझ, व्यावहारिक, अनुभव, हास्य, and मुहावरा"
+    ],
+    "learningObjectives": [
+      "Read and understand a humorous Hindi story from the Rimjhim textbook",
+      "Identify the difference between bookish knowledge and practical wisdom",
+      "Learn and use new Hindi vocabulary and idioms from the chapter",
+      "Answer comprehension questions about the story's characters, events, and moral",
+      "Express opinions in Hindi about the importance of different types of knowledge"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn11_001",
+      "title": "किताबी ज्ञान बनाम व्यावहारिक ज्ञान (Book vs Practical Knowledge)",
+      "content": "Think about your own life! You learn many things from textbooks - like science facts and math formulas. But you also learn important things from experience - like how to make friends, how to ride a bicycle, or how to cook. Both types of learning are valuable. Make a list of 5 things you learned from books and 5 things you learned from real-life experience. Which list was harder to make? This activity will help you understand the message of Padhakku's story.",
+      "tags": ["activity", "critical-thinking"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn11_002",
+      "title": "मुहावरे सीखो (Learn Idioms)",
+      "content": "This chapter is a great opportunity to learn Hindi muhavare (idioms). An idiom is a phrase whose meaning is different from the literal meaning of its words. 'किताबी कीड़ा' literally means 'book worm' but actually means someone who reads too much. Try learning these related idioms: 'सिर खुजाना' (to scratch one's head = to be confused), 'आँखें खुलना' (eyes opening = to realize the truth). Use each in a sentence!",
+      "tags": ["language-skills", "vocabulary"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn11_003",
+      "title": "हास्य कहानी लिखने का अभ्यास (Practice Writing Humorous Stories)",
+      "content": "After reading पढ़क्कू की सूझ, try writing your own short humorous story in Hindi! Think of a funny situation - maybe someone who is great at cooking but terrible at sports, or someone who knows everything about animals but is scared of a tiny mouse. Use simple Hindi sentences and try to include at least one muhavara (idiom). Share your story with your classmates and see who writes the funniest one!",
+      "tags": ["creative-writing", "activity"],
+      "isPinned": false
+    }
+  ]
+}

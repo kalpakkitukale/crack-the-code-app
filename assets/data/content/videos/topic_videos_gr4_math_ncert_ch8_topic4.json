@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn8_t4",
+  "topicId": "gr4_mn_8_4",
+  "topicName": "Weight and Capacity Word Problems",
+  "chapterId": "gr4_math_ncert_ch8",
+  "chapterName": "Weigh it, Pour it",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2480,
+    "totalDurationDisplay": "41:20",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_8_1", "gr4_mn_8_2", "gr4_mn_8_3"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn8_v6",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Weight and Capacity Word Problems | Real Life Maths",
+      "description": "Solve fun word problems about weight and capacity! How much does your school bag weigh? How much water fills a bucket? Use grams, kilograms, millilitres, and litres to answer.",
+      "youtubeId": "dPkRF9xQGHw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dPkRF9xQGHw",
+      "thumbnailUrl": "https://img.youtube.com/vi/dPkRF9xQGHw/hqdefault.jpg",
+      "duration": 500,
+      "durationDisplay": "8:20",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 650000,
+      "tags": ["word problems", "weight problems", "capacity problems", "real life maths"],
+      "learningObjectives": ["Read and understand word problems about weight and capacity", "Identify whether to add, subtract, or convert", "Solve multi-step problems with units"],
+      "keyConceptsCovered": ["Reading word problems carefully", "Identifying the operation needed", "Working with mixed units in problems"],
+      "prerequisites": ["Grams and kilograms", "Millilitres and litres", "Unit conversion"],
+      "followUpTopics": ["More complex measurement problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v4",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Converting Grams to Kilograms and mL to Litres",
+      "description": "Review conversions needed for word problems. Convert between g-kg and mL-L so you can solve problems where units are mixed.",
+      "youtubeId": "TLkWPN2bXBE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TLkWPN2bXBE",
+      "thumbnailUrl": "https://img.youtube.com/vi/TLkWPN2bXBE/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 980000,
+      "tags": ["conversion", "word problem preparation", "mixed units"],
+      "learningObjectives": ["Convert units before solving word problems", "Handle mixed units in problems", "Check answers by converting back"],
+      "keyConceptsCovered": ["Convert to the same unit before adding or subtracting", "Step-by-step approach to mixed unit problems"],
+      "prerequisites": ["Basic conversion"],
+      "followUpTopics": ["Complex word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v5",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "kg-g and L-mL Conversion Practice | Step by Step",
+      "description": "Apply conversion skills to solve word problems. Practice adding 2 kg 300 g + 1 kg 700 g and finding how much juice is left after pouring.",
+      "youtubeId": "m7K7lCVhUhA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=m7K7lCVhUhA",
+      "thumbnailUrl": "https://img.youtube.com/vi/m7K7lCVhUhA/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Education",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 720000,
+      "tags": ["conversion practice", "word problems", "mixed units", "application"],
+      "learningObjectives": ["Add and subtract with mixed weight units", "Add and subtract with mixed capacity units", "Solve real-life scenarios"],
+      "keyConceptsCovered": ["Adding 2 kg 300 g + 1 kg 700 g = 4 kg", "Subtracting 5 L - 2 L 500 mL = 2 L 500 mL", "Carrying over: 800 g + 400 g = 1 kg 200 g"],
+      "prerequisites": ["Unit conversion", "Addition and subtraction"],
+      "followUpTopics": ["Multi-step word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Introduction to Weighing | Heavy and Light for Kids",
+      "description": "Revisit weighing basics and use estimation in word problems. Before calculating, guess the answer - is the result going to be more or less?",
+      "youtubeId": "qnx_-gMKoAI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qnx_-gMKoAI",
+      "thumbnailUrl": "https://img.youtube.com/vi/qnx_-gMKoAI/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 890000,
+      "tags": ["weighing", "estimation", "word problem strategy"],
+      "learningObjectives": ["Estimate before solving", "Use common sense to check answers", "Identify unreasonable answers"],
+      "keyConceptsCovered": ["Estimation as a problem-solving tool", "Checking if an answer makes sense", "Real-world weight awareness"],
+      "prerequisites": ["Basic weighing concepts"],
+      "followUpTopics": ["Practice quiz"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v3",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Measuring Capacity | Litres and Millilitres for Kids",
+      "description": "Challenge: Solve tricky capacity word problems. If a jug holds 2 L and you pour out 750 mL three times, how much is left? Think step by step!",
+      "youtubeId": "GsF3OfCgUKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GsF3OfCgUKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/GsF3OfCgUKo/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1100000,
+      "tags": ["capacity", "word problems", "challenge", "multi-step"],
+      "learningObjectives": ["Solve multi-step capacity word problems", "Combine conversion and operations", "Tackle challenging real-world scenarios"],
+      "keyConceptsCovered": ["Multi-step problems with capacity", "Combining pouring and remaining", "Real-world capacity challenges"],
+      "prerequisites": ["Capacity measurement", "L-mL conversion"],
+      "followUpTopics": ["Chapter review and assessment"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn8_v6", "gr4_mn8_v4", "gr4_mn8_v5", "gr4_mn8_v1", "gr4_mn8_v3"],
+      "totalVideos": 5,
+      "estimatedTime": 2390,
+      "estimatedTimeDisplay": "39:50",
+      "rationale": "Full word problem coverage with challenge for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn8_v6", "gr4_mn8_v4", "gr4_mn8_v5", "gr4_mn8_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1910,
+      "estimatedTimeDisplay": "31:50",
+      "rationale": "Complete word problem coverage with conversion review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn8_v4", "gr4_mn8_v6", "gr4_mn8_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1490,
+      "estimatedTimeDisplay": "24:50",
+      "rationale": "Conversion review first, then core word problems"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn8_v6", "gr4_mn8_v5"],
+      "totalVideos": 2,
+      "estimatedTime": 950,
+      "estimatedTimeDisplay": "15:50",
+      "rationale": "Essential word problem introduction only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn8_v6",
+      "checkpointName": "Word Problem Understanding Check",
+      "questions": [
+        {
+          "question": "Ravi buys 2 kg of apples and 500 g of grapes. What is the total weight?",
+          "options": ["2 kg 500 g", "2500 kg", "7 kg", "25 g"],
+          "correctAnswer": 0,
+          "explanation": "2 kg of apples + 500 g of grapes = 2 kg 500 g (or 2500 g). We can write it as 2 kg 500 g."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Create word problems using Indian contexts: buying vegetables at the market, filling water bottles, measuring ingredients for cooking. Let children create their own word problems too.",
+    "parentGuidance": "Involve your child when cooking or shopping. Ask: We need 1 kg 500 g of potatoes but we already have 700 g. How much more do we need? This makes maths real and fun!",
+    "studentGuidance": "Word problems are just real-life stories with numbers! Read the problem carefully, find the numbers and units, decide if you need to add or subtract, and solve step by step."
+  }
+}

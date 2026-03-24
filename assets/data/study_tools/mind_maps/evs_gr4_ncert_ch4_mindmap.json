@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch4",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "The Story of Amrita",
+      "description": "Importance of trees and conservation",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_benefits",
+      "label": "Benefits of Trees",
+      "description": "Why trees are important for life",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_oxygen",
+      "label": "Give Oxygen",
+      "description": "Trees produce oxygen we breathe",
+      "parentId": "node_benefits",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_food",
+      "label": "Food & Shade",
+      "description": "Fruits, wood, shade, medicines",
+      "parentId": "node_benefits",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_rain",
+      "label": "Bring Rain",
+      "description": "Transpiration helps form clouds",
+      "parentId": "node_benefits",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_story",
+      "label": "Amrita's Story",
+      "description": "The brave sacrifice of Bishnoi people",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_bishnoi",
+      "label": "Bishnoi Community",
+      "description": "Nature-loving community in Rajasthan",
+      "parentId": "node_story",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_khejri",
+      "label": "Khejri Trees",
+      "description": "Precious desert trees they protected",
+      "parentId": "node_story",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_threats",
+      "label": "Threats to Trees",
+      "description": "Why trees are in danger",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_deforestation",
+      "label": "Deforestation",
+      "description": "Cutting trees for farms and buildings",
+      "parentId": "node_threats",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_erosion",
+      "label": "Soil Erosion",
+      "description": "Soil washes away without tree roots",
+      "parentId": "node_threats",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_conservation",
+      "label": "Conservation Efforts",
+      "description": "How people protect trees",
+      "parentId": "node_root",
+      "positionX": -100,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_chipko",
+      "label": "Chipko Movement",
+      "description": "Hugging trees to save them (1973)",
+      "parentId": "node_conservation",
+      "positionX": -150,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_van",
+      "label": "Van Mahotsav",
+      "description": "Tree planting festival in July",
+      "parentId": "node_conservation",
+      "positionX": -50,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

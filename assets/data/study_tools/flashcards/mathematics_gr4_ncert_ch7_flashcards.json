@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ncert_ch7",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn7_community",
+      "name": "Math in the Community",
+      "description": "Learn how addition, subtraction, and multiplication are used in village life",
+      "topicId": "gr4_mn_7_1",
+      "chapterId": "gr4_math_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_mn7_001",
+          "front": "A village has 315 people on the east side and 248 on the west side. How many people in total?",
+          "back": "315 + 248 = 563 people. When we need to find the total of two groups, we add them together.",
+          "hint": "Add the two numbers: 315 + 248",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn7_002",
+          "front": "How does math help a village panchayat?",
+          "back": "Math helps the panchayat count people, manage money, plan roads, track resources like water and electricity, and make fair decisions using data. Without math, it would be hard to plan anything!",
+          "hint": "Think about what a panchayat needs to manage",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn7_003",
+          "front": "A village has ₹15,000. They spend ₹8,500 on a new well. How much is left?",
+          "back": "₹15,000 - ₹8,500 = ₹6,500 is left. Subtraction tells us how much remains after spending.",
+          "hint": "Subtract the amount spent from the total",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn7_004",
+          "front": "If 8 teams of 15 volunteers each clean the village, how many volunteers are there?",
+          "back": "8 × 15 = 120 volunteers. When we have equal groups, we multiply to find the total.",
+          "hint": "Multiply the number of teams by the people in each team",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn7_005",
+          "front": "Why is Mawlynnong village famous?",
+          "back": "Mawlynnong in Meghalaya is called Asia's cleanest village. Every family helps keep it clean, they use bamboo dustbins, and the whole community works together using planning and teamwork.",
+          "hint": "It is in Meghalaya and is known for cleanliness",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn7_data",
+      "name": "Data Collection in Village Life",
+      "description": "Learn how to collect and use data to help the community",
+      "topicId": "gr4_mn_7_2",
+      "chapterId": "gr4_math_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_mn7_006",
+          "front": "What is a survey?",
+          "back": "A survey is collecting information by asking people questions or counting things. For example, the panchayat can survey how many families have clean drinking water by asking each family.",
+          "hint": "It involves asking questions to collect data",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn7_007",
+          "front": "How do you organise data after collecting it?",
+          "back": "After collecting data, put it in a table with clear labels. For example: Street Name in one column and Number of Houses in another. Then you can easily compare and find totals!",
+          "hint": "Think about using rows and columns",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn7_008",
+          "front": "Street A has 12 dustbins, Street B has 8, Street C has 15. Which street has the least?",
+          "back": "Street B has the least with 8 dustbins. To find the least, compare all numbers: 8 < 12 < 15.",
+          "hint": "Compare all three numbers and find the smallest",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn7_009",
+          "front": "Why is collecting data important for a village?",
+          "back": "Data helps the village leaders know what is needed. If data shows 100 families have no toilet, the panchayat can plan to build toilets. Without data, problems stay hidden!",
+          "hint": "Think about how knowing numbers helps with planning",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn7_010",
+          "front": "In a survey, 45 families use well water, 30 use handpump, and 25 use tap water. How many families were surveyed?",
+          "back": "45 + 30 + 25 = 100 families were surveyed. We add all groups to find the total.",
+          "hint": "Add up all three groups",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn7_problems",
+      "name": "Problem Solving with Village Data",
+      "description": "Practice solving real-world problems using village scenarios",
+      "topicId": "gr4_mn_7_4",
+      "chapterId": "gr4_math_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_mn7_011",
+          "front": "The village needs 500 saplings. They got 180 from the government and 145 from donations. How many more do they need?",
+          "back": "Step 1: Saplings received = 180 + 145 = 325. Step 2: More needed = 500 - 325 = 175 saplings. This is a two-step problem!",
+          "hint": "First add what they have, then subtract from the target",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn7_012",
+          "front": "A village scores: Cleanliness 85, Greenery 70, Water Management 90. What is the total score?",
+          "back": "85 + 70 + 90 = 245 total points. Adding up scores from different categories gives the overall performance.",
+          "hint": "Add all three scores together",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn7_013",
+          "front": "If 6 streets each need 4 new streetlights, how many streetlights are needed?",
+          "back": "6 × 4 = 24 streetlights. Equal groups of items = multiply!",
+          "hint": "Each street gets the same number, so multiply",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn7_014",
+          "front": "The panchayat has ₹20,000. They spend ₹7,500 on a drain and ₹5,200 on a road. How much is left?",
+          "back": "Total spent = ₹7,500 + ₹5,200 = ₹12,700. Left = ₹20,000 - ₹12,700 = ₹7,300.",
+          "hint": "First find total spent, then subtract from the budget",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn7_015",
+          "front": "What should you do when solving a word problem about village life?",
+          "back": "Step 1: Read the problem carefully. Step 2: Find what is given and what is asked. Step 3: Choose the right operation (add, subtract, or multiply). Step 4: Calculate and check your answer. Step 5: Write the answer with the correct unit (rupees, kg, people, etc.).",
+          "hint": "Follow a step-by-step approach",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

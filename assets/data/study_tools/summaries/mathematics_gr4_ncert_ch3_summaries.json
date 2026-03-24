@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_math_ncert_ch3",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn3_v1",
+      "videoId": "gr4_mn3_v1",
+      "content": "This lesson introduces repeating patterns. Students learn that a repeating pattern has a core -- the smallest group that keeps coming back in the same order. For example, in a necklace with red bead, blue bead, red bead, blue bead, the core is 'red, blue'. Students spot repeating patterns in everyday Indian life: rangoli borders, floor tiles, saree designs, and mehndi art. They practise identifying the core and extending the pattern.",
+      "keyPoints": [
+        "A repeating pattern has a group that comes back again and again in the same order",
+        "The core is the smallest repeating group in a pattern",
+        "Repeating patterns are found in tiles, rangoli, sarees, and nature",
+        "Once you know the core, you can extend the pattern"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn3_v2",
+      "videoId": "gr4_mn3_v2",
+      "content": "This lesson teaches growing patterns. Unlike repeating patterns, growing patterns change at each step -- usually by getting bigger. Students explore how shapes can grow step by step, like building a staircase with blocks. They also study number patterns that increase by a fixed amount, such as 3, 6, 9, 12 (adding 3 each time). The key idea is that each step follows a rule.",
+      "keyPoints": [
+        "Growing patterns change at each step, usually getting bigger",
+        "Shapes can form growing patterns, like adding more blocks each step",
+        "Number patterns often grow by adding a fixed number",
+        "The rule tells you how the pattern changes from step to step"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn3_v3",
+      "videoId": "gr4_mn3_v3",
+      "content": "This lesson is about number sequences and finding the rule behind a pattern. Students learn to find the difference between consecutive numbers to discover the rule. They work with both increasing sequences (like 5, 10, 15, 20) and decreasing sequences (like 100, 90, 80, 70). Students also explore odd and even number patterns and practise predicting what comes next using the rule they found.",
+      "keyPoints": [
+        "A number sequence follows a rule that connects each number to the next",
+        "Subtract consecutive numbers to find the difference and discover the rule",
+        "Sequences can increase (go up) or decrease (go down)",
+        "Knowing the rule helps you predict any number in the sequence"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn3_v4",
+      "videoId": "gr4_mn3_v4",
+      "content": "This lesson focuses on shape sequences and applying pattern rules. Students study how shapes change in a pattern -- they might rotate, flip, or grow. They also practise creating their own patterns using shapes and numbers. The lesson connects patterns to multiplication tables and helps students see that tables like 2, 4, 6, 8 and 5, 10, 15, 20 are number patterns too.",
+      "keyPoints": [
+        "Shape sequences follow rules about rotation, flipping, or growth",
+        "Students can create their own repeating and growing patterns",
+        "Multiplication tables are number patterns (e.g., table of 3: 3, 6, 9, 12...)",
+        "Patterns help us organise information and make predictions"
+      ],
+      "source": "manual"
+    }
+  ]
+}

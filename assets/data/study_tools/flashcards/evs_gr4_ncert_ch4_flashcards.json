@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch4",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en4_trees",
+      "name": "Importance of Trees",
+      "description": "Learn why trees are important for us and the environment",
+      "topicId": "gr4_evn_4_1",
+      "chapterId": "gr4_evs_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_en4_001",
+          "front": "Why are trees important for us?",
+          "back": "Trees give us oxygen to breathe, shade from the sun, fruits and food to eat, wood for furniture and houses, and medicines. They also prevent soil erosion, bring rain, and provide homes for birds and animals.",
+          "hint": "Think about all the things you get from trees",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en4_002",
+          "front": "Who was Amrita Devi and what did she do?",
+          "back": "Amrita Devi was a brave woman from the Bishnoi community in Rajasthan. When the king's men came to cut down the khejri trees, she hugged a tree to protect it and gave her life. Her three daughters and 363 other Bishnois also sacrificed their lives to save the trees.",
+          "hint": "She protected trees in Rajasthan",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en4_003",
+          "front": "What is the Khejri tree and why is it special?",
+          "back": "The Khejri tree is found in the desert areas of Rajasthan. It is special because it provides shade, food (sangri pods), and fodder for animals in the dry desert. Its deep roots find water underground and its leaves provide green cover.",
+          "hint": "Think about a tree that survives in the desert",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en4_004",
+          "front": "How do trees help bring rain?",
+          "back": "Trees release water vapour from their leaves into the air through a process called transpiration. This moisture helps form clouds, which eventually bring rain. Areas with more trees generally receive more rainfall.",
+          "hint": "Think about what trees release into the air",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en4_005",
+          "front": "What happens when too many trees are cut down?",
+          "back": "When trees are cut down (deforestation), soil gets washed away by rain (erosion), animals lose their homes, there is less oxygen, temperatures rise, and there is less rainfall. It can also lead to floods and droughts.",
+          "hint": "Think about the opposite of what trees do for us",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en4_conservation",
+      "name": "Conservation and Protection",
+      "description": "Learn about protecting trees and the environment",
+      "topicId": "gr4_evn_4_2",
+      "chapterId": "gr4_evs_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_en4_006",
+          "front": "What is the Chipko Movement?",
+          "back": "The Chipko Movement started in 1973 in the Himalayan forests of Uttarakhand. Village women hugged trees to prevent them from being cut down. 'Chipko' means 'to hug'. This movement inspired people all over India to protect trees.",
+          "hint": "The name comes from what people did to the trees",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en4_007",
+          "front": "Who are the Bishnoi people?",
+          "back": "The Bishnois are a community in Rajasthan who love and protect nature. Their rules forbid cutting green trees and harming animals. They have been protecting the environment for over 500 years, inspired by their teacher Guru Jambheshwar.",
+          "hint": "They are from Rajasthan and follow nature-loving rules",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en4_008",
+          "front": "What can children do to help save trees?",
+          "back": "Children can plant new trees, water young saplings, not waste paper (which comes from trees), avoid breaking tree branches, spread awareness about tree protection, and celebrate occasions like Van Mahotsav (tree planting festival).",
+          "hint": "Think about simple actions you can take",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en4_009",
+          "front": "What is Van Mahotsav?",
+          "back": "Van Mahotsav is a tree planting festival celebrated in India during the first week of July every year. 'Van' means forest and 'Mahotsav' means festival. Schools, communities, and organisations plant trees across the country.",
+          "hint": "It is a festival about forests in July",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en4_010",
+          "front": "What is deforestation?",
+          "back": "Deforestation means cutting down large numbers of trees and clearing forests. It happens to make space for farms, roads, and buildings. Deforestation harms animals, causes soil erosion, reduces rainfall, and contributes to climate change.",
+          "hint": "The opposite of planting trees",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

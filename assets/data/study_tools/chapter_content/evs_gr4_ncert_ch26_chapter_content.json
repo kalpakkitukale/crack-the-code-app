@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch26",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en26",
+    "title": "Defence Officer: Wahida",
+    "content": "This chapter introduces students to the Indian Armed Forces and the inspiring story of women who have broken barriers to serve in defence. Students learn about the three branches - Army, Navy, and Air Force - and the vital role each plays in protecting the country. Through the story of Wahida, one of the first women officers in the Indian Army, the chapter challenges stereotypes about gender and shows that courage, discipline, and patriotism are qualities that belong to everyone. Students also discover the many roles armed forces play beyond warfare, including disaster relief, border security, and peacekeeping.",
+    "keyPoints": [
+      "India has three armed forces: Army (land), Navy (sea), and Air Force (sky)",
+      "Defence officers need courage, discipline, physical fitness, and patriotism",
+      "Wahida was among the first women officers in the Indian Army, inspiring many girls",
+      "Women have broken gender stereotypes by becoming fighter pilots, naval officers, and army commanders",
+      "The armed forces help during natural disasters like floods, earthquakes, and cyclones",
+      "Republic Day parade on 26th January showcases India's defence strength and unity"
+    ],
+    "learningObjectives": [
+      "Name and describe the three branches of the Indian Armed Forces",
+      "Understand the qualities needed to become a defence officer",
+      "Recognise the contributions of women in the armed forces",
+      "Identify roles the armed forces play beyond fighting wars",
+      "Challenge gender stereotypes and understand that careers are open to everyone"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en26_001",
+      "title": "Thank a Soldier Activity",
+      "content": "Write a short thank-you letter or draw a picture for a soldier who guards our borders. Think about the difficult conditions they face - extreme cold at Siachen, scorching heat in the desert, or heavy rain in the northeast. Express your gratitude for their sacrifice. You can send your letter through the Indian Army's official website or post office programmes.",
+      "tags": ["activity", "values"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en26_002",
+      "title": "Women Achievers Research",
+      "content": "Research and make a poster about one woman achiever in the Indian Armed Forces. You could choose Avani Chaturvedi (first woman to fly a MiG-21 solo), Captain Lakshmi Sahgal (Azad Hind Fauj), or Punita Arora (first woman Lt. General). Write about what they achieved and what challenges they overcame. This will help you understand how stereotypes are broken.",
+      "tags": ["research", "role-models"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en26_003",
+      "title": "Key Difference: Stereotype vs Fact",
+      "content": "A common mistake is to believe stereotypes without questioning them. Remember: saying 'only boys can be brave' or 'girls cannot be soldiers' are stereotypes - not facts. Facts show that women have excelled in the armed forces as officers, pilots, doctors, and engineers. Always question generalisations and look for real examples before believing something about any group of people.",
+      "tags": ["common-mistake", "critical-thinking"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Keystore configuration for release builds
+# Copy this file to 'key.properties' and fill in your values
+# IMPORTANT: Never commit key.properties to version control!
+
+# Path to your keystore file (relative to android/app/ or absolute path)
+storeFile=../keystores/release.jks
+
+# Keystore password
+storePassword=your_keystore_password
+
+# Key alias (name you gave when creating the key)
+keyAlias=streamshaala
+
+# Key password (often same as storePassword)
+keyPassword=your_key_password
+
+# ═══════════════════════════════════════════════════════════════════════════
+# HOW TO CREATE A KEYSTORE:
+# ═══════════════════════════════════════════════════════════════════════════
+#
+# 1. Create the keystores directory:
+#    mkdir -p android/keystores
+#
+# 2. Generate the keystore:
+#    keytool -genkey -v -keystore android/keystores/release.jks \
+#      -keyalg RSA -keysize 2048 -validity 10000 \
+#      -alias streamshaala
+#
+# 3. Copy this file and fill in your passwords:
+#    cp android/key.properties.example android/key.properties
+#
+# 4. Keep your keystore and key.properties SAFE and BACKED UP!
+#    You cannot update your app on Play Store without the same keystore.
+#
+# ═══════════════════════════════════════════════════════════════════════════

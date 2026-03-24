@@ -1,0 +1,59 @@
+{
+  "chapterId": "gr4_math_ncert_ch6",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn6_v1",
+      "videoId": "gr4_mn6_v1",
+      "content": "This lesson introduces the three main units of length: centimetre (cm), metre (m), and kilometre (km). Students learn when to use each unit — cm for small objects like pencils and erasers, m for medium things like rooms and trees, and km for long distances like the route from one city to another. They also learn the key relationships: 1 m = 100 cm and 1 km = 1000 m.",
+      "keyPoints": [
+        "The three main units of length are centimetre (cm), metre (m), and kilometre (km)",
+        "1 metre = 100 centimetres",
+        "1 kilometre = 1000 metres",
+        "Use cm for small objects, m for medium lengths, km for long distances",
+        "Choosing the right unit makes measurement easier to understand"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn6_v2",
+      "videoId": "gr4_mn6_v2",
+      "content": "This lesson teaches how to convert between different units of length. To convert from a bigger unit to a smaller unit (m to cm, or km to m), multiply. To convert from a smaller unit to a bigger unit (cm to m, or m to km), divide. Students practise mixed conversions like expressing 3 m 45 cm as 345 cm and expressing 2500 m as 2 km 500 m.",
+      "keyPoints": [
+        "To convert m to cm, multiply by 100",
+        "To convert cm to m, divide by 100",
+        "To convert km to m, multiply by 1000",
+        "To convert m to km, divide by 1000",
+        "For mixed units like 3 m 25 cm, convert the metres first, then add: 300 + 25 = 325 cm"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn6_v3",
+      "videoId": "gr4_mn6_v3",
+      "content": "This lesson focuses on estimation and the tools used for measuring length. Students learn to estimate lengths using body measurements like a hand span (about 15 cm) or a step (about 60 cm). They explore different measuring tools: rulers for small objects, measuring tapes for cloth and rooms, metre sticks for bigger objects, and odometers in vehicles for long distances.",
+      "keyPoints": [
+        "Estimation means making a smart guess about length without measuring",
+        "You can use your body to estimate: hand span is about 15 cm, a big step is about 60 cm",
+        "Rulers measure small lengths in cm",
+        "Measuring tapes are flexible and measure in cm and m",
+        "Odometers in vehicles measure distance in km"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn6_v4",
+      "videoId": "gr4_mn6_v4",
+      "content": "This lesson teaches students to solve word problems about length. They learn to add and subtract lengths by first converting to the same unit. For example, to find the total length of two ribbons (2 m 30 cm and 1 m 50 cm), convert both to cm (230 cm + 150 cm = 380 cm = 3 m 80 cm). Students also compare lengths and solve real-life problems about distances, cloth, fencing, and travel.",
+      "keyPoints": [
+        "Always convert to the same unit before adding or subtracting lengths",
+        "To add lengths: convert to same unit, add, then convert back if needed",
+        "To subtract lengths: convert to same unit, subtract, then convert back",
+        "To compare lengths: convert both to the same unit first",
+        "Real-life problems involve distance, cloth, rope, fencing, and travel"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ch2",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_ev2_001",
+      "videoId": "gr4_ev2_v1",
+      "question": "What are the main steps of the water cycle?",
+      "answer": "The water cycle has four main steps: 1) Evaporation - the sun heats water and it turns into vapour. 2) Condensation - vapour rises, cools, and forms clouds. 3) Precipitation - water falls from clouds as rain or snow. 4) Collection - water flows into rivers, lakes, and oceans. Then it starts all over again!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_ev2_002",
+      "videoId": "gr4_ev2_v1",
+      "question": "Where does the water go when a puddle dries up?",
+      "answer": "The water does not disappear! The sun heats the puddle and the water evaporates, which means it turns into water vapour (an invisible gas) and goes up into the air. This vapour later helps form clouds and comes back as rain. It is all part of the water cycle.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_ev2_003",
+      "videoId": "gr4_ev2_v1",
+      "question": "Why do we see water drops on the outside of a cold glass?",
+      "answer": "The air around us has water vapour in it. When the cold glass cools the air nearby, the water vapour condenses (turns back into tiny water drops) on the surface of the glass. This is the same thing that happens in the sky when clouds form!",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_ev2_004",
+      "videoId": "gr4_ev2_v2",
+      "question": "If Earth has so much water, why do we need to save it?",
+      "answer": "Most of Earth's water (about 97%) is salty ocean water that we cannot drink. Of the remaining 3% fresh water, most is frozen in ice caps. Only a very tiny amount is available in rivers, lakes, and underground for us to use. That is why every drop counts!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_ev2_005",
+      "videoId": "gr4_ev2_v2",
+      "question": "What is the difference between surface water and groundwater?",
+      "answer": "Surface water is water you can see on top of the Earth, like rivers, lakes, ponds, and oceans. Groundwater is water hidden under the ground in tiny spaces between soil and rocks. We need to dig wells or use pumps to bring groundwater up to the surface.",
+      "status": "answered",
+      "upvotes": 14
+    },
+    {
+      "id": "faq_gr4_ev2_006",
+      "videoId": "gr4_ev2_v3",
+      "question": "How much water can I save by turning off the tap while brushing my teeth?",
+      "answer": "If you leave the tap running while brushing, you can waste about 6 to 10 litres of water each time! By turning it off and only using water to rinse, you save almost all of that. If your whole family does this twice a day, you could save hundreds of litres every month.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_ev2_007",
+      "videoId": "gr4_ev2_v3",
+      "question": "What is rainwater harvesting and how does it work?",
+      "answer": "Rainwater harvesting is collecting rain that falls on rooftops. The rain flows through pipes into a storage tank or pit. This stored water can be used for watering plants, washing, or even for drinking after proper cleaning. It is a simple and smart way to save water.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_ev2_008",
+      "videoId": "gr4_ev2_v4",
+      "question": "What happens during a drought?",
+      "answer": "During a drought, there is very little or no rain for a long time. Rivers and lakes can dry up. Crops do not grow because there is not enough water. People and animals struggle to find drinking water. Droughts show us why it is so important to save water every day.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_ev2_009",
+      "videoId": "gr4_ev2_v4",
+      "question": "Can we make new water?",
+      "answer": "No, we cannot make new water. The water on Earth today is the same water that has been here for millions of years! It just keeps moving through the water cycle - from oceans to sky to rain to rivers and back again. That is why we must take good care of the water we have.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_ev2_010",
+      "videoId": "gr4_ev2_v3",
+      "question": "How can I save water at school?",
+      "answer": "You can save water at school by: 1) Always closing taps properly after using them. 2) Telling a teacher if you see a leaking tap. 3) Using only the water you need when drinking from the water fountain. 4) Not playing with water during breaks. Every small action helps!",
+      "status": "answered",
+      "upvotes": 19
+    }
+  ]
+}

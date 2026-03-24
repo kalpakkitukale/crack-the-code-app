@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch15",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en15_001",
+      "videoId": "gr4_evn_15_1_v1",
+      "question": "What are the different types of markets in India?",
+      "answer": "India has many types of markets! A weekly market (haat) is set up on a fixed day in an open area with temporary stalls. Local kirana shops are small neighbourhood stores that sell everyday items. Wholesale mandis sell goods in bulk at lower prices. Malls and supermarkets are big air-conditioned stores with fixed prices. There are also specialised markets like vegetable mandis, fish markets, cloth markets, and flower markets.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en15_002",
+      "videoId": "gr4_evn_15_1_v1",
+      "question": "What is a weekly market or haat?",
+      "answer": "A haat is a temporary market set up on a particular day of the week in an open space. For example, a village might have a haat every Wednesday. Farmers, craftspeople, and small traders bring their goods to sell directly to buyers. Prices at haats are often lower because sellers do not pay shop rent. You can bargain for better prices. Haats are colourful, lively places found across India!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en15_003",
+      "videoId": "gr4_evn_15_1_v1",
+      "question": "How is shopping at a mall different from a haat?",
+      "answer": "At a mall, prices are fixed (you cannot bargain), the shops are permanent, and everything is clean and air-conditioned. At a haat, you can bargain for lower prices, the sellers set up temporary stalls, and it is in an open area. Malls usually sell branded items which cost more, while haats sell everyday items and fresh produce at lower prices. Both have their own charm!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en15_004",
+      "videoId": "gr4_evn_15_1_v2",
+      "question": "How do vegetables travel from the farm to my kitchen?",
+      "answer": "It is quite a journey! First, the farmer grows and harvests the vegetables. Then, a trader or middleman buys them at the wholesale mandi. The trader sells to a shopkeeper in a smaller market. The shopkeeper sells to you and your family. At each step, the price goes up to cover transport, handling, storage, and profit. That is why a tomato that costs Rs 10 at the farm may cost Rs 40 at your neighbourhood shop.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en15_005",
+      "videoId": "gr4_evn_15_1_v2",
+      "question": "What is MRP and why should I check it?",
+      "answer": "MRP stands for Maximum Retail Price. It is the highest price that any shopkeeper can charge for a packaged product. It is printed on the package by law. No shop can legally sell anything above its MRP. Checking the MRP helps you make sure you are not being overcharged. Many shops sell products below MRP too, so you can always look for a better deal!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en15_006",
+      "videoId": "gr4_evn_15_1_v2",
+      "question": "Why are things cheaper at the wholesale mandi?",
+      "answer": "At a wholesale mandi, goods are sold in very large quantities (bulk) directly from farmers or producers. Because the buyer is purchasing so much at once and the seller avoids packaging and display costs, the price per item is lower. Shopkeepers buy from wholesale mandis and then sell in smaller amounts at higher prices in their shops to cover their costs and earn a profit.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en15_007",
+      "videoId": "gr4_evn_15_1_v2",
+      "question": "What is bargaining and where can you bargain?",
+      "answer": "Bargaining means discussing or negotiating the price with a seller to get a lower price. In India, you can bargain at weekly markets (haats), street shops, and many local stores. You cannot usually bargain at malls, supermarkets, or shops with fixed-price tags. Bargaining is a skill - you need to be polite but firm, and it helps to know the fair price of what you are buying.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en15_008",
+      "videoId": "gr4_evn_15_1_v3",
+      "question": "Why should I check the expiry date on packaged food?",
+      "answer": "The expiry date tells you the last date until which the food is safe to eat. After the expiry date, food can go bad and make you sick, even if it looks and smells fine. Always check the expiry date on biscuits, chips, milk, bread, medicines, and all packaged items. Also check the manufacturing date - fresher products are usually better!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en15_009",
+      "videoId": "gr4_evn_15_1_v3",
+      "question": "Why should we carry cloth bags to the market?",
+      "answer": "Plastic bags are very harmful to the environment. They take hundreds of years to break down, clog drains and cause flooding, harm animals who accidentally eat them, and pollute soil and water. Carrying a reusable cloth bag from home is a simple way to reduce plastic waste. Many states in India have banned single-use plastic bags. One cloth bag can replace hundreds of plastic bags over its lifetime!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en15_010",
+      "videoId": "gr4_evn_15_1_v3",
+      "question": "What should I check before buying something from a shop?",
+      "answer": "Be a smart shopper! Check these things: (1) MRP - make sure you are not being overcharged. (2) Expiry date - the product should not be expired. (3) Manufacturing date - fresher is better. (4) Weight or quantity - make sure you get what you pay for. (5) Quality marks like FSSAI (for food safety) or ISI mark (for product quality). (6) Packaging - it should not be torn or damaged. (7) Always ask for a receipt!",
+      "status": "answered",
+      "upvotes": 22
+    }
+  ]
+}

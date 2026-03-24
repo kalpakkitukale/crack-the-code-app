@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ncert_ch21",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_evn21_v1",
+      "videoId": "gr4_evn21_v1",
+      "content": "This lesson introduces students to the importance of food in our lives. Food gives us energy to work and play, helps our body grow, and protects us from diseases. Students learn that different foods do different jobs for our body, just like different workers in a village have different roles.",
+      "keyPoints": [
+        "Food gives us energy, helps us grow, and keeps us healthy",
+        "We need to eat a variety of foods every day",
+        "Skipping meals can make us weak and tired",
+        "Clean water is also essential along with food"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn21_v2",
+      "videoId": "gr4_evn21_v2",
+      "content": "This lesson explains the three main groups of food. Energy-giving foods like rice, roti, and potatoes give us the power to run and play. Body-building foods like dal, milk, and eggs help us grow tall and strong. Protective foods like fruits and vegetables have vitamins and minerals that protect us from getting sick.",
+      "keyPoints": [
+        "Energy-giving foods include rice, roti, bread, and potatoes",
+        "Body-building foods include dal, milk, paneer, and eggs",
+        "Protective foods include fruits, green vegetables, and salads",
+        "A balanced diet includes all three food groups"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn21_v3",
+      "videoId": "gr4_evn21_v3",
+      "content": "This lesson focuses on healthy eating habits and food hygiene. Students learn why they should wash hands before eating, eat freshly cooked food, and drink clean water. The lesson also discusses why junk food like chips, cold drinks, and too many sweets can harm our body if eaten regularly.",
+      "keyPoints": [
+        "Always wash hands with soap before and after eating",
+        "Eat fresh, home-cooked food instead of stale food",
+        "Junk food has too much oil, sugar, and salt",
+        "Drink boiled or filtered water to stay healthy"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn21_v4",
+      "videoId": "gr4_evn21_v4",
+      "content": "This lesson explores how food habits differ across India. People in different states eat different foods based on what grows in their region, their culture, and their traditions. South India has more rice-based meals, North India has more roti-based meals, and coastal areas eat more fish. Despite differences, every community tries to eat a balanced meal.",
+      "keyPoints": [
+        "Food habits vary across different regions of India",
+        "Climate and geography affect what food is available",
+        "Cultural traditions influence what people eat",
+        "All communities aim for nutrition through their local foods"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn8_t1",
+  "topicId": "gr4_mn_8_1",
+  "topicName": "Weighing in Grams and Kilograms",
+  "chapterId": "gr4_math_ncert_ch8",
+  "chapterName": "Weigh it, Pour it",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1740,
+    "totalDurationDisplay": "29:00",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_8_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn8_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Introduction to Weighing | Heavy and Light for Kids",
+      "description": "Learn the basics of weighing things! Find out how we use a balance to compare which object is heavier and which is lighter.",
+      "youtubeId": "qnx_-gMKoAI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qnx_-gMKoAI",
+      "thumbnailUrl": "https://img.youtube.com/vi/qnx_-gMKoAI/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 890000,
+      "tags": ["weighing", "heavy light", "balance", "introduction", "measurement"],
+      "learningObjectives": ["Understand what weighing means", "Use a balance to compare objects", "Identify heavier and lighter objects"],
+      "keyConceptsCovered": ["A balance tips to the heavier side", "Comparing objects by weight", "Why we need standard units"],
+      "prerequisites": ["Concept of heavy and light"],
+      "followUpTopics": ["Grams and kilograms"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Grams and Kilograms | Measuring Weight for Kids",
+      "description": "Understand the units of weight: grams and kilograms. Learn when to use grams (small things like a pencil) and kilograms (big things like a bag of rice).",
+      "youtubeId": "V3XBKB8H0xI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=V3XBKB8H0xI",
+      "thumbnailUrl": "https://img.youtube.com/vi/V3XBKB8H0xI/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["grams", "kilograms", "weight", "units of weight", "measurement"],
+      "learningObjectives": ["Learn the gram and kilogram as units of weight", "Know that 1 kg = 1000 g", "Choose the right unit for different objects"],
+      "keyConceptsCovered": ["Gram is for light things", "Kilogram is for heavy things", "1 kilogram equals 1000 grams"],
+      "prerequisites": ["Understanding heavy and light"],
+      "followUpTopics": ["Reading a weighing scale", "Conversion"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch8_heavylight_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Heavy and Light | Comparing Weights for Kids",
+      "description": "Learn to compare objects as heavy or light. Which is heavier, a watermelon or an apple? Use your hands like a balance to find out!",
+      "youtubeId": "qnx_-gMKoAI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qnx_-gMKoAI",
+      "thumbnailUrl": "https://img.youtube.com/vi/qnx_-gMKoAI/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 890000,
+      "tags": ["heavy", "light", "comparing weight", "balance", "hands-on"],
+      "learningObjectives": ["Compare everyday objects by weight", "Estimate weight before measuring", "Understand why standard units are needed"],
+      "keyConceptsCovered": ["Comparing objects in daily life", "Estimation before measurement", "Need for standard units like grams"],
+      "prerequisites": ["Basic observation skills"],
+      "followUpTopics": ["Reading weights in grams"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch8_multiply_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Multiplication by 10, 100, and 1000 | Easy Multiplication Tricks",
+      "description": "Learn how to multiply by 10, 100, and 1000 quickly. This is very important for converting between grams and kilograms!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["multiplication", "multiply by 1000", "conversion foundation"],
+      "learningObjectives": ["Multiply numbers by 1000 quickly", "Understand the zero pattern", "Apply to kg-g conversion"],
+      "keyConceptsCovered": ["Multiplying by 1000 adds three zeros", "2 kg = 2 x 1000 = 2000 g", "Foundation for unit conversion"],
+      "prerequisites": ["Basic multiplication facts"],
+      "followUpTopics": ["Converting grams to kilograms"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn8_v1", "gr4_mn8_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 930,
+      "estimatedTimeDisplay": "15:30",
+      "rationale": "Quick introduction to weighing and units for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn8_v1", "gr4_mn8_v2", "prereq_ch8_heavylight_v1", "prereq_ch8_multiply_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1740,
+      "estimatedTimeDisplay": "29:00",
+      "rationale": "Complete coverage of weighing concepts with practical comparison"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch8_heavylight_v1", "gr4_mn8_v1", "gr4_mn8_v2"],
+      "totalVideos": 3,
+      "estimatedTime": 1320,
+      "estimatedTimeDisplay": "22:00",
+      "rationale": "Start with heavy/light review, then core weighing concepts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn8_v1", "gr4_mn8_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 930,
+      "estimatedTimeDisplay": "15:30",
+      "rationale": "Essential weighing and units only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn8_v2",
+      "checkpointName": "Grams and Kilograms Understanding Check",
+      "questions": [
+        {
+          "question": "Which unit would you use to weigh a bag of rice: grams or kilograms?",
+          "options": ["Grams", "Kilograms", "Litres", "Millilitres"],
+          "correctAnswer": 1,
+          "explanation": "A bag of rice is heavy, so we measure it in kilograms. A typical bag of rice weighs 5 kg."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Bring a simple balance and some objects to class. Let children weigh things like erasers, books, and lunch boxes. Introduce grams for small items and kilograms for heavy items.",
+    "parentGuidance": "Help your child look at weight labels on food packets at home. Ask questions like: How much does this packet of dal weigh? Is it grams or kilograms?",
+    "studentGuidance": "Weighing is about finding out how heavy something is. Grams are for light things like a biscuit, and kilograms are for heavy things like a watermelon!"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch3",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en3_001",
+      "videoId": "gr4_en3_v1",
+      "question": "How much does an elephant weigh?",
+      "answer": "An adult elephant can weigh between 4,000 and 6,000 kg - that is as heavy as about 80 adult humans or a big truck! Baby elephants weigh about 100 kg at birth, which is already heavier than most adult humans.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en3_002",
+      "videoId": "gr4_en3_v1",
+      "question": "What is a baby elephant called and how long does it stay with its mother?",
+      "answer": "A baby elephant is called a calf. Elephant calves stay very close to their mother for about 3-4 years. The mother elephant carries her baby inside her for 22 months (almost 2 years) - the longest pregnancy of any land animal!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en3_003",
+      "videoId": "gr4_en3_v2",
+      "question": "What do elephants eat?",
+      "answer": "Elephants are herbivores, which means they eat only plants. They eat grass, leaves, bark, fruits, and roots. An elephant eats about 150-200 kg of food every day and spends 16-18 hours just eating! That is like eating all day long.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en3_004",
+      "videoId": "gr4_en3_v1",
+      "question": "What can an elephant do with its trunk?",
+      "answer": "An elephant's trunk is amazing! It can breathe, smell, drink water (by sucking it up and spraying it into the mouth), grab food and put it in the mouth, give itself a bath, make loud trumpeting sounds, and even act as a snorkel while swimming. The trunk has about 40,000 muscles!",
+      "status": "answered",
+      "upvotes": 28
+    },
+    {
+      "id": "faq_gr4_en3_005",
+      "videoId": "gr4_en3_v2",
+      "question": "Who leads the elephant herd?",
+      "answer": "The elephant herd is led by the matriarch - the oldest and wisest female elephant. She remembers important things like where to find water and food. The herd follows her decisions. Male elephants usually leave the herd when they grow up and live alone or in small bachelor groups.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en3_006",
+      "videoId": "gr4_en3_v4",
+      "question": "Why do elephants have such big ears?",
+      "answer": "Elephants have big ears to help them cool down! Blood flows through the thin skin of their ears, and when elephants flap their ears, the air cools the blood down before it goes back into the body. It works like a natural air conditioner! African elephants have bigger ears than Asian elephants because Africa is hotter.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en3_007",
+      "videoId": "gr4_en3_v3",
+      "question": "Why are elephants in danger?",
+      "answer": "Elephants are in danger because their forest homes are being cut down for farming and building. Some people also hunt elephants illegally for their ivory tusks. As forests shrink, elephants wander into villages looking for food, which creates problems. That is why protecting forests is so important.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en3_008",
+      "videoId": "gr4_en3_v4",
+      "question": "Can elephants swim?",
+      "answer": "Yes! Elephants are excellent swimmers. They love water and can swim for hours. When swimming in deep water, they hold their trunk up above the surface like a snorkel to breathe. Elephants also love to splash and play in rivers and take mud baths to protect their skin from the sun.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en3_009",
+      "videoId": "gr4_en3_v2",
+      "question": "How do elephants communicate with each other?",
+      "answer": "Elephants communicate in many ways! They make trumpeting sounds when excited or alarmed, and low rumbling sounds that can travel through the ground for kilometres. They also use body language - touching with their trunk shows affection, and spreading their ears wide means they feel threatened.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en3_010",
+      "videoId": "gr4_en3_v3",
+      "question": "How do elephants help the forest?",
+      "answer": "Elephants are like gardeners of the forest! When they eat fruits, the seeds pass through their body and are dropped in new places with natural fertiliser, helping new trees grow. Elephants also push down small trees and make paths, which lets sunlight reach the forest floor and helps smaller plants grow.",
+      "status": "answered",
+      "upvotes": 22
+    }
+  ]
+}

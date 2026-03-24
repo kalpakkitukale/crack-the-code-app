@@ -1,0 +1,56 @@
+{
+  "chapterId": "gr4_eng_ncert_u9",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en9_v1",
+      "videoId": "gr4_en9_v1",
+      "content": "This lesson introduces the poem 'The Naughty Boy' by John Keats from Unit 9 of the Marigold textbook. The poem tells the story of a boy who runs away from England to Scotland because he is bored and thinks everything will be wonderfully different there. However, when he arrives in Scotland, he discovers that the ground is just as hard, the trees are just as tall, and the sun is just as hot as in England. The poem uses humour and repetition to teach the message that we should appreciate what we have instead of always wanting something different.",
+      "keyPoints": [
+        "The poem is written by the famous English poet John Keats",
+        "The naughty boy runs from England to Scotland seeking excitement",
+        "He discovers that Scotland is not very different from England",
+        "The poem teaches us to be content with what we have"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en9_v2",
+      "videoId": "gr4_en9_v2",
+      "content": "This lesson covers the story of Pinocchio, a wooden puppet carved by a kind old carpenter named Geppetto. Pinocchio magically comes to life and can walk, talk, and think like a real boy. However, he is naughty and often gets into trouble. The most famous part of the story is that Pinocchio's nose grows longer every time he tells a lie. Through many adventures and mistakes, Pinocchio slowly learns the importance of being honest, going to school, obeying his father, and being kind to others.",
+      "keyPoints": [
+        "Pinocchio is a wooden puppet made by Geppetto the carpenter",
+        "He comes to life magically and wants to become a real boy",
+        "His nose grows longer whenever he tells a lie",
+        "He learns important values through his adventures and mistakes"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en9_v3",
+      "videoId": "gr4_en9_v3",
+      "content": "This lesson continues the Pinocchio story and focuses on the lessons he learns. Pinocchio faces many challenges -- he is tricked by dishonest characters, he skips school, and he tells lies. Each time, there are consequences for his actions. Eventually, Pinocchio understands that being truthful, hardworking, and caring about others is what truly matters. When he finally proves he is brave, honest, and unselfish, the fairy rewards him by turning him into a real boy. Geppetto is overjoyed, and Pinocchio is grateful for his second chance.",
+      "keyPoints": [
+        "Bad choices lead to consequences in the story",
+        "Pinocchio learns honesty, hard work, and kindness step by step",
+        "Being brave and truthful earns him the reward of becoming real",
+        "The story teaches that good character matters more than appearance"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en9_v4",
+      "videoId": "gr4_en9_v4",
+      "content": "This lesson teaches the grammar topic of Punctuation. Students learn about four key punctuation marks: the full stop (.) used at the end of statements, the question mark (?) used at the end of questions, the exclamation mark (!) used for sentences showing strong feelings, and the comma (,) used for pauses and lists. Students practise adding correct punctuation to sentences from the poem and story. They also learn that a capital letter always follows a full stop, question mark, or exclamation mark because it starts a new sentence. Correct punctuation makes our writing clear and easy to understand.",
+      "keyPoints": [
+        "Full stop (.) ends a statement or telling sentence",
+        "Question mark (?) ends a question or asking sentence",
+        "Exclamation mark (!) shows strong feelings like surprise or excitement",
+        "Comma (,) separates items in a list and shows pauses",
+        "A new sentence always begins with a capital letter after a full stop"
+      ],
+      "source": "manual"
+    }
+  ]
+}

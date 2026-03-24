@@ -1,0 +1,1748 @@
+{
+  "quiz": {
+    "id": "quiz_subject_physics",
+    "level": "subject",
+    "entityId": "physics",
+    "title": "Physics - Subject Quiz",
+    "questionIds": [
+      "q_nfl_001",
+      "q_nfl_002",
+      "q_nfl_003",
+      "q_nfl_004",
+      "q_nfl_005",
+      "q_nfl_006",
+      "q_nfl_007",
+      "q_nfl_008",
+      "q_nsl_001",
+      "q_nsl_002",
+      "q_nsl_003",
+      "q_nsl_004",
+      "q_nsl_005",
+      "q_nsl_006",
+      "q_nsl_007",
+      "q_nsl_008",
+      "q_ntl_001",
+      "q_ntl_002",
+      "q_ntl_003",
+      "q_ntl_004",
+      "q_ntl_005",
+      "q_ntl_006",
+      "q_ntl_007",
+      "q_ntl_008",
+      "q_we_001",
+      "q_we_002",
+      "q_we_003",
+      "q_we_004",
+      "q_we_005",
+      "q_we_006",
+      "q_we_007",
+      "q_we_008",
+      "q_kin_001",
+      "q_kin_002",
+      "q_kin_003",
+      "q_kin_004",
+      "q_kin_005",
+      "q_kin_006",
+      "q_kin_007",
+      "q_kin_008",
+      "q_grav_001",
+      "q_grav_002",
+      "q_grav_003",
+      "q_grav_004",
+      "q_grav_005",
+      "q_grav_006",
+      "q_grav_007",
+      "q_grav_008",
+      "q_nfl_009",
+      "q_nsl_009",
+      "q_ntl_009",
+      "q_we_009",
+      "q_kin_009",
+      "q_grav_009",
+      "q_nfl_010",
+      "q_nsl_010",
+      "q_ntl_010",
+      "q_we_010",
+      "q_kin_010",
+      "q_grav_010"
+    ],
+    "timeLimit": 3000,
+    "passingScore": 0.75
+  },
+  "questions": [
+    {
+      "id": "q_nfl_001",
+      "questionText": "What is Newton's First Law of Motion also known as?",
+      "questionType": "mcq",
+      "options": [
+        "Law of Action-Reaction",
+        "Law of Inertia",
+        "Law of Acceleration",
+        "Law of Gravity"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Newton's First Law is also called the Law of Inertia because it describes how objects resist changes in their state of motion.",
+      "hints": [
+        "Think about what makes an object resist motion changes",
+        "It's related to an object's tendency to maintain its current state"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "inertia",
+        "fundamentals"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_002",
+      "questionText": "According to Newton's First Law, an object at rest will stay at rest unless acted upon by what?",
+      "questionType": "mcq",
+      "options": [
+        "An external force",
+        "Gravity only",
+        "Its own weight",
+        "Time passing"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's First Law states that an object at rest stays at rest, and an object in motion stays in motion, unless acted upon by an external force.",
+      "hints": [
+        "What causes changes in motion?",
+        "It must come from outside the object"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "motion"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_003",
+      "questionText": "A book is resting on a table. Why doesn't it move?",
+      "questionType": "mcq",
+      "options": [
+        "There are no forces acting on it",
+        "The forces acting on it are balanced",
+        "It has no mass",
+        "Gravity is not acting on it"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The book experiences gravity pulling it down and the normal force from the table pushing it up. These forces are balanced, so the book remains at rest.",
+      "hints": [
+        "Forces can be present but still result in no movement",
+        "Think about equal and opposite forces"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "balanced_forces",
+        "equilibrium"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_004",
+      "questionText": "What property of matter causes objects to resist changes in their motion?",
+      "questionType": "mcq",
+      "options": [
+        "Mass",
+        "Weight",
+        "Volume",
+        "Density"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Inertia is directly related to an object's mass. Objects with more mass have more inertia and resist changes in motion more strongly.",
+      "hints": [
+        "It's a measure of the amount of matter",
+        "Heavier objects are harder to push or stop"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "inertia",
+        "mass",
+        "properties_of_matter"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_005",
+      "questionText": "A car is moving at constant velocity on a straight road. What is the net force acting on the car?",
+      "questionType": "mcq",
+      "options": [
+        "Zero",
+        "Equal to its weight",
+        "In the direction of motion",
+        "Opposite to the direction of motion"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When an object moves at constant velocity (no acceleration), the net force on it is zero. All forces are balanced.",
+      "hints": [
+        "Constant velocity means no change in motion",
+        "What does Newton's First Law say about objects in uniform motion?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "constant_velocity",
+        "net_force"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_006",
+      "questionText": "Which of the following best demonstrates inertia?",
+      "questionType": "mcq",
+      "options": [
+        "A ball rolling down a hill",
+        "Your body jerks forward when a car suddenly stops",
+        "A rocket launching into space",
+        "Water flowing downhill"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When a car stops suddenly, your body continues moving forward due to inertia - the tendency to maintain its state of motion.",
+      "hints": [
+        "Look for an example where something resists a change in motion",
+        "What happens when motion suddenly changes?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "inertia",
+        "real_world_applications",
+        "motion"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_007",
+      "questionText": "If you're in a spacecraft in deep space (far from any gravitational influence) and you throw a ball, what will happen to the ball?",
+      "questionType": "mcq",
+      "options": [
+        "It will fall to the floor of the spacecraft",
+        "It will continue moving in a straight line at constant velocity",
+        "It will curve back to you",
+        "It will slow down and stop"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In the absence of external forces (like friction or gravity), the ball will continue moving at constant velocity in a straight line, as stated by Newton's First Law.",
+      "hints": [
+        "Consider what forces are acting on the ball",
+        "Remember Newton's First Law applies when no external forces act"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "space",
+        "zero_gravity"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_008",
+      "questionText": "A 2kg object and a 5kg object are both at rest. Which statement is true?",
+      "questionType": "mcq",
+      "options": [
+        "The 2kg object has more inertia",
+        "The 5kg object has more inertia",
+        "Both have the same inertia",
+        "Neither object has inertia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Inertia is directly proportional to mass. The 5kg object has more mass, therefore more inertia, meaning it resists changes in motion more than the 2kg object.",
+      "hints": [
+        "Inertia depends on mass",
+        "Which object has more matter?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "inertia",
+        "mass",
+        "comparison"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_001",
+      "questionText": "What is the mathematical formula for Newton's Second Law of Motion?",
+      "questionType": "mcq",
+      "options": [
+        "F = m/a",
+        "F = ma",
+        "F = m + a",
+        "F = a/m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Newton's Second Law states that Force equals mass times acceleration (F = ma). This fundamental equation describes how force, mass, and acceleration are related.",
+      "hints": [
+        "Force is the product of two quantities",
+        "The unit of force is kg⋅m/s²"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_002",
+      "questionText": "If the net force on an object is zero, what is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "Maximum",
+        "Zero",
+        "Depends on mass",
+        "Infinite"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to F = ma, if F = 0, then acceleration (a) must be 0, regardless of the mass. This means the object maintains constant velocity.",
+      "hints": [
+        "Use the equation F = ma",
+        "What happens when you divide zero by any number?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_003",
+      "questionText": "A 10 kg object accelerates at 2 m/s². What is the net force acting on it?",
+      "questionType": "mcq",
+      "options": [
+        "5 N",
+        "12 N",
+        "20 N",
+        "200 N"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Using F = ma, we calculate F = 10 kg × 2 m/s² = 20 N (Newtons).",
+      "hints": [
+        "Use F = ma",
+        "Multiply mass by acceleration"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "calculation"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_004",
+      "questionText": "What is the SI unit of force?",
+      "questionType": "mcq",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton. One Newton equals 1 kg⋅m/s².",
+      "hints": [
+        "It's named after a famous physicist",
+        "The abbreviation is N"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "units",
+        "force"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_005",
+      "questionText": "A car of mass 1000 kg accelerates from rest to 20 m/s in 5 seconds. What is the average net force on the car?",
+      "questionType": "mcq",
+      "options": [
+        "2000 N",
+        "4000 N",
+        "5000 N",
+        "20000 N"
+      ],
+      "correctAnswer": "B",
+      "explanation": "First, find acceleration: a = (v - u)/t = (20 - 0)/5 = 4 m/s². Then use F = ma: F = 1000 kg × 4 m/s² = 4000 N.",
+      "hints": [
+        "First calculate acceleration using v = u + at",
+        "Then use F = ma"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "acceleration",
+        "problem_solving"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_006",
+      "questionText": "If you double the mass of an object while keeping the force constant, what happens to its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "Doubles",
+        "Halves",
+        "Quadruples",
+        "Remains the same"
+      ],
+      "correctAnswer": "B",
+      "explanation": "From F = ma, we get a = F/m. If mass doubles while force stays constant, acceleration is halved. Mass and acceleration are inversely proportional.",
+      "hints": [
+        "Rearrange F = ma to solve for a",
+        "Consider the inverse relationship"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "proportionality",
+        "mass",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_007",
+      "questionText": "Two forces of 30 N and 40 N act on an object at right angles to each other. What is the magnitude of the resultant force?",
+      "questionType": "mcq",
+      "options": [
+        "10 N",
+        "35 N",
+        "50 N",
+        "70 N"
+      ],
+      "correctAnswer": "C",
+      "explanation": "When forces act at right angles, use the Pythagorean theorem: F = √(30² + 40²) = √(900 + 1600) = √2500 = 50 N.",
+      "hints": [
+        "Think of perpendicular forces forming a right triangle",
+        "Use the Pythagorean theorem"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "force",
+        "vectors",
+        "resultant_force"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_008",
+      "questionText": "A 2 kg block on a frictionless surface is pulled by a horizontal force of 10 N. What is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s²",
+        "5 m/s²",
+        "10 m/s²",
+        "20 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using a = F/m: a = 10 N / 2 kg = 5 m/s². Since there's no friction, all the applied force goes into accelerating the block.",
+      "hints": [
+        "Rearrange F = ma to find a",
+        "Divide force by mass"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "acceleration",
+        "calculation"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_001",
+      "questionText": "What does Newton's Third Law state?",
+      "questionType": "mcq",
+      "options": [
+        "For every action, there is an equal and opposite reaction",
+        "An object at rest stays at rest unless acted upon by force",
+        "Force equals mass times acceleration",
+        "Energy cannot be created or destroyed"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's Third Law states that for every action force, there is an equal and opposite reaction force. These forces always occur in pairs and act on different objects.",
+      "hints": [
+        "Think about what happens when you push against a wall",
+        "The law involves pairs of forces acting in opposite directions"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Newton's Third Law",
+        "Action-Reaction Pairs"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_002",
+      "questionText": "When you push against a wall, what pushes back on you?",
+      "questionType": "mcq",
+      "options": [
+        "Nothing pushes back",
+        "The wall pushes back with equal force",
+        "Gravity pushes back",
+        "Air pressure pushes back"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to Newton's Third Law, when you exert a force on the wall (action), the wall exerts an equal and opposite force on you (reaction). This is why you feel resistance when pushing against a wall.",
+      "hints": [
+        "Consider Newton's Third Law of motion",
+        "The reaction force comes from the object being pushed"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Contact Forces"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_003",
+      "questionText": "Which statement correctly describes action-reaction force pairs?",
+      "questionType": "mcq",
+      "options": [
+        "They act on the same object",
+        "They act on different objects",
+        "They cancel each other out",
+        "They only occur in collisions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Action-reaction pairs always act on different objects. This is a crucial aspect of Newton's Third Law. Because they act on different objects, they do not cancel each other out.",
+      "hints": [
+        "Think about which objects experience the forces",
+        "If they acted on the same object, nothing could ever move"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Force Pairs"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_004",
+      "questionText": "A book rests on a table. The book pushes down on the table with a force of 10 N. What is the magnitude of the force the table exerts on the book?",
+      "questionType": "mcq",
+      "options": [
+        "5 N",
+        "10 N",
+        "20 N",
+        "0 N"
+      ],
+      "correctAnswer": "B",
+      "explanation": "By Newton's Third Law, the table exerts an equal and opposite force on the book. If the book pushes down with 10 N, the table pushes up with exactly 10 N. These are action-reaction pairs.",
+      "hints": [
+        "Action and reaction forces are equal in magnitude",
+        "The table must push back with the same force"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Normal Force"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_005",
+      "questionText": "When a rocket expels gas downward, what happens to the rocket?",
+      "questionType": "mcq",
+      "options": [
+        "The rocket moves downward",
+        "The rocket moves upward",
+        "The rocket remains stationary",
+        "The rocket moves sideways"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When the rocket pushes gas downward (action), the gas pushes the rocket upward (reaction) according to Newton's Third Law. This is the principle behind rocket propulsion.",
+      "hints": [
+        "Consider the direction of the reaction force",
+        "Think about Newton's Third Law and opposite directions"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Rocket Propulsion",
+        "Action-Reaction Pairs"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_006",
+      "questionText": "A person jumps off a boat onto a dock. What happens to the boat?",
+      "questionType": "mcq",
+      "options": [
+        "The boat moves toward the dock",
+        "The boat moves away from the dock",
+        "The boat remains stationary",
+        "The boat sinks"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When the person pushes against the boat to jump forward (action), the boat experiences an equal and opposite force pushing it backward (reaction). This causes the boat to move away from the dock.",
+      "hints": [
+        "The person pushes on the boat to jump forward",
+        "Newton's Third Law applies here"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Momentum"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_007",
+      "questionText": "A swimmer pushes water backward with a force of 50 N. What is the force exerted by the water on the swimmer?",
+      "questionType": "mcq",
+      "options": [
+        "25 N forward",
+        "50 N backward",
+        "50 N forward",
+        "100 N forward"
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to Newton's Third Law, when the swimmer pushes water backward with 50 N (action), the water pushes the swimmer forward with 50 N (reaction). The forces are equal in magnitude but opposite in direction.",
+      "hints": [
+        "Action and reaction forces are equal in magnitude",
+        "The reaction force acts in the opposite direction to the action"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Swimming Mechanics"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_008",
+      "questionText": "Two ice skaters push off each other. Skater A (60 kg) and Skater B (40 kg) initially at rest push each other. If they experience equal forces, which statement is correct?",
+      "questionType": "mcq",
+      "options": [
+        "Both skaters move with the same speed",
+        "Skater A moves faster than Skater B",
+        "Skater B moves faster than Skater A",
+        "Neither skater moves"
+      ],
+      "correctAnswer": "C",
+      "explanation": "By Newton's Third Law, both skaters experience equal and opposite forces. However, by F = ma, the lighter Skater B (40 kg) will experience greater acceleration and thus move faster than the heavier Skater A (60 kg).",
+      "hints": [
+        "Equal forces on different masses produce different accelerations",
+        "Use F = ma to compare accelerations"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Newton's Second Law",
+        "Acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_001",
+      "questionText": "What is the definition of work in physics?",
+      "questionType": "mcq",
+      "options": [
+        "Work = Force × Distance in the direction of force",
+        "Work = Mass × Velocity",
+        "Work = Force × Time",
+        "Work = Energy × Distance"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In physics, work is defined as the product of force and displacement in the direction of the force. Mathematically, W = F × d × cos(θ), where θ is the angle between force and displacement.",
+      "hints": [
+        "Work involves both force and movement",
+        "The displacement must be in the direction of the applied force"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Work",
+        "Force",
+        "Displacement"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_002",
+      "questionText": "What is the SI unit of work and energy?",
+      "questionType": "mcq",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The SI unit of both work and energy is the Joule (J). One Joule is defined as the work done when a force of one Newton moves an object one meter in the direction of the force (1 J = 1 N⋅m).",
+      "hints": [
+        "The unit is named after a famous physicist",
+        "It's the same unit for both work and energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Units",
+        "Work",
+        "Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_003",
+      "questionText": "When you carry a heavy bag while walking horizontally, how much work does the upward force you apply do on the bag?",
+      "questionType": "mcq",
+      "options": [
+        "Maximum work",
+        "Zero work",
+        "Negative work",
+        "Work equal to the weight of the bag"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When carrying a bag horizontally, the force you apply is upward (to support the weight) but the displacement is horizontal. Since force and displacement are perpendicular (θ = 90°), and cos(90°) = 0, the work done is zero.",
+      "hints": [
+        "Consider the direction of force vs. direction of motion",
+        "Work depends on the angle between force and displacement"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Work",
+        "Force Direction",
+        "Displacement"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_004",
+      "questionText": "What is kinetic energy?",
+      "questionType": "mcq",
+      "options": [
+        "Energy due to position",
+        "Energy due to motion",
+        "Energy stored in springs",
+        "Energy from heat"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kinetic energy is the energy possessed by an object due to its motion. It is given by the formula KE = ½mv², where m is mass and v is velocity. Any moving object has kinetic energy.",
+      "hints": [
+        "The word 'kinetic' relates to movement",
+        "A moving car has this type of energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Kinetic Energy",
+        "Energy Forms"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_005",
+      "questionText": "A 10 kg object is lifted vertically by 5 meters. Taking g = 10 m/s², how much work is done against gravity?",
+      "questionType": "mcq",
+      "options": [
+        "50 J",
+        "100 J",
+        "500 J",
+        "1000 J"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Work done against gravity = Force × Distance = (mg) × h = (10 kg × 10 m/s²) × 5 m = 100 N × 5 m = 500 J. This work is stored as gravitational potential energy.",
+      "hints": [
+        "Calculate the weight (force) first: F = mg",
+        "Then multiply force by the vertical distance"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Work",
+        "Gravity",
+        "Potential Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_006",
+      "questionText": "A 2 kg object moving at 4 m/s has its velocity increased to 6 m/s. What is the change in kinetic energy?",
+      "questionType": "mcq",
+      "options": [
+        "4 J",
+        "16 J",
+        "20 J",
+        "36 J"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Initial KE = ½(2)(4²) = 16 J. Final KE = ½(2)(6²) = 36 J. Change in KE = 36 - 16 = 20 J. This change in kinetic energy equals the work done on the object.",
+      "hints": [
+        "Calculate KE at both velocities using KE = ½mv²",
+        "Find the difference between final and initial KE"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Kinetic Energy",
+        "Work-Energy Theorem"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_007",
+      "questionText": "According to the work-energy theorem, the net work done on an object equals:",
+      "questionType": "mcq",
+      "options": [
+        "The change in potential energy",
+        "The change in kinetic energy",
+        "The total energy",
+        "The power delivered"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The work-energy theorem states that the net work done on an object equals the change in its kinetic energy: W_net = ΔKE = KE_final - KE_initial. This is a fundamental principle connecting work and energy.",
+      "hints": [
+        "The theorem relates work to a change in a specific type of energy",
+        "It involves the energy of motion"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Work-Energy Theorem",
+        "Kinetic Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_008",
+      "questionText": "A spring with spring constant k = 200 N/m is compressed by 0.1 m. What is the elastic potential energy stored?",
+      "questionType": "mcq",
+      "options": [
+        "1 J",
+        "2 J",
+        "10 J",
+        "20 J"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Elastic potential energy in a spring is given by PE = ½kx², where k is the spring constant and x is the compression/extension. PE = ½(200)(0.1)² = ½(200)(0.01) = 1 J.",
+      "hints": [
+        "Use the formula for elastic potential energy: PE = ½kx²",
+        "Square the displacement value carefully"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Elastic Potential Energy",
+        "Spring Force",
+        "Hooke's Law"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_001",
+      "questionText": "What is the difference between distance and displacement?",
+      "questionType": "mcq",
+      "options": [
+        "Distance is a vector, displacement is a scalar",
+        "Distance is total path length, displacement is shortest distance with direction",
+        "They are the same thing",
+        "Displacement is always greater than distance"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Distance is a scalar quantity representing the total path length traveled, while displacement is a vector quantity representing the shortest distance from initial to final position with direction. Displacement can be zero even when distance is not.",
+      "hints": [
+        "One considers the entire path, the other considers only start and end points",
+        "One is a scalar, the other is a vector"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Distance",
+        "Displacement",
+        "Scalars and Vectors"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_002",
+      "questionText": "What is the SI unit of acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "m/s",
+        "m/s²",
+        "m²/s",
+        "s/m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The SI unit of acceleration is meters per second squared (m/s²). This represents the change in velocity (m/s) per unit time (s), giving us m/s per second, or m/s².",
+      "hints": [
+        "Acceleration is the rate of change of velocity",
+        "It has units of velocity divided by time"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Acceleration",
+        "Units",
+        "SI System"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_003",
+      "questionText": "A car travels 100 m in 20 seconds. What is its average speed?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s",
+        "5 m/s",
+        "10 m/s",
+        "20 m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Average speed = Total distance / Total time = 100 m / 20 s = 5 m/s. Average speed is a scalar quantity that doesn't consider direction.",
+      "hints": [
+        "Use the formula: speed = distance / time",
+        "Divide 100 by 20"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Speed",
+        "Average Speed",
+        "Motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_004",
+      "questionText": "An object moving in a straight line with constant velocity has:",
+      "questionType": "mcq",
+      "options": [
+        "Zero acceleration",
+        "Constant acceleration",
+        "Increasing acceleration",
+        "Decreasing acceleration"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When an object moves with constant velocity, its speed and direction don't change. Since acceleration is the rate of change of velocity, and velocity is not changing, acceleration must be zero.",
+      "hints": [
+        "Constant velocity means no change in speed or direction",
+        "Acceleration measures change in velocity"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Velocity",
+        "Acceleration",
+        "Uniform Motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_005",
+      "questionText": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s²",
+        "4 m/s²",
+        "5 m/s²",
+        "100 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using the formula a = (v - u) / t, where u = 0 (starts from rest), v = 20 m/s, and t = 5 s: a = (20 - 0) / 5 = 4 m/s². This means the velocity increases by 4 m/s every second.",
+      "hints": [
+        "Use the formula: acceleration = change in velocity / time",
+        "The car starts from rest, so initial velocity is 0"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Acceleration",
+        "Uniform Acceleration",
+        "Equations of Motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_006",
+      "questionText": "An object is thrown vertically upward. At the highest point of its trajectory:",
+      "questionType": "mcq",
+      "options": [
+        "Both velocity and acceleration are zero",
+        "Velocity is zero but acceleration is not zero",
+        "Acceleration is zero but velocity is not zero",
+        "Both velocity and acceleration are maximum"
+      ],
+      "correctAnswer": "B",
+      "explanation": "At the highest point, the object momentarily stops (velocity = 0) before falling back down. However, gravity continues to act on it, so acceleration = g (approximately 9.8 m/s²) downward throughout the motion, including at the highest point.",
+      "hints": [
+        "The object stops momentarily at the peak",
+        "Gravity acts on the object throughout its flight"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Projectile Motion",
+        "Velocity",
+        "Acceleration",
+        "Gravity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_007",
+      "questionText": "A ball is dropped from rest and falls freely under gravity (g = 10 m/s²). How far does it fall in 3 seconds?",
+      "questionType": "mcq",
+      "options": [
+        "15 m",
+        "30 m",
+        "45 m",
+        "90 m"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Using the equation s = ut + ½at², where u = 0 (dropped from rest), a = g = 10 m/s², and t = 3 s: s = 0 + ½(10)(3²) = 5 × 9 = 45 m.",
+      "hints": [
+        "Use the equation: s = ut + ½at²",
+        "Initial velocity u = 0 since it's dropped from rest"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Free Fall",
+        "Equations of Motion",
+        "Gravity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_008",
+      "questionText": "A vehicle moving at 30 m/s applies brakes and comes to rest with uniform deceleration in 6 seconds. What is the distance traveled during braking?",
+      "questionType": "mcq",
+      "options": [
+        "45 m",
+        "90 m",
+        "180 m",
+        "360 m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using s = (u + v)t / 2, where u = 30 m/s, v = 0 m/s, t = 6 s: s = (30 + 0) × 6 / 2 = 30 × 3 = 90 m. Alternatively, using v² = u² + 2as: 0 = 900 - 2a(s), where a = 5 m/s², gives s = 90 m.",
+      "hints": [
+        "You can use s = (u + v)t / 2 for uniform acceleration",
+        "The final velocity is 0 since the vehicle comes to rest"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Equations of Motion",
+        "Deceleration",
+        "Braking Distance"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_001",
+      "questionText": "What is Newton's Law of Universal Gravitation?",
+      "questionType": "mcq",
+      "options": [
+        "Every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of distance between them",
+        "Objects fall at the same rate regardless of mass",
+        "Force equals mass times acceleration",
+        "Energy is conserved in gravitational interactions"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's Law of Universal Gravitation states that every particle attracts every other particle with a force F = G(m₁m₂)/r², where G is the gravitational constant, m₁ and m₂ are the masses, and r is the distance between their centers.",
+      "hints": [
+        "The law involves two masses and the distance between them",
+        "The force is proportional to masses and inversely proportional to distance squared"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Universal Gravitation",
+        "Newton's Law",
+        "Gravitational Force"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_002",
+      "questionText": "What is the value of acceleration due to gravity (g) on Earth's surface approximately?",
+      "questionType": "mcq",
+      "options": [
+        "9.8 m/s²",
+        "6.67 × 10⁻¹¹ N⋅m²/kg²",
+        "3 × 10⁸ m/s",
+        "1.62 m/s²"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s² (often rounded to 10 m/s² for calculations). This means that in the absence of air resistance, all objects near Earth's surface accelerate downward at this rate.",
+      "hints": [
+        "It's close to 10 m/s²",
+        "This is the standard acceleration for falling objects on Earth"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Acceleration due to Gravity",
+        "Earth's Gravity"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_003",
+      "questionText": "How does the gravitational force between two objects change if the distance between them is doubled?",
+      "questionType": "mcq",
+      "options": [
+        "It becomes half",
+        "It becomes one-fourth",
+        "It doubles",
+        "It becomes four times"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to the inverse square law (F ∝ 1/r²), when distance is doubled, the force becomes 1/(2²) = 1/4 of the original value. Gravitational force decreases rapidly with increasing distance.",
+      "hints": [
+        "Gravitational force follows an inverse square law",
+        "If distance is doubled, r becomes 2r in the formula F = G(m₁m₂)/r²"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Inverse Square Law",
+        "Gravitational Force",
+        "Distance"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_004",
+      "questionText": "What is the weight of an object?",
+      "questionType": "mcq",
+      "options": [
+        "The amount of matter in the object",
+        "The gravitational force acting on the object",
+        "The mass of the object",
+        "The volume of the object"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Weight is the gravitational force acting on an object, calculated as W = mg, where m is mass and g is acceleration due to gravity. Unlike mass (which is constant), weight varies depending on the gravitational field strength.",
+      "hints": [
+        "Weight is a force, not an amount of matter",
+        "It depends on both mass and gravity"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Weight",
+        "Gravitational Force",
+        "Mass vs Weight"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_005",
+      "questionText": "If the mass of Earth is M and radius is R, what is the acceleration due to gravity at Earth's surface? (G = gravitational constant)",
+      "questionType": "mcq",
+      "options": [
+        "g = GM/R",
+        "g = GM/R²",
+        "g = GM²/R",
+        "g = GR/M"
+      ],
+      "correctAnswer": "B",
+      "explanation": "At Earth's surface, gravitational force F = GMm/R² equals mg (weight). Canceling m from both sides: g = GM/R². This shows that surface gravity depends on the planet's mass and radius.",
+      "hints": [
+        "Set gravitational force equal to weight: GMm/R² = mg",
+        "Cancel mass m to solve for g"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Surface Gravity",
+        "Gravitational Acceleration",
+        "Planetary Mass"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_006",
+      "questionText": "At what height above Earth's surface does the value of g become one-fourth of its value on the surface? (R = Earth's radius)",
+      "questionType": "mcq",
+      "options": [
+        "h = R/4",
+        "h = R/2",
+        "h = R",
+        "h = 2R"
+      ],
+      "correctAnswer": "C",
+      "explanation": "At height h, g_h = GM/(R+h)². For g_h = g/4: GM/(R+h)² = (1/4)(GM/R²). Simplifying: R² = 4(R+h)². Taking square root: R = 2(R+h), which gives R = 2R + 2h, so h = R. At height equal to Earth's radius, gravity becomes one-fourth.",
+      "hints": [
+        "Use g_h = GM/(R+h)² and set it equal to (1/4)(GM/R²)",
+        "Solve for h algebraically"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Variation of g with Height",
+        "Gravitational Field"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_007",
+      "questionText": "The Moon's mass is about 1/81 of Earth's mass and its radius is about 1/4 of Earth's radius. What is the approximate value of g on the Moon's surface compared to Earth?",
+      "questionType": "mcq",
+      "options": [
+        "g_moon ≈ g_earth/81",
+        "g_moon ≈ g_earth/6",
+        "g_moon ≈ g_earth/4",
+        "g_moon ≈ g_earth/16"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using g = GM/R²: g_moon/g_earth = (M_moon/M_earth) × (R_earth/R_moon)² = (1/81) × (4)² = (1/81) × 16 = 16/81 ≈ 1/6. So g on the Moon is about 1/6 of g on Earth (approximately 1.62 m/s²).",
+      "hints": [
+        "Use the ratio g = GM/R² for both bodies",
+        "Consider both mass ratio (1/81) and radius ratio (1/4)"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Comparative Gravity",
+        "Planetary Physics",
+        "Moon"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_008",
+      "questionText": "What is gravitational potential energy of a mass m at height h above Earth's surface?",
+      "questionType": "mcq",
+      "options": [
+        "PE = mgh",
+        "PE = -GMm/h",
+        "PE = ½mv²",
+        "PE = GMm/R"
+      ],
+      "correctAnswer": "A",
+      "explanation": "For small heights near Earth's surface where g is approximately constant, gravitational potential energy is PE = mgh, where m is mass, g is acceleration due to gravity, and h is height. This is the work done against gravity to raise the object to height h.",
+      "hints": [
+        "This is the standard formula for potential energy near Earth's surface",
+        "It involves mass, gravity, and height"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Gravitational Potential Energy",
+        "Potential Energy",
+        "Height"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_009",
+      "questionText": "A hockey puck sliding on ice eventually comes to a stop. Which statement best explains why this doesn't violate Newton's First Law?",
+      "questionType": "mcq",
+      "options": [
+        "Newton's First Law only applies to objects in vacuum",
+        "Friction acts as an external force to slow the puck",
+        "The puck loses mass as it slides",
+        "Newton's First Law doesn't apply to sports equipment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Newton's First Law states objects continue in motion unless acted upon by an external force. Friction between the puck and ice is an external force that opposes the motion, causing it to slow and stop.",
+      "hints": [
+        "What force opposes motion on surfaces?",
+        "Is there an external force acting on the puck?"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "friction",
+        "external_forces"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_nsl_009",
+      "questionText": "A 0.5 kg ball experiences a net force that varies with time. If the force changes from 10 N to 20 N, by what factor does the acceleration change?",
+      "questionType": "mcq",
+      "options": [
+        "Increases by 0.5",
+        "Doubles",
+        "Triples",
+        "Quadruples"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Since a = F/m and mass is constant, acceleration is directly proportional to force. If force doubles (10 N to 20 N), acceleration also doubles.",
+      "hints": [
+        "Remember a = F/m",
+        "Mass stays constant, so acceleration is proportional to force"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "proportionality",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_ntl_009",
+      "questionText": "A car (1000 kg) collides head-on with a truck (3000 kg). During the collision, which statement is true?",
+      "questionType": "mcq",
+      "options": [
+        "The truck exerts more force on the car than the car exerts on the truck",
+        "The car exerts more force on the truck than the truck exerts on the car",
+        "Both vehicles exert equal forces on each other",
+        "No forces are exerted during the collision"
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to Newton's Third Law, during the collision, the car and truck exert equal and opposite forces on each other, regardless of their masses. However, the lighter car will experience greater acceleration (and thus greater damage) due to F = ma.",
+      "hints": [
+        "Newton's Third Law applies regardless of mass differences",
+        "Action-reaction pairs are always equal in magnitude"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Collisions",
+        "Force Analysis"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_we_009",
+      "questionText": "A 5 kg block slides down a frictionless incline from height 10 m. What is its speed at the bottom? (g = 10 m/s²)",
+      "questionType": "mcq",
+      "options": [
+        "10 m/s",
+        "14.1 m/s",
+        "20 m/s",
+        "100 m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using conservation of energy: Initial PE = Final KE. mgh = ½mv². The mass cancels: gh = ½v². Solving for v: v = √(2gh) = √(2 × 10 × 10) = √200 ≈ 14.1 m/s. Notice that the answer is independent of mass.",
+      "hints": [
+        "Use conservation of energy: PE at top = KE at bottom",
+        "The mass will cancel out from both sides"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Conservation of Energy",
+        "Potential Energy",
+        "Kinetic Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_kin_009",
+      "questionText": "A particle starts from rest and accelerates uniformly at 2 m/s² for 5 seconds, then continues at constant velocity. What is the total distance covered in 10 seconds?",
+      "questionType": "mcq",
+      "options": [
+        "25 m",
+        "50 m",
+        "75 m",
+        "100 m"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phase 1 (0-5s): s₁ = ½at² = ½(2)(5²) = 25 m. Final velocity after 5s: v = at = 2 × 5 = 10 m/s. Phase 2 (5-10s): Constant velocity, s₂ = vt = 10 × 5 = 50 m. Total distance = 25 + 50 = 75 m.",
+      "hints": [
+        "Break the motion into two phases: acceleration and constant velocity",
+        "Find the velocity at the end of acceleration to use in the second phase"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Equations of Motion",
+        "Two-Phase Motion",
+        "Uniform Acceleration"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_grav_009",
+      "questionText": "What is the escape velocity from Earth's surface? (Given: g = 10 m/s², R = 6.4 × 10⁶ m)",
+      "questionType": "mcq",
+      "options": [
+        "7.9 km/s",
+        "11.2 km/s",
+        "15 km/s",
+        "3 × 10⁸ m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Escape velocity v_e = √(2gR) = √(2 × 10 × 6.4 × 10⁶) = √(128 × 10⁶) ≈ 11,314 m/s ≈ 11.2 km/s. This is the minimum velocity needed to escape Earth's gravitational field without further propulsion.",
+      "hints": [
+        "Use the formula v_e = √(2gR) or v_e = √(2GM/R)",
+        "The answer is in km/s range"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Escape Velocity",
+        "Gravitational Energy",
+        "Orbital Mechanics"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_nfl_010",
+      "questionText": "Two astronauts are floating in space, initially at rest relative to each other. Astronaut A (60kg) pushes Astronaut B (90kg). Immediately after the push, which astronaut will have greater speed?",
+      "questionType": "mcq",
+      "options": [
+        "Astronaut A",
+        "Astronaut B",
+        "Both will have the same speed",
+        "Neither will move"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When Astronaut A pushes B, Newton's Third Law applies (equal and opposite forces). However, Astronaut A has less mass, so experiences greater acceleration (F=ma). With less inertia, Astronaut A achieves higher speed than Astronaut B.",
+      "hints": [
+        "Consider both Newton's First and Third Laws",
+        "Which astronaut has less inertia?",
+        "Remember F = ma"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "action_reaction",
+        "mass_and_acceleration",
+        "space"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_nsl_010",
+      "questionText": "Two blocks of masses 3 kg and 5 kg are connected by a string over a frictionless pulley. What is the acceleration of the system? (Take g = 10 m/s²)",
+      "questionType": "mcq",
+      "options": [
+        "1.25 m/s²",
+        "2.5 m/s²",
+        "5 m/s²",
+        "10 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Net force = (m₂ - m₁)g = (5 - 3) × 10 = 20 N. Total mass = 3 + 5 = 8 kg. Acceleration a = F/m = 20/8 = 2.5 m/s².",
+      "hints": [
+        "Consider the net pulling force from the heavier mass",
+        "Use F = ma where m is the total mass of the system",
+        "The formula is a = (m₂ - m₁)g/(m₁ + m₂)"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "pulleys",
+        "systems",
+        "problem_solving"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_ntl_010",
+      "questionText": "A horse pulls a cart forward with force F. The cart pulls the horse backward with force F. If the forces are equal and opposite, why does the system move forward?",
+      "questionType": "mcq",
+      "options": [
+        "The forces don't actually cancel because they act on different objects",
+        "The horse is stronger than the cart",
+        "Friction helps the horse more than the cart",
+        "The forces are not really equal"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The key insight is that action-reaction pairs act on different objects. The horse pulls the cart forward, and the cart pulls the horse backward - these act on different objects and don't cancel. The system moves because the horse pushes backward on the ground, and the ground pushes the horse forward (another action-reaction pair). The net external force from the ground moves the system forward.",
+      "hints": [
+        "Consider what forces act on the horse-cart system as a whole",
+        "Think about the interaction between the horse's feet and the ground"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "System Analysis",
+        "Net Force"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_we_010",
+      "questionText": "A force F = 20 N is applied at an angle of 60° to the horizontal to move a box 5 m horizontally. What work is done by this force?",
+      "questionType": "mcq",
+      "options": [
+        "50 J",
+        "86.6 J",
+        "100 J",
+        "173.2 J"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Work done when force is at an angle: W = F × d × cos(θ) = 20 N × 5 m × cos(60°) = 100 × 0.5 = 50 J. Only the horizontal component of the force (F cos θ) does work in moving the box horizontally.",
+      "hints": [
+        "Use W = F × d × cos(θ) when force is at an angle",
+        "Remember that cos(60°) = 0.5"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Work",
+        "Force Components",
+        "Trigonometry"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_kin_010",
+      "questionText": "Two cars A and B are 100 m apart. Car A starts from rest with acceleration 2 m/s². At the same instant, car B (ahead of A) starts moving away with constant velocity 10 m/s. When will car A catch up with car B?",
+      "questionType": "mcq",
+      "options": [
+        "5 seconds",
+        "10 seconds",
+        "15 seconds",
+        "20 seconds"
+      ],
+      "correctAnswer": "D",
+      "explanation": "For A to catch B, their positions must be equal. Position of A: sₐ = ½(2)t² = t². Position of B: s_b = 100 + 10t. Setting equal: t² = 100 + 10t, so t² - 10t - 100 = 0. Using the quadratic formula: t = (10 ± √(100 + 400)) / 2 = (10 ± √500) / 2 ≈ (10 + 22.36) / 2 ≈ 20 seconds (taking positive value).",
+      "hints": [
+        "Set up position equations for both cars",
+        "Car A catches B when their positions are equal"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Relative Motion",
+        "Equations of Motion",
+        "Quadratic Equations"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_grav_010",
+      "questionText": "A satellite is orbiting Earth at height h above the surface. If its orbital velocity is v, what is the relationship between v, g, R (Earth's radius), and h?",
+      "questionType": "mcq",
+      "options": [
+        "v = √(gR)",
+        "v = √(g(R+h))",
+        "v = √(gR²/(R+h))",
+        "v = √(2gR)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For a satellite in circular orbit, centripetal force equals gravitational force: mv²/(R+h) = GMm/(R+h)². Simplifying: v² = GM/(R+h). Since g = GM/R², we have GM = gR². Therefore: v² = gR²/(R+h), so v = √(gR²/(R+h)).",
+      "hints": [
+        "Set centripetal force equal to gravitational force",
+        "Express GM in terms of g and R using g = GM/R²"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Orbital Velocity",
+        "Satellite Motion",
+        "Circular Orbits"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

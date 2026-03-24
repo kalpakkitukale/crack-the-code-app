@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u6",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_6_001",
+      "term": "Hiawatha",
+      "definition": "A young Native American boy from the poem who grew up in a forest and learned the ways of birds and animals.",
+      "pronunciation": "hi-uh-WAH-thuh",
+      "exampleUsage": "Hiawatha learned the language of every bird in the forest.",
+      "difficulty": "medium",
+      "relatedTerms": ["Nokomis", "nature", "forest"]
+    },
+    {
+      "id": "gls_eng_6_002",
+      "term": "Nokomis",
+      "definition": "Hiawatha's old grandmother who raised him and taught him about the world around him.",
+      "pronunciation": "noh-KOH-mis",
+      "exampleUsage": "Old Nokomis told Hiawatha stories about the stars and the moon.",
+      "difficulty": "medium",
+      "relatedTerms": ["Hiawatha", "grandmother", "wisdom"]
+    },
+    {
+      "id": "gls_eng_6_003",
+      "term": "Mother Tongue",
+      "definition": "The first language that a person learns as a baby from their parents and family.",
+      "pronunciation": "MUH-ther TUNG",
+      "exampleUsage": "No matter how many languages you learn, your mother tongue is always special.",
+      "difficulty": "easy",
+      "relatedTerms": ["language", "first language", "native language"]
+    },
+    {
+      "id": "gls_eng_6_004",
+      "term": "Scholar",
+      "definition": "A person who has studied a lot and has great knowledge, especially about books and learning.",
+      "pronunciation": "SKOL-er",
+      "exampleUsage": "The scholar could speak many languages fluently.",
+      "difficulty": "easy",
+      "relatedTerms": ["learned", "pandit", "wise"]
+    },
+    {
+      "id": "gls_eng_6_005",
+      "term": "Pronoun",
+      "definition": "A word used in place of a noun to avoid repeating the same name. Examples: he, she, it, they, we, I, you.",
+      "pronunciation": "PRO-noun",
+      "exampleUsage": "Instead of saying 'Birbal was smart, Birbal solved the puzzle,' we say 'Birbal was smart, he solved the puzzle.'",
+      "difficulty": "easy",
+      "relatedTerms": ["noun", "he", "she", "it", "they"]
+    },
+    {
+      "id": "gls_eng_6_006",
+      "term": "Lodge",
+      "definition": "A shelter or home, especially one made by animals. In the poem, beavers build their lodges near water.",
+      "pronunciation": "LOJ",
+      "exampleUsage": "Hiawatha knew where the beavers built their lodges.",
+      "difficulty": "easy",
+      "relatedTerms": ["shelter", "home", "nest"]
+    },
+    {
+      "id": "gls_eng_6_007",
+      "term": "Courtier",
+      "definition": "A person who serves or attends a king or emperor in the royal court.",
+      "pronunciation": "KOR-tee-er",
+      "exampleUsage": "The courtiers in Akbar's court tried to find out the scholar's mother tongue.",
+      "difficulty": "medium",
+      "relatedTerms": ["court", "emperor", "Birbal"]
+    },
+    {
+      "id": "gls_eng_6_008",
+      "term": "Fluently",
+      "definition": "Speaking a language smoothly and easily, without stopping or making mistakes.",
+      "pronunciation": "FLOO-ent-lee",
+      "exampleUsage": "The pandit spoke every language so fluently that nobody could guess his mother tongue.",
+      "difficulty": "medium",
+      "relatedTerms": ["smoothly", "language", "speak"]
+    },
+    {
+      "id": "gls_eng_6_009",
+      "term": "Beast",
+      "definition": "An animal, especially a large or wild one. In the poem, Hiawatha learned the names of all the beasts.",
+      "pronunciation": "BEEST",
+      "exampleUsage": "Hiawatha knew the names of all the beasts in the forest.",
+      "difficulty": "easy",
+      "relatedTerms": ["animal", "creature", "wildlife"]
+    },
+    {
+      "id": "gls_eng_6_010",
+      "term": "Wisdom",
+      "definition": "The ability to think clearly and make good decisions. Being wise means knowing the right thing to do.",
+      "pronunciation": "WIZ-dum",
+      "exampleUsage": "Birbal used his wisdom to solve the puzzle that no one else could.",
+      "difficulty": "medium",
+      "relatedTerms": ["clever", "smart", "knowledge"]
+    }
+  ]
+}

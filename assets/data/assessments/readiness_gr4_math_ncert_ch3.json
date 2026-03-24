@@ -1,0 +1,295 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch3",
+  "topicId": "gr4_mn_3_1",
+  "topicName": "Repeating Patterns",
+  "chapterId": "gr4_math_ncert_ch3",
+  "chapterName": "Pattern Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about patterns (repeating, growing, number sequences, shape sequences, and pattern rules)",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "skip_counting",
+      "conceptName": "Skip counting by 2s, 5s, and 10s",
+      "importance": "critical",
+      "questionsTestingThis": ["rq3_1", "rq3_2", "rq3_3"],
+      "remedialVideoIds": ["prereq_ch3_counting_v1"]
+    },
+    {
+      "conceptId": "shape_recognition",
+      "conceptName": "Recognizing basic shapes (circle, square, triangle, rectangle)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq3_4", "rq3_5", "rq3_6"],
+      "remedialVideoIds": ["prereq_ch3_shapes_v1"]
+    },
+    {
+      "conceptId": "sequence_continuation",
+      "conceptName": "Continuing a simple sequence (what comes next)",
+      "importance": "important",
+      "questionsTestingThis": ["rq3_7", "rq3_8"],
+      "remedialVideoIds": ["prereq_ch3_sequence_v1"]
+    },
+    {
+      "conceptId": "color_pattern",
+      "conceptName": "Recognizing simple color and object alternation patterns",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq3_9", "rq3_10"],
+      "remedialVideoIds": ["prereq_ch3_sequence_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq3_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "skip_counting",
+      "question": "When we count by 2s, what number comes after 4, 6, 8, __?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": 1,
+      "correctAnswerText": "10",
+      "explanation": "When we skip count by 2s, we add 2 each time. 8 + 2 = 10. The pattern is 4, 6, 8, 10.",
+      "tags": ["skip counting", "counting by 2s"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted by 1 instead of 2",
+          "conceptGap": "Understanding skip counting vs regular counting",
+          "remediation": "Practice skip counting by 2s with a number line"
+        }
+      ]
+    },
+    {
+      "id": "rq3_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "skip_counting",
+      "question": "Fill in the missing number: 5, 10, 15, __, 25",
+      "options": ["16", "18", "20", "22"],
+      "correctAnswer": 2,
+      "correctAnswerText": "20",
+      "explanation": "We are counting by 5s. Each number is 5 more than the last. 15 + 5 = 20.",
+      "tags": ["skip counting", "counting by 5s"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 5",
+          "conceptGap": "Recognizing the skip count interval",
+          "remediation": "Practice counting by 5s using fingers or a hundreds chart"
+        }
+      ]
+    },
+    {
+      "id": "rq3_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "skip_counting",
+      "question": "When we count by 10s, what comes next: 30, 40, 50, __?",
+      "options": ["51", "55", "60", "70"],
+      "correctAnswer": 2,
+      "correctAnswerText": "60",
+      "explanation": "Counting by 10s means we add 10 each time. 50 + 10 = 60.",
+      "tags": ["skip counting", "counting by 10s"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq3_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "Which shape has 3 sides and 3 corners?",
+      "options": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Triangle",
+      "explanation": "A triangle has exactly 3 sides and 3 corners (vertices). 'Tri' means three!",
+      "tags": ["shapes", "triangle", "properties"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Confused square (4 sides) with triangle (3 sides)",
+          "conceptGap": "Distinguishing shapes by number of sides",
+          "remediation": "Count the sides of different shapes"
+        }
+      ]
+    },
+    {
+      "id": "rq3_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "Which shape has NO corners and NO straight sides?",
+      "options": ["Square", "Triangle", "Rectangle", "Circle"],
+      "correctAnswer": 3,
+      "correctAnswerText": "Circle",
+      "explanation": "A circle has no corners and no straight sides. It is perfectly round!",
+      "tags": ["shapes", "circle", "properties"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq3_6",
+      "questionNumber": 6,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "True or False: A rectangle always has 4 sides, with opposite sides being equal in length.",
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+      "explanation": "True! A rectangle has 4 sides, and its opposite sides are always equal in length.",
+      "tags": ["shapes", "rectangle", "properties"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq3_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "sequence_continuation",
+      "question": "Look at this pattern: 1, 2, 3, 1, 2, 3, 1, 2, __. What comes next?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 2,
+      "correctAnswerText": "3",
+      "explanation": "The pattern 1, 2, 3 keeps repeating. After 1, 2 the next number in the repeating group is 3.",
+      "tags": ["simple pattern", "repeating", "what comes next"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Thought the numbers keep increasing instead of repeating",
+          "conceptGap": "Understanding repeating vs growing patterns",
+          "remediation": "Circle the repeating group and say it out loud"
+        }
+      ]
+    },
+    {
+      "id": "rq3_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "sequence_continuation",
+      "question": "What number comes next in this pattern: 2, 4, 6, 8, __?",
+      "options": ["9", "10", "12", "16"],
+      "correctAnswer": 1,
+      "correctAnswerText": "10",
+      "explanation": "Each number is 2 more than the one before it. 8 + 2 = 10. This is a growing pattern where we add 2 each time.",
+      "tags": ["number pattern", "growing", "addition pattern"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 2",
+          "conceptGap": "Finding the correct rule of a growing pattern",
+          "remediation": "Look at how much each number grows from the one before"
+        }
+      ]
+    },
+    {
+      "id": "rq3_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "color_pattern",
+      "question": "In the pattern Red, Blue, Red, Blue, Red, __, what color comes next?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Blue",
+      "explanation": "This is an AB pattern: Red, Blue keeps repeating. After Red, the next color is Blue.",
+      "tags": ["color pattern", "AB pattern", "repeating"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq3_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "color_pattern",
+      "question": "In the pattern Circle, Circle, Square, Circle, Circle, Square, what is the repeating part?",
+      "options": ["Circle, Circle", "Circle, Square", "Circle, Circle, Square", "Square, Circle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Circle, Circle, Square",
+      "explanation": "The group 'Circle, Circle, Square' repeats over and over. This is an AAB pattern. Finding the repeating part is called finding the 'core' of the pattern.",
+      "tags": ["shape pattern", "core", "AAB pattern", "repeating part"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Only identified part of the core",
+          "conceptGap": "Understanding the full repeating unit in a pattern",
+          "remediation": "Mark where the pattern starts to repeat and check if it matches"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Fantastic! You already know a lot about patterns and sequences. You are ready to explore all kinds of amazing patterns!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Great job! You understand counting patterns and shapes well. Let's dive into the world of patterns!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some pattern basics, but let's review a few things first. Watch the review videos and you will be all set!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "No worries! Let's first watch some fun videos about counting, shapes, and simple patterns. Then you will be ready to learn about all the cool patterns around us!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We have some fun videos to help you get ready. Patterns are everywhere and you are going to love finding them!",
+    "high_score_praise": "Awesome! You are a pattern detective already! Let's discover even more patterns!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch8",
+  "topicId": "gr4_mn_8_1",
+  "topicName": "Weighing in Grams and Kilograms",
+  "chapterId": "gr4_math_ncert_ch8",
+  "chapterName": "Weigh it, Pour it",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about weight and capacity measurement",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "heavy_light",
+      "conceptName": "Comparing objects as heavy or light",
+      "importance": "critical",
+      "questionsTestingThis": ["rq8_1", "rq8_2", "rq8_3"],
+      "remedialVideoIds": ["prereq_ch8_heavylight_v1"]
+    },
+    {
+      "conceptId": "full_empty",
+      "conceptName": "Understanding full, empty, and half-full containers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq8_4", "rq8_5", "rq8_6"],
+      "remedialVideoIds": ["prereq_ch8_fullempty_v1"]
+    },
+    {
+      "conceptId": "multiplication_basics",
+      "conceptName": "Multiplication by 10, 100, and 1000",
+      "importance": "important",
+      "questionsTestingThis": ["rq8_7", "rq8_8"],
+      "remedialVideoIds": ["prereq_ch8_multiply_v1"]
+    },
+    {
+      "conceptId": "comparing_quantities",
+      "conceptName": "Comparing numbers and quantities using greater than, less than",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq8_9", "rq8_10"],
+      "remedialVideoIds": ["prereq_ch8_multiply_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq8_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "heavy_light",
+      "question": "Which of these is the heaviest?",
+      "options": ["A feather", "A book", "A watermelon", "A pencil"],
+      "correctAnswer": 2,
+      "correctAnswerText": "A watermelon",
+      "explanation": "A watermelon is much heavier than a feather, a book, or a pencil. You would need two hands to hold a watermelon!",
+      "tags": ["heavy", "light", "comparing weight"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq8_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "heavy_light",
+      "question": "Anu picks up a cotton ball in one hand and a stone in the other. Which hand feels heavier?",
+      "options": ["The hand with the cotton ball", "The hand with the stone", "Both feel the same", "Neither feels heavy"],
+      "correctAnswer": 1,
+      "correctAnswerText": "The hand with the stone",
+      "explanation": "A stone is much heavier than a cotton ball. The hand holding the stone will feel heavier and go down if you hold your hands like a balance.",
+      "tags": ["heavy", "light", "comparing weight"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq8_3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "heavy_light",
+      "question": "True or False: A big balloon filled with air is always heavier than a small iron nail.",
+      "correctAnswer": false,
+      "correctAnswerText": "False",
+      "explanation": "False! Even though the balloon is bigger, the iron nail is heavier. A big thing is not always heavier than a small thing. It depends on what the object is made of!",
+      "tags": ["heavy", "light", "size vs weight"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": true,
+          "mistake": "Thinks bigger always means heavier",
+          "conceptGap": "Confusing size with weight",
+          "remediation": "Show examples where a small heavy object outweighs a large light object"
+        }
+      ]
+    },
+    {
+      "id": "rq8_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "full_empty",
+      "question": "A glass is completely filled with water to the top. The glass is:",
+      "options": ["Empty", "Half full", "Full", "Overflowing"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Full",
+      "explanation": "When water reaches the very top of the glass, we say the glass is full. It cannot hold any more water!",
+      "tags": ["full", "empty", "capacity"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq8_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "full_empty",
+      "question": "Ravi has a big bucket and a small cup. Which one can hold more water?",
+      "options": ["The small cup", "The big bucket", "Both hold the same", "Cannot tell"],
+      "correctAnswer": 1,
+      "correctAnswerText": "The big bucket",
+      "explanation": "A big bucket can hold much more water than a small cup. The bucket has a greater capacity.",
+      "tags": ["capacity", "comparing containers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq8_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "full_empty",
+      "question": "Meena pours all the water from a full small bottle into a big empty jug. The jug will be:",
+      "options": ["Completely full", "Still empty", "Partly filled", "Overflowing"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Partly filled",
+      "explanation": "The small bottle holds less water than the big jug. So the water from the small bottle will only partly fill the big jug.",
+      "tags": ["capacity", "pouring", "comparing"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thinks pouring from a full container always fills the next one",
+          "conceptGap": "Does not consider container size differences",
+          "remediation": "Demonstrate pouring from a small container into a large one"
+        }
+      ]
+    },
+    {
+      "id": "rq8_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "multiplication_basics",
+      "question": "What is 5 x 1000?",
+      "options": ["500", "5000", "50000", "50"],
+      "correctAnswer": 1,
+      "correctAnswerText": "5000",
+      "explanation": "5 x 1000 = 5000. When you multiply by 1000, you add three zeros to the number. This will help you convert kilograms to grams!",
+      "tags": ["multiplication", "multiply by 1000"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added only two zeros instead of three",
+          "conceptGap": "Confusing multiplication by 100 and 1000",
+          "remediation": "Practice the pattern: x10 adds one zero, x100 adds two zeros, x1000 adds three zeros"
+        }
+      ]
+    },
+    {
+      "id": "rq8_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "multiplication_basics",
+      "question": "Anu bought 3 packets of sugar. Each packet weighs 2 kg. What is the total weight?",
+      "options": ["5 kg", "6 kg", "8 kg", "32 kg"],
+      "correctAnswer": 1,
+      "correctAnswerText": "6 kg",
+      "explanation": "3 packets with 2 kg each: 3 x 2 = 6 kg total. When you know multiplication, you can solve weight problems easily!",
+      "tags": ["multiplication", "word problem", "weight"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added instead of multiplied",
+          "conceptGap": "Confusing addition with multiplication in word problems",
+          "remediation": "Identify the key words: 'each' and 'total' usually mean multiply"
+        }
+      ]
+    },
+    {
+      "id": "rq8_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comparing_quantities",
+      "question": "Which is greater: 800 or 1000?",
+      "options": ["800", "1000", "Both are equal", "Cannot tell"],
+      "correctAnswer": 1,
+      "correctAnswerText": "1000",
+      "explanation": "1000 is greater than 800. Comparing numbers like this will help you compare weights and capacities later!",
+      "tags": ["comparing numbers", "greater than", "less than"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq8_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comparing_quantities",
+      "question": "Ravi has 500 marbles. Priya has 1200 marbles. How many more marbles does Priya have than Ravi?",
+      "options": ["500 marbles", "700 marbles", "1200 marbles", "1700 marbles"],
+      "correctAnswer": 1,
+      "correctAnswerText": "700 marbles",
+      "explanation": "To find how many more, we subtract: 1200 - 500 = 700. Priya has 700 more marbles. This kind of comparison will help you with weight and capacity problems!",
+      "tags": ["comparing quantities", "subtraction", "difference"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added instead of subtracted",
+          "conceptGap": "Does not recognise 'how many more' as subtraction",
+          "remediation": "Practice identifying key words: 'how many more' and 'difference' mean subtract"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You understand heavy and light, full and empty, and your multiplication is great. You are ready to learn about grams, kilograms, millilitres, and litres!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You know about heavy and light and can compare containers. Let's learn how to measure weight and capacity!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things about weight and capacity but need to review a few ideas. Watch the review videos first, then we will start measuring!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review comparing heavy and light, full and empty, and some multiplication. We will watch some fun videos about these topics before starting measurement.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We will show you some fun videos about weight and capacity first.",
+    "high_score_praise": "Awesome! You are all set to learn about weighing and pouring - grams, kilograms, millilitres, and litres!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

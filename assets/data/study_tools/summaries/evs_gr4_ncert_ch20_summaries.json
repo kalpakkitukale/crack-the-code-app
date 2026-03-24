@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch20",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_evn20_v1",
+      "videoId": "gr4_evn20_v1",
+      "content": "This lesson explores why eating together is special and important. Families in India have a tradition of sitting together for meals, especially dinner. It is a time when everyone shares food, talks about their day, and enjoys being together. The lesson discusses how different families have different mealtime customs - some eat sitting on the floor, some at a table, some use their hands, and some use spoons. Students learn that sharing food brings people closer and is a way of showing love and care.",
+      "keyPoints": [
+        "Eating together strengthens family bonds and creates happy memories",
+        "Different families have different ways of eating meals together",
+        "Sharing food is a way of showing love and care in Indian culture",
+        "Good table manners include washing hands and not wasting food"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn20_v2",
+      "videoId": "gr4_evn20_v2",
+      "content": "This lesson takes students on a food tour across India. Students discover that food varies from state to state based on what grows locally, the weather, and cultural traditions. South India is known for rice-based dishes like idli, dosa, and sambar. North India is famous for roti, dal, and paneer dishes. Coastal regions eat more fish and seafood. Rajasthan has unique dishes like dal-baati-churma. The lesson helps students appreciate India's wonderful food diversity.",
+      "keyPoints": [
+        "Every region of India has its own special food based on local crops and climate",
+        "South India is known for rice dishes while North India is known for wheat-based food",
+        "Coastal areas eat more fish and seafood",
+        "India's food diversity is one of the richest in the world"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn20_v3",
+      "videoId": "gr4_evn20_v3",
+      "content": "This lesson focuses on food during festivals and community gatherings. Students learn about special foods prepared during Diwali (laddoo, barfi), Eid (sewaiyan, biryani), Pongal (pongal dish), and Onam (sadhya feast on banana leaf). The lesson also introduces the concept of community meals like the langar at gurudwaras where free food is served to everyone equally. Students understand that food brings communities together and is an important part of Indian hospitality.",
+      "keyPoints": [
+        "Every Indian festival has its own special food and sweets",
+        "Langar at gurudwaras serves free food to all people equally",
+        "Community meals during weddings and festivals bring people together",
+        "Indian hospitality always includes offering food to guests"
+      ],
+      "source": "manual"
+    }
+  ]
+}

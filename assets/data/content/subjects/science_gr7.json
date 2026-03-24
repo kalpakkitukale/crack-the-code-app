@@ -1,0 +1,61 @@
+{
+  "id": "science_gr7",
+  "name": "Science",
+  "icon": "science",
+  "color": "#95E1D3",
+  "boardId": "cbse_elementary",
+  "classId": "class_7",
+  "streamId": "general",
+  "totalChapters": 4,
+  "keywords": ["science", "grade 7", "biology", "physics"],
+  "chapters": [
+    {
+      "id": "gr7_sci_ch1",
+      "number": 1,
+      "name": "Nutrition in Plants",
+      "description": "How plants make and get food",
+      "keywords": ["nutrition", "plants", "photosynthesis"],
+      "topics": [
+        {"id": "gr7_s_1_1", "name": "Photosynthesis", "difficulty": "intermediate", "videoCount": 4, "keywords": ["photosynthesis", "chlorophyll"]},
+        {"id": "gr7_s_1_2", "name": "Plant Nutrients", "difficulty": "basic", "videoCount": 4, "keywords": ["nutrients", "minerals"]},
+        {"id": "gr7_s_1_3", "name": "Modes of Nutrition", "difficulty": "intermediate", "videoCount": 3, "keywords": ["autotrophs", "heterotrophs"]}
+      ]
+    },
+    {
+      "id": "gr7_sci_ch2",
+      "number": 2,
+      "name": "Nutrition in Animals",
+      "description": "Digestion and nutrition in animals",
+      "keywords": ["nutrition", "animals", "digestion"],
+      "topics": [
+        {"id": "gr7_s_2_1", "name": "Digestion in Humans", "difficulty": "intermediate", "videoCount": 4, "keywords": ["digestion", "human body"]},
+        {"id": "gr7_s_2_2", "name": "Digestive System", "difficulty": "intermediate", "videoCount": 4, "keywords": ["stomach", "intestine"]},
+        {"id": "gr7_s_2_3", "name": "Digestion in Animals", "difficulty": "intermediate", "videoCount": 3, "keywords": ["ruminants", "amoeba"]}
+      ]
+    },
+    {
+      "id": "gr7_sci_ch3",
+      "number": 3,
+      "name": "Heat",
+      "description": "Heat transfer and temperature",
+      "keywords": ["heat", "temperature", "transfer"],
+      "topics": [
+        {"id": "gr7_s_3_1", "name": "Hot and Cold", "difficulty": "basic", "videoCount": 3, "keywords": ["temperature", "thermometer"]},
+        {"id": "gr7_s_3_2", "name": "Heat Transfer", "difficulty": "intermediate", "videoCount": 4, "keywords": ["conduction", "convection"]},
+        {"id": "gr7_s_3_3", "name": "Conductors and Insulators", "difficulty": "intermediate", "videoCount": 4, "keywords": ["conductors", "insulators"]}
+      ]
+    },
+    {
+      "id": "gr7_sci_ch4",
+      "number": 4,
+      "name": "Acids, Bases, and Salts",
+      "description": "Introduction to acids and bases",
+      "keywords": ["acids", "bases", "salts", "chemistry"],
+      "topics": [
+        {"id": "gr7_s_4_1", "name": "Acids and Bases", "difficulty": "intermediate", "videoCount": 4, "keywords": ["acids", "bases", "indicators"]},
+        {"id": "gr7_s_4_2", "name": "Neutralization", "difficulty": "intermediate", "videoCount": 3, "keywords": ["neutralization", "reaction"]},
+        {"id": "gr7_s_4_3", "name": "Salts", "difficulty": "intermediate", "videoCount": 3, "keywords": ["salts", "formation"]}
+      ]
+    }
+  ]
+}

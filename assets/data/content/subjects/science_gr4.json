@@ -1,0 +1,49 @@
+{
+  "id": "science_gr4",
+  "name": "Science",
+  "icon": "science",
+  "color": "#95E1D3",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["science", "grade 4", "nature", "living things"],
+  "chapters": [
+    {
+      "id": "gr4_sci_ch1",
+      "number": 1,
+      "name": "Living Things",
+      "description": "Characteristics of living things",
+      "keywords": ["living", "plants", "animals"],
+      "topics": [
+        {"id": "gr4_s_1_1", "name": "Plants", "difficulty": "basic", "videoCount": 5, "keywords": ["plants"]},
+        {"id": "gr4_s_1_2", "name": "Animals", "difficulty": "basic", "videoCount": 5, "keywords": ["animals"]},
+        {"id": "gr4_s_1_3", "name": "Habitats", "difficulty": "basic", "videoCount": 4, "keywords": ["habitats"]}
+      ]
+    },
+    {
+      "id": "gr4_sci_ch2",
+      "number": 2,
+      "name": "Food and Nutrition",
+      "description": "Food groups and healthy eating",
+      "keywords": ["food", "nutrition", "health"],
+      "topics": [
+        {"id": "gr4_s_2_1", "name": "Food Groups", "difficulty": "basic", "videoCount": 4, "keywords": ["food groups"]},
+        {"id": "gr4_s_2_2", "name": "Healthy Eating", "difficulty": "basic", "videoCount": 4, "keywords": ["healthy eating"]},
+        {"id": "gr4_s_2_3", "name": "Digestion", "difficulty": "intermediate", "videoCount": 4, "keywords": ["digestion"]}
+      ]
+    },
+    {
+      "id": "gr4_sci_ch3",
+      "number": 3,
+      "name": "Matter and Materials",
+      "description": "States of matter and their properties",
+      "keywords": ["matter", "solids", "liquids", "gases"],
+      "topics": [
+        {"id": "gr4_s_3_1", "name": "Solids", "difficulty": "basic", "videoCount": 4, "keywords": ["solids"]},
+        {"id": "gr4_s_3_2", "name": "Liquids", "difficulty": "basic", "videoCount": 4, "keywords": ["liquids"]},
+        {"id": "gr4_s_3_3", "name": "Gases", "difficulty": "basic", "videoCount": 4, "keywords": ["gases"]}
+      ]
+    }
+  ]
+}

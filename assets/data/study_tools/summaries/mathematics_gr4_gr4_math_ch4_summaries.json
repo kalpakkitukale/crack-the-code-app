@@ -1,0 +1,67 @@
+{
+  "chapterId": "gr4_math_ch4",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_m4_v1",
+      "videoId": "gr4_m4_v1",
+      "content": "This lesson introduces fractions as parts of a whole. When you cut something into equal pieces, each piece is a fraction. The top number (numerator) tells how many pieces you have, and the bottom number (denominator) tells how many equal pieces the whole was divided into. For example, if a cake is cut into 4 equal slices and you take 1 slice, you have 1/4 of the cake.",
+      "keyPoints": [
+        "A fraction represents a part of a whole",
+        "The numerator (top) tells how many parts you have",
+        "The denominator (bottom) tells total equal parts",
+        "The whole must be divided into equal parts for fractions to work"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m4_v2",
+      "videoId": "gr4_m4_v2",
+      "content": "This lesson explores unit fractions and how to read fractions. A unit fraction has 1 as the numerator, like 1/2, 1/3, or 1/4. We learn that as the denominator gets bigger, the fraction gets smaller because the whole is cut into more pieces, making each piece tinier. For example, 1/8 of a pizza is smaller than 1/4 of the same pizza.",
+      "keyPoints": [
+        "Unit fractions have 1 as the numerator",
+        "Bigger denominator means smaller pieces",
+        "1/2 is bigger than 1/3, which is bigger than 1/4",
+        "Fractions are everywhere in daily life"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m4_v3",
+      "videoId": "gr4_m4_v3",
+      "content": "This lesson teaches equivalent fractions - fractions that look different but mean the same thing. Imagine cutting a sandwich in half (1/2) and then cutting each half again to get 4 pieces. Now 2 out of 4 pieces (2/4) is the same amount as 1 out of 2 (1/2). To find equivalent fractions, multiply or divide both the numerator and denominator by the same number.",
+      "keyPoints": [
+        "Equivalent fractions show the same amount",
+        "Multiply both top and bottom by the same number",
+        "Divide both top and bottom to simplify",
+        "Example: 1/2 = 2/4 = 3/6 = 4/8"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m4_v4",
+      "videoId": "gr4_m4_v4",
+      "content": "This lesson covers adding fractions that have the same denominator (called like fractions). When the denominators are the same, simply add the numerators and keep the denominator unchanged. Think of it like counting slices of the same pizza. If you have 2 slices out of 6 and your friend gives you 1 more slice, you now have 3/6, which simplifies to 1/2.",
+      "keyPoints": [
+        "Only add fractions with the same denominator",
+        "Add the numerators (top numbers) together",
+        "Keep the denominator (bottom number) the same",
+        "Simplify the answer if possible"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m4_v5",
+      "videoId": "gr4_m4_v5",
+      "content": "This lesson brings fractions to life with real-world examples. Fractions are used when sharing food equally, telling time (a quarter past, half past), measuring ingredients for cooking (1/2 cup, 1/4 teaspoon), and in sports. Students see how fractions connect to their everyday lives and practise identifying fractions in real situations.",
+      "keyPoints": [
+        "Fractions are used in cooking and recipes",
+        "Clock times use fractions: quarter, half",
+        "Sharing equally uses fractions",
+        "Understanding fractions helps in everyday life"
+      ],
+      "source": "manual"
+    }
+  ]
+}

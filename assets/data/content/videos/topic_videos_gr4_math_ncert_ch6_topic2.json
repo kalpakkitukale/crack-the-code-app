@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn6_t2",
+  "topicId": "gr4_mn_6_2",
+  "topicName": "Conversion Between Units",
+  "chapterId": "gr4_math_ncert_ch6",
+  "chapterName": "Measuring Length",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2460,
+    "totalDurationDisplay": "41:00",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_6_1"],
+    "followUpTopics": ["gr4_mn_6_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn6_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Converting Centimetres to Metres | Length Conversion Made Easy",
+      "description": "Learn how to convert centimetres to metres and metres to centimetres. Remember: 1 metre = 100 centimetres. Practise with step-by-step examples!",
+      "youtubeId": "pL3N5aJmyLw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pL3N5aJmyLw",
+      "thumbnailUrl": "https://img.youtube.com/vi/pL3N5aJmyLw/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2100000,
+      "tags": ["cm to m", "conversion", "centimetres to metres", "length conversion"],
+      "learningObjectives": ["Convert centimetres to metres", "Convert metres to centimetres", "Understand 1 m = 100 cm"],
+      "keyConceptsCovered": ["1 metre = 100 centimetres", "Dividing by 100 to convert cm to m", "Multiplying by 100 to convert m to cm"],
+      "prerequisites": ["Understanding units of length"],
+      "followUpTopics": ["Metres to kilometres conversion"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v4",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Metres to Kilometres | Converting Bigger Units of Length",
+      "description": "Learn how to convert metres to kilometres and kilometres to metres. Remember: 1 kilometre = 1000 metres. Great examples with roads and distances!",
+      "youtubeId": "FwE9XnR2bHQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FwE9XnR2bHQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/FwE9XnR2bHQ/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 890000,
+      "tags": ["m to km", "metres to kilometres", "conversion", "distance"],
+      "learningObjectives": ["Convert metres to kilometres", "Convert kilometres to metres", "Understand 1 km = 1000 m"],
+      "keyConceptsCovered": ["1 kilometre = 1000 metres", "Dividing by 1000 to convert m to km", "Multiplying by 1000 to convert km to m"],
+      "prerequisites": ["cm to m conversion"],
+      "followUpTopics": ["Comparing lengths in different units"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v1",
+      "sequenceNumber": 3,
+      "type": "practice",
+      "importance": "must_watch",
+      "title": "Units of Length | Centimetres, Metres, and Kilometres for Kids",
+      "description": "Learn about the three main units of length: centimetres (cm), metres (m), and kilometres (km). Discover when to use each unit with fun everyday examples!",
+      "youtubeId": "TkH6MsBq_G4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TkH6MsBq_G4",
+      "thumbnailUrl": "https://img.youtube.com/vi/TkH6MsBq_G4/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1850000,
+      "tags": ["units of length", "centimetre", "metre", "kilometre", "review"],
+      "learningObjectives": ["Review units of length", "Practice choosing the right unit", "Reinforce conversion relationships"],
+      "keyConceptsCovered": ["When to use cm, m, or km", "Relationship between units", "Everyday examples of each unit"],
+      "prerequisites": ["Understanding of cm, m, km"],
+      "followUpTopics": ["Estimating lengths"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch6_addition_v1",
+      "sequenceNumber": 4,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Adding and Subtracting Bigger Numbers | Addition and Subtraction Review",
+      "description": "Review adding and subtracting numbers up to 1000. You need these skills to solve length problems where you add or subtract measurements!",
+      "youtubeId": "mTPXSmgkR3c",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mTPXSmgkR3c",
+      "thumbnailUrl": "https://img.youtube.com/vi/mTPXSmgkR3c/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2300000,
+      "tags": ["addition", "subtraction", "bigger numbers", "arithmetic review"],
+      "learningObjectives": ["Add and subtract for conversion problems", "Work with numbers up to 1000", "Apply arithmetic to measurement"],
+      "keyConceptsCovered": ["Multi-digit addition", "Multi-digit subtraction with borrowing", "Arithmetic in measurement context"],
+      "prerequisites": ["Basic addition and subtraction"],
+      "followUpTopics": ["Length word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v6",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Length Word Problems | Solving Measurement Problems Step by Step",
+      "description": "Solve fun word problems about measuring length! Learn how to add, subtract, and compare lengths in real-life situations like measuring cloth and roads.",
+      "youtubeId": "nJ4zRe7KXPA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nJ4zRe7KXPA",
+      "thumbnailUrl": "https://img.youtube.com/vi/nJ4zRe7KXPA/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 740000,
+      "tags": ["word problems", "conversion practice", "challenge"],
+      "learningObjectives": ["Apply conversions to word problems", "Convert units within a problem", "Solve multi-step length problems"],
+      "keyConceptsCovered": ["Converting before adding or subtracting", "Choosing the right unit for the answer", "Checking if units match"],
+      "prerequisites": ["cm to m and m to km conversion"],
+      "followUpTopics": ["Advanced measurement problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn6_v3", "gr4_mn6_v4", "gr4_mn6_v6"],
+      "totalVideos": 3,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Core conversion videos plus challenge word problems for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn6_v3", "gr4_mn6_v4", "gr4_mn6_v1", "gr4_mn6_v6"],
+      "totalVideos": 4,
+      "estimatedTime": 1980,
+      "estimatedTimeDisplay": "33:00",
+      "rationale": "Complete conversion coverage with units review and application"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn6_v1", "prereq_ch6_addition_v1", "gr4_mn6_v3", "gr4_mn6_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1950,
+      "estimatedTimeDisplay": "32:30",
+      "rationale": "Units review and arithmetic refresher first, then conversion"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn6_v3", "gr4_mn6_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 1050,
+      "estimatedTimeDisplay": "17:30",
+      "rationale": "Essential conversion concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn6_v4",
+      "checkpointName": "Length Conversion Mastery Check",
+      "questions": [
+        {
+          "question": "How many centimetres are in 3 metres?",
+          "options": ["30 cm", "300 cm", "3000 cm", "33 cm"],
+          "correctAnswer": 1,
+          "explanation": "1 metre = 100 cm, so 3 metres = 3 x 100 = 300 cm."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use a conversion chart on the board: 1 km = 1000 m, 1 m = 100 cm. Let students practise converting real measurements of classroom objects.",
+    "parentGuidance": "Help your child practise conversions at home. Measure things in cm and then convert to m together. Talk about distances in km when travelling.",
+    "studentGuidance": "Remember these two facts: 1 metre = 100 centimetres and 1 kilometre = 1000 metres. Once you know these, you can convert any length!"
+  }
+}

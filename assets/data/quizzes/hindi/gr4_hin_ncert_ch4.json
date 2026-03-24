@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_hin_ncert_ch4",
+    "level": "chapter",
+    "entityId": "gr4_hin_ncert_ch4",
+    "title": "पापा जब बच्चे थे - पाठ 4 प्रश्नोत्तरी",
+    "questionIds": ["q_pb_001", "q_pb_002", "q_pb_003", "q_pb_004", "q_pb_005", "q_pb_006", "q_pb_007", "q_pb_008", "q_pb_009", "q_pb_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_pb_001",
+      "questionText": "यह कहानी किसके बचपन के बारे में है?",
+      "questionType": "mcq",
+      "options": ["माँ के", "पापा के", "दादी के", "चाचा के"],
+      "correctAnswer": "B",
+      "explanation": "यह कहानी पापा के बचपन के बारे में है - जब पापा छोटे बच्चे थे।",
+      "hints": ["शीर्षक में कौन है?"],
+      "difficulty": "basic",
+      "conceptTags": ["कहानी", "बचपन", "पापा"],
+      "topicIds": ["gr4_hi_4_1"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_002",
+      "questionText": "'बचपन' का अर्थ क्या है?",
+      "questionType": "mcq",
+      "options": ["बुढ़ापा", "जवानी", "छोटी उम्र/बच्चे होने का समय", "शादी का समय"],
+      "correctAnswer": "C",
+      "explanation": "'बचपन' का अर्थ है बच्चे होने का समय - जब हम छोटे होते हैं।",
+      "hints": ["बच्चे + पन"],
+      "difficulty": "basic",
+      "conceptTags": ["शब्दार्थ", "बचपन"],
+      "topicIds": ["gr4_hi_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_003",
+      "questionText": "बचपन की यादें क्यों अच्छी लगती हैं?",
+      "questionType": "mcq",
+      "options": ["क्योंकि हम रोते थे", "क्योंकि बेफ़िक्र और खुशी का समय था", "क्योंकि स्कूल कठिन था", "क्योंकि डर लगता था"],
+      "correctAnswer": "B",
+      "explanation": "बचपन की यादें अच्छी लगती हैं क्योंकि वह बेफ़िक्री का, खेलने का, और खुशियों का समय था।",
+      "hints": ["बचपन में हम कैसा महसूस करते थे?"],
+      "difficulty": "basic",
+      "conceptTags": ["जीवन", "यादें", "बचपन"],
+      "topicIds": ["gr4_hi_4_1"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_004",
+      "questionText": "'थे' शब्द किस काल का है?",
+      "questionType": "mcq",
+      "options": ["वर्तमान काल", "भूतकाल", "भविष्य काल", "संदेह काल"],
+      "correctAnswer": "B",
+      "explanation": "'थे' भूतकाल (past tense) का शब्द है। 'पापा बच्चे थे' - पहले का समय।",
+      "hints": ["जब बात पुरानी हो"],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "काल", "भूतकाल"],
+      "topicIds": ["gr4_hi_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_005",
+      "questionText": "सही या गलत: सभी बड़े कभी बच्चे थे।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "A",
+      "explanation": "सही! हर बड़ा व्यक्ति पहले बच्चा था। पापा, माँ, दादा-दादी सब बच्चे थे।",
+      "hints": ["क्या कोई सीधे बड़ा पैदा होता है?"],
+      "difficulty": "basic",
+      "conceptTags": ["जीवन चक्र", "बचपन"],
+      "topicIds": ["gr4_hi_4_1"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_006",
+      "questionText": "'याद' का बहुवचन क्या है?",
+      "questionType": "mcq",
+      "options": ["यादें", "याद", "यादी", "यादों"],
+      "correctAnswer": "A",
+      "explanation": "'याद' का बहुवचन 'यादें' है। एक याद, बहुत सारी यादें।",
+      "hints": ["स्त्रीलिंग शब्द में 'ें' जुड़ता है"],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "वचन"],
+      "topicIds": ["gr4_hi_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_007",
+      "questionText": "पापा के बचपन में क्या अलग था?",
+      "questionType": "mcq",
+      "options": ["मोबाइल और टीवी नहीं थे", "खाना नहीं था", "स्कूल नहीं थे", "पेड़ नहीं थे"],
+      "correctAnswer": "A",
+      "explanation": "पापा के बचपन में मोबाइल, टीवी, वीडियो गेम नहीं थे। बच्चे बाहर खेलते थे।",
+      "hints": ["तकनीक बाद में आई"],
+      "difficulty": "intermediate",
+      "conceptTags": ["समय", "बदलाव", "तकनीक"],
+      "topicIds": ["gr4_hi_4_1"],
+      "points": 2
+    },
+    {
+      "id": "q_pb_008",
+      "questionText": "'बच्चा' का स्त्रीलिंग क्या है?",
+      "questionType": "mcq",
+      "options": ["बच्ची", "बच्चे", "बचपन", "बालक"],
+      "correctAnswer": "A",
+      "explanation": "'बच्चा' (लड़का) का स्त्रीलिंग 'बच्ची' (लड़की) है।",
+      "hints": ["लड़के के लिए बच्चा, लड़की के लिए?"],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "लिंग"],
+      "topicIds": ["gr4_hi_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_pb_009",
+      "questionText": "कहानी से क्या सीख मिलती है?",
+      "questionType": "mcq",
+      "options": ["बड़ों की बातें न सुनें", "बड़ों की यादें जानना दिलचस्प है", "बचपन बेकार था", "पुराना ज़माना बुरा था"],
+      "correctAnswer": "B",
+      "explanation": "बड़ों की बचपन की यादें सुनना दिलचस्प है। इससे हम पुराने समय के बारे में जानते हैं।",
+      "hints": ["कहानी का मुख्य संदेश क्या है?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["नैतिक शिक्षा", "परिवार"],
+      "topicIds": ["gr4_hi_4_1"],
+      "points": 2
+    },
+    {
+      "id": "q_pb_010",
+      "questionText": "'पापा' के लिए और कौन सा शब्द इस्तेमाल होता है?",
+      "questionType": "mcq",
+      "options": ["माता", "पिता", "बहन", "भाई"],
+      "correctAnswer": "B",
+      "explanation": "'पापा' को 'पिता' भी कहते हैं। दोनों शब्द पिता के लिए हैं।",
+      "hints": ["औपचारिक शब्द क्या है?"],
+      "difficulty": "basic",
+      "conceptTags": ["शब्दार्थ", "परिवार"],
+      "topicIds": ["gr4_hi_4_2"],
+      "points": 1
+    }
+  ]
+}

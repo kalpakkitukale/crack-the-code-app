@@ -1,0 +1,177 @@
+{
+  "chapterId": "gr4_evs_ncert_ch15",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "From Market to Home",
+      "description": "Markets, buying, and selling",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_types",
+      "label": "Types of Markets",
+      "description": "Different kinds of markets in India",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_haat",
+      "label": "Weekly Market (Haat)",
+      "description": "Temporary market on a fixed day",
+      "parentId": "node_types",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_shops",
+      "label": "Local Shops",
+      "description": "Kirana and neighbourhood shops",
+      "parentId": "node_types",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_mall",
+      "label": "Malls & Supermarkets",
+      "description": "Big stores with fixed prices",
+      "parentId": "node_types",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_mandi",
+      "label": "Wholesale Mandi",
+      "description": "Bulk buying for shopkeepers",
+      "parentId": "node_types",
+      "positionX": -250,
+      "positionY": 260,
+      "color": "#8BC34A",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_journey",
+      "label": "Farm to Home Journey",
+      "description": "How goods reach us",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_farmer",
+      "label": "Farmer Grows",
+      "description": "Crops grown on the farm",
+      "parentId": "node_journey",
+      "positionX": -75,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_trader",
+      "label": "Trader Buys",
+      "description": "Middlemen buy from farmers",
+      "parentId": "node_journey",
+      "positionX": 0,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_shopkeeper",
+      "label": "Shopkeeper Sells",
+      "description": "Items reach local shops",
+      "parentId": "node_journey",
+      "positionX": 75,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_smart",
+      "label": "Smart Shopping",
+      "description": "Being a wise buyer",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_mrp",
+      "label": "Check MRP",
+      "description": "Maximum Retail Price on package",
+      "parentId": "node_smart",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_expiry",
+      "label": "Check Expiry Date",
+      "description": "Food safety and freshness",
+      "parentId": "node_smart",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_list",
+      "label": "Shopping List",
+      "description": "Plan before you shop",
+      "parentId": "node_smart",
+      "positionX": 250,
+      "positionY": 260,
+      "color": "#03A9F4",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_environment",
+      "label": "Eco-Friendly Shopping",
+      "description": "Caring for the environment",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 320,
+      "color": "#9C27B0",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_cloth_bag",
+      "label": "Carry Cloth Bags",
+      "description": "Say no to plastic bags",
+      "parentId": "node_environment",
+      "positionX": -50,
+      "positionY": 400,
+      "color": "#BA68C8",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_bargaining",
+      "label": "Bargaining",
+      "description": "Negotiating prices at markets",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 320,
+      "color": "#E91E63",
+      "orderIndex": 16
+    }
+  ]
+}

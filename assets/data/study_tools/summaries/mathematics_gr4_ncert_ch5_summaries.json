@@ -1,0 +1,59 @@
+{
+  "chapterId": "gr4_math_ncert_ch5",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn5_v1",
+      "videoId": "gr4_mn5_v1",
+      "content": "This lesson introduces division as equal sharing. Students learn that when we share things equally, everyone gets the same amount. For example, if 12 rotis are shared among 4 people, each person gets 3 rotis. Students practise sharing objects like sweets, pencils, and fruits among friends and learn to write this as a division sentence using the ÷ symbol.",
+      "keyPoints": [
+        "Division means splitting a total into equal groups",
+        "Equal sharing gives the same amount to each person",
+        "The ÷ symbol is used to write division",
+        "12 ÷ 4 = 3 means 12 shared among 4 gives 3 each",
+        "You can share by giving one item at a time to each person"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn5_v2",
+      "videoId": "gr4_mn5_v2",
+      "content": "This lesson teaches division facts and how they connect to multiplication tables. If students know that 5 x 7 = 35, they can figure out that 35 ÷ 5 = 7 and 35 ÷ 7 = 5. Students learn the names of the parts of a division problem: dividend, divisor, and quotient. They also learn about remainders — what is left over when things cannot be shared perfectly equally.",
+      "keyPoints": [
+        "Every multiplication fact gives two division facts",
+        "The dividend is the total, the divisor is the number of groups, the quotient is the answer",
+        "A remainder is what is left over after equal sharing",
+        "The remainder is always smaller than the divisor",
+        "You can use multiplication tables to find division answers quickly"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn5_v3",
+      "videoId": "gr4_mn5_v3",
+      "content": "This lesson explores division through measurement and real-life sharing. Students solve problems like cutting a ribbon into equal pieces, packing items into bags, and sharing milk among families. They learn the difference between 'sharing' (dividing into a given number of groups) and 'grouping' (making groups of a given size). Students also learn to check their division answer using multiplication.",
+      "keyPoints": [
+        "Division is used in measuring — cutting lengths, sharing weights, and dividing quantities",
+        "Sharing: You know how many groups, you find the size of each group",
+        "Grouping: You know the size of each group, you find how many groups",
+        "To check division, multiply the quotient by the divisor to get the dividend",
+        "If there is a remainder: (quotient x divisor) + remainder = dividend"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn5_v4",
+      "videoId": "gr4_mn5_v4",
+      "content": "This lesson brings together all the ideas about sharing and measuring with division. Students practise special division rules: dividing by 1 gives the same number, dividing a number by itself gives 1, and 0 divided by any number is 0. They solve real-world word problems involving fair sharing in school, at home, and in the market, building confidence with division in everyday life.",
+      "keyPoints": [
+        "Any number ÷ 1 = the number itself",
+        "Any number ÷ itself = 1",
+        "0 ÷ any number = 0",
+        "Division helps solve real-world problems about fair sharing",
+        "Always check your division answer using multiplication"
+      ],
+      "source": "manual"
+    }
+  ]
+}

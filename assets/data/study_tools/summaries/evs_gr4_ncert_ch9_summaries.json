@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch9",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en9_v1",
+      "videoId": "gr4_en9_v1",
+      "content": "This lesson introduces the concept that families are not fixed - they change over time. A family that was small can become big when a baby is born or when someone gets married. A large joint family can become smaller when children grow up and move to different cities. Students look at their own family photographs from different years and see how the number of people has changed. The lesson helps students understand that change is a natural part of life.",
+      "keyPoints": [
+        "Families are always changing - they grow bigger and sometimes smaller",
+        "Births, marriages, and moving away all change family size",
+        "Change is a natural part of life for every family",
+        "Family photographs show how families have changed over the years"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en9_v2",
+      "videoId": "gr4_en9_v2",
+      "content": "This lesson explores the different types of families in India. Some families are joint families with many members living together. Some are nuclear families with just parents and children. Some children live with single parents or with grandparents. Some families have adopted children. The lesson teaches that no matter what shape a family takes, what matters most is love, care, and support. Every family is special in its own way.",
+      "keyPoints": [
+        "Families come in many different types and sizes",
+        "Joint, nuclear, single-parent, and extended families all exist",
+        "Adoption brings children into loving families",
+        "Love and care make a family, not just blood relations"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en9_v3",
+      "videoId": "gr4_en9_v3",
+      "content": "This lesson compares families of the past with families of today. In our grandparents' time, most families were large joint families living together. Children had many brothers, sisters, and cousins to play with. Today, families are often smaller and family members may live in different cities or even different countries. The lesson shows how changes in work, education, and lifestyle have affected family structures. However, family values like respect, sharing, and caring remain the same across generations.",
+      "keyPoints": [
+        "Families in the past were usually larger joint families",
+        "Work, education, and lifestyle changes have made families smaller",
+        "Family members now often live in different cities or countries",
+        "Core family values remain the same despite structural changes"
+      ],
+      "source": "manual"
+    }
+  ]
+}

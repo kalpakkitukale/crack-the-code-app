@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn2_t1",
+  "topicId": "gr4_mn_2_1",
+  "topicName": "Top, Side and Front Views",
+  "chapterId": "gr4_math_ncert_ch2",
+  "chapterName": "Hide and Seek",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1650,
+    "totalDurationDisplay": "27:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-40 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_2_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn2_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Top View, Side View & Front View of Objects | 3D Shapes for Kids",
+      "description": "Learn how everyday objects look different from the top, side, and front. Discover that a cup looks like a circle from above but like a rectangle from the side!",
+      "youtubeId": "zPZegz690Mg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zPZegz690Mg",
+      "thumbnailUrl": "https://img.youtube.com/vi/zPZegz690Mg/hqdefault.jpg",
+      "duration": 312,
+      "durationDisplay": "5:12",
+      "channelName": "NUMBEROCK",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 620000,
+      "tags": ["top view", "side view", "front view", "3D shapes"],
+      "learningObjectives": ["Understand what top, side, and front views mean", "Identify different views of common objects"],
+      "keyConceptsCovered": ["Top view = bird's eye view", "Side view = looking from the side", "Front view = looking straight at the object"],
+      "prerequisites": ["Basic shape knowledge"],
+      "followUpTopics": ["Views of 3D shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Different Views of 3D Shapes | How Objects Look from Different Angles",
+      "description": "Explore how 3D shapes like cubes, cylinders, cones, and pyramids look different depending on whether you view them from the top, side, or front.",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["3D shapes", "views", "angles", "geometry"],
+      "learningObjectives": ["Match 3D shapes to their different views", "Draw views of simple 3D shapes"],
+      "keyConceptsCovered": ["Cube: square from all views", "Cylinder: circle from top, rectangle from side", "Cone: circle from top, triangle from side"],
+      "prerequisites": ["Top/side/front view concept"],
+      "followUpTopics": ["Views of real-life objects"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t1_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Where Are You Hiding? | Seeing Objects from Different Positions",
+      "description": "Practice identifying which view of an object is shown. Is it the top view, side view, or front view? Play the guessing game!",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 620000,
+      "tags": ["views", "guessing game", "objects", "perspectives"],
+      "learningObjectives": ["Identify views of real-life objects", "Relate 2D shapes to 3D views"],
+      "keyConceptsCovered": ["Book: rectangle from top and front", "Glass: circle from top, rectangle from side"],
+      "prerequisites": ["Views of 3D shapes"],
+      "followUpTopics": ["Grid positions"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t1_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Practice: Match the View to the Object | Fun Quiz",
+      "description": "Test yourself! Can you match each view (top, side, front) to the correct object? A fun quiz-style video to check your understanding.",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 5000000,
+      "tags": ["practice", "quiz", "views", "matching"],
+      "learningObjectives": ["Consolidate understanding of views", "Identify views quickly and accurately"],
+      "keyConceptsCovered": ["Matching views to objects", "Multiple examples practice"],
+      "prerequisites": ["All views concepts"],
+      "followUpTopics": ["Grid positions"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t1_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Drawing Top, Side, and Front Views | Let's Draw Together",
+      "description": "Learn to draw the top view, side view, and front view of simple objects like a bottle, a box, and a ball. Grab your pencil and draw along!",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 288,
+      "durationDisplay": "4:48",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+      "tags": ["drawing", "views", "practice", "hands-on"],
+      "learningObjectives": ["Draw views of simple objects", "Apply views concept creatively"],
+      "keyConceptsCovered": ["Drawing top view as bird's eye view", "Drawing side and front views accurately"],
+      "prerequisites": ["Understanding views"],
+      "followUpTopics": ["Grid positions"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn2_v1", "gr4_mn2_v2", "gr4_mn2_t1_v3", "gr4_mn2_t1_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1290,
+      "estimatedTimeDisplay": "21:30",
+      "rationale": "Fast-track through views with drawing challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn2_v1", "gr4_mn2_v2", "gr4_mn2_t1_v3", "gr4_mn2_t1_v4", "gr4_mn2_t1_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1650,
+      "estimatedTimeDisplay": "27:30",
+      "rationale": "Complete coverage of views with practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn2_v1", "gr4_mn2_v2", "gr4_mn2_t1_v3", "gr4_mn2_t1_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1362,
+      "estimatedTimeDisplay": "22:42",
+      "rationale": "Core views concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn2_v1", "gr4_mn2_v2", "gr4_mn2_t1_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1002,
+      "estimatedTimeDisplay": "16:42",
+      "rationale": "Essential views content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn2_v2",
+      "checkpointName": "Views of 3D Shapes Check",
+      "questions": [
+        {
+          "question": "When you look at a cylinder (like a tin can) from the top, what shape do you see?",
+          "options": ["Rectangle", "Square", "Circle", "Triangle"],
+          "correctAnswer": 2,
+          "explanation": "A cylinder looks like a circle when viewed from the top because its top face is circular."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Bring real objects to class (cups, boxes, balls) and let students observe them from different positions. Videos 1-3 are essential for all students.",
+    "parentGuidance": "Help your child look at everyday objects from different angles at home. Ask 'What shape do you see from the top?'",
+    "studentGuidance": "Try looking at objects around you from different positions. Can you draw what you see?"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch5",
+  "topicId": "gr4_mn_5_1",
+  "topicName": "Division as Equal Sharing",
+  "chapterId": "gr4_math_ncert_ch5",
+  "chapterName": "Sharing and Measuring",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about division (sharing and measuring)",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "multiplication_basics",
+      "conceptName": "Basic multiplication facts",
+      "importance": "critical",
+      "questionsTestingThis": ["rq5_1", "rq5_2", "rq5_3"],
+      "remedialVideoIds": ["prereq_ch5_multiplication_v1"]
+    },
+    {
+      "conceptId": "equal_sharing",
+      "conceptName": "Understanding equal sharing and fair distribution",
+      "importance": "critical",
+      "questionsTestingThis": ["rq5_4", "rq5_5", "rq5_6"],
+      "remedialVideoIds": ["prereq_ch5_sharing_v1"]
+    },
+    {
+      "conceptId": "subtraction_fluency",
+      "conceptName": "Subtraction fluency and repeated subtraction",
+      "importance": "important",
+      "questionsTestingThis": ["rq5_7", "rq5_8"],
+      "remedialVideoIds": ["prereq_ch5_subtraction_v1"]
+    },
+    {
+      "conceptId": "skip_counting",
+      "conceptName": "Skip counting by 2s, 3s, 4s, and 5s",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq5_9", "rq5_10"],
+      "remedialVideoIds": ["prereq_ch5_multiplication_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq5_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "multiplication_basics",
+      "question": "What is 4 x 3?",
+      "options": ["7", "10", "12", "15"],
+      "correctAnswer": 2,
+      "correctAnswerText": "12",
+      "explanation": "4 x 3 means 4 groups of 3. That is 3 + 3 + 3 + 3 = 12. Knowing multiplication helps us with division!",
+      "tags": ["multiplication", "basic facts"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added instead of multiplied",
+          "conceptGap": "Confusing addition with multiplication",
+          "remediation": "Review the difference between adding and multiplying"
+        }
+      ]
+    },
+    {
+      "id": "rq5_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "multiplication_basics",
+      "question": "What is 5 x 6?",
+      "options": ["25", "30", "35", "11"],
+      "correctAnswer": 1,
+      "correctAnswerText": "30",
+      "explanation": "5 x 6 = 30. You can think of it as 5 groups of 6 or 6 groups of 5. Either way, the answer is 30!",
+      "tags": ["multiplication", "basic facts"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq5_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "multiplication_basics",
+      "question": "Anu has 7 bags with 4 marbles in each bag. How many marbles does she have in all?",
+      "options": ["11 marbles", "21 marbles", "24 marbles", "28 marbles"],
+      "correctAnswer": 3,
+      "correctAnswerText": "28 marbles",
+      "explanation": "7 bags with 4 marbles each means 7 x 4 = 28 marbles in all.",
+      "tags": ["multiplication", "word problem"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 7 + 4 instead of multiplying",
+          "conceptGap": "Does not recognise multiplication situation in word problems",
+          "remediation": "Practice identifying when to multiply in word problems"
+        }
+      ]
+    },
+    {
+      "id": "rq5_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "equal_sharing",
+      "question": "Ravi has 10 toffees. He wants to share them equally between himself and his friend. How many toffees does each person get?",
+      "options": ["3 toffees", "4 toffees", "5 toffees", "10 toffees"],
+      "correctAnswer": 2,
+      "correctAnswerText": "5 toffees",
+      "explanation": "10 toffees shared equally between 2 people: each person gets 5 toffees. 10 shared among 2 = 5 each.",
+      "tags": ["equal sharing", "division concept"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Did not divide, gave all to one person",
+          "conceptGap": "Does not understand equal sharing",
+          "remediation": "Practice sharing objects between groups"
+        }
+      ]
+    },
+    {
+      "id": "rq5_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "equal_sharing",
+      "question": "Priya has 12 bananas. She puts them equally into 3 baskets. How many bananas are in each basket?",
+      "options": ["3 bananas", "4 bananas", "6 bananas", "9 bananas"],
+      "correctAnswer": 1,
+      "correctAnswerText": "4 bananas",
+      "explanation": "12 bananas shared equally among 3 baskets: each basket gets 4 bananas. 12 shared among 3 = 4 each.",
+      "tags": ["equal sharing", "equal groups"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq5_6",
+      "questionNumber": 6,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "equal_sharing",
+      "question": "True or False: If 15 chocolates are shared equally among 5 children, each child gets 3 chocolates.",
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+      "explanation": "True! 15 chocolates shared among 5 children: each child gets 3 chocolates because 5 x 3 = 15.",
+      "tags": ["equal sharing", "verification"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq5_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_fluency",
+      "question": "What is 20 - 5 - 5 - 5 - 5?",
+      "options": ["0", "5", "10", "15"],
+      "correctAnswer": 0,
+      "correctAnswerText": "0",
+      "explanation": "20 - 5 = 15, then 15 - 5 = 10, then 10 - 5 = 5, then 5 - 5 = 0. We subtracted 5 four times to reach 0!",
+      "tags": ["repeated subtraction", "subtraction fluency"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Stopped one step too early",
+          "conceptGap": "Needs practice with multi-step subtraction",
+          "remediation": "Practice subtracting step by step on a number line"
+        }
+      ]
+    },
+    {
+      "id": "rq5_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "subtraction_fluency",
+      "question": "How many times can you subtract 4 from 16 before you reach 0?",
+      "options": ["2 times", "3 times", "4 times", "5 times"],
+      "correctAnswer": 2,
+      "correctAnswerText": "4 times",
+      "explanation": "16 - 4 = 12, 12 - 4 = 8, 8 - 4 = 4, 4 - 4 = 0. We subtracted 4 exactly 4 times! This is the same as 16 divided by 4 = 4.",
+      "tags": ["repeated subtraction", "division connection"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq5_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "skip_counting",
+      "question": "Count by 3s: 3, 6, 9, 12, ___. What comes next?",
+      "options": ["13", "14", "15", "16"],
+      "correctAnswer": 2,
+      "correctAnswerText": "15",
+      "explanation": "When we count by 3s, we add 3 each time: 3, 6, 9, 12, 15. The next number is 12 + 3 = 15.",
+      "tags": ["skip counting", "counting by 3s"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq5_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "skip_counting",
+      "question": "When counting by 4s, which of these numbers will you say?",
+      "options": ["10", "14", "16", "15"],
+      "correctAnswer": 2,
+      "correctAnswerText": "16",
+      "explanation": "Counting by 4s: 4, 8, 12, 16, 20... We say 16 because 4 x 4 = 16. Numbers like 10 and 15 are not in the 4s pattern.",
+      "tags": ["skip counting", "multiples", "counting by 4s"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused multiples of 4 with multiples of 5",
+          "conceptGap": "Needs practice distinguishing skip counting patterns",
+          "remediation": "Practice skip counting by different numbers on a number line"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You know your multiplication facts and sharing really well. You are ready to learn about division!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding of multiplication and sharing. Let's learn about division!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things but need to review multiplication and sharing. Watch the review videos first, then we will start division.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review multiplication and equal sharing. We will watch some fun videos about these topics before starting division.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We will show you some fun videos about multiplication and sharing first.",
+    "high_score_praise": "Awesome! You are all set to learn about division - sharing and measuring!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

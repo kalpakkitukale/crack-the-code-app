@@ -1,0 +1,287 @@
+{
+  "videoSetId": "prereq_gr4_pv",
+  "purpose": "Prerequisite videos for Grade 4 Place Value (4-digit numbers)",
+  "targetTopicId": "gr4_m_4_1",
+  "description": "Videos covering prerequisite concepts: 3-digit place value, multiplication by 10/100, number comparison",
+
+  "videos": [
+    {
+      "id": "prereq_pv_v1",
+      "conceptId": "pv_3digit",
+      "type": "concept_introduction",
+
+      "title": "Place Value - Ones, Tens, and Hundreds",
+      "description": "Learn the basics of place value with ones, tens, and hundreds place in 3-digit numbers",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["place value", "ones", "tens", "hundreds", "3-digit numbers", "basic math"],
+
+      "learningObjectives": [
+        "Understand what place value means",
+        "Identify ones, tens, and hundreds places",
+        "Calculate place value of each digit"
+      ],
+
+      "prerequisites": ["Counting to 1000", "Basic number recognition"],
+      "followUpTopics": ["4-digit place value", "Expanded form"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_pv_v2",
+      "conceptId": "pv_3digit",
+      "type": "worked_examples",
+
+      "title": "Finding Place Value | Math for Kids",
+      "description": "Step-by-step examples showing how to find the place value of any digit in a number",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+
+      "tags": ["place value", "worked examples", "step by step", "grade 3", "grade 4"],
+
+      "learningObjectives": [
+        "Calculate place value step by step",
+        "Practice with multiple examples",
+        "Avoid common mistakes"
+      ],
+
+      "prerequisites": ["Understanding place names"],
+      "followUpTopics": ["Place value comparison"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_pv_v3",
+      "conceptId": "pv_3digit",
+      "type": "concept_clarification",
+
+      "title": "Face Value vs Place Value",
+      "description": "Understand the important difference between face value and place value",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 285,
+      "durationDisplay": "4:45",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["face value", "place value", "difference", "common mistakes"],
+
+      "learningObjectives": [
+        "Understand face value vs place value",
+        "Identify which to use when",
+        "Correct common misconceptions"
+      ],
+
+      "prerequisites": ["Basic place value"],
+      "followUpTopics": ["Expanded notation"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_mult_v1",
+      "conceptId": "mult_by_10_100",
+      "type": "concept_introduction",
+
+      "title": "Multiplication by 10 and 100",
+      "description": "Learn the easy trick to multiply any number by 10 or 100",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 1500000,
+
+      "tags": ["multiplication", "multiply by 10", "multiply by 100", "mental math", "shortcuts"],
+
+      "learningObjectives": [
+        "Multiply any number by 10",
+        "Multiply any number by 100",
+        "Understand the zero pattern"
+      ],
+
+      "prerequisites": ["Basic multiplication facts"],
+      "followUpTopics": ["Multiply by 1000", "Division by 10 and 100"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_mult_v2",
+      "conceptId": "mult_by_10_100",
+      "type": "worked_examples",
+
+      "title": "Patterns in Multiplying by 10 and 100",
+      "description": "Discover the patterns when multiplying by powers of 10",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 315,
+      "durationDisplay": "5:15",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 5000000,
+
+      "tags": ["multiplication patterns", "powers of 10", "place value connection"],
+
+      "learningObjectives": [
+        "Recognize patterns in multiplication",
+        "Connect multiplication to place value",
+        "Solve problems mentally"
+      ],
+
+      "prerequisites": ["Counting by 10s"],
+      "followUpTopics": ["Place value in large numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_comp_v1",
+      "conceptId": "number_comparison",
+      "type": "concept_introduction",
+
+      "title": "Comparing Numbers | Greater Than Less Than",
+      "description": "Learn how to compare 3-digit numbers using greater than and less than symbols",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 285,
+      "durationDisplay": "4:45",
+
+      "channelName": "Jack Hartmann",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 2000000,
+
+      "tags": ["comparing numbers", "greater than", "less than", "symbols", "3-digit"],
+
+      "learningObjectives": [
+        "Compare two 3-digit numbers",
+        "Use > and < symbols correctly",
+        "Compare digit by digit from left"
+      ],
+
+      "prerequisites": ["Place value understanding"],
+      "followUpTopics": ["Ordering numbers", "Number lines"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_seq_v1",
+      "conceptId": "number_sequence",
+      "type": "concept_introduction",
+
+      "title": "Number Patterns and Sequences | Skip Counting",
+      "description": "Learn about number sequences, skip counting, and what comes next",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 300,
+      "durationDisplay": "5:00",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.6,
+      "viewCount": 1500000,
+
+      "tags": ["number patterns", "sequences", "skip counting", "counting by 100s"],
+
+      "learningObjectives": [
+        "Identify number patterns",
+        "Skip count by 10s, 100s",
+        "Predict next number in sequence"
+      ],
+
+      "prerequisites": ["Counting", "Addition"],
+      "followUpTopics": ["Number lines", "Algebra patterns"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "These videos should be recommended when students show gaps in prerequisite knowledge during readiness assessment",
+    "recommendationStrategy": "Select videos based on specific concepts where student struggled",
+    "sequencing": "Present in order of importance: critical concepts first, then important, then helpful"
+  }
+}

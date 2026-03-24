@@ -1,0 +1,146 @@
+{
+  "quiz": {
+    "id": "quiz_video_mdulzEfQXDE",
+    "level": "video",
+    "entityId": "mdulzEfQXDE",
+    "questionIds": [
+      "q_elec_charge_001",
+      "q_elec_charge_002",
+      "q_elec_charge_003",
+      "q_elec_charge_004",
+      "q_elec_charge_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_elec_charge_001",
+      "questionText": "What are the two types of electric charges?",
+      "questionType": "mcq",
+      "options": [
+        "Positive and Negative",
+        "North and South",
+        "East and West",
+        "High and Low"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Electric charges come in two types: positive and negative. Positive charges are carried by protons, while negative charges are carried by electrons. Unlike charges attract each other, and like charges repel each other.",
+      "hints": [
+        "Think about the charges on protons and electrons",
+        "One type attracts the other",
+        "Similar to magnetic poles but different concept"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "electric_charge",
+        "charge_types"
+      ],
+      "videoTimestamp": "2:15",
+      "points": 3
+    },
+    {
+      "id": "q_elec_charge_002",
+      "questionText": "What is the SI unit of electric charge?",
+      "questionType": "mcq",
+      "options": [
+        "Coulomb (C)",
+        "Ampere (A)",
+        "Volt (V)",
+        "Ohm (Ω)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The SI unit of electric charge is the Coulomb (C), named after French physicist Charles-Augustin de Coulomb. One coulomb is equal to the charge of approximately 6.242 × 10¹⁸ electrons.",
+      "hints": [
+        "Named after a French physicist",
+        "Not the unit of current or voltage",
+        "Symbol is 'C'"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "electric_charge",
+        "units"
+      ],
+      "videoTimestamp": "4:30",
+      "points": 3
+    },
+    {
+      "id": "q_elec_charge_003",
+      "questionText": "According to Coulomb's Law, the force between two charges is inversely proportional to the square of the distance between them.",
+      "questionType": "trueFalse",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "A",
+      "explanation": "True. Coulomb's Law states that the electrostatic force between two point charges is directly proportional to the product of their charges and inversely proportional to the square of the distance between them: F = k(q₁q₂)/r². This is similar to Newton's law of gravitation.",
+      "hints": [
+        "Think about what happens when charges move farther apart",
+        "Similar to gravitational force behavior",
+        "The force weakens with distance"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "coulombs_law",
+        "force"
+      ],
+      "videoTimestamp": "6:45",
+      "points": 4
+    },
+    {
+      "id": "q_elec_charge_004",
+      "questionText": "What is the principle of conservation of charge?",
+      "questionType": "mcq",
+      "options": [
+        "The total electric charge in an isolated system remains constant",
+        "Charges can be created but not destroyed",
+        "Positive charges are always greater than negative charges",
+        "Charges always move from positive to negative"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The principle of conservation of charge states that the total electric charge in an isolated system remains constant. Charge can neither be created nor destroyed, only transferred from one object to another. This is one of the fundamental conservation laws in physics.",
+      "hints": [
+        "Think about fundamental conservation laws",
+        "Similar to conservation of energy",
+        "Charge cannot appear or disappear"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "conservation",
+        "charge_conservation"
+      ],
+      "videoTimestamp": "8:20",
+      "points": 5
+    },
+    {
+      "id": "q_elec_charge_005",
+      "questionText": "What is an electric field?",
+      "questionType": "mcq",
+      "options": [
+        "A region where an electric charge experiences a force",
+        "The path electrons follow in a conductor",
+        "The resistance to current flow",
+        "The amount of charge stored in a capacitor"
+      ],
+      "correctAnswer": "A",
+      "explanation": "An electric field is a region of space surrounding an electrically charged object where other electric charges experience a force. The electric field is a vector quantity, with both magnitude and direction. It points away from positive charges and toward negative charges.",
+      "hints": [
+        "Think about the space around a charged object",
+        "Other charges feel something in this region",
+        "It's a vector quantity with direction"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "electric_field",
+        "field_theory"
+      ],
+      "videoTimestamp": "11:05",
+      "points": 5
+    }
+  ]
+}

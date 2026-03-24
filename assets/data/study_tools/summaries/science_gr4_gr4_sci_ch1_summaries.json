@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_sci_ch1",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_sc1_v1",
+      "videoId": "gr4_sc1_v1",
+      "content": "This lesson introduces the characteristics of living things. All living things share certain features: they grow, breathe, need food, move, feel, and reproduce. A mango seed grows into a tall tree, a puppy grows into a dog, and even tiny ants need food and air. By learning these characteristics, students can tell the difference between living and non-living things around them.",
+      "keyPoints": [
+        "Living things grow, breathe, eat, move, feel, and reproduce",
+        "Both plants and animals are living things",
+        "Non-living things like rocks and water do not have these features",
+        "All living things need food, air, and water to survive"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_sc1_v2",
+      "videoId": "gr4_sc1_v2",
+      "content": "This lesson explores plants as living things. Plants make their own food through a process called photosynthesis, using sunlight, water, and carbon dioxide. They have different parts like roots, stems, leaves, and flowers, each with a special job. Plants breathe through tiny holes in their leaves called stomata. In India, we see many types of plants, from the banyan tree to the lotus flower, all showing the amazing characteristics of living things.",
+      "keyPoints": [
+        "Plants make their own food using sunlight through photosynthesis",
+        "Roots absorb water, stems carry it up, and leaves make food",
+        "Plants breathe through stomata on their leaves",
+        "Plants reproduce through seeds, spores, or other plant parts"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_sc1_v3",
+      "videoId": "gr4_sc1_v3",
+      "content": "This lesson covers animals as living things and how they differ from plants. Animals cannot make their own food, so they eat plants or other animals. Based on what they eat, animals are grouped as herbivores (plant-eaters like cows), carnivores (meat-eaters like tigers), and omnivores (both plant and meat-eaters like bears). Animals also breathe differently: land animals use lungs, fish use gills, and insects use spiracles.",
+      "keyPoints": [
+        "Animals eat food from other living things because they cannot make their own",
+        "Herbivores eat plants, carnivores eat animals, omnivores eat both",
+        "Animals breathe using lungs, gills, or spiracles depending on where they live",
+        "Animals move, respond to their surroundings, and care for their young"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_sc1_v4",
+      "videoId": "gr4_sc1_v4",
+      "content": "This lesson explains habitats and how living things adapt to survive. A habitat is the natural home of a plant or animal, providing food, water, and shelter. India has many habitats: the Thar Desert, the Sundarbans mangrove forest, rivers like the Ganga, and the Himalayan mountains. Living things develop special features called adaptations to survive in their habitats. Camels have wide feet for sand, fish have gills for water, and monkeys have long tails for swinging in trees.",
+      "keyPoints": [
+        "A habitat provides food, water, and shelter to living things",
+        "India has diverse habitats including forests, deserts, rivers, and mountains",
+        "Adaptations are special features that help living things survive in their habitat",
+        "If a habitat is destroyed, the living things in it may not survive"
+      ],
+      "source": "manual"
+    }
+  ]
+}

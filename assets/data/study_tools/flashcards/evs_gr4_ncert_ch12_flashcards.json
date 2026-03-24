@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_evs_ncert_ch12",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_life_past",
+      "name": "Life in the Past",
+      "description": "Learn how people lived in earlier times",
+      "cards": [
+        {
+          "id": "fc_lp_001",
+          "front": "How did people travel long distances in your grandparents' time?",
+          "back": "In our grandparents' time, people travelled by bullock carts, horse carriages, bicycles, and trains. Cars and aeroplanes were very rare. Many people walked long distances.",
+          "hints": ["Think about animals and simple vehicles"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_lp_002",
+          "front": "How did people communicate before telephones and mobile phones?",
+          "back": "People wrote letters on paper and sent them by post. It could take days or even weeks for a letter to reach! They also sent telegrams for urgent messages.",
+          "hints": ["Writing on paper"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_lp_003",
+          "front": "What kind of games did children play in the old days?",
+          "back": "Children played outdoor games like gilli-danda, kho-kho, kabaddi, marbles, hopscotch (stapu), and pitthu. They made their own toys from clay, wood, and cloth.",
+          "hints": ["Outdoor games with simple things"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_lp_004",
+          "front": "How did people store food before refrigerators were invented?",
+          "back": "People stored food by drying it in the sun, pickling it with salt and oil, or keeping it in cool earthen pots. In some places, people stored food in underground rooms which stayed cool naturally.",
+          "hints": ["Sun, salt, and clay pots"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_lp_005",
+          "front": "What did people use for light before electricity?",
+          "back": "Before electricity, people used oil lamps (diyas), candles, lanterns, and torches. They went to sleep early because there was no bright light at night.",
+          "hints": ["Fire and oil"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_changes_time",
+      "name": "How Things Have Changed",
+      "description": "Understand what has changed from past to present",
+      "cards": [
+        {
+          "id": "fc_ct_001",
+          "front": "How has farming changed over time?",
+          "back": "Earlier, farmers used wooden ploughs pulled by bullocks and did everything by hand. Now they use tractors, harvesters, and other machines. Irrigation has also improved with tube wells and canals.",
+          "hints": ["From animals to machines"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ct_002",
+          "front": "How have schools changed from your grandparents' time?",
+          "back": "In the past, many children did not go to school, especially girls. Schools had slate boards instead of notebooks. Today, all children can go to school, and many schools have computers, smart boards, and libraries.",
+          "hints": ["Think about who went to school and what they used"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ct_003",
+          "front": "How has the way we cook food changed over time?",
+          "back": "Earlier, people cooked on wood-fired chulhas or coal stoves. Now many homes use gas stoves, induction cooktops, and microwave ovens. This has made cooking faster and cleaner.",
+          "hints": ["From wood fire to modern appliances"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ct_004",
+          "front": "What is one thing that has NOT changed much over many generations?",
+          "back": "The love and care in families has not changed! Grandparents still tell stories, families still celebrate festivals together, and people still help their neighbours. Some values and traditions remain the same.",
+          "hints": ["Think about feelings and family"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ct_005",
+          "front": "Why is it important to know how life was in the past?",
+          "back": "Knowing about the past helps us understand how much things have changed and appreciate what we have today. It also teaches us about the hard work of earlier generations and helps us make better choices for the future.",
+          "hints": ["Learning from the past"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_generations",
+      "name": "Talking to Elders",
+      "description": "Why elders are a treasure of knowledge",
+      "cards": [
+        {
+          "id": "fc_ge_001",
+          "front": "What is a generation?",
+          "back": "A generation is a group of people born around the same time. You and your classmates are one generation, your parents are another, and your grandparents are yet another. Each generation is about 25-30 years apart.",
+          "hints": ["People of the same age group"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ge_002",
+          "front": "Why should we talk to our grandparents about the old days?",
+          "back": "Grandparents can tell us stories about how life was different - the games they played, the food they ate, and how they lived without modern things. Their memories are like a living history book!",
+          "hints": ["They have experienced different times"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ge_003",
+          "front": "What are some things your grandparents might have done differently as children?",
+          "back": "They might have walked to school barefoot, fetched water from a well, studied by lamplight, helped in farms or household chores from a young age, and had fewer toys but more outdoor play.",
+          "hints": ["Life was simpler but harder"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ge_004",
+          "front": "How can we record the stories of our elders?",
+          "back": "We can write down their stories in a notebook, record them speaking on a phone, draw pictures of what they describe, or make a family scrapbook with old photos and stories.",
+          "hints": ["Writing, recording, or pictures"],
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

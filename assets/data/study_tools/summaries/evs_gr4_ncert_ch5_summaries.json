@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch5",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en5_v1",
+      "videoId": "gr4_en5_v1",
+      "content": "This lesson introduces Anita who discovers a beehive near her home and learns about honeybees. A beehive is home to thousands of bees living and working together as a colony. There are three types of bees: the Queen Bee who lays eggs, Worker Bees who collect nectar and do all the work, and Drone Bees who are males. The hive is made of beeswax and has thousands of tiny hexagonal cells where honey is stored and baby bees grow.",
+      "keyPoints": [
+        "A beehive can house 20,000 to 60,000 bees",
+        "There are three types of bees: queen, worker, and drone",
+        "The queen bee lays up to 2,000 eggs per day",
+        "Worker bees do all the work in the hive"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en5_v2",
+      "videoId": "gr4_en5_v2",
+      "content": "This lesson explains the amazing process of how bees make honey. Worker bees fly to flowers and suck up a sweet liquid called nectar using their long tongue. They store the nectar in a special honey stomach and fly back to the hive. There, they pass it to other worker bees who chew it and store it in honeycomb cells. Finally, bees fan the cells with their wings to remove water and turn the nectar into thick, sweet honey. To make just 1 kg of honey, bees visit about 4 million flowers!",
+      "keyPoints": [
+        "Bees collect nectar, a sweet liquid from flowers",
+        "Nectar is processed and stored in honeycomb cells",
+        "Bees fan the honey with wings to thicken it",
+        "About 4 million flower visits make 1 kg of honey"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en5_v3",
+      "videoId": "gr4_en5_v3",
+      "content": "This lesson covers the importance of bees for nature and farming. While collecting nectar, bees carry pollen from one flower to another, a process called pollination. This helps plants produce fruits and seeds. Without bees, many crops like apples, mangoes, and vegetables would not grow. The lesson also explains the waggle dance - a special dance bees do to tell other bees where flowers are found.",
+      "keyPoints": [
+        "Bees help plants through pollination",
+        "Many fruits and vegetables depend on bee pollination",
+        "The waggle dance tells bees where to find flowers",
+        "Bees are essential for agriculture and food production"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "quiz": {
+    "id": "quiz_chapter_mechanics",
+    "level": "chapter",
+    "entityId": "chapter_mechanics",
+    "title": "Chapter 2: Mechanics",
+    "questionIds": [
+      "q_we_001",
+      "q_we_002",
+      "q_we_003",
+      "q_we_004",
+      "q_we_005",
+      "q_we_006",
+      "q_we_009",
+      "q_kin_001",
+      "q_kin_002",
+      "q_kin_003",
+      "q_kin_005",
+      "q_kin_006",
+      "q_kin_007",
+      "q_kin_010",
+      "q_grav_001",
+      "q_grav_002",
+      "q_grav_003",
+      "q_grav_005",
+      "q_grav_007",
+      "q_grav_009"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.75
+  },
+  "questions": [
+    {
+      "id": "q_we_001",
+      "questionText": "What is the definition of work in physics?",
+      "questionType": "mcq",
+      "options": [
+        "Work = Force × Distance in the direction of force",
+        "Work = Mass × Velocity",
+        "Work = Force × Time",
+        "Work = Energy × Distance"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In physics, work is defined as the product of force and displacement in the direction of the force. Mathematically, W = F × d × cos(θ), where θ is the angle between force and displacement.",
+      "hints": [
+        "Work involves both force and movement",
+        "The displacement must be in the direction of the applied force"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Work",
+        "Force",
+        "Displacement"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_002",
+      "questionText": "What is the SI unit of work and energy?",
+      "questionType": "mcq",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The SI unit of both work and energy is the Joule (J). One Joule is defined as the work done when a force of one Newton moves an object one meter in the direction of the force (1 J = 1 N⋅m).",
+      "hints": [
+        "The unit is named after a famous physicist",
+        "It's the same unit for both work and energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Units",
+        "Work",
+        "Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_003",
+      "questionText": "When you carry a heavy bag while walking horizontally, how much work does the upward force you apply do on the bag?",
+      "questionType": "mcq",
+      "options": [
+        "Maximum work",
+        "Zero work",
+        "Negative work",
+        "Work equal to the weight of the bag"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When carrying a bag horizontally, the force you apply is upward (to support the weight) but the displacement is horizontal. Since force and displacement are perpendicular (θ = 90°), and cos(90°) = 0, the work done is zero.",
+      "hints": [
+        "Consider the direction of force vs. direction of motion",
+        "Work depends on the angle between force and displacement"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Work",
+        "Force Direction",
+        "Displacement"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_004",
+      "questionText": "What is kinetic energy?",
+      "questionType": "mcq",
+      "options": [
+        "Energy due to position",
+        "Energy due to motion",
+        "Energy stored in springs",
+        "Energy from heat"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kinetic energy is the energy possessed by an object due to its motion. It is given by the formula KE = ½mv², where m is mass and v is velocity. Any moving object has kinetic energy.",
+      "hints": [
+        "The word 'kinetic' relates to movement",
+        "A moving car has this type of energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Kinetic Energy",
+        "Energy Forms"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_005",
+      "questionText": "A 10 kg object is lifted vertically by 5 meters. Taking g = 10 m/s², how much work is done against gravity?",
+      "questionType": "mcq",
+      "options": [
+        "50 J",
+        "100 J",
+        "500 J",
+        "1000 J"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Work done against gravity = Force × Distance = (mg) × h = (10 kg × 10 m/s²) × 5 m = 100 N × 5 m = 500 J. This work is stored as gravitational potential energy.",
+      "hints": [
+        "Calculate the weight (force) first: F = mg",
+        "Then multiply force by the vertical distance"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Work",
+        "Gravity",
+        "Potential Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_006",
+      "questionText": "A 2 kg object moving at 4 m/s has its velocity increased to 6 m/s. What is the change in kinetic energy?",
+      "questionType": "mcq",
+      "options": [
+        "4 J",
+        "16 J",
+        "20 J",
+        "36 J"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Initial KE = ½(2)(4²) = 16 J. Final KE = ½(2)(6²) = 36 J. Change in KE = 36 - 16 = 20 J. This change in kinetic energy equals the work done on the object.",
+      "hints": [
+        "Calculate KE at both velocities using KE = ½mv²",
+        "Find the difference between final and initial KE"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Kinetic Energy",
+        "Work-Energy Theorem"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_009",
+      "questionText": "A 5 kg block slides down a frictionless incline from height 10 m. What is its speed at the bottom? (g = 10 m/s²)",
+      "questionType": "mcq",
+      "options": [
+        "10 m/s",
+        "14.1 m/s",
+        "20 m/s",
+        "100 m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using conservation of energy: Initial PE = Final KE. mgh = ½mv². The mass cancels: gh = ½v². Solving for v: v = √(2gh) = √(2 × 10 × 10) = √200 ≈ 14.1 m/s. Notice that the answer is independent of mass.",
+      "hints": [
+        "Use conservation of energy: PE at top = KE at bottom",
+        "The mass will cancel out from both sides"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Conservation of Energy",
+        "Potential Energy",
+        "Kinetic Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_kin_001",
+      "questionText": "What is the difference between distance and displacement?",
+      "questionType": "mcq",
+      "options": [
+        "Distance is a vector, displacement is a scalar",
+        "Distance is total path length, displacement is shortest distance with direction",
+        "They are the same thing",
+        "Displacement is always greater than distance"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Distance is a scalar quantity representing the total path length traveled, while displacement is a vector quantity representing the shortest distance from initial to final position with direction. Displacement can be zero even when distance is not.",
+      "hints": [
+        "One considers the entire path, the other considers only start and end points",
+        "One is a scalar, the other is a vector"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Distance",
+        "Displacement",
+        "Scalars and Vectors"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_002",
+      "questionText": "What is the SI unit of acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "m/s",
+        "m/s²",
+        "m²/s",
+        "s/m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The SI unit of acceleration is meters per second squared (m/s²). This represents the change in velocity (m/s) per unit time (s), giving us m/s per second, or m/s².",
+      "hints": [
+        "Acceleration is the rate of change of velocity",
+        "It has units of velocity divided by time"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Acceleration",
+        "Units",
+        "SI System"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_003",
+      "questionText": "A car travels 100 m in 20 seconds. What is its average speed?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s",
+        "5 m/s",
+        "10 m/s",
+        "20 m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Average speed = Total distance / Total time = 100 m / 20 s = 5 m/s. Average speed is a scalar quantity that doesn't consider direction.",
+      "hints": [
+        "Use the formula: speed = distance / time",
+        "Divide 100 by 20"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Speed",
+        "Average Speed",
+        "Motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_005",
+      "questionText": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s²",
+        "4 m/s²",
+        "5 m/s²",
+        "100 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using the formula a = (v - u) / t, where u = 0 (starts from rest), v = 20 m/s, and t = 5 s: a = (20 - 0) / 5 = 4 m/s². This means the velocity increases by 4 m/s every second.",
+      "hints": [
+        "Use the formula: acceleration = change in velocity / time",
+        "The car starts from rest, so initial velocity is 0"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Acceleration",
+        "Uniform Acceleration",
+        "Equations of Motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_006",
+      "questionText": "An object is thrown vertically upward. At the highest point of its trajectory:",
+      "questionType": "mcq",
+      "options": [
+        "Both velocity and acceleration are zero",
+        "Velocity is zero but acceleration is not zero",
+        "Acceleration is zero but velocity is not zero",
+        "Both velocity and acceleration are maximum"
+      ],
+      "correctAnswer": "B",
+      "explanation": "At the highest point, the object momentarily stops (velocity = 0) before falling back down. However, gravity continues to act on it, so acceleration = g (approximately 9.8 m/s²) downward throughout the motion, including at the highest point.",
+      "hints": [
+        "The object stops momentarily at the peak",
+        "Gravity acts on the object throughout its flight"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Projectile Motion",
+        "Velocity",
+        "Acceleration",
+        "Gravity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_007",
+      "questionText": "A ball is dropped from rest and falls freely under gravity (g = 10 m/s²). How far does it fall in 3 seconds?",
+      "questionType": "mcq",
+      "options": [
+        "15 m",
+        "30 m",
+        "45 m",
+        "90 m"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Using the equation s = ut + ½at², where u = 0 (dropped from rest), a = g = 10 m/s², and t = 3 s: s = 0 + ½(10)(3²) = 5 × 9 = 45 m.",
+      "hints": [
+        "Use the equation: s = ut + ½at²",
+        "Initial velocity u = 0 since it's dropped from rest"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Free Fall",
+        "Equations of Motion",
+        "Gravity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_010",
+      "questionText": "Two cars A and B are 100 m apart. Car A starts from rest with acceleration 2 m/s². At the same instant, car B (ahead of A) starts moving away with constant velocity 10 m/s. When will car A catch up with car B?",
+      "questionType": "mcq",
+      "options": [
+        "5 seconds",
+        "10 seconds",
+        "15 seconds",
+        "20 seconds"
+      ],
+      "correctAnswer": "D",
+      "explanation": "For A to catch B, their positions must be equal. Position of A: sₐ = ½(2)t² = t². Position of B: s_b = 100 + 10t. Setting equal: t² = 100 + 10t, so t² - 10t - 100 = 0. Using the quadratic formula: t = (10 ± √(100 + 400)) / 2 = (10 ± √500) / 2 ≈ (10 + 22.36) / 2 ≈ 20 seconds (taking positive value).",
+      "hints": [
+        "Set up position equations for both cars",
+        "Car A catches B when their positions are equal"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Relative Motion",
+        "Equations of Motion",
+        "Quadratic Equations"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_grav_001",
+      "questionText": "What is Newton's Law of Universal Gravitation?",
+      "questionType": "mcq",
+      "options": [
+        "Every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of distance between them",
+        "Objects fall at the same rate regardless of mass",
+        "Force equals mass times acceleration",
+        "Energy is conserved in gravitational interactions"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's Law of Universal Gravitation states that every particle attracts every other particle with a force F = G(m₁m₂)/r², where G is the gravitational constant, m₁ and m₂ are the masses, and r is the distance between their centers.",
+      "hints": [
+        "The law involves two masses and the distance between them",
+        "The force is proportional to masses and inversely proportional to distance squared"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Universal Gravitation",
+        "Newton's Law",
+        "Gravitational Force"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_002",
+      "questionText": "What is the value of acceleration due to gravity (g) on Earth's surface approximately?",
+      "questionType": "mcq",
+      "options": [
+        "9.8 m/s²",
+        "6.67 × 10⁻¹¹ N⋅m²/kg²",
+        "3 × 10⁸ m/s",
+        "1.62 m/s²"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s² (often rounded to 10 m/s² for calculations). This means that in the absence of air resistance, all objects near Earth's surface accelerate downward at this rate.",
+      "hints": [
+        "It's close to 10 m/s²",
+        "This is the standard acceleration for falling objects on Earth"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Acceleration due to Gravity",
+        "Earth's Gravity"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_003",
+      "questionText": "How does the gravitational force between two objects change if the distance between them is doubled?",
+      "questionType": "mcq",
+      "options": [
+        "It becomes half",
+        "It becomes one-fourth",
+        "It doubles",
+        "It becomes four times"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to the inverse square law (F ∝ 1/r²), when distance is doubled, the force becomes 1/(2²) = 1/4 of the original value. Gravitational force decreases rapidly with increasing distance.",
+      "hints": [
+        "Gravitational force follows an inverse square law",
+        "If distance is doubled, r becomes 2r in the formula F = G(m₁m₂)/r²"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Inverse Square Law",
+        "Gravitational Force",
+        "Distance"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_005",
+      "questionText": "If the mass of Earth is M and radius is R, what is the acceleration due to gravity at Earth's surface? (G = gravitational constant)",
+      "questionType": "mcq",
+      "options": [
+        "g = GM/R",
+        "g = GM/R²",
+        "g = GM²/R",
+        "g = GR/M"
+      ],
+      "correctAnswer": "B",
+      "explanation": "At Earth's surface, gravitational force F = GMm/R² equals mg (weight). Canceling m from both sides: g = GM/R². This shows that surface gravity depends on the planet's mass and radius.",
+      "hints": [
+        "Set gravitational force equal to weight: GMm/R² = mg",
+        "Cancel mass m to solve for g"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Surface Gravity",
+        "Gravitational Acceleration",
+        "Planetary Mass"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_007",
+      "questionText": "The Moon's mass is about 1/81 of Earth's mass and its radius is about 1/4 of Earth's radius. What is the approximate value of g on the Moon's surface compared to Earth?",
+      "questionType": "mcq",
+      "options": [
+        "g_moon ≈ g_earth/81",
+        "g_moon ≈ g_earth/6",
+        "g_moon ≈ g_earth/4",
+        "g_moon ≈ g_earth/16"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using g = GM/R²: g_moon/g_earth = (M_moon/M_earth) × (R_earth/R_moon)² = (1/81) × (4)² = (1/81) × 16 = 16/81 ≈ 1/6. So g on the Moon is about 1/6 of g on Earth (approximately 1.62 m/s²).",
+      "hints": [
+        "Use the ratio g = GM/R² for both bodies",
+        "Consider both mass ratio (1/81) and radius ratio (1/4)"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Comparative Gravity",
+        "Planetary Physics",
+        "Moon"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_009",
+      "questionText": "What is the escape velocity from Earth's surface? (Given: g = 10 m/s², R = 6.4 × 10⁶ m)",
+      "questionType": "mcq",
+      "options": [
+        "7.9 km/s",
+        "11.2 km/s",
+        "15 km/s",
+        "3 × 10⁸ m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Escape velocity v_e = √(2gR) = √(2 × 10 × 6.4 × 10⁶) = √(128 × 10⁶) ≈ 11,314 m/s ≈ 11.2 km/s. This is the minimum velocity needed to escape Earth's gravitational field without further propulsion.",
+      "hints": [
+        "Use the formula v_e = √(2gR) or v_e = √(2GM/R)",
+        "The answer is in km/s range"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Escape Velocity",
+        "Gravitational Energy",
+        "Orbital Mechanics"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

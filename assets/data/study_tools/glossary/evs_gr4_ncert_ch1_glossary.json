@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch1",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_1_001",
+      "term": "Transport",
+      "definition": "The way people or things are moved from one place to another, such as by bus, boat, or walking.",
+      "pronunciation": "TRANS-port",
+      "exampleUsage": "The children use different types of transport to reach school.",
+      "difficulty": "easy",
+      "relatedTerms": ["travel", "vehicle"]
+    },
+    {
+      "id": "gls_evs_1_002",
+      "term": "Trolley",
+      "definition": "A small cart that moves along a rope or cable stretched across a valley or river, used in hilly areas.",
+      "pronunciation": "TROL-ee",
+      "exampleUsage": "The children crossed the river valley using a trolley.",
+      "difficulty": "medium",
+      "relatedTerms": ["ropeway", "cable car"]
+    },
+    {
+      "id": "gls_evs_1_003",
+      "term": "Valley",
+      "definition": "A low area of land between hills or mountains, often with a river flowing through it.",
+      "pronunciation": "VAL-ee",
+      "exampleUsage": "The school was on the other side of the deep valley.",
+      "difficulty": "easy",
+      "relatedTerms": ["mountain", "river"]
+    },
+    {
+      "id": "gls_evs_1_004",
+      "term": "Bridge",
+      "definition": "A structure built over a river, road, or valley so that people and vehicles can cross from one side to the other.",
+      "pronunciation": "BRIJ",
+      "exampleUsage": "There was no bridge, so the children had to use a boat to cross the river.",
+      "difficulty": "easy",
+      "relatedTerms": ["river", "crossing"]
+    },
+    {
+      "id": "gls_evs_1_005",
+      "term": "Bamboo bridge",
+      "definition": "A simple bridge made from bamboo sticks tied together, often found in villages near rivers.",
+      "pronunciation": "bam-BOO BRIJ",
+      "exampleUsage": "The children carefully walked over the bamboo bridge to cross the stream.",
+      "difficulty": "easy",
+      "relatedTerms": ["bridge", "bamboo"]
+    },
+    {
+      "id": "gls_evs_1_006",
+      "term": "Auto-rickshaw",
+      "definition": "A small three-wheeled vehicle used for short trips in towns and cities. Also called an 'auto'.",
+      "pronunciation": "AW-toh RIK-shaw",
+      "exampleUsage": "Many children take an auto-rickshaw to school in the city.",
+      "difficulty": "easy",
+      "relatedTerms": ["vehicle", "transport"]
+    },
+    {
+      "id": "gls_evs_1_007",
+      "term": "Geography",
+      "definition": "The study of the Earth's surface, including mountains, rivers, plains, and how people live in different places.",
+      "pronunciation": "jee-OG-ruh-fee",
+      "exampleUsage": "Geography helps us understand why some children have to cross rivers to go to school.",
+      "difficulty": "medium",
+      "relatedTerms": ["landscape", "map"]
+    },
+    {
+      "id": "gls_evs_1_008",
+      "term": "Flood",
+      "definition": "When water from a river or heavy rain covers land that is usually dry.",
+      "pronunciation": "FLUD",
+      "exampleUsage": "After heavy rain, the flood made it impossible for children to walk to school.",
+      "difficulty": "easy",
+      "relatedTerms": ["rain", "river"]
+    },
+    {
+      "id": "gls_evs_1_009",
+      "term": "Landscape",
+      "definition": "The natural scenery of an area, including mountains, rivers, forests, and plains.",
+      "pronunciation": "LAND-skayp",
+      "exampleUsage": "India has a varied landscape with deserts, mountains, and coastal areas.",
+      "difficulty": "medium",
+      "relatedTerms": ["geography", "terrain"]
+    },
+    {
+      "id": "gls_evs_1_010",
+      "term": "Cycle-rickshaw",
+      "definition": "A three-wheeled vehicle pulled by a person pedalling a bicycle, used to carry passengers short distances.",
+      "pronunciation": "SY-kul RIK-shaw",
+      "exampleUsage": "In some towns, children go to school in a cycle-rickshaw.",
+      "difficulty": "easy",
+      "relatedTerms": ["rickshaw", "transport"]
+    }
+  ]
+}

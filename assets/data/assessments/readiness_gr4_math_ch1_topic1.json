@@ -1,0 +1,391 @@
+{
+  "assessmentId": "readiness_gr4_m1_t1",
+  "topicId": "gr4_m_1_1",
+  "topicName": "Place Value (5-digit Numbers)",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning place value of 5-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_4digit",
+      "conceptName": "Place value in 4-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_pv4_v1", "prereq_pv4_v2"]
+    },
+    {
+      "conceptId": "place_positions",
+      "conceptName": "Understanding place positions (ones, tens, hundreds, thousands)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_pos_v1"]
+    },
+    {
+      "conceptId": "counting_10000",
+      "conceptName": "Counting and number sense up to 10,000",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_count_v1"]
+    },
+    {
+      "conceptId": "pv_calculation",
+      "conceptName": "Calculating place value",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_calc_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "What is the place value of 7 in the number 3,726?",
+
+      "options": ["7", "70", "700", "7000"],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "700",
+
+      "explanation": "The digit 7 is in the hundreds place. So its place value is 7 × 100 = 700.",
+
+      "tags": ["place value", "4-digit", "hundreds place"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused face value with place value",
+          "conceptGap": "Understanding place value vs face value",
+          "remediation": "Review place value basics"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "In 8,456, which digit is in the thousands place?",
+
+      "options": ["4", "5", "6", "8"],
+
+      "correctAnswer": 3,
+      "correctAnswerText": "8",
+
+      "explanation": "Reading from left to right: 8 is in the thousands place, 4 in hundreds, 5 in tens, 6 in ones.",
+
+      "tags": ["place value", "thousands place", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted from wrong direction",
+          "conceptGap": "Identifying place positions",
+          "remediation": "Practice place value positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "True or False: In 5,239, the 2 represents 200.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The digit 2 is in the hundreds place, so it represents 2 × 100 = 200.",
+
+      "tags": ["place value", "4-digit", "value representation"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Calculated place value incorrectly",
+          "conceptGap": "Place value calculation",
+          "remediation": "Review calculating place value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_positions",
+
+      "question": "How many places are there in a 4-digit number?",
+
+      "options": ["3", "4", "5", "10"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "4",
+
+      "explanation": "A 4-digit number has 4 places: thousands, hundreds, tens, and ones.",
+
+      "tags": ["place positions", "number structure"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Thought 5-digit has 4 places",
+          "conceptGap": "Understanding place count",
+          "remediation": "Count places in numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_positions",
+
+      "question": "Which place comes after the thousands place (moving left)?",
+
+      "options": ["Hundreds", "Ten thousands", "Tens", "Lakhs"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Ten thousands",
+
+      "explanation": "Moving left from thousands, the next place is ten thousands: ones → tens → hundreds → thousands → ten thousands.",
+
+      "tags": ["place positions", "place value system"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Moved right instead of left",
+          "conceptGap": "Understanding place value progression",
+          "remediation": "Review place value chart"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "fill_blank",
+      "difficulty": "intermediate",
+      "conceptTested": "place_positions",
+
+      "question": "Fill in the blank: In a place value chart, the places from right to left are: ones, tens, hundreds, _____, ten thousands.",
+
+      "correctAnswer": "thousands",
+      "acceptedAnswers": ["thousands", "thousand"],
+
+      "explanation": "The progression is: ones, tens, hundreds, thousands, ten thousands.",
+
+      "tags": ["place positions", "sequence"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": "lakhs",
+          "mistake": "Skipped a place",
+          "conceptGap": "Place value sequence",
+          "remediation": "Memorize place value order"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_10000",
+
+      "question": "What number comes after 9,999?",
+
+      "options": ["10,000", "9,000", "99,999", "1,000"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "10,000",
+
+      "explanation": "After 9,999, we reach 10,000 (ten thousand).",
+
+      "tags": ["counting", "number sequence", "10000"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Added more 9s",
+          "conceptGap": "Understanding transition to 10,000",
+          "remediation": "Practice counting near 10,000"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "counting_10000",
+
+      "question": "True or False: 10,000 is greater than 9,999.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! 10,000 (ten thousand) is 1 more than 9,999.",
+
+      "tags": ["counting", "comparing", "10000"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Confused by number of digits",
+          "conceptGap": "Comparing different digit count numbers",
+          "remediation": "Review comparing numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "pv_calculation",
+
+      "question": "What is 6 thousands + 3 hundreds + 2 tens + 5 ones?",
+
+      "options": ["6,325", "63,25", "6325", "60,325"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "6,325",
+
+      "explanation": "6 thousands = 6000, 3 hundreds = 300, 2 tens = 20, 5 ones = 5. Total: 6000 + 300 + 20 + 5 = 6,325.",
+
+      "tags": ["place value", "calculation", "combining"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Forgot comma in standard form",
+          "conceptGap": "Writing numbers in standard form",
+          "remediation": "Practice writing with commas"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "pv_calculation",
+
+      "question": "Which statement is TRUE about place value?",
+
+      "options": [
+        "Each place is 10 times the place to its right",
+        "All places have equal value",
+        "Place value only works with 4-digit numbers",
+        "Face value and place value are always the same"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Each place is 10 times the place to its right",
+
+      "explanation": "In our number system, each place is 10 times the value of the place to its right. Example: hundreds (100) is 10 times tens (10).",
+
+      "tags": ["place value", "understanding", "system"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 50,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Confused face value and place value",
+          "conceptGap": "Understanding the difference",
+          "remediation": "Review face vs place value"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong understanding of 4-digit place value. You're ready to learn about 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand place value well. Let's extend this to 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in place value knowledge. Watch review videos before learning 5-digit numbers.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review place value basics. We'll start with 4-digit numbers, then move to 5-digit.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you review place value concepts.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about 5-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch13",
+  "topicId": "gr4_mn_13_1",
+  "topicName": "Distance Calculations",
+  "chapterId": "gr4_math_ncert_ch13",
+  "chapterName": "The Transport Museum",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 13: The Transport Museum (Distance, Time, Money, and Practical Math)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of money, addition, time, and distance. Can fast-track through core museum math content with challenge problems.",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2490,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn13_v1",
+          "reason": "Introduction to distance calculations with kilometres and metres",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v2",
+          "reason": "Learn elapsed time calculations for travel journeys",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v3",
+          "reason": "Practice money math with ticket prices",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn13_v4",
+          "reason": "Apply multiplication to real museum problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v5",
+          "reason": "Challenge: Word problems combining addition, subtraction, and transport",
+          "skippable": false
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of all transport museum math topics",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2070,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn13_v1",
+          "reason": "Introduction to distance calculations",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v2",
+          "reason": "Time calculations for travel journeys",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v3",
+          "reason": "Money math and ticket prices",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v4",
+          "reason": "Practical math at the museum using multiplication",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v5",
+          "reason": "Word problems with addition and subtraction in transport context",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in money, addition, or time concepts. Needs targeted review before tackling transport museum math.",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 3330,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "money_basics_weak": {
+            "addVideos": ["prereq_ch13_money_v1"],
+            "priority": "high"
+          },
+          "multi_digit_addition_weak": {
+            "addVideos": ["prereq_ch13_addition_v1"],
+            "priority": "high"
+          },
+          "time_basics_weak": {
+            "addVideos": ["prereq_ch13_time_v1"],
+            "priority": "medium"
+          },
+          "distance_concept_weak": {
+            "addVideos": ["prereq_ch13_addition_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch13_money_v1",
+          "reason": "Review: Indian money - rupees and paise",
+          "skippable": false,
+          "condition": "if money_basics concept is weak"
+        },
+        {
+          "videoId": "prereq_ch13_addition_v1",
+          "reason": "Review: Adding 3 and 4 digit numbers",
+          "skippable": false,
+          "condition": "if multi_digit_addition concept is weak"
+        },
+        {
+          "videoId": "prereq_ch13_time_v1",
+          "reason": "Review: Telling time in hours and minutes",
+          "skippable": false,
+          "condition": "if time_basics concept is weak"
+        },
+        {
+          "videoId": "gr4_mn13_v1",
+          "reason": "Start main topic: Distance calculations",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v2",
+          "reason": "Time calculations for travel",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v3",
+          "reason": "Money and ticket prices",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v4",
+          "reason": "Practical math at the museum",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v5",
+          "reason": "Word problems with transport context",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in money, addition, and time before attempting transport museum math",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2160,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch13_money_v1",
+          "reason": "Foundation: Review Indian money - rupees and paise",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch13_addition_v1",
+          "reason": "Essential: Review adding 3 and 4 digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch13_time_v1",
+          "reason": "Critical: Review telling time in hours and minutes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v1",
+          "reason": "Gentle intro to distance calculations",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn13_v3",
+          "reason": "Begin main content: Money math with ticket prices",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with the Transport Museum chapter."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "money_basics": {
+        "conceptName": "Understanding Indian money (rupees and paise)",
+        "importance": "critical",
+        "videoIds": ["prereq_ch13_money_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq13_1", "rq13_2", "rq13_3"]
+      },
+      "multi_digit_addition": {
+        "conceptName": "Adding 3-digit and 4-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_ch13_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq13_4", "rq13_5", "rq13_6"]
+      },
+      "time_basics": {
+        "conceptName": "Telling time in hours and minutes",
+        "importance": "important",
+        "videoIds": ["prereq_ch13_time_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq13_7", "rq13_8"]
+      },
+      "distance_concept": {
+        "conceptName": "Basic understanding of distance and measurement",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch13_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq13_9", "rq13_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn13_v1",
+        "checkpointName": "Distance Calculation Check",
+        "questions": [
+          {
+            "question": "A car travels 150 km from Delhi to Mathura and then 50 km more to Agra. What is the total distance?",
+            "options": ["100 km", "150 km", "200 km", "250 km"],
+            "correctAnswer": 2,
+            "explanation": "150 km + 50 km = 200 km total distance."
+          },
+          {
+            "question": "Which is farther: 3 kilometres or 300 metres?",
+            "options": ["3 kilometres", "300 metres", "They are the same", "Cannot tell"],
+            "correctAnswer": 0,
+            "explanation": "3 kilometres = 3000 metres, which is much farther than 300 metres."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand distance calculations well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch13_addition_v1",
+          "reason": "Student struggling with distance addition, review multi-digit addition"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn13_v3",
+        "checkpointName": "Money and Ticket Price Check",
+        "questions": [
+          {
+            "question": "A museum ticket costs 25 rupees for a child. How much do 3 tickets cost?",
+            "options": ["50 rupees", "60 rupees", "75 rupees", "80 rupees"],
+            "correctAnswer": 2,
+            "explanation": "3 tickets x 25 rupees = 75 rupees. You can think of it as 25 + 25 + 25 = 75."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn13_v5",
+          "reason": "Student ready for combined word problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the money math video again, then try some practice problems with ticket prices."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on money basics or addition"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising money counting and addition with real objects at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your money, addition, and time really well. You are ready to explore the Transport Museum. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand money, addition, and time well. Let's visit the Transport Museum with complete coverage of all the topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in money, addition, or time concepts. Don't worry! We will start with targeted review videos on the concepts you need, then move to the museum math."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review money basics, addition, and time-telling first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then explore the Transport Museum."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how transport museum math concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Indian money (rupees and paise)", "Multi-digit addition", "Telling time"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Distance in kilometres and metres", "Counting and adding money", "Reading schedules"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Distance calculations between places", "Elapsed time for journeys", "Ticket price calculations"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Multiplication in real-life museum context", "Combined word problems", "Making change"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Multi-step transport word problems", "Planning a trip using math", "Budget calculations"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "distanceCalculationFluency": {
+      "target": 85,
+      "description": "% of students who can solve basic distance word problems correctly"
+    },
+    "moneyMathAccuracy": {
+      "target": 80,
+      "description": "% of students who can calculate ticket prices and change correctly"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (25 min) + retake + main content (25 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing kilometres with metres",
+      "solution1": "Emphasise that kilometres are for long distances (between cities) and metres for shorter distances. Use relatable examples like school to home.",
+      "challenge2": "Students struggling with elapsed time when minutes cross the hour boundary",
+      "solution2": "Use a number line or clock face to count forward. Break into 'minutes to the next hour' then 'remaining hours and minutes'.",
+      "challenge3": "Students adding money amounts without aligning rupees and paise correctly",
+      "solution3": "Practice writing money amounts in a column with rupees and paise separated. Use real coins and notes for hands-on practice."
+    }
+  }
+}

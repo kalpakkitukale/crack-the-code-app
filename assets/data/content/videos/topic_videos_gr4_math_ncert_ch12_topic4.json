@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn12_t4",
+  "topicId": "gr4_mn_12_4",
+  "topicName": "Calendar Reading",
+  "chapterId": "gr4_math_ncert_ch12",
+  "chapterName": "Ticking Clocks and Turning Calendar",
+  "description": "Main learning videos for reading a calendar: months of the year, days in each month, the knuckle trick, leap years, and finding days and dates on a calendar",
+
+  "videos": [
+    {
+      "id": "gr4_mn12_v5",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Months of the Year Song | Learn the Calendar",
+      "description": "Sing along and learn all 12 months of the year in order! This catchy song helps you remember January through December, and how many days each month has.",
+
+      "youtubeId": "Fe9bnYRzFvk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fe9bnYRzFvk",
+      "thumbnailUrl": "https://img.youtube.com/vi/Fe9bnYRzFvk/hqdefault.jpg",
+
+      "duration": 180,
+      "durationDisplay": "3:00",
+
+      "channelName": "The Singing Walrus",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 45000000,
+
+      "tags": ["months", "calendar", "year", "song", "days in month"],
+
+      "learningObjectives": [
+        "Name all 12 months of the year in order",
+        "Know how many days each month has",
+        "Learn the knuckle trick for remembering month lengths"
+      ],
+
+      "prerequisites": ["Days of the week"],
+      "followUpTopics": ["Leap years", "Calendar word problems"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "How many months are there in one year?",
+            "options": ["7", "10", "12"],
+            "correctAnswer": 2
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn12_v5"],
+      "estimatedTime": 180
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn12_v5"],
+      "estimatedTime": 180
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn12_v5"],
+      "estimatedTime": 180
+    }
+  }
+}

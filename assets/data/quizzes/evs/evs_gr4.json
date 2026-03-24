@@ -1,0 +1,290 @@
+{
+  "quiz": {
+    "id": "quiz_evs_gr4",
+    "level": "subject",
+    "entityId": "evs_gr4",
+    "title": "EVS Grade 4 - Complete Assessment",
+    "questionIds": [
+      "q_evs4_001",
+      "q_evs4_002",
+      "q_evs4_003",
+      "q_evs4_004",
+      "q_evs4_005",
+      "q_evs4_006",
+      "q_evs4_007",
+      "q_evs4_008",
+      "q_evs4_009",
+      "q_evs4_010",
+      "q_evs4_011",
+      "q_evs4_012"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_evs4_001",
+      "questionText": "Which of these is a living thing?",
+      "questionType": "mcq",
+      "options": [
+        "Car",
+        "Butterfly",
+        "Rock",
+        "Water"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A butterfly is a living thing. It grows, moves, eats, and reproduces.",
+      "hints": [
+        "Can move and grow",
+        "It's an insect"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["living_things"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_002",
+      "questionText": "What is an ecosystem?",
+      "questionType": "mcq",
+      "options": [
+        "Only plants",
+        "Only animals",
+        "Living and non-living things interacting together",
+        "Only water bodies"
+      ],
+      "correctAnswer": "C",
+      "explanation": "An ecosystem is a community where living things (plants, animals) and non-living things (air, water, soil) interact with each other.",
+      "hints": [
+        "Living + non-living together",
+        "They all interact"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["ecosystem"],
+      "topicIds": ["gr4_ev_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_003",
+      "questionText": "What is the main source of water on Earth?",
+      "questionType": "mcq",
+      "options": [
+        "Rivers",
+        "Lakes",
+        "Oceans",
+        "Wells"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Oceans contain about 97% of Earth's water. They are the main source of water on our planet.",
+      "hints": [
+        "Contains salt water",
+        "Largest water body"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["water", "earth"],
+      "topicIds": ["gr4_ev_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_004",
+      "questionText": "What happens to water when it is heated?",
+      "questionType": "mcq",
+      "options": [
+        "It becomes ice",
+        "It evaporates into vapor",
+        "It stays the same",
+        "It becomes solid"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When water is heated, it evaporates and becomes water vapor (gas). This is part of the water cycle.",
+      "hints": [
+        "It rises up as gas",
+        "Evaporation"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["water_cycle", "evaporation"],
+      "topicIds": ["gr4_ev_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_005",
+      "questionText": "Why should we conserve water?",
+      "questionType": "mcq",
+      "options": [
+        "Because water is unlimited",
+        "Because fresh water is limited",
+        "Because we don't need it",
+        "Because it's expensive"
+      ],
+      "correctAnswer": "B",
+      "explanation": "We should conserve water because fresh, clean water is limited. Only a small part of Earth's water is fresh water that we can use.",
+      "hints": [
+        "Fresh water is not unlimited",
+        "We need it for survival"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["water", "conservation"],
+      "topicIds": ["gr4_ev_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_006",
+      "questionText": "What is a good way to save water?",
+      "questionType": "mcq",
+      "options": [
+        "Leave taps running",
+        "Take long showers",
+        "Fix leaking taps",
+        "Wash car with pipe daily"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Fixing leaking taps is a good way to save water. A dripping tap can waste many liters of water daily.",
+      "hints": [
+        "Stop water from wasting",
+        "Repair what's broken"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["conservation", "water"],
+      "topicIds": ["gr4_ev_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_007",
+      "questionText": "Which part of the plant grows underground?",
+      "questionType": "mcq",
+      "options": [
+        "Leaves",
+        "Flowers",
+        "Roots",
+        "Fruits"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Roots grow underground. They absorb water and minerals from the soil and anchor the plant.",
+      "hints": [
+        "It's under the soil",
+        "Absorbs water"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plants", "roots"],
+      "topicIds": ["gr4_ev_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_008",
+      "questionText": "Which type of plant has a thick, woody stem?",
+      "questionType": "mcq",
+      "options": [
+        "Herb",
+        "Shrub",
+        "Tree",
+        "Grass"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trees have thick, woody stems called trunks. They are the largest type of plants and live for many years.",
+      "hints": [
+        "Tallest plants",
+        "Strong woody trunk"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plants", "types"],
+      "topicIds": ["gr4_ev_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_009",
+      "questionText": "What do we get from plants?",
+      "questionType": "mcq",
+      "options": [
+        "Only food",
+        "Only oxygen",
+        "Food, oxygen, wood, and medicine",
+        "Only shade"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Plants give us many things: food (fruits, vegetables), oxygen to breathe, wood for furniture, medicine, and much more.",
+      "hints": [
+        "Plants give us many things",
+        "More than one use"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plants", "uses"],
+      "topicIds": ["gr4_ev_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_010",
+      "questionText": "What happens when water vapor cools down?",
+      "questionType": "mcq",
+      "options": [
+        "It evaporates more",
+        "It condenses into water droplets",
+        "It becomes ice directly",
+        "Nothing happens"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When water vapor cools down, it condenses into tiny water droplets. This forms clouds in the sky.",
+      "hints": [
+        "Vapor to liquid",
+        "Forms clouds"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["water_cycle", "condensation"],
+      "topicIds": ["gr4_ev_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_011",
+      "questionText": "Which of these is a desert plant?",
+      "questionType": "mcq",
+      "options": [
+        "Mango tree",
+        "Lotus",
+        "Cactus",
+        "Banana tree"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cactus is a desert plant. It has thick, fleshy stems that store water and spines instead of leaves to reduce water loss.",
+      "hints": [
+        "Lives in dry places",
+        "Has spines"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plants", "adaptations"],
+      "topicIds": ["gr4_ev_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs4_012",
+      "questionText": "What is the main component of an ecosystem that provides energy?",
+      "questionType": "mcq",
+      "options": [
+        "Water",
+        "Sunlight",
+        "Soil",
+        "Air"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sunlight is the main source of energy in an ecosystem. Plants use sunlight to make food through photosynthesis.",
+      "hints": [
+        "Plants need it to make food",
+        "Comes from the sun"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["ecosystem", "energy"],
+      "topicIds": ["gr4_ev_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

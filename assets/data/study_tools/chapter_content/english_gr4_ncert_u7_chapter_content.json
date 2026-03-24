@@ -1,0 +1,54 @@
+{
+  "chapterId": "gr4_eng_ncert_u7",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en7",
+    "title": "A Watering Rhyme / The Giving Tree",
+    "content": "Unit 7 of the Marigold textbook brings together two beautiful pieces about our relationship with nature. The poem 'A Watering Rhyme' teaches children the right time and way to water plants - early morning or evening, never during the hot afternoon sun. The story 'The Giving Tree' tells us about a tree that loved a little boy so much that it gave him everything it had - its apples, branches, and trunk. In the end, only a stump was left, but the tree was still happy to offer a seat to the tired old man. The story is a powerful lesson about selfless love and gratitude. The grammar section introduces tenses - past, present, and future - helping students understand how verbs change to show when an action happens.",
+    "keyPoints": [
+      "The poem teaches us to water plants in the morning or evening, not during the hot afternoon",
+      "Plants need regular care with water, sunlight, and love to grow well",
+      "The Giving Tree gave the boy apples, branches, and its trunk as he grew older",
+      "The story teaches selfless love - giving without expecting anything in return",
+      "Past tense tells about actions that already happened (played, climbed, gave)",
+      "Present tense tells about actions happening now (plays, climbs, gives)",
+      "Future tense uses 'will' or 'shall' for actions that will happen later"
+    ],
+    "learningObjectives": [
+      "Understand the poem A Watering Rhyme and explain the best times to water plants",
+      "Retell the story of The Giving Tree and explain its moral lesson",
+      "Identify themes of selfless love and gratitude in the story",
+      "Recognise past, present, and future tense in sentences",
+      "Change verbs from one tense to another correctly",
+      "Know the difference between regular and irregular past tense forms"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en7_001",
+      "title": "Plant Care Journal Activity",
+      "content": "Start a small plant care journal! Pick a plant at home or in school. Water it at the right time (morning or evening) every day for a week. Write down what you did each day using past tense: 'I watered the plant in the morning. The leaves looked fresh.' This helps you practise both caring for nature and using tenses!",
+      "tags": ["activity", "nature", "tenses", "writing"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en7_002",
+      "title": "The Giving Tree and Your Life",
+      "content": "Think about the people in your life who are like the Giving Tree - your parents, grandparents, or teachers. They give you love, food, education, and care without asking for anything in return. Write a short thank-you note to someone who is like a giving tree in your life. Use at least one sentence each in past, present, and future tense.",
+      "tags": ["reflection", "gratitude", "story", "values"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en7_003",
+      "title": "Tense Spotting Challenge",
+      "content": "Read 'The Giving Tree' story again and make three columns: Past, Present, Future. Write every verb you find in the correct column. For example: 'climbed' goes in Past, 'gives' goes in Present. Can you find verbs for all three tenses? This is a great way to practise identifying tenses in real stories!",
+      "tags": ["practice", "grammar", "tenses", "challenge"],
+      "isPinned": false
+    }
+  ]
+}

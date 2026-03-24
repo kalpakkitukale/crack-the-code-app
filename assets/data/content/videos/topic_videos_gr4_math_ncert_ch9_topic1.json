@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn9_t1",
+  "topicId": "gr4_mn_9_1",
+  "topicName": "Multiplication as Equal Groups",
+  "chapterId": "gr4_math_ncert_ch9",
+  "chapterName": "Equal Groups",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1770,
+    "totalDurationDisplay": "29:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_9_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn9_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "What is Multiplication? | Equal Groups for Kids",
+      "description": "Learn what multiplication means by making equal groups of objects. See how putting the same number in each group leads to multiplication!",
+      "youtubeId": "mvOkMYCygps",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mvOkMYCygps",
+      "thumbnailUrl": "https://img.youtube.com/vi/mvOkMYCygps/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["multiplication", "equal groups", "introduction", "basic multiplication"],
+      "learningObjectives": ["Understand what multiplication means", "See multiplication as making equal groups", "Solve simple equal group problems"],
+      "keyConceptsCovered": ["Multiplication means equal groups", "Groups of the same size", "Multiplication symbol (x)"],
+      "prerequisites": ["Basic counting", "Understanding of equal"],
+      "followUpTopics": ["Making equal groups", "Repeated addition"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Making Equal Groups | Multiplication as Repeated Addition",
+      "description": "Discover how making equal groups is the same as adding the same number again and again. 3 groups of 4 means 4 + 4 + 4 = 12, which is 3 x 4 = 12!",
+      "youtubeId": "dFpVMGjYfI4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dFpVMGjYfI4",
+      "thumbnailUrl": "https://img.youtube.com/vi/dFpVMGjYfI4/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2200000,
+      "tags": ["equal groups", "repeated addition", "multiplication concept", "making groups"],
+      "learningObjectives": ["Connect repeated addition to multiplication", "Make equal groups from objects", "Write multiplication sentences from groups"],
+      "keyConceptsCovered": ["Repeated addition as multiplication", "Number of groups x size of each group", "Writing multiplication equations"],
+      "prerequisites": ["Understanding of equal groups"],
+      "followUpTopics": ["Arrays"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch9_addition_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Repeated Addition | Adding the Same Number Again and Again",
+      "description": "Learn how adding the same number many times is called repeated addition. 5 + 5 + 5 = 15 is adding 5 three times. This is the foundation of multiplication!",
+      "youtubeId": "rGMecZ_aERo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rGMecZ_aERo",
+      "thumbnailUrl": "https://img.youtube.com/vi/rGMecZ_aERo/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["repeated addition", "addition", "multiplication foundation"],
+      "learningObjectives": ["Write repeated addition sentences", "Connect repeated addition to equal groups", "Solve problems using repeated addition"],
+      "keyConceptsCovered": ["Repeated addition in real life", "Adding the same number multiple times", "Foundation for multiplication"],
+      "prerequisites": ["Addition fluency"],
+      "followUpTopics": ["Multiplication facts"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch9_grouping_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Grouping Objects | Putting Things into Equal Groups",
+      "description": "Practise putting objects into groups of the same size. If you have 12 apples and put 3 in each basket, how many baskets do you need? Grouping is the start of multiplication!",
+      "youtubeId": "EvmAIpWTNMc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvmAIpWTNMc",
+      "thumbnailUrl": "https://img.youtube.com/vi/EvmAIpWTNMc/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+      "tags": ["grouping", "equal groups", "practice", "multiplication foundation"],
+      "learningObjectives": ["Group objects into equal-sized groups", "Count groups and items per group", "Write multiplication from grouping"],
+      "keyConceptsCovered": ["Equal groups with real objects", "Counting groups", "Groups of the same size"],
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Multiplication facts", "Arrays"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn9_v1", "gr4_mn9_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Quick introduction to equal groups for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn9_v1", "gr4_mn9_v2", "prereq_ch9_addition_v1", "prereq_ch9_grouping_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1770,
+      "estimatedTimeDisplay": "29:30",
+      "rationale": "Complete coverage of equal groups and repeated addition"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch9_addition_v1", "prereq_ch9_grouping_v1", "gr4_mn9_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1290,
+      "estimatedTimeDisplay": "21:30",
+      "rationale": "Start with prerequisite review, then core equal groups concept"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn9_v1", "gr4_mn9_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Essential equal groups introduction only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn9_v2",
+      "checkpointName": "Equal Groups Understanding Check",
+      "questions": [
+        {
+          "question": "There are 3 baskets with 5 mangoes in each basket. How many mangoes are there in total?",
+          "options": ["8 mangoes", "10 mangoes", "15 mangoes", "20 mangoes"],
+          "correctAnswer": 2,
+          "explanation": "3 baskets with 5 mangoes each: 5 + 5 + 5 = 15 mangoes. That is 3 x 5 = 15!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Start with real objects to make equal groups. Use pencils, blocks, or counters. Let students physically create groups before moving to written multiplication.",
+    "parentGuidance": "Help your child see equal groups at home. Arrange biscuits on plates equally, put shoes in pairs, or stack books in equal piles.",
+    "studentGuidance": "Multiplication is just making equal groups! When you put the same number of things in each group and count the total, you are multiplying!"
+  }
+}

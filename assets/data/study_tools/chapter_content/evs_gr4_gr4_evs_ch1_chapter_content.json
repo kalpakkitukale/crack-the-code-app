@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_ev1",
+    "title": "Our Environment",
+    "content": "This chapter helps students explore the world around them by understanding living and non-living things and how they work together in ecosystems. Students will learn to identify the characteristics of living things such as growth, breathing, movement, and reproduction. They will also discover how plants, animals, and non-living things like water, air, and sunlight are all connected in an ecosystem through food chains and habitats.",
+    "keyPoints": [
+      "Living things grow, breathe, eat, move, feel, and reproduce",
+      "Non-living things do not have these characteristics",
+      "An ecosystem is a community of living and non-living things interacting together",
+      "Food chains show how energy flows from producers to consumers to decomposers",
+      "Every living thing has a habitat that provides food, water, and shelter"
+    ],
+    "learningObjectives": [
+      "Identify and classify things as living or non-living",
+      "List the characteristics of living things",
+      "Understand what an ecosystem is and name its parts",
+      "Explain how a food chain works",
+      "Describe how living things adapt to their habitats"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_ev1_001",
+      "title": "Quick Sorting Activity",
+      "content": "Look around your room and make two lists: one for living things and one for non-living things. Remember, something that was once alive (like a wooden table) is still classified as non-living because it can no longer grow, breathe, or reproduce. Try sorting at least 10 things!",
+      "tags": ["study-tip", "activity"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_ev1_002",
+      "title": "Draw Your Own Food Chain",
+      "content": "Practice drawing a food chain from your local environment. Start with a plant (producer), then an animal that eats the plant (herbivore), then an animal that eats that animal (carnivore). For example: Grass -> Grasshopper -> Frog -> Snake -> Eagle. Add arrows to show the direction energy flows.",
+      "tags": ["practice", "visual-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_ev1_003",
+      "title": "Common Mistake to Avoid",
+      "content": "Many students think that non-living things that move (like a car or a river) are living. Remember: living things move on their own because they are alive. A car needs a person to drive it, and a river flows because of gravity. Always check all characteristics, not just movement!",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    }
+  ]
+}

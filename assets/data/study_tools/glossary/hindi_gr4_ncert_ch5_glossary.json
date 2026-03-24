@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch5",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn5_001",
+      "term": "पोशाक (Poshak)",
+      "definition": "Clothing, outfit, or costume. It refers to the clothes or dress a person wears. Poshak can be simple or fancy depending on the occasion.",
+      "pronunciation": "PO-shaak",
+      "exampleUsage": "उसने बहुत सुंदर पोशाक पहनी थी। (He/She wore a very beautiful outfit.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कपड़े", "वस्त्र", "पहनावा"]
+    },
+    {
+      "id": "gls_gr4_hn5_002",
+      "term": "दोस्त (Dost)",
+      "definition": "A friend - someone you care about and who cares about you. A true friend (सच्चा दोस्त) accepts you as you are, regardless of appearances.",
+      "pronunciation": "DOST",
+      "exampleUsage": "मेरा दोस्त बहुत अच्छा इंसान है। (My friend is a very good person.)",
+      "difficulty": "easy",
+      "relatedTerms": ["दोस्ती", "मित्र", "सखा"]
+    },
+    {
+      "id": "gls_gr4_hn5_003",
+      "term": "सम्मान (Sammaan)",
+      "definition": "Respect or honour - treating someone with dignity and regard. Every person deserves sammaan regardless of how they look or dress.",
+      "pronunciation": "sam-MAAN",
+      "exampleUsage": "हमें सबका सम्मान करना चाहिए। (We should respect everyone.)",
+      "difficulty": "medium",
+      "relatedTerms": ["आदर", "इज़्ज़त", "अपमान"]
+    },
+    {
+      "id": "gls_gr4_hn5_004",
+      "term": "अपमान (Apmaan)",
+      "definition": "Disrespect or insult - treating someone in a way that hurts their dignity. It is the opposite of sammaan. No one should face apmaan because of their appearance.",
+      "pronunciation": "ap-MAAN",
+      "exampleUsage": "किसी का अपमान करना गलत है। (It is wrong to disrespect anyone.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सम्मान", "बेइज़्ज़ती", "तिरस्कार"]
+    },
+    {
+      "id": "gls_gr4_hn5_005",
+      "term": "दिखावा (Dikhava)",
+      "definition": "Showing off or pretence based on outward appearance. It means judging or valuing something only by how it looks on the outside, not by its true worth.",
+      "pronunciation": "di-KHAA-vaa",
+      "exampleUsage": "दिखावे पर मत जाओ, असली गुण पहचानो। (Do not go by appearances, recognise true qualities.)",
+      "difficulty": "medium",
+      "relatedTerms": ["दिखाना", "बाहरी", "नकली"]
+    },
+    {
+      "id": "gls_gr4_hn5_006",
+      "term": "दोस्ती (Dosti)",
+      "definition": "Friendship - the bond of love, trust, and care between friends. True dosti does not depend on money, clothes, or looks.",
+      "pronunciation": "DOS-tee",
+      "exampleUsage": "सच्ची दोस्ती में कपड़ों का कोई मतलब नहीं। (In true friendship, clothes do not matter.)",
+      "difficulty": "easy",
+      "relatedTerms": ["दोस्त", "मित्रता", "प्यार"]
+    },
+    {
+      "id": "gls_gr4_hn5_007",
+      "term": "दावत (Daavat)",
+      "definition": "A feast or banquet - a special gathering where food is served to guests. In the story, the friend attends a daavat where he is treated differently based on his clothes.",
+      "pronunciation": "DAA-vat",
+      "exampleUsage": "दावत में सबके लिए अच्छा खाना बना था। (Good food was prepared for everyone at the feast.)",
+      "difficulty": "easy",
+      "relatedTerms": ["खाना", "मेहमान", "भोज"]
+    },
+    {
+      "id": "gls_gr4_hn5_008",
+      "term": "गुण (Gun)",
+      "definition": "Qualities or virtues - the good characteristics that make a person who they really are. Goon are more important than clothes or outward appearance.",
+      "pronunciation": "GUN",
+      "exampleUsage": "इंसान की पहचान उसके गुणों से होती है। (A person is recognised by their qualities.)",
+      "difficulty": "medium",
+      "relatedTerms": ["अवगुण", "स्वभाव", "चरित्र"]
+    },
+    {
+      "id": "gls_gr4_hn5_009",
+      "term": "मेहमान (Mehmaan)",
+      "definition": "A guest - someone who visits another person's home or event. In Indian culture, guests are treated with great respect (अतिथि देवो भव - a guest is like God).",
+      "pronunciation": "meh-MAAN",
+      "exampleUsage": "हमें हर मेहमान का स्वागत करना चाहिए। (We should welcome every guest.)",
+      "difficulty": "easy",
+      "relatedTerms": ["अतिथि", "स्वागत", "आतिथ्य"]
+    },
+    {
+      "id": "gls_gr4_hn5_010",
+      "term": "सादगी (Saadgi)",
+      "definition": "Simplicity - being plain and modest without showing off. Saadgi in clothes or behaviour shows that a person values inner qualities over outer appearances.",
+      "pronunciation": "SAAD-gee",
+      "exampleUsage": "सादगी में भी सुंदरता होती है। (There is beauty in simplicity too.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सादा", "सरल", "विनम्रता"]
+    }
+  ]
+}

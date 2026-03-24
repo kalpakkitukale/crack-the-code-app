@@ -1,0 +1,60 @@
+{
+  "chapterId": "gr4_hin_ch2",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_h2",
+    "title": "Sangya aur Sarvanam (संज्ञा और सर्वनाम)",
+    "content": "This chapter teaches you about two important parts of Hindi grammar: Sangya (संज्ञा - Nouns) and Sarvanam (सर्वनाम - Pronouns). Sangya are naming words - they give names to people (व्यक्ति), places (स्थान), things (वस्तु), and feelings (भाव). You will learn about different types of Sangya such as Vyakti Vachak Sangya (व्यक्तिवाचक संज्ञा - Proper Nouns), Jativachak Sangya (जातिवाचक संज्ञा - Common Nouns), Bhav Vachak Sangya (भाववाचक संज्ञा - Abstract Nouns), and Samuh Vachak Sangya (समूहवाचक संज्ञा - Collective Nouns). You will also learn about Sarvanam, which are words used in place of Sangya to make our sentences smoother and avoid repeating names. By the end of this chapter, you will be able to identify Sangya and Sarvanam in Hindi sentences and use them correctly in your own writing and speaking.",
+    "keyPoints": [
+      "संज्ञा (Sangya) is a noun - the name of a person, place, thing, or feeling",
+      "व्यक्तिवाचक संज्ञा (Proper Noun) is the special name of a particular person, place, or thing like राम, दिल्ली",
+      "जातिवाचक संज्ञा (Common Noun) is a general name for a class or type like लड़का, नदी",
+      "भाववाचक संज्ञा (Abstract Noun) names feelings and qualities like सुंदरता, ईमानदारी",
+      "सर्वनाम (Sarvanam) is a pronoun - a word used in place of a Sangya to avoid repetition",
+      "पुरुषवाचक सर्वनाम (Personal Pronouns) include मैं (I), तुम (you), वह (he/she), हम (we), वे (they)"
+    ],
+    "learningObjectives": [
+      "Define Sangya (noun) and identify different types in Hindi sentences",
+      "Distinguish between Vyakti Vachak (proper), Jativachak (common), and Bhav Vachak (abstract) Sangya",
+      "Understand why we use Sarvanam (pronouns) in Hindi",
+      "Learn the different types of Sarvanam: Purushvachak, Nishchay Vachak, Prashnavachak, and Anishchay Vachak",
+      "Replace Sangya with the correct Sarvanam in Hindi sentences",
+      "Use Sangya and Sarvanam correctly in speaking and writing"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_h2_001",
+      "title": "संज्ञा पहचानने की आसान तरकीब (Easy Trick to Spot Sangya)",
+      "content": "किसी भी वाक्य में संज्ञा पहचानने के लिए दो सवाल पूछो: 'कौन?' (Who?) और 'क्या?' (What?). For example, in 'राम ने किताब पढ़ी' - ask 'कौन ने पढ़ी?' (राम) and 'क्या पढ़ी?' (किताब). Both answers are Sangya! Try this trick with any Hindi sentence you read or hear.",
+      "tags": ["study-tip", "sangya", "trick"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_h2_002",
+      "title": "संज्ञा के प्रकार याद रखने का तरीका (How to Remember Types of Sangya)",
+      "content": "Remember the types of Sangya with this simple method: (1) व्यक्तिवाचक = Special Name (राम, गंगा, भारत - always one specific thing); (2) जातिवाचक = General Name (लड़का, नदी, देश - any of that type); (3) भाववाचक = Feeling/Quality Name (खुशी, सुंदरता, बचपन - cannot touch or see it); (4) समूहवाचक = Group Name (सेना, भीड़, कक्षा - a whole group together).",
+      "tags": ["important", "sangya-types", "memory-aid"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_h2_003",
+      "title": "सर्वनाम अभ्यास (Sarvanam Practice Activity)",
+      "content": "Pick any paragraph from your Hindi textbook. Underline all the Sangya (nouns) with a pencil and circle all the Sarvanam (pronouns) with a pen. Then draw an arrow from each Sarvanam to the Sangya it replaces. For example: 'सीता गई। वह बाज़ार गई।' - Draw an arrow from 'वह' to 'सीता'. This will help you see how Sangya and Sarvanam work together!",
+      "tags": ["practice", "activity", "sarvanam"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_h2_004",
+      "title": "सर्वनाम के प्रकार - Quick Reference",
+      "content": "Quick reference for types of Sarvanam: (1) पुरुषवाचक - Personal: मैं/हम (I/we), तुम/आप (you), वह/वे (he-she/they); (2) निश्चयवाचक - Demonstrative: यह (this), वह (that); (3) अनिश्चयवाचक - Indefinite: कोई (someone), कुछ (something); (4) प्रश्नवाचक - Interrogative: कौन (who), क्या (what), किसका (whose). Practice using each type in your own sentences every day!",
+      "tags": ["reference", "sarvanam-types", "quick-guide"],
+      "isPinned": true
+    }
+  ]
+}

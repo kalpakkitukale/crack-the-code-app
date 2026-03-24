@@ -1,0 +1,67 @@
+{
+  "chapterId": "gr4_math_ch2",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_m2_v1",
+      "videoId": "gr4_m2_v1",
+      "content": "This lesson teaches how to add 4-digit and 5-digit numbers without regrouping. The key idea is to line up the numbers by their place values (ones under ones, tens under tens, and so on) and then add each column from right to left. When no column adds up to more than 9, there is no carrying needed. Examples include adding amounts like school supplies budgets or distances between cities.",
+      "keyPoints": [
+        "Always line up numbers by place value before adding",
+        "Start adding from the ones column (rightmost) and move left",
+        "No carrying is needed when each column totals 9 or less",
+        "Adding 4-digit and 5-digit numbers follows the same steps as smaller numbers"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m2_v2",
+      "videoId": "gr4_m2_v2",
+      "content": "This lesson covers addition with regrouping, also called carrying. When the digits in any column add up to 10 or more, we write the ones digit of that sum below the line and carry the tens digit to the next column on the left. Sometimes we need to carry across multiple columns. Practice examples use real-world scenarios like combining savings or counting event attendees.",
+      "keyPoints": [
+        "Regrouping happens when a column sum is 10 or more",
+        "Write the ones digit below and carry the tens digit left",
+        "You may need to carry in several columns in a row",
+        "Double-check by adding in reverse order"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m2_v3",
+      "videoId": "gr4_m2_v3",
+      "content": "This lesson explains subtraction of 4-digit and 5-digit numbers without borrowing. Line up the numbers by place value with the larger number on top, then subtract each column from right to left. When every top digit is bigger than or equal to the bottom digit, no borrowing is needed. Examples include finding the difference in scores, populations, or amounts of money.",
+      "keyPoints": [
+        "Place the larger number on top when setting up subtraction",
+        "Subtract each column from right to left",
+        "No borrowing is needed when every top digit is big enough",
+        "Check your answer by adding: difference + subtrahend = minuend"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m2_v4",
+      "videoId": "gr4_m2_v4",
+      "content": "This lesson teaches subtraction with regrouping, also called borrowing. When a top digit is smaller than the bottom digit, we borrow 1 from the next column to the left. That borrowed 1 becomes 10 in the current column. Sometimes borrowing happens across several columns, including borrowing across zeros. Real-world examples include calculating how much money is left after spending or finding the remaining distance on a road trip.",
+      "keyPoints": [
+        "Borrow when the top digit is smaller than the bottom digit",
+        "Borrowing 1 from the next column adds 10 to the current column",
+        "Borrowing across zeros requires moving to the next non-zero column",
+        "Always check: difference + number subtracted = original number"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m2_v5",
+      "videoId": "gr4_m2_v5",
+      "content": "This lesson focuses on solving word problems that use addition and subtraction. Students learn to read the problem carefully, identify clue words that hint at the operation, set up the equation, solve it, and check whether the answer makes sense. Clue words for addition include 'total', 'altogether', 'in all', and 'combined'. Clue words for subtraction include 'left', 'remaining', 'fewer', and 'difference'.",
+      "keyPoints": [
+        "Read the problem twice to understand what is being asked",
+        "Look for clue words: 'total' and 'altogether' suggest addition",
+        "Clue words like 'left', 'remaining', and 'fewer' suggest subtraction",
+        "Set up the equation, solve, then check if the answer makes sense"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_math_ncert_ch12",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn12_001",
+      "term": "Hour Hand",
+      "definition": "The short hand on a clock that shows the hour. It moves slowly and goes around the clock twice in one full day.",
+      "pronunciation": "OW-er HAND",
+      "exampleUsage": "When the hour hand points to 5, it means the hour is 5.",
+      "difficulty": "easy",
+      "relatedTerms": ["minute hand", "clock", "hour"]
+    },
+    {
+      "id": "gls_gr4_mn12_002",
+      "term": "Minute Hand",
+      "definition": "The long hand on a clock that shows the minutes. It moves faster than the hour hand and goes around the clock once every hour.",
+      "pronunciation": "MIN-it HAND",
+      "exampleUsage": "When the minute hand points to 3, it means 15 minutes past the hour.",
+      "difficulty": "easy",
+      "relatedTerms": ["hour hand", "clock", "minute"]
+    },
+    {
+      "id": "gls_gr4_mn12_003",
+      "term": "AM",
+      "definition": "The time from midnight (12:00 at night) to just before noon (12:00 in the afternoon). AM stands for the morning hours.",
+      "pronunciation": "AY-EM",
+      "exampleUsage": "School assembly starts at 8:30 AM, which is in the morning.",
+      "difficulty": "easy",
+      "relatedTerms": ["PM", "noon", "midnight"]
+    },
+    {
+      "id": "gls_gr4_mn12_004",
+      "term": "PM",
+      "definition": "The time from noon (12:00 in the afternoon) to just before midnight (12:00 at night). PM covers the afternoon, evening, and night hours.",
+      "pronunciation": "PEE-EM",
+      "exampleUsage": "We eat dinner at about 8:00 PM, which is in the evening.",
+      "difficulty": "easy",
+      "relatedTerms": ["AM", "noon", "midnight"]
+    },
+    {
+      "id": "gls_gr4_mn12_005",
+      "term": "Elapsed Time",
+      "definition": "The amount of time that passes between a start time and an end time. It tells how long something lasted.",
+      "pronunciation": "ee-LAPSD TIME",
+      "exampleUsage": "A class starts at 10:00 AM and ends at 10:40 AM. The elapsed time is 40 minutes.",
+      "difficulty": "medium",
+      "relatedTerms": ["duration", "start time", "end time"]
+    },
+    {
+      "id": "gls_gr4_mn12_006",
+      "term": "Calendar",
+      "definition": "A chart that shows the days, weeks, and months of a year. It helps us keep track of dates and plan events.",
+      "pronunciation": "KAL-en-der",
+      "exampleUsage": "I checked the calendar and found that Diwali falls on a Thursday this year.",
+      "difficulty": "easy",
+      "relatedTerms": ["date", "month", "year", "week"]
+    },
+    {
+      "id": "gls_gr4_mn12_007",
+      "term": "Leap Year",
+      "definition": "A year that has 366 days instead of 365. February has 29 days in a leap year. A leap year comes once every 4 years.",
+      "pronunciation": "LEEP YEER",
+      "exampleUsage": "The year 2024 is a leap year, so February has 29 days instead of 28.",
+      "difficulty": "medium",
+      "relatedTerms": ["year", "February", "calendar"]
+    },
+    {
+      "id": "gls_gr4_mn12_008",
+      "term": "Noon",
+      "definition": "12 o'clock in the middle of the day. It is when AM changes to PM. Also called midday.",
+      "pronunciation": "NOON",
+      "exampleUsage": "Lunch break at school is at noon, which is 12:00 PM.",
+      "difficulty": "easy",
+      "relatedTerms": ["midnight", "AM", "PM"]
+    },
+    {
+      "id": "gls_gr4_mn12_009",
+      "term": "Midnight",
+      "definition": "12 o'clock in the middle of the night. It is when PM changes to AM. A new day begins at midnight.",
+      "pronunciation": "MID-nite",
+      "exampleUsage": "Most people are sleeping at midnight, which is 12:00 AM.",
+      "difficulty": "easy",
+      "relatedTerms": ["noon", "AM", "PM"]
+    },
+    {
+      "id": "gls_gr4_mn12_010",
+      "term": "Quarter Past",
+      "definition": "15 minutes after the hour. The minute hand points to 3 on the clock face.",
+      "pronunciation": "KWOR-ter PAHST",
+      "exampleUsage": "Quarter past 9 means 9:15. The long hand is on 3 and the short hand is just past 9.",
+      "difficulty": "easy",
+      "relatedTerms": ["half past", "quarter to", "minutes"]
+    },
+    {
+      "id": "gls_gr4_mn12_011",
+      "term": "Half Past",
+      "definition": "30 minutes after the hour. The minute hand points to 6 on the clock face.",
+      "pronunciation": "HAHF PAHST",
+      "exampleUsage": "Half past 3 means 3:30. The long hand is on 6 and the short hand is between 3 and 4.",
+      "difficulty": "easy",
+      "relatedTerms": ["quarter past", "quarter to", "minutes"]
+    },
+    {
+      "id": "gls_gr4_mn12_012",
+      "term": "Quarter To",
+      "definition": "15 minutes before the next hour, which means 45 minutes past the current hour. The minute hand points to 9.",
+      "pronunciation": "KWOR-ter TOO",
+      "exampleUsage": "Quarter to 5 means 4:45. It is 15 minutes before 5 o'clock.",
+      "difficulty": "medium",
+      "relatedTerms": ["quarter past", "half past", "minutes"]
+    }
+  ]
+}

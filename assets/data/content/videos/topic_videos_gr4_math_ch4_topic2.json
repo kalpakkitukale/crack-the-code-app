@@ -1,0 +1,426 @@
+{
+  "playlistId": "gr4_m4_t2_main",
+  "topicId": "gr4_m_4_2",
+  "topicName": "Comparing and Ordering 4-digit Numbers",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2820,
+    "totalDurationDisplay": "47:00",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_4_1"],
+    "followUpTopics": ["gr4_m_4_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_comp_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+
+      "title": "Comparing 4-Digit Numbers | Step by Step Strategy",
+      "description": "Learn the systematic strategy for comparing 4-digit numbers using place value",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 850000,
+
+      "tags": ["comparing numbers", "4-digit", "place value strategy", "step by step", "thousands"],
+
+      "learningObjectives": [
+        "Understand the left-to-right comparison strategy",
+        "Compare thousands place first",
+        "Use place value for systematic comparison",
+        "Determine which 4-digit number is greater or smaller"
+      ],
+
+      "keyConceptsCovered": [
+        "Place value comparison strategy",
+        "Comparing thousands, hundreds, tens, ones in order",
+        "When to stop comparing (first different digit)",
+        "Using mathematical language: greater than, less than"
+      ],
+
+      "prerequisites": ["4-digit place value understanding"],
+      "followUpTopics": ["Ordering multiple 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v2",
+      "sequenceNumber": 2,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+
+      "title": "Comparing 4-Digit Numbers | Multiple Strategies",
+      "description": "Explore different methods for comparing 4-digit numbers including number line visualization",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 620000,
+
+      "tags": ["comparison strategies", "4-digit numbers", "number line", "visual methods"],
+
+      "learningObjectives": [
+        "Compare using place value method",
+        "Visualize on number line",
+        "Use expanded form for comparison",
+        "Choose the most efficient strategy"
+      ],
+
+      "keyConceptsCovered": [
+        "Multiple comparison strategies",
+        "Visual representation of comparison",
+        "Expanded form: 4,567 = 4000 + 500 + 60 + 7",
+        "Number line positioning"
+      ],
+
+      "prerequisites": ["Basic comparison strategy"],
+      "followUpTopics": ["Worked examples"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v3",
+      "sequenceNumber": 3,
+      "type": "worked_examples",
+      "importance": "must_watch",
+
+      "title": "Comparing 4-Digit Numbers | Worked Examples",
+      "description": "Practice comparing 4-digit numbers through detailed step-by-step examples",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+
+      "tags": ["worked examples", "practice", "4-digit comparison", "step by step"],
+
+      "learningObjectives": [
+        "See multiple comparison examples",
+        "Practice identifying which digit determines the answer",
+        "Handle tricky cases (numbers with same thousands)",
+        "Build confidence through repetition"
+      ],
+
+      "keyConceptsCovered": [
+        "Examples with different thousands (easy)",
+        "Examples with same thousands (need to check hundreds)",
+        "Examples requiring comparison to tens or ones",
+        "Common mistakes and how to avoid them"
+      ],
+
+      "prerequisites": ["Comparison strategy"],
+      "followUpTopics": ["Practice problems", "Using symbols"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v4",
+      "sequenceNumber": 4,
+      "type": "concept_extension",
+      "importance": "recommended",
+
+      "title": "Using Greater Than and Less Than Symbols with 4-Digit Numbers",
+      "description": "Apply greater than (>) and less than (<) symbols when comparing 4-digit numbers",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 330,
+      "durationDisplay": "5:30",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+
+      "tags": ["greater than", "less than", "symbols", "4-digit numbers", "comparison"],
+
+      "learningObjectives": [
+        "Use > symbol correctly between 4-digit numbers",
+        "Use < symbol correctly between 4-digit numbers",
+        "Remember symbol direction using memory tricks",
+        "Write complete comparison statements"
+      ],
+
+      "keyConceptsCovered": [
+        "Symbol direction: bigger side faces bigger number",
+        "Writing statements: 3,456 < 4,567",
+        "Equal to symbol (=) for same numbers",
+        "Reading comparison statements aloud"
+      ],
+
+      "prerequisites": ["Comparing numbers", "Symbol basics"],
+      "followUpTopics": ["Ordering numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v5",
+      "sequenceNumber": 5,
+      "type": "concept_extension",
+      "importance": "must_watch",
+
+      "title": "Ordering 4-Digit Numbers | Ascending and Descending",
+      "description": "Learn to arrange multiple 4-digit numbers from least to greatest or greatest to least",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 950000,
+
+      "tags": ["ordering numbers", "ascending", "descending", "4-digit", "least to greatest"],
+
+      "learningObjectives": [
+        "Understand ascending order (smallest to largest)",
+        "Understand descending order (largest to smallest)",
+        "Arrange 3 or more 4-digit numbers in order",
+        "Use comparison strategy for multiple numbers"
+      ],
+
+      "keyConceptsCovered": [
+        "Ascending vs descending order",
+        "Strategy: compare thousands first to find smallest/largest",
+        "Arranging numbers step by step",
+        "Checking your answer"
+      ],
+
+      "prerequisites": ["Comparing two numbers"],
+      "followUpTopics": ["Word problems involving ordering"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v6",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+
+      "title": "Comparing Numbers in Real Life | Practical Examples",
+      "description": "See how comparing 4-digit numbers is used in everyday situations",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 780000,
+
+      "tags": ["real world", "applications", "practical examples", "comparing", "4-digit numbers"],
+
+      "learningObjectives": [
+        "Apply comparison in real-world contexts",
+        "Compare prices, distances, populations",
+        "Understand why ordering matters in daily life",
+        "Solve word problems involving comparison"
+      ],
+
+      "keyConceptsCovered": [
+        "Comparing prices (₹3,450 vs ₹3,540)",
+        "Comparing distances in kilometers",
+        "Comparing population of cities/towns",
+        "Practical decision making using comparison"
+      ],
+
+      "prerequisites": ["Basic comparison skills"],
+      "followUpTopics": ["Word problems", "Problem solving"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v7",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+
+      "title": "Comparison Challenge | Tricky Problems and Puzzles",
+      "description": "Challenge yourself with advanced comparison problems and logical puzzles",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 450000,
+
+      "tags": ["challenge", "advanced", "puzzles", "logical reasoning", "comparison"],
+
+      "learningObjectives": [
+        "Solve multi-step comparison problems",
+        "Use logical reasoning with comparisons",
+        "Handle complex ordering challenges",
+        "Prepare for Olympiad-style questions"
+      ],
+
+      "keyConceptsCovered": [
+        "Number puzzles using comparison",
+        "Finding missing numbers in sequences",
+        "Multi-condition problems (greater than X, less than Y)",
+        "Critical thinking with numbers"
+      ],
+
+      "prerequisites": ["Strong comparison skills", "Ordering mastery"],
+      "followUpTopics": ["5-digit number comparison", "Advanced problem solving"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness (strong prerequisites)",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v3", "gr4_comp_v5", "gr4_comp_v6", "gr4_comp_v7"],
+      "totalVideos": 5,
+      "estimatedTime": 1830,
+      "estimatedTimeDisplay": "30:30",
+      "rationale": "Skip basic strategy review, focus on practice and applications"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness (good foundation)",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v2", "gr4_comp_v3", "gr4_comp_v4", "gr4_comp_v5", "gr4_comp_v6"],
+      "totalVideos": 6,
+      "estimatedTime": 2370,
+      "estimatedTimeDisplay": "39:30",
+      "rationale": "Complete coverage with all core concepts and applications"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness (some gaps)",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v2", "gr4_comp_v3", "gr4_comp_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1680,
+      "estimatedTimeDisplay": "28:00",
+      "rationale": "Focus on core concepts after prerequisite review, skip optional content"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisite videos",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v3", "gr4_comp_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1230,
+      "estimatedTimeDisplay": "20:30",
+      "rationale": "Gentle introduction focusing on must-watch content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_comp_v2",
+      "checkpointName": "Basic Comparison Check",
+      "questions": [
+        {
+          "question": "Which number is greater: 4,567 or 4,756?",
+          "options": ["4,567", "4,756", "Both are equal", "Cannot determine"],
+          "correctAnswer": 1,
+          "explanation": "Compare thousands: equal (4=4). Compare hundreds: 5 < 7. So 4,756 is greater."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_comp_v5",
+      "checkpointName": "Ordering Check",
+      "questions": [
+        {
+          "question": "Arrange in ascending order: 5,234, 5,342, 5,243",
+          "options": ["5,234, 5,243, 5,342", "5,342, 5,243, 5,234", "5,243, 5,234, 5,342", "5,234, 5,342, 5,243"],
+          "correctAnswer": 0,
+          "explanation": "All have 5 in thousands. Compare hundreds: 234 has 2, 342 has 3, 243 has 2. Between 234 and 243, compare tens: 3 < 4. Order: 5,234, 5,243, 5,342."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "These videos should be assigned based on readiness assessment results. Strong students can skip video 2 (multiple strategies) and video 4 (symbols review).",
+    "parentGuidance": "Watch videos in sequence. Pause and practice after each video. Videos 1, 3, and 5 are essential for all students.",
+    "studentGuidance": "Take notes while watching. Try the examples yourself before seeing the solution. Practice with similar problems after each video."
+  }
+}

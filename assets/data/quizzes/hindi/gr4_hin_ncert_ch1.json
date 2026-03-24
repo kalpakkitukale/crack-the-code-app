@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_hin_ncert_ch1",
+    "level": "chapter",
+    "entityId": "gr4_hin_ncert_ch1",
+    "title": "मन के भोले-भाले बादल - पाठ 1 प्रश्नोत्तरी",
+    "questionIds": ["q_bb_001", "q_bb_002", "q_bb_003", "q_bb_004", "q_bb_005", "q_bb_006", "q_bb_007", "q_bb_008", "q_bb_009", "q_bb_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_bb_001",
+      "questionText": "यह कविता किसके बारे में है?",
+      "questionType": "mcq",
+      "options": ["पहाड़ों के बारे में", "बादलों के बारे में", "नदियों के बारे में", "फूलों के बारे में"],
+      "correctAnswer": "B",
+      "explanation": "यह कविता बादलों के बारे में है। कवि ने बादलों को भोले-भाले कहा है।",
+      "hints": ["कविता के शीर्षक में क्या है?"],
+      "difficulty": "basic",
+      "conceptTags": ["कविता", "बादल", "प्रकृति"],
+      "topicIds": ["gr4_hi_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_bb_002",
+      "questionText": "कविता में बादलों को कैसा बताया गया है?",
+      "questionType": "mcq",
+      "options": ["डरावना", "गुस्सैल", "भोले-भाले", "शैतान"],
+      "correctAnswer": "C",
+      "explanation": "'भोले-भाले' का अर्थ है सीधे-सादे और निर्दोष। बादल बच्चों की तरह भोले होते हैं।",
+      "hints": ["शीर्षक में यह शब्द है"],
+      "difficulty": "basic",
+      "conceptTags": ["शब्दार्थ", "विशेषण"],
+      "topicIds": ["gr4_hi_1_2"],
+      "points": 1
+    },
+    {
+      "id": "q_bb_003",
+      "questionText": "बादल आसमान में क्या करते हैं?",
+      "questionType": "mcq",
+      "options": ["सोते हैं", "घूमते-फिरते हैं", "पढ़ते हैं", "गाते हैं"],
+      "correctAnswer": "B",
+      "explanation": "बादल आसमान में इधर-उधर घूमते-फिरते रहते हैं। वे एक जगह नहीं रुकते।",
+      "hints": ["बादल हमेशा चलते रहते हैं"],
+      "difficulty": "basic",
+      "conceptTags": ["कविता", "बादल"],
+      "topicIds": ["gr4_hi_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_bb_004",
+      "questionText": "'बादल' शब्द का बहुवचन क्या है?",
+      "questionType": "mcq",
+      "options": ["बादली", "बादलें", "बादल", "बादलों"],
+      "correctAnswer": "C",
+      "explanation": "'बादल' शब्द एकवचन और बहुवचन दोनों में एक जैसा रहता है।",
+      "hints": ["कुछ शब्द नहीं बदलते"],
+      "difficulty": "intermediate",
+      "conceptTags": ["व्याकरण", "वचन"],
+      "topicIds": ["gr4_hi_1_2"],
+      "points": 2
+    },
+    {
+      "id": "q_bb_005",
+      "questionText": "सही या गलत: बादलों से बारिश होती है।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "A",
+      "explanation": "सही! बादलों में पानी की बूंदें होती हैं जो बारिश के रूप में गिरती हैं।",
+      "hints": ["बारिश कहाँ से आती है?"],
+      "difficulty": "basic",
+      "conceptTags": ["विज्ञान", "बारिश", "बादल"],
+      "topicIds": ["gr4_hi_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_bb_006",
+      "questionText": "कविता में 'मन' शब्द का क्या अर्थ है?",
+      "questionType": "mcq",
+      "options": ["शरीर", "हृदय/दिल", "हाथ", "पैर"],
+      "correctAnswer": "B",
+      "explanation": "'मन' का अर्थ है हृदय या दिल - जहाँ हमारी भावनाएं और विचार होते हैं।",
+      "hints": ["जहाँ भावनाएं होती हैं"],
+      "difficulty": "basic",
+      "conceptTags": ["शब्दार्थ", "मन"],
+      "topicIds": ["gr4_hi_1_2"],
+      "points": 1
+    },
+    {
+      "id": "q_bb_007",
+      "questionText": "बादल किस रंग के होते हैं?",
+      "questionType": "mcq",
+      "options": ["हमेशा काले", "हमेशा सफेद", "अलग-अलग रंगों के", "हमेशा लाल"],
+      "correctAnswer": "C",
+      "explanation": "बादल अलग-अलग रंगों के होते हैं - सफेद, काले, भूरे, और सूर्योदय/सूर्यास्त के समय सुनहरे या गुलाबी भी।",
+      "hints": ["अलग-अलग समय पर बादलों को देखो"],
+      "difficulty": "basic",
+      "conceptTags": ["प्रकृति", "बादल", "रंग"],
+      "topicIds": ["gr4_hi_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_bb_008",
+      "questionText": "'भोला' का विलोम शब्द क्या है?",
+      "questionType": "mcq",
+      "options": ["सीधा", "चालाक", "अच्छा", "बड़ा"],
+      "correctAnswer": "B",
+      "explanation": "'भोला' का विलोम है 'चालाक'। भोला व्यक्ति सीधा-सादा होता है, चालाक व्यक्ति चतुर होता है।",
+      "hints": ["भोले के विपरीत कैसा होगा?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["व्याकरण", "विलोम शब्द"],
+      "topicIds": ["gr4_hi_1_2"],
+      "points": 2
+    },
+    {
+      "id": "q_bb_009",
+      "questionText": "कविता पढ़ने से हमें क्या सीख मिलती है?",
+      "questionType": "mcq",
+      "options": ["प्रकृति से प्यार करना", "घर में रहना", "टीवी देखना", "खेलना बुरा है"],
+      "correctAnswer": "A",
+      "explanation": "यह कविता हमें प्रकृति की सुंदरता देखना और उससे प्यार करना सिखाती है।",
+      "hints": ["कविता किस बारे में है?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["नैतिक शिक्षा", "प्रकृति"],
+      "topicIds": ["gr4_hi_1_1"],
+      "points": 2
+    },
+    {
+      "id": "q_bb_010",
+      "questionText": "सही या गलत: कविता गद्य में लिखी जाती है।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "B",
+      "explanation": "गलत! कविता पद्य में लिखी जाती है जिसमें तुकबंदी और लय होती है। गद्य साधारण वाक्यों में होता है।",
+      "hints": ["कविता में तुकबंदी होती है"],
+      "difficulty": "basic",
+      "conceptTags": ["साहित्य", "कविता", "गद्य-पद्य"],
+      "topicIds": ["gr4_hi_1_1"],
+      "points": 1
+    }
+  ]
+}

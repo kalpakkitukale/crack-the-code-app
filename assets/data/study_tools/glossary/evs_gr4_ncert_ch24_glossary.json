@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch24",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_evn24_001",
+      "term": "Migration",
+      "definition": "The movement of people from one place to another in search of work, better living, or safety.",
+      "pronunciation": "my-GRAY-shun",
+      "exampleUsage": "Migration from villages to cities is very common in India.",
+      "difficulty": "medium",
+      "relatedTerms": ["movement", "travel", "relocation"]
+    },
+    {
+      "id": "gls_gr4_evn24_002",
+      "term": "Abroad",
+      "definition": "In or to a foreign country; outside one's own country.",
+      "pronunciation": "uh-BRAWD",
+      "exampleUsage": "My uncle works abroad in Dubai and sends money home every month.",
+      "difficulty": "easy",
+      "relatedTerms": ["foreign", "overseas", "international"]
+    },
+    {
+      "id": "gls_gr4_evn24_003",
+      "term": "Passport",
+      "definition": "An official government document that has a person's photo, name, and nationality, needed for travelling to another country.",
+      "pronunciation": "PAAS-port",
+      "exampleUsage": "You need a valid passport before you can travel abroad.",
+      "difficulty": "easy",
+      "relatedTerms": ["visa", "identity", "travel document"]
+    },
+    {
+      "id": "gls_gr4_evn24_004",
+      "term": "Visa",
+      "definition": "An official permission stamped in a passport that allows a person to enter, stay, or work in another country.",
+      "pronunciation": "VEE-zuh",
+      "exampleUsage": "Workers need a work visa to legally take up a job in another country.",
+      "difficulty": "medium",
+      "relatedTerms": ["passport", "permission", "entry"]
+    },
+    {
+      "id": "gls_gr4_evn24_005",
+      "term": "Remittance",
+      "definition": "Money sent by a person working in another place or country back to their family at home.",
+      "pronunciation": "reh-MIT-ans",
+      "exampleUsage": "The remittance from workers in Gulf countries helps many families in Kerala.",
+      "difficulty": "medium",
+      "relatedTerms": ["money transfer", "income", "savings"]
+    },
+    {
+      "id": "gls_gr4_evn24_006",
+      "term": "Livelihood",
+      "definition": "The way a person earns money to live and support their family.",
+      "pronunciation": "LYV-lee-hood",
+      "exampleUsage": "Many people go to cities or abroad to find a better livelihood.",
+      "difficulty": "medium",
+      "relatedTerms": ["income", "work", "earning"]
+    },
+    {
+      "id": "gls_gr4_evn24_007",
+      "term": "Gulf Countries",
+      "definition": "Countries around the Persian Gulf in the Middle East, such as UAE, Saudi Arabia, Kuwait, Qatar, Oman, and Bahrain, where many Indians go to work.",
+      "pronunciation": "GULF KUN-treez",
+      "exampleUsage": "Lakhs of Indian workers are employed in Gulf countries in construction and driving.",
+      "difficulty": "easy",
+      "relatedTerms": ["Middle East", "Dubai", "Saudi Arabia"]
+    },
+    {
+      "id": "gls_gr4_evn24_008",
+      "term": "Homesickness",
+      "definition": "A feeling of sadness or longing when you are away from your home and family for a long time.",
+      "pronunciation": "HOME-sik-nes",
+      "exampleUsage": "Workers abroad often feel homesickness, especially during Indian festivals.",
+      "difficulty": "easy",
+      "relatedTerms": ["missing home", "loneliness", "longing"]
+    },
+    {
+      "id": "gls_gr4_evn24_009",
+      "term": "Embassy",
+      "definition": "The official office of one country's government in another country that helps its citizens living or travelling there.",
+      "pronunciation": "EM-buh-see",
+      "exampleUsage": "If an Indian worker has a problem abroad, they can contact the Indian Embassy for help.",
+      "difficulty": "medium",
+      "relatedTerms": ["consulate", "government office", "diplomat"]
+    },
+    {
+      "id": "gls_gr4_evn24_010",
+      "term": "Currency",
+      "definition": "The type of money used in a particular country. Different countries use different currencies.",
+      "pronunciation": "KUR-en-see",
+      "exampleUsage": "India uses Rupees, while the UAE uses Dirhams as its currency.",
+      "difficulty": "easy",
+      "relatedTerms": ["money", "rupee", "dirham"]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ch1",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Nouns and Pronouns",
+      "description": "Naming words and the words that replace them",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_nouns",
+      "label": "Nouns",
+      "description": "Words that name a person, place, animal, or thing",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_common",
+      "label": "Common Nouns",
+      "description": "General names like boy, city, dog",
+      "parentId": "node_nouns",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_proper",
+      "label": "Proper Nouns",
+      "description": "Special names that start with a capital letter like India, Riya",
+      "parentId": "node_nouns",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_collective",
+      "label": "Collective Nouns",
+      "description": "Names for groups like a flock of birds, a team of players",
+      "parentId": "node_nouns",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_abstract",
+      "label": "Abstract Nouns",
+      "description": "Names for feelings and ideas like happiness, honesty",
+      "parentId": "node_nouns",
+      "positionX": -200,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_singular_plural",
+      "label": "Singular & Plural",
+      "description": "One noun vs. more than one: cat/cats, box/boxes",
+      "parentId": "node_nouns",
+      "positionX": -50,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_pronouns",
+      "label": "Pronouns",
+      "description": "Words used in place of nouns to avoid repetition",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_subject_pronouns",
+      "label": "Subject Pronouns",
+      "description": "I, you, he, she, it, we, they - do the action",
+      "parentId": "node_pronouns",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_object_pronouns",
+      "label": "Object Pronouns",
+      "description": "me, you, him, her, it, us, them - receive the action",
+      "parentId": "node_pronouns",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_why_pronouns",
+      "label": "Why Use Pronouns?",
+      "description": "To avoid repeating the same noun again and again",
+      "parentId": "node_pronouns",
+      "positionX": 200,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_connection",
+      "label": "Nouns & Pronouns Together",
+      "description": "Pronouns always refer back to a noun in the sentence or paragraph",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_examples",
+      "label": "Example Sentences",
+      "description": "Ravi plays cricket. He is very good at it.",
+      "parentId": "node_connection",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_tips",
+      "label": "Remember!",
+      "description": "A pronoun must match the noun it replaces in number and gender",
+      "parentId": "node_connection",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

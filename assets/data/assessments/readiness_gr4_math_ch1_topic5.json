@@ -1,0 +1,407 @@
+{
+  "assessmentId": "readiness_gr4_m1_t5",
+  "topicId": "gr4_m_1_5",
+  "topicName": "Indian and International Number System",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning Indian and International number systems",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_5digit_6digit",
+      "conceptName": "Understanding 5-digit and 6-digit place values",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_pv56_v1"]
+    },
+    {
+      "conceptId": "comma_usage",
+      "conceptName": "Understanding comma placement in numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_comma_v1"]
+    },
+    {
+      "conceptId": "reading_large",
+      "conceptName": "Reading large numbers aloud",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_read_large_v1"]
+    },
+    {
+      "conceptId": "number_patterns",
+      "conceptName": "Understanding patterns in number grouping",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_grouping_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_5digit_6digit",
+
+      "question": "How many places (digits) does a 6-digit number have?",
+
+      "options": ["5", "6", "7", "10"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "6",
+
+      "explanation": "A 6-digit number has 6 places: lakhs, ten thousands, thousands, hundreds, tens, ones.",
+
+      "tags": ["place value", "6-digit", "counting places"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted one less",
+          "conceptGap": "Counting digit positions",
+          "remediation": "Review place value chart"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_5digit_6digit",
+
+      "question": "What is 10,000 × 10?",
+
+      "options": ["1,00,000", "10,000", "1,000", "1,000,000"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "1,00,000",
+
+      "explanation": "10,000 × 10 = 1,00,000 (one lakh). This is a 6-digit number.",
+
+      "tags": ["place value", "multiplication", "lakhs"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added too many zeros",
+          "conceptGap": "Multiplication by 10",
+          "remediation": "Review multiplying by powers of 10"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "pv_5digit_6digit",
+
+      "question": "True or False: The place after ten thousands (moving left) is called lakhs.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The progression is: ones → tens → hundreds → thousands → ten thousands → lakhs.",
+
+      "tags": ["place value", "lakhs", "sequence"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't know the place value sequence",
+          "conceptGap": "Place names beyond 5 digits",
+          "remediation": "Learn place value chart up to lakhs"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comma_usage",
+
+      "question": "In which system is the number 1234567 written as 12,34,567?",
+
+      "options": [
+        "International system",
+        "Indian system",
+        "Both systems",
+        "Neither system"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Indian system",
+
+      "explanation": "In Indian system, commas are placed after 3 digits from right, then every 2 digits: 12,34,567. International system would be: 1,234,567.",
+
+      "tags": ["number systems", "comma placement", "Indian"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused the two systems",
+          "conceptGap": "Understanding comma placement differences",
+          "remediation": "Review comma patterns in both systems"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comma_usage",
+
+      "question": "In International system, commas are placed every ___ digits from the right.",
+
+      "options": ["2", "3", "4", "5"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "3",
+
+      "explanation": "In International system, commas are placed every 3 digits from the right: 1,234,567 (millions, thousands).",
+
+      "tags": ["International system", "comma", "pattern"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused with Indian system (which uses 2 after first 3)",
+          "conceptGap": "System differences",
+          "remediation": "Review International system pattern"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comma_usage",
+
+      "question": "How is the number 'one hundred thousand' written with commas?",
+
+      "options": [
+        "1,00,000 (Indian system)",
+        "100,000 (International system)",
+        "Both A and B are correct",
+        "10,0000"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Both A and B are correct",
+
+      "explanation": "One hundred thousand = 1,00,000 (Indian: one lakh) or 100,000 (International). Both represent the same value.",
+
+      "tags": ["number systems", "one hundred thousand", "both systems"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Thought only International is correct",
+          "conceptGap": "Understanding both systems represent same values",
+          "remediation": "Review that systems are different notations for same numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_large",
+
+      "question": "How do you read 1,00,000 in Indian system?",
+
+      "options": [
+        "Ten thousand",
+        "One hundred thousand",
+        "One lakh",
+        "One million"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "One lakh",
+
+      "explanation": "In Indian system, 1,00,000 is read as 'one lakh.' In International system, it's 'one hundred thousand.'",
+
+      "tags": ["reading numbers", "lakhs", "Indian system"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Used International system term",
+          "conceptGap": "Knowing Indian system terminology",
+          "remediation": "Learn: 1 lakh = 1,00,000 = one hundred thousand"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "reading_large",
+
+      "question": "True or False: 10 lakhs = 1 million.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! 10 lakhs = 10,00,000 = 1,000,000 = 1 million. These are the same value in different systems.",
+
+      "tags": ["conversion", "lakhs", "million", "equivalence"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't know the equivalence",
+          "conceptGap": "Understanding system equivalences",
+          "remediation": "Review: 1 lakh = 100,000; 10 lakhs = 1 million"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "number_patterns",
+
+      "question": "In Indian system, what are the period names from right to left?",
+
+      "options": [
+        "Ones, Thousands, Millions",
+        "Ones, Thousands, Lakhs, Crores",
+        "Ones, Hundreds, Thousands",
+        "Ones, Tens, Hundreds, Thousands"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Ones, Thousands, Lakhs, Crores",
+
+      "explanation": "In Indian system, periods are: Ones (3 digits), Thousands (2 digits), Lakhs (2 digits), Crores (2 digits), etc.",
+
+      "tags": ["periods", "Indian system", "grouping"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Gave International system periods",
+          "conceptGap": "Understanding period structure",
+          "remediation": "Review Indian vs International periods"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "number_patterns",
+
+      "question": "How many digits are in each period after the first period in Indian system?",
+
+      "options": ["1 digit", "2 digits", "3 digits", "Varies"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "2 digits",
+
+      "explanation": "In Indian system: first period (ones) has 3 digits, then all other periods (thousands, lakhs, crores) have 2 digits each.",
+
+      "tags": ["period structure", "Indian system", "pattern"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Thought all periods have 3 digits (like International)",
+          "conceptGap": "Understanding Indian system's 3-2-2 pattern",
+          "remediation": "Review: Indian = 3,2,2,2; International = 3,3,3"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You understand place values and number notation well. You're ready to learn about Indian and International number systems.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You have the foundation. Let's learn about both number systems.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in understanding large numbers or comma usage. Watch review videos before learning the two number systems.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review place values and large numbers first. We'll build your foundation, then introduce the number systems.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you understand both number systems clearly.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about Indian and International number systems.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

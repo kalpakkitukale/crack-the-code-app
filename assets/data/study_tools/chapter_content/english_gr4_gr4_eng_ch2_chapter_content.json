@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_eng_ch2",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_e2",
+    "title": "Verbs and Tenses",
+    "content": "This chapter teaches students about verbs, the action words that make sentences come alive. Students begin by learning to identify action verbs in sentences, including both visible actions like running and jumping, and invisible actions like thinking and remembering. The chapter then introduces the present tense, covering both simple present for habits and regular actions, and present continuous for actions happening right now. A key focus is subject-verb agreement, the important rule that verbs must match their subjects.",
+    "keyPoints": [
+      "Verbs are action words that tell what someone or something does",
+      "Action verbs can be visible (run, write) or invisible (think, believe)",
+      "Simple present tense is used for habits and regular actions",
+      "Present continuous tense shows actions happening right now",
+      "Subject-verb agreement means the verb must match its subject",
+      "Add -s or -es to verbs for he, she, or it in simple present"
+    ],
+    "learningObjectives": [
+      "Identify action verbs in sentences",
+      "Understand the difference between visible and invisible actions",
+      "Use simple present tense correctly for regular actions",
+      "Form present continuous tense with is/am/are plus -ing",
+      "Apply subject-verb agreement rules in writing and speaking"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_e2_001",
+      "title": "The Verb Finder Trick",
+      "content": "To find the verb in any sentence, ask two questions: 'Who or what is the sentence about?' (that gives you the subject) and then 'What does it DO?' (that gives you the verb). Try this trick with the sentence 'The bird sings a song.' Subject: the bird. What does it do? Sings! So 'sings' is the verb.",
+      "tags": ["study-tip", "action-verbs"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_e2_002",
+      "title": "Subject-Verb Agreement Made Easy",
+      "content": "Here is a simple rule to remember: If the subject is singular (one person or thing), the verb gets an -s. If the subject is plural (more than one), the verb stays plain. Think of it like a see-saw: the -s goes on one side only! 'The dog barks' (one dog, verb has -s). 'The dogs bark' (many dogs, no -s on verb).",
+      "tags": ["key-concept", "important"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_e2_003",
+      "title": "Present Tense vs Present Continuous - Quick Guide",
+      "content": "Use simple present for things that happen again and again: 'I brush my teeth every morning.' Use present continuous for what is happening at this exact moment: 'I am brushing my teeth right now.' A helpful hint: if you can add 'every day' to the sentence, use simple present. If you can add 'right now', use present continuous.",
+      "tags": ["study-tip", "tense-comparison"],
+      "isPinned": false
+    }
+  ]
+}

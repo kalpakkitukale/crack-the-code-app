@@ -1,0 +1,59 @@
+{
+  "chapterId": "gr4_math_ncert_ch2",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn2_v1",
+      "videoId": "gr4_mn2_v1",
+      "content": "This lesson teaches students how the same object can look completely different depending on where you look at it from. When you look at a glass from the top, you see a circle. From the front, you see a rectangle. From the side, it also looks like a rectangle but may be a slightly different shape. Students practice identifying the top view, front view, and side view of common objects like books, bottles, and tiffin boxes. A sphere is special because it looks like a circle from every direction.",
+      "keyPoints": [
+        "The same object looks different from the top, front, and side",
+        "Top view is what you see looking down from above",
+        "Front view is what you see looking straight at the object",
+        "Side view is what you see from the left or right",
+        "A sphere looks the same (a circle) from every direction"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn2_v2",
+      "videoId": "gr4_mn2_v2",
+      "content": "This lesson introduces grids as a way to describe exact positions. A grid is made of rows (going left to right) and columns (going top to bottom). Each box on the grid has an address made from the column letter and row number, like B3 or D5. Students practice placing objects on grids and reading positions. This skill is useful in games like chess and Battleship, and also in reading real maps and seating charts.",
+      "keyPoints": [
+        "A grid has rows (horizontal) and columns (vertical)",
+        "Each box on a grid has a unique position like B3 or D5",
+        "Column letter comes first, then row number",
+        "Grids are used in chess, maps, and seating charts",
+        "Grids help us give exact locations of things"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn2_v3",
+      "videoId": "gr4_mn2_v3",
+      "content": "This lesson teaches students how to read simple maps. A map shows places as seen from above, like a bird's-eye view. Students learn that maps use symbols to show buildings, parks, roads, and rivers. They learn the four main directions: North (up), South (down), East (right), and West (left). Using these directions, students practice describing where places are relative to each other, for example 'the park is to the East of the school'.",
+      "keyPoints": [
+        "A map shows the top view of an area",
+        "Maps use symbols to show buildings, parks, roads, and rivers",
+        "The four main directions are North, South, East, and West",
+        "On most maps, North is at the top",
+        "Directions help us describe where places are relative to each other"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn2_v4",
+      "videoId": "gr4_mn2_v4",
+      "content": "This lesson ties everything together by developing spatial reasoning skills. Spatial reasoning means thinking about shapes, positions, and directions in your mind. Students practise imagining what objects look like from different angles without actually moving. They also use grid reading and map skills to solve puzzles and follow directions. The chapter shows how these skills are useful in daily life - from finding your way in a new place to arranging furniture in a room to understanding how a building looks from different sides.",
+      "keyPoints": [
+        "Spatial reasoning is thinking about shapes and positions in your mind",
+        "You can imagine views without actually moving around the object",
+        "Combining grid skills and map skills helps solve real problems",
+        "Spatial reasoning is used in daily life: finding routes, arranging rooms",
+        "Practice makes spatial reasoning stronger over time"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_eng_ncert_u1",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en1",
+    "title": "Unit 1: Wake Up! / Neha's Alarm Clock",
+    "content": "Unit 1 of the NCERT Marigold textbook for Class 4 consists of a poem, a story, and a grammar section. The poem 'Wake Up!' is a joyful call to children to rise early and enjoy the beauty of nature in the morning -- the singing birds, blooming flowers, and the warm sunshine. The story 'Neha's Alarm Clock' tells us about a girl named Neha who has trouble waking up on time and is always late for school. With the help of an alarm clock, she learns to be punctual and develops a healthy morning routine. The grammar section introduces sentences -- what they are, their two main parts (subject and predicate), how they differ from phrases, and the rules for beginning and ending them. Together, the poem, story, and grammar exercises help students improve their reading, comprehension, vocabulary, and writing skills.",
+    "keyPoints": [
+      "The poem 'Wake Up!' encourages waking up early to enjoy nature's beauty",
+      "The story 'Neha's Alarm Clock' teaches punctuality, discipline, and responsibility",
+      "Both the poem and story share the common theme of morning and waking up",
+      "A sentence is a group of words that makes complete sense",
+      "Every sentence has a subject (who/what) and a predicate (what happens)",
+      "Sentences start with a capital letter and end with a full stop, question mark, or exclamation mark",
+      "New vocabulary words include dawn, bloom, breeze, punctual, routine, and alarm"
+    ],
+    "learningObjectives": [
+      "Read the poem 'Wake Up!' with proper rhythm and identify rhyming words",
+      "Understand the story of Neha and answer comprehension questions about it",
+      "Learn new vocabulary related to morning, nature, and daily routine",
+      "Identify what makes a group of words a complete sentence",
+      "Recognise the subject and predicate in simple sentences",
+      "Distinguish between a sentence and a phrase",
+      "Use correct punctuation and capitalisation when writing sentences"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en1_001",
+      "title": "How to Find Rhyming Words in a Poem",
+      "content": "Rhyming words sound the same at the end. To find them in a poem, look at the last word of each line. Read them aloud and listen carefully. If two words end with the same sound, they rhyme! For example, 'sun' and 'fun' rhyme. Try clapping or tapping as you read the poem -- it helps you feel the rhythm and spot rhymes easily.",
+      "tags": ["study-tip", "poem", "rhyming-words"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en1_002",
+      "title": "Quick Trick: Is It a Sentence?",
+      "content": "Ask yourself these three questions to check if something is a sentence: (1) Does it start with a capital letter? (2) Does it end with a full stop, question mark, or exclamation mark? (3) Does it make complete sense on its own? If the answer to all three is YES, then it is a sentence! 'Neha wakes up early.' passes all three checks. 'In the morning' does not pass check 3, so it is only a phrase.",
+      "tags": ["study-tip", "grammar", "sentences"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en1_003",
+      "title": "Good Morning Habits from Unit 1",
+      "content": "Both the poem and the story tell us that mornings are special. Here are some good morning habits you can follow, just like the poem and Neha's story suggest: (1) Set an alarm clock and wake up at the same time every day. (2) Look outside the window and notice the birds, trees, and sky. (3) Follow a fixed routine: brush, bathe, eat breakfast, and get ready for school. (4) Go to bed early so waking up is easier. Good habits start one step at a time!",
+      "tags": ["life-skills", "morning-routine", "values"],
+      "isPinned": false
+    }
+  ]
+}

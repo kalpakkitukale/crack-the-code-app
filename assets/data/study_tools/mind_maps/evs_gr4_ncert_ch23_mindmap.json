@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch23",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Pochampalli",
+      "description": "Traditional weaving and crafts of India",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_village",
+      "label": "Pochampalli Village",
+      "description": "A village in Telangana famous for handloom weaving",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_ikat",
+      "label": "Ikat Technique",
+      "description": "Threads are tie-dyed before weaving",
+      "parentId": "node_village",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_patterns",
+      "label": "Geometric Patterns",
+      "description": "Beautiful designs with slightly blurred edges",
+      "parentId": "node_village",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_weaving",
+      "label": "How Weaving Works",
+      "description": "The process of making cloth on a loom",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_warp_weft",
+      "label": "Warp & Weft",
+      "description": "Vertical and horizontal threads crossed together",
+      "parentId": "node_weaving",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_loom",
+      "label": "Loom",
+      "description": "Frame used for weaving - handloom or power loom",
+      "parentId": "node_weaving",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_materials",
+      "label": "Materials",
+      "description": "Raw materials used to make cloth",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_cotton_silk",
+      "label": "Cotton & Silk",
+      "description": "Cotton from plants, silk from silkworms",
+      "parentId": "node_materials",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_wool_jute",
+      "label": "Wool & Jute",
+      "description": "Wool from sheep, jute from jute plants",
+      "parentId": "node_materials",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_weavers",
+      "label": "Weavers' Life",
+      "description": "Artisans who create cloth by hand",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_family_work",
+      "label": "Family Effort",
+      "description": "Whole family helps - dyeing, winding, weaving",
+      "parentId": "node_weavers",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_other_crafts",
+      "label": "Other Weaving Traditions",
+      "description": "Famous fabrics from across India",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_famous",
+      "label": "Banarasi, Kanjeevaram, Patola",
+      "description": "Famous handloom traditions from different states",
+      "parentId": "node_other_crafts",
+      "positionX": 150,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 13
+    }
+  ]
+}

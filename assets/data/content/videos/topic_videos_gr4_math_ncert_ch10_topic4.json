@@ -1,0 +1,250 @@
+{
+  "videoSetId": "playlist_gr4_mn10_t4",
+  "topicId": "gr4_mn_10_4",
+  "topicName": "Conservation Math",
+  "chapterId": "gr4_math_ncert_ch10",
+  "chapterName": "Elephants, Tigers, and Leopards",
+  "description": "Main learning videos for using math to understand wildlife conservation, including population changes, totals, and real-world data problems",
+
+  "videos": [
+    {
+      "id": "gr4_mn10_t4_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "What is Conservation? | Why Counting Animals Matters",
+      "description": "Learn what wildlife conservation means and why counting animals is so important. Discover how math helps scientists know if elephant, tiger, and leopard populations are safe.",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+
+      "tags": ["conservation", "wildlife", "why counting matters", "introduction", "animal populations"],
+
+      "learningObjectives": [
+        "Understand what wildlife conservation means",
+        "Know why scientists count animals",
+        "See how math is used in conservation"
+      ],
+
+      "prerequisites": ["Reading data tables", "Comparing numbers", "Reading graphs"],
+      "followUpTopics": ["Calculating population changes"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "Why do scientists count animals every year?",
+            "options": ["Just for fun", "To know if populations are growing or shrinking", "To name each animal"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t4_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Population Changes | Are the Numbers Going Up or Down?",
+      "description": "Learn to calculate whether animal populations are increasing or decreasing. If there were 1,400 tigers in 2010 and 2,900 tigers in 2020, did the population grow? By how much?",
+
+      "youtubeId": "Y6M89-6106I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y6M89-6106I",
+      "thumbnailUrl": "https://img.youtube.com/vi/Y6M89-6106I/hqdefault.jpg",
+
+      "duration": 510,
+      "durationDisplay": "8:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["population change", "increase decrease", "subtraction", "comparison over time"],
+
+      "learningObjectives": [
+        "Calculate the difference between two population counts",
+        "Determine if a population increased or decreased",
+        "Use subtraction to find how much a population changed"
+      ],
+
+      "prerequisites": ["Addition and subtraction", "Comparing numbers from data"],
+      "followUpTopics": ["Finding totals across categories"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "If there were 1,400 tigers in 2010 and 2,900 in 2020, the population increased by:",
+            "options": ["1,000", "1,500", "4,300"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t4_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Conservation Word Problems | Solving Real Data Challenges",
+      "description": "Work through real conservation math problems. Find totals of animals across states, calculate differences between years, and figure out which parks need the most help.",
+
+      "youtubeId": "mAvuom42NyY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mAvuom42NyY",
+      "thumbnailUrl": "https://img.youtube.com/vi/mAvuom42NyY/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3200000,
+
+      "tags": ["word problems", "conservation", "worked examples", "totals", "real data"],
+
+      "learningObjectives": [
+        "Solve word problems using wildlife data",
+        "Find totals by adding numbers from multiple rows",
+        "Apply all data skills to conservation questions"
+      ],
+
+      "prerequisites": ["Population change calculations"],
+      "followUpTopics": ["Independent problem solving"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t4_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Conservation Math Challenge | Can You Help the Animals?",
+      "description": "Challenge yourself with conservation math problems! Use data from tables and graphs to figure out which animals need protection, calculate population changes, and think like a wildlife scientist.",
+
+      "youtubeId": "7J1OkxuyLD0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7J1OkxuyLD0",
+      "thumbnailUrl": "https://img.youtube.com/vi/7J1OkxuyLD0/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCkiSMoFsOHbQCRbTasb5oNQ",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+
+      "tags": ["challenge", "conservation math", "practice", "problem solving", "wildlife scientist"],
+
+      "learningObjectives": [
+        "Apply all chapter skills to challenging problems",
+        "Think critically about conservation data",
+        "Build confidence as a data detective"
+      ],
+
+      "prerequisites": ["Conservation word problems"],
+      "followUpTopics": ["Next chapter topics"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t4_v5",
+      "type": "real_world_application",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "India's Wildlife Success Stories | Math Behind Conservation",
+      "description": "See how India saved its tigers using data and math! Learn about Project Tiger and how counting animals helped bring tiger numbers from 1,411 to over 3,000. Math makes a real difference!",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 1500000,
+
+      "tags": ["Project Tiger", "success stories", "India wildlife", "real world", "inspiration"],
+
+      "learningObjectives": [
+        "See real-world impact of counting and data",
+        "Understand India's conservation achievements",
+        "Connect math skills to making a difference"
+      ],
+
+      "prerequisites": ["Conservation math basics"],
+      "followUpTopics": ["Further data interpretation topics"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn10_t4_v1", "gr4_mn10_t4_v2", "gr4_mn10_t4_v3", "gr4_mn10_t4_v4", "gr4_mn10_t4_v5"],
+      "estimatedTime": 2250
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn10_t4_v1", "gr4_mn10_t4_v2", "gr4_mn10_t4_v3", "gr4_mn10_t4_v5"],
+      "estimatedTime": 1830
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn10_t4_v1", "gr4_mn10_t4_v2", "gr4_mn10_t4_v3"],
+      "estimatedTime": 1440
+    }
+  }
+}

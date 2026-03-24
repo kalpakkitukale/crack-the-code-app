@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch9",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn9_kahani",
+      "name": "कहानी पाठ - स्वतंत्रता की ओर",
+      "description": "Learn about the story 'Swatantrata Ki Or' (Towards Freedom) - India's freedom struggle and its heroes",
+      "topicId": "gr4_hi_9_1",
+      "chapterId": "gr4_hin_ncert_ch9",
+      "cards": [
+        {
+          "id": "card_gr4_hn9_001",
+          "front": "'स्वतंत्रता की ओर' कहानी किसके बारे में है? (What is the story 'Swatantrata Ki Or' about?)",
+          "back": "यह कहानी भारत के स्वतंत्रता संग्राम (freedom struggle) के बारे में है। इसमें बताया गया है कि कैसे भारत के लोगों ने अंग्रेज़ों के शासन से आज़ादी पाने के लिए संघर्ष किया। कहानी में देशभक्ति, साहस और एकता की भावना दिखाई गई है। (This story is about India's freedom struggle and how people fought bravely against British rule with patriotism, courage, and unity.)",
+          "hint": "Think about India's journey to independence",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn9_002",
+          "front": "'स्वतंत्रता' शब्द का क्या अर्थ है? (What does 'Swatantrata' mean?)",
+          "back": "स्वतंत्रता का अर्थ है आज़ादी (freedom)। 'स्व' का मतलब है अपना और 'तंत्र' का मतलब है व्यवस्था। यानी अपनी व्यवस्था खुद चलाना - किसी दूसरे के अधीन न रहना। भारत को 15 अगस्त 1947 को स्वतंत्रता मिली। (Swatantrata means freedom. 'Swa' means self and 'tantra' means system. It means governing yourself, not being under someone else's rule. India got freedom on 15 August 1947.)",
+          "hint": "'Swa' means self, 'tantra' means system",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn9_003",
+          "front": "भारत के स्वतंत्रता संग्राम में कौन-कौन से नेता शामिल थे? (Which leaders were part of India's freedom struggle?)",
+          "back": "भारत के स्वतंत्रता संग्राम में कई महान नेता शामिल थे: महात्मा गांधी (अहिंसा के पुजारी), जवाहरलाल नेहरू, सुभाष चंद्र बोस, भगत सिंह, रानी लक्ष्मीबाई, और कई अन्य। इन सभी ने देश के लिए बड़े त्याग किए। (Many great leaders: Mahatma Gandhi, Jawaharlal Nehru, Subhash Chandra Bose, Bhagat Singh, Rani Lakshmibai, and many others who made great sacrifices for the country.)",
+          "hint": "Think of the freedom fighters you have studied about",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn9_004",
+          "front": "स्वतंत्रता संग्राम में लोगों ने कैसे लड़ाई लड़ी? (How did people fight in the freedom struggle?)",
+          "back": "लोगों ने कई तरीकों से लड़ाई लड़ी: अहिंसा और सत्याग्रह (गांधीजी का तरीका), विदेशी वस्तुओं का बहिष्कार (boycott), स्वदेशी अपनाना, जुलूस निकालना, नारे लगाना, और कई लोगों ने जेल भी गए। कुछ क्रांतिकारियों ने सशस्त्र संघर्ष भी किया। (People fought through non-violence, boycott of foreign goods, adopting swadeshi, marches, slogans, going to jail, and some revolutionaries also took up armed struggle.)",
+          "hint": "Gandhi taught non-violence, but there were other methods too",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn9_005",
+          "front": "स्वतंत्रता दिवस कब और क्यों मनाया जाता है? (When and why is Independence Day celebrated?)",
+          "back": "स्वतंत्रता दिवस हर साल 15 अगस्त को मनाया जाता है क्योंकि इसी दिन 1947 में भारत को अंग्रेज़ों से आज़ादी मिली थी। इस दिन प्रधानमंत्री लाल किले पर तिरंगा झंडा फहराते हैं। स्कूलों में भी झंडा फहराया जाता है और देशभक्ति के गीत गाए जाते हैं। (Independence Day is celebrated on 15 August every year because India got freedom from the British on this day in 1947.)",
+          "hint": "Think of the national holiday in August",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn9_prashnottar",
+      "name": "प्रश्न उत्तर - स्वतंत्रता की ओर",
+      "description": "Practice comprehension questions and answers from Chapter 9 about freedom and patriotism",
+      "topicId": "gr4_hi_9_2",
+      "chapterId": "gr4_hin_ncert_ch9",
+      "cards": [
+        {
+          "id": "card_gr4_hn9_006",
+          "front": "'देशभक्ति' शब्द का क्या मतलब है? (What does 'Deshbhakti' mean?)",
+          "back": "देशभक्ति का मतलब है अपने देश से प्यार करना। 'देश' का मतलब है country और 'भक्ति' का मतलब है devotion या प्यार। देशभक्त वह व्यक्ति होता है जो अपने देश से प्यार करता है और उसकी भलाई के लिए काम करता है। (Deshbhakti means love for one's country. 'Desh' means country and 'Bhakti' means devotion. A Deshbhakt is someone who loves their country and works for its welfare.)",
+          "hint": "'Desh' + 'Bhakti' = Country + Devotion",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn9_007",
+          "front": "'अहिंसा' का क्या मतलब है और यह स्वतंत्रता संग्राम में कैसे काम आई? (What does 'Ahimsa' mean and how was it used in the freedom struggle?)",
+          "back": "अहिंसा का मतलब है हिंसा न करना - किसी को मारना-पीटना नहीं। महात्मा गांधी ने अहिंसा को अपना हथियार बनाया। उन्होंने बिना लड़ाई-झगड़े के, शांतिपूर्ण तरीके से विरोध किया - जैसे सत्याग्रह, नमक यात्रा, और असहयोग आंदोलन। (Ahimsa means non-violence. Gandhi made it his weapon, protesting peacefully through satyagraha, salt march, and non-cooperation movement.)",
+          "hint": "Gandhi's most powerful weapon was not a weapon at all",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn9_008",
+          "front": "'स्वदेशी' का क्या मतलब है? (What does 'Swadeshi' mean?)",
+          "back": "स्वदेशी का मतलब है अपने देश में बनी चीज़ें। स्वतंत्रता संग्राम के समय लोगों ने विदेशी (खासकर अंग्रेज़ी) कपड़ों और सामान का बहिष्कार किया और भारत में बनी चीज़ें इस्तेमाल कीं। गांधीजी ने चरखा चलाकर खादी (hand-spun cloth) बनाने का संदेश दिया। (Swadeshi means made in one's own country. During the freedom struggle, people boycotted foreign goods and used Indian-made products. Gandhi promoted khadi by spinning the charkha.)",
+          "hint": "'Swa' means self/own, 'Deshi' means of the country",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn9_009",
+          "front": "तिरंगे झंडे के तीन रंगों का क्या मतलब है? (What do the three colours of the Tiranga flag mean?)",
+          "back": "तिरंगे में तीन रंग हैं: केसरिया (saffron) - साहस और त्याग का प्रतीक, सफ़ेद (white) - शांति और सत्य का प्रतीक, हरा (green) - समृद्धि और विश्वास का प्रतीक। बीच में नीले रंग का अशोक चक्र है जिसमें 24 तीलियाँ (spokes) हैं, जो प्रगति का प्रतीक है। (Saffron = courage and sacrifice, White = peace and truth, Green = prosperity and faith. The blue Ashoka Chakra in the centre has 24 spokes representing progress.)",
+          "hint": "Three colours from top to bottom, and a wheel in the middle",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn9_010",
+          "front": "आज हम अपने देश के लिए क्या कर सकते हैं? (What can we do for our country today?)",
+          "back": "हम कई तरीकों से देश की सेवा कर सकते हैं: अच्छी पढ़ाई करना, नियम कानून मानना, स्वच्छता रखना, पर्यावरण की रक्षा करना, दूसरों की मदद करना, सबसे अच्छा व्यवहार करना, और अपने अधिकारों और कर्तव्यों को जानना। हर अच्छा काम देशभक्ति है! (We can serve our country by: studying well, following rules, keeping clean, protecting environment, helping others, good behaviour, and knowing our rights and duties. Every good deed is patriotism!)",
+          "hint": "You don't need to fight a war to be patriotic",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

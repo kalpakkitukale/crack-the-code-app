@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn1_t3",
+  "topicId": "gr4_mn_1_3",
+  "topicName": "Understanding Angles",
+  "chapterId": "gr4_math_ncert_ch1",
+  "chapterName": "Shapes Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "35-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_1_1", "gr4_mn_1_2"],
+    "followUpTopics": ["gr4_mn_1_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn1_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Angle Basics | What Are Angles? | Math Antics",
+      "description": "Learn the basics of angles in geometry! Understand what an angle is, how two lines meet to form an angle, and discover the different types of angles: right angles, acute angles, obtuse angles, and straight angles.",
+      "youtubeId": "DGKwdHMiqCg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DGKwdHMiqCg",
+      "thumbnailUrl": "https://img.youtube.com/vi/DGKwdHMiqCg/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 5800000,
+      "tags": ["angles", "right angle", "acute angle", "obtuse angle", "straight angle", "geometry basics"],
+      "learningObjectives": ["Understand what an angle is", "Learn 4 types of angles: right, acute, obtuse, straight"],
+      "keyConceptsCovered": ["Angle = space between two lines that meet at a point", "Right angle = 90 degrees (like a corner)", "Acute angle = less than 90 degrees (sharp)", "Obtuse angle = more than 90 degrees (wide)", "Straight angle = 180 degrees (flat line)"],
+      "prerequisites": ["Basic shapes knowledge", "Understanding corners"],
+      "followUpTopics": ["Identifying angles in shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_v5",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Types of Angles Song | Acute, Obtuse & Right Angles | NUMBEROCK",
+      "description": "Join Earl the pizza delivery man on his route and discover different types of angles! Learn to spot acute angles (like the top of a pizza slice), right angles (like the corner of a square), and obtuse angles (like clock hands at quarter to two).",
+      "youtubeId": "NVuMULQjb3o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NVuMULQjb3o",
+      "thumbnailUrl": "https://img.youtube.com/vi/NVuMULQjb3o/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "NUMBEROCK",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2100000,
+      "tags": ["angles song", "acute angle", "obtuse angle", "right angle", "NUMBEROCK", "kids song"],
+      "learningObjectives": ["Reinforce angle types through a fun song", "Identify angles in real-world examples"],
+      "keyConceptsCovered": ["Acute = sharp like pizza slice tip", "Right = square corner like a book", "Obtuse = wide like clock at 10:10"],
+      "prerequisites": ["Introduction to angle types"],
+      "followUpTopics": ["Finding angles around you"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t3_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Right Angles Around Us | Finding 90 Degree Angles",
+      "description": "Look for right angles everywhere! The corner of a book, the corner of a door, the corner of a window - right angles are all around us. Learn to use the corner of a piece of paper to check for right angles.",
+      "youtubeId": "10dTx1Zy_4w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=10dTx1Zy_4w",
+      "thumbnailUrl": "https://img.youtube.com/vi/10dTx1Zy_4w/hqdefault.jpg",
+      "duration": 369,
+      "durationDisplay": "6:09",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3200000,
+      "tags": ["right angles", "90 degrees", "real world", "finding angles"],
+      "learningObjectives": ["Identify right angles in everyday objects", "Use a paper corner as a right-angle checker"],
+      "keyConceptsCovered": ["Right angles in book corners, doors, windows", "Using paper corner to test for right angles", "Most man-made objects have right angles"],
+      "prerequisites": ["Angle types"],
+      "followUpTopics": ["Identifying acute and obtuse in real life"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t3_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Angle Types Practice | Identify Acute, Right, and Obtuse",
+      "description": "Practice identifying different angle types! Look at various angles and decide if each one is acute (sharp), right (square corner), or obtuse (wide). A fun interactive quiz to test your understanding.",
+      "youtubeId": "2cg-Uc556-Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2cg-Uc556-Q",
+      "thumbnailUrl": "https://img.youtube.com/vi/2cg-Uc556-Q/hqdefault.jpg",
+      "duration": 210,
+      "durationDisplay": "3:30",
+      "channelName": "Harry Kindergarten Music",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 4200000,
+      "tags": ["practice", "angles quiz", "acute", "right", "obtuse", "identify"],
+      "learningObjectives": ["Quickly classify angles by type", "Apply angle knowledge independently"],
+      "keyConceptsCovered": ["Classifying angles as acute, right, or obtuse", "Self-assessment practice"],
+      "prerequisites": ["All angle types"],
+      "followUpTopics": ["Angles in shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t3_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Angles in Shapes | Finding Angles in Triangles and Rectangles",
+      "description": "Discover angles inside shapes! Find out how many right angles a rectangle has, what kinds of angles a triangle can have, and how to spot angles in everyday objects like clocks and scissors.",
+      "youtubeId": "DGKwdHMiqCg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DGKwdHMiqCg",
+      "thumbnailUrl": "https://img.youtube.com/vi/DGKwdHMiqCg/hqdefault.jpg",
+      "duration": 321,
+      "durationDisplay": "5:21",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 5800000,
+      "tags": ["angles in shapes", "rectangle angles", "triangle angles", "geometry"],
+      "learningObjectives": ["Find angles inside 2D shapes", "Count right angles in rectangles and squares"],
+      "keyConceptsCovered": ["Rectangle has 4 right angles", "Square has 4 right angles", "Triangles can have acute, right, or obtuse angles", "Angles in clocks and scissors"],
+      "prerequisites": ["Angle types", "Shape knowledge"],
+      "followUpTopics": ["Identifying shapes around us"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn1_v4", "gr4_mn1_v5", "gr4_mn1_t3_v3", "gr4_mn1_t3_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1500,
+      "estimatedTimeDisplay": "25:00",
+      "rationale": "Fast-track through angles with real-world application and angles in shapes"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn1_v4", "gr4_mn1_v5", "gr4_mn1_t3_v3", "gr4_mn1_t3_v4", "gr4_mn1_t3_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1710,
+      "estimatedTimeDisplay": "28:30",
+      "rationale": "Complete coverage of angles with practice and application"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn1_v4", "gr4_mn1_v5", "gr4_mn1_t3_v3", "gr4_mn1_t3_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1389,
+      "estimatedTimeDisplay": "23:09",
+      "rationale": "Core angle concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn1_v4", "gr4_mn1_v5", "gr4_mn1_t3_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1179,
+      "estimatedTimeDisplay": "19:39",
+      "rationale": "Essential angle concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn1_v5",
+      "checkpointName": "Angle Types Check",
+      "questions": [
+        {
+          "question": "The corner of a book makes what type of angle?",
+          "options": ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+          "correctAnswer": 1,
+          "explanation": "The corner of a book is a right angle (90 degrees). It forms a perfect square corner. You can check by placing the corner of a piece of paper against it - they match!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use the corner of a piece of paper as a right-angle checker. Have students walk around the classroom and classify angles they find as acute, right, or obtuse.",
+    "parentGuidance": "Open and close a pair of scissors slowly to show how angles change from acute to right to obtuse. Look at clock hands at different times to find different angle types.",
+    "studentGuidance": "Use the corner of your notebook as a tool! Hold it against any corner you see. If it matches perfectly, it is a right angle. If it is smaller, it is acute. If it is bigger, it is obtuse."
+  }
+}

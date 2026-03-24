@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ncert_u7",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en7_001",
+      "videoId": "gr4_en7_v1",
+      "question": "What is the poem 'A Watering Rhyme' about?",
+      "answer": "The poem 'A Watering Rhyme' teaches us the right way and the right time to water plants. It tells us to water plants early in the morning or in the evening, but never during the hot afternoon. This simple rhyme helps us remember how to take good care of our garden.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en7_002",
+      "videoId": "gr4_en7_v1",
+      "question": "Why is it bad to water plants in the afternoon?",
+      "answer": "When the sun is very hot in the afternoon, water drops on the leaves can heat up and burn them. Also, the water dries up too fast in the heat and does not reach the roots properly. That is why morning and evening are better times - the soil stays moist longer and the plants can drink the water slowly.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en7_003",
+      "videoId": "gr4_en7_v2",
+      "question": "What is the story 'The Giving Tree' about?",
+      "answer": "The story is about a tree that loved a little boy very much. When the boy was young, they played together happily. As the boy grew up, he kept coming back to the tree asking for things. The tree gave him its apples, branches, and trunk. In the end, only a stump was left, and it let the tired old man sit on it. The tree was always happy to give.",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_en7_004",
+      "videoId": "gr4_en7_v2",
+      "question": "What did the boy ask the tree for as he grew older?",
+      "answer": "First, the boy wanted money, so the tree said 'Take my apples and sell them.' Then he wanted a house, so the tree said 'Cut my branches and build one.' Then he wanted a boat, so the tree said 'Cut my trunk and make one.' Each time, the boy took what he needed and went away.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en7_005",
+      "videoId": "gr4_en7_v2",
+      "question": "What lesson does 'The Giving Tree' teach us?",
+      "answer": "The story teaches us about selfless love - giving without expecting anything in return. The tree is like our parents and nature who always give us what we need. It also reminds us to be grateful, to say thank you, and to take care of those who love us, instead of always taking and never giving back.",
+      "status": "answered",
+      "upvotes": 28
+    },
+    {
+      "id": "faq_gr4_en7_006",
+      "videoId": "gr4_en7_v3",
+      "question": "What are the three main tenses?",
+      "answer": "The three main tenses are: (1) Past Tense - tells about actions that already happened (e.g., 'The boy climbed the tree'), (2) Present Tense - tells about actions happening now (e.g., 'The tree gives shade'), and (3) Future Tense - tells about actions that will happen later (e.g., 'I will water the plants').",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en7_007",
+      "videoId": "gr4_en7_v3",
+      "question": "How do we change a verb to past tense?",
+      "answer": "For most verbs, we add '-ed' at the end. For example: play becomes played, water becomes watered, climb becomes climbed. But some verbs are irregular and change differently: give becomes gave, sit becomes sat, come becomes came, go becomes went. You need to memorise the irregular ones!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en7_008",
+      "videoId": "gr4_en7_v3",
+      "question": "How do we form the future tense?",
+      "answer": "To form the future tense, we put 'will' or 'shall' before the main verb. For example: 'I will water the plants tomorrow.' 'She will read the story.' 'We shall plant a tree.' It is simple - just add 'will' before the action word!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en7_009",
+      "videoId": "gr4_en7_v2",
+      "question": "Who does the tree represent in the story?",
+      "answer": "The tree represents people who love us selflessly, especially our parents, grandparents, and nature. Just like the tree gave the boy everything without asking for anything, our parents work hard and sacrifice many things for us. Nature also gives us food, air, water, and shelter. The story reminds us to love and care for them in return.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en7_010",
+      "videoId": "gr4_en7_v1",
+      "question": "What can we do to take care of plants at home?",
+      "answer": "You can: (1) Water plants early in the morning or in the evening, (2) Make sure they get enough sunlight, (3) Remove weeds that grow around them, (4) Use good soil and add compost to help them grow, (5) Talk to your plants - many people believe it helps! Taking care of plants teaches us responsibility and love for nature.",
+      "status": "answered",
+      "upvotes": 18
+    }
+  ]
+}

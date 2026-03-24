@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_eng_ncert_u8",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en8_books_poem",
+      "name": "Books (Poem)",
+      "description": "Explore the poem that celebrates the joy of reading books",
+      "topicId": "gr4_en_8_1",
+      "chapterId": "gr4_eng_ncert_u8",
+      "cards": [
+        {
+          "id": "card_gr4_en8_001",
+          "front": "What is the poem 'Books' about?",
+          "back": "The poem 'Books' is about the wonderful world that books open up for us. It celebrates how books can take us to faraway places, introduce us to new people, and fill our minds with exciting ideas -- all without leaving our chair!",
+          "hint": "Think about what you can do when you read a book",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en8_002",
+          "front": "According to the poem, where can books take you?",
+          "back": "Books can take you to faraway lands, deep oceans, tall mountains, magical kingdoms, and even into outer space. Through reading, you can travel anywhere in the world and beyond without moving from your seat.",
+          "hint": "Think about the places described in stories you have read",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en8_003",
+          "front": "What does the poet say books are like?",
+          "back": "The poet compares books to friends and treasures. Just like good friends, books keep us company, teach us new things, and make us happy. They are treasures because the knowledge inside them is very valuable.",
+          "hint": "Think of something precious that gives you company",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en8_004",
+          "front": "Why does the poet love books so much?",
+          "back": "The poet loves books because they fill the mind with wonder and imagination. Books help us learn new things, dream big, and understand the world better. They are a source of joy that never runs out.",
+          "hint": "What do books give you that toys cannot?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en8_005",
+          "front": "What message does the poem 'Books' give to children?",
+          "back": "The poem encourages children to read as many books as they can. It tells us that reading is a wonderful habit that opens the doors to knowledge, imagination, and adventure. Books are our best friends!",
+          "hint": "What habit does the poet want you to develop?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en8_buying_book",
+      "name": "Going to Buy a Book (Story)",
+      "description": "Understand the story about a child's exciting trip to buy a book",
+      "topicId": "gr4_en_8_2",
+      "chapterId": "gr4_eng_ncert_u8",
+      "cards": [
+        {
+          "id": "card_gr4_en8_006",
+          "front": "What happens in the story 'Going to Buy a Book'?",
+          "back": "The story is about a child who goes to a bookshop to buy a book. The child is excited to pick a book of their own choosing. At the bookshop, the child sees many different kinds of books and learns about the joy of selecting and owning a book.",
+          "hint": "Where does the child go and what do they do there?",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en8_007",
+          "front": "What kinds of books does the child see at the bookshop?",
+          "back": "At the bookshop, the child sees storybooks, picture books, books about animals, books about science, fairy tales, comics, and many more. There are books of all sizes, colours, and types -- something for everyone!",
+          "hint": "Think about the different sections in a bookshop",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en8_008",
+          "front": "Why is the child excited about buying a book?",
+          "back": "The child is excited because buying a book is like getting a new friend. The child gets to choose exactly the book they want, take it home, and read it again and again. Owning a book feels special.",
+          "hint": "How would you feel if you could pick any book you wanted?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en8_009",
+          "front": "What does the story teach about books and reading?",
+          "back": "The story teaches that books are valuable and reading is a wonderful habit. It shows that visiting a bookshop can be an exciting adventure. It also teaches us to value books and take care of them.",
+          "hint": "What good habits does the story encourage?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en8_010",
+          "front": "How can you take care of your books?",
+          "back": "You can take care of books by keeping them clean and dry, not folding the pages, using a bookmark instead of bending corners, covering them with brown paper, and keeping them on a shelf. Treat your books like treasures!",
+          "hint": "Think about what keeps a book looking new",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en8_articles",
+      "name": "Grammar: Articles",
+      "description": "Learn about the words a, an, and the -- the articles in English",
+      "topicId": "gr4_en_8_3",
+      "chapterId": "gr4_eng_ncert_u8",
+      "cards": [
+        {
+          "id": "card_gr4_en8_011",
+          "front": "What are articles in English?",
+          "back": "Articles are small but important words used before nouns. There are three articles in English: 'a', 'an', and 'the'. They tell us whether we are talking about something specific or something general.",
+          "hint": "Three tiny words that come before nouns",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en8_012",
+          "front": "When do we use 'a' and when do we use 'an'?",
+          "back": "We use 'a' before a word that starts with a consonant sound: a book, a cat, a dog. We use 'an' before a word that starts with a vowel sound: an apple, an egg, an umbrella. Remember: it depends on the sound, not just the letter!",
+          "hint": "Think about vowel and consonant sounds",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en8_013",
+          "front": "When do we use 'the'?",
+          "back": "'The' is used when we are talking about a specific person, place, or thing that the listener already knows about. Example: 'I read a book. The book was very interesting.' The second time, we use 'the' because we already know which book.",
+          "hint": "Used for something specific or already mentioned",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en8_014",
+          "front": "Fill in the blank: I saw ___ elephant at ___ zoo.",
+          "back": "I saw an elephant at the zoo. We use 'an' before 'elephant' because it starts with a vowel sound. We use 'the' before 'zoo' because we are talking about a specific zoo that we visited.",
+          "hint": "Elephant starts with a vowel; the zoo is a specific place",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en8_015",
+          "front": "Why is 'an hour' correct but 'a house' is also correct?",
+          "back": "In 'an hour', the 'h' is silent, so the word sounds like it starts with a vowel (our). So we use 'an'. In 'a house', the 'h' is pronounced, so the word starts with a consonant sound. We use 'a'. Remember: articles depend on the sound, not the spelling!",
+          "hint": "Listen to the sound at the beginning of each word",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

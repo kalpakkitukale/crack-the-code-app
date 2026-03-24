@@ -1,0 +1,356 @@
+{
+  "playlistId": "gr4_m2_t5_main",
+  "topicId": "gr4_m_2_5",
+  "topicName": "Word Problems on Addition and Subtraction",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2520,
+    "totalDurationDisplay": "42:00",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_2_1", "gr4_m_2_2", "gr4_m_2_3", "gr4_m_2_4"],
+    "followUpTopics": ["gr4_m_3_1"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_wordprob_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "One-Step Addition Word Problems",
+      "description": "Learn to solve word problems requiring one addition",
+      "youtubeId": "cZmwwfGd8nU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cZmwwfGd8nU",
+      "thumbnailUrl": "https://img.youtube.com/vi/cZmwwfGd8nU/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 950000,
+      "tags": ["word problems", "addition", "one-step", "problem solving"],
+      "learningObjectives": [
+        "Identify addition word problems",
+        "Extract given information",
+        "Set up addition equation",
+        "Solve and verify answer"
+      ],
+      "keyConceptsCovered": [
+        "Keywords: total, altogether, sum, combined, in all",
+        "Example: Shop had 2,345 books, received 1,678 more. Total books?",
+        "Steps: Read → Given: 2,345 and 1,678 → Asked: total → Add → 4,023 books",
+        "Check: Does answer make sense? Yes, more than either number"
+      ],
+      "prerequisites": ["Addition skills", "keyword recognition"],
+      "followUpTopics": ["One-step subtraction word problems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_wordprob_v2",
+      "sequenceNumber": 2,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "One-Step Subtraction Word Problems",
+      "description": "Learn to solve word problems requiring one subtraction",
+      "youtubeId": "e0LbEGP2H7k",
+      "youtubeUrl": "https://www.youtube.com/watch?v=e0LbEGP2H7k",
+      "thumbnailUrl": "https://img.youtube.com/vi/e0LbEGP2H7k/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 920000,
+      "tags": ["word problems", "subtraction", "one-step", "problem solving"],
+      "learningObjectives": [
+        "Identify subtraction word problems",
+        "Recognize subtraction keywords",
+        "Set up subtraction equation",
+        "Solve and check reasonableness"
+      ],
+      "keyConceptsCovered": [
+        "Keywords: left, remaining, difference, how many more/less, spent, gave away",
+        "Example: Ravi had 5,678 rupees, spent 2,345. Money left?",
+        "Steps: Read → Given: 5,678 start, 2,345 spent → Asked: remaining → Subtract → 3,333 rupees",
+        "Check: Less than starting amount? Yes, makes sense"
+      ],
+      "prerequisites": ["Subtraction skills", "keyword recognition"],
+      "followUpTopics": ["Comparison word problems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_wordprob_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Comparison Word Problems (How Many More/Less)",
+      "description": "Learn to solve problems comparing two quantities",
+      "youtubeId": "OTjr6Bt1PFE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OTjr6Bt1PFE",
+      "thumbnailUrl": "https://img.youtube.com/vi/OTjr6Bt1PFE/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 870000,
+      "tags": ["word problems", "comparison", "how many more", "difference"],
+      "learningObjectives": [
+        "Identify comparison problems",
+        "Understand 'how many more/less' means subtract",
+        "Find difference between quantities",
+        "Interpret result correctly"
+      ],
+      "keyConceptsCovered": [
+        "Keywords: how many more, how many less, difference between",
+        "Example: School A has 4,567 students, School B has 3,245. How many more in A?",
+        "Strategy: Bigger - Smaller = Difference → 4,567 - 3,245 = 1,322 more students",
+        "Check: A has more, so positive difference makes sense"
+      ],
+      "prerequisites": ["Subtraction skills", "comparison understanding"],
+      "followUpTopics": ["Two-step word problems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_wordprob_v4",
+      "sequenceNumber": 4,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Two-Step Word Problems",
+      "description": "Learn to solve problems requiring both addition and subtraction",
+      "youtubeId": "u5s3P8YbVbg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u5s3P8YbVbg",
+      "thumbnailUrl": "https://img.youtube.com/vi/u5s3P8YbVbg/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 820000,
+      "tags": ["word problems", "two-step", "multi-step", "complex"],
+      "learningObjectives": [
+        "Identify problems needing multiple steps",
+        "Plan the solution sequence",
+        "Solve step-by-step",
+        "Track intermediate results"
+      ],
+      "keyConceptsCovered": [
+        "Example: Library had 5,000 books, got 2,000 donation, gave away 1,500. Books now?",
+        "Step 1: Add donation → 5,000 + 2,000 = 7,000",
+        "Step 2: Subtract given away → 7,000 - 1,500 = 5,500 books",
+        "Check: More than start (5,000)? Yes, received more than gave away"
+      ],
+      "prerequisites": ["One-step problems mastery"],
+      "followUpTopics": ["Mixed problem types"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_wordprob_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Mixed Word Problems Practice",
+      "description": "Practice variety of addition and subtraction word problems",
+      "youtubeId": "XZwk7xkPQhs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XZwk7xkPQhs",
+      "thumbnailUrl": "https://img.youtube.com/vi/XZwk7xkPQhs/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 790000,
+      "tags": ["word problems", "mixed practice", "variety", "application"],
+      "learningObjectives": [
+        "Solve different problem types",
+        "Choose correct operation independently",
+        "Build problem-solving confidence",
+        "Practice real-world scenarios"
+      ],
+      "keyConceptsCovered": [
+        "Mix of addition, subtraction, comparison, two-step problems",
+        "Practice identifying operation from context",
+        "Real-world scenarios: money, distance, population, etc.",
+        "Emphasis on checking reasonableness"
+      ],
+      "prerequisites": ["All problem types"],
+      "followUpTopics": ["Real-world applications"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_wordprob_v6",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Real-World Word Problems",
+      "description": "Apply skills to real-life situations and Indian context",
+      "youtubeId": "cZmwwfGd8nU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cZmwwfGd8nU",
+      "thumbnailUrl": "https://img.youtube.com/vi/cZmwwfGd8nU/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 750000,
+      "tags": ["word problems", "real-world", "application", "Indian context"],
+      "learningObjectives": [
+        "Apply to real-life situations",
+        "Solve problems with Indian context (rupees, cricket, etc.)",
+        "Build practical math skills",
+        "Understand math in daily life"
+      ],
+      "keyConceptsCovered": [
+        "Money problems (rupees, budgeting, savings)",
+        "Distance problems (kilometers, travel)",
+        "Population/crowd problems (students, attendance)",
+        "Shopping and sales problems"
+      ],
+      "prerequisites": ["Mixed problem-solving skills"],
+      "followUpTopics": ["Challenge problems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_wordprob_v7",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Complex Multi-Step Word Problems",
+      "description": "Advanced word problems for strong problem-solvers",
+      "youtubeId": "e0LbEGP2H7k",
+      "youtubeUrl": "https://www.youtube.com/watch?v=e0LbEGP2H7k",
+      "thumbnailUrl": "https://img.youtube.com/vi/e0LbEGP2H7k/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 520000,
+      "tags": ["challenge", "complex", "multi-step", "advanced"],
+      "learningObjectives": [
+        "Solve complex multi-step problems",
+        "Handle problems with extra information",
+        "Deal with missing information",
+        "Develop advanced problem-solving strategies"
+      ],
+      "keyConceptsCovered": [
+        "Problems requiring 3+ steps",
+        "Problems with extra/irrelevant information",
+        "Problems requiring careful planning",
+        "Olympiad-style word problems"
+      ],
+      "prerequisites": ["Strong problem-solving skills"],
+      "followUpTopics": ["Advanced mathematics"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_wordprob_v1", "gr4_wordprob_v2", "gr4_wordprob_v3", "gr4_wordprob_v4", "gr4_wordprob_v5", "gr4_wordprob_v7"],
+      "totalVideos": 6,
+      "estimatedTime": 2160,
+      "estimatedTimeDisplay": "36:00",
+      "rationale": "Fast-track through problem types with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_wordprob_v1", "gr4_wordprob_v2", "gr4_wordprob_v3", "gr4_wordprob_v4", "gr4_wordprob_v5", "gr4_wordprob_v6"],
+      "totalVideos": 6,
+      "estimatedTime": 2280,
+      "estimatedTimeDisplay": "38:00",
+      "rationale": "Complete coverage of all problem types with real-world application"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_wordprob_v1", "gr4_wordprob_v2", "gr4_wordprob_v3", "gr4_wordprob_v4", "gr4_wordprob_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1920,
+      "estimatedTimeDisplay": "32:00",
+      "rationale": "Core problem types after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_wordprob_v1", "gr4_wordprob_v2", "gr4_wordprob_v4", "gr4_wordprob_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Essential word problem skills only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_wordprob_v2",
+      "checkpointName": "One-Step Problems Mastery",
+      "questions": [
+        {
+          "question": "Maya had 3,456 stickers. She gave 1,289 to her friend. How many does she have left?",
+          "options": ["2,167", "4,745", "2,267", "2,067"],
+          "correctAnswer": 0,
+          "explanation": "Keywords: 'gave', 'left' → Subtraction. 3,456 - 1,289 = 2,167 stickers."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_wordprob_v4",
+      "checkpointName": "Two-Step Problems Check",
+      "questions": [
+        {
+          "question": "A farmer had 5,000 kg rice. He sold 2,000 kg and then harvested 3,000 kg more. How much rice does he have now?",
+          "options": ["6,000 kg", "5,000 kg", "4,000 kg", "10,000 kg"],
+          "correctAnswer": 0,
+          "explanation": "Step 1: After selling → 5,000 - 2,000 = 3,000 kg. Step 2: After harvesting → 3,000 + 3,000 = 6,000 kg."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-4 build problem-solving systematically. Emphasize reading carefully and checking answers. Encourage students to draw diagrams or models.",
+    "parentGuidance": "Help your child read problems twice. Ask: What do you know? What do you need to find? Does the answer make sense?",
+    "studentGuidance": "Always follow steps: Read carefully → Identify given and asked → Choose operation → Solve → Check if answer makes sense!"
+  }
+}

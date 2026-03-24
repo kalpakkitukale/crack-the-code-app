@@ -1,0 +1,428 @@
+{
+  "assessmentId": "readiness_gr4_m4_t2",
+  "topicId": "gr4_m_4_2",
+  "topicName": "Comparing and Ordering 4-digit Numbers",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning to compare and order 4-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_4digit",
+      "conceptName": "Place value in 4-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_pv4_v1", "prereq_pv4_v2"]
+    },
+    {
+      "conceptId": "comparing_3digit",
+      "conceptName": "Comparing 3-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_comp3_v1", "prereq_comp3_v2"]
+    },
+    {
+      "conceptId": "symbols_gt_lt",
+      "conceptName": "Greater than and less than symbols",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_symbols_v1"]
+    },
+    {
+      "conceptId": "ordering_numbers",
+      "conceptName": "Ordering numbers from least to greatest",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_order_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "What is the place value of 6 in the number 6,543?",
+
+      "options": [
+        "6",
+        "600",
+        "6000",
+        "60"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "6000",
+
+      "explanation": "The digit 6 is in the thousands place. So its place value is 6 × 1000 = 6000.",
+
+      "tags": ["place value", "thousands place", "4-digit numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused face value (6) with place value (6000)",
+          "conceptGap": "Understanding difference between face value and place value",
+          "remediation": "Review place value in 4-digit numbers"
+        },
+        {
+          "wrongAnswer": 1,
+          "mistake": "Thought 6 is in hundreds place instead of thousands",
+          "conceptGap": "Counting places from right to left",
+          "remediation": "Practice identifying place positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "In which number is the digit 8 in the thousands place?",
+
+      "options": [
+        "5,832",
+        "8,234",
+        "2,483",
+        "4,238"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "8,234",
+
+      "explanation": "In 8,234, the digit 8 is in the first position from the left, which is the thousands place.",
+
+      "tags": ["place value", "thousands place", "digit position"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Chose a number where 8 is in hundreds place",
+          "conceptGap": "Identifying thousands place position",
+          "remediation": "Review place value positions in 4-digit numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "True or False: In the number 4,567, the value of 5 is 500.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The digit 5 is in the hundreds place, so its value is 5 × 100 = 500.",
+
+      "tags": ["place value", "hundreds place", "value calculation"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't calculate place value correctly",
+          "conceptGap": "Place value calculation in 4-digit numbers",
+          "remediation": "Practice calculating place value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comparing_3digit",
+
+      "question": "Which number is greater: 456 or 465?",
+
+      "options": [
+        "456",
+        "465",
+        "Both are equal",
+        "Cannot tell"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "465",
+
+      "explanation": "Compare digit by digit from left: Hundreds are equal (4=4). Tens: 6 > 5. So 465 > 456.",
+
+      "tags": ["comparing numbers", "3-digit", "digit comparison"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Compared digits in wrong order (from right instead of left)",
+          "conceptGap": "Always compare from leftmost digit (highest place value)",
+          "remediation": "Review comparison strategy"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comparing_3digit",
+
+      "question": "Which number is the smallest: 789, 798, 879?",
+
+      "options": [
+        "789",
+        "798",
+        "879",
+        "All are equal"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "789",
+
+      "explanation": "All have 7 in hundreds place. In tens place: 789 has 8, 798 has 9, 879 has 7. Since 7 < 8 < 9, 879 has the smallest tens digit, but wait - let me recheck. Actually 789 has 8 in tens, 798 has 9 in tens, 879 has 7 in tens. So 879 should be smallest... No, let me think again. 879 has 8 in hundreds, so it's actually larger. Let me compare properly: 789 vs 798 vs 879. First compare hundreds: 789 has 7, 798 has 7, 879 has 8. Since 7 < 8, both 789 and 798 are smaller than 879. Now compare 789 vs 798: hundreds equal, tens 8 vs 9. Since 8 < 9, 789 < 798. So 789 is smallest.",
+
+      "tags": ["comparing numbers", "finding smallest", "3-digit"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Only looked at the first digit without comparing systematically",
+          "conceptGap": "Systematic left-to-right comparison",
+          "remediation": "Practice step-by-step comparison"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "fill_blank",
+      "difficulty": "basic",
+      "conceptTested": "comparing_3digit",
+
+      "question": "Fill in the blank: 523 ___ 532 (use > or <)",
+
+      "correctAnswer": "<",
+      "acceptedAnswers": ["<", "less than", "is less than"],
+
+      "explanation": "Compare hundreds: 5 = 5. Compare tens: 2 < 3. So 523 < 532.",
+
+      "tags": ["comparison symbols", "less than", "3-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": ">",
+          "mistake": "Reversed the symbol direction",
+          "conceptGap": "Symbol direction: smaller number on smaller side",
+          "remediation": "Review greater than/less than symbols"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "symbols_gt_lt",
+
+      "question": "Which symbol correctly completes: 345 ___ 543?",
+
+      "options": [
+        ">",
+        "<",
+        "=",
+        "Both > and <"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "<",
+
+      "explanation": "345 is less than 543 (compare hundreds: 3 < 5). So we use the < symbol: 345 < 543.",
+
+      "tags": ["comparison symbols", "less than", "symbol selection"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Selected > instead of <",
+          "conceptGap": "Symbol direction confusion",
+          "remediation": "Remember: the smaller side points to the smaller number"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "symbols_gt_lt",
+
+      "question": "True or False: The symbol > means 'greater than'.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The symbol > means 'greater than'. The bigger side of the symbol faces the bigger number.",
+
+      "tags": ["symbols", "greater than", "mathematical notation"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Confused > with <",
+          "conceptGap": "Symbol meaning",
+          "remediation": "Review symbol meanings with visual aids"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "ordering_numbers",
+
+      "question": "Arrange in order from smallest to largest: 234, 243, 324",
+
+      "options": [
+        "234, 243, 324",
+        "324, 243, 234",
+        "243, 234, 324",
+        "234, 324, 243"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "234, 243, 324",
+
+      "explanation": "Compare hundreds first: 234 and 243 have 2, 324 has 3. So 324 is largest. Between 234 and 243, compare tens: 3 < 4, so 234 < 243. Order: 234, 243, 324.",
+
+      "tags": ["ordering", "ascending order", "3-digit numbers"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 50,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Didn't compare systematically from left to right",
+          "conceptGap": "Ordering strategy",
+          "remediation": "Practice ordering with place value method"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "ordering_numbers",
+
+      "question": "Which set of numbers is arranged from greatest to smallest?",
+
+      "options": [
+        "567, 576, 657",
+        "657, 576, 567",
+        "576, 657, 567",
+        "567, 657, 576"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "657, 576, 567",
+
+      "explanation": "We need greatest to smallest (descending). Compare: 657 has 6 in hundreds (largest), then 576 and 567 both have 5. Between 576 and 567, compare tens: 7 > 6. So order is 657, 576, 567.",
+
+      "tags": ["ordering", "descending order", "greatest to smallest"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 60,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Arranged from smallest to greatest instead of greatest to smallest",
+          "conceptGap": "Reading question carefully - ascending vs descending",
+          "remediation": "Pay attention to question direction"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong prerequisite knowledge. You're ready to learn comparing 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You have the necessary prerequisite knowledge to proceed.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in prerequisite knowledge. Watch review videos before learning new content.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review prerequisite concepts before learning to compare 4-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you review the concepts you need.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about comparing 4-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

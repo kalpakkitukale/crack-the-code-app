@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch10",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn10_001",
+      "videoId": "gr4_mn10_v1",
+      "question": "What is a data table and how do I read it?",
+      "answer": "A data table shows information organised in rows and columns. To read it: 1) Read the title at the top to know what the table is about. 2) Read the column headings (like 'Animal' and 'Count'). 3) Go row by row to find information about each item. 4) Compare numbers in a column to find the highest, lowest, and totals. It is like a neat chart that makes information easy to understand!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn10_002",
+      "videoId": "gr4_mn10_v1",
+      "question": "How many tigers, elephants, and leopards does India have?",
+      "answer": "As of recent counts: India has about 27,000 elephants (mostly in southern and northeastern states), about 3,167 tigers (2022 census), and about 13,000 leopards spread across the country. Elephants have the highest population, followed by leopards, then tigers. These numbers come from wildlife censuses done by the government.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn10_003",
+      "videoId": "gr4_mn10_v2",
+      "question": "How do I compare large numbers like 6,049 and 5,719?",
+      "answer": "Compare digit by digit from left to right! Both have 4 digits, so compare the thousands place: both have the same (6 vs 5 - wait, 6 > 5!). So 6,049 > 5,719. If the first digits are the same, move to the hundreds place, then tens, then ones. It is like reading from left to right to find which is bigger!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn10_004",
+      "videoId": "gr4_mn10_v2",
+      "question": "What does 'increase' and 'decrease' mean in data?",
+      "answer": "Increase means the number went up (got bigger). Decrease means the number went down (got smaller). For example, if tigers went from 1,706 to 3,167, that is an increase of 1,461. If a forest had 500 deer but now has 350, that is a decrease of 150. We use subtraction to find the exact increase or decrease!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn10_005",
+      "videoId": "gr4_mn10_v3",
+      "question": "What is the difference between a bar chart and a pictograph?",
+      "answer": "A bar chart uses bars (rectangles) of different heights - taller bars mean bigger numbers. You read the exact value from the scale on the side. A pictograph uses picture symbols where each picture represents a fixed number (like 1 picture = 100 animals). You count the pictures and multiply. Both show the same data in different visual ways!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn10_006",
+      "videoId": "gr4_mn10_v3",
+      "question": "How do I read a pictograph correctly?",
+      "answer": "Follow these steps: 1) Read the title to know what it shows. 2) Check the key or legend - it tells you what each symbol represents (e.g., 1 tiger picture = 100 tigers). 3) Count the symbols for each item. 4) Multiply: number of symbols × value per symbol. For example, 5 tiger symbols × 100 = 500 tigers. Always check the key first!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn10_007",
+      "videoId": "gr4_mn10_v4",
+      "question": "What is Project Tiger?",
+      "answer": "Project Tiger is a conservation programme started by the Indian government in 1973 to save tigers from disappearing. It created tiger reserves where tigers are protected from hunting and their habitat is preserved. Thanks to this project, India's tiger count has increased from about 1,700 in 2010 to over 3,100 in 2022. It is one of the most successful wildlife conservation stories in the world!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn10_008",
+      "videoId": "gr4_mn10_v4",
+      "question": "What is a wildlife census and why is it important?",
+      "answer": "A wildlife census is a big survey where experts go into forests to count animals. India does a tiger census every 4 years. It is important because: 1) It tells us how many animals are left. 2) We can see if populations are growing or shrinking. 3) It helps the government decide where to focus protection efforts. Without counting, we would not know if animals are safe or in danger!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn10_009",
+      "videoId": "gr4_mn10_v1",
+      "question": "Why are elephants, tigers, and leopards important for India?",
+      "answer": "These animals are very important! Elephants help forests grow by spreading seeds and creating paths. Tigers keep the food chain balanced by controlling deer and wild boar populations. Leopards adapt to many habitats and help control smaller animal populations. All three are part of India's national heritage. The tiger is even our national animal! Protecting them also protects the forests and rivers where they live.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn10_010",
+      "videoId": "gr4_mn10_v3",
+      "question": "How do I know which type of chart to use?",
+      "answer": "Use a bar chart when you want to compare different items clearly (like tigers in different parks). Use a pictograph when you want a fun, visual way to show data with pictures - it works well for younger readers. Use a table when you need exact numbers and have lots of data. All three show the same information, just in different ways!",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

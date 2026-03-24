@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn8_t3",
+  "topicId": "gr4_mn_8_3",
+  "topicName": "Conversion of Weight and Capacity",
+  "chapterId": "gr4_math_ncert_ch8",
+  "chapterName": "Weigh it, Pour it",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2370,
+    "totalDurationDisplay": "39:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_8_1", "gr4_mn_8_2"],
+    "followUpTopics": ["gr4_mn_8_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn8_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Converting Grams to Kilograms and mL to Litres",
+      "description": "Learn how to convert between grams and kilograms, and between millilitres and litres. Remember: 1 kg = 1000 g and 1 L = 1000 mL!",
+      "youtubeId": "TLkWPN2bXBE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TLkWPN2bXBE",
+      "thumbnailUrl": "https://img.youtube.com/vi/TLkWPN2bXBE/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 980000,
+      "tags": ["conversion", "grams to kilograms", "mL to litres", "unit conversion"],
+      "learningObjectives": ["Convert kilograms to grams by multiplying by 1000", "Convert grams to kilograms by dividing by 1000", "Apply the same rule to litres and millilitres"],
+      "keyConceptsCovered": ["1 kg = 1000 g", "1 L = 1000 mL", "Multiply to go from big unit to small unit", "Divide to go from small unit to big unit"],
+      "prerequisites": ["Grams and kilograms", "Millilitres and litres", "Multiplication by 1000"],
+      "followUpTopics": ["Mixed unit problems", "Addition and subtraction with units"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v5",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "kg-g and L-mL Conversion Practice | Step by Step",
+      "description": "Practice converting between kg and g, and between L and mL with step-by-step examples. Learn to add and subtract weights and capacities with mixed units.",
+      "youtubeId": "m7K7lCVhUhA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=m7K7lCVhUhA",
+      "thumbnailUrl": "https://img.youtube.com/vi/m7K7lCVhUhA/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Education",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 720000,
+      "tags": ["kg to g", "L to mL", "conversion practice", "mixed units", "step by step"],
+      "learningObjectives": ["Convert mixed units like 2 kg 500 g to grams", "Add weights with different units", "Subtract capacities with different units"],
+      "keyConceptsCovered": ["2 kg 500 g = 2500 g", "3 L 200 mL = 3200 mL", "Adding mixed units step by step"],
+      "prerequisites": ["Basic conversion: kg to g and L to mL"],
+      "followUpTopics": ["Word problems with weight and capacity"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch8_multiply_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Multiplication by 10, 100, and 1000 | Easy Multiplication Tricks",
+      "description": "Review multiplication by 1000 to master conversions. Convert 4 kg to grams: 4 x 1000 = 4000 g. Convert 7 L to mL: 7 x 1000 = 7000 mL!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["multiplication", "multiply by 1000", "conversion tool"],
+      "learningObjectives": ["Apply multiplication by 1000 to weight and capacity", "Convert quickly using mental math", "Build speed and accuracy"],
+      "keyConceptsCovered": ["Multiplication as the tool for conversion", "4 kg = 4000 g using x1000", "7 L = 7000 mL using x1000"],
+      "prerequisites": ["Basic multiplication facts"],
+      "followUpTopics": ["Mixed unit operations"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v2",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Grams and Kilograms | Measuring Weight for Kids",
+      "description": "Revisit grams and kilograms with a focus on conversion. See real examples of converting between units for everyday objects.",
+      "youtubeId": "V3XBKB8H0xI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=V3XBKB8H0xI",
+      "thumbnailUrl": "https://img.youtube.com/vi/V3XBKB8H0xI/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["grams", "kilograms", "conversion review"],
+      "learningObjectives": ["Reinforce kg-g relationship", "Practice identifying correct units", "Build conversion confidence"],
+      "keyConceptsCovered": ["When to use grams vs kilograms", "Estimating weight before converting", "Real-world conversion examples"],
+      "prerequisites": ["Basic conversion knowledge"],
+      "followUpTopics": ["Word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v3",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Measuring Capacity | Litres and Millilitres for Kids",
+      "description": "Challenge yourself! Revisit capacity measurement with a focus on tricky conversions and comparing different containers using mL and L.",
+      "youtubeId": "GsF3OfCgUKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GsF3OfCgUKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/GsF3OfCgUKo/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1100000,
+      "tags": ["capacity", "litres", "millilitres", "conversion challenge"],
+      "learningObjectives": ["Apply conversion to compare capacities", "Solve multi-step capacity problems", "Build confidence with L-mL conversions"],
+      "keyConceptsCovered": ["Comparing capacities after converting to same unit", "Multi-step conversion problems", "Real-world capacity challenges"],
+      "prerequisites": ["L-mL conversion"],
+      "followUpTopics": ["Capacity word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn8_v4", "gr4_mn8_v5", "gr4_mn8_v2", "gr4_mn8_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1980,
+      "estimatedTimeDisplay": "33:00",
+      "rationale": "Full conversion coverage plus challenge for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn8_v4", "gr4_mn8_v5", "prereq_ch8_multiply_v1", "gr4_mn8_v2"],
+      "totalVideos": 4,
+      "estimatedTime": 1950,
+      "estimatedTimeDisplay": "32:30",
+      "rationale": "Complete conversion with multiplication review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch8_multiply_v1", "gr4_mn8_v4", "gr4_mn8_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1440,
+      "estimatedTimeDisplay": "24:00",
+      "rationale": "Multiplication review first, then core conversion concepts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn8_v4", "gr4_mn8_v5"],
+      "totalVideos": 2,
+      "estimatedTime": 990,
+      "estimatedTimeDisplay": "16:30",
+      "rationale": "Core conversion concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn8_v4",
+      "checkpointName": "Conversion Understanding Check",
+      "questions": [
+        {
+          "question": "How many grams are there in 3 kilograms?",
+          "options": ["30 g", "300 g", "3000 g", "30000 g"],
+          "correctAnswer": 2,
+          "explanation": "1 kg = 1000 g, so 3 kg = 3 x 1000 = 3000 g."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use a conversion chart on the board: 1 kg = 1000 g and 1 L = 1000 mL. Give children practice sheets with conversion problems. Start with whole numbers before mixed units.",
+    "parentGuidance": "Practice conversions with food packets. Ask: This packet says 500 g. How many such packets make 1 kg? (Answer: 2 packets because 500 + 500 = 1000 g = 1 kg).",
+    "studentGuidance": "Converting is like changing the unit. To go from kg to g, multiply by 1000 (add three zeros). To go from g to kg, think about how many groups of 1000 you have!"
+  }
+}

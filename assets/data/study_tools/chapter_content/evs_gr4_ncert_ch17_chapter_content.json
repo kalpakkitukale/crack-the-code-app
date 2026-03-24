@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch17",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en17",
+    "title": "Nandita in Mumbai",
+    "content": "This chapter from the NCERT Looking Around textbook takes children on a journey to Mumbai through the eyes of Nandita, who visits the city for the first time. She discovers the bustling city life - tall buildings, crowded local trains, busy roads, and the beautiful sea. The chapter explores different types of homes in Mumbai (flats, chawls, slums), the city's famous dabbawalas, and its landmarks like the Gateway of India and Marine Drive. Students learn about the differences between village and city life, the challenges cities face like traffic and pollution, and the rich cultural diversity of a big Indian city.",
+    "keyPoints": [
+      "Mumbai is India's largest city with over 2 crore people",
+      "Local trains are Mumbai's lifeline carrying millions of passengers daily",
+      "People live in flats, chawls, bungalows, and slums depending on their means",
+      "Dabbawalas deliver lakhs of lunch boxes daily with amazing accuracy",
+      "Cities face challenges like traffic, pollution, water shortage, and overcrowding",
+      "Mumbai is culturally diverse with people from all over India"
+    ],
+    "learningObjectives": [
+      "Compare life in a city with life in a village or small town",
+      "Describe different types of housing found in cities",
+      "Identify different modes of transport used in cities",
+      "Understand challenges that big cities face like pollution and traffic",
+      "Appreciate the diversity of people and cultures in Indian cities"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en17_001",
+      "title": "City vs Village Comparison Activity",
+      "content": "Draw two big circles on a page. Label one 'City' and the other 'Village'. Inside each circle, write or draw things you would find there. For example: City - tall buildings, metro, traffic. Village - fields, animals, pond. In the middle where circles overlap, write things found in both! This is called a Venn diagram and it helps you compare two places easily.",
+      "tags": ["activity", "comparison"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en17_002",
+      "title": "My City / My Town Observation",
+      "content": "Look around your own city or town and notice: What types of houses do people live in? What transport do people use most? Are there any traffic jams? Where do people buy their food - from markets or malls? Is there pollution? Write down your observations and compare them with what Nandita saw in Mumbai. Every place has its own special features!",
+      "tags": ["activity", "observation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en17_003",
+      "title": "Remember: City Life Has Two Sides",
+      "content": "When studying this chapter, remember that city life has both good and challenging sides. Good: many schools, hospitals, jobs, entertainment, and meeting people from different cultures. Challenging: pollution, traffic, expensive housing, crowds, and less green space. A balanced answer in exams should mention both sides!",
+      "tags": ["study-tip", "exam-preparation"],
+      "isPinned": false
+    }
+  ]
+}

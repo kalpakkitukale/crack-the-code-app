@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ch3",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_m3_001",
+      "videoId": "gr4_m3_v1",
+      "question": "Why do I need to learn multiplication tables by heart?",
+      "answer": "Knowing your tables by heart makes math much faster! When you can quickly recall that 7 x 8 = 56, you don't have to add 7 eight times. It also helps with division, fractions, and many other topics you'll learn later. Think of it like knowing the alphabet — once you know it, reading becomes easy!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_m3_002",
+      "videoId": "gr4_m3_v1",
+      "question": "Is there an easy way to remember the 9 times table?",
+      "answer": "Yes! Use the finger trick: hold up all 10 fingers. For 9 x 3, fold down the 3rd finger. The fingers to the left (2) are the tens digit, and the fingers to the right (7) are the ones digit. The answer is 27! Also notice that the digits in every answer of the 9 times table always add up to 9 (like 2 + 7 = 9).",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_m3_003",
+      "videoId": "gr4_m3_v1",
+      "question": "Why does any number times zero equal zero?",
+      "answer": "Think of it this way: 5 x 0 means you have 0 groups of 5, or 5 groups of 0 items. Either way, you have nothing! If you have 0 bags of sweets, you have no sweets at all, no matter how many sweets each bag could hold.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_m3_004",
+      "videoId": "gr4_m3_v2",
+      "question": "When do I need to carry over in multiplication?",
+      "answer": "You carry over whenever the product of two digits is 10 or more. For example, if you multiply 7 x 8 = 56, you write the 6 in the ones column and carry the 5 to the tens column. This is just like carrying in addition — you're moving the extra tens to the next place.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_m3_005",
+      "videoId": "gr4_m3_v2",
+      "question": "Why do we add a zero when multiplying by the tens digit in long multiplication?",
+      "answer": "When you multiply by the tens digit, you're really multiplying by a number of tens, not ones. For example, in 34 x 12, the 1 in 12 is actually 10. So 34 x 10 = 340. The zero holds the ones place because there are zero ones from that multiplication step.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_m3_006",
+      "videoId": "gr4_m3_v3",
+      "question": "How do I know when a division problem will have a remainder?",
+      "answer": "A division has a remainder when the dividend is not a multiple of the divisor. For example, 14 ÷ 3 has a remainder because 14 is not in the 3 times table (3, 6, 9, 12, 15...). Since 14 falls between 12 and 15, the answer is 4 remainder 2.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_m3_007",
+      "videoId": "gr4_m3_v3",
+      "question": "Can the remainder be bigger than the number I'm dividing by?",
+      "answer": "No, never! The remainder must always be smaller than the divisor. If the remainder is equal to or bigger than the divisor, it means you can still make one more group. For example, if you get 17 ÷ 5 = 2 remainder 7, that's wrong because 7 > 5. You can fit one more group of 5, making it 3 remainder 2.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_m3_008",
+      "videoId": "gr4_m3_v4",
+      "question": "How do I know whether to multiply or divide in a word problem?",
+      "answer": "Look for clues in the words! Use multiplication when you know the size of each group and the number of groups, and want the total. Use division when you know the total and want to split it into equal parts. Words like 'each', 'every', and 'per' often mean multiply. Words like 'share equally', 'split', and 'divide' mean divide.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_m3_009",
+      "videoId": "gr4_m3_v3",
+      "question": "How can I check if my division answer is correct?",
+      "answer": "Use multiplication to check! Multiply the quotient by the divisor, then add the remainder. If you get back the dividend, your answer is correct. For example: 23 ÷ 5 = 4 remainder 3. Check: 4 x 5 = 20, then 20 + 3 = 23. It matches, so the answer is correct!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_m3_010",
+      "videoId": "gr4_m3_v5",
+      "question": "What are some fun ways to practise multiplication tables?",
+      "answer": "There are lots of fun ways! Play multiplication bingo, use flashcards, skip count while jumping rope, sing times table songs, or challenge a friend to see who can answer faster. You can also spot multiplication in daily life — like counting tiles on a floor (rows x columns) or figuring out the total cost of buying several items at the same price.",
+      "status": "answered",
+      "upvotes": 14
+    }
+  ]
+}

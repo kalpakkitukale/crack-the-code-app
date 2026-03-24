@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch22",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn22",
+    "title": "The World in My Home",
+    "content": "This chapter helps students appreciate the cultural diversity that exists within their own homes, neighbourhoods, and country. Students explore how families can have members from different cultural backgrounds, speaking different languages, eating different foods, and celebrating different festivals. The chapter emphasises that India's strength lies in its Unity in Diversity - the ability of people from vastly different backgrounds to live together in harmony. Students learn about respect, inclusivity, and the constitutional rights that protect every citizen's culture and identity.",
+    "keyPoints": [
+      "India is a culturally diverse country with many languages, foods, and traditions",
+      "Cultural diversity can exist even within a single family",
+      "Festivals like Diwali, Eid, Christmas, Baisakhi, and Pongal reflect India's diversity",
+      "Respecting others' cultures means not making fun of their differences",
+      "The Indian Constitution protects every citizen's right to their own culture",
+      "Unity in Diversity is one of India's greatest strengths"
+    ],
+    "learningObjectives": [
+      "Understand what cultural diversity means",
+      "Identify examples of cultural diversity in families and communities",
+      "Name festivals and traditions from different communities in India",
+      "Explain why respecting others' cultures is important",
+      "Describe how the Indian Constitution protects cultural rights"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn22_001",
+      "title": "My Culture Map Activity",
+      "content": "Talk to your family members and find out: (1) What languages do your parents and grandparents speak? (2) Where did your grandparents grow up? (3) What are your family's special festivals? (4) What is a traditional dish your family makes? Draw a colourful map showing all these different cultural influences in your family!",
+      "tags": ["activity", "family-project"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn22_002",
+      "title": "Festival Calendar Project",
+      "content": "Make a calendar for the year and mark all the festivals you know about. Use different colours for festivals of different communities. You will see that almost every month has a festival! This shows how diverse and celebrations-loving India is.",
+      "tags": ["project", "visual-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn22_003",
+      "title": "Common Mistake to Avoid",
+      "content": "Some students think that only their own culture is the 'right' one. Remember, no culture is better or worse than another. Each culture has its own beauty, history, and wisdom. The correct attitude is to be proud of your own culture while respecting everyone else's.",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    }
+  ]
+}

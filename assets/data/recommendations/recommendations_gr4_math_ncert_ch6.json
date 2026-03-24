@@ -1,0 +1,437 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch6",
+  "topicId": "gr4_mn_6_1",
+  "topicName": "Units of Length",
+  "chapterId": "gr4_math_ncert_ch6",
+  "chapterName": "Measuring Length",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 6: Measuring Length",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of measurement basics and ruler use, can fast-track to conversions and word problems",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2850,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn6_v1",
+          "reason": "Introduction to units of length: cm, m, km",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v2",
+          "reason": "Using ruler and measuring tape",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn6_v3",
+          "reason": "Converting centimetres to metres",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v4",
+          "reason": "Converting metres to kilometres",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v5",
+          "reason": "Estimating lengths using benchmarks",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v6",
+          "reason": "Challenge: Length word problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of all measurement topics",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2340,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn6_v1",
+          "reason": "Introduction to units of length: cm, m, km",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v2",
+          "reason": "Measuring with ruler and tape",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v3",
+          "reason": "Converting cm to m and m to cm",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v4",
+          "reason": "Converting m to km and km to m",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v5",
+          "reason": "Estimating lengths in everyday life",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in measurement basics or ruler use, needs targeted review before length concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 3210,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "measurement_concept_weak": {
+            "addVideos": ["prereq_ch6_measurement_v1"],
+            "priority": "high"
+          },
+          "using_ruler_weak": {
+            "addVideos": ["prereq_ch6_ruler_v1"],
+            "priority": "high"
+          },
+          "addition_subtraction_weak": {
+            "addVideos": ["prereq_ch6_addition_v1"],
+            "priority": "medium"
+          },
+          "comparing_lengths_weak": {
+            "addVideos": ["prereq_ch6_measurement_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch6_measurement_v1",
+          "reason": "Review: What is measurement and why we measure",
+          "skippable": false,
+          "condition": "if measurement_concept is weak"
+        },
+        {
+          "videoId": "prereq_ch6_ruler_v1",
+          "reason": "Review: How to use a ruler correctly",
+          "skippable": false,
+          "condition": "if using_ruler concept is weak"
+        },
+        {
+          "videoId": "prereq_ch6_addition_v1",
+          "reason": "Review: Addition and subtraction for measurement problems",
+          "skippable": false,
+          "condition": "if addition_subtraction concept is weak"
+        },
+        {
+          "videoId": "gr4_mn6_v1",
+          "reason": "Start main topic: Units of length cm, m, km",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v2",
+          "reason": "Using ruler and measuring tape",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v3",
+          "reason": "Converting between cm and m",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v5",
+          "reason": "Estimating lengths",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in measurement basics and ruler use before attempting length conversions",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2190,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch6_measurement_v1",
+          "reason": "Foundation: Learn what measurement means",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch6_ruler_v1",
+          "reason": "Essential: Learn to use a ruler correctly",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch6_addition_v1",
+          "reason": "Critical: Review addition and subtraction for length calculations",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v1",
+          "reason": "Gentle intro to units of length",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn6_v2",
+          "reason": "Begin main content: Using ruler and measuring tape",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with measuring length."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "measurement_concept": {
+        "conceptName": "Understanding what measurement means and why we measure",
+        "importance": "critical",
+        "videoIds": ["prereq_ch6_measurement_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq6_1", "rq6_2", "rq6_3"]
+      },
+      "using_ruler": {
+        "conceptName": "Using a ruler to measure objects in centimetres",
+        "importance": "critical",
+        "videoIds": ["prereq_ch6_ruler_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq6_4", "rq6_5", "rq6_6"]
+      },
+      "addition_subtraction": {
+        "conceptName": "Adding and subtracting numbers up to 1000",
+        "importance": "important",
+        "videoIds": ["prereq_ch6_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq6_7", "rq6_8"]
+      },
+      "comparing_lengths": {
+        "conceptName": "Comparing lengths of two objects (longer, shorter, same)",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch6_measurement_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq6_9", "rq6_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn6_v2",
+        "checkpointName": "Measurement Basics Check",
+        "questions": [
+          {
+            "question": "How many centimetres are there in 1 metre?",
+            "options": ["10", "50", "100", "1000"],
+            "correctAnswer": 2,
+            "explanation": "1 metre = 100 centimetres. This is a very important fact for measuring length!"
+          },
+          {
+            "question": "Neha measures a book and it is 25 cm long. What unit did she use?",
+            "options": ["Metres", "Centimetres", "Kilometres", "Kilograms"],
+            "correctAnswer": 1,
+            "explanation": "She used centimetres (cm). Centimetres are used to measure small objects like books and pencils."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand measurement basics well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch6_ruler_v1",
+          "reason": "Student struggling with basic measurement, review ruler use"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn6_v4",
+        "checkpointName": "Length Conversion Check",
+        "questions": [
+          {
+            "question": "How many metres are there in 1 kilometre?",
+            "options": ["10", "100", "1000", "10000"],
+            "correctAnswer": 2,
+            "explanation": "1 kilometre = 1000 metres. Kilometres are used to measure long distances like roads between cities."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn6_v6",
+          "reason": "Student ready for length word problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the metres to kilometres video again, then try some practice problems."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip estimation video, jump to word problems or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on measurement basics"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising measurement with a real ruler and objects at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your measurement basics really well. You are ready to learn about measuring length in different units. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand measurement and rulers well. Let's learn about centimetres, metres, and kilometres with complete coverage of all the topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in measurement basics or ruler use. Don't worry! We will start with targeted review videos on the concepts you need, then move to measuring length."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review measurement basics and ruler use first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn about measuring length."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how length measurement concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["What is measurement", "Non-standard units (hand span, footsteps)", "Basic counting and number sense"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Using a ruler", "Reading centimetre markings", "Addition and subtraction up to 1000"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Units of length: cm, m, km", "Choosing the right unit", "Measuring with ruler and tape"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Converting cm to m", "Converting m to km", "Comparing lengths in different units"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Estimating lengths", "Length word problems", "Real-life measurement applications"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "conversionFluency": {
+      "target": 85,
+      "description": "% of students who can correctly convert between cm, m, and km"
+    },
+    "estimationAccuracy": {
+      "target": 75,
+      "description": "% of students who can estimate length within 20% of actual measurement"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (25 min) + retake + main content (25 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing cm and m conversions (forgetting whether to multiply or divide by 100)",
+      "solution1": "Use the mnemonic: 'metre is the BIG unit, so the number gets SMALLER when converting cm to m. Divide by 100.'",
+      "challenge2": "Students unable to estimate lengths realistically",
+      "solution2": "Teach body-based benchmarks: fingernail width = 1 cm, arm span = about 1 m, 10 minutes of walking = about 1 km.",
+      "challenge3": "Students who can convert but struggle with word problems",
+      "solution3": "Teach the CUBES strategy: Circle numbers, Underline the question, Box key words, Evaluate the operation, Solve and check."
+    }
+  }
+}

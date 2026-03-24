@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u3",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_3_001",
+      "term": "Aim",
+      "definition": "To point or direct something at a target; also means a goal or purpose.",
+      "pronunciation": "AYM",
+      "exampleUsage": "Nasruddin took aim at the target with his bow and arrow.",
+      "difficulty": "easy",
+      "relatedTerms": ["target", "goal", "shoot"]
+    },
+    {
+      "id": "gls_eng_3_002",
+      "term": "Boast",
+      "definition": "To talk proudly about yourself or your abilities, often more than is true.",
+      "pronunciation": "BOHST",
+      "exampleUsage": "Nasruddin liked to boast that he was the best archer in town.",
+      "difficulty": "medium",
+      "relatedTerms": ["brag", "show off", "proud"]
+    },
+    {
+      "id": "gls_eng_3_003",
+      "term": "Archer",
+      "definition": "A person who shoots arrows using a bow.",
+      "pronunciation": "AR-cher",
+      "exampleUsage": "Nasruddin claimed to be a great archer.",
+      "difficulty": "easy",
+      "relatedTerms": ["bow", "arrow", "target"]
+    },
+    {
+      "id": "gls_eng_3_004",
+      "term": "Target",
+      "definition": "An object or mark that a person tries to hit when shooting or throwing.",
+      "pronunciation": "TAR-git",
+      "exampleUsage": "The arrow flew past the target completely.",
+      "difficulty": "easy",
+      "relatedTerms": ["aim", "bull's eye", "mark"]
+    },
+    {
+      "id": "gls_eng_3_005",
+      "term": "Verb",
+      "definition": "A word that shows an action or something that happens. It tells what someone does.",
+      "pronunciation": "VURB",
+      "exampleUsage": "In the sentence 'She runs fast,' the word 'runs' is a verb.",
+      "difficulty": "easy",
+      "relatedTerms": ["action word", "doing word"]
+    },
+    {
+      "id": "gls_eng_3_006",
+      "term": "Breeze",
+      "definition": "A gentle, light wind that feels pleasant.",
+      "pronunciation": "BREEZ",
+      "exampleUsage": "The children felt the cool breeze as they ran outside.",
+      "difficulty": "easy",
+      "relatedTerms": ["wind", "gust", "air"]
+    },
+    {
+      "id": "gls_eng_3_007",
+      "term": "Excuse",
+      "definition": "A reason given to explain a mistake or to avoid blame.",
+      "pronunciation": "ik-SKYOOS",
+      "exampleUsage": "Nasruddin made a clever excuse when he missed the target.",
+      "difficulty": "medium",
+      "relatedTerms": ["reason", "explanation", "blame"]
+    },
+    {
+      "id": "gls_eng_3_008",
+      "term": "Folk tale",
+      "definition": "A traditional story passed down from one generation to another, often with a moral lesson.",
+      "pronunciation": "FOHK tayl",
+      "exampleUsage": "The story of Nasruddin is a famous folk tale enjoyed by children everywhere.",
+      "difficulty": "medium",
+      "relatedTerms": ["story", "legend", "fable"]
+    },
+    {
+      "id": "gls_eng_3_009",
+      "term": "Energetic",
+      "definition": "Full of energy and enthusiasm; very active and lively.",
+      "pronunciation": "en-er-JET-ik",
+      "exampleUsage": "The poem encourages children to be energetic and run outdoors.",
+      "difficulty": "medium",
+      "relatedTerms": ["active", "lively", "spirited"]
+    },
+    {
+      "id": "gls_eng_3_010",
+      "term": "Humorous",
+      "definition": "Something that is funny and makes people laugh.",
+      "pronunciation": "HYOO-mer-us",
+      "exampleUsage": "Nasruddin's story is humorous because of his silly excuses.",
+      "difficulty": "medium",
+      "relatedTerms": ["funny", "amusing", "comical"]
+    }
+  ]
+}

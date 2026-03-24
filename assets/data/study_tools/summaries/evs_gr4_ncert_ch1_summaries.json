@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch1",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en1_v1",
+      "videoId": "gr4_en1_v1",
+      "content": "This lesson introduces the many different ways children travel to school across India. Some children walk, some ride bicycles, and some take buses or auto-rickshaws. In places near rivers or backwaters, children travel by boat. In hilly areas, some children even use a trolley or ropeway to cross deep valleys. The lesson highlights that the way children get to school depends on where they live - whether in cities, villages, near mountains, or close to water.",
+      "keyPoints": [
+        "Children use many different modes of transport to reach school",
+        "Walking is the most common way in villages",
+        "Boats are used near rivers and backwaters",
+        "Trolleys and ropeways help in hilly areas"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en1_v2",
+      "videoId": "gr4_en1_v2",
+      "content": "This lesson explores the challenges children face while going to school. Some children have to cross rivers without proper bridges and use bamboo bridges or wade through water. During monsoons, streams overflow and roads get flooded, making travel dangerous. In mountain areas, children walk on narrow steep paths. Despite these difficulties, children show great courage and determination to reach school every day.",
+      "keyPoints": [
+        "Some children cross rivers on bamboo bridges",
+        "Monsoon rains cause flooding and make travel difficult",
+        "Mountain paths can be narrow and steep",
+        "Children show bravery in reaching school despite challenges"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en1_v3",
+      "videoId": "gr4_en1_v3",
+      "content": "This lesson looks at how schools are different across India. Some schools are in big buildings with many classrooms, while others may have classes under trees or in small rooms. In some remote villages, a single teacher teaches all the children of different ages together. The lesson helps students understand that not all children have the same school experience, but every child has the right to go to school and learn.",
+      "keyPoints": [
+        "Schools in India vary greatly in size and type",
+        "Some village schools have only one teacher for all classes",
+        "Not every school has a building - some meet under trees",
+        "Every child has the right to education"
+      ],
+      "source": "manual"
+    }
+  ]
+}

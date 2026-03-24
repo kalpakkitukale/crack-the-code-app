@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch25",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_ch25_spices_of_india",
+      "name": "Spices of India",
+      "description": "Learn about different spices grown and used across India",
+      "topicId": "gr4_evn_25_1",
+      "chapterId": "gr4_evs_ncert_ch25",
+      "cards": [
+        {
+          "id": "fc_ch25_si_001",
+          "front": "Which spice is called the 'Queen of Spices'?",
+          "back": "Cardamom (elaichi) is called the Queen of Spices. It is grown mainly in Kerala and is used in sweets, chai, and biryani.",
+          "hint": "It is green, small, and often added to tea",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ch25_si_002",
+          "front": "Which state in India is famous for growing black pepper?",
+          "back": "Kerala is famous for growing black pepper. Black pepper is called the 'King of Spices' and was once so valuable that traders came from faraway countries to buy it.",
+          "hint": "This state is in the south of India, along the coast",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ch25_si_003",
+          "front": "What part of the plant does turmeric (haldi) come from?",
+          "back": "Turmeric comes from the root (rhizome) of the turmeric plant. It is dried and ground into a bright yellow powder used in cooking and also as a medicine.",
+          "hint": "Think about what grows underground",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ch25_si_004",
+          "front": "Name a spice that comes from the bark of a tree.",
+          "back": "Cinnamon (dalchini) comes from the bark of a tree. The bark is peeled off, dried, and rolled into sticks. It is used in garam masala and many sweet dishes.",
+          "hint": "It looks like a rolled-up stick and is brown in colour",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ch25_si_005",
+          "front": "Why did spice traders from Europe come to India long ago?",
+          "back": "European traders came to India because Indian spices like pepper, cloves, and cardamom were very rare and expensive in Europe. Spices were used to flavour food and preserve it. This spice trade changed world history!",
+          "hint": "Think about what made Indian spices special to other countries",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_ch25_regional_cuisines",
+      "name": "Regional Cuisines and Food",
+      "description": "Discover how different regions in India use spices in their cooking",
+      "topicId": "gr4_evn_25_1",
+      "chapterId": "gr4_evs_ncert_ch25",
+      "cards": [
+        {
+          "id": "fc_ch25_rc_001",
+          "front": "Why does food taste different in different parts of India?",
+          "back": "Food tastes different because each region grows different spices and crops based on its climate and soil. Coastal areas use coconut and fish, while northern plains use wheat and dairy. Local spices give each region its unique flavour.",
+          "hint": "Think about what grows easily in different places",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ch25_rc_002",
+          "front": "Which spice makes food red and spicy in Rajasthani cooking?",
+          "back": "Red chilli (lal mirch) makes Rajasthani food red and spicy. Rajasthan is hot and dry, so people use strong spices to preserve food and keep it fresh for longer.",
+          "hint": "It is dried and ground into a bright red powder",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ch25_rc_003",
+          "front": "What is garam masala?",
+          "back": "Garam masala is a mixture of several ground spices like cardamom, cinnamon, cloves, black pepper, and cumin. Different families and regions make their own special mix. 'Garam' means warm or hot.",
+          "hint": "It is not one spice but a blend of many",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ch25_rc_004",
+          "front": "Why do people in South India use more coconut in their cooking?",
+          "back": "South India has a warm, tropical climate where coconut trees grow very well. Coconut is easily available, so people use coconut oil for cooking, coconut milk in curries, and grated coconut in chutneys.",
+          "hint": "Think about the tall trees that grow along the southern coast",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ch25_rc_005",
+          "front": "What is a common way to keep spices fresh at home?",
+          "back": "Spices are kept fresh by storing them in airtight containers (masala dabba) away from sunlight and moisture. Whole spices last longer than ground ones. Many Indian kitchens have a special round spice box with small cups inside.",
+          "hint": "Think about the round metal box found in most Indian kitchens",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

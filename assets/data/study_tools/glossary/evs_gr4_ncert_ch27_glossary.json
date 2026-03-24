@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch27",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_27_001",
+      "term": "Disability",
+      "definition": "A condition that makes it harder for a person to do certain activities or interact with the world around them. A disability can affect movement, sight, hearing, or learning.",
+      "pronunciation": "dis-uh-BIL-ih-tee",
+      "exampleUsage": "Chuskit has a disability that means she uses a wheelchair, but she is just as smart as any other child.",
+      "difficulty": "easy",
+      "relatedTerms": ["differently abled", "challenge", "accessibility"]
+    },
+    {
+      "id": "gls_evs_27_002",
+      "term": "Inclusion",
+      "definition": "Making sure that everyone, including people with disabilities, is welcomed and can take part in activities like school, play, and community life.",
+      "pronunciation": "in-KLOO-zhun",
+      "exampleUsage": "Our school practises inclusion by making sure all children can join in every activity.",
+      "difficulty": "medium",
+      "relatedTerms": ["belonging", "participation", "equal rights"]
+    },
+    {
+      "id": "gls_evs_27_003",
+      "term": "Wheelchair",
+      "definition": "A chair with wheels that helps people who cannot walk to move from place to place. It can be pushed by hand or powered by a motor.",
+      "pronunciation": "WEEL-chair",
+      "exampleUsage": "Chuskit uses a wheelchair to move around because her legs cannot support her.",
+      "difficulty": "easy",
+      "relatedTerms": ["mobility", "accessible", "ramp"]
+    },
+    {
+      "id": "gls_evs_27_004",
+      "term": "Accessible",
+      "definition": "Designed so that everyone, including people with disabilities, can use it easily. An accessible building has ramps, wide doors, and lifts.",
+      "pronunciation": "ak-SES-ih-bul",
+      "exampleUsage": "The new school building is accessible because it has a ramp beside the stairs.",
+      "difficulty": "medium",
+      "relatedTerms": ["ramp", "barrier-free", "wheelchair-friendly"]
+    },
+    {
+      "id": "gls_evs_27_005",
+      "term": "Ladakh",
+      "definition": "A region in the northernmost part of India, known for its high mountains, cold desert landscape, Buddhist monasteries, and unique culture.",
+      "pronunciation": "luh-DAAK",
+      "exampleUsage": "Ladakh is surrounded by the Himalaya and Karakoram mountain ranges.",
+      "difficulty": "easy",
+      "relatedTerms": ["mountains", "cold desert", "Himalayas"]
+    },
+    {
+      "id": "gls_evs_27_006",
+      "term": "Ramp",
+      "definition": "A sloping surface that connects a lower level to a higher level. Ramps help people using wheelchairs, walking aids, or prams to enter buildings.",
+      "pronunciation": "RAMP",
+      "exampleUsage": "The villagers built a ramp so that Chuskit could enter the school.",
+      "difficulty": "easy",
+      "relatedTerms": ["slope", "accessible", "wheelchair"]
+    },
+    {
+      "id": "gls_evs_27_007",
+      "term": "Empathy",
+      "definition": "The ability to understand and share the feelings of another person. Empathy helps us be kind and helpful to people who face difficulties.",
+      "pronunciation": "EM-puh-thee",
+      "exampleUsage": "The children showed empathy by helping Chuskit feel welcome in class.",
+      "difficulty": "medium",
+      "relatedTerms": ["kindness", "understanding", "compassion"]
+    },
+    {
+      "id": "gls_evs_27_008",
+      "term": "Right to Education",
+      "definition": "A law in India that says every child between 6 and 14 years of age must get free education. This includes children with disabilities.",
+      "pronunciation": "RYT too ed-yoo-KAY-shun",
+      "exampleUsage": "The Right to Education Act ensures that Chuskit can go to school just like all other children.",
+      "difficulty": "medium",
+      "relatedTerms": ["RTE Act", "free education", "law"]
+    },
+    {
+      "id": "gls_evs_27_009",
+      "term": "Terrain",
+      "definition": "The physical features of an area of land, such as mountains, valleys, flat ground, or rocky paths.",
+      "pronunciation": "teh-RAYN",
+      "exampleUsage": "The rough terrain of Ladakh makes it very hard for a wheelchair to move.",
+      "difficulty": "medium",
+      "relatedTerms": ["landscape", "geography", "ground"]
+    },
+    {
+      "id": "gls_evs_27_010",
+      "term": "Community",
+      "definition": "A group of people who live in the same area and help each other. A strong community supports all its members, including those with disabilities.",
+      "pronunciation": "kuh-MYOO-nih-tee",
+      "exampleUsage": "The whole community came together to build a path so Chuskit could reach school.",
+      "difficulty": "easy",
+      "relatedTerms": ["neighbourhood", "village", "togetherness"]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn12_t5",
+  "topicId": "gr4_mn_12_5",
+  "topicName": "Time and Calendar Word Problems",
+  "chapterId": "gr4_math_ncert_ch12",
+  "chapterName": "Ticking Clocks and Turning Calendar",
+  "description": "Main learning videos for solving time and calendar word problems: elapsed time on a number line, finding start/end times, counting days between dates, and daily scheduling problems",
+
+  "videos": [
+    {
+      "id": "gr4_mn12_v6",
+      "type": "worked_examples",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Elapsed Time on a Number Line | Solving Time Word Problems",
+      "description": "Learn how to use a number line to solve elapsed time word problems. Find out what time it will be, what time it was, or how much time has passed in real-life situations.",
+
+      "youtubeId": "zXFZUMjehDU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zXFZUMjehDU",
+      "thumbnailUrl": "https://img.youtube.com/vi/zXFZUMjehDU/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 780000,
+
+      "tags": ["elapsed time", "number line", "word problems", "time problems"],
+
+      "learningObjectives": [
+        "Use a number line to calculate elapsed time",
+        "Solve word problems about start time, end time, and duration",
+        "Apply time and calendar skills to real-life scheduling problems"
+      ],
+
+      "prerequisites": ["Elapsed time basics", "Calendar reading"],
+      "followUpTopics": ["Multi-step time word problems", "24-hour clock"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "Riya starts reading at 4:15 PM and reads for 30 minutes. What time does she finish?",
+            "options": ["4:30 PM", "4:45 PM", "5:00 PM"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn12_v6"],
+      "estimatedTime": 390
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn12_v6"],
+      "estimatedTime": 390
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn12_v6"],
+      "estimatedTime": 390
+    }
+  }
+}

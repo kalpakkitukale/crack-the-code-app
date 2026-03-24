@@ -1,0 +1,75 @@
+{
+  "id": "mathematics_gr4",
+  "name": "Mathematics",
+  "icon": "calculate",
+  "color": "#4ECDC4",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "totalChapters": 5,
+  "keywords": ["mathematics", "grade 4", "maths", "numbers", "geometry"],
+  "chapters": [
+    {
+      "id": "gr4_math_ch1",
+      "number": 1,
+      "name": "Large Numbers",
+      "description": "Understanding and comparing large numbers up to lakhs",
+      "keywords": ["numbers", "place value", "lakhs"],
+      "topics": [
+        {"id": "gr4_m_1_1", "name": "Place Value", "difficulty": "basic", "videoCount": 5, "keywords": ["place value"]},
+        {"id": "gr4_m_1_2", "name": "Comparing Numbers", "difficulty": "basic", "videoCount": 4, "keywords": ["comparing"]},
+        {"id": "gr4_m_1_3", "name": "Number Patterns", "difficulty": "basic", "videoCount": 3, "keywords": ["patterns"]}
+      ]
+    },
+    {
+      "id": "gr4_math_ch2",
+      "number": 2,
+      "name": "Addition and Subtraction",
+      "description": "Adding and subtracting 4-5 digit numbers with and without regrouping",
+      "keywords": ["addition", "subtraction", "operations", "regrouping", "borrowing", "carrying"],
+      "topics": [
+        {"id": "gr4_m_2_1", "name": "Addition of 4-5 Digit Numbers (Basic)", "difficulty": "basic", "videoCount": 6, "keywords": ["addition", "4-digit", "5-digit"]},
+        {"id": "gr4_m_2_2", "name": "Addition with Regrouping (Carrying)", "difficulty": "intermediate", "videoCount": 7, "keywords": ["addition", "regrouping", "carrying"]},
+        {"id": "gr4_m_2_3", "name": "Subtraction of 4-5 Digit Numbers (Basic)", "difficulty": "basic", "videoCount": 6, "keywords": ["subtraction", "4-digit", "5-digit"]},
+        {"id": "gr4_m_2_4", "name": "Subtraction with Regrouping (Borrowing)", "difficulty": "intermediate", "videoCount": 7, "keywords": ["subtraction", "regrouping", "borrowing"]},
+        {"id": "gr4_m_2_5", "name": "Word Problems on Addition and Subtraction", "difficulty": "intermediate", "videoCount": 7, "keywords": ["word problems", "application"]}
+      ]
+    },
+    {
+      "id": "gr4_math_ch3",
+      "number": 3,
+      "name": "Multiplication and Division",
+      "description": "Multiplying and dividing 2-3 digit numbers",
+      "keywords": ["multiplication", "division"],
+      "topics": [
+        {"id": "gr4_m_3_1", "name": "Multiplication Tables", "difficulty": "basic", "videoCount": 4, "keywords": ["tables"]},
+        {"id": "gr4_m_3_2", "name": "Long Multiplication", "difficulty": "intermediate", "videoCount": 5, "keywords": ["multiplication"]},
+        {"id": "gr4_m_3_3", "name": "Division with Remainder", "difficulty": "intermediate", "videoCount": 4, "keywords": ["division"]}
+      ]
+    },
+    {
+      "id": "gr4_math_ch4",
+      "number": 4,
+      "name": "Fractions",
+      "description": "Introduction to fractions and basic operations",
+      "keywords": ["fractions", "parts", "whole"],
+      "topics": [
+        {"id": "gr4_m_4_1", "name": "What are Fractions?", "difficulty": "basic", "videoCount": 4, "keywords": ["fractions"]},
+        {"id": "gr4_m_4_2", "name": "Equivalent Fractions", "difficulty": "intermediate", "videoCount": 3, "keywords": ["equivalent"]},
+        {"id": "gr4_m_4_3", "name": "Adding Fractions", "difficulty": "intermediate", "videoCount": 4, "keywords": ["addition"]}
+      ]
+    },
+    {
+      "id": "gr4_math_ch5",
+      "number": 5,
+      "name": "Geometry",
+      "description": "Basic shapes and their properties",
+      "keywords": ["geometry", "shapes", "angles"],
+      "topics": [
+        {"id": "gr4_m_5_1", "name": "Lines and Angles", "difficulty": "basic", "videoCount": 4, "keywords": ["lines", "angles"]},
+        {"id": "gr4_m_5_2", "name": "Triangles", "difficulty": "basic", "videoCount": 4, "keywords": ["triangles"]},
+        {"id": "gr4_m_5_3", "name": "Quadrilaterals", "difficulty": "basic", "videoCount": 3, "keywords": ["quadrilaterals"]}
+      ]
+    }
+  ]
+}

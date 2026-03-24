@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch6",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "नाव बनाओ नाव बनाओ",
+      "description": "A playful poem about making paper boats and floating them in rainwater",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_activity",
+      "label": "गतिविधि (Activity)",
+      "description": "Making paper boats from paper and floating them in water",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_materials",
+      "label": "सामग्री (Materials)",
+      "description": "कागज़ (paper) to fold into a boat shape",
+      "parentId": "node_activity",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_folding",
+      "label": "नाव बनाना (Making the Boat)",
+      "description": "Folding paper step by step to create a boat shape that can float",
+      "parentId": "node_activity",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_nature",
+      "label": "प्रकृति (Nature)",
+      "description": "Natural elements that make the paper boat journey possible",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_rain",
+      "label": "बारिश (Rain)",
+      "description": "Rain brings water in which boats can float - the rainy season is the best time",
+      "parentId": "node_nature",
+      "positionX": -80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_water",
+      "label": "पानी (Water)",
+      "description": "Puddles, streams, and flowing water where the boats sail",
+      "parentId": "node_nature",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_wind",
+      "label": "हवा (Wind)",
+      "description": "Wind pushes the boat along, helping it travel farther",
+      "parentId": "node_nature",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_imagination",
+      "label": "कल्पना (Imagination)",
+      "description": "Children imagine the boat going on grand adventures to distant lands",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_journey",
+      "label": "नाव की यात्रा (Boat's Journey)",
+      "description": "The boat floats through streams, rivers, and in imagination, to the sea",
+      "parentId": "node_imagination",
+      "positionX": 180,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_dreams",
+      "label": "सपने (Dreams)",
+      "description": "The boat carries the child's dreams and wishes to faraway places",
+      "parentId": "node_imagination",
+      "positionX": 320,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_poetry",
+      "label": "काव्य तत्व (Poetic Elements)",
+      "description": "Rhyming (तुकबंदी), rhythm (लय), and repetition make the poem musical",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_rhyme",
+      "label": "तुकबंदी (Rhyming)",
+      "description": "Matching sounds at the end of lines create a song-like quality",
+      "parentId": "node_poetry",
+      "positionX": -350,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_joy",
+      "label": "खुशी और मज़ा (Joy & Fun)",
+      "description": "The poem celebrates the simple joy of childhood play and creativity",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 300,
+      "color": "#00BCD4",
+      "orderIndex": 13
+    }
+  ]
+}

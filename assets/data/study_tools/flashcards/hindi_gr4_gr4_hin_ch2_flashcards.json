@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ch2",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_h2_sangya",
+      "name": "Sangya (संज्ञा)",
+      "description": "Learn about Sangya (nouns) in Hindi - naming words for people, places, and things",
+      "topicId": "gr4_h_2_1",
+      "chapterId": "gr4_hin_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_h2_001",
+          "front": "संज्ञा (Sangya) किसे कहते हैं?",
+          "back": "किसी व्यक्ति, वस्तु, स्थान या भाव के नाम को संज्ञा कहते हैं। Sangya is the name given to any person, place, thing, or feeling. Examples: राम (Ram), दिल्ली (Delhi), किताब (book), खुशी (happiness).",
+          "hint": "Think about naming words - what do we call a person, place, or thing?",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_h2_002",
+          "front": "व्यक्तिवाचक संज्ञा (Vyakti Vachak Sangya) क्या है?",
+          "back": "जो शब्द किसी एक विशेष व्यक्ति, स्थान या वस्तु का नाम बताए, उसे व्यक्तिवाचक संज्ञा कहते हैं। It is a Proper Noun - the special name of a particular person, place, or thing. Examples: गंगा (Ganga), भारत (India), महात्मा गांधी (Mahatma Gandhi).",
+          "hint": "It is the special name of one particular person or place",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_h2_003",
+          "front": "जातिवाचक संज्ञा (Jativachak Sangya) क्या है?",
+          "back": "जो शब्द किसी जाति या वर्ग के सभी प्राणियों या वस्तुओं का बोध कराए, उसे जातिवाचक संज्ञा कहते हैं। It is a Common Noun - a general name for a whole class or group. Examples: लड़का (boy), नदी (river), शहर (city), पक्षी (bird).",
+          "hint": "It is a general name that applies to all of that kind",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_h2_004",
+          "front": "भाववाचक संज्ञा (Bhav Vachak Sangya) क्या है?",
+          "back": "जो शब्द किसी भाव, गुण, दशा या क्रिया का बोध कराए, उसे भाववाचक संज्ञा कहते हैं। It is an Abstract Noun - the name of a feeling, quality, or state. Examples: सुंदरता (beauty), ईमानदारी (honesty), बचपन (childhood), गरीबी (poverty).",
+          "hint": "You cannot touch or see it - it is a feeling or quality",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_h2_005",
+          "front": "इस वाक्य में संज्ञा बताओ: 'राम दिल्ली में रहता है।'",
+          "back": "'राम' एक व्यक्तिवाचक संज्ञा है (a proper noun - name of a person) और 'दिल्ली' भी एक व्यक्तिवाचक संज्ञा है (a proper noun - name of a place). Both are names of specific things.",
+          "hint": "Look for the names of a person and a place in the sentence",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_h2_sarvanam",
+      "name": "Sarvanam (सर्वनाम)",
+      "description": "Learn about Sarvanam (pronouns) in Hindi - words used in place of nouns",
+      "topicId": "gr4_h_2_2",
+      "chapterId": "gr4_hin_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_h2_006",
+          "front": "सर्वनाम (Sarvanam) किसे कहते हैं?",
+          "back": "संज्ञा के स्थान पर प्रयोग होने वाले शब्दों को सर्वनाम कहते हैं। Sarvanam is a pronoun - a word used in place of a Sangya (noun). Examples: मैं (I), तुम (you), वह (he/she), हम (we), वे (they).",
+          "hint": "Which words do we use instead of a person's name?",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_h2_007",
+          "front": "हम सर्वनाम का प्रयोग क्यों करते हैं?",
+          "back": "हम सर्वनाम का प्रयोग इसलिए करते हैं ताकि एक ही संज्ञा को बार-बार दोहराना न पड़े। Without pronouns: 'सीता ने सीता की किताब खोली।' With pronoun: 'सीता ने अपनी किताब खोली।' It makes sentences shorter and smoother.",
+          "hint": "What happens if you say the same name again and again?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_h2_008",
+          "front": "पुरुषवाचक सर्वनाम (Purushvachak Sarvanam) के उदाहरण बताओ।",
+          "back": "पुरुषवाचक सर्वनाम (Personal Pronouns) तीन प्रकार के होते हैं: उत्तम पुरुष - मैं, हम (I, we); मध्यम पुरुष - तुम, आप (you); अन्य पुरुष - वह, वे (he/she, they).",
+          "hint": "Think of words for I, you, and he/she",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_h2_009",
+          "front": "निश्चयवाचक सर्वनाम (Nishchay Vachak Sarvanam) क्या है?",
+          "back": "जो सर्वनाम किसी निश्चित व्यक्ति या वस्तु की ओर संकेत करे, उसे निश्चयवाचक सर्वनाम कहते हैं। It is a Demonstrative Pronoun - it points to a definite person or thing. Examples: यह (this), वह (that), ये (these), वे (those).",
+          "hint": "These words point to something specific - this or that",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_h2_010",
+          "front": "इस वाक्य में सर्वनाम बताओ: 'मोहन खेल रहा है। वह बहुत अच्छा खेलता है।'",
+          "back": "'वह' एक सर्वनाम है जो 'मोहन' (संज्ञा) की जगह प्रयोग हुआ है। 'Vah' (he) is the Sarvanam (pronoun) that replaces the Sangya (noun) 'Mohan' in the second sentence.",
+          "hint": "Which word in the second sentence replaced Mohan's name?",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

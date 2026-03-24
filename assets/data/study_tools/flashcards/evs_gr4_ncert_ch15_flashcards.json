@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_evs_ncert_ch15",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_types_markets",
+      "name": "Types of Markets",
+      "description": "Learn about different kinds of markets in India",
+      "cards": [
+        {
+          "id": "fc_tm_001",
+          "front": "What is a market?",
+          "back": "A market is a place where people go to buy and sell things. It can be a big building like a mall, a row of shops on a street, or even a temporary weekly market (haat) set up in an open area.",
+          "hints": ["A place for buying and selling"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_tm_002",
+          "front": "What is a weekly market or 'haat'?",
+          "back": "A weekly market or haat is a temporary market that is set up on a fixed day of the week. Farmers and small sellers bring their goods to sell directly. Things are often cheaper here because there is no shop rent to pay.",
+          "hints": ["It happens once a week"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_tm_003",
+          "front": "How is a mall different from a weekly market?",
+          "back": "A mall is a big permanent building with many shops and fixed prices. A weekly market is temporary, set up in the open, and you can bargain for lower prices. Malls sell branded goods while weekly markets sell everyday items.",
+          "hints": ["One is permanent, one is temporary"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_tm_004",
+          "front": "What is a wholesale market?",
+          "back": "A wholesale market is where shopkeepers buy things in very large quantities (bulk) at lower prices. They then sell these items in smaller amounts at higher prices in their own shops. For example, Azadpur Mandi in Delhi is a wholesale vegetable market.",
+          "hints": ["Buying in very large amounts"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_tm_005",
+          "front": "What types of things can you buy at different markets?",
+          "back": "Vegetable markets sell fresh fruits and vegetables. Cloth markets sell fabrics. Grain markets (mandis) sell wheat, rice, and pulses. There are also fish markets, flower markets, and spice markets in India.",
+          "hints": ["Different markets for different things"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_buying_selling",
+      "name": "Buying and Selling",
+      "description": "Understand how buying and selling works",
+      "cards": [
+        {
+          "id": "fc_bs_001",
+          "front": "What is the journey of vegetables from farm to your home?",
+          "back": "Farmers grow vegetables on farms, then sell them to traders at the mandi. Traders sell to shopkeepers. Shopkeepers sell to families at local markets. So vegetables pass through many hands before reaching your plate!",
+          "hints": ["Farm to trader to shop to home"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_bs_002",
+          "front": "Why do things cost more in a shop than at the farm?",
+          "back": "At each step from farm to shop, people add their costs - transport, storage, packaging, shop rent, and profit. Each middleman adds a bit to the price. That is why buying directly from farmers is cheaper.",
+          "hints": ["Each person in the chain adds cost"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_bs_003",
+          "front": "What does bargaining mean?",
+          "back": "Bargaining means negotiating or discussing the price with the seller to get a lower price. In many Indian markets, especially weekly markets and street shops, bargaining is common and expected.",
+          "hints": ["Asking for a lower price"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_bs_004",
+          "front": "What is an MRP?",
+          "back": "MRP stands for Maximum Retail Price. It is the highest price that can be charged for a packaged product. It is printed on the product. No shopkeeper can sell above the MRP.",
+          "hints": ["The maximum price printed on a product"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_bs_005",
+          "front": "Why should we check the expiry date before buying food items?",
+          "back": "The expiry date tells us until when the food is safe to eat. Eating food after its expiry date can make us sick. Always check the date on packets of biscuits, chips, milk, and medicines!",
+          "hints": ["Food can go bad after a certain date"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_smart_shopping",
+      "name": "Being a Smart Shopper",
+      "description": "Tips for shopping wisely",
+      "cards": [
+        {
+          "id": "fc_ss_001",
+          "front": "What should you check before buying a packaged food item?",
+          "back": "Check the MRP (price), expiry date, manufacturing date, ingredients list, and weight/quantity. Also look for any certification marks like FSSAI (food safety) or ISI mark.",
+          "hints": ["Date, price, and quality marks"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ss_002",
+          "front": "Why should we make a shopping list before going to the market?",
+          "back": "A shopping list helps us remember what we need, avoid buying unnecessary things, save money, and save time at the market. It keeps our shopping organised and within budget.",
+          "hints": ["To be organised and save money"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ss_003",
+          "front": "Why should we carry a cloth bag to the market?",
+          "back": "Carrying a cloth bag helps reduce the use of plastic bags. Plastic is harmful to the environment because it does not decompose easily, blocks drains, and harms animals who eat it.",
+          "hints": ["To help the environment"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ss_004",
+          "front": "What is a bill or receipt and why is it important?",
+          "back": "A bill or receipt is a written record of what you bought and how much you paid. It is important because you can use it to return or exchange faulty items, check the total amount, and keep track of spending.",
+          "hints": ["A paper proof of purchase"],
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ncert_ch9",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en9_family_types",
+      "name": "Types of Families",
+      "description": "Learn about different kinds of families and how they are structured",
+      "topicId": "gr4_evn_9_1",
+      "chapterId": "gr4_evs_ncert_ch9",
+      "cards": [
+        {
+          "id": "card_gr4_en9_001",
+          "front": "How do families change over time?",
+          "back": "Families change in many ways! New members are born (babies), children grow up and may move away, people get married and bring new members into the family, and sadly, sometimes older family members pass away. Families are always growing and changing.",
+          "hint": "Think about what events bring change to a family",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en9_002",
+          "front": "What happens to a family when a new baby is born?",
+          "back": "When a new baby is born, the family becomes bigger! Parents become more busy taking care of the baby. An older child becomes a big brother or big sister. Grandparents may visit to help. Everyone in the family adjusts to welcome the new member with love.",
+          "hint": "Think about a new addition to the family",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en9_003",
+          "front": "What happens to a family when someone gets married?",
+          "back": "When someone in the family gets married, the family gets a new member! The new person brings their own family traditions, favourite foods, and customs. Two families become connected. Weddings in India are celebrated with great joy, music, food, and rituals.",
+          "hint": "A wedding joins two families",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en9_004",
+          "front": "Why do some families become smaller over time?",
+          "back": "Families can become smaller when children grow up and move to a new city for studies or work. Sometimes grandparents or other family members pass away. Some families that were once joint families may split into smaller nuclear families as children grow up and start their own homes.",
+          "hint": "Think about children growing up and leaving home",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en9_005",
+          "front": "Are all families the same?",
+          "back": "No! Every family is different and special. Some families are large with many members, some are small. Some have both parents, some have a single parent. Some children live with grandparents. Some families have adopted children. What makes a family is love and caring for each other, not just being related by blood.",
+          "hint": "Think about the different families you know",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

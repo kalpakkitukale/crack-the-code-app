@@ -1,0 +1,46 @@
+{
+  "chapterId": "gr4_math_ncert_ch9",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn9_v1",
+      "videoId": "gr4_mn9_v1",
+      "content": "This lesson introduces multiplication through the idea of equal groups. When objects are arranged so that every group has the same number, we can use multiplication instead of adding again and again. For example, if there are 4 plates with 3 ladoos on each, instead of writing 3+3+3+3, we write 4 x 3 = 12. The 'x' sign means 'times' or 'groups of'. Students explore real-life examples like packets of biscuits, bunches of bananas, wheels on cars, and legs on chairs. The lesson makes it clear that multiplication is just a faster way to do repeated addition.",
+      "keyPoints": [
+        "Equal groups have the same number of objects in each group",
+        "Multiplication is a shortcut for repeated addition",
+        "4 x 3 means 4 groups of 3, which equals 12",
+        "The 'x' sign is read as 'times' or 'groups of'",
+        "We find equal groups everywhere: packets, bunches, rows of seats"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn9_v2",
+      "videoId": "gr4_mn9_v2",
+      "content": "This lesson teaches arrays and skip counting as tools for multiplication. An array is when objects are arranged in neat rows and columns - like chairs in a classroom or eggs in a tray. A 3 x 5 array means 3 rows with 5 objects each, giving 15 in total. An important discovery is that 3 x 5 and 5 x 3 both equal 15 - you can swap the numbers! Skip counting also connects to multiplication. Counting by 4s (4, 8, 12, 16, 20) is the same as the 4 times table. So skip counting by 4 five times gives 4 x 5 = 20.",
+      "keyPoints": [
+        "An array arranges objects in equal rows and columns",
+        "A 3 x 5 array has 3 rows of 5, totalling 15",
+        "Swap property: 3 x 5 = 5 x 3 (order does not change the answer)",
+        "Skip counting by a number gives the times table for that number",
+        "Skip count by 4, five times: 4, 8, 12, 16, 20 means 5 x 4 = 20"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn9_v3",
+      "videoId": "gr4_mn9_v3",
+      "content": "This lesson covers the times tables from 2 to 10 and special multiplication rules. Students learn the tables of 2, 5, and 10 first because they follow simple patterns: the 2 table gives even numbers, the 5 table ends in 0 or 5, and the 10 table just adds a zero. The table of 9 has a fun trick where the digits of each answer add up to 9 (e.g., 9x4=36, 3+6=9). Two special rules are important: any number multiplied by 1 stays the same, and any number multiplied by 0 gives 0. The lesson ends with word problems where students identify equal groups and use multiplication to find the total.",
+      "keyPoints": [
+        "Start learning with easy tables: 2, 5, and 10",
+        "Table of 2 gives even numbers; table of 5 ends in 0 or 5; table of 10 adds a zero",
+        "Table of 9 trick: digits of the answer always add up to 9",
+        "Any number x 1 = the same number; any number x 0 = 0",
+        "Word problems: identify the groups and the number in each group, then multiply"
+      ],
+      "source": "manual"
+    }
+  ]
+}

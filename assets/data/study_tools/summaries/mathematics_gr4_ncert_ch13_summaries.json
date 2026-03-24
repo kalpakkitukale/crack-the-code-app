@@ -1,0 +1,72 @@
+{
+  "chapterId": "gr4_math_ncert_ch13",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn13_v1",
+      "videoId": "gr4_mn13_v1",
+      "content": "This lesson takes students on a trip to a Transport Museum, where they learn about distance and travel. Students discover that distance tells us how far one place is from another, measured in metres for shorter lengths and kilometres for longer ones. They learn that 1 kilometre equals 1000 metres. Through the museum visit, students explore the idea of a round trip - going somewhere and coming back, which doubles the one-way distance. The lesson uses relatable examples like travelling from home to school, visiting grandparents in another city, and going on a school trip. Students practise reading signboards and maps that show distances between places.",
+      "keyPoints": [
+        "Distance is how far one place is from another",
+        "Short distances are measured in metres (m), long distances in kilometres (km)",
+        "1 kilometre = 1000 metres",
+        "Round trip distance = 2 times the one-way distance",
+        "Signboards and maps help us know distances between places"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn13_v2",
+      "videoId": "gr4_mn13_v2",
+      "content": "This lesson focuses on time calculations connected to travel and museum visits. Students learn to read time in hours and minutes, and practise finding out how long a journey takes by counting from the start time to the end time. They work with real-life situations like bus and train schedules, finding arrival times when they know the departure time and duration, and calculating how long the museum stays open each day. The lesson introduces the idea of duration - the time between two events. Students also learn to add and subtract time, such as finding what time a bus arrives if it leaves at 9:30 AM and takes 1 hour 45 minutes.",
+      "keyPoints": [
+        "Time is measured in hours and minutes",
+        "Duration is how long something takes from start to finish",
+        "To find arrival time, add the travel duration to the departure time",
+        "To find duration, count from start time to end time",
+        "Bus and train schedules help us plan our travel"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn13_v3",
+      "videoId": "gr4_mn13_v3",
+      "content": "This lesson is all about money calculations in the context of a museum visit. Students learn to calculate the total cost of tickets when different prices apply for children and adults. They practise multiplying the price of one ticket by the number of people to find the total bill. The lesson covers giving and receiving change - if you pay Rs 100 for something that costs Rs 65, your change is Rs 35. Students also compare prices of items in the museum shop, finding how much more or less one item costs than another. The lesson builds skills in addition, subtraction, and multiplication of money amounts using Indian Rupees.",
+      "keyPoints": [
+        "Total cost = price of one item multiplied by the number of items",
+        "Different ticket prices may apply for children and adults",
+        "Change = money paid minus the cost",
+        "To compare prices, subtract the smaller amount from the larger one",
+        "Addition, subtraction, and multiplication are all used in money problems"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn13_v4",
+      "videoId": "gr4_mn13_v4",
+      "content": "This lesson explores transport fares and how they are calculated. Students learn that different types of transport - buses, trains, auto-rickshaws, and taxis - have different ways of charging fares. Some charge a fixed fare regardless of distance, while others charge based on the number of kilometres travelled. The lesson uses fare charts and rate cards to solve problems. For example, if an auto charges Rs 25 for the first kilometre and Rs 10 for each additional kilometre, students calculate the fare for different distances. They also compare costs of different transport options to decide which is cheaper for a given journey.",
+      "keyPoints": [
+        "Different types of transport have different fare systems",
+        "Some fares are fixed, others depend on distance travelled",
+        "Fare charts show prices for different distances or zones",
+        "We can compare costs of different transport options",
+        "Reading a fare chart carefully helps us plan and save money"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn13_v5",
+      "videoId": "gr4_mn13_v5",
+      "content": "This lesson brings together all the skills from the chapter through word problems about planning a museum trip. Students solve multi-step problems that combine distance, time, and money. For example, they plan a class trip by calculating the bus fare for all students, the total cost of museum tickets, the time needed for travel, and how much pocket money to bring for the souvenir shop. The lesson teaches students to break big problems into smaller steps: first understand what is asked, then find the right information, choose the correct operation (add, subtract, or multiply), and check the answer. Students also learn to make simple budgets for outings.",
+      "keyPoints": [
+        "Real-life problems often need more than one step to solve",
+        "Break big problems into smaller, easier steps",
+        "Decide whether to add, subtract, or multiply based on what is asked",
+        "Planning a trip involves distance, time, and money calculations",
+        "Always check your answer to see if it makes sense"
+      ],
+      "source": "manual"
+    }
+  ]
+}

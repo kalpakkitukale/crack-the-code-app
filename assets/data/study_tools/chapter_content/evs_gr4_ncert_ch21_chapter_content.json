@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch21",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn21",
+    "title": "Food and Fun",
+    "content": "This chapter explores the world of food, nutrition, and healthy eating habits. Students learn why food is essential for energy, growth, and protection from diseases. The chapter introduces the three main food groups - energy-giving foods (carbohydrates), body-building foods (proteins), and protective foods (vitamins and minerals). Students discover the concept of a balanced diet through familiar Indian meals like a thali, and understand why eating a variety of foods is important. The chapter also covers food hygiene, the dangers of excessive junk food, and how food habits vary across different regions of India based on climate, culture, and locally available crops.",
+    "keyPoints": [
+      "Food provides energy, helps the body grow, and protects from diseases",
+      "There are three main food groups: energy-giving, body-building, and protective",
+      "A balanced diet includes the right amounts from all food groups",
+      "Junk food has excess oil, sugar, and salt with very few nutrients",
+      "Food hygiene includes washing hands, eating fresh food, and drinking clean water",
+      "Food habits vary across India based on region, climate, and culture"
+    ],
+    "learningObjectives": [
+      "Explain why food is necessary for the human body",
+      "Classify foods into energy-giving, body-building, and protective groups",
+      "Describe what makes a balanced diet with Indian food examples",
+      "Identify healthy and unhealthy food habits",
+      "Understand why food habits differ across regions of India"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn21_001",
+      "title": "My Food Diary Activity",
+      "content": "Write down everything you eat for one whole day - breakfast, lunch, dinner, and snacks. Next to each food item, write whether it is energy-giving (E), body-building (B), or protective (P). Check if your day's meals cover all three groups. If any group is missing, think about what you can add tomorrow!",
+      "tags": ["activity", "self-assessment"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn21_002",
+      "title": "Remember the Food Groups Easily",
+      "content": "Use this trick to remember: Go-Grow-Glow foods! GO foods (energy-giving) = rice, roti, potatoes. GROW foods (body-building) = dal, milk, eggs. GLOW foods (protective) = fruits and vegetables that make your skin glow and eyes shine. A good meal has all three!",
+      "tags": ["study-tip", "memory-trick"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn21_003",
+      "title": "Common Mistake to Avoid",
+      "content": "Many students think that expensive food is always healthier than simple food. This is not true! A simple meal of dal, roti, sabzi, and a fruit is much more nutritious than expensive burgers and pizzas. Nutrition depends on the type of food, not its cost.",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    }
+  ]
+}

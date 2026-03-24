@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn13_t1",
+  "topicId": "gr4_mn_13_1",
+  "topicName": "Multiplication Tables 11 to 20",
+  "chapterId": "gr4_math_ncert_ch13",
+  "chapterName": "The Transport Museum",
+  "description": "Main learning videos for mastering multiplication tables from 11 to 20, including skip counting patterns and strategies for higher times tables",
+
+  "videos": [
+    {
+      "id": "gr4_mn13_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "11 Times Table Song | Skip Counting the Multiples of 11",
+      "description": "Learn the 11 times table with this catchy skip counting song! Skip count by 11s and master your multiplication tables from 11 up to 11 x 12. Perfect for building confidence with higher times tables.",
+
+      "youtubeId": "p9AxbcO4Kp4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=p9AxbcO4Kp4",
+      "thumbnailUrl": "https://img.youtube.com/vi/p9AxbcO4Kp4/hqdefault.jpg",
+
+      "duration": 180,
+      "durationDisplay": "3:00",
+
+      "channelName": "Math Songs by NUMBEROCK",
+      "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+
+      "tags": ["11 times table", "multiplication tables", "skip counting", "times tables 11-20", "multiples of 11"],
+
+      "learningObjectives": [
+        "Recite and recall the 11 times table up to 11 x 12",
+        "Identify and use the pattern in 11 times table (digit sum pattern)",
+        "Apply the 11 times table to solve real-life problems at the museum"
+      ],
+
+      "prerequisites": ["Times tables 1-10", "Multiplication as repeated addition"],
+      "followUpTopics": ["12 times table", "Multiplying by multiples of 10"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "What is 11 x 7?",
+            "options": ["66", "77", "88"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn13_v1"],
+      "estimatedTime": 180
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn13_v1"],
+      "estimatedTime": 180
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn13_v1"],
+      "estimatedTime": 180
+    }
+  }
+}

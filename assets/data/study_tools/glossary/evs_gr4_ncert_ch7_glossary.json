@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch7",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_7_001",
+      "term": "Railway track",
+      "definition": "Two parallel metal rails laid on the ground on which trains run. The rails are fixed to wooden or concrete sleepers.",
+      "pronunciation": "RAIL-way trak",
+      "exampleUsage": "The train moved smoothly along the railway track.",
+      "difficulty": "easy",
+      "relatedTerms": ["rails", "sleepers"]
+    },
+    {
+      "id": "gls_evs_7_002",
+      "term": "Platform",
+      "definition": "A raised flat area at a railway station where passengers wait for and get on or off trains.",
+      "pronunciation": "PLAT-form",
+      "exampleUsage": "We waited on platform number 3 for our train to arrive.",
+      "difficulty": "easy",
+      "relatedTerms": ["station", "passengers"]
+    },
+    {
+      "id": "gls_evs_7_003",
+      "term": "Tunnel",
+      "definition": "A passage dug through a hill or mountain so that trains can pass through without going over it.",
+      "pronunciation": "TUN-nel",
+      "exampleUsage": "The train went through a long dark tunnel in the mountains.",
+      "difficulty": "easy",
+      "relatedTerms": ["mountain", "passage"]
+    },
+    {
+      "id": "gls_evs_7_004",
+      "term": "Bridge",
+      "definition": "A structure built over a river, valley, or road so that trains or people can cross safely from one side to the other.",
+      "pronunciation": "BRIJ",
+      "exampleUsage": "The train crossed a bridge over the wide river.",
+      "difficulty": "easy",
+      "relatedTerms": ["river", "crossing"]
+    },
+    {
+      "id": "gls_evs_7_005",
+      "term": "Signal",
+      "definition": "A device with coloured lights (red, yellow, green) that tells the train driver whether to stop, slow down, or go ahead safely.",
+      "pronunciation": "SIG-nul",
+      "exampleUsage": "The train stopped because the signal was red.",
+      "difficulty": "easy",
+      "relatedTerms": ["traffic light", "safety"]
+    },
+    {
+      "id": "gls_evs_7_006",
+      "term": "Landscape",
+      "definition": "The scenery or view of an area of land, including hills, fields, rivers, trees, and buildings that you can see.",
+      "pronunciation": "LAND-skayp",
+      "exampleUsage": "The landscape changed from green fields to dry brown hills as the train moved south.",
+      "difficulty": "medium",
+      "relatedTerms": ["scenery", "terrain"]
+    },
+    {
+      "id": "gls_evs_7_007",
+      "term": "Vendor",
+      "definition": "A person who sells things. At railway stations, vendors sell tea, snacks, water, books, and other items to passengers.",
+      "pronunciation": "VEN-der",
+      "exampleUsage": "The vendor called out 'Chai, chai!' as he walked through the train.",
+      "difficulty": "easy",
+      "relatedTerms": ["seller", "hawker"]
+    },
+    {
+      "id": "gls_evs_7_008",
+      "term": "Porter",
+      "definition": "A person at a railway station who helps passengers carry their heavy luggage for a fee. Also called a coolie.",
+      "pronunciation": "POR-ter",
+      "exampleUsage": "The porter carried our heavy bags from the platform to the taxi stand.",
+      "difficulty": "easy",
+      "relatedTerms": ["coolie", "helper"]
+    },
+    {
+      "id": "gls_evs_7_009",
+      "term": "Level crossing",
+      "definition": "A place where a road crosses a railway track at the same level. Gates close the road when a train is coming.",
+      "pronunciation": "LEV-ul KROSS-ing",
+      "exampleUsage": "We waited at the level crossing for the train to pass before the gates opened.",
+      "difficulty": "medium",
+      "relatedTerms": ["railway gate", "crossing"]
+    },
+    {
+      "id": "gls_evs_7_010",
+      "term": "Compartment",
+      "definition": "A separate section or coach of a train where passengers sit or sleep during their journey.",
+      "pronunciation": "kum-PART-ment",
+      "exampleUsage": "Our seats were in compartment number 5 of the train.",
+      "difficulty": "easy",
+      "relatedTerms": ["coach", "bogie"]
+    }
+  ]
+}

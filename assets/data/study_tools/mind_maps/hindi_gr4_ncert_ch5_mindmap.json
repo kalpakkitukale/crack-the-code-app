@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch5",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "दोस्त की पोशाक",
+      "description": "A story about friendship, appearance, and true respect",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_characters",
+      "label": "पात्र (Characters)",
+      "description": "The main characters in the story",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_friend",
+      "label": "दोस्त (The Friend)",
+      "description": "The wise friend who teaches a lesson about judging by appearances",
+      "parentId": "node_characters",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_host",
+      "label": "मेज़बान और मेहमान",
+      "description": "The host and guests at the feast who judge the friend by his clothes",
+      "parentId": "node_characters",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_plot",
+      "label": "कहानी का क्रम (Story Sequence)",
+      "description": "The main events of the story in order",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_visit1",
+      "label": "पहली बार (First Visit)",
+      "description": "Friend comes in simple clothes and is disrespected",
+      "parentId": "node_plot",
+      "positionX": -80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_visit2",
+      "label": "दूसरी बार (Second Visit)",
+      "description": "Same friend comes in fine clothes and receives great respect",
+      "parentId": "node_plot",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_twist",
+      "label": "कहानी का मोड़ (The Twist)",
+      "description": "Friend puts food on his clothes, saying 'You respect my clothes, not me!'",
+      "parentId": "node_plot",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_themes",
+      "label": "मुख्य विषय (Themes)",
+      "description": "The important messages and themes of the story",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_respect",
+      "label": "सच्चा सम्मान (True Respect)",
+      "description": "Real respect is for the person, not for their clothes or wealth",
+      "parentId": "node_themes",
+      "positionX": 180,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_friendship",
+      "label": "सच्ची दोस्ती (True Friendship)",
+      "description": "True friendship accepts a person as they are, beyond appearances",
+      "parentId": "node_themes",
+      "positionX": 320,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_language",
+      "label": "भाषा सीखना (Language Learning)",
+      "description": "New words: पोशाक, सम्मान, अपमान, दिखावा, गुण, सादगी",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_opposites",
+      "label": "विलोम शब्द (Opposites)",
+      "description": "सम्मान ↔ अपमान, सादा ↔ भड़कीला, सच्चा ↔ नकली",
+      "parentId": "node_language",
+      "positionX": -300,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_moral",
+      "label": "सीख (Moral)",
+      "description": "Do not judge people by their appearance - a person's true value lies in their character and qualities",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 300,
+      "color": "#00BCD4",
+      "orderIndex": 13
+    }
+  ]
+}

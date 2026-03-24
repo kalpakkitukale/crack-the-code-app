@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch12",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn12_reading_time",
+      "name": "Reading Time on a Clock",
+      "description": "Learn how to read hours and minutes on a clock face",
+      "topicId": "gr4_mn_12_1",
+      "chapterId": "gr4_math_ncert_ch12",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn12_001",
+          "front": "What do the two hands on a clock show?",
+          "back": "The short (small) hand shows the hour.\nThe long (big) hand shows the minutes.\n\nWhen the short hand points to 3 and the long hand points to 12, the time is 3 o'clock.",
+          "hint": "The short hand moves slowly (hours), the long hand moves fast (minutes)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn12_002",
+          "front": "How many minutes does the long hand take to go from one number to the next?",
+          "back": "The long (minute) hand takes 5 minutes to move from one number to the next on the clock.\n\n12 to 1 = 5 minutes\n12 to 2 = 10 minutes\n12 to 3 = 15 minutes\n12 to 6 = 30 minutes\n12 all the way around to 12 = 60 minutes (1 hour)",
+          "hint": "Count by 5s as you go around the clock: 5, 10, 15, 20...",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn12_003",
+          "front": "What time does the clock show when the long hand is on 6?",
+          "back": "When the long hand points to 6, it means 30 minutes past the hour. We call this 'half past'.\n\nIf the short hand is between 4 and 5, the time is 4:30 or half past 4.",
+          "hint": "6 is halfway around the clock, so it means half past",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn12_004",
+          "front": "How do you read time like 7:45?",
+          "back": "7:45 means 7 hours and 45 minutes.\n\nThe short hand will be between 7 and 8 (close to 8).\nThe long hand will be on 9 (because 9 x 5 = 45 minutes).\n\nWe can also say 'quarter to 8' because 45 minutes is 15 minutes before the next hour.",
+          "hint": "45 minutes = 15 minutes before the next hour",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn12_005",
+          "front": "How many minutes are in 1 hour?",
+          "back": "There are 60 minutes in 1 hour.\n\nThe minute hand goes all the way around the clock once in 60 minutes.\n\nSo 1 hour = 60 minutes\nHalf hour = 30 minutes\nQuarter hour = 15 minutes",
+          "hint": "Count by 5s all the way around: 5, 10, 15... up to 60",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn12_am_pm_elapsed",
+      "name": "AM/PM and Elapsed Time",
+      "description": "Learn about AM and PM, and how to calculate time that has passed",
+      "topicId": "gr4_mn_12_2",
+      "chapterId": "gr4_math_ncert_ch12",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn12_006",
+          "front": "What do AM and PM mean?",
+          "back": "AM means the time from midnight (12:00 at night) to just before noon (12:00 in the afternoon).\n\nPM means the time from noon (12:00 in the afternoon) to just before midnight.\n\nSchool starts at 8:00 AM (morning).\nYou eat dinner at about 8:00 PM (evening).",
+          "hint": "AM = morning time, PM = afternoon and night time",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn12_007",
+          "front": "How many hours are in one full day?",
+          "back": "There are 24 hours in one full day.\n\n12 hours of AM (midnight to noon)\n12 hours of PM (noon to midnight)\n\nThe hour hand goes around the clock twice in one day!",
+          "hint": "The clock shows 12 hours, but a day has twice that many",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn12_008",
+          "front": "What is elapsed time?",
+          "back": "Elapsed time is the amount of time that passes between a start time and an end time.\n\nIf a cricket match starts at 2:00 PM and ends at 5:00 PM, the elapsed time is 3 hours.",
+          "hint": "Think: how much time has gone by from start to finish?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn12_009",
+          "front": "School starts at 8:00 AM and ends at 2:00 PM. How long is the school day?",
+          "back": "Count from 8:00 AM to 2:00 PM:\n8 to 9 = 1 hour\n9 to 10 = 2 hours\n10 to 11 = 3 hours\n11 to 12 = 4 hours\n12 to 1 = 5 hours\n1 to 2 = 6 hours\n\nThe school day is 6 hours long!",
+          "hint": "Count the hours from start to end on your fingers",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn12_010",
+          "front": "If a movie starts at 4:30 PM and is 2 hours long, what time does it end?",
+          "back": "Start at 4:30 PM and add 2 hours:\n4:30 + 1 hour = 5:30\n5:30 + 1 hour = 6:30\n\nThe movie ends at 6:30 PM.",
+          "hint": "Add the hours one by one to the start time",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn12_calendar",
+      "name": "Calendar Reading",
+      "description": "Learn to read calendars and understand days, months, and years",
+      "topicId": "gr4_mn_12_3",
+      "chapterId": "gr4_math_ncert_ch12",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn12_011",
+          "front": "How many days are in a week? Name them.",
+          "back": "There are 7 days in a week:\n\nMonday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.\n\nIn India, the week often starts with Monday on calendars.",
+          "hint": "Start counting from Monday",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn12_012",
+          "front": "How many months are in a year? Which months have 30 days and which have 31?",
+          "back": "There are 12 months in a year.\n\n31 days: January, March, May, July, August, October, December (7 months)\n30 days: April, June, September, November (4 months)\n28 or 29 days: February (28 normally, 29 in a leap year)",
+          "hint": "Use the knuckle trick: knuckle months have 31 days, dips have 30",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn12_013",
+          "front": "How many days are in a year?",
+          "back": "A normal year has 365 days.\nA leap year has 366 days (February gets an extra day, making it 29 days).\n\nA leap year comes once every 4 years. The years 2024 and 2028 are leap years.",
+          "hint": "Most years have 365 days, but every 4 years there is one extra day",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn12_014",
+          "front": "If today is Wednesday, what day will it be after 10 days?",
+          "back": "Count forward 10 days from Wednesday.\nSince a week has 7 days, 10 days = 1 week + 3 days.\nOne week later is also Wednesday. Then 3 more days = Thursday, Friday, Saturday.\n\nSo after 10 days it will be Saturday!",
+          "hint": "Divide by 7 to find the extra days after complete weeks",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn12_015",
+          "front": "How do you read a date on a calendar?",
+          "back": "A calendar shows the month and year at the top. Days of the week are in columns. The numbers are the dates.\n\nTo find what day March 15 falls on, find 15 in the March calendar and look at the column heading. That tells you the day of the week!",
+          "hint": "Find the date number and check which day column it falls under",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

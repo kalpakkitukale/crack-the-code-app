@@ -1,0 +1,447 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch4",
+  "topicId": "gr4_mn_4_1",
+  "topicName": "Place Value up to 5 Digits",
+  "chapterId": "gr4_math_ncert_ch4",
+  "chapterName": "Thousands Around Us",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 4: Thousands Around Us (place value up to 5 digits)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of 3-digit place value and comparison, can fast-track to 5-digit numbers with challenge content",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2310,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn4_v1",
+          "reason": "Introduction to place value up to 5 digits",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v2",
+          "reason": "Learn to read and write 4 and 5 digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v3",
+          "reason": "Expanded form of large numbers",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn4_v4",
+          "reason": "Compare and order numbers up to 5 digits",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v5",
+          "reason": "Estimation and rounding of large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v6",
+          "reason": "Challenge: Practice all forms of 5-digit numbers",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of place value and large number concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2310,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn4_v1",
+          "reason": "Introduction to place value up to 5 digits",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v2",
+          "reason": "Learn to read and write large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v3",
+          "reason": "Expanded form of large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v4",
+          "reason": "Compare and order numbers up to 5 digits",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v5",
+          "reason": "Estimation and rounding of large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v6",
+          "reason": "Practice all forms of 5-digit numbers",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in 3-digit place value or counting, needs targeted review before tackling 5-digit numbers",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 3300,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_3digit_weak": {
+            "addVideos": ["prereq_ch4_placevalue_v1"],
+            "priority": "high"
+          },
+          "counting_1000_weak": {
+            "addVideos": ["prereq_ch4_counting_v1"],
+            "priority": "high"
+          },
+          "number_comparison_weak": {
+            "addVideos": ["prereq_ch4_comparison_v1"],
+            "priority": "medium"
+          },
+          "number_sense_weak": {
+            "addVideos": ["prereq_ch4_placevalue_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch4_placevalue_v1",
+          "reason": "Review: 3-digit place value fundamentals",
+          "skippable": false,
+          "condition": "if pv_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_ch4_counting_v1",
+          "reason": "Review: Counting to 1000 and beyond",
+          "skippable": false,
+          "condition": "if counting_1000 concept is weak"
+        },
+        {
+          "videoId": "prereq_ch4_comparison_v1",
+          "reason": "Review: Comparing 3-digit numbers",
+          "skippable": false,
+          "condition": "if number_comparison concept is weak"
+        },
+        {
+          "videoId": "gr4_mn4_v1",
+          "reason": "Start main topic: Place value up to 5 digits",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v2",
+          "reason": "Reading and writing large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v3",
+          "reason": "Expanded form of large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v4",
+          "reason": "Comparing and ordering large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v5",
+          "reason": "Estimation and rounding practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in 3-digit place value and counting before attempting 5-digit numbers",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1830,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch4_placevalue_v1",
+          "reason": "Foundation: Review 3-digit place value",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch4_counting_v1",
+          "reason": "Essential: Learn counting to 1000",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch4_comparison_v1",
+          "reason": "Critical: Understand comparing 3-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v1",
+          "reason": "Gentle intro to 5-digit place value",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn4_v2",
+          "reason": "Begin main content: Reading large numbers",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with larger numbers."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_3digit": {
+        "conceptName": "3-digit place value (ones, tens, hundreds)",
+        "importance": "critical",
+        "videoIds": ["prereq_ch4_placevalue_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4_1", "rq4_2", "rq4_3"]
+      },
+      "counting_1000": {
+        "conceptName": "Counting forward and backward up to 1000",
+        "importance": "critical",
+        "videoIds": ["prereq_ch4_counting_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4_4", "rq4_5", "rq4_6"]
+      },
+      "number_comparison": {
+        "conceptName": "Comparing 3-digit numbers using >, <, and =",
+        "importance": "important",
+        "videoIds": ["prereq_ch4_comparison_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4_7", "rq4_8"]
+      },
+      "number_sense": {
+        "conceptName": "General number sense and understanding of number magnitude",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch4_placevalue_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4_9", "rq4_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn4_v1",
+        "checkpointName": "Place Value Understanding Check",
+        "questions": [
+          {
+            "question": "In the number 42,356, what is the value of the digit 2?",
+            "options": ["2", "200", "2000", "20000"],
+            "correctAnswer": 2,
+            "explanation": "The digit 2 is in the thousands place. So its value is 2,000."
+          },
+          {
+            "question": "Which place comes after the thousands place (moving left)?",
+            "options": ["Hundreds", "Lakhs", "Ten Thousands", "Ones"],
+            "correctAnswer": 2,
+            "explanation": "Moving left, the places are: ones, tens, hundreds, thousands, ten thousands."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand 5-digit place value well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch4_placevalue_v1",
+          "reason": "Student struggling with place value, review 3-digit place value"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn4_v4",
+        "checkpointName": "Comparing Numbers Check",
+        "questions": [
+          {
+            "question": "Which is greater: 34,567 or 34,576?",
+            "options": ["34,567", "34,576", "They are equal", "Cannot tell"],
+            "correctAnswer": 1,
+            "explanation": "Both have the same ten thousands, thousands, and hundreds digits. In the tens place, 7 > 6, so 34,576 is greater."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn4_v6",
+          "reason": "Student ready for challenge problems with all forms"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the comparing numbers video again, then try some practice problems."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on 3-digit place value"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising place value with an abacus or place value chart at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your 3-digit place value and counting really well. You are ready to learn about thousands and 5-digit numbers. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand 3-digit numbers well. Let's explore the world of thousands and bigger numbers with complete coverage of all topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in place value or counting. Don't worry! We will start with targeted review videos on the concepts you need, then move to bigger numbers."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review 3-digit place value and counting first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn about thousands."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how place value concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Counting to 1000", "3-digit place value", "Comparing 3-digit numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Number sense", "Expanded form of 3-digit numbers", "Ordering 3-digit numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Place value up to 5 digits", "Reading and writing large numbers", "Expanded form of 5-digit numbers"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Comparing 5-digit numbers", "Ascending and descending order", "Forming largest and smallest numbers"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Estimation and rounding", "Real-world applications of large numbers", "Number puzzles"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "placeValueFluency": {
+      "target": 85,
+      "description": "% of students who can correctly identify place value of any digit in a 5-digit number"
+    },
+    "numberComparisonAccuracy": {
+      "target": 80,
+      "description": "% of students who can correctly compare and order 5-digit numbers"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (20 min) + retake + main content (25 min) = 45-55 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing face value and place value",
+      "solution1": "Emphasise that the position of a digit determines its value. Use a place value chart with columns labelled.",
+      "challenge2": "Students struggling with the transition from 3-digit to 4-digit and 5-digit numbers",
+      "solution2": "Use base-10 blocks: 10 hundreds make a thousand, 10 thousands make a ten thousand. Build numbers physically.",
+      "challenge3": "Students misreading large numbers or placing commas incorrectly",
+      "solution3": "Practice reading numbers aloud. Use the Indian system: ones, thousands, lakhs. Place commas after the hundreds and thousands periods."
+    }
+  }
+}

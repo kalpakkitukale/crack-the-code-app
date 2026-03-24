@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch2",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hi2_001",
+      "term": "हाज़िरजवाबी (Quick Wit)",
+      "definition": "तुरंत और सटीक जवाब देने की कला। बिना समय लिए सही उत्तर देना। कहानी का मुख्य गुण यही है। (The art of giving an instant and accurate answer. Responding correctly without hesitation. This is the main quality highlighted in the story.)",
+      "pronunciation": "HAA-zir-ja-VAA-bee",
+      "exampleUsage": "उसकी हाज़िरजवाबी से सब हैरान रह गए। (Everyone was amazed by his quick wit.)",
+      "difficulty": "medium",
+      "relatedTerms": ["चतुराई", "बुद्धि", "समझदारी"]
+    },
+    {
+      "id": "gls_gr4_hi2_002",
+      "term": "चतुर (Clever)",
+      "definition": "बुद्धिमान, होशियार, जो अपनी अक्ल का सही उपयोग करे। 'चालाक' से अलग क्योंकि चतुर व्यक्ति दूसरों की मदद करता है, धोखा नहीं देता। (Intelligent, smart, one who uses their mind correctly. Different from 'cunning' because a clever person helps others, not deceives them.)",
+      "pronunciation": "cha-TUR",
+      "exampleUsage": "चतुर लड़के ने सबकी मुश्किल आसानी से हल कर दी। (The clever boy easily solved everyone's problem.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बुद्धिमान", "होशियार", "समझदार"]
+    },
+    {
+      "id": "gls_gr4_hi2_003",
+      "term": "सवाल (Question)",
+      "definition": "किसी से कुछ पूछना या जानना। 'प्रश्न' इसका पर्यायवाची है। कहानी में कई मज़ेदार सवाल पूछे जाते हैं। (Asking or inquiring something from someone. 'प्रश्न' is its synonym. Many funny questions are asked in the story.)",
+      "pronunciation": "sa-VAAL",
+      "exampleUsage": "शिक्षक ने कक्षा में बहुत अच्छा सवाल पूछा। (The teacher asked a very good question in class.)",
+      "difficulty": "easy",
+      "relatedTerms": ["प्रश्न", "जवाब", "उत्तर"]
+    },
+    {
+      "id": "gls_gr4_hi2_004",
+      "term": "जवाब (Answer)",
+      "definition": "किसी सवाल का उत्तर। कहानी में हर जवाब सवाल जितना ही चतुर और मज़ेदार है। 'उत्तर' इसका पर्यायवाची है। (The response to a question. In the story, every answer is as clever and funny as the question. 'उत्तर' is its synonym.)",
+      "pronunciation": "ja-VAAB",
+      "exampleUsage": "उसने इतना अच्छा जवाब दिया कि सब तालियाँ बजाने लगे। (He gave such a good answer that everyone started clapping.)",
+      "difficulty": "easy",
+      "relatedTerms": ["उत्तर", "सवाल", "प्रश्न"]
+    },
+    {
+      "id": "gls_gr4_hi2_005",
+      "term": "हास्य (Humor)",
+      "definition": "हँसी-मज़ाक, जो सुनकर या पढ़कर हँसी आए। कहानी में हास्य चतुर और अप्रत्याशित जवाबों से पैदा होता है। (Comedy, something that makes you laugh. In the story, humor comes from clever and unexpected answers.)",
+      "pronunciation": "HAAS-ya",
+      "exampleUsage": "इस कहानी में बहुत हास्य है, पढ़कर हँसी आ जाती है। (There is a lot of humor in this story, reading it makes you laugh.)",
+      "difficulty": "medium",
+      "relatedTerms": ["मज़ाक", "ठहाका", "हँसी"]
+    },
+    {
+      "id": "gls_gr4_hi2_006",
+      "term": "मुहावरा (Idiom)",
+      "definition": "ऐसे वाक्यांश जिनका अर्थ शब्दों के सीधे अर्थ से अलग होता है। 'जैसा सवाल वैसा जवाब' भी एक तरह का मुहावरा/कहावत है। (Phrases whose meaning is different from the literal meaning of the words. 'As the question, so the answer' is also a type of idiom/proverb.)",
+      "pronunciation": "mu-HAA-va-raa",
+      "exampleUsage": "'नाक में दम करना' एक मुहावरा है जिसका अर्थ है बहुत परेशान करना। ('Naak mein dam karna' is an idiom meaning to trouble a lot.)",
+      "difficulty": "medium",
+      "relatedTerms": ["कहावत", "लोकोक्ति", "वाक्यांश"]
+    },
+    {
+      "id": "gls_gr4_hi2_007",
+      "term": "संवाद (Dialogue)",
+      "definition": "दो या अधिक लोगों के बीच बातचीत। कहानी में संवाद शैली का उपयोग कहानी को रोचक बनाता है। (Conversation between two or more people. The use of dialogue style in the story makes it interesting.)",
+      "pronunciation": "san-VAAD",
+      "exampleUsage": "कहानी में राजा और चतुर व्यक्ति के बीच मज़ेदार संवाद हैं। (The story has funny dialogues between the king and the clever person.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बातचीत", "वार्तालाप", "वार्ता"]
+    },
+    {
+      "id": "gls_gr4_hi2_008",
+      "term": "बुद्धि (Intelligence)",
+      "definition": "सोचने-समझने और सही निर्णय लेने की शक्ति। कहानी बताती है कि बुद्धि शारीरिक बल से अधिक महत्वपूर्ण है। (The power of thinking, understanding, and making right decisions. The story tells us that intelligence is more important than physical strength.)",
+      "pronunciation": "BUD-dhi",
+      "exampleUsage": "बुद्धि से काम लो, ताक़त से नहीं। (Use intelligence, not force.)",
+      "difficulty": "easy",
+      "relatedTerms": ["अक्ल", "समझ", "ज्ञान"]
+    },
+    {
+      "id": "gls_gr4_hi2_009",
+      "term": "कहावत (Proverb)",
+      "definition": "पुरानी और प्रसिद्ध बात जो अनुभव से बनी हो। 'जैसा सवाल वैसा जवाब' एक कहावत है। कहावतें जीवन का सार बताती हैं। (An old and famous saying based on experience. 'As the question, so the answer' is a proverb. Proverbs convey the essence of life.)",
+      "pronunciation": "ka-HAA-vat",
+      "exampleUsage": "'जैसे को तैसा' एक प्रसिद्ध हिंदी कहावत है। ('Tit for tat' is a famous Hindi proverb.)",
+      "difficulty": "medium",
+      "relatedTerms": ["मुहावरा", "लोकोक्ति", "सूक्ति"]
+    },
+    {
+      "id": "gls_gr4_hi2_010",
+      "term": "पात्र (Character)",
+      "definition": "कहानी में आने वाले लोग या व्यक्ति। हर पात्र की अपनी विशेषता होती है। कहानी का मुख्य पात्र बहुत चतुर है। (The people or persons in a story. Each character has their own characteristics. The main character of the story is very clever.)",
+      "pronunciation": "PAA-tra",
+      "exampleUsage": "इस कहानी का मुख्य पात्र बहुत हाज़िरजवाब है। (The main character of this story is very quick-witted.)",
+      "difficulty": "easy",
+      "relatedTerms": ["नायक", "किरदार", "व्यक्ति"]
+    }
+  ]
+}

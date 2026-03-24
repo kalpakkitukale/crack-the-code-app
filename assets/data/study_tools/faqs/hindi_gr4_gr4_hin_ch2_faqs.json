@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_hin_ch2",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_h2_001",
+      "videoId": "gr4_h2_v1",
+      "question": "संज्ञा (Sangya) किसे कहते हैं?",
+      "answer": "किसी व्यक्ति, वस्तु, स्थान या भाव के नाम को संज्ञा कहते हैं। Sangya is a noun - the name of a person, place, thing, or feeling. For example: राम (a person), दिल्ली (a place), किताब (a thing), and खुशी (a feeling) are all Sangya. Look around you - everything you can name is a Sangya!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_h2_002",
+      "videoId": "gr4_h2_v1",
+      "question": "वाक्य में संज्ञा कैसे पहचानें? (How to identify Sangya in a sentence?)",
+      "answer": "वाक्य में संज्ञा पहचानने के लिए पूछो: 'किसका नाम है?' या 'यह क्या है?' For example, in the sentence 'राम बाज़ार गया' - ask 'who went?' (राम - a person's name) and 'where did he go?' (बाज़ार - a place's name). Both राम and बाज़ार are Sangya!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_h2_003",
+      "videoId": "gr4_h2_v2",
+      "question": "व्यक्तिवाचक और जातिवाचक संज्ञा में क्या अंतर है?",
+      "answer": "व्यक्तिवाचक संज्ञा (Proper Noun) किसी एक विशेष का नाम है, जैसे 'गंगा' (a specific river) या 'दिल्ली' (a specific city). जातिवाचक संज्ञा (Common Noun) पूरी जाति का नाम है, जैसे 'नदी' (any river) या 'शहर' (any city). Easy trick: व्यक्तिवाचक संज्ञा is one special name, जातिवाचक संज्ञा is a general name for all of that kind!",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_h2_004",
+      "videoId": "gr4_h2_v2",
+      "question": "भाववाचक संज्ञा के उदाहरण बताइए। (Give examples of Bhav Vachak Sangya.)",
+      "answer": "भाववाचक संज्ञा (Abstract Noun) names feelings, qualities, and states that you cannot touch or see. Examples: सुंदरता (beauty), ईमानदारी (honesty), बचपन (childhood), गरीबी (poverty), मिठास (sweetness), खुशी (happiness), बुढ़ापा (old age). Remember - if you cannot touch it or hold it, it is likely a भाववाचक संज्ञा!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_h2_005",
+      "videoId": "gr4_h2_v3",
+      "question": "सर्वनाम (Sarvanam) क्या होता है?",
+      "answer": "सर्वनाम वह शब्द है जो संज्ञा की जगह प्रयोग होता है। Sarvanam is a pronoun - a word that replaces a noun. Without Sarvanam: 'सीता ने सीता की किताब पढ़ी।' With Sarvanam: 'सीता ने अपनी किताब पढ़ी।' Common Sarvanam: मैं (I), तुम (you), वह (he/she), हम (we), वे (they). They make sentences shorter!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_h2_006",
+      "videoId": "gr4_h2_v3",
+      "question": "हम सर्वनाम का प्रयोग क्यों करते हैं? (Why do we use Sarvanam?)",
+      "answer": "हम सर्वनाम का प्रयोग इसलिए करते हैं ताकि एक ही संज्ञा को बार-बार न दोहराना पड़े। Without pronouns, sentences sound awkward: 'मोहन ने मोहन का खाना खाया। मोहन स्कूल गया।' With pronouns: 'मोहन ने अपना खाना खाया। वह स्कूल गया।' Sarvanam makes Hindi sound natural and smooth!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_h2_007",
+      "videoId": "gr4_h2_v4",
+      "question": "पुरुषवाचक सर्वनाम के कितने भेद हैं?",
+      "answer": "पुरुषवाचक सर्वनाम (Personal Pronouns) के तीन भेद हैं: (1) उत्तम पुरुष (First Person) - मैं, हम (I, we) - the person who is speaking; (2) मध्यम पुरुष (Second Person) - तुम, आप (you) - the person being spoken to; (3) अन्य पुरुष (Third Person) - वह, वे (he/she, they) - the person being spoken about.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_h2_008",
+      "videoId": "gr4_h2_v4",
+      "question": "निश्चयवाचक और अनिश्चयवाचक सर्वनाम में क्या अंतर है?",
+      "answer": "निश्चयवाचक सर्वनाम (Demonstrative Pronoun) किसी निश्चित चीज़ की ओर इशारा करता है: 'यह मेरी किताब है' (this is my book) - you are pointing to a specific book. अनिश्चयवाचक सर्वनाम (Indefinite Pronoun) किसी अनिश्चित चीज़ का बोध कराता है: 'कोई आया है' (someone has come) - you don't know exactly who.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_h2_009",
+      "videoId": "gr4_h2_v3",
+      "question": "क्या 'यह' और 'वह' संज्ञा हैं या सर्वनाम?",
+      "answer": "'यह' (this) and 'वह' (that) are सर्वनाम (pronouns), not संज्ञा (nouns). They are called निश्चयवाचक सर्वनाम (Demonstrative Pronouns) because they point to something specific. Example: 'यह आम है।' (This is a mango.) Here 'यह' replaces the actual name of the thing and points to it.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_h2_010",
+      "videoId": "gr4_h2_v4",
+      "question": "प्रश्नवाचक सर्वनाम क्या है? उदाहरण दीजिए।",
+      "answer": "प्रश्नवाचक सर्वनाम (Interrogative Pronoun) वे शब्द हैं जो प्रश्न पूछने के लिए प्रयोग होते हैं। Examples: कौन (who) - 'कौन आया है?', क्या (what) - 'तुम्हारा नाम क्या है?', किसका (whose) - 'यह किताब किसकी है?' These pronouns help us ask questions about people and things!",
+      "status": "answered",
+      "upvotes": 15
+    }
+  ]
+}

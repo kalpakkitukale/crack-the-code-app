@@ -1,0 +1,67 @@
+{
+  "chapterId": "gr4_math_ncert_ch12",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn12_v1",
+      "videoId": "gr4_mn12_v1",
+      "content": "This lesson teaches students how to read time on an analogue clock. A clock has two main hands - the short (hour) hand that shows the hour, and the long (minute) hand that shows the minutes. Students learn that the minute hand moves from one number to the next in 5 minutes, so they count by 5s to find the minutes: 5, 10, 15, 20 and so on up to 60. When the long hand is on 12, it is exactly o'clock. Students practise reading times like 3:00, 7:15, 9:30, and 11:45 on different clock faces. They also learn that 1 hour equals 60 minutes.",
+      "keyPoints": [
+        "The short hand shows hours and the long hand shows minutes",
+        "Each number on the clock face represents 5 minutes for the minute hand",
+        "When the minute hand is on 12, the time is exactly o'clock",
+        "1 hour = 60 minutes"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn12_v2",
+      "videoId": "gr4_mn12_v2",
+      "content": "This lesson introduces special time words and AM/PM. Students learn that 'quarter past' means 15 minutes after the hour (minute hand on 3), 'half past' means 30 minutes after (minute hand on 6), and 'quarter to' means 15 minutes before the next hour (minute hand on 9). The lesson then explains AM and PM: AM covers midnight to noon (morning hours) and PM covers noon to midnight (afternoon, evening, and night). Students learn that one full day has 24 hours - 12 hours of AM and 12 hours of PM. They practise identifying daily activities as AM or PM events.",
+      "keyPoints": [
+        "Quarter past = 15 min, half past = 30 min, quarter to = 45 min",
+        "AM is from midnight to noon (morning)",
+        "PM is from noon to midnight (afternoon, evening, night)",
+        "One full day has 24 hours (12 AM hours + 12 PM hours)"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn12_v3",
+      "videoId": "gr4_mn12_v3",
+      "content": "This lesson teaches students about elapsed time - finding how much time has passed between two events. Students learn to count forward from the start time to the end time using hours and minutes. For example, if lunch starts at 12:30 PM and ends at 1:15 PM, students count 30 minutes to 1:00 PM, then 15 more minutes to 1:15 PM, giving 45 minutes total. They also practise finding the end time when given a start time and duration, and finding the start time when given an end time and duration. Real-life problems about train journeys, class schedules, and cooking times make elapsed time meaningful.",
+      "keyPoints": [
+        "Elapsed time is the time that passes between start and end",
+        "Count forward in hours first, then add the remaining minutes",
+        "You can find the end time by adding elapsed time to the start time",
+        "Real-life uses: travel time, class duration, cooking time"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn12_v4",
+      "videoId": "gr4_mn12_v4",
+      "content": "This lesson focuses on reading and understanding a calendar. Students learn that a week has 7 days (Monday to Sunday), a year has 12 months, and different months have different numbers of days: 31 days (January, March, May, July, August, October, December), 30 days (April, June, September, November), and 28 or 29 days (February). They learn the knuckle trick to remember which months have 30 or 31 days. Students also learn about leap years - years with 366 days that come every 4 years, giving February an extra day. They practise reading dates on a calendar and finding what day of the week a given date falls on.",
+      "keyPoints": [
+        "A week has 7 days; a year has 12 months",
+        "Months have 28, 29, 30, or 31 days depending on the month",
+        "The knuckle trick helps remember: knuckle months have 31 days",
+        "A leap year has 366 days and comes every 4 years (February gets 29 days)"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn12_v5",
+      "videoId": "gr4_mn12_v5",
+      "content": "This lesson brings together clock-reading and calendar skills through scheduling and planning. Students create daily schedules listing activities with their start and end times, using AM and PM correctly. They calculate how long they spend on different activities like school, homework, play, and sleep. Using calendars, students plan for upcoming events, count the days between two dates, and figure out what day a future date will fall on. They solve problems like finding when a holiday starts, how many school days are in a month, and how to plan a study timetable for exams.",
+      "keyPoints": [
+        "A daily schedule lists activities with their times using AM and PM",
+        "Calculate time spent on activities by finding elapsed time",
+        "Use the calendar to count days between two dates",
+        "Planning and scheduling are important life skills that use time and calendar knowledge"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_hin_ncert_ch13",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn13",
+    "title": "हुदहुद (The Hoopoe Bird)",
+    "content": "This chapter from the NCERT Rimjhim textbook for Class 4 introduces children to the fascinating hoopoe bird (हुदहुद). The hoopoe is one of the most beautiful and unique birds found in India, known for its stunning fan-shaped crest (कलगी) that opens and closes like a fan. The bird has brownish-orange feathers with black and white stripes (धारियाँ) on its wings and a long, thin, slightly curved beak (चोंच). The hoopoe eats insects (कीड़े-मकोड़े) from the ground, helping farmers by naturally controlling pests - earning it the name किसानों का मित्र (farmer's friend). It makes its nest (घोंसला) in tree hollows and wall cracks. The bird's distinctive 'hoop-hoop-hoop' call is how it got its name. The chapter also teaches children about bird conservation (पक्षी संरक्षण) and the importance of protecting birds and their habitats in our environment (पर्यावरण).",
+    "keyPoints": [
+      "The hoopoe (हुदहुद) is a beautiful bird with a fan-shaped crest (कलगी) on its head",
+      "It has brownish-orange feathers with black and white stripes (धारियाँ)",
+      "Its long thin beak (चोंच) is used to dig insects from the ground",
+      "It is called the farmer's friend (किसानों का मित्र) because it eats harmful insects",
+      "It nests in tree hollows and wall cracks, not typical twig nests",
+      "Its call sounds like 'hoop-hoop-hoop' - the origin of its name"
+    ],
+    "learningObjectives": [
+      "Learn about the hoopoe bird and its unique physical features",
+      "Understand how the hoopoe helps farmers by eating insects",
+      "Build Hindi vocabulary with bird-related words like कलगी, चोंच, पंख, and घोंसला",
+      "Learn about the importance of bird conservation (पक्षी संरक्षण)",
+      "Observe and identify birds in the environment around you"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn13_001",
+      "title": "पक्षी पहचान डायरी बनाओ (Make a Bird Identification Diary)",
+      "content": "Start a bird diary! Every day for one week, look for birds around your home, school, or park. Write the name of each bird you see in Hindi and English. Draw a small picture of each bird. Note down its colour, size, and any special features like a crest or long tail. Did you see a hoopoe (हुदहुद)? Look for its fan-shaped crest and 'hoop-hoop-hoop' call. Try to find at least 5 different birds. Compare your list with your classmates!",
+      "tags": ["activity", "nature-observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn13_002",
+      "title": "हुदहुद और अन्य पक्षियों की तुलना करो (Compare the Hoopoe with Other Birds)",
+      "content": "Make a table comparing the hoopoe (हुदहुद) with three other common birds like the sparrow (गौरैया), crow (कौआ), and parrot (तोता). Compare their crest (कलगी), beak (चोंच) shape, body colour, food they eat, where they nest (घोंसला), and their call. Which bird has the most colourful feathers? Which has the longest beak? Which is the smallest? This will help you understand how different birds are special in their own way.",
+      "tags": ["activity", "comparison"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn13_003",
+      "title": "पक्षियों की मदद करो (Help the Birds)",
+      "content": "Try this simple project at home: Place a small bowl of clean water on your balcony or in your garden for birds to drink. You can also put some grains (दाने) or rice near the water. Observe which birds come to drink and eat. How many different birds visited in one week? Write a short paragraph in Hindi about what you saw. Remember - by providing water and food, you are doing पक्षी संरक्षण (bird conservation) in your own small way!",
+      "tags": ["activity", "conservation-project"],
+      "isPinned": false
+    }
+  ]
+}

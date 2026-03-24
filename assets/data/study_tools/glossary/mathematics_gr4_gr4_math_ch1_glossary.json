@@ -1,0 +1,103 @@
+{
+  "chapterId": "gr4_math_ch1",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_m1_001",
+      "term": "Place Value",
+      "definition": "The value of a digit based on its position in a number. For example, in 345, the 4 is in the tens place so its place value is 40.",
+      "pronunciation": "PLAYS VAL-yoo",
+      "exampleUsage": "In 1,234, the place value of 2 is 200.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_002",
+      "term": "Digit",
+      "definition": "The symbols 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 used to write numbers.",
+      "pronunciation": "DIJ-it",
+      "exampleUsage": "The number 56 has two digits: 5 and 6.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_003",
+      "term": "Ones Place",
+      "definition": "The rightmost position in a whole number. The digit here tells how many ones.",
+      "pronunciation": "WUNZ plays",
+      "exampleUsage": "In 427, the digit 7 is in the ones place.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_004",
+      "term": "Tens Place",
+      "definition": "The second position from the right in a whole number. Each unit here equals 10.",
+      "pronunciation": "TENZ plays",
+      "exampleUsage": "In 427, the digit 2 is in the tens place, so it means 20.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_005",
+      "term": "Hundreds Place",
+      "definition": "The third position from the right in a whole number. Each unit here equals 100.",
+      "pronunciation": "HUN-dredz plays",
+      "exampleUsage": "In 427, the digit 4 is in the hundreds place, so it means 400.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_006",
+      "term": "Thousands",
+      "definition": "A place value position equal to 1,000. Fourth position from the right.",
+      "pronunciation": "THOW-zandz",
+      "exampleUsage": "5,000 has a 5 in the thousands place.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m1_007",
+      "term": "Expanded Form",
+      "definition": "A way of writing a number that shows the value of each digit. For example, 234 = 200 + 30 + 4.",
+      "pronunciation": "ex-PAN-ded form",
+      "exampleUsage": "The expanded form of 1,523 is 1,000 + 500 + 20 + 3.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m1_008",
+      "term": "Comparing Numbers",
+      "definition": "Deciding which of two numbers is greater, less, or if they are equal.",
+      "pronunciation": "kum-PAIR-ing NUM-berz",
+      "exampleUsage": "When comparing 45 and 54, we find that 45 < 54.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_009",
+      "term": "Greater Than",
+      "definition": "A comparison showing one number is larger than another. Written with the symbol >.",
+      "pronunciation": "GRAY-ter than",
+      "exampleUsage": "100 > 99 means 100 is greater than 99.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_010",
+      "term": "Less Than",
+      "definition": "A comparison showing one number is smaller than another. Written with the symbol <.",
+      "pronunciation": "LESS than",
+      "exampleUsage": "25 < 30 means 25 is less than 30.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m1_011",
+      "term": "Number Pattern",
+      "definition": "A sequence of numbers that follows a specific rule.",
+      "pronunciation": "NUM-ber PAT-ern",
+      "exampleUsage": "2, 4, 6, 8, 10 is a pattern where each number increases by 2.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m1_012",
+      "term": "Millions",
+      "definition": "A place value position equal to 1,000,000. Used for very large numbers.",
+      "pronunciation": "MIL-yunz",
+      "exampleUsage": "The population of a city might be 3 million people.",
+      "difficulty": "medium"
+    }
+  ]
+}

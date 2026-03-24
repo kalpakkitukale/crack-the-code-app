@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch26",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Defence Officer: Wahida",
+      "description": "Careers in armed forces and women achievers",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#3F51B5",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_branches",
+      "label": "Three Armed Forces",
+      "description": "India's defence is divided into three branches",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_army",
+      "label": "Indian Army",
+      "description": "Protects the country on land, guards borders",
+      "parentId": "node_branches",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_navy",
+      "label": "Indian Navy",
+      "description": "Protects the country at sea, guards coastline",
+      "parentId": "node_branches",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_airforce",
+      "label": "Indian Air Force",
+      "description": "Protects the country in the sky, fighter jets",
+      "parentId": "node_branches",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_qualities",
+      "label": "Qualities of Officers",
+      "description": "What it takes to serve in the armed forces",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_courage",
+      "label": "Courage & Discipline",
+      "description": "Being brave and following rules strictly",
+      "parentId": "node_qualities",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_fitness",
+      "label": "Physical Fitness",
+      "description": "Staying strong and healthy through training",
+      "parentId": "node_qualities",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_women",
+      "label": "Women in Defence",
+      "description": "Women breaking barriers in the armed forces",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_wahida",
+      "label": "Wahida - Pioneer",
+      "description": "One of the first women officers in the Indian Army",
+      "parentId": "node_women",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_pilots",
+      "label": "Women Fighter Pilots",
+      "description": "Avani Chaturvedi and others flying fighter jets",
+      "parentId": "node_women",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_duties",
+      "label": "Duties Beyond War",
+      "description": "Armed forces help during peacetime too",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#009688",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_disaster",
+      "label": "Disaster Relief",
+      "description": "Rescuing people during floods, earthquakes, cyclones",
+      "parentId": "node_duties",
+      "positionX": -200,
+      "positionY": 380,
+      "color": "#4DB6AC",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_border_guard",
+      "label": "Border Security",
+      "description": "Guarding borders 24 hours a day, 365 days a year",
+      "parentId": "node_duties",
+      "positionX": -100,
+      "positionY": 380,
+      "color": "#4DB6AC",
+      "orderIndex": 13
+    }
+  ]
+}

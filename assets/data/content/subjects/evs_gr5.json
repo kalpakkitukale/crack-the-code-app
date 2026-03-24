@@ -1,0 +1,48 @@
+{
+  "id": "evs_gr5",
+  "name": "EVS",
+  "icon": "nature",
+  "color": "#AABB77",
+  "boardId": "cbse_elementary",
+  "classId": "class_5",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["evs", "environmental studies", "grade 5", "environment"],
+  "chapters": [
+    {
+      "id": "gr5_evs_ch1",
+      "number": 1,
+      "name": "Natural Resources",
+      "description": "Understanding and conserving natural resources",
+      "keywords": ["resources", "conservation"],
+      "topics": [
+        {"id": "gr5_ev_1_1", "name": "Water Resources", "difficulty": "basic", "videoCount": 4, "keywords": ["water"]},
+        {"id": "gr5_ev_1_2", "name": "Forest Resources", "difficulty": "basic", "videoCount": 4, "keywords": ["forests"]},
+        {"id": "gr5_ev_1_3", "name": "Mineral Resources", "difficulty": "intermediate", "videoCount": 4, "keywords": ["minerals"]}
+      ]
+    },
+    {
+      "id": "gr5_evs_ch2",
+      "number": 2,
+      "name": "Our Country India",
+      "description": "Geography and culture of India",
+      "keywords": ["india", "geography", "culture"],
+      "topics": [
+        {"id": "gr5_ev_2_1", "name": "Physical Features", "difficulty": "basic", "videoCount": 4, "keywords": ["mountains", "rivers"]},
+        {"id": "gr5_ev_2_2", "name": "States and Capitals", "difficulty": "basic", "videoCount": 4, "keywords": ["states", "capitals"]},
+        {"id": "gr5_ev_2_3", "name": "Our Culture", "difficulty": "basic", "videoCount": 3, "keywords": ["culture", "heritage"]}
+      ]
+    },
+    {
+      "id": "gr5_evs_ch3",
+      "number": 3,
+      "name": "Health and Hygiene",
+      "description": "Maintaining good health and cleanliness",
+      "keywords": ["health", "hygiene", "diseases"],
+      "topics": [
+        {"id": "gr5_ev_3_1", "name": "Personal Hygiene", "difficulty": "basic", "videoCount": 4, "keywords": ["hygiene", "cleanliness"]},
+        {"id": "gr5_ev_3_2", "name": "Diseases and Prevention", "difficulty": "intermediate", "videoCount": 4, "keywords": ["diseases", "prevention"]}
+      ]
+    }
+  ]
+}

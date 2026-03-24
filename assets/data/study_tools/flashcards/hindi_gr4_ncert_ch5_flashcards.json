@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch5",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn5_kahani",
+      "name": "कहानी पाठ - दोस्त की पोशाक",
+      "description": "Learn about the story 'Dost Ki Poshak' - a tale about friendship, acceptance, and looking beyond appearances",
+      "topicId": "gr4_hi_5_1",
+      "chapterId": "gr4_hin_ncert_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_hn5_001",
+          "front": "कहानी 'दोस्त की पोशाक' किसके बारे में है?",
+          "back": "This story is about true friendship and how we should not judge people by their clothes or appearance. A friend visits another friend's house wearing simple, old clothes and faces unfair treatment because of his appearance.\n\nयह कहानी सच्ची दोस्ती और बाहरी दिखावे से परे देखने के बारे में है।",
+          "hint": "The title means 'Friend's Costume' - think about why clothes matter in this story",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn5_002",
+          "front": "कहानी में दोस्त के साथ क्या हुआ जब वह साधारण कपड़ों में आया?",
+          "back": "When the friend came wearing simple clothes, he was not welcomed properly. People at the gathering looked down on him and did not treat him with respect. They judged him by his appearance (दिखावा) rather than knowing who he really was.\n\nसाधारण कपड़ों की वजह से लोगों ने उसका सम्मान नहीं किया।",
+          "hint": "Think about what happens when someone looks different from what people expect",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn5_003",
+          "front": "जब दोस्त अच्छे कपड़े पहनकर आया तो क्या बदला?",
+          "back": "When the same friend returned wearing fine, expensive clothes, everyone treated him with great respect. They offered him the best seat and served him food first. The same person received completely different treatment just because of his clothes.\n\nअच्छे कपड़ों में आने पर सबने उसका बहुत सम्मान किया।",
+          "hint": "The same person, different clothes - different treatment!",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn5_004",
+          "front": "दोस्त ने अच्छे कपड़ों में आकर क्या किया जो सबको हैरान कर दिया?",
+          "back": "The friend started putting food on his clothes instead of eating it! When people asked why, he said: 'You are respecting my clothes, not me. So let my clothes eat the food!' This clever act exposed people's shallow behaviour.\n\nउसने कपड़ों पर खाना रखना शुरू किया और कहा - 'आप तो मेरे कपड़ों का सम्मान कर रहे हैं!'",
+          "hint": "He did something surprising with the food to make a point about respect",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn5_005",
+          "front": "इस कहानी से हमें क्या सीख मिलती है?",
+          "back": "The story teaches us that we should respect people for who they are, not for what they wear. True friendship means accepting someone regardless of their appearance or wealth. Judging people by their outer looks is wrong.\n\nसीख: इंसान की पहचान उसके कपड़ों से नहीं, उसके गुणों से होती है।",
+          "hint": "What matters more - how someone looks or who someone is?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn5_prashnottar",
+      "name": "प्रश्न उत्तर - दोस्त की पोशाक",
+      "description": "Practice questions and answers to strengthen comprehension of the chapter",
+      "topicId": "gr4_hi_5_2",
+      "chapterId": "gr4_hin_ncert_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_hn5_006",
+          "front": "'पोशाक' शब्द का क्या अर्थ है?",
+          "back": "Poshak (पोशाक) means clothing, outfit, or costume. It refers to the clothes a person wears. Related words include: कपड़े (kapde - clothes), वस्त्र (vastra - garments, formal word), पहनावा (pehnaava - attire).\n\nपोशाक = कपड़े / वस्त्र / पहनावा।",
+          "hint": "It is another word for clothes or attire",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn5_007",
+          "front": "'सम्मान' और 'अपमान' में क्या अंतर है?",
+          "back": "सम्मान (sammaan) means respect or honour - treating someone with dignity. अपमान (apmaan) means disrespect or insult - treating someone badly. They are opposite (विलोम) words. सम = good/equal + मान = regard. अप = bad/away + मान = regard.\n\nसम्मान = respect (विलोम: अपमान = disrespect)।",
+          "hint": "One means to honour someone, the other means to dishonour",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn5_008",
+          "front": "'दिखावा' का क्या मतलब है?",
+          "back": "Dikhava (दिखावा) means showing off or outward appearance - pretending to be something based on looks alone. It comes from 'dikhana' (दिखाना - to show). The story warns against dikhava - judging people based on how they look on the outside.\n\nदिखावा = बाहरी दिखावट / show-off।",
+          "hint": "Related to the word 'dikhana' (to show)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn5_009",
+          "front": "सच्ची दोस्ती का क्या मतलब है? इस कहानी से बताओ।",
+          "back": "True friendship (सच्ची दोस्ती) means accepting and loving your friend regardless of their appearance, clothes, or money. In this story, the friend who wore simple clothes was the same person inside - a true friend values the person, not their possessions.\n\nसच्ची दोस्ती = दोस्त को वैसे ही अपनाना जैसा वह है।",
+          "hint": "Does a true friend care about what you wear?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn5_010",
+          "front": "कहानी की सीख को अपने शब्दों में लिखो।",
+          "back": "In your own words, the moral can be: 'We should never judge anyone by their clothes or looks. A person's true value lies in their heart, behaviour, and character. If we respect someone only when they wear fine clothes, we are respecting the clothes, not the person.'\n\nहिंदी में: किसी को कपड़ों से मत आँको, इंसान की असली पहचान उसके अच्छे गुणों से होती है।",
+          "hint": "Think about what the friend's clever act at the feast taught everyone",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

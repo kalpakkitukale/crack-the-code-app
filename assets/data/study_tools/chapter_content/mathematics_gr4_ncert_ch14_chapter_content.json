@@ -1,0 +1,54 @@
+{
+  "chapterId": "gr4_math_ncert_ch14",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn14",
+    "title": "Data Handling",
+    "content": "This chapter from the NCERT Maths Mela textbook teaches students the important skill of data handling - collecting, organising, displaying, and interpreting information. Students begin by learning how to collect data through surveys and observations, then organise it using tally marks in frequency tables. They explore pictographs, where small pictures represent data values, and learn to read and draw them using a key. The chapter then introduces bar graphs, teaching students about axes, scales, and how bars of different heights represent different values. Throughout the chapter, students practise reading charts to answer questions like 'Which has the most?', 'Which has the least?', 'What is the total?', and 'What is the difference?' The chapter connects data handling to everyday life, showing how charts and graphs help us understand information and make smart decisions.",
+    "keyPoints": [
+      "Data is information we collect by counting, observing, or asking questions",
+      "Tally marks use bundles of 5 (4 lines crossed by a 5th) for quick counting",
+      "A frequency table organises data into categories with tallies and totals",
+      "A pictograph uses pictures to show data, with a key explaining each picture's value",
+      "A bar graph uses bars of different heights along axes with a numbered scale",
+      "Always read the title, key or scale, and labels before answering questions from a chart",
+      "Data helps us compare, find totals, and make good decisions"
+    ],
+    "learningObjectives": [
+      "Understand what data is and how to collect it through surveys and observations",
+      "Record and organise data using tally marks and frequency tables",
+      "Read and draw pictographs with a key, including half symbols",
+      "Read and draw bar graphs with correct title, axes, scale, and labels",
+      "Interpret data to find the most, the least, the total, and differences",
+      "Choose the right type of chart for different kinds of data"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn14_001",
+      "title": "Do Your Own Class Survey!",
+      "content": "Try this fun activity with your classmates! Pick a question like 'What is your favourite season?', 'What pet would you like?', or 'How do you come to school?' Ask every student and record each answer using tally marks in a frequency table. Once you have the totals, make both a pictograph and a bar graph from the same data. Compare them - which one was easier to draw? Which one shows the numbers more clearly? This hands-on practice is the best way to master data handling!",
+      "tags": ["activity", "hands-on-learning", "survey"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn14_002",
+      "title": "3-Step Guide to Reading Any Chart",
+      "content": "Whenever you see a chart or graph, follow these 3 steps before answering questions: (1) Read the TITLE to know what the chart is about. (2) Check the KEY (for pictographs) or the SCALE (for bar graphs) to understand the numbers. (3) Look at the BARS or PICTURES carefully to find your answer. Many students make mistakes by jumping straight to the pictures or bars without reading the key first. Take your time and read step by step!",
+      "tags": ["study-tip", "exam-prep", "charts"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn14_003",
+      "title": "Data Is All Around You!",
+      "content": "Charts and graphs are everywhere in real life! Look for them in newspapers, weather reports on TV, sports scoreboards, and even on food packets (nutrition charts). You can also collect your own data at home: track the weather each day (sunny, cloudy, rainy) using tally marks for a month, then make a bar graph. Or count how many different birds you see in your garden each week. Once you start looking, you will find data everywhere - and now you know how to organise and display it!",
+      "tags": ["real-world", "activity", "observation"],
+      "isPinned": false
+    }
+  ]
+}

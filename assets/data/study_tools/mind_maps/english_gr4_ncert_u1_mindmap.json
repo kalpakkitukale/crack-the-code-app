@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u1",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 1: Wake Up! / Neha's Alarm Clock",
+      "description": "A poem about waking up early and a story about a girl who learns punctuality",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "Wake Up! (Poem)",
+      "description": "A cheerful poem that encourages children to wake up early and enjoy nature",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_nature",
+      "label": "Nature in the Morning",
+      "description": "Birds singing, flowers blooming, sun shining, breeze blowing",
+      "parentId": "node_poem",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_message",
+      "label": "Message of the Poem",
+      "description": "Wake up early, do not be lazy, enjoy the beauty of the morning",
+      "parentId": "node_poem",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_poem_rhyme",
+      "label": "Rhyming Words",
+      "description": "The poem uses rhyming words to make it fun and musical to read aloud",
+      "parentId": "node_poem",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_story",
+      "label": "Neha's Alarm Clock (Story)",
+      "description": "A story about a girl named Neha who learns to wake up on time",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_story_problem",
+      "label": "Neha's Problem",
+      "description": "Neha cannot wake up early and is always late for school",
+      "parentId": "node_story",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_story_solution",
+      "label": "The Alarm Clock Solution",
+      "description": "An alarm clock helps Neha wake up on time every morning",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_story_lesson",
+      "label": "Lesson Learned",
+      "description": "Punctuality, discipline, and taking responsibility for your habits",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#64B5F6",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Sentences",
+      "description": "Understanding what makes a complete sentence",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_grammar_parts",
+      "label": "Parts of a Sentence",
+      "description": "Subject (who or what) and Predicate (what happens)",
+      "parentId": "node_grammar",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_grammar_rules",
+      "label": "Sentence Rules",
+      "description": "Start with a capital letter, end with full stop or question mark or exclamation mark",
+      "parentId": "node_grammar",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_grammar_vs_phrase",
+      "label": "Sentence vs. Phrase",
+      "description": "A sentence makes complete sense; a phrase does not",
+      "parentId": "node_grammar",
+      "positionX": 250,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_connection",
+      "label": "Connecting Theme",
+      "description": "Both the poem and the story share the theme of waking up early and good morning habits",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 400,
+      "color": "#E91E63",
+      "orderIndex": 13
+    }
+  ]
+}

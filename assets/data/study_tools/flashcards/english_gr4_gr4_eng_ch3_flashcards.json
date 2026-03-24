@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_eng_ch3",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_e3_describing",
+      "name": "Describing Words",
+      "description": "Learn how adjectives describe people, places, animals, and things",
+      "topicId": "gr4_e_3_1",
+      "chapterId": "gr4_eng_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_e3_001",
+          "front": "What is an adjective?",
+          "back": "An adjective is a describing word. It tells us more about a noun — like its size, colour, shape, or feeling. For example, in 'a tall building', the word 'tall' is the adjective.",
+          "hint": "It describes a noun",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_e3_002",
+          "front": "What kinds of things can adjectives describe?",
+          "back": "Adjectives can describe size (big, tiny), colour (red, blue), shape (round, square), feeling (happy, scared), taste (sweet, sour), and many more qualities!",
+          "hint": "Think about your five senses and feelings",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_e3_003",
+          "front": "Find the adjective: 'The fluffy cat sat on the old mat.'",
+          "back": "There are two adjectives! 'Fluffy' describes the cat, and 'old' describes the mat. Adjectives come right before the noun they describe.",
+          "hint": "Which words tell you more about the cat and the mat?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_e3_004",
+          "front": "Can you use more than one adjective for the same noun?",
+          "back": "Yes! You can stack adjectives before a noun. For example, 'a big, brown, friendly dog' uses three adjectives to describe the dog.",
+          "hint": "Think of adding more detail to a picture",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_e3_005",
+          "front": "Where does an adjective usually go in a sentence?",
+          "back": "An adjective usually comes just before the noun it describes (like 'a brave girl'). It can also come after words like 'is', 'was', or 'are' (like 'The girl is brave').",
+          "hint": "It can go before the noun or after 'is'",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_e3_comparison",
+      "name": "Comparison",
+      "description": "Learn how to compare things using adjectives — bigger, biggest, and more",
+      "topicId": "gr4_e_3_2",
+      "chapterId": "gr4_eng_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_e3_006",
+          "front": "How do we compare two things using adjectives?",
+          "back": "We add '-er' to short adjectives. For example: tall becomes taller, fast becomes faster. 'Riya is taller than Aman.' This is called the comparative form.",
+          "hint": "Add two letters to the end of the adjective",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_e3_007",
+          "front": "How do we compare three or more things?",
+          "back": "We add '-est' to short adjectives. For example: tall becomes tallest, fast becomes fastest. 'Riya is the tallest in the class.' This is called the superlative form.",
+          "hint": "Add three letters to show the most or the best",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_e3_008",
+          "front": "What do we do with longer adjectives like 'beautiful'?",
+          "back": "For longer adjectives, we use 'more' for comparing two things and 'most' for three or more. For example: 'more beautiful' and 'most beautiful'. We do NOT say 'beautifuler'!",
+          "hint": "Use a helper word instead of changing the ending",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_e3_009",
+          "front": "What are the three forms of 'good'?",
+          "back": "Good, better, best. These are irregular — they change completely instead of just adding -er or -est. 'This cake is good. That cake is better. Mum's cake is the best!'",
+          "hint": "This one does not follow the normal -er/-est rule",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_e3_010",
+          "front": "What are the three forms of 'bad'?",
+          "back": "Bad, worse, worst. These are also irregular. 'Monday was bad. Tuesday was worse. Wednesday was the worst day of all!'",
+          "hint": "Another adjective that breaks the normal rule",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

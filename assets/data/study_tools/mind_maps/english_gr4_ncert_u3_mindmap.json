@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u3",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 3: Run! / Nasruddin's Aim",
+      "description": "Poem about running, a humorous Nasruddin story, and grammar on verbs",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "Run! (Poem)",
+      "description": "A lively poem celebrating running, outdoor play, and exercise",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_theme",
+      "label": "Theme: Joy of Movement",
+      "description": "Running outdoors makes us happy, healthy, and full of energy",
+      "parentId": "node_poem",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_rhyme",
+      "label": "Rhyme & Rhythm",
+      "description": "Short lines, rhyming words like run/sun, fun/done make it musical",
+      "parentId": "node_poem",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_poem_mood",
+      "label": "Mood: Happy & Energetic",
+      "description": "The poem creates a cheerful, active feeling that makes you want to play",
+      "parentId": "node_poem",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_story",
+      "label": "Nasruddin's Aim (Story)",
+      "description": "A humorous folk tale about Nasruddin boasting about his archery skills",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_story_character",
+      "label": "Mulla Nasruddin",
+      "description": "A famous folk tale character known for his witty and funny stories",
+      "parentId": "node_story",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_story_plot",
+      "label": "Plot: Boasting & Missing",
+      "description": "Nasruddin boasts about his aim, misses the target, then makes clever excuses",
+      "parentId": "node_story",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_story_moral",
+      "label": "Moral: Don't Boast",
+      "description": "Do not brag about your abilities; accept mistakes honestly",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Verbs",
+      "description": "Action words that tell us what someone or something does",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_verb_definition",
+      "label": "What are Verbs?",
+      "description": "Words that show actions: run, jump, eat, sleep, write, play",
+      "parentId": "node_grammar",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_verb_forms",
+      "label": "Verb Forms",
+      "description": "run/runs/running - verbs change form based on who does the action and when",
+      "parentId": "node_grammar",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_verb_sentences",
+      "label": "Verbs in Sentences",
+      "description": "Every sentence needs a verb: 'She runs fast.' 'He shot the arrow.'",
+      "parentId": "node_grammar",
+      "positionX": 350,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_verb_chapter",
+      "label": "Verbs from the Chapter",
+      "description": "run, jump, shoot, miss, hit, aim, boast, laugh - all action words from Unit 3",
+      "parentId": "node_grammar",
+      "positionX": 200,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch27",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_ch27_inclusion",
+      "name": "Inclusion and Disability",
+      "description": "Learn about including everyone and understanding different abilities",
+      "topicId": "gr4_evn_27_1",
+      "chapterId": "gr4_evs_ncert_ch27",
+      "cards": [
+        {
+          "id": "fc_ch27_in_001",
+          "front": "What does 'inclusion' mean?",
+          "back": "Inclusion means making sure that everyone, including people with disabilities, can take part in everyday activities like going to school, playing games, and being part of the community. Nobody should be left out.",
+          "hint": "Think about including everyone in a group activity",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ch27_in_002",
+          "front": "Who is Chuskit in the story?",
+          "back": "Chuskit is a young girl from Ladakh who uses a wheelchair. She wants to go to school like other children, but the rocky and hilly paths make it very difficult for her wheelchair to move. Her story shows the importance of making places accessible for everyone.",
+          "hint": "She is the main character in the chapter title",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ch27_in_003",
+          "front": "What does 'accessible' mean?",
+          "back": "Accessible means that a place, building, or service can be used by everyone, including people with disabilities. For example, a school with a ramp is accessible for wheelchair users, while one with only stairs is not.",
+          "hint": "Think about whether everyone can easily enter and use a place",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ch27_in_004",
+          "front": "Why is it important for children with disabilities to go to school?",
+          "back": "Every child has the right to education. Going to school helps children with disabilities learn, make friends, and build confidence. It also helps other children learn to be kind, helpful, and understanding of differences.",
+          "hint": "Think about what school gives you besides just book knowledge",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ch27_in_005",
+          "front": "What is a wheelchair ramp and why is it needed?",
+          "back": "A wheelchair ramp is a sloping path that replaces or sits beside stairs. It helps people in wheelchairs, those using walking sticks, and even people pushing prams to enter buildings easily. Ramps make buildings accessible to all.",
+          "hint": "Think about how someone in a wheelchair could enter a building with steps",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_ch27_ladakh_life",
+      "name": "Life in Ladakh",
+      "description": "Discover the unique geography and culture of Ladakh",
+      "topicId": "gr4_evn_27_1",
+      "chapterId": "gr4_evs_ncert_ch27",
+      "cards": [
+        {
+          "id": "fc_ch27_ll_001",
+          "front": "Where is Ladakh located?",
+          "back": "Ladakh is in the northernmost part of India, surrounded by high mountains of the Himalayas and Karakoram ranges. It is a cold desert with very little rainfall and is one of the highest inhabited regions in the world.",
+          "hint": "It is very high up and very cold",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ch27_ll_002",
+          "front": "Why is it difficult to travel in Ladakh?",
+          "back": "Ladakh has very rough, rocky, and hilly terrain with narrow mountain paths. In winter, heavy snowfall blocks many roads. This makes it hard for everyone to travel, especially for people with disabilities.",
+          "hint": "Think about mountains, snow, and narrow roads",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ch27_ll_003",
+          "front": "What do people in Ladakh eat?",
+          "back": "People in Ladakh eat foods suited to the cold climate, like thukpa (noodle soup), momos (steamed dumplings), butter tea (with yak butter and salt), and tsampa (roasted barley flour). These warm, filling foods help them stay strong in the cold.",
+          "hint": "They eat warm foods because of the cold weather",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ch27_ll_004",
+          "front": "What challenges do children in Ladakh face in reaching school?",
+          "back": "Children in Ladakh often walk long distances through rocky mountain paths, cross streams, and face extreme cold to reach school. Some areas have no roads, and heavy snow can block paths for months during winter.",
+          "hint": "Think about the geography and weather of the region",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ch27_ll_005",
+          "front": "How can communities help people with disabilities in hilly areas like Ladakh?",
+          "back": "Communities can build ramps and smooth pathways, help carry wheelchairs over rough terrain, use animals like ponies for transport, and support the construction of accessible schools and buildings. Working together makes life easier for everyone.",
+          "hint": "Think about what the villagers did to help Chuskit",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

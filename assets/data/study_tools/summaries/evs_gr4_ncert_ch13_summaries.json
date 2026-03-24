@@ -1,0 +1,46 @@
+{
+  "chapterId": "gr4_evs_ncert_ch13",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en13_v1",
+      "videoId": "gr4_evn_13_1_v1",
+      "content": "This lesson introduces rivers as lifelines of our country. Students learn where rivers come from - most Indian rivers start from glaciers and springs in the Himalayan mountains or from hills in central and southern India. The lesson traces the journey of a river from its source high in the mountains, through valleys and plains, past cities and villages, until it reaches the sea at its mouth. Students discover how rivers form tributaries that join together to make larger rivers, like the Yamuna joining the Ganga at Prayagraj. The lesson covers major Indian rivers including Ganga, Yamuna, Brahmaputra, Godavari, Krishna, Narmada, and Kaveri.",
+      "keyPoints": [
+        "Most Indian rivers start from Himalayan glaciers or hills",
+        "A river travels from its source in the mountains to the sea",
+        "Tributaries are smaller rivers that join a bigger river",
+        "The Yamuna joins the Ganga at Prayagraj",
+        "Major Indian rivers include Ganga, Yamuna, Brahmaputra, Godavari"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en13_v2",
+      "videoId": "gr4_evn_13_2_v1",
+      "content": "This lesson tells the sad story of how rivers get polluted. A river starts clean and fresh in the mountains but becomes dirty as it passes through towns and cities. The main causes of river pollution are: factory waste with harmful chemicals, untreated sewage from cities, garbage and plastic thrown into rivers, chemicals from farms, and religious offerings and last rites. Polluted water kills fish and other aquatic animals, causes diseases in people who drink it, and destroys the natural beauty of rivers. The lesson explains what happens when people drink polluted water - diseases like cholera, typhoid, and diarrhoea.",
+      "keyPoints": [
+        "Rivers start clean but get polluted near cities",
+        "Factory waste, sewage, and garbage are main pollutants",
+        "Pollution kills fish and other aquatic life",
+        "Polluted water causes diseases like cholera and typhoid",
+        "Farm chemicals also add to river pollution"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en13_v3",
+      "videoId": "gr4_evn_13_2_v2",
+      "content": "This lesson focuses on solutions - what can be done to keep rivers clean. Students learn about the Namami Gange programme, a government initiative to clean the river Ganga by treating sewage, stopping factory waste, and cleaning the riverbanks. The lesson emphasises that everyone has a role to play: we should not throw garbage or plastic into rivers, use less plastic in daily life, plant trees near riverbanks (which hold soil and filter water), save water at home, and spread awareness about river conservation. Students are encouraged to think about rivers near their own homes and what they can do to help keep them clean.",
+      "keyPoints": [
+        "Namami Gange is a programme to clean the Ganga",
+        "Treating sewage before it enters rivers is essential",
+        "Everyone can help by not littering and saving water",
+        "Planting trees near rivers helps keep water clean",
+        "Awareness and action together can save our rivers"
+      ],
+      "source": "manual"
+    }
+  ]
+}

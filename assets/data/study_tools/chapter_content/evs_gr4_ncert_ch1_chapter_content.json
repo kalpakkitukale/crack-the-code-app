@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch1",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en1",
+    "title": "Going to School",
+    "content": "This chapter from the NCERT Looking Around textbook explores how children across India travel to school in many different ways. Depending on the landscape - plains, hills, rivers, or cities - children walk, cycle, take buses, ride boats, or even use trolleys and ropeways. The chapter highlights the challenges some children face, such as crossing flooded rivers and walking long distances on steep mountain paths, and celebrates their determination to learn. It also shows how schools themselves differ, from large city buildings to single-teacher village schools under trees.",
+    "keyPoints": [
+      "Children across India use many different ways to reach school",
+      "Boats are used near rivers and backwaters; trolleys in hilly areas",
+      "Weather like heavy rain and floods can make travel difficult and dangerous",
+      "Schools vary from big city buildings to small village setups under trees",
+      "Some villages have single-teacher schools for all age groups",
+      "Every child has the right to education regardless of where they live"
+    ],
+    "learningObjectives": [
+      "Identify different modes of transport children use to go to school",
+      "Understand how geography and climate affect daily travel",
+      "Appreciate the challenges some children face to attend school",
+      "Recognise that schools come in many different forms across India",
+      "Develop empathy for children in different living conditions"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en1_001",
+      "title": "Map Activity",
+      "content": "Look at a map of India and find areas with mountains (Himalayas), rivers (Ganga, Brahmaputra), and backwaters (Kerala). Think about how children living in each of these areas might travel to school. Draw a picture showing two different ways of going to school.",
+      "tags": ["activity", "geography"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en1_002",
+      "title": "Class Survey Activity",
+      "content": "Ask your classmates how they come to school. Make a chart showing how many walk, cycle, take a bus, come by car, or use other transport. Which is the most common way? Compare with what children in a village might do.",
+      "tags": ["activity", "data-collection"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en1_003",
+      "title": "Think and Discuss",
+      "content": "Imagine you live in a village next to a big river with no bridge. How would you get to school on the other side? What would you do during the rainy season when the river is full? Write a short paragraph about your imaginary journey to school.",
+      "tags": ["creative-writing", "critical-thinking"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "algorithmId": "rec_gr4_m4_t3",
+  "topicId": "gr4_m_4_3",
+  "topicName": "Rounding 4-digit Numbers",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for rounding 4-digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent prerequisite knowledge in place value and basic rounding, can move quickly through 4-digit rounding",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1920,
+      "videoSequence": [
+        {
+          "videoId": "gr4_round_v1",
+          "reason": "Quick introduction to 4-digit rounding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v3",
+          "reason": "Rounding to nearest hundred",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v4",
+          "reason": "Rounding to nearest thousand",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v5",
+          "reason": "Worked examples for practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v7",
+          "reason": "Challenge problems for enrichment",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready with good foundation, provide complete coverage of all rounding concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2430,
+      "videoSequence": [
+        {
+          "videoId": "gr4_round_v1",
+          "reason": "Introduction to 4-digit rounding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v2",
+          "reason": "Rounding to nearest ten",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v3",
+          "reason": "Rounding to nearest hundred",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v4",
+          "reason": "Rounding to nearest thousand",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v5",
+          "reason": "Worked examples and practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in prerequisites, needs review of place value and/or basic rounding before main content",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 2670,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_4digit_weak": {
+            "addVideos": ["prereq_pv4_v1", "prereq_pv4_v2"],
+            "priority": "high"
+          },
+          "rounding_basics_weak": {
+            "addVideos": ["prereq_round_v1", "prereq_round_v2", "prereq_round_v4"],
+            "priority": "high"
+          },
+          "number_line_weak": {
+            "addVideos": ["prereq_nline_v1", "prereq_nline_v2"],
+            "priority": "medium"
+          },
+          "rounding_rules_weak": {
+            "addVideos": ["prereq_round_v3"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Review: Place Value in 4-digit Numbers",
+          "skippable": false,
+          "condition": "if pv_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_round_v1",
+          "reason": "Review: Basic Rounding to Nearest Ten",
+          "skippable": false,
+          "condition": "if rounding_basics concept is weak"
+        },
+        {
+          "videoId": "prereq_round_v3",
+          "reason": "Review: Rounding Rules (5 or above)",
+          "skippable": false,
+          "condition": "if rounding_rules concept is weak"
+        },
+        {
+          "videoId": "gr4_round_v1",
+          "reason": "Start main topic: Introduction to 4-digit rounding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v2",
+          "reason": "Rounding to nearest ten",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v3",
+          "reason": "Rounding to nearest hundred",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v4",
+          "reason": "Rounding to nearest thousand",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v5",
+          "reason": "Practice with worked examples",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in place value and basic rounding before attempting 4-digit rounding",
+      "playlistComposition": {
+        "prerequisiteVideos": 6,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 2730,
+      "videoSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Foundation: Place Value in 4-digit Numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv4_v2",
+          "reason": "Practice: Identifying Place Positions",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_round_v1",
+          "reason": "Essential: Rounding to Nearest Ten (2-digit)",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_round_v2",
+          "reason": "Practice: Rounding 2-digit and 3-digit",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_round_v3",
+          "reason": "Critical: Rounding Rules (5 or above)",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_nline_v1",
+          "reason": "Helpful: Number Line Basics",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v1",
+          "reason": "Gentle intro to 4-digit rounding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_round_v2",
+          "reason": "Begin main content: Rounding to nearest ten",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with the full rounding topic."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_4digit": {
+        "conceptName": "Place value in 4-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_pv4_v1", "prereq_pv4_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "rounding_basics": {
+        "conceptName": "Rounding 2-digit and 3-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_round_v1", "prereq_round_v2", "prereq_round_v4"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "number_line": {
+        "conceptName": "Number line and position of numbers",
+        "importance": "important",
+        "videoIds": ["prereq_nline_v1", "prereq_nline_v2"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "rounding_rules": {
+        "conceptName": "Rounding rules (5 and above, below 5)",
+        "importance": "critical",
+        "videoIds": ["prereq_round_v3"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_round_v2",
+        "checkpointName": "Rounding to Nearest Ten Mastery",
+        "questions": [
+          {
+            "question": "Round 3,456 to the nearest ten.",
+            "options": ["3,450", "3,460", "3,500", "3,400"],
+            "correctAnswer": 1,
+            "explanation": "Look at the ones digit: 6. Since 6 is 5 or above, round up. 3,456 → 3,460."
+          },
+          {
+            "question": "Round 7,823 to the nearest ten.",
+            "options": ["7,820", "7,830", "7,800", "8,000"],
+            "correctAnswer": 0,
+            "explanation": "Look at the ones digit: 3. Since 3 is below 5, round down. 7,823 → 7,820."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Great! You understand rounding to nearest ten."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_round_v1",
+          "reason": "Student still struggling with basic rounding to nearest ten"
+        }
+      },
+      {
+        "afterVideoId": "gr4_round_v4",
+        "checkpointName": "Rounding to All Place Values Check",
+        "questions": [
+          {
+            "question": "Round 4,678 to the nearest thousand.",
+            "options": ["4,000", "4,700", "5,000", "4,600"],
+            "correctAnswer": 2,
+            "explanation": "Look at the hundreds digit: 6. Since 6 is 5 or above, round up. 4,678 → 5,000."
+          },
+          {
+            "question": "Round 2,345 to the nearest hundred.",
+            "options": ["2,300", "2,350", "2,400", "2,000"],
+            "correctAnswer": 0,
+            "explanation": "Look at the tens digit: 4. Since 4 is below 5, round down. 2,345 → 2,300."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_round_v7",
+          "reason": "Student ready for advanced challenge problems"
+        },
+        "ifSomeCorrect": {
+          "action": "continue_with_practice",
+          "message": "Good progress! Continue to practice video for more examples."
+        },
+        "ifAllWrong": {
+          "action": "recommend_review",
+          "message": "Let's review the rounding rules. Rewatch videos 3 and 4 before continuing."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip remaining basic videos, jump to applications or challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review videos on rounding rules"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes all core videos but scores < 70% on checkpoint",
+      "action": "Recommend additional practice exercises before practice quiz"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before proceeding to main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong prerequisite knowledge of place value and rounding. We've created a fast-track playlist focusing on rounding 4-digit numbers with challenges."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand the basics of rounding. Let's build on that with 4-digit numbers. Your playlist covers all important rounding concepts."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in prerequisite knowledge. Don't worry! We'll start with review videos on place value and basic rounding, then move to 4-digit rounding."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review prerequisite concepts first. We've created a playlist focused on building a strong foundation in place value and rounding basics. After watching, you can retake the quiz."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how rounding concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Place value in 4-digit numbers", "Rounding rules (5 or above)"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Rounding 2-digit and 3-digit numbers", "Number line understanding"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Rounding 4-digit numbers to nearest ten"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Rounding 4-digit numbers to nearest hundred", "Rounding to nearest thousand"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Real-world applications", "Advanced rounding problems"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 80,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 75,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.0,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "conceptRetention": {
+      "target": 85,
+      "description": "% of students who can correctly round 4-digit numbers to different place values 1 week later"
+    },
+    "ruleApplication": {
+      "target": 90,
+      "description": "% of students who can correctly identify which digit to look at for rounding"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 85-95% practice quiz score",
+      "ready_students": "Complete in 40-50 minutes with 75-85% practice quiz score",
+      "partial_students": "Complete in 45-55 minutes with 65-75% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (45 min) + retake + main content (30 min) = 75-85 total minutes, expected 55-70% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing which digit to look at for different place values",
+      "solution1": "Emphasize pattern: to round to tens, look at ones; to hundreds, look at tens; to thousands, look at hundreds",
+      "challenge2": "Students forgetting the rounding rule (5 or above)",
+      "solution2": "Frequent reminders and visual aids showing the rule",
+      "challenge3": "Rounding to wrong place value (asked for hundred, rounded to ten)",
+      "solution3": "Comprehension checks that specifically test place value identification"
+    }
+  }
+}

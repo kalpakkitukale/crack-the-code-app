@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_evs_ncert_ch11",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_valley_location",
+      "name": "Valley of Flowers Location",
+      "description": "Learn about where the Valley of Flowers is and what makes it special",
+      "cards": [
+        {
+          "id": "fc_vl_001",
+          "front": "In which state of India is the Valley of Flowers located?",
+          "back": "The Valley of Flowers is located in Uttarakhand, in the Himalayan mountains. It is near the town of Joshimath in Chamoli district.",
+          "hints": ["It is in the northern mountains"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_vl_002",
+          "front": "Why is the Valley of Flowers called a UNESCO World Heritage Site?",
+          "back": "The Valley of Flowers was declared a UNESCO World Heritage Site because it has hundreds of rare and beautiful flowers, many of which are not found anywhere else in the world.",
+          "hints": ["It has something very special and rare"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_vl_003",
+          "front": "Which mountain range is the Valley of Flowers part of?",
+          "back": "The Valley of Flowers is part of the great Himalayan mountain range, the highest mountain range in the world.",
+          "hints": ["The tallest mountains in the world"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_vl_004",
+          "front": "At what height is the Valley of Flowers found?",
+          "back": "The Valley of Flowers is at a height of about 3,250 to 3,658 metres above sea level. That is more than 3 kilometres above the sea!",
+          "hints": ["Very high up in the mountains"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_vl_005",
+          "front": "Which river flows through the Valley of Flowers?",
+          "back": "The Pushpawati River flows through the Valley of Flowers. The name 'Pushpawati' means 'river of flowers'.",
+          "hints": ["Its name has something to do with flowers"],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "deck_valley_flowers",
+      "name": "Flowers and Plants",
+      "description": "Discover the amazing flowers and plants in the valley",
+      "cards": [
+        {
+          "id": "fc_vf_001",
+          "front": "How many types of flowers are found in the Valley of Flowers?",
+          "back": "More than 600 types of flowering plants are found in the Valley of Flowers! These include orchids, poppies, marigolds, daisies, and many rare Himalayan flowers.",
+          "hints": ["A very large number"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_vf_002",
+          "front": "When is the best time to see flowers blooming in the Valley of Flowers?",
+          "back": "The best time is during the monsoon season, from July to September. The rains help thousands of flowers bloom and the whole valley becomes colourful.",
+          "hints": ["Think about when it rains a lot"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_vf_003",
+          "front": "What is the Brahma Kamal?",
+          "back": "The Brahma Kamal is a rare and sacred flower found in the Himalayas. It is the state flower of Uttarakhand and blooms only at night. It is named after Lord Brahma.",
+          "hints": ["A rare flower named after a Hindu god"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_vf_004",
+          "front": "Why do different flowers bloom at different times in the valley?",
+          "back": "Different flowers need different amounts of sunlight, water, and temperature. As the seasons change from spring to monsoon to autumn, different flowers get the right conditions and bloom one after another.",
+          "hints": ["Think about weather and seasons"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_vf_005",
+          "front": "Are visitors allowed to pick flowers in the Valley of Flowers?",
+          "back": "No! It is strictly forbidden to pick any flowers or plants in the Valley of Flowers. It is a protected National Park, and picking flowers is against the law because many species are rare and endangered.",
+          "hints": ["It is a protected area"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_valley_animals",
+      "name": "Animals and Conservation",
+      "description": "Learn about animals in the valley and why conservation matters",
+      "cards": [
+        {
+          "id": "fc_va_001",
+          "front": "Name two animals found in or near the Valley of Flowers.",
+          "back": "The snow leopard, Himalayan black bear, musk deer, and blue sheep are found in and around the Valley of Flowers. Many colourful butterflies also live there.",
+          "hints": ["Mountain animals"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_va_002",
+          "front": "Why is it important to protect the Valley of Flowers?",
+          "back": "The Valley of Flowers has many rare plants and animals found nowhere else on Earth. If we do not protect it, these species could disappear forever. Conservation keeps the natural beauty safe for future generations.",
+          "hints": ["Rare plants and animals need protection"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_va_003",
+          "front": "What is a national park?",
+          "back": "A national park is a special area protected by the government where plants and animals are kept safe. No one is allowed to cut trees, hunt animals, or damage the environment in a national park.",
+          "hints": ["A protected area by the government"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_va_004",
+          "front": "Who discovered the Valley of Flowers for the outside world?",
+          "back": "Frank Smythe, a British mountaineer, discovered the Valley of Flowers in 1931 while returning from an expedition to Mount Kamet. He was so amazed by the flowers that he wrote a book about it.",
+          "hints": ["A British mountain climber in the 1930s"],
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ]
+}

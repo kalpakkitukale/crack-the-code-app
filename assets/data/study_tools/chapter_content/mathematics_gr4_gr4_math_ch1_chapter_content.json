@@ -1,0 +1,58 @@
+{
+  "chapterId": "gr4_math_ch1",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_m1",
+    "title": "Large Numbers and Place Value",
+    "content": "This chapter introduces students to the concept of place value and how it helps us understand large numbers. Students will learn to read, write, and compare numbers up to 10,000. Understanding place value is fundamental to all mathematical operations and helps build a strong number sense.",
+    "keyPoints": [
+      "Place value determines a digit's worth based on its position",
+      "Each place is 10 times the value of the place to its right",
+      "We can compare numbers by looking at place values from left to right",
+      "Expanded form shows the value of each digit separately",
+      "Zero is an important placeholder in our number system"
+    ],
+    "learningObjectives": [
+      "Understand place value up to 10,000",
+      "Read and write large numbers in words and numerals",
+      "Compare and order numbers using place value",
+      "Write numbers in expanded form",
+      "Identify the value of any digit in a number"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_m1_001",
+      "title": "Place Value Chart Tip",
+      "content": "Draw a place value chart and practice placing numbers in it. This visual aid helps you understand the position of each digit. Start with ones, tens, hundreds, thousands - each column to the left is 10 times bigger!",
+      "tags": ["study-tip", "visual-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_m1_002",
+      "title": "Common Mistake to Avoid",
+      "content": "When writing numbers in words, remember: we don't use 'and' between place values in whole numbers. For example, write 'one hundred twenty-three' not 'one hundred and twenty-three'. The word 'and' is used for decimal points.",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m1_003",
+      "title": "Daily Practice Exercise",
+      "content": "Write any 4-digit number and identify the place value of each digit. Then write it in expanded form. For example: 3,456 = 3000 + 400 + 50 + 6. Try this with 3 different numbers every day!",
+      "tags": ["practice", "homework"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m1_004",
+      "title": "Remember the Pattern",
+      "content": "Each place value is 10 times bigger than the one to its right: Ones (1), Tens (10), Hundreds (100), Thousands (1000), Ten Thousands (10,000). This pattern continues forever!",
+      "tags": ["key-concept", "pattern"],
+      "isPinned": false
+    }
+  ]
+}

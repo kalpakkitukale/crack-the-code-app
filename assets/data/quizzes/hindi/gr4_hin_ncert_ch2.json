@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_hin_ncert_ch2",
+    "level": "chapter",
+    "entityId": "gr4_hin_ncert_ch2",
+    "title": "जैसा सवाल वैसा जवाब - पाठ 2 प्रश्नोत्तरी",
+    "questionIds": ["q_js_001", "q_js_002", "q_js_003", "q_js_004", "q_js_005", "q_js_006", "q_js_007", "q_js_008", "q_js_009", "q_js_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_js_001",
+      "questionText": "इस कहानी का मुख्य विषय क्या है?",
+      "questionType": "mcq",
+      "options": ["खेल-कूद", "हाज़िरजवाबी और बुद्धि", "खाना बनाना", "यात्रा करना"],
+      "correctAnswer": "B",
+      "explanation": "यह कहानी हाज़िरजवाबी (quick wit) और बुद्धिमानी के बारे में है - जैसा सवाल वैसा जवाब।",
+      "hints": ["शीर्षक क्या बताता है?"],
+      "difficulty": "basic",
+      "conceptTags": ["कहानी", "बुद्धि", "हाज़िरजवाबी"],
+      "topicIds": ["gr4_hi_2_1"],
+      "points": 1
+    },
+    {
+      "id": "q_js_002",
+      "questionText": "'हाज़िरजवाब' का अर्थ क्या है?",
+      "questionType": "mcq",
+      "options": ["धीमा उत्तर देने वाला", "तुरंत सही जवाब देने वाला", "कभी जवाब न देने वाला", "गलत जवाब देने वाला"],
+      "correctAnswer": "B",
+      "explanation": "'हाज़िरजवाब' का अर्थ है जो तुरंत और सही जवाब दे सके - जिसके पास चतुर उत्तर हो।",
+      "hints": ["'हाज़िर' का मतलब है तुरंत"],
+      "difficulty": "basic",
+      "conceptTags": ["शब्दार्थ", "हाज़िरजवाब"],
+      "topicIds": ["gr4_hi_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_js_003",
+      "questionText": "कहानी से क्या सीख मिलती है?",
+      "questionType": "mcq",
+      "options": ["हमेशा चुप रहना चाहिए", "बुद्धि से काम लेना चाहिए", "झूठ बोलना चाहिए", "डरना चाहिए"],
+      "correctAnswer": "B",
+      "explanation": "कहानी सिखाती है कि बुद्धि और सूझबूझ से हम कठिन परिस्थितियों का सामना कर सकते हैं।",
+      "hints": ["कहानी का मुख्य पात्र कैसे समस्या हल करता है?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["नैतिक शिक्षा", "बुद्धि"],
+      "topicIds": ["gr4_hi_2_1"],
+      "points": 2
+    },
+    {
+      "id": "q_js_004",
+      "questionText": "'सवाल' का पर्यायवाची क्या है?",
+      "questionType": "mcq",
+      "options": ["जवाब", "प्रश्न", "उत्तर", "कहानी"],
+      "correctAnswer": "B",
+      "explanation": "'सवाल' का पर्यायवाची है 'प्रश्न' - दोनों का एक ही अर्थ है।",
+      "hints": ["सवाल पूछते हैं..."],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "पर्यायवाची"],
+      "topicIds": ["gr4_hi_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_js_005",
+      "questionText": "'जवाब' का पर्यायवाची क्या है?",
+      "questionType": "mcq",
+      "options": ["सवाल", "प्रश्न", "उत्तर", "पूछना"],
+      "correctAnswer": "C",
+      "explanation": "'जवाब' का पर्यायवाची है 'उत्तर' - दोनों एक ही अर्थ रखते हैं।",
+      "hints": ["जवाब देते हैं, यानी..."],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "पर्यायवाची"],
+      "topicIds": ["gr4_hi_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_js_006",
+      "questionText": "सही या गलत: कहानी और कविता एक ही चीज़ है।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "B",
+      "explanation": "गलत! कहानी गद्य में होती है और कविता पद्य में। कहानी में तुकबंदी नहीं होती।",
+      "hints": ["कविता में क्या होता है जो कहानी में नहीं?"],
+      "difficulty": "basic",
+      "conceptTags": ["साहित्य", "कहानी", "कविता"],
+      "topicIds": ["gr4_hi_2_1"],
+      "points": 1
+    },
+    {
+      "id": "q_js_007",
+      "questionText": "'जैसा' शब्द किस प्रकार का है?",
+      "questionType": "mcq",
+      "options": ["संज्ञा", "सर्वनाम", "क्रिया", "विशेषण"],
+      "correctAnswer": "B",
+      "explanation": "'जैसा' एक सर्वनाम है जो तुलना के लिए प्रयोग होता है।",
+      "hints": ["यह किसी की जगह लेता है"],
+      "difficulty": "intermediate",
+      "conceptTags": ["व्याकरण", "सर्वनाम"],
+      "topicIds": ["gr4_hi_2_2"],
+      "points": 2
+    },
+    {
+      "id": "q_js_008",
+      "questionText": "बुद्धिमान व्यक्ति कौन होता है?",
+      "questionType": "mcq",
+      "options": ["जो हमेशा लड़ता है", "जो समझदारी से सोचता है", "जो कभी नहीं बोलता", "जो हमेशा रोता है"],
+      "correctAnswer": "B",
+      "explanation": "बुद्धिमान व्यक्ति वह है जो समझदारी से सोचता है और सही निर्णय लेता है।",
+      "hints": ["बुद्धि का मतलब है समझ"],
+      "difficulty": "basic",
+      "conceptTags": ["जीवन कौशल", "बुद्धि"],
+      "topicIds": ["gr4_hi_2_1"],
+      "points": 1
+    },
+    {
+      "id": "q_js_009",
+      "questionText": "'वैसा' का विलोम क्या है?",
+      "questionType": "mcq",
+      "options": ["जैसा", "ऐसा", "कैसा", "तैसा"],
+      "correctAnswer": "A",
+      "explanation": "'जैसा' और 'वैसा' एक जोड़ी में आते हैं। जैसा काम, वैसा परिणाम।",
+      "hints": ["यह शब्द साथ में आता है"],
+      "difficulty": "intermediate",
+      "conceptTags": ["व्याकरण", "शब्द जोड़ी"],
+      "topicIds": ["gr4_hi_2_2"],
+      "points": 2
+    },
+    {
+      "id": "q_js_010",
+      "questionText": "सही या गलत: चतुराई हमेशा अच्छी होती है।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "A",
+      "explanation": "सही बात के लिए चतुराई अच्छी है। यह हमें मुश्किल परिस्थितियों से निकलने में मदद करती है।",
+      "hints": ["कहानी में चतुराई का प्रयोग कैसे हुआ?"],
+      "difficulty": "basic",
+      "conceptTags": ["नैतिक शिक्षा", "चतुराई"],
+      "topicIds": ["gr4_hi_2_1"],
+      "points": 1
+    }
+  ]
+}

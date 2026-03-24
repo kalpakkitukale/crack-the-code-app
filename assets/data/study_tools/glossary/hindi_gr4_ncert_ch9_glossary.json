@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch9",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn9_001",
+      "term": "स्वतंत्रता (Swatantrata)",
+      "definition": "Freedom or independence. 'Swa' means self and 'tantra' means system. Swatantrata means governing oneself without being under someone else's control. India achieved swatantrata on 15 August 1947.",
+      "pronunciation": "swa-TAN-tra-taa",
+      "exampleUsage": "भारत को 1947 में स्वतंत्रता मिली। (India got freedom in 1947.)",
+      "difficulty": "medium",
+      "relatedTerms": ["आज़ादी", "मुक्ति", "स्वाधीनता"]
+    },
+    {
+      "id": "gls_gr4_hn9_002",
+      "term": "संग्राम (Sangraam)",
+      "definition": "Struggle or battle. A long and difficult fight for a cause. 'Swatantrata Sangraam' means the freedom struggle - India's long fight against British rule.",
+      "pronunciation": "san-GRAAM",
+      "exampleUsage": "स्वतंत्रता संग्राम में कई वीरों ने बलिदान दिया। (Many heroes sacrificed in the freedom struggle.)",
+      "difficulty": "medium",
+      "relatedTerms": ["लड़ाई", "युद्ध", "आंदोलन"]
+    },
+    {
+      "id": "gls_gr4_hn9_003",
+      "term": "देशभक्ति (Deshbhakti)",
+      "definition": "Patriotism or love for one's country. 'Desh' means country and 'Bhakti' means devotion. A person who loves their country is called a Deshbhakt (patriot).",
+      "pronunciation": "DESH-bhak-ti",
+      "exampleUsage": "देशभक्ति का मतलब है अपने देश से प्यार करना। (Patriotism means loving your country.)",
+      "difficulty": "easy",
+      "relatedTerms": ["देशभक्त", "देशप्रेम", "राष्ट्रभक्ति"]
+    },
+    {
+      "id": "gls_gr4_hn9_004",
+      "term": "अहिंसा (Ahimsa)",
+      "definition": "Non-violence. Not using force or violence against anyone. Mahatma Gandhi made ahimsa the foundation of India's freedom movement. It means opposing wrong without hurting anyone.",
+      "pronunciation": "a-HIM-saa",
+      "exampleUsage": "गांधीजी ने अहिंसा का मार्ग अपनाया। (Gandhiji adopted the path of non-violence.)",
+      "difficulty": "medium",
+      "relatedTerms": ["शांति", "सत्याग्रह", "अनशन"]
+    },
+    {
+      "id": "gls_gr4_hn9_005",
+      "term": "सत्याग्रह (Satyagraha)",
+      "definition": "Holding firmly to truth. 'Satya' means truth and 'Agraha' means insistence. It was Gandhi's method of peaceful protest - standing firm for what is right without using violence.",
+      "pronunciation": "sat-YAA-gra-ha",
+      "exampleUsage": "गांधीजी ने सत्याग्रह से अंग्रेज़ों का विरोध किया। (Gandhiji opposed the British through satyagraha.)",
+      "difficulty": "hard",
+      "relatedTerms": ["अहिंसा", "सत्य", "आंदोलन"]
+    },
+    {
+      "id": "gls_gr4_hn9_006",
+      "term": "स्वदेशी (Swadeshi)",
+      "definition": "Made in one's own country. During the freedom struggle, Swadeshi meant using Indian-made goods and boycotting British products. Gandhi promoted khadi and the spinning wheel as symbols of self-reliance.",
+      "pronunciation": "swa-DE-shee",
+      "exampleUsage": "स्वदेशी आंदोलन में लोगों ने विदेशी कपड़े जलाए। (In the Swadeshi movement, people burnt foreign clothes.)",
+      "difficulty": "medium",
+      "relatedTerms": ["खादी", "चरखा", "बहिष्कार"]
+    },
+    {
+      "id": "gls_gr4_hn9_007",
+      "term": "बलिदान (Balidaan)",
+      "definition": "Sacrifice. Giving up something very valuable, even one's life, for a great cause. Many freedom fighters made the ultimate balidaan for India's independence.",
+      "pronunciation": "ba-li-DAAN",
+      "exampleUsage": "शहीदों ने देश के लिए अपना बलिदान दिया। (The martyrs gave their sacrifice for the country.)",
+      "difficulty": "medium",
+      "relatedTerms": ["त्याग", "शहीद", "कुर्बानी"]
+    },
+    {
+      "id": "gls_gr4_hn9_008",
+      "term": "तिरंगा (Tiranga)",
+      "definition": "The Indian national flag with three colours. 'Ti' means three and 'Rang' means colour. The three colours are saffron (courage), white (peace), and green (prosperity), with the blue Ashoka Chakra in the centre.",
+      "pronunciation": "ti-RAN-gaa",
+      "exampleUsage": "15 अगस्त को लाल किले पर तिरंगा फहराया जाता है। (The Tiranga is hoisted at Red Fort on 15 August.)",
+      "difficulty": "easy",
+      "relatedTerms": ["झंडा", "राष्ट्रध्वज", "अशोक चक्र"]
+    },
+    {
+      "id": "gls_gr4_hn9_009",
+      "term": "शहीद (Shaheed)",
+      "definition": "Martyr. A person who dies or suffers greatly for their country or a noble cause. India's freedom fighters who gave their lives are remembered as Shaheed.",
+      "pronunciation": "sha-HEED",
+      "exampleUsage": "भगत सिंह एक महान शहीद थे। (Bhagat Singh was a great martyr.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बलिदान", "वीर", "क्रांतिकारी"]
+    },
+    {
+      "id": "gls_gr4_hn9_010",
+      "term": "आज़ादी (Aazaadi)",
+      "definition": "Freedom or liberty. The Urdu/Hindustani word commonly used for independence. 'Aazaadi' was the rallying cry of the freedom movement, echoing in slogans like 'Bharat Chhodo' (Quit India).",
+      "pronunciation": "aa-ZAA-dee",
+      "exampleUsage": "भारत को 1947 में आज़ादी मिली। (India got freedom in 1947.)",
+      "difficulty": "easy",
+      "relatedTerms": ["स्वतंत्रता", "मुक्ति", "स्वराज"]
+    }
+  ]
+}

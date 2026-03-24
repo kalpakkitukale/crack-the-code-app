@@ -1,0 +1,306 @@
+{
+  "quiz": {
+    "id": "topic_1_1",
+    "level": "topic",
+    "entityId": "topic_1_1",
+    "title": "Introduction to Electric Charges - Topic Quiz",
+    "questionIds": [
+      "q_nfl_001",
+      "q_nfl_002",
+      "q_nfl_003",
+      "q_nfl_004",
+      "q_nfl_005",
+      "q_nfl_006",
+      "q_nfl_007",
+      "q_nfl_008",
+      "q_nfl_009",
+      "q_nfl_010"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_nfl_001",
+      "questionText": "What is Newton's First Law of Motion also known as?",
+      "questionType": "mcq",
+      "options": [
+        "Law of Action-Reaction",
+        "Law of Inertia",
+        "Law of Acceleration",
+        "Law of Gravity"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Newton's First Law is also called the Law of Inertia because it describes how objects resist changes in their state of motion.",
+      "hints": [
+        "Think about what makes an object resist motion changes",
+        "It's related to an object's tendency to maintain its current state"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "inertia",
+        "fundamentals"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_002",
+      "questionText": "According to Newton's First Law, an object at rest will stay at rest unless acted upon by what?",
+      "questionType": "mcq",
+      "options": [
+        "An external force",
+        "Gravity only",
+        "Its own weight",
+        "Time passing"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's First Law states that an object at rest stays at rest, and an object in motion stays in motion, unless acted upon by an external force.",
+      "hints": [
+        "What causes changes in motion?",
+        "It must come from outside the object"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "motion"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_003",
+      "questionText": "A book is resting on a table. Why doesn't it move?",
+      "questionType": "mcq",
+      "options": [
+        "There are no forces acting on it",
+        "The forces acting on it are balanced",
+        "It has no mass",
+        "Gravity is not acting on it"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The book experiences gravity pulling it down and the normal force from the table pushing it up. These forces are balanced, so the book remains at rest.",
+      "hints": [
+        "Forces can be present but still result in no movement",
+        "Think about equal and opposite forces"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "balanced_forces",
+        "equilibrium"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_004",
+      "questionText": "What property of matter causes objects to resist changes in their motion?",
+      "questionType": "mcq",
+      "options": [
+        "Mass",
+        "Weight",
+        "Volume",
+        "Density"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Inertia is directly related to an object's mass. Objects with more mass have more inertia and resist changes in motion more strongly.",
+      "hints": [
+        "It's a measure of the amount of matter",
+        "Heavier objects are harder to push or stop"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "inertia",
+        "mass",
+        "properties_of_matter"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_005",
+      "questionText": "A car is moving at constant velocity on a straight road. What is the net force acting on the car?",
+      "questionType": "mcq",
+      "options": [
+        "Zero",
+        "Equal to its weight",
+        "In the direction of motion",
+        "Opposite to the direction of motion"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When an object moves at constant velocity (no acceleration), the net force on it is zero. All forces are balanced.",
+      "hints": [
+        "Constant velocity means no change in motion",
+        "What does Newton's First Law say about objects in uniform motion?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "constant_velocity",
+        "net_force"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_006",
+      "questionText": "Which of the following best demonstrates inertia?",
+      "questionType": "mcq",
+      "options": [
+        "A ball rolling down a hill",
+        "Your body jerks forward when a car suddenly stops",
+        "A rocket launching into space",
+        "Water flowing downhill"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When a car stops suddenly, your body continues moving forward due to inertia - the tendency to maintain its state of motion.",
+      "hints": [
+        "Look for an example where something resists a change in motion",
+        "What happens when motion suddenly changes?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "inertia",
+        "real_world_applications",
+        "motion"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_007",
+      "questionText": "If you're in a spacecraft in deep space (far from any gravitational influence) and you throw a ball, what will happen to the ball?",
+      "questionType": "mcq",
+      "options": [
+        "It will fall to the floor of the spacecraft",
+        "It will continue moving in a straight line at constant velocity",
+        "It will curve back to you",
+        "It will slow down and stop"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In the absence of external forces (like friction or gravity), the ball will continue moving at constant velocity in a straight line, as stated by Newton's First Law.",
+      "hints": [
+        "Consider what forces are acting on the ball",
+        "Remember Newton's First Law applies when no external forces act"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "space",
+        "zero_gravity"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_008",
+      "questionText": "A 2kg object and a 5kg object are both at rest. Which statement is true?",
+      "questionType": "mcq",
+      "options": [
+        "The 2kg object has more inertia",
+        "The 5kg object has more inertia",
+        "Both have the same inertia",
+        "Neither object has inertia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Inertia is directly proportional to mass. The 5kg object has more mass, therefore more inertia, meaning it resists changes in motion more than the 2kg object.",
+      "hints": [
+        "Inertia depends on mass",
+        "Which object has more matter?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "inertia",
+        "mass",
+        "comparison"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nfl_009",
+      "questionText": "A hockey puck sliding on ice eventually comes to a stop. Which statement best explains why this doesn't violate Newton's First Law?",
+      "questionType": "mcq",
+      "options": [
+        "Newton's First Law only applies to objects in vacuum",
+        "Friction acts as an external force to slow the puck",
+        "The puck loses mass as it slides",
+        "Newton's First Law doesn't apply to sports equipment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Newton's First Law states objects continue in motion unless acted upon by an external force. Friction between the puck and ice is an external force that opposes the motion, causing it to slow and stop.",
+      "hints": [
+        "What force opposes motion on surfaces?",
+        "Is there an external force acting on the puck?"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "friction",
+        "external_forces"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_nfl_010",
+      "questionText": "Two astronauts are floating in space, initially at rest relative to each other. Astronaut A (60kg) pushes Astronaut B (90kg). Immediately after the push, which astronaut will have greater speed?",
+      "questionType": "mcq",
+      "options": [
+        "Astronaut A",
+        "Astronaut B",
+        "Both will have the same speed",
+        "Neither will move"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When Astronaut A pushes B, Newton's Third Law applies (equal and opposite forces). However, Astronaut A has less mass, so experiences greater acceleration (F=ma). With less inertia, Astronaut A achieves higher speed than Astronaut B.",
+      "hints": [
+        "Consider both Newton's First and Third Laws",
+        "Which astronaut has less inertia?",
+        "Remember F = ma"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "action_reaction",
+        "mass_and_acceleration",
+        "space"
+      ],
+      "topicIds": [
+        "topic_newtons_first_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_sci_ch2",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_sc2",
+    "title": "Food and Nutrition",
+    "content": "This chapter helps students understand the importance of food and nutrition for a healthy life. Students will learn about the three main food groups: energy-giving foods (carbohydrates and fats found in rice, roti, and ghee), body-building foods (proteins found in dal, milk, and paneer), and protective foods (vitamins and minerals found in fruits and vegetables). The chapter also covers what makes a balanced diet, good eating habits, the harmful effects of junk food, and how our digestive system breaks down food so the body can use its nutrients.",
+    "keyPoints": [
+      "Foods are classified into three groups: energy-giving, body-building, and protective",
+      "Carbohydrates and fats provide energy; proteins help the body grow and repair",
+      "Vitamins and minerals from fruits and vegetables protect us from diseases",
+      "A balanced diet includes the right amounts of all food groups in every meal",
+      "Good eating habits like washing hands and chewing food properly keep us healthy",
+      "Digestion breaks food into tiny pieces so nutrients can be absorbed by the body"
+    ],
+    "learningObjectives": [
+      "Name the three main food groups and give examples of each",
+      "Explain what nutrients are and why they are important",
+      "Describe what a balanced diet looks like with Indian food examples",
+      "List at least five good eating habits",
+      "Explain why junk food is harmful when eaten in excess",
+      "Describe the journey of food through the digestive system"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_sc2_001",
+      "title": "Build Your Own Balanced Thali",
+      "content": "Draw a thali (plate) and fill it with foods from all food groups. Include roti or rice for energy, dal or paneer for protein, a sabzi like palak or gobhi for vitamins, a small bowl of curd for calcium, and a piece of fruit like a banana or orange. Check if your thali has something from every food group!",
+      "tags": ["activity", "visual-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_sc2_002",
+      "title": "Easy Way to Remember Food Groups",
+      "content": "Remember the word 'GPE' to recall the three food groups: G for Go foods (energy-giving like rice and roti), P for Grow foods (body-building proteins like dal and milk), and E for glow foods (protective fruits and vegetables that make your skin and health glow). Go, Grow, and Glow!",
+      "tags": ["study-tip", "memory-aid"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_sc2_003",
+      "title": "Common Mistake to Avoid",
+      "content": "Many students think that eating only one type of food in large amounts is enough. For example, eating only rice all day gives you energy but not enough protein or vitamins. Your body needs food from ALL groups, not just one. Also, remember that fat is not always bad - we need a small amount of ghee or oil for energy and warmth.",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    }
+  ]
+}

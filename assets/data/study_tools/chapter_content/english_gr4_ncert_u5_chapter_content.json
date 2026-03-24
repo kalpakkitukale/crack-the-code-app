@@ -1,0 +1,61 @@
+{
+  "chapterId": "gr4_eng_ncert_u5",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en5",
+    "title": "Don't Be Afraid of the Dark / Helen Keller",
+    "content": "Unit 5 brings together a beautiful poem and an inspiring true story, both united by the theme of courage. The poem 'Don't Be Afraid of the Dark' encourages children to see the night as a wonderful, natural part of the world rather than something to fear. It paints pictures of the moon, stars, and nighttime creatures to show that darkness has its own beauty. The prose lesson tells the extraordinary true story of Helen Keller, a girl who lost her sight and hearing as a baby but went on to achieve incredible things with the help of her devoted teacher, Anne Sullivan. Helen's famous 'water moment' - when she first understood that things have names - opened up a whole new world for her. She graduated from college, wrote books, and inspired millions. The grammar section introduces adjectives (describing words) that help us paint vivid pictures with our words, just like the poem and the story do. Students learn to identify, use, and enjoy adjectives in their reading and writing.",
+    "keyPoints": [
+      "The poem teaches that darkness is natural and there is no need to fear the night",
+      "Helen Keller lost her sight and hearing at 19 months but never gave up",
+      "Anne Sullivan taught Helen to communicate by spelling words into her palm",
+      "The word 'water' was Helen's breakthrough in understanding language",
+      "Helen graduated from college, wrote 12 books, and became a world-famous speaker",
+      "An adjective is a describing word that tells us more about a noun",
+      "Adjectives describe qualities like size, colour, shape, number, and nature"
+    ],
+    "learningObjectives": [
+      "Read and appreciate the poem 'Don't Be Afraid of the Dark' and explain its message of courage",
+      "Narrate the key events in Helen Keller's life and the role of Anne Sullivan",
+      "Identify the theme of courage and determination in both the poem and the story",
+      "Define adjectives and identify them in sentences",
+      "Use adjectives to write descriptive sentences about people, places, and things",
+      "Build vocabulary related to courage, disability, and inspiration"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en5_001",
+      "title": "Theme Connection: Poem and Story",
+      "content": "Both the poem and Helen Keller's story share the theme of courage. The poem says: do not fear the dark. Helen Keller's life says: do not let any difficulty stop you. When you read the poem, think about how Helen lived in darkness and silence every day but still chose to be brave. The poem could be speaking about real darkness at night, but it could also be about any fear or challenge we face in life. Connect these two ideas in your answers to score well!",
+      "tags": ["exam-tip", "theme", "courage"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en5_002",
+      "title": "Helen Keller's Story - Key Timeline",
+      "content": "Remember these important points about Helen Keller's life in order: (1) Born in 1880 in Alabama, USA. (2) Lost sight and hearing at 19 months due to illness. (3) Anne Sullivan arrived as her teacher when Helen was about 6 years old. (4) The famous 'water moment' happened at the water pump. (5) Helen learned to read using Braille and to write. (6) She graduated from Radcliffe College (now part of Harvard). (7) She wrote 12 books and gave speeches around the world. (8) She inspired millions of people to overcome their challenges.",
+      "tags": ["important", "timeline", "helen-keller"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en5_003",
+      "title": "Adjective Spotting Trick",
+      "content": "To find adjectives in a sentence, first find the noun. Then ask: What kind? How many? Which one? What colour? What size? The answer to any of these questions is an adjective. For example: 'The brave, little girl smiled.' Noun = girl. What kind of girl? Brave. What size? Little. So 'brave' and 'little' are both adjectives. Try this trick with sentences from the poem and story!",
+      "tags": ["study-tip", "adjectives", "grammar"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en5_004",
+      "title": "Vocabulary from the Unit",
+      "content": "Keep a list of important words from this unit and their meanings: courage (bravery), determined (strong-willed), blind (unable to see), deaf (unable to hear), communicate (share ideas), inspire (encourage someone to do great things), achievement (something accomplished through hard work), adjective (a describing word). Try to use at least three of these words in your own sentences every day!",
+      "tags": ["vocabulary", "practice", "word-list"],
+      "isPinned": false
+    }
+  ]
+}

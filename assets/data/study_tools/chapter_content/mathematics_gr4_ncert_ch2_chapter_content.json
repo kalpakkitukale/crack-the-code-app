@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_math_ncert_ch2",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn2",
+    "title": "Hide and Seek - Views, Grids, and Maps",
+    "content": "This chapter from the NCERT Maths Mela textbook develops spatial thinking skills. Students explore how the same object looks different from the top, front, and side. They learn to use grids with rows and columns to describe exact positions. The chapter also introduces simple map reading, including the four main directions (North, South, East, West) and the idea of a bird's-eye view. These skills help students understand space, direction, and position, which are important in everyday life - from reading maps to playing games to arranging objects in a room.",
+    "keyPoints": [
+      "The same object looks different from the top, front, and side",
+      "A grid uses rows and columns to describe exact positions (like B3)",
+      "Maps show places from a bird's-eye view (top view)",
+      "The four main directions are North, South, East, and West",
+      "Spatial reasoning means thinking about shapes and positions in your mind",
+      "These skills are used in daily life: reading maps, playing games, and navigation"
+    ],
+    "learningObjectives": [
+      "Identify the top view, front view, and side view of common objects",
+      "Read and describe positions on a grid using rows and columns",
+      "Read simple maps and identify the four main directions",
+      "Use spatial reasoning to imagine objects from different angles",
+      "Connect map reading and grid skills to real-life situations"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn2_001",
+      "title": "Views Practice Activity",
+      "content": "Pick 5 objects from your home (a glass, a book, a tiffin box, a ball, a pencil box). For each object, draw three pictures:\n\n1. How it looks from the TOP\n2. How it looks from the FRONT\n3. How it looks from the SIDE\n\nCompare your drawings. Notice that a ball looks the same from every direction (always a circle), but other objects look different from different sides. This is great practice for understanding views!",
+      "tags": ["activity", "hands-on-learning", "views"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn2_002",
+      "title": "Grid Game to Play with Friends",
+      "content": "Make a 5x5 grid on paper. Label columns A to E and rows 1 to 5. Place small objects (an eraser, a coin, a button) secretly on your grid. Take turns guessing positions like 'B3' or 'D1'. If your guess matches where your friend placed an object, you found it! This is just like the Battleship game and helps you practise grid positions.",
+      "tags": ["activity", "game", "grid-positions"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn2_003",
+      "title": "Direction Memory Trick",
+      "content": "To remember the four directions in clockwise order:\n\nNever Eat Soggy Waffles = North, East, South, West\n\nOn any map, North is usually at the top. Once you know North:\n- East is to the right\n- South is at the bottom\n- West is to the left\n\nTry this: draw a map of your bedroom showing your bed, desk, and door. Mark which direction is North. Then label East, South, and West.",
+      "tags": ["study-tip", "directions", "maps"],
+      "isPinned": false
+    }
+  ]
+}

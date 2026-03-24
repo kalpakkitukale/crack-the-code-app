@@ -1,0 +1,397 @@
+{
+  "assessmentId": "readiness_gr4_m2_t1",
+  "topicId": "gr4_m_2_1",
+  "topicName": "Addition of 4-5 Digit Numbers (Basic)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning addition of 4-5 digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "addition_3digit",
+      "conceptName": "Adding 3-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_add3_v1", "prereq_add3_v2"]
+    },
+    {
+      "conceptId": "place_value_alignment",
+      "conceptName": "Aligning numbers by place value for addition",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_align_v1"]
+    },
+    {
+      "conceptId": "addition_facts",
+      "conceptName": "Basic addition facts and mental math",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_facts_v1"]
+    },
+    {
+      "conceptId": "place_value_understanding",
+      "conceptName": "Understanding place value in large numbers",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_pv_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_3digit",
+
+      "question": "What is 234 + 152?",
+
+      "options": ["386", "376", "286", "486"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "386",
+
+      "explanation": "Add: 4 + 2 = 6 (ones), 3 + 5 = 8 (tens), 2 + 1 = 3 (hundreds) → 386.",
+
+      "tags": ["addition", "3-digit", "basic"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Made error in tens place",
+          "conceptGap": "Basic addition accuracy",
+          "remediation": "Review 3-digit addition step by step"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_3digit",
+
+      "question": "What is 500 + 300?",
+
+      "options": ["800", "700", "900", "600"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "800",
+
+      "explanation": "500 + 300 = 800. Add the hundreds: 5 + 3 = 8 hundreds.",
+
+      "tags": ["addition", "round numbers", "hundreds"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Subtracted instead of added",
+          "conceptGap": "Operation recognition",
+          "remediation": "Review addition vs subtraction"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "addition_3digit",
+
+      "question": "True or False: 111 + 222 = 333",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Add each place: 1+2=3 (ones), 1+2=3 (tens), 1+2=3 (hundreds) → 333.",
+
+      "tags": ["addition", "3-digit", "pattern"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Calculation error",
+          "conceptGap": "Addition accuracy",
+          "remediation": "Practice basic addition"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_alignment",
+
+      "question": "When adding 234 + 56, how should you write the numbers?",
+
+      "options": [
+        "234 written above 56, aligned on the right",
+        "234 written next to 56",
+        "234 written above 56, aligned on the left",
+        "It doesn't matter"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "234 written above 56, aligned on the right",
+
+      "explanation": "Align by place value from the right: ones under ones, tens under tens, etc. 234 over 56 aligned right ensures proper place value.",
+
+      "tags": ["alignment", "place value", "setup"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Aligned on left instead of right",
+          "conceptGap": "Place value alignment",
+          "remediation": "Review column addition setup"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_alignment",
+
+      "question": "In column addition, which place do you add first?",
+
+      "options": [
+        "Hundreds place",
+        "Tens place",
+        "Ones place",
+        "Thousands place"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Ones place",
+
+      "explanation": "Always start adding from the rightmost column (ones place), then move left to tens, hundreds, etc.",
+
+      "tags": ["column addition", "procedure", "order"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Started from the left",
+          "conceptGap": "Addition procedure",
+          "remediation": "Review right-to-left addition method"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "true_false",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_alignment",
+
+      "question": "True or False: When adding numbers, we must align digits according to their place values.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Ones must be under ones, tens under tens, etc. Proper alignment ensures correct addition.",
+
+      "tags": ["alignment", "place value", "rule"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't understand importance of alignment",
+          "conceptGap": "Place value in operations",
+          "remediation": "Practice setting up addition problems"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_facts",
+
+      "question": "What is 7 + 6?",
+
+      "options": ["12", "13", "14", "11"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "13",
+
+      "explanation": "7 + 6 = 13. This is a basic addition fact.",
+
+      "tags": ["addition facts", "mental math", "basic"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Calculation error",
+          "conceptGap": "Basic addition facts",
+          "remediation": "Review single-digit addition"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_facts",
+
+      "question": "What is 8 + 5?",
+
+      "options": ["12", "13", "14", "15"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "13",
+
+      "explanation": "8 + 5 = 13. Knowing addition facts helps with larger number addition.",
+
+      "tags": ["addition facts", "mental math"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Off by one",
+          "conceptGap": "Addition fact fluency",
+          "remediation": "Practice addition facts to 20"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_understanding",
+
+      "question": "In the number 3,456, what place is the 4 in?",
+
+      "options": ["Ones", "Tens", "Hundreds", "Thousands"],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Hundreds",
+
+      "explanation": "Reading from right: 6 is ones, 5 is tens, 4 is hundreds, 3 is thousands.",
+
+      "tags": ["place value", "4-digit", "identification"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Counted from wrong end",
+          "conceptGap": "Place value positions",
+          "remediation": "Review place value chart"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "place_value_understanding",
+
+      "question": "If you add 1,000 + 2,000, what is the result?",
+
+      "options": ["3,000", "30,000", "300", "3"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "3,000",
+
+      "explanation": "1,000 + 2,000 = 3,000. Add the thousands: 1 + 2 = 3 thousands.",
+
+      "tags": ["addition", "thousands", "place value"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Added extra zero",
+          "conceptGap": "Place value in addition",
+          "remediation": "Review adding by place value"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong addition skills with 3-digit numbers. You're ready to learn adding 4-5 digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand addition basics. Let's extend to 4-5 digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in 3-digit addition or place value alignment. Watch review videos before learning larger number addition.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review 3-digit addition and place value basics first. We'll build your foundation, then move to 4-5 digit addition.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you strengthen your addition skills.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn adding 4-5 digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

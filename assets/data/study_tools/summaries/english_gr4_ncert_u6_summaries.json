@@ -1,0 +1,46 @@
+{
+  "chapterId": "gr4_eng_ncert_u6",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en6_v1",
+      "videoId": "gr4_en6_v1",
+      "content": "This lesson introduces the poem 'Hiawatha' from the Marigold textbook. The poem is about a young Native American boy named Hiawatha who grew up in a forest with his old grandmother Nokomis. Hiawatha was very close to nature. He learned the names and secrets of all the birds - where they built their nests, where they hid in summer. He also learned about all the animals (beasts) in the forest and understood their ways. The poem beautifully shows the bond between a child and the natural world.",
+      "keyPoints": [
+        "Hiawatha is a young Native American boy raised by his grandmother Nokomis",
+        "He grew up in a deep forest surrounded by nature",
+        "He learned the names, language, and secrets of all birds",
+        "He learned about all the animals and where they lived",
+        "The poem celebrates the love between humans and nature"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en6_v2",
+      "videoId": "gr4_en6_v2",
+      "content": "This lesson covers the story 'The Scholar's Mother Tongue' from the Marigold textbook. Emperor Akbar once challenged his courtiers to find out the mother tongue of a very learned scholar (pandit) who could speak many languages perfectly. No one could figure it out because the scholar spoke every language as if it were his own. Birbal, the cleverest of Akbar's courtiers, came up with a plan. He went to the scholar's room at night while he was sleeping and gently tickled his ear. Startled from sleep, the scholar cried out in his mother tongue. This proved that no matter how many languages one learns, a person always returns to their first language when surprised.",
+      "keyPoints": [
+        "A scholar in Akbar's court could speak many languages fluently",
+        "Akbar challenged his courtiers to find the scholar's mother tongue",
+        "No courtier could figure it out as the scholar spoke every language perfectly",
+        "Birbal tickled the scholar's ear while he was asleep at night",
+        "The startled scholar cried out in his mother tongue, revealing the answer"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en6_v3",
+      "videoId": "gr4_en6_v3",
+      "content": "This lesson focuses on the grammar topic of pronouns covered in Unit 6. A pronoun is a word that replaces a noun in a sentence to avoid repetition. Subject pronouns (I, you, he, she, it, we, they) perform the action. Object pronouns (me, you, him, her, it, us, them) receive the action. Students learn to identify which noun a pronoun refers to and practise replacing nouns with the correct pronoun based on gender and number.",
+      "keyPoints": [
+        "A pronoun is a word used in place of a noun",
+        "Subject pronouns: I, you, he, she, it, we, they",
+        "Object pronouns: me, you, him, her, it, us, them",
+        "Pronouns must match the noun they replace in gender and number",
+        "Using pronouns makes sentences shorter and smoother"
+      ],
+      "source": "manual"
+    }
+  ]
+}

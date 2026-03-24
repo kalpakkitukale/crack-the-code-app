@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_sci_ch1",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_sc1_001",
+      "term": "Living Things",
+      "definition": "Things that can grow, breathe, eat, move, feel, and reproduce. Plants, animals, and humans are all living things.",
+      "pronunciation": "LIV-ing things",
+      "exampleUsage": "A mango tree, a parrot, and a fish are all living things because they grow and breathe.",
+      "difficulty": "easy",
+      "relatedTerms": ["growth", "reproduction", "breathing"]
+    },
+    {
+      "id": "gls_gr4_sc1_002",
+      "term": "Habitat",
+      "definition": "The natural home or environment where a plant or animal lives and finds food, water, and shelter.",
+      "pronunciation": "HAB-ih-tat",
+      "exampleUsage": "The Gir forest in Gujarat is the habitat of the Asiatic lion.",
+      "difficulty": "easy",
+      "relatedTerms": ["shelter", "adaptation", "environment"]
+    },
+    {
+      "id": "gls_gr4_sc1_003",
+      "term": "Photosynthesis",
+      "definition": "The process by which green plants use sunlight, water, and carbon dioxide to make their own food and release oxygen.",
+      "pronunciation": "FO-to-SIN-thuh-sis",
+      "exampleUsage": "Leaves look green because of a substance that helps in photosynthesis.",
+      "difficulty": "hard",
+      "relatedTerms": ["sunlight", "chlorophyll", "producer"]
+    },
+    {
+      "id": "gls_gr4_sc1_004",
+      "term": "Adaptation",
+      "definition": "A special body feature or behaviour that helps a living thing survive in its habitat.",
+      "pronunciation": "ad-ap-TAY-shun",
+      "exampleUsage": "A camel's wide feet are an adaptation that helps it walk on desert sand without sinking.",
+      "difficulty": "medium",
+      "relatedTerms": ["habitat", "survival", "feature"]
+    },
+    {
+      "id": "gls_gr4_sc1_005",
+      "term": "Herbivore",
+      "definition": "An animal that eats only plants and plant products for food.",
+      "pronunciation": "HER-bih-vor",
+      "exampleUsage": "A cow is a herbivore because it eats grass and other plants.",
+      "difficulty": "easy",
+      "relatedTerms": ["carnivore", "omnivore", "consumer"]
+    },
+    {
+      "id": "gls_gr4_sc1_006",
+      "term": "Carnivore",
+      "definition": "An animal that eats only other animals for food.",
+      "pronunciation": "KAR-nih-vor",
+      "exampleUsage": "A tiger is a carnivore because it hunts and eats deer and other animals.",
+      "difficulty": "easy",
+      "relatedTerms": ["herbivore", "omnivore", "predator"]
+    },
+    {
+      "id": "gls_gr4_sc1_007",
+      "term": "Reproduction",
+      "definition": "The process by which living things produce young ones or new living things of the same kind.",
+      "pronunciation": "ree-pro-DUK-shun",
+      "exampleUsage": "A hen reproduces by laying eggs that hatch into chicks.",
+      "difficulty": "medium",
+      "relatedTerms": ["offspring", "seeds", "eggs"]
+    },
+    {
+      "id": "gls_gr4_sc1_008",
+      "term": "Stomata",
+      "definition": "Tiny holes on the surface of leaves through which plants breathe, taking in carbon dioxide and releasing oxygen.",
+      "pronunciation": "STO-mah-tah",
+      "exampleUsage": "Stomata open and close to control how much air and water the plant exchanges.",
+      "difficulty": "hard",
+      "relatedTerms": ["leaves", "breathing", "photosynthesis"]
+    },
+    {
+      "id": "gls_gr4_sc1_009",
+      "term": "Gills",
+      "definition": "Special organs in fish and some water animals that help them breathe by taking oxygen from water.",
+      "pronunciation": "gilz",
+      "exampleUsage": "Fish use their gills to breathe underwater, just like we use our lungs to breathe air.",
+      "difficulty": "easy",
+      "relatedTerms": ["fish", "breathing", "aquatic"]
+    },
+    {
+      "id": "gls_gr4_sc1_010",
+      "term": "Shelter",
+      "definition": "A safe place where living things can hide from danger, rest, and protect their young ones.",
+      "pronunciation": "SHEL-ter",
+      "exampleUsage": "A bird's nest is a shelter where it keeps its eggs and baby birds safe.",
+      "difficulty": "easy",
+      "relatedTerms": ["habitat", "nest", "burrow"]
+    },
+    {
+      "id": "gls_gr4_sc1_011",
+      "term": "Omnivore",
+      "definition": "An animal that eats both plants and other animals for food.",
+      "pronunciation": "OM-nih-vor",
+      "exampleUsage": "A bear is an omnivore because it eats fish as well as berries and honey.",
+      "difficulty": "medium",
+      "relatedTerms": ["herbivore", "carnivore", "consumer"]
+    },
+    {
+      "id": "gls_gr4_sc1_012",
+      "term": "Camouflage",
+      "definition": "The ability of a living thing to blend in with its surroundings so that it is hard to see, helping it hide from predators or catch prey.",
+      "pronunciation": "KAM-oh-flahj",
+      "exampleUsage": "A chameleon uses camouflage by changing its colour to match the leaves and branches around it.",
+      "difficulty": "medium",
+      "relatedTerms": ["adaptation", "predator", "survival"]
+    }
+  ]
+}

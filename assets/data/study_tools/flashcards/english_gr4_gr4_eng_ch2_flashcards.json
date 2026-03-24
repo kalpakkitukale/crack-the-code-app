@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_eng_ch2",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_e2_action_verbs",
+      "name": "Action Verbs",
+      "description": "Learn about words that show actions people and things do",
+      "topicId": "gr4_e_2_1",
+      "chapterId": "gr4_eng_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_e2_001",
+          "front": "What is an action verb?",
+          "back": "An action verb is a word that tells what someone or something does. It shows action! Examples: run, jump, eat, write, sing.",
+          "hint": "Think about what you DO every day",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_e2_002",
+          "front": "Find the action verb: 'The dog runs in the park.'",
+          "back": "'Runs' is the action verb. It tells us what the dog is doing.",
+          "hint": "What is the dog doing?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_e2_003",
+          "front": "Can a sentence have more than one action verb?",
+          "back": "Yes! A sentence can have more than one action verb. Example: 'She sings and dances on stage.' Both 'sings' and 'dances' are action verbs.",
+          "hint": "Think of doing two things at once",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_e2_004",
+          "front": "What is the difference between a visible action and an invisible action?",
+          "back": "A visible action can be seen, like 'kick' or 'paint'. An invisible action happens in your mind, like 'think' or 'remember'. Both are action verbs!",
+          "hint": "Some actions happen inside your head",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_e2_005",
+          "front": "Pick the action verbs: 'The children laughed, clapped, and cheered.'",
+          "back": "All three words are action verbs! 'Laughed', 'clapped', and 'cheered' each tell us something the children did.",
+          "hint": "There are three actions happening",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_e2_present_tense",
+      "name": "Present Tense",
+      "description": "Learn how to talk about things that are happening now or happen regularly",
+      "topicId": "gr4_e_2_2",
+      "chapterId": "gr4_eng_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_e2_006",
+          "front": "What is the present tense?",
+          "back": "The present tense tells us about something that is happening right now or happens regularly. Example: 'I eat breakfast every day.' The verb 'eat' is in the present tense.",
+          "hint": "It is about NOW or every day",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_e2_007",
+          "front": "How do we change a verb for he, she, or it in present tense?",
+          "back": "We usually add -s or -es to the verb. 'I play' becomes 'She plays'. 'I wash' becomes 'He washes'. This is called subject-verb agreement.",
+          "hint": "Something gets added at the end",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_e2_008",
+          "front": "What is the present continuous tense?",
+          "back": "The present continuous tense shows an action happening right now at this moment. It uses 'is', 'am', or 'are' plus the verb with -ing. Example: 'She is reading a book.'",
+          "hint": "Look for -ing words",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_e2_009",
+          "front": "Fix the sentence: 'She play with her friends every day.'",
+          "back": "The correct sentence is: 'She plays with her friends every day.' When the subject is he, she, or it, we add -s to the verb in the present tense.",
+          "hint": "What happens to the verb with 'she'?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_e2_010",
+          "front": "What are signal words for the present tense?",
+          "back": "Signal words that tell us to use present tense include: always, usually, every day, sometimes, never, often, right now, and today.",
+          "hint": "Words that tell us about time and how often",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

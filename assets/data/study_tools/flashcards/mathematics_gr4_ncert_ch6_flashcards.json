@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ncert_ch6",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn6_units",
+      "name": "Units of Length",
+      "description": "Learn about centimetres, metres, and kilometres — the units we use to measure length",
+      "topicId": "gr4_mn_6_1",
+      "chapterId": "gr4_math_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_mn6_001",
+          "front": "What are the three main units used to measure length?",
+          "back": "Centimetre (cm), Metre (m), and Kilometre (km).\n\n- cm is for small things (pencil, eraser)\n- m is for medium things (room, tree)\n- km is for long distances (city to city)",
+          "hint": "Think small, medium, and large distances",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn6_002",
+          "front": "How many centimetres are in 1 metre?",
+          "back": "1 metre = 100 centimetres.\n\nA metre scale has 100 small divisions, and each division is 1 centimetre.",
+          "hint": "Think about the markings on a ruler or measuring tape",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn6_003",
+          "front": "How many metres are in 1 kilometre?",
+          "back": "1 kilometre = 1000 metres.\n\nA kilometre is used to measure long distances like the distance between two towns.",
+          "hint": "Kilo means thousand!",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn6_004",
+          "front": "What unit would you use to measure the length of your textbook?",
+          "back": "Centimetres (cm).\n\nA textbook is about 25 cm to 30 cm long. Centimetres are perfect for measuring small objects you can hold in your hand.",
+          "hint": "Is a textbook small, medium, or very large?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn6_005",
+          "front": "What unit would you use to measure the distance from Delhi to Jaipur?",
+          "back": "Kilometres (km).\n\nDelhi to Jaipur is about 280 km. Kilometres are used for distances between cities and towns.",
+          "hint": "Is this a short distance or a very long distance?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn6_conversion",
+      "name": "Converting Units of Length",
+      "description": "Learn how to change between cm, m, and km",
+      "topicId": "gr4_mn_6_2",
+      "chapterId": "gr4_math_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_mn6_006",
+          "front": "How do you convert metres to centimetres?",
+          "back": "Multiply by 100!\n\n3 m = 3 x 100 = 300 cm\n5 m = 5 x 100 = 500 cm\n\nSince 1 m = 100 cm, just multiply the metres by 100.",
+          "hint": "To go from a bigger unit to a smaller unit, multiply",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn6_007",
+          "front": "How do you convert centimetres to metres?",
+          "back": "Divide by 100!\n\n200 cm = 200 ÷ 100 = 2 m\n450 cm = 4 m 50 cm\n\nSince 100 cm = 1 m, divide the centimetres by 100.",
+          "hint": "To go from a smaller unit to a bigger unit, divide",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn6_008",
+          "front": "How do you convert kilometres to metres?",
+          "back": "Multiply by 1000!\n\n2 km = 2 x 1000 = 2000 m\n5 km = 5 x 1000 = 5000 m\n\nSince 1 km = 1000 m, just multiply the kilometres by 1000.",
+          "hint": "Kilo means thousand, so multiply by 1000",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn6_009",
+          "front": "What is 3 m 25 cm in centimetres only?",
+          "back": "3 m 25 cm = 325 cm.\n\nFirst convert 3 m to cm: 3 x 100 = 300 cm.\nThen add the extra 25 cm: 300 + 25 = 325 cm.",
+          "hint": "Convert the metres to cm first, then add the remaining cm",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn6_010",
+          "front": "What is 2 km 500 m in metres only?",
+          "back": "2 km 500 m = 2500 m.\n\nFirst convert 2 km to m: 2 x 1000 = 2000 m.\nThen add the extra 500 m: 2000 + 500 = 2500 m.",
+          "hint": "Convert km to m first, then add the remaining metres",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn6_estimation",
+      "name": "Estimating and Measuring Length",
+      "description": "Learn to estimate lengths and solve word problems about measurement",
+      "topicId": "gr4_mn_6_3",
+      "chapterId": "gr4_math_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_mn6_011",
+          "front": "What does it mean to estimate a length?",
+          "back": "Estimating means making a good guess about how long something is without actually measuring it.\n\nYou use what you already know. For example, if your hand span is about 15 cm, you can use it to estimate the length of your desk.",
+          "hint": "Think of estimation as a smart guess",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn6_012",
+          "front": "What tools do we use to measure length?",
+          "back": "Common tools include:\n- Ruler or scale (for small lengths in cm)\n- Measuring tape (for medium lengths in cm and m)\n- Metre stick (for lengths in metres)\n- Odometer in a car (for distances in km)",
+          "hint": "Different tools for different sizes of length",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn6_013",
+          "front": "About how long is 1 metre in real life?",
+          "back": "1 metre is roughly the length from the floor to a door handle, or the distance from your fingertip to your opposite shoulder when you stretch your arm out.\n\nA cricket bat is also about 1 metre long!",
+          "hint": "Think of something you see every day that is about this long",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn6_014",
+          "front": "Rahul's school is 2 km 300 m from his house. Priya's school is 1 km 800 m from her house. Who travels farther?",
+          "back": "Rahul travels farther!\n\nRahul: 2 km 300 m = 2300 m\nPriya: 1 km 800 m = 1800 m\n\n2300 m > 1800 m, so Rahul travels 500 m more than Priya.",
+          "hint": "Convert both distances to metres to compare easily",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn6_015",
+          "front": "A ribbon is 5 m 40 cm long. If 2 m 60 cm is cut off, how much is left?",
+          "back": "5 m 40 cm - 2 m 60 cm:\nConvert: 540 cm - 260 cm = 280 cm = 2 m 80 cm.\n\nThe remaining ribbon is 2 m 80 cm long.",
+          "hint": "Convert everything to centimetres, subtract, then convert back",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

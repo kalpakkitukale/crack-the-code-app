@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ncert_ch20",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_evn20_food_traditions",
+      "name": "Food Traditions",
+      "description": "Learn about meals, food traditions, and eating together in different communities",
+      "topicId": "gr4_evn_20_1",
+      "chapterId": "gr4_evs_ncert_ch20",
+      "cards": [
+        {
+          "id": "fc_gr4_evn20_001",
+          "front": "Why do families eat meals together?",
+          "back": "Families eat together because it is a time to share food, talk about the day, and enjoy each other's company. Eating together makes the family bond stronger. In many Indian homes, the whole family sits together for dinner and shares stories while eating.",
+          "hint": "Think about what happens at your dinner table",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_gr4_evn20_002",
+          "front": "How is food different in different parts of India?",
+          "back": "India is a big country and every region has its own special food. People in South India eat more rice, idli, and dosa. People in North India eat more roti, dal, and paneer. Coastal areas eat more fish and seafood. Rajasthan has dal-baati-churma. Bengal is famous for sweets like rasgulla. The food depends on what grows in that area and the local traditions.",
+          "hint": "Think about food from different states",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_gr4_evn20_003",
+          "front": "What are some special foods made during festivals in India?",
+          "back": "Every festival has its own special food! During Diwali, families make sweets like laddoo and barfi. During Eid, people prepare sewaiyan (vermicelli pudding) and biryani. Pongal festival has the special Pongal dish made with rice and jaggery. Onam has a grand feast called Onam Sadhya with many dishes served on a banana leaf.",
+          "hint": "Think of sweets and special dishes during celebrations",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_gr4_evn20_004",
+          "front": "What is a community meal and why is it important?",
+          "back": "A community meal is when many people from a neighbourhood or village sit together and eat the same food. In India, langars at gurudwaras serve free food to everyone. Community meals during weddings and festivals bring people together. They teach us that food is for sharing and everyone deserves to eat well, no matter who they are.",
+          "hint": "Many people eating together in one place",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_gr4_evn20_005",
+          "front": "Why do different families follow different food rules?",
+          "back": "Food rules depend on religion, culture, health, and family tradition. Some families are vegetarian and do not eat meat or eggs. Some families do not eat certain foods on specific days, like no onion-garlic during some festivals. Some people cannot eat certain foods due to allergies. We should respect everyone's food choices because food is deeply connected to culture and belief.",
+          "hint": "Religion, culture, and health all play a role",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "chapterId": "gr4_eng_ncert_u2",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_noses_poem",
+      "name": "Noses (Poem)",
+      "description": "Learn about the fun poem that celebrates different kinds of noses",
+      "cards": [
+        {
+          "id": "fc_nose_001",
+          "front": "What is the poem 'Noses' about?",
+          "back": "The poem 'Noses' is about the many different types of noses that people and animals have. It celebrates how every nose is unique and special in its own way.",
+          "hints": ["Think about the title of the poem"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_nose_002",
+          "front": "According to the poem, what are some shapes noses can be?",
+          "back": "Noses can be long, short, turned-up, flat, pointed, snub, or big. The poem tells us noses come in all shapes and sizes!",
+          "hints": ["Think about how noses look different"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_nose_003",
+          "front": "Why does the poet say noses are important?",
+          "back": "The poet says noses are important because they sit right in the middle of our face and help us smell things. Everyone needs a nose!",
+          "hints": ["Where is a nose on your face?"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_nose_004",
+          "front": "What is the main message of the poem 'Noses'?",
+          "back": "The main message is that all noses are wonderful, no matter what shape or size they are. We should appreciate our own nose and not wish for someone else's.",
+          "hints": ["Think about accepting differences"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_nose_005",
+          "front": "What does 'snub nose' mean in the poem?",
+          "back": "A 'snub nose' is a short, slightly flat nose that turns up a little at the tip. It is one of the many types of noses the poet describes.",
+          "hints": ["It is a type of short nose"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_fir_tree",
+      "name": "The Little Fir Tree (Story)",
+      "description": "Learn about the story of the fir tree that wished for different leaves",
+      "cards": [
+        {
+          "id": "fc_fir_001",
+          "front": "Why was the little fir tree unhappy?",
+          "back": "The little fir tree was unhappy because it had needle-like leaves instead of broad, pretty leaves like other trees. It wished it had different leaves.",
+          "hints": ["Think about its leaves"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fir_002",
+          "front": "What was the fir tree's first wish and what happened?",
+          "back": "The fir tree first wished for leaves of gold. It got golden leaves, but a man came and stole all the gold leaves, leaving the tree bare.",
+          "hints": ["Something shiny and valuable"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fir_003",
+          "front": "What was the fir tree's second wish and what happened?",
+          "back": "The fir tree then wished for glass leaves. It got beautiful glass leaves, but a strong wind came and broke all the glass leaves into pieces.",
+          "hints": ["Something see-through and fragile"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fir_004",
+          "front": "What was the fir tree's third wish and what happened?",
+          "back": "The fir tree wished for broad green leaves like other trees. It got them, but a goat came along and ate up all the green leaves.",
+          "hints": ["An animal that eats leaves"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fir_005",
+          "front": "What did the fir tree learn at the end of the story?",
+          "back": "The fir tree learned that its own needle-like leaves were the best for it. No one could steal them, break them, or eat them. The story teaches us to be happy with what we have.",
+          "hints": ["It wanted its own leaves back"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_nouns_grammar",
+      "name": "Grammar: Nouns",
+      "description": "Learn about naming words from the grammar section of Unit 2",
+      "cards": [
+        {
+          "id": "fc_noun_001",
+          "front": "What is a noun?",
+          "back": "A noun is a naming word. It is the name of a person, place, animal, or thing. Examples: tree, nose, man, goat, forest, gold.",
+          "hints": ["It names something"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_noun_002",
+          "front": "Find the nouns: 'The little fir tree stood in the forest.'",
+          "back": "'Tree' and 'forest' are the nouns. 'Tree' names a thing and 'forest' names a place.",
+          "hints": ["Look for naming words"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_noun_003",
+          "front": "What is the difference between a common noun and a proper noun?",
+          "back": "A common noun is a general name like 'tree', 'boy', or 'city'. A proper noun is a specific name like 'India', 'Riya', or 'Ganga'. Proper nouns always start with a capital letter.",
+          "hints": ["One is general, one is specific"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_noun_004",
+          "front": "List all the nouns in: 'A goat ate the green leaves of the tree.'",
+          "back": "The nouns are 'goat', 'leaves', and 'tree'. 'Goat' names an animal, 'leaves' and 'tree' name things.",
+          "hints": ["There are three naming words"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_noun_005",
+          "front": "Can you give examples of nouns from the poem 'Noses'?",
+          "back": "Nouns from the poem include: nose, face, people, animals, tip, shape. All of these are naming words for people, body parts, or things.",
+          "hints": ["Think of naming words in the poem"],
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "chapterId": "gr4_eng_ncert_u3",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_run_poem",
+      "name": "Run! (Poem)",
+      "description": "Learn about the poem that celebrates running and outdoor play",
+      "cards": [
+        {
+          "id": "fc_run_001",
+          "front": "What is the poem 'Run!' about?",
+          "back": "The poem 'Run!' is about the joy of running outdoors. It encourages children to run, jump, and play in the open air for fun and good health.",
+          "hints": ["It is about a fun physical activity"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_run_002",
+          "front": "What does the poem tell children to do?",
+          "back": "The poem tells children to run in the sun, feel the breeze, and enjoy being active outdoors. It celebrates freedom and movement.",
+          "hints": ["Think about outdoor activities"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_run_003",
+          "front": "Why is running good for us according to the poem?",
+          "back": "Running keeps our body strong and healthy. It fills us with energy, makes us happy, and helps us enjoy nature around us.",
+          "hints": ["Think about health and happiness"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_run_004",
+          "front": "What mood does the poem 'Run!' create?",
+          "back": "The poem creates a happy, energetic, and joyful mood. The short, lively lines make you feel like getting up and running!",
+          "hints": ["It is a cheerful poem"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_run_005",
+          "front": "What rhyming words can you find in the poem 'Run!'?",
+          "back": "The poem uses rhyming words like run/sun and fun/done. Rhyming makes the poem musical and easy to remember.",
+          "hints": ["Words that sound alike at the end"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_nasruddin",
+      "name": "Nasruddin's Aim (Story)",
+      "description": "Explore the funny story of Nasruddin and his boasting about archery",
+      "cards": [
+        {
+          "id": "fc_nas_001",
+          "front": "Who is Nasruddin?",
+          "back": "Nasruddin (also called Mulla Nasruddin) is a funny character from folk tales. He is known for his clever and humorous stories that teach us lessons in a fun way.",
+          "hints": ["A famous humorous character from folk tales"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_nas_002",
+          "front": "What did Nasruddin boast about?",
+          "back": "Nasruddin boasted that he was the best archer and that his aim was perfect. He told people he could hit any target.",
+          "hints": ["He bragged about a skill"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_nas_003",
+          "front": "What happened when Nasruddin tried to show his archery skills?",
+          "back": "When Nasruddin shot his arrows, he missed the target badly. His first arrow went far to the left and the second went far to the right.",
+          "hints": ["His arrows did not hit the mark"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_nas_004",
+          "front": "How did Nasruddin explain his missed shots?",
+          "back": "Nasruddin cleverly explained his missed shots by saying the first arrow was how the general shoots, the second was how the king shoots, and only the third one (which hit the target) was how Nasruddin shoots!",
+          "hints": ["He compared his shots to other people"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_nas_005",
+          "front": "What lesson does 'Nasruddin's Aim' teach us?",
+          "back": "The story teaches us not to boast or brag about our abilities. It also shows us how people sometimes make excuses when they fail, instead of admitting their mistakes.",
+          "hints": ["About bragging and making excuses"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_verbs",
+      "name": "Grammar: Verbs",
+      "description": "Learn about action words and how to use them in sentences",
+      "cards": [
+        {
+          "id": "fc_vb_001",
+          "front": "What is a verb?",
+          "back": "A verb is an action word. It tells us what someone or something does. Examples: run, jump, eat, sleep, read, write, play.",
+          "hints": ["It shows doing something"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_vb_002",
+          "front": "Find the verb: 'The boy runs fast.'",
+          "back": "'Runs' is the verb. It tells us what the boy does - the action of running.",
+          "hints": ["What is the boy doing?"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_vb_003",
+          "front": "Can a sentence exist without a verb?",
+          "back": "No! Every complete sentence needs at least one verb. The verb is the most important word because it tells what is happening.",
+          "hints": ["Every sentence needs one"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_vb_004",
+          "front": "What is the difference between 'run', 'runs', and 'running'?",
+          "back": "'Run' is the base form (I run). 'Runs' is used with he/she/it (She runs). 'Running' shows the action is happening right now (He is running).",
+          "hints": ["Different forms of the same verb"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_vb_005",
+          "front": "Name five verbs from the poem 'Run!' and the story.",
+          "back": "Run, jump, shoot, miss, hit, aim, boast, laugh, play, walk. All these words show actions that someone does.",
+          "hints": ["Think of action words from the chapter"],
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ]
+}

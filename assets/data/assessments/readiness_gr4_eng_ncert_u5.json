@@ -1,0 +1,134 @@
+{
+  "assessment": {
+    "id": "readiness_gr4_eng_ncert_u5",
+    "type": "readiness",
+    "entityId": "gr4_eng_ncert_u5",
+    "title": "Helen Keller Unit - Readiness Assessment",
+    "description": "Check if you're ready to learn about Helen Keller and adjectives!",
+    "prerequisiteConcepts": [
+      "Basic sentence structure",
+      "Understanding nouns",
+      "Reading comprehension",
+      "Basic vocabulary"
+    ],
+    "passingScore": 0.60,
+    "questionIds": ["ra_eu5_001", "ra_eu5_002", "ra_eu5_003", "ra_eu5_004", "ra_eu5_005", "ra_eu5_006", "ra_eu5_007", "ra_eu5_008"],
+    "config": {
+      "allowReview": true,
+      "showScoreBreakdown": true,
+      "recommendationsEnabled": true
+    }
+  },
+  "questions": [
+    {
+      "id": "ra_eu5_001",
+      "questionText": "What is a noun?",
+      "questionType": "mcq",
+      "options": ["An action word", "A naming word", "A describing word", "A joining word"],
+      "correctAnswer": "B",
+      "explanation": "A noun is a naming word - it names people, places, things, or animals.",
+      "conceptTested": "Parts of speech - nouns",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_eu5_002",
+      "questionText": "Which of these is a noun?",
+      "questionType": "mcq",
+      "options": ["Run", "Beautiful", "Book", "Quickly"],
+      "correctAnswer": "C",
+      "explanation": "'Book' is a noun (a thing). Run is a verb, beautiful is an adjective, quickly is an adverb.",
+      "conceptTested": "Identifying nouns",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_eu5_003",
+      "questionText": "True or False: We use our ears to hear sounds.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Ears are the organs we use for hearing sounds.",
+      "conceptTested": "Basic body knowledge",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_eu5_004",
+      "questionText": "What does 'brave' mean?",
+      "questionType": "mcq",
+      "options": ["Scared", "Not afraid, courageous", "Angry", "Sad"],
+      "correctAnswer": "B",
+      "explanation": "Brave means not afraid, having courage to face difficulties.",
+      "conceptTested": "Vocabulary",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_eu5_005",
+      "questionText": "Which sense do we use to see?",
+      "questionType": "mcq",
+      "options": ["Hearing", "Smell", "Sight", "Touch"],
+      "correctAnswer": "C",
+      "explanation": "We use the sense of sight (our eyes) to see.",
+      "conceptTested": "Five senses",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_eu5_006",
+      "questionText": "What is the opposite of 'dark'?",
+      "questionType": "mcq",
+      "options": ["Night", "Light", "Black", "Shadow"],
+      "correctAnswer": "B",
+      "explanation": "Light is the opposite of dark. When there is light, there is no darkness.",
+      "conceptTested": "Opposites/antonyms",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_eu5_007",
+      "questionText": "A word that describes something is called a/an:",
+      "questionType": "mcq",
+      "options": ["Noun", "Verb", "Adjective", "Article"],
+      "correctAnswer": "C",
+      "explanation": "An adjective is a describing word. It describes nouns.",
+      "conceptTested": "Introduction to adjectives",
+      "difficulty": "intermediate",
+      "points": 2
+    },
+    {
+      "id": "ra_eu5_008",
+      "questionText": "True or False: Everyone can see and hear.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "B",
+      "explanation": "False. Some people are blind (cannot see) or deaf (cannot hear). This doesn't stop them from achieving great things!",
+      "conceptTested": "Understanding differences",
+      "difficulty": "basic",
+      "points": 1
+    }
+  ],
+  "scoringRubric": {
+    "excellent": {
+      "minScore": 0.90,
+      "message": "Excellent! You have strong English basics. You're ready to learn about Helen Keller and adjectives!",
+      "recommendation": "proceed"
+    },
+    "good": {
+      "minScore": 0.70,
+      "message": "Good job! You have good understanding of basics. Let's learn about Helen Keller!",
+      "recommendation": "proceed"
+    },
+    "needsReview": {
+      "minScore": 0.50,
+      "message": "You know some basics. Let's quickly review nouns before learning about adjectives.",
+      "recommendation": "review_basics"
+    },
+    "needsPrep": {
+      "minScore": 0,
+      "message": "Let's strengthen your understanding of nouns first. Then adjectives will be easier to learn!",
+      "recommendation": "foundational_content"
+    }
+  }
+}

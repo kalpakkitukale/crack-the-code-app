@@ -1,0 +1,449 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch2",
+  "topicId": "gr4_mn_2_1",
+  "topicName": "Hide and Seek - Views, Grids, and Maps",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for spatial reasoning: views of objects, grid positions, map reading, and spatial puzzles",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent spatial awareness and direction sense, can fast-track to views and grids with challenges",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2232,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn2_v1",
+          "reason": "Introduction to top, side, and front views of objects",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v2",
+          "reason": "Different views of 3D shapes with examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v3",
+          "reason": "Positions on a grid using rows and columns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v4",
+          "reason": "Reading simple maps and understanding symbols",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v5",
+          "reason": "Spatial reasoning puzzles for challenge",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn2_v6",
+          "reason": "Grid game and drone view exploration",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of views, grids, and maps",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 2,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2232,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn2_v1",
+          "reason": "Learn top, side, and front views of everyday objects",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v2",
+          "reason": "Explore views of 3D shapes in detail",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v3",
+          "reason": "Learn grid positions with rows and columns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v6",
+          "reason": "Grid game and bird's eye view practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v4",
+          "reason": "Reading simple maps and symbols",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v5",
+          "reason": "Spatial reasoning puzzles practice",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in directions or shapes, needs targeted review before main content",
+      "playlistComposition": {
+        "prerequisiteVideos": 2,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2700,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "basic_directions_weak": {
+            "addVideos": ["prereq_ch2_directions_v1"],
+            "priority": "high"
+          },
+          "position_words_weak": {
+            "addVideos": ["prereq_ch2_positions_v1"],
+            "priority": "high"
+          },
+          "shape_recognition_weak": {
+            "addVideos": ["prereq_ch2_shapes_v1"],
+            "priority": "medium"
+          },
+          "spatial_awareness_weak": {
+            "addVideos": ["prereq_ch2_shapes_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch2_directions_v1",
+          "reason": "Review: Left, right, and basic directions",
+          "skippable": false,
+          "condition": "if basic_directions concept is weak"
+        },
+        {
+          "videoId": "prereq_ch2_positions_v1",
+          "reason": "Review: Above, below, beside, between",
+          "skippable": false,
+          "condition": "if position_words concept is weak"
+        },
+        {
+          "videoId": "gr4_mn2_v1",
+          "reason": "Start main topic: Top, side, and front views",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v2",
+          "reason": "Views of 3D shapes with examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v3",
+          "reason": "Positions on a grid",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v4",
+          "reason": "Reading simple maps",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v5",
+          "reason": "Spatial reasoning puzzles",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in directions, positions, and shapes before attempting views and grids",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1620,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch2_directions_v1",
+          "reason": "Foundation: Learn left, right, and directions with a song",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch2_positions_v1",
+          "reason": "Essential: Learn above, below, beside, between",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch2_shapes_v1",
+          "reason": "Critical: Recognize 3D shapes from different angles",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v1",
+          "reason": "Gentle intro to top, side, and front views",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn2_v3",
+          "reason": "Begin main content: Grid positions basics",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these review videos, try the readiness quiz again to check if you are ready to continue with views, grids, and maps."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "basic_directions": {
+        "conceptName": "Understanding left, right, above, below",
+        "importance": "critical",
+        "videoIds": ["prereq_ch2_directions_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq2_1", "rq2_2", "rq2_3"]
+      },
+      "position_words": {
+        "conceptName": "Using position words (beside, between, in front of, behind)",
+        "importance": "critical",
+        "videoIds": ["prereq_ch2_positions_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq2_4", "rq2_5"]
+      },
+      "shape_recognition": {
+        "conceptName": "Recognizing basic 2D and 3D shapes",
+        "importance": "important",
+        "videoIds": ["prereq_ch2_shapes_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq2_6", "rq2_7", "rq2_8"]
+      },
+      "spatial_awareness": {
+        "conceptName": "Basic spatial awareness and observation",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch2_shapes_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq2_9", "rq2_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn2_v2",
+        "checkpointName": "Views of Objects Check",
+        "questions": [
+          {
+            "question": "If you look at a cone from the top, what shape do you see?",
+            "options": ["Triangle", "Circle", "Rectangle", "Square"],
+            "correctAnswer": 1,
+            "explanation": "A cone viewed from the top looks like a circle because the top of a cone is its circular base."
+          },
+          {
+            "question": "A dice (cube) looks the same from the front, side, and top. What shape do you see each time?",
+            "options": ["Circle", "Triangle", "Square", "Rectangle"],
+            "correctAnswer": 2,
+            "explanation": "A cube looks like a square from every direction because all its faces are squares."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Great job! You understand views of objects really well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch2_shapes_v1",
+          "reason": "Student struggling with understanding different views of shapes"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn2_v3",
+        "checkpointName": "Grid Positions Check",
+        "questions": [
+          {
+            "question": "On a grid, to find a position at Row 2 and Column 3, you go:",
+            "options": [
+              "2 steps right and 3 steps down",
+              "2 steps down and 3 steps right",
+              "5 steps right",
+              "2 steps left and 3 steps up"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Row 2 means go down to the second row, and Column 3 means go across to the third column."
+          }
+        ],
+        "ifCorrect": {
+          "action": "continue_normally",
+          "message": "Well done! You understand grid positions."
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice finding positions on a grid before continuing to maps"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip to spatial reasoning puzzles for extra challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on directions and shapes"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend looking at real objects from different angles and drawing what you see"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know directions and shapes very well. You are ready to discover how objects look from different views and play grid games. We have created a fast-track playlist with some fun challenges!"
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand positions and shapes nicely. Let's explore views, grids, and maps with complete coverage of all topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in directions or shape knowledge. Don't worry! We will start with targeted review videos on the concepts you need, then move on to views and grids."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review directions, position words, and shapes first. We have created a playlist with fun videos to build a strong foundation. After watching, you can retake the quiz and then learn about views and maps."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how spatial concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Left/Right directions", "Above/Below", "Basic position words"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["3D shape recognition", "Shapes look different from different sides"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Top view", "Side view", "Front view of objects"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Grid positions", "Rows and columns", "Finding objects on a grid"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Reading simple maps", "Map symbols", "Following directions on maps"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 6,
+        "concepts": ["Spatial reasoning puzzles", "Mental rotation", "Perspective taking"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "viewIdentification": {
+      "target": 90,
+      "description": "% of students who can correctly identify top, side, and front views of common objects"
+    },
+    "gridNavigation": {
+      "target": 85,
+      "description": "% of students who can locate positions on a grid using rows and columns"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (15 min) + retake + main content (25 min) = 45-55 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing top view with front view",
+      "solution1": "Use real objects like cups and books. Hold them above your head to see top view, hold in front to see front view",
+      "challenge2": "Students struggling with grid row/column coordinates",
+      "solution2": "Start with simple 3x3 grids and use color-coded rows and columns",
+      "challenge3": "Students finding map symbols abstract",
+      "solution3": "Start with maps of familiar places (classroom, school) before abstract maps"
+    }
+  }
+}

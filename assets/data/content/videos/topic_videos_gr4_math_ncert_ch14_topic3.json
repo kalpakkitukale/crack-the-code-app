@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn14_t3",
+  "topicId": "gr4_mn_14_3",
+  "topicName": "Pictographs",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_14_1", "gr4_mn_14_2"],
+    "followUpTopics": ["gr4_mn_14_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn14_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Pictographs for Kids | Reading and Making Picture Graphs",
+      "description": "Learn what a pictograph is and how to read one! Each picture stands for a number. Find out how many apples, toys, or pets using pictographs.",
+      "youtubeId": "Gn2pdkvdbGQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gn2pdkvdbGQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/Gn2pdkvdbGQ/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2200000,
+      "tags": ["pictograph", "picture graph", "data representation", "reading graphs", "symbols"],
+      "learningObjectives": ["Understand what a pictograph is", "Read data from a pictograph", "Understand the key/legend in a pictograph"],
+      "keyConceptsCovered": ["What is a pictograph", "Picture symbols and their values", "Reading the key/legend"],
+      "prerequisites": ["Counting", "Tally marks basics"],
+      "followUpTopics": ["Making pictographs", "Pictographs with scale"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Tally Marks | How to Count Using Tally Marks",
+      "description": "Review tally marks and see how tally chart data is converted into pictographs. This builds the bridge from tally charts to picture graphs.",
+      "youtubeId": "YBbUKx0x5fU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YBbUKx0x5fU",
+      "thumbnailUrl": "https://img.youtube.com/vi/YBbUKx0x5fU/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["tally to pictograph", "data conversion", "tally marks", "picture graph"],
+      "learningObjectives": ["Convert tally chart data to pictograph format", "Choose appropriate symbols for data", "Understand how tally counts become picture rows"],
+      "keyConceptsCovered": ["Tally to pictograph conversion", "Choosing symbols", "Matching counts to pictures"],
+      "prerequisites": ["Tally marks"],
+      "followUpTopics": ["Reading pictographs with scales"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch14_comparison_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "More, Less, Most, Least | Comparison Words for Kids",
+      "description": "Use comparison words to describe pictograph data. Which category has the most? Which has the least? How many more does one have than another?",
+      "youtubeId": "DnEqMEoGz50",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DnEqMEoGz50",
+      "thumbnailUrl": "https://img.youtube.com/vi/DnEqMEoGz50/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 980000,
+      "tags": ["comparison", "pictograph interpretation", "more", "less", "most", "least"],
+      "learningObjectives": ["Compare data shown in pictographs", "Use comparison vocabulary with graph data", "Answer questions about pictograph data"],
+      "keyConceptsCovered": ["Comparing pictograph categories", "Finding most and least", "Describing differences in data"],
+      "prerequisites": ["Reading pictographs"],
+      "followUpTopics": ["Bar graphs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v6",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Reading and Interpreting Data | Answering Questions from Graphs",
+      "description": "Practice reading pictographs and answering questions. How many more children like mango than banana? Which fruit is the most popular? Find out from the pictograph!",
+      "youtubeId": "R7dPHFmIxCE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R7dPHFmIxCE",
+      "thumbnailUrl": "https://img.youtube.com/vi/R7dPHFmIxCE/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["pictograph practice", "interpreting data", "graph questions", "data analysis"],
+      "learningObjectives": ["Answer questions from pictographs", "Calculate totals and differences from pictographs", "Draw conclusions from pictograph data"],
+      "keyConceptsCovered": ["Pictograph question types", "Finding totals from pictographs", "Comparing categories in pictographs"],
+      "prerequisites": ["Reading pictographs", "Comparison vocabulary"],
+      "followUpTopics": ["Bar graphs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn14_v3", "prereq_ch14_comparison_v1", "gr4_mn14_v6"],
+      "totalVideos": 3,
+      "estimatedTime": 1380,
+      "estimatedTimeDisplay": "23:00",
+      "rationale": "Pictograph reading and interpretation for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn14_v3", "gr4_mn14_v2", "prereq_ch14_comparison_v1", "gr4_mn14_v6"],
+      "totalVideos": 4,
+      "estimatedTime": 1740,
+      "estimatedTimeDisplay": "29:00",
+      "rationale": "Complete coverage of pictographs with tally connection"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn14_v2", "gr4_mn14_v3", "prereq_ch14_comparison_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1200,
+      "estimatedTimeDisplay": "20:00",
+      "rationale": "Review tally marks, then learn pictographs with comparison"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn14_v3", "gr4_mn14_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 840,
+      "estimatedTimeDisplay": "14:00",
+      "rationale": "Essential pictograph concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn14_v3",
+      "checkpointName": "Pictograph Reading Check",
+      "questions": [
+        {
+          "question": "In a pictograph, the key says each smiley face = 2 children. If there are 4 smiley faces next to 'Cricket', how many children like cricket?",
+          "options": ["4", "6", "8", "2"],
+          "correctAnswer": 2,
+          "explanation": "Each smiley face = 2 children. So 4 smiley faces = 4 x 2 = 8 children like cricket."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use real class data to create pictographs on the board. Start with a key of 1 picture = 1 item, then progress to 1 picture = 2 items. Let students choose fun symbols.",
+    "parentGuidance": "Help your child make a pictograph at home. Draw smiley faces or stars to show how many of each type of fruit you have at home.",
+    "studentGuidance": "Pictographs use pictures instead of numbers. Each picture stands for a certain number. Always check the key to know what each picture means!"
+  }
+}

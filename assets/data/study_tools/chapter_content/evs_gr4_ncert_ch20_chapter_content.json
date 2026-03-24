@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch20",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn20",
+    "title": "Eating Together",
+    "content": "This chapter from the NCERT Looking Around textbook explores the importance of food and meals in Indian culture. Students learn why families eat together and how mealtimes strengthen family bonds. The chapter takes a journey across India to discover how food varies from region to region based on climate, local crops, and cultural traditions. Students explore the special foods prepared during festivals like Diwali, Eid, Pongal, and Onam. The chapter also introduces community meals like the langar at gurudwaras where everyone is welcome to eat for free. Children learn about Indian hospitality, the importance of not wasting food, and respecting different food choices and traditions.",
+    "keyPoints": [
+      "Eating together as a family strengthens bonds and builds good food habits",
+      "Food in India varies by region based on climate, crops, and culture",
+      "Every Indian festival has its own special foods and sweets",
+      "Community meals like langar teach equality and the joy of sharing",
+      "Indian hospitality tradition says guests should always be offered food",
+      "We should not waste food and should respect different food choices"
+    ],
+    "learningObjectives": [
+      "Explain why eating together is important for families",
+      "Describe how food differs across different regions of India",
+      "Name special foods associated with major Indian festivals",
+      "Understand the concept of community meals and their significance",
+      "Appreciate India's diverse food traditions and respect food choices"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn20_001",
+      "title": "Food Map of India Activity",
+      "content": "Draw a simple outline map of India. In different regions, write or draw the famous food from there. North: roti, lassi, chole. South: dosa, idli, sambar. East: fish curry, rasgulla. West: dhokla, dal-baati. Coastal areas: fish and prawns. This Food Map will help you remember which foods come from which part of India!",
+      "tags": ["activity", "geography"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn20_002",
+      "title": "Festival Food Chart",
+      "content": "Make a chart with two columns: Festival and Special Food. Diwali - laddoo, barfi, kaju katli. Eid - sewaiyan, biryani. Pongal - pongal (rice and jaggery dish). Onam - sadhya on banana leaf. Christmas - cake and plum pudding. Baisakhi - makki ki roti, sarson ka saag. This chart is very useful for exam questions about festival foods!",
+      "tags": ["study-tip", "exam-preparation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn20_003",
+      "title": "Family Recipe Activity",
+      "content": "Ask your grandmother, mother, or father to teach you one special recipe that your family has been making for a long time. Write down: (1) The name of the dish, (2) What ingredients are used, (3) How it is made, (4) When your family usually makes it. Share this recipe with your classmates. You might discover that every family has its own unique food tradition!",
+      "tags": ["activity", "family"],
+      "isPinned": false
+    }
+  ]
+}

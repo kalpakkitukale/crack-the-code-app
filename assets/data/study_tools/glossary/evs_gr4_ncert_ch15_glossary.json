@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch15",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_15_001",
+      "term": "Market",
+      "definition": "A place where people go to buy and sell goods. Markets can be permanent shops or temporary setups like weekly haats.",
+      "pronunciation": "MAR-ket",
+      "exampleUsage": "We go to the market every Sunday to buy fresh vegetables.",
+      "difficulty": "easy",
+      "relatedTerms": ["shop", "haat", "buying"]
+    },
+    {
+      "id": "gls_evs_15_002",
+      "term": "Haat",
+      "definition": "A weekly market set up in an open area on a fixed day. Farmers and small traders sell their goods directly to buyers at a haat.",
+      "pronunciation": "HAAT",
+      "exampleUsage": "The village haat is held every Wednesday near the temple.",
+      "difficulty": "easy",
+      "relatedTerms": ["market", "weekly market", "village"]
+    },
+    {
+      "id": "gls_evs_15_003",
+      "term": "Wholesale",
+      "definition": "Buying or selling goods in very large quantities, usually at a lower price. Shopkeepers buy wholesale and sell in smaller amounts.",
+      "pronunciation": "HOLE-sayl",
+      "exampleUsage": "The shopkeeper buys rice wholesale from the mandi and sells it by the kilo.",
+      "difficulty": "medium",
+      "relatedTerms": ["retail", "mandi", "bulk"]
+    },
+    {
+      "id": "gls_evs_15_004",
+      "term": "Retail",
+      "definition": "Selling goods in small quantities directly to customers. The local kirana shop is a retail shop.",
+      "pronunciation": "REE-tayl",
+      "exampleUsage": "We buy groceries from the retail shop near our house.",
+      "difficulty": "medium",
+      "relatedTerms": ["wholesale", "shop", "customer"]
+    },
+    {
+      "id": "gls_evs_15_005",
+      "term": "MRP",
+      "definition": "Maximum Retail Price - the highest price that can be charged for a packaged product. It is printed on the package by law.",
+      "pronunciation": "M-R-P",
+      "exampleUsage": "No shopkeeper can sell a product above its MRP.",
+      "difficulty": "medium",
+      "relatedTerms": ["price", "packaging", "consumer"]
+    },
+    {
+      "id": "gls_evs_15_006",
+      "term": "Bargaining",
+      "definition": "Discussing or negotiating the price of something to get a better deal. Bargaining is common in Indian markets and haats.",
+      "pronunciation": "BAR-gun-ing",
+      "exampleUsage": "My mother is very good at bargaining at the vegetable market.",
+      "difficulty": "easy",
+      "relatedTerms": ["price", "negotiation", "market"]
+    },
+    {
+      "id": "gls_evs_15_007",
+      "term": "Mandi",
+      "definition": "A large wholesale market, especially for fruits, vegetables, and grains. Farmers bring their produce to sell at mandis.",
+      "pronunciation": "MUN-dee",
+      "exampleUsage": "Farmers from nearby villages bring their tomatoes to the mandi early in the morning.",
+      "difficulty": "easy",
+      "relatedTerms": ["wholesale", "market", "farmer"]
+    },
+    {
+      "id": "gls_evs_15_008",
+      "term": "Middleman",
+      "definition": "A person who buys goods from the producer (farmer) and sells them to shopkeepers, earning a profit in between.",
+      "pronunciation": "MID-ul-man",
+      "exampleUsage": "The middleman bought mangoes cheaply from farmers and sold them at a higher price to shops.",
+      "difficulty": "medium",
+      "relatedTerms": ["trader", "profit", "market"]
+    },
+    {
+      "id": "gls_evs_15_009",
+      "term": "Expiry Date",
+      "definition": "The date printed on a food or medicine package after which it is no longer safe to use.",
+      "pronunciation": "ek-SPY-ree DAYT",
+      "exampleUsage": "Always check the expiry date on milk packets before buying them.",
+      "difficulty": "easy",
+      "relatedTerms": ["food safety", "packaging", "MRP"]
+    },
+    {
+      "id": "gls_evs_15_010",
+      "term": "Consumer",
+      "definition": "A person who buys and uses goods and services. When you buy something from a shop, you are a consumer.",
+      "pronunciation": "kun-SOO-mer",
+      "exampleUsage": "As a consumer, you have the right to get good quality products.",
+      "difficulty": "medium",
+      "relatedTerms": ["buyer", "customer", "market"]
+    }
+  ]
+}

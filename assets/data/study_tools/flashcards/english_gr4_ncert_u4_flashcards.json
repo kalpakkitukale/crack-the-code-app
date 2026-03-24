@@ -1,0 +1,133 @@
+{
+  "chapterId": "gr4_eng_ncert_u4",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_why_poem",
+      "name": "Why? (Poem)",
+      "description": "Learn about the poem that celebrates curiosity and asking questions",
+      "cards": [
+        {
+          "id": "fc_why_001",
+          "front": "What is the poem 'Why?' about?",
+          "back": "The poem 'Why?' is about a child who is curious about everything in the world. The child keeps asking 'why' about the sky, the wind, the rain, and many other things around them.",
+          "hints": ["It is about a child's curiosity"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_why_002",
+          "front": "Why does the child in the poem ask so many questions?",
+          "back": "The child asks many questions because they are curious and want to understand how the world works. Asking 'why' is how children learn new things!",
+          "hints": ["Think about what makes children want to learn"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_why_003",
+          "front": "What kind of things does the child ask about in the poem?",
+          "back": "The child asks about nature and everyday things -- like why the sky is blue, why the wind blows, why birds can fly, and why the grass is green.",
+          "hints": ["Things we see in nature every day"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_why_004",
+          "front": "What is the message of the poem 'Why?'",
+          "back": "The poem tells us that asking questions is a wonderful thing. Being curious helps us learn and grow. We should never stop asking 'why' about the world around us.",
+          "hints": ["It encourages something positive"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_why_005",
+          "front": "Is 'Why?' a question word or a statement word?",
+          "back": "'Why' is a question word. It is used to ask about the reason for something. Example: 'Why is the sky blue?' asks for the reason the sky looks blue.",
+          "hints": ["It is used to ask about reasons"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_alice",
+      "name": "Alice in Wonderland",
+      "description": "Learn about the story of Alice and her magical adventure",
+      "cards": [
+        {
+          "id": "fc_alice_001",
+          "front": "Who is Alice in the story 'Alice in Wonderland'?",
+          "back": "Alice is a young, curious girl who follows a white rabbit down a rabbit hole and enters a strange and magical land called Wonderland.",
+          "hints": ["She is a curious girl"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_alice_002",
+          "front": "What unusual thing did Alice see that made her follow it?",
+          "back": "Alice saw a White Rabbit wearing a coat and carrying a pocket watch. The Rabbit was in a hurry and kept saying he was late. Alice was so curious that she followed it down the rabbit hole.",
+          "hints": ["It was an animal wearing clothes"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_alice_003",
+          "front": "What happened when Alice fell down the rabbit hole?",
+          "back": "Alice fell very slowly down the deep rabbit hole. On the way down, she saw shelves with books, jars, and maps on the walls. She finally landed safely at the bottom.",
+          "hints": ["She fell slowly and saw many things"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_alice_004",
+          "front": "What strange things happened to Alice in Wonderland?",
+          "back": "Alice grew very tall after drinking from a bottle and shrank very small after eating a cake. She met many unusual characters and had many surprising adventures.",
+          "hints": ["Her size changed"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_alice_005",
+          "front": "Who wrote the original story of 'Alice in Wonderland'?",
+          "back": "The story was written by Lewis Carroll. The full title is 'Alice's Adventures in Wonderland' and it was first published in 1865.",
+          "hints": ["A famous English author"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_question_words",
+      "name": "Question Words (Wh-Questions)",
+      "description": "Learn about words we use to ask questions",
+      "cards": [
+        {
+          "id": "fc_qw_001",
+          "front": "What are question words?",
+          "back": "Question words are special words used to ask questions. The main question words are: What, Where, When, Who, Why, Which, and How. Most of them start with 'Wh', so they are called Wh-words.",
+          "hints": ["They start with Wh"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_qw_002",
+          "front": "When do we use 'What'?",
+          "back": "We use 'What' to ask about a thing, an action, or an idea. Examples: 'What is your name?' 'What are you doing?' 'What colour is the sky?'",
+          "hints": ["To ask about things"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_qw_003",
+          "front": "When do we use 'Where' and 'When'?",
+          "back": "'Where' asks about a place: 'Where do you live?' 'When' asks about time: 'When is your birthday?' Remember: Where = place, When = time.",
+          "hints": ["One is for place, one is for time"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_qw_004",
+          "front": "When do we use 'Who' and 'Why'?",
+          "back": "'Who' asks about a person: 'Who is your best friend?' 'Why' asks about a reason: 'Why are you happy?' Remember: Who = person, Why = reason.",
+          "hints": ["One is for people, one is for reasons"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_qw_005",
+          "front": "How is 'How' used as a question word?",
+          "back": "'How' asks about the way something is done, or about the amount or degree. Examples: 'How do you go to school?' 'How many apples are there?' 'How old are you?'",
+          "hints": ["It asks about the way or manner"],
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ]
+}

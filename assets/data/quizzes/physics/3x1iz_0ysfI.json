@@ -1,0 +1,138 @@
+{
+  "quiz": {
+    "id": "quiz_video_3x1iz_0ysfI",
+    "title": "Conductors and Insulators",
+    "level": "video",
+    "entityId": "3x1iz_0ysfI",
+    "subjectId": "physics",
+    "subjectName": "Physics",
+    "chapterId": "ch1_electric_charges",
+    "chapterName": "Electric Charges and Fields",
+    "questionIds": [
+      "q_conductors_001",
+      "q_conductors_002",
+      "q_conductors_003",
+      "q_conductors_004",
+      "q_conductors_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_conductors_001",
+      "questionText": "What is a conductor?",
+      "questionType": "mcq",
+      "options": [
+        "A material that allows electric charge to flow easily",
+        "A material that blocks electric charge",
+        "A material that stores electric charge",
+        "A material that generates electric charge"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A conductor is a material that allows electric charge (electrons) to flow easily through it. Metals like copper, silver, and aluminum are good conductors because they have free electrons that can move through the material.",
+      "hints": [
+        "Think about what happens in electrical wires",
+        "Electrons can move freely",
+        "Most metals have this property"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["conductors", "charge_flow"],
+      "videoTimestamp": "1:30",
+      "points": 3
+    },
+    {
+      "id": "q_conductors_002",
+      "questionText": "Which of the following is the best conductor of electricity?",
+      "questionType": "mcq",
+      "options": [
+        "Silver",
+        "Rubber",
+        "Glass",
+        "Wood"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Silver is the best conductor of electricity among all metals. It has the lowest resistivity. However, copper is more commonly used in wiring because it's much cheaper while still being an excellent conductor.",
+      "hints": [
+        "It's a precious metal",
+        "Often used in high-quality electronics",
+        "Better than copper but more expensive"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["conductors", "metals"],
+      "videoTimestamp": "3:00",
+      "points": 3
+    },
+    {
+      "id": "q_conductors_003",
+      "questionText": "An insulator is a material that:",
+      "questionType": "mcq",
+      "options": [
+        "Does not allow electric charge to flow easily",
+        "Allows charge to flow freely",
+        "Only conducts at high temperatures",
+        "Stores charge permanently"
+      ],
+      "correctAnswer": "A",
+      "explanation": "An insulator is a material that does not allow electric charge to flow easily. Insulators have very few free electrons, so current cannot pass through them easily. Examples include rubber, glass, plastic, and dry wood.",
+      "hints": [
+        "Opposite of a conductor",
+        "Used to protect from electric shock",
+        "Think about coating on wires"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["insulators", "resistance"],
+      "videoTimestamp": "4:30",
+      "points": 3
+    },
+    {
+      "id": "q_conductors_004",
+      "questionText": "Why are electrical wires coated with plastic or rubber?",
+      "questionType": "mcq",
+      "options": [
+        "To prevent electric shock and short circuits",
+        "To make the wire stronger",
+        "To help electricity flow faster",
+        "To make the wire look better"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Electrical wires are coated with plastic or rubber (insulators) to prevent electric shock to humans and to prevent short circuits when wires touch each other. The insulating coating keeps the current flowing only through the intended path.",
+      "hints": [
+        "Think about safety",
+        "What happens if bare wires touch?",
+        "Insulators protect us"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["insulators", "safety"],
+      "videoTimestamp": "6:00",
+      "points": 3
+    },
+    {
+      "id": "q_conductors_005",
+      "questionText": "Semiconductors are materials that:",
+      "questionType": "mcq",
+      "options": [
+        "Have conductivity between conductors and insulators",
+        "Are better conductors than metals",
+        "Never conduct electricity",
+        "Only conduct in liquids"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Semiconductors (like silicon and germanium) have electrical conductivity between conductors and insulators. Their conductivity can be controlled by adding impurities (doping) or by changing temperature, making them essential for electronic devices like transistors and computer chips.",
+      "hints": [
+        "The name gives a clue - 'semi' means partial",
+        "Used in computer chips",
+        "Silicon is the most famous example"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["semiconductors", "materials"],
+      "videoTimestamp": "7:30",
+      "points": 4
+    }
+  ]
+}

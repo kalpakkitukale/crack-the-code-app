@@ -1,0 +1,437 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch5",
+  "topicId": "gr4_mn_5_1",
+  "topicName": "Division as Equal Sharing",
+  "chapterId": "gr4_math_ncert_ch5",
+  "chapterName": "Sharing and Measuring",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 5: Sharing and Measuring (Division)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of multiplication and sharing, can fast-track to division concepts with challenge content",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2878,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn5_v1",
+          "reason": "Introduction to division as equal sharing",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v2",
+          "reason": "Learn basic division facts - dividend, divisor, quotient",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v3",
+          "reason": "Practice easy division problems",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn5_v4",
+          "reason": "Understand multiplication-division connection",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v5",
+          "reason": "Division practice with measurement problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v6",
+          "reason": "Challenge: Long division with bigger numbers",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of division concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2338,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn5_v1",
+          "reason": "Introduction to division as equal sharing",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v2",
+          "reason": "Learn basic division facts",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v3",
+          "reason": "Easy division with fun examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v4",
+          "reason": "Multiplication-division connection",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v5",
+          "reason": "Division practice and measurement sharing",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in multiplication or sharing, needs targeted review before division concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 3198,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "multiplication_basics_weak": {
+            "addVideos": ["prereq_ch5_multiplication_v1"],
+            "priority": "high"
+          },
+          "equal_sharing_weak": {
+            "addVideos": ["prereq_ch5_sharing_v1"],
+            "priority": "high"
+          },
+          "subtraction_fluency_weak": {
+            "addVideos": ["prereq_ch5_subtraction_v1"],
+            "priority": "medium"
+          },
+          "skip_counting_weak": {
+            "addVideos": ["prereq_ch5_multiplication_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch5_multiplication_v1",
+          "reason": "Review: Multiplication basics and times tables",
+          "skippable": false,
+          "condition": "if multiplication_basics concept is weak"
+        },
+        {
+          "videoId": "prereq_ch5_sharing_v1",
+          "reason": "Review: Equal sharing and fair distribution",
+          "skippable": false,
+          "condition": "if equal_sharing concept is weak"
+        },
+        {
+          "videoId": "prereq_ch5_subtraction_v1",
+          "reason": "Review: Repeated subtraction as division",
+          "skippable": false,
+          "condition": "if subtraction_fluency concept is weak"
+        },
+        {
+          "videoId": "gr4_mn5_v1",
+          "reason": "Start main topic: Division as equal sharing",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v2",
+          "reason": "Basic division facts",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v4",
+          "reason": "Multiplication-division connection",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v5",
+          "reason": "Practice division problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in multiplication and sharing before attempting division",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2340,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch5_multiplication_v1",
+          "reason": "Foundation: Review multiplication basics and times tables",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch5_sharing_v1",
+          "reason": "Essential: Learn equal sharing concept",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch5_subtraction_v1",
+          "reason": "Critical: Understand repeated subtraction as division",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v1",
+          "reason": "Gentle intro to division as sharing",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn5_v2",
+          "reason": "Begin main content: Basic division facts",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with division."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "multiplication_basics": {
+        "conceptName": "Basic multiplication facts and times tables",
+        "importance": "critical",
+        "videoIds": ["prereq_ch5_multiplication_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq5_1", "rq5_2", "rq5_3"]
+      },
+      "equal_sharing": {
+        "conceptName": "Understanding equal sharing and fair distribution",
+        "importance": "critical",
+        "videoIds": ["prereq_ch5_sharing_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq5_4", "rq5_5", "rq5_6"]
+      },
+      "subtraction_fluency": {
+        "conceptName": "Subtraction fluency and repeated subtraction",
+        "importance": "important",
+        "videoIds": ["prereq_ch5_subtraction_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq5_7", "rq5_8"]
+      },
+      "skip_counting": {
+        "conceptName": "Skip counting by 2s, 3s, 4s, and 5s",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch5_multiplication_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq5_9", "rq5_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn5_v2",
+        "checkpointName": "Basic Division Facts Check",
+        "questions": [
+          {
+            "question": "What is 18 divided by 3?",
+            "options": ["3", "5", "6", "9"],
+            "correctAnswer": 2,
+            "explanation": "18 divided by 3 = 6, because 3 x 6 = 18."
+          },
+          {
+            "question": "In the problem 20 divided by 4 = 5, what is the quotient?",
+            "options": ["20", "4", "5", "24"],
+            "correctAnswer": 2,
+            "explanation": "The quotient is the answer to a division problem. Here, 5 is the quotient."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand basic division facts well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch5_multiplication_v1",
+          "reason": "Student struggling with division facts, review multiplication"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn5_v4",
+        "checkpointName": "Multiplication-Division Connection Check",
+        "questions": [
+          {
+            "question": "If 7 x 8 = 56, what is 56 divided by 7?",
+            "options": ["6", "7", "8", "49"],
+            "correctAnswer": 2,
+            "explanation": "Since 7 x 8 = 56, we know 56 divided by 7 = 8. Multiplication and division are opposites!"
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn5_v6",
+          "reason": "Student ready for long division challenge"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the multiplication-division connection video again, then try some practice problems."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on multiplication basics"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising division facts with real objects at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your multiplication and sharing really well. You are ready to learn about division. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand multiplication and sharing well. Let's learn about division with complete coverage of all the topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in multiplication or sharing. Don't worry! We will start with targeted review videos on the concepts you need, then move to division."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review multiplication basics and sharing first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn division."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how division concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Skip counting", "Basic multiplication facts", "Subtraction fluency"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Equal sharing", "Making equal groups", "Repeated subtraction"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Division as equal sharing", "Division facts", "Dividend, divisor, quotient"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Multiplication-division connection", "Fact families", "Using multiplication to divide"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Division word problems", "Measurement in sharing", "Long division"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "divisionFactsFluency": {
+      "target": 85,
+      "description": "% of students who can solve basic division facts within 10 seconds"
+    },
+    "multiplicationDivisionLink": {
+      "target": 80,
+      "description": "% of students who can use multiplication to solve a division problem"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (25 min) + retake + main content (25 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing division with subtraction",
+      "solution1": "Emphasise that division is sharing equally into groups, not taking away. Use visual grouping examples.",
+      "challenge2": "Students forgetting which number is the divisor and which is the dividend",
+      "solution2": "Use real-world language: 'I have 12 sweets (dividend) and I want to share among 3 friends (divisor).'",
+      "challenge3": "Students who know multiplication but cannot reverse it for division",
+      "solution3": "Practice fact families: 3 x 4 = 12, so 12 / 3 = 4 and 12 / 4 = 3."
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u7",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 7: A Watering Rhyme / The Giving Tree",
+      "description": "A poem about caring for plants and a story about selfless love",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "A Watering Rhyme (Poem)",
+      "description": "A poem about the right way and time to water plants",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_pm_morning",
+      "label": "Water in the Morning",
+      "description": "Early morning is the best time to water plants, before the sun gets hot",
+      "parentId": "node_poem",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_pm_evening",
+      "label": "Water in the Evening",
+      "description": "Evening is also a good time, after the sun has gone down",
+      "parentId": "node_poem",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_pm_noon",
+      "label": "Not at Noon!",
+      "description": "Never water plants during the hot afternoon - the sun can burn wet leaves",
+      "parentId": "node_poem",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#F44336",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_pm_care",
+      "label": "Caring for Plants",
+      "description": "Plants need regular water, sunlight, and love to grow strong and healthy",
+      "parentId": "node_poem",
+      "positionX": -250,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_story",
+      "label": "The Giving Tree (Story)",
+      "description": "A story about a tree that gave everything to a boy it loved",
+      "parentId": "node_root",
+      "positionX": 100,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_st_childhood",
+      "label": "Happy Childhood",
+      "description": "As a child, the boy played, climbed, and rested under the tree every day",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_st_giving",
+      "label": "The Tree Keeps Giving",
+      "description": "The tree gave apples, branches, and its trunk as the boy grew older",
+      "parentId": "node_story",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_st_stump",
+      "label": "Only a Stump Left",
+      "description": "In the end, the tree was just a stump but still offered a seat to the tired old man",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Tenses",
+      "description": "Tenses tell us when an action happens - past, present, or future",
+      "parentId": "node_root",
+      "positionX": 350,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_gr_past",
+      "label": "Past Tense",
+      "description": "Actions that already happened: played, climbed, gave, sat",
+      "parentId": "node_grammar",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_gr_present",
+      "label": "Present Tense",
+      "description": "Actions happening now: plays, climbs, gives, sits",
+      "parentId": "node_grammar",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_gr_future",
+      "label": "Future Tense",
+      "description": "Actions that will happen: will play, will climb, will give, will sit",
+      "parentId": "node_grammar",
+      "positionX": 350,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

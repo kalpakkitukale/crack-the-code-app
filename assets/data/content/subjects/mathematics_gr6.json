@@ -1,0 +1,73 @@
+{
+  "id": "mathematics_gr6",
+  "name": "Mathematics",
+  "icon": "calculate",
+  "color": "#4ECDC4",
+  "boardId": "cbse_elementary",
+  "classId": "class_6",
+  "streamId": "general",
+  "totalChapters": 5,
+  "keywords": ["mathematics", "grade 6", "maths", "algebra", "ratios"],
+  "chapters": [
+    {
+      "id": "gr6_math_ch1",
+      "number": 1,
+      "name": "Knowing Our Numbers",
+      "description": "Large numbers, estimation, and number sense",
+      "keywords": ["numbers", "estimation", "comparing"],
+      "topics": [
+        {"id": "gr6_m_1_1", "name": "Large Numbers", "difficulty": "basic", "videoCount": 4, "keywords": ["large numbers", "lakhs", "crores"]},
+        {"id": "gr6_m_1_2", "name": "Estimation", "difficulty": "basic", "videoCount": 3, "keywords": ["estimation", "rounding"]},
+        {"id": "gr6_m_1_3", "name": "Roman Numerals", "difficulty": "basic", "videoCount": 3, "keywords": ["roman numerals"]}
+      ]
+    },
+    {
+      "id": "gr6_math_ch2",
+      "number": 2,
+      "name": "Whole Numbers",
+      "description": "Properties and operations with whole numbers",
+      "keywords": ["whole numbers", "operations", "properties"],
+      "topics": [
+        {"id": "gr6_m_2_1", "name": "Number Properties", "difficulty": "intermediate", "videoCount": 4, "keywords": ["properties", "commutative"]},
+        {"id": "gr6_m_2_2", "name": "Patterns", "difficulty": "basic", "videoCount": 3, "keywords": ["patterns", "sequences"]},
+        {"id": "gr6_m_2_3", "name": "Number Line", "difficulty": "basic", "videoCount": 3, "keywords": ["number line"]}
+      ]
+    },
+    {
+      "id": "gr6_math_ch3",
+      "number": 3,
+      "name": "Playing with Numbers",
+      "description": "Factors, multiples, and divisibility",
+      "keywords": ["factors", "multiples", "divisibility"],
+      "topics": [
+        {"id": "gr6_m_3_1", "name": "Factors and Multiples", "difficulty": "intermediate", "videoCount": 4, "keywords": ["factors", "multiples"]},
+        {"id": "gr6_m_3_2", "name": "Prime Numbers", "difficulty": "intermediate", "videoCount": 4, "keywords": ["prime", "composite"]},
+        {"id": "gr6_m_3_3", "name": "HCF and LCM", "difficulty": "intermediate", "videoCount": 4, "keywords": ["hcf", "lcm"]}
+      ]
+    },
+    {
+      "id": "gr6_math_ch4",
+      "number": 4,
+      "name": "Basic Geometrical Ideas",
+      "description": "Points, lines, angles, and shapes",
+      "keywords": ["geometry", "angles", "shapes"],
+      "topics": [
+        {"id": "gr6_m_4_1", "name": "Points and Lines", "difficulty": "basic", "videoCount": 3, "keywords": ["points", "lines", "rays"]},
+        {"id": "gr6_m_4_2", "name": "Angles", "difficulty": "basic", "videoCount": 4, "keywords": ["angles", "types"]},
+        {"id": "gr6_m_4_3", "name": "Polygons", "difficulty": "intermediate", "videoCount": 4, "keywords": ["polygons", "triangles"]}
+      ]
+    },
+    {
+      "id": "gr6_math_ch5",
+      "number": 5,
+      "name": "Fractions",
+      "description": "Understanding and operations with fractions",
+      "keywords": ["fractions", "operations", "comparing"],
+      "topics": [
+        {"id": "gr6_m_5_1", "name": "Types of Fractions", "difficulty": "basic", "videoCount": 4, "keywords": ["proper", "improper", "mixed"]},
+        {"id": "gr6_m_5_2", "name": "Comparing Fractions", "difficulty": "intermediate", "videoCount": 3, "keywords": ["comparing", "equivalent"]},
+        {"id": "gr6_m_5_3", "name": "Operations", "difficulty": "intermediate", "videoCount": 4, "keywords": ["addition", "subtraction"]}
+      ]
+    }
+  ]
+}

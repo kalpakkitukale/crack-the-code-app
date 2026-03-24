@@ -1,0 +1,60 @@
+{
+  "chapterId": "gr4_math_ch2",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_m2",
+    "title": "Addition and Subtraction",
+    "content": "This chapter teaches students how to add and subtract numbers with 4 and 5 digits. Students will learn to add and subtract without regrouping first, and then move on to problems that need carrying (in addition) and borrowing (in subtraction). The chapter also covers word problems where students must decide whether to add or subtract based on the situation. These skills are used every day when shopping, measuring, counting scores, and solving real-life problems.",
+    "keyPoints": [
+      "Line up numbers by place value before adding or subtracting",
+      "Always start from the ones column and work left",
+      "Carry to the next column when an addition column totals 10 or more",
+      "Borrow from the next column when a subtraction digit on top is too small",
+      "Use clue words to decide if a word problem needs addition or subtraction",
+      "Check your answers using the inverse operation or estimation"
+    ],
+    "learningObjectives": [
+      "Add 4-digit and 5-digit numbers with and without regrouping",
+      "Subtract 4-digit and 5-digit numbers with and without regrouping",
+      "Understand when and how to carry in addition",
+      "Understand when and how to borrow in subtraction, including across zeros",
+      "Solve word problems using addition and subtraction",
+      "Verify answers using inverse operations and estimation"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_m2_001",
+      "title": "Line Up Your Numbers Carefully",
+      "content": "The most common mistake in addition and subtraction is not lining up the place values correctly. Always write the numbers so that ones are under ones, tens are under tens, hundreds are under hundreds, and so on. Using lined or graph paper can help you keep the columns neat and straight!",
+      "tags": ["study-tip", "common-mistake"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_m2_002",
+      "title": "The Carry and Borrow Trick",
+      "content": "When carrying in addition, write the carry digit in small writing above the next column so you do not forget it. When borrowing in subtraction, cross out the digit you borrow from and write the new smaller digit above it. Then write the bigger number next to the digit you are borrowing for. Keeping things neat helps you avoid errors!",
+      "tags": ["study-tip", "important"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m2_003",
+      "title": "Word Problem Clue Words Cheat Sheet",
+      "content": "Addition clue words: total, altogether, combined, in all, sum, both, increase, more than. Subtraction clue words: left, remaining, fewer, difference, how many more, how much less, decrease, take away. Write these on a sticky note and keep it handy while practising word problems!",
+      "tags": ["study-tip", "word-problems"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m2_004",
+      "title": "Always Check Your Work",
+      "content": "After solving an addition problem, check it by subtracting one addend from the sum. You should get the other addend. After subtraction, add the difference to the subtrahend. You should get the minuend. Estimation also helps: round each number to the nearest thousand and see if your answer is close. These quick checks can catch silly mistakes!",
+      "tags": ["study-tip", "practice"],
+      "isPinned": false
+    }
+  ]
+}

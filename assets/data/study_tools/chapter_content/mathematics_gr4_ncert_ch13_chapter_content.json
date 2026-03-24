@@ -1,0 +1,54 @@
+{
+  "chapterId": "gr4_math_ncert_ch13",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn13",
+    "title": "The Transport Museum",
+    "content": "This chapter from the NCERT Maths Mela textbook takes students on a fun trip to a Transport Museum, using the journey as a context to practise everyday maths. Students work with distance calculations, learning to measure in metres and kilometres and understanding round trips. They practise time-related problems such as finding the duration of a journey, reading schedules, and calculating arrival times. The chapter also covers money skills including calculating ticket costs for groups, finding change, comparing prices, and understanding transport fares. Through word problems set in a museum context, students combine addition, subtraction, and multiplication to solve real-life problems involving travel planning and budgeting.",
+    "keyPoints": [
+      "Distance is measured in metres (m) and kilometres (km); 1 km = 1000 m",
+      "Round trip distance is double the one-way distance",
+      "Duration of a journey = arrival time minus departure time",
+      "Total cost = price per item multiplied by the number of items",
+      "Change = money paid minus the total cost",
+      "Different transport types have different fare systems",
+      "Multi-step word problems can be broken into smaller, simpler steps"
+    ],
+    "learningObjectives": [
+      "Measure and calculate distances using metres and kilometres",
+      "Calculate travel time, duration, and arrival or departure times",
+      "Solve money problems involving tickets, fares, and shopping",
+      "Read and use fare charts and transport schedules",
+      "Solve multi-step word problems combining distance, time, and money",
+      "Make simple plans and budgets for outings"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn13_001",
+      "title": "Quick Tips for Museum Maths",
+      "content": "When solving problems from this chapter, remember these three areas: DISTANCE - add distances for total travel, double for round trips. TIME - count hours first, then minutes; add duration to departure time for arrival. MONEY - multiply price by quantity for total cost; subtract cost from amount paid for change. Always read the problem twice to understand what is being asked before you start solving!",
+      "tags": ["study-tip", "distance", "time", "money"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn13_002",
+      "title": "Plan Your Own Museum Trip",
+      "content": "Try this activity! Imagine you are planning a trip to a museum near your city. Find out the distance from your home. Calculate the bus or auto fare using a simple rate (say Rs 2 per km). Decide the time you will leave and arrive. Each entry ticket costs Rs 40. You have Rs 200 for the whole day. How will you spend it on the ticket, lunch, and a souvenir? Write it all down like a mini budget. This is real-world maths in action!",
+      "tags": ["activity", "hands-on-learning", "real-world"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn13_003",
+      "title": "Reading a Fare Chart",
+      "content": "A fare chart is a table that shows how much you pay for travelling different distances. To read it: (1) Find your starting point in the first column. (2) Find your destination in the top row. (3) The number where the row and column meet is your fare. Some charts show fares for different types of tickets (child, adult, senior). Always check which column applies to you. Practise with bus fare charts in your city!",
+      "tags": ["study-tip", "fare-chart", "reference"],
+      "isPinned": false
+    }
+  ]
+}

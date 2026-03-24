@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_eng_ncert_u3",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_e3",
+    "title": "Run! / Nasruddin's Aim",
+    "content": "Unit 3 of the Marigold textbook brings together a lively poem, a humorous folk tale, and an important grammar lesson. The poem 'Run!' celebrates the joy of running and outdoor play, encouraging children to be active and enjoy nature. The story 'Nasruddin's Aim' is a funny folk tale about Mulla Nasruddin who boasts about being the best archer but misses the target and makes clever excuses. The grammar section introduces verbs - action words that tell us what someone does. Students learn to identify verbs in sentences, understand different verb forms, and use them correctly in their own writing and speaking.",
+    "keyPoints": [
+      "The poem 'Run!' encourages outdoor play and celebrates the fun of being active",
+      "Rhyming words and short lines give the poem a musical, energetic feel",
+      "Nasruddin's Aim is a humorous folk tale about boasting and making excuses",
+      "The moral of the story is to be honest and not brag about abilities",
+      "A verb is an action word that tells what someone or something does",
+      "Every sentence needs at least one verb to be complete",
+      "Verbs change form: run, runs, running depending on the subject and tense"
+    ],
+    "learningObjectives": [
+      "Read and enjoy the poem 'Run!' and identify its rhyming words and theme",
+      "Understand the story of Nasruddin's Aim and explain its moral lesson",
+      "Define what a verb is and give examples of action words",
+      "Identify verbs in sentences from the poem and story",
+      "Use different forms of verbs correctly (run, runs, running)"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_e3_001",
+      "title": "Verb Spotting Trick",
+      "content": "To find the verb in any sentence, ask: 'What is happening?' or 'What is the person doing?' The answer is always the verb! For example, in 'The children run in the park,' ask 'What are the children doing?' Answer: running. So 'run' is the verb. Practise this trick with five sentences every day and you will become a verb-spotting expert!",
+      "tags": ["study-tip", "verbs", "grammar"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_e3_002",
+      "title": "Nasruddin's Clever Humour",
+      "content": "Nasruddin stories are told in many countries like Turkey, India, Iran, and Afghanistan. What makes them special is that they seem silly on the surface but have a deeper meaning. In this story, Nasruddin's funny excuses make us laugh, but they also teach us that boasting without skill leads to embarrassment. Next time you read a Nasruddin story, look for the hidden lesson!",
+      "tags": ["folk-tale", "story", "moral"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_e3_003",
+      "title": "Action Verbs from the Chapter",
+      "content": "Here is a fun activity: make a list of all the action words you can find in Unit 3. From the poem: run, jump, play, feel. From the story: shoot, miss, hit, aim, boast, laugh, explain, claim. Write each verb in a sentence of your own. The more sentences you make, the better you will understand how verbs work!",
+      "tags": ["practice", "activity", "verbs"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "algorithmId": "rec_gr4_m1_t1",
+  "topicId": "gr4_m_1_1",
+  "topicName": "Place Value (5-digit Numbers)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for 5-digit place value",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of 4-digit place value, can fast-track to 5-digit concepts with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 3,
+        "applicationVideos": 2,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2340,
+      "videoSequence": [
+        {
+          "videoId": "gr4_ch1_pv_v1",
+          "reason": "Introduction to 5-digit numbers and ten thousands place",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v2",
+          "reason": "Practice finding place value in 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v3",
+          "reason": "Expanded form of 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v4",
+          "reason": "Word form of 5-digit numbers",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_ch1_pv_v5",
+          "reason": "Practice all three forms together",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v6",
+          "reason": "Challenge: Preview of 6-digit numbers",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of 5-digit place value",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 3,
+        "applicationVideos": 2,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1980,
+      "videoSequence": [
+        {
+          "videoId": "gr4_ch1_pv_v1",
+          "reason": "Introduction to 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v2",
+          "reason": "Place value in 5-digit numbers with examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v3",
+          "reason": "Expanded form of 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v4",
+          "reason": "Word form of 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v5",
+          "reason": "Practice converting between all forms",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in 4-digit place value, needs targeted review before 5-digit concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2460,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_4digit_weak": {
+            "addVideos": ["prereq_pv4_v1"],
+            "priority": "high"
+          },
+          "place_positions_weak": {
+            "addVideos": ["prereq_pos_v1"],
+            "priority": "high"
+          },
+          "counting_10000_weak": {
+            "addVideos": ["prereq_count_v1"],
+            "priority": "medium"
+          },
+          "pv_calculation_weak": {
+            "addVideos": ["prereq_pv4_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Review: 4-digit place value basics",
+          "skippable": false,
+          "condition": "if pv_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_pos_v1",
+          "reason": "Review: Understanding place positions",
+          "skippable": false,
+          "condition": "if place_positions concept is weak"
+        },
+        {
+          "videoId": "prereq_count_v1",
+          "reason": "Review: Counting to 10,000",
+          "skippable": false,
+          "condition": "if counting_10000 concept is weak"
+        },
+        {
+          "videoId": "gr4_ch1_pv_v1",
+          "reason": "Start main topic: 5-digit numbers introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v2",
+          "reason": "Place value in 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v3",
+          "reason": "Expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v5",
+          "reason": "Practice all forms",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in 4-digit place value before attempting 5-digit concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1950,
+      "videoSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Foundation: Review 4-digit place value",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pos_v1",
+          "reason": "Essential: Understanding place positions",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_count_v1",
+          "reason": "Critical: Counting to 10,000",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v1",
+          "reason": "Gentle intro to 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_ch1_pv_v2",
+          "reason": "Begin main content: Place value examples",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with 5-digit place value."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_4digit": {
+        "conceptName": "Place value in 4-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_pv4_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "place_positions": {
+        "conceptName": "Understanding place positions (ones, tens, hundreds, thousands)",
+        "importance": "critical",
+        "videoIds": ["prereq_pos_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "counting_10000": {
+        "conceptName": "Counting and number sense up to 10,000",
+        "importance": "important",
+        "videoIds": ["prereq_count_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "pv_calculation": {
+        "conceptName": "Calculating place value",
+        "importance": "important",
+        "videoIds": ["prereq_pv4_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_ch1_pv_v2",
+        "checkpointName": "5-Digit Place Value Mastery Check",
+        "questions": [
+          {
+            "question": "What is the place value of 7 in 47,825?",
+            "options": ["7", "700", "7,000", "70,000"],
+            "correctAnswer": 2,
+            "explanation": "The digit 7 is in the thousands place. So its place value is 7 × 1,000 = 7,000."
+          },
+          {
+            "question": "In 56,234, which digit is in the ten thousands place?",
+            "options": ["2", "3", "5", "6"],
+            "correctAnswer": 2,
+            "explanation": "Reading from left to right: 5 is in the ten thousands place."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand 5-digit place value well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_pv4_v1",
+          "reason": "Student struggling with place value concept"
+        }
+      },
+      {
+        "afterVideoId": "gr4_ch1_pv_v3",
+        "checkpointName": "Expanded Form Mastery",
+        "questions": [
+          {
+            "question": "What is the expanded form of 34,567?",
+            "options": [
+              "30,000 + 4,000 + 500 + 60 + 7",
+              "3 + 4 + 5 + 6 + 7",
+              "34 + 567",
+              "30 + 4 + 5 + 6 + 7"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Expanded form shows place value of each digit: 34,567 = 30,000 + 4,000 + 500 + 60 + 7."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_ch1_pv_v6",
+          "reason": "Student ready for 6-digit number preview"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice writing expanded form before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip word form video, jump to practice or challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on 4-digit place value"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend writing 5-digit numbers in all three forms for practice"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong understanding of 4-digit place value. You're ready to learn about 5-digit numbers. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand place value well. Let's extend this knowledge to 5-digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in place value knowledge. Don't worry! We'll start with targeted review videos on the concepts you need, then move to 5-digit numbers."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review 4-digit place value basics first. We've created a playlist focused on building strong foundation. After watching, you can retake the quiz and then learn 5-digit concepts."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how place value concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic place value (ones, tens, hundreds)", "3-digit numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["4-digit place value", "Thousands place", "Counting to 10,000"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["5-digit numbers", "Ten thousands place", "Place value up to 99,999"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Expanded form of 5-digit numbers", "Word form of 5-digit numbers"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["6-digit numbers (lakhs)", "Larger number systems"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "placeValueIdentification": {
+      "target": 90,
+      "description": "% of students who can correctly identify place value of any digit in 5-digit numbers"
+    },
+    "formConversion": {
+      "target": 85,
+      "description": "% of students who can convert between standard, expanded, and word forms"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 30-35 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 40-45 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (30 min) + retake + main content (20 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing ten thousands place with thousands place",
+      "solution1": "Emphasize the progression: ones → tens → hundreds → thousands → ten thousands, using place value chart",
+      "challenge2": "Students struggling with reading 5-digit numbers aloud",
+      "solution2": "Break into parts: read the ten thousands/thousands part, then say 'thousand,' then read the remaining part",
+      "challenge3": "Students making errors in expanded form with zeros (50,007)",
+      "solution3": "Show multiple examples with zeros in different positions, explain that zero places are not written in expanded form"
+    }
+  }
+}

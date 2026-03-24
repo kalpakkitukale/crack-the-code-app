@@ -1,0 +1,198 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_s_1_1",
+    "level": "topic",
+    "entityId": "gr4_s_1_1",
+    "title": "Plants - Practice Quiz",
+    "questionIds": [
+      "q_plants_001",
+      "q_plants_002",
+      "q_plants_003",
+      "q_plants_004",
+      "q_plants_005",
+      "q_plants_006",
+      "q_plants_007",
+      "q_plants_008"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_plants_001",
+      "questionText": "Which part of the plant absorbs water from the soil?",
+      "questionType": "mcq",
+      "options": [
+        "Leaves",
+        "Stem",
+        "Roots",
+        "Flowers"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Roots absorb water and minerals from the soil. They also help anchor the plant in the ground.",
+      "hints": [
+        "This part is underground",
+        "It helps the plant stay in one place"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plants", "roots", "plant_parts"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_002",
+      "questionText": "What do plants need to make their food?",
+      "questionType": "mcq",
+      "options": [
+        "Water, soil, and air",
+        "Sunlight, water, and carbon dioxide",
+        "Oxygen, nitrogen, and soil",
+        "Roots, stem, and leaves"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Plants make their food through photosynthesis using sunlight, water, and carbon dioxide from the air.",
+      "hints": [
+        "Think about what green leaves need",
+        "This process is called photosynthesis"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["photosynthesis", "plants"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_003",
+      "questionText": "Which part of the plant makes seeds?",
+      "questionType": "mcq",
+      "options": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Stem"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Flowers are the reproductive part of plants. After pollination, flowers develop into fruits that contain seeds.",
+      "hints": [
+        "This is the colorful part of many plants",
+        "Bees and butterflies visit this part"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plants", "flowers", "reproduction"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_004",
+      "questionText": "What is the green color in leaves called?",
+      "questionType": "mcq",
+      "options": [
+        "Oxygen",
+        "Chlorophyll",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chlorophyll is the green pigment in leaves that helps plants make food using sunlight.",
+      "hints": [
+        "It starts with 'C'",
+        "It helps in photosynthesis"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["chlorophyll", "leaves", "photosynthesis"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_005",
+      "questionText": "Which type of plant has a soft, green stem?",
+      "questionType": "mcq",
+      "options": [
+        "Trees",
+        "Shrubs",
+        "Herbs",
+        "Climbers"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Herbs are small plants with soft, green stems. Examples include mint, coriander, and basil.",
+      "hints": [
+        "These are small plants",
+        "They usually live for one season"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["plant_types", "herbs"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_006",
+      "questionText": "What gas do plants take in during photosynthesis?",
+      "questionType": "mcq",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Plants take in carbon dioxide from the air during photosynthesis and release oxygen.",
+      "hints": [
+        "This is the gas we breathe out",
+        "Plants use this to make food"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["photosynthesis", "gases"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_007",
+      "questionText": "Which of these is NOT a part of a plant?",
+      "questionType": "mcq",
+      "options": [
+        "Root",
+        "Stem",
+        "Brain",
+        "Leaf"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Plants do not have a brain. The main parts of a plant are roots, stem, leaves, flowers, and fruits.",
+      "hints": [
+        "Plants don't have organs like animals",
+        "Which one belongs to animals?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["plant_parts"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_plants_008",
+      "questionText": "What do we call plants that grow in water?",
+      "questionType": "mcq",
+      "options": [
+        "Terrestrial plants",
+        "Aquatic plants",
+        "Desert plants",
+        "Mountain plants"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aquatic plants are plants that live in water. Examples include lotus, water lily, and hydrilla.",
+      "hints": [
+        "'Aqua' means water",
+        "Like lotus and water lily"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["plant_types", "aquatic"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

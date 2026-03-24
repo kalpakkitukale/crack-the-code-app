@@ -1,0 +1,294 @@
+{
+  "videoSetId": "playlist_gr4_mn7_t4",
+  "topicId": "gr4_mn_7_4",
+  "topicName": "Problem Solving with Real Data",
+  "chapterId": "gr4_math_ncert_ch7",
+  "chapterName": "The Cleanest Village",
+  "description": "Main learning videos for solving word problems and multi-step problems using real-life village data",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "estimatedTotalTime": 2400,
+    "difficulty": "intermediate to advanced",
+    "targetAudience": "Grade 4 CBSE students",
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn7_t4_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Word Problems with Village Data | Read, Understand, Solve",
+      "description": "Learn the steps to solve word problems: read carefully, find the important numbers, decide whether to add or subtract, solve, and check. Use real village data to practice!",
+
+      "youtubeId": "NDgJzUfXWT8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NDgJzUfXWT8",
+      "thumbnailUrl": "https://img.youtube.com/vi/NDgJzUfXWT8/hqdefault.jpg",
+
+      "duration": 510,
+      "durationDisplay": "8:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2000000,
+
+      "tags": ["word problems", "problem solving steps", "village data", "read and solve"],
+
+      "learningObjectives": [
+        "Follow a step-by-step approach to word problems",
+        "Identify key information in a problem",
+        "Choose the correct operation based on context"
+      ],
+
+      "prerequisites": ["Addition and subtraction fluency", "Reading data from tables"],
+      "followUpTopics": ["Multi-step word problems"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "What is the first step when solving a word problem?",
+            "options": ["Start adding numbers right away", "Read carefully and find the important information", "Guess the answer"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t4_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Multi-Step Problems | When You Need More Than One Calculation",
+      "description": "Some village problems need two steps to solve! First add, then subtract. Or first find a total, then compare. Learn how to break big problems into small steps.",
+
+      "youtubeId": "Jn2MHq0BFXY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Jn2MHq0BFXY",
+      "thumbnailUrl": "https://img.youtube.com/vi/Jn2MHq0BFXY/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2400000,
+
+      "tags": ["multi-step problems", "two-step", "breaking down problems", "village scenarios"],
+
+      "learningObjectives": [
+        "Recognise when a problem needs more than one step",
+        "Break complex problems into smaller parts",
+        "Solve two-step word problems with village data"
+      ],
+
+      "prerequisites": ["Single-step word problems", "Addition and subtraction"],
+      "followUpTopics": ["Complex real-data problems"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "A village has 230 mango trees and 145 neem trees. They planted 75 more neem trees. How many neem trees are there now?",
+            "options": ["170", "210", "220"],
+            "correctAnswer": 2
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t4_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Solving Village Problems Step by Step | Detailed Worked Examples",
+      "description": "Watch detailed solutions to village word problems. See how to underline important words, identify the question, choose operations, calculate, and verify your answer.",
+
+      "youtubeId": "qX2YFnzbRhE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qX2YFnzbRhE",
+      "thumbnailUrl": "https://img.youtube.com/vi/qX2YFnzbRhE/hqdefault.jpg",
+
+      "duration": 540,
+      "durationDisplay": "9:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+
+      "tags": ["worked examples", "detailed solutions", "village problems", "verify answers"],
+
+      "learningObjectives": [
+        "See complete worked-out solutions to village problems",
+        "Learn to verify answers by checking",
+        "Develop a systematic approach to problem solving"
+      ],
+
+      "prerequisites": ["Multi-step problems understanding"],
+      "followUpTopics": ["Independent problem solving"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t4_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Problem Solving Challenge | Village Data Word Problems",
+      "description": "Challenge yourself with village word problems! Each problem uses real data. Pause, solve, and then check your answer. Can you get them all right?",
+
+      "youtubeId": "GYVNiPWk2DQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GYVNiPWk2DQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/GYVNiPWk2DQ/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 870000,
+
+      "tags": ["challenge", "word problems", "village data", "test yourself", "practice"],
+
+      "learningObjectives": [
+        "Solve word problems independently",
+        "Apply all problem-solving strategies learned",
+        "Build accuracy and confidence"
+      ],
+
+      "prerequisites": ["Worked examples of village problems"],
+      "followUpTopics": ["Advanced problem solving"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t4_v5",
+      "type": "real_world_application",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "Be a Village Problem Solver! | Using Maths to Help Your Community",
+      "description": "Imagine you are in charge of keeping a village clean. Use addition, subtraction, and data to plan projects, count supplies, and solve real community problems!",
+
+      "youtubeId": "W9xL3bRmZ6k",
+      "youtubeUrl": "https://www.youtube.com/watch?v=W9xL3bRmZ6k",
+      "thumbnailUrl": "https://img.youtube.com/vi/W9xL3bRmZ6k/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1300000,
+
+      "tags": ["real world", "community problem solver", "planning", "village math", "application"],
+
+      "learningObjectives": [
+        "Apply all chapter skills to a real community scenario",
+        "Use data to make decisions for a village",
+        "See yourself as a problem solver who helps the community"
+      ],
+
+      "prerequisites": ["Village word problems"],
+      "followUpTopics": ["Next chapter topics"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn7_t4_v1", "gr4_mn7_t4_v2", "gr4_mn7_t4_v3", "gr4_mn7_t4_v4", "gr4_mn7_t4_v5"],
+      "estimatedTime": 2400
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn7_t4_v1", "gr4_mn7_t4_v2", "gr4_mn7_t4_v3", "gr4_mn7_t4_v5"],
+      "estimatedTime": 1980
+    },
+    "with_prerequisites": {
+      "description": "For students who scored 50-79% on readiness",
+      "videos": ["prereq_ch7_addition_v1", "prereq_ch7_subtraction_v1", "prereq_ch7_data_v1", "gr4_mn7_t4_v1", "gr4_mn7_t4_v2", "gr4_mn7_t4_v3"],
+      "estimatedTime": 2790
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn7_t4_v1", "gr4_mn7_t4_v2", "gr4_mn7_t4_v3"],
+      "estimatedTime": 1530
+    }
+  },
+
+  "comprehensionCheckpoints": [
+    {
+      "afterVideoId": "gr4_mn7_t4_v2",
+      "checkpointName": "Multi-Step Problem Check",
+      "questions": [
+        {
+          "question": "A village collected 215 bags of rubbish on Monday and 187 bags on Tuesday. They sent 320 bags to the recycling centre. How many bags are still in the village?",
+          "options": ["72", "82", "92"],
+          "correctAnswer": 1,
+          "explanation": "Step 1: Total bags = 215 + 187 = 402. Step 2: Bags remaining = 402 - 320 = 82 bags still in the village."
+        }
+      ],
+      "ifCorrect": {
+        "action": "unlock_challenge",
+        "unlockVideoId": "gr4_mn7_t4_v4",
+        "reason": "Student ready for the challenge problems"
+      },
+      "ifWrong": {
+        "action": "recommend_rewatch",
+        "message": "Multi-step problems need careful work. Watch the video again and try breaking the problem into two separate steps."
+      }
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "Develop word problem solving skills using real village data and multi-step scenarios",
+    "recommendationStrategy": "Select playlist path based on readiness assessment score",
+    "sequencing": "Word problem strategies → Multi-step problems → Worked examples → Independent challenge → Community problem solver"
+  }
+}

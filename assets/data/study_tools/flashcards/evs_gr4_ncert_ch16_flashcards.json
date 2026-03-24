@@ -1,0 +1,123 @@
+{
+  "chapterId": "gr4_evs_ncert_ch16",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_months_festivals",
+      "name": "Months and Festivals",
+      "description": "Learn about different months and the festivals celebrated in each",
+      "topicId": "gr4_evn_16_1",
+      "chapterId": "gr4_evs_ncert_ch16",
+      "cards": [
+        {
+          "id": "fc_mf_001",
+          "front": "How many months are there in a year?",
+          "back": "There are 12 months in a year: January, February, March, April, May, June, July, August, September, October, November, and December.",
+          "hint": "Count the months on your fingers",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_mf_002",
+          "front": "Which festival is celebrated by lighting diyas and candles?",
+          "back": "Diwali is celebrated by lighting diyas (oil lamps) and candles. It is also called the Festival of Lights and usually falls in October or November.",
+          "hint": "It is called the Festival of Lights",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_mf_003",
+          "front": "In which month do children celebrate Children's Day in India?",
+          "back": "Children's Day is celebrated on 14th November, the birthday of Pandit Jawaharlal Nehru, India's first Prime Minister.",
+          "hint": "It falls in the month after October",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_mf_004",
+          "front": "What is a harvest festival? Name one.",
+          "back": "A harvest festival is celebrated when crops are ready to be picked from the fields. Pongal (in Tamil Nadu), Baisakhi (in Punjab), and Onam (in Kerala) are examples of harvest festivals.",
+          "hint": "It is related to farming and crops",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_mf_005",
+          "front": "Why is January called a 'busy month' in many parts of India?",
+          "back": "January is busy because many festivals like Makar Sankranti, Pongal, Lohri, and Republic Day (26th January) are celebrated. People fly kites, make special sweets, and have gatherings.",
+          "hint": "Think of kite flying and Republic Day",
+          "orderIndex": 4
+        },
+        {
+          "id": "fc_mf_006",
+          "front": "What special food is made during Makar Sankranti?",
+          "back": "During Makar Sankranti, people make sweets using til (sesame seeds) and gur (jaggery), such as til ke laddu and gajak. These foods keep the body warm in winter.",
+          "hint": "Sesame seeds and jaggery are used",
+          "orderIndex": 5
+        },
+        {
+          "id": "fc_mf_007",
+          "front": "What is Republic Day and when is it celebrated?",
+          "back": "Republic Day is celebrated on 26th January every year. On this day in 1950, the Constitution of India came into effect. There is a grand parade in New Delhi.",
+          "hint": "It is a national holiday in January",
+          "orderIndex": 6
+        },
+        {
+          "id": "fc_mf_008",
+          "front": "Which festival is known for flying kites?",
+          "back": "Makar Sankranti and Uttarayan are known for kite flying. People fly colourful kites of all shapes and sizes in the sky, especially in Gujarat and Rajasthan.",
+          "hint": "Look up at the sky during this festival!",
+          "orderIndex": 7
+        }
+      ]
+    },
+    {
+      "id": "deck_seasonal_activities",
+      "name": "Seasonal Activities",
+      "description": "Activities and events that happen in different seasons throughout the year",
+      "topicId": "gr4_evn_16_1",
+      "chapterId": "gr4_evs_ncert_ch16",
+      "cards": [
+        {
+          "id": "fc_sa_001",
+          "front": "What activities do people do during the rainy season?",
+          "back": "During the rainy season (monsoon), people enjoy getting wet in the rain, making paper boats, eating pakoras and hot chai, and watching green fields grow. Farmers plant crops like rice.",
+          "hint": "Think about what you do when it rains",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_sa_002",
+          "front": "Why do we wear different clothes in different months?",
+          "back": "The weather changes with the seasons. We wear woollen clothes in winter months (December-January) to stay warm, cotton clothes in summer months (April-June) to stay cool, and carry umbrellas in the monsoon months (July-September).",
+          "hint": "It depends on the weather",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_sa_003",
+          "front": "What is special about the month of August in India?",
+          "back": "Independence Day is celebrated on 15th August. India became free from British rule on this day in 1947. The national flag is hoisted and the Prime Minister gives a speech from the Red Fort in Delhi.",
+          "hint": "It is related to India's freedom",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_sa_004",
+          "front": "How do different families celebrate festivals differently?",
+          "back": "Different families may celebrate the same festival in different ways. Some cook special food, some visit relatives, some go to temples or mosques or churches, and some have fairs and melas. India has many cultures and traditions.",
+          "hint": "India is a land of diverse cultures",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_sa_005",
+          "front": "Name two festivals celebrated in the month of March.",
+          "back": "Holi (the festival of colours) and Navroz (the Parsi New Year) are celebrated in March. During Holi, people play with colours and eat gujiya and thandai.",
+          "hint": "One of them is very colourful!",
+          "orderIndex": 4
+        },
+        {
+          "id": "fc_sa_006",
+          "front": "What is a calendar and why is it useful?",
+          "back": "A calendar shows all the days, weeks, and months of a year. It helps us know the date, plan for festivals and holidays, remember birthdays, and keep track of important events.",
+          "hint": "You can find one hanging on the wall",
+          "orderIndex": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_eng_ncert_u9",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en9_naughty_boy",
+      "name": "The Naughty Boy (Poem)",
+      "description": "Explore the fun poem about a naughty boy and his amusing adventures",
+      "topicId": "gr4_en_9_1",
+      "chapterId": "gr4_eng_ncert_u9",
+      "cards": [
+        {
+          "id": "card_gr4_en9_001",
+          "front": "What is the poem 'The Naughty Boy' about?",
+          "back": "The poem 'The Naughty Boy' is about a boy who runs away from England to Scotland because he thinks everything in England is boring. He expects Scotland to be completely different and amazing, but he finds that things are quite similar everywhere!",
+          "hint": "The boy travels from one country to another",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en9_002",
+          "front": "Who wrote the poem 'The Naughty Boy'?",
+          "back": "The poem 'The Naughty Boy' was written by John Keats, a famous English poet. He wrote this poem in a fun and playful way to tell the story of a curious boy who wants to explore the world.",
+          "hint": "He is one of the most famous English poets",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en9_003",
+          "front": "Why did the naughty boy run away to Scotland?",
+          "back": "The naughty boy ran away to Scotland because he was bored and curious. He thought that Scotland would be very different from England. He imagined that the ground, the sky, and everything else would be completely different and more exciting.",
+          "hint": "He was bored with his own country and wanted something new",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en9_004",
+          "front": "What did the naughty boy discover in Scotland?",
+          "back": "The naughty boy was surprised to find that Scotland was not so different after all! The ground was just as hard, the sun was just as hot, and things were quite the same as in England. He learned that the grass is not always greener on the other side.",
+          "hint": "Was Scotland really that different?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en9_005",
+          "front": "What is the message of the poem 'The Naughty Boy'?",
+          "back": "The poem teaches us that we should be happy with what we have. Running away to a new place does not always make things better. Things are often the same everywhere. We should learn to appreciate our own home and surroundings instead of always wishing for something different.",
+          "hint": "Think about being happy with what you have",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en9_pinocchio",
+      "name": "Pinocchio (Story)",
+      "description": "Learn about the famous story of the wooden puppet who wants to become a real boy",
+      "topicId": "gr4_en_9_2",
+      "chapterId": "gr4_eng_ncert_u9",
+      "cards": [
+        {
+          "id": "card_gr4_en9_006",
+          "front": "Who is Pinocchio?",
+          "back": "Pinocchio is a wooden puppet made by an old carpenter named Geppetto. Unlike other puppets, Pinocchio can walk, talk, and think on his own. His greatest wish is to become a real boy.",
+          "hint": "He is made of wood but acts like a boy",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en9_007",
+          "front": "Who made Pinocchio and why?",
+          "back": "Geppetto, a kind old carpenter, made Pinocchio out of a special piece of wood. Geppetto was lonely and wished for a son, so he carved a puppet that magically came to life. Geppetto loved Pinocchio like his own child.",
+          "hint": "A lonely old man who worked with wood",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en9_008",
+          "front": "What happens when Pinocchio tells a lie?",
+          "back": "When Pinocchio tells a lie, his nose grows longer! The more lies he tells, the longer his nose becomes. This is a magical reminder that lying has consequences and that honesty is always the best choice.",
+          "hint": "Something on his face changes when he is dishonest",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en9_009",
+          "front": "What does Pinocchio learn during his adventures?",
+          "back": "Through his many adventures and mistakes, Pinocchio learns important lessons: always tell the truth, go to school and study, listen to your elders, be kind to others, and do not be lazy. These good qualities help him become a better person.",
+          "hint": "Think about the values he learns from his mistakes",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en9_010",
+          "front": "How does Pinocchio finally become a real boy?",
+          "back": "Pinocchio becomes a real boy when he proves that he is brave, truthful, and unselfish. He learns from all his mistakes, starts going to school, works hard, and takes care of Geppetto. His good behaviour and kind heart are rewarded, and the fairy turns him into a real boy at last!",
+          "hint": "Good behaviour and kindness are rewarded",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en9_punctuation",
+      "name": "Grammar: Punctuation",
+      "description": "Learn about the important marks we use in writing to make our sentences clear",
+      "topicId": "gr4_en_9_3",
+      "chapterId": "gr4_eng_ncert_u9",
+      "cards": [
+        {
+          "id": "card_gr4_en9_011",
+          "front": "What is punctuation?",
+          "back": "Punctuation is the set of marks or signs we use in writing to make our sentences clear and easy to read. Without punctuation, sentences would run together and be confusing. Common punctuation marks include the full stop (.), comma (,), question mark (?), and exclamation mark (!).",
+          "hint": "Special marks that help readers understand writing",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en9_012",
+          "front": "When do we use a full stop (.) in a sentence?",
+          "back": "We use a full stop at the end of a sentence that makes a statement or gives information. Examples: 'Pinocchio is a puppet.' 'Geppetto made him from wood.' 'I like reading books.' Every complete statement ends with a full stop.",
+          "hint": "It comes at the end of a telling sentence",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en9_013",
+          "front": "When do we use a question mark (?) in a sentence?",
+          "back": "We use a question mark at the end of a sentence that asks a question. Examples: 'What is your name?' 'Where are you going?' 'Did Pinocchio tell the truth?' If a sentence asks something, it always ends with a question mark.",
+          "hint": "It comes at the end of an asking sentence",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en9_014",
+          "front": "When do we use an exclamation mark (!) in a sentence?",
+          "back": "We use an exclamation mark at the end of a sentence that shows strong feelings like surprise, excitement, fear, or joy. Examples: 'What a beautiful day!' 'Help!' 'Pinocchio's nose is growing!' It shows that the sentence is said with strong emotion.",
+          "hint": "It shows strong feelings or surprise",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en9_015",
+          "front": "When do we use a comma (,) in a sentence?",
+          "back": "We use a comma to: (1) Separate items in a list: 'I bought apples, oranges, and bananas.' (2) Pause in a sentence: 'After school, I play cricket.' (3) When addressing someone: 'Pinocchio, come here!' Commas help readers know where to take a short pause.",
+          "hint": "It shows a short pause or separates items",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

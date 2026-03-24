@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_eng_ch2",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_e2_v1",
+      "videoId": "gr4_e2_v1",
+      "content": "This lesson introduces action verbs, the most common type of verb. Action verbs are words that tell us what someone or something does. They can show visible actions like running, jumping, and writing, or invisible actions that happen in our mind like thinking, dreaming, and remembering. Every sentence needs a verb to make sense, so learning to spot action verbs is an important skill.",
+      "keyPoints": [
+        "Action verbs show what someone or something does",
+        "Visible actions can be seen: run, jump, write, kick",
+        "Invisible actions happen in the mind: think, dream, believe",
+        "Every complete sentence must have a verb"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e2_v2",
+      "videoId": "gr4_e2_v2",
+      "content": "This lesson explains the simple present tense and how to use it correctly. The simple present tense is used for actions that happen regularly or are always true. The key rule to remember is subject-verb agreement: when the subject is he, she, or it (singular), we add -s or -es to the verb. When the subject is I, you, we, or they (plural), we use the base form of the verb without any changes.",
+      "keyPoints": [
+        "Simple present tense is for regular or habitual actions",
+        "Add -s to verbs for he, she, it: She plays",
+        "Add -es to verbs ending in ch, sh, s, x, o: He watches",
+        "Use base form for I, you, we, they: They play"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e2_v3",
+      "videoId": "gr4_e2_v3",
+      "content": "This lesson covers the present continuous tense, which shows an action that is happening right now at this very moment. To form the present continuous tense, we use a helping verb (is, am, or are) followed by the main verb with -ing added. For example, 'I am reading' or 'She is playing'. Signal words like 'right now', 'at this moment', and 'currently' tell us to use this tense.",
+      "keyPoints": [
+        "Present continuous shows actions happening right now",
+        "Formula: is/am/are + verb + ing",
+        "Use 'am' with I, 'is' with he/she/it, 'are' with you/we/they",
+        "Signal words: right now, at this moment, currently"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e2_v4",
+      "videoId": "gr4_e2_v4",
+      "content": "This lesson brings together action verbs and present tense in practice exercises. Students learn to identify verbs in sentences, determine whether to use simple present or present continuous tense, and apply subject-verb agreement rules. Common mistakes are discussed, such as forgetting to add -s for third person singular or confusing simple present with present continuous.",
+      "keyPoints": [
+        "Ask 'What is happening?' to find the verb in a sentence",
+        "Use simple present for habits; present continuous for right now",
+        "Do not forget -s or -es for he, she, or it",
+        "Practice spotting and correcting common verb mistakes"
+      ],
+      "source": "manual"
+    }
+  ]
+}

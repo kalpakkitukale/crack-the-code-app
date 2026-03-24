@@ -1,0 +1,155 @@
+name: streamshaala
+description: "Multi-platform educational video aggregator for Indian 12th standard students"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Icons
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.6.1
+
+  # Local Database
+  sqflite: ^2.4.1
+  sqflite_common_ffi: ^2.3.4  # For desktop platforms
+  path_provider: ^2.1.5
+  path: ^1.9.0
+
+  # Video Player
+  flutter_inappwebview: ^6.1.5  # For all platforms (Android, iOS, Web, Desktop)
+
+  # JSON & Data
+  json_annotation: ^4.9.0
+  freezed_annotation: ^2.4.4
+
+  # Navigation
+  go_router: ^14.6.2
+
+  # Utils
+  intl: ^0.20.1
+  equatable: ^2.0.7
+  dartz: ^0.10.1
+  logger: ^2.5.0
+  shared_preferences: ^2.3.3
+  flutter_secure_storage: ^9.2.2  # For secure storage of sensitive data (PIN, tokens)
+  http: ^1.2.2
+  crypto: ^3.0.5  # For PIN hashing in parental controls
+  uuid: ^4.5.1  # For generating unique profile IDs
+
+  # Platform Detection
+  universal_platform: ^1.1.0
+  flutter_platform_widgets: ^7.0.1
+
+  # UI Enhancements
+  shimmer: ^3.0.0
+  cached_network_image: ^3.4.1
+  flutter_svg: ^2.0.17
+  smooth_page_indicator: ^1.2.0+3
+
+  # Charts & Visualization
+  fl_chart: ^0.70.1
+  graphview: ^1.2.0
+
+  # Audio Playback
+  just_audio: ^0.9.40
+  flutter_tts: ^4.2.0
+
+  # Desktop specific
+  window_manager: ^0.4.3
+  tray_manager: ^0.5.1
+
+  # Web specific
+  url_strategy: ^0.3.0
+
+  # Firebase & Authentication
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.0
+  firebase_analytics: ^11.3.6
+  firebase_crashlytics: ^4.1.6
+  firebase_messaging: ^15.1.6
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.0
+  app_links: ^6.3.3
+
+  # Local Notifications
+  flutter_local_notifications: ^18.0.1
+
+  # Cloud Storage & Sync
+  googleapis: ^13.0.0
+  googleapis_auth: ^1.5.0
+  connectivity_plus: ^5.0.0
+  cryptography: ^2.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+  # Code Generation
+  build_runner: ^2.4.14
+  riverpod_generator: ^2.6.4
+  json_serializable: ^6.9.2
+  freezed: ^2.5.7
+
+  # Testing
+  mockito: ^5.4.4
+
+  # App Icons
+  flutter_launcher_icons: ^0.14.1
+  # Temporarily commented out to fix iOS release build issues
+  # integration_test:
+  #   sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/data/boards/
+    - assets/data/content/subjects/
+    - assets/data/content/chapters/
+    - assets/data/content/videos/
+    - assets/data/metadata/
+    - assets/data/quizzes/
+    - assets/data/quizzes/physics/
+    - assets/data/quizzes/mathematics/
+    - assets/data/quizzes/science/
+    - assets/data/quizzes/english/
+    - assets/data/quizzes/hindi/
+    - assets/data/quizzes/evs/
+    - assets/data/pedagogy/
+    - assets/data/gamification/
+    - assets/data/study_tools/
+    - assets/data/study_tools/summaries/
+    - assets/data/study_tools/glossary/
+    - assets/data/study_tools/mind_maps/
+    - assets/data/study_tools/flashcards/
+    - assets/data/study_tools/faqs/
+    - assets/data/study_tools/chapter_content/
+    - assets/data/assessments/
+    - assets/data/recommendations/
+    - assets/data/videos/
+    - assets/data/spelling/
+    - assets/data/spelling/word_lists/grade_1/
+    - assets/data/spelling/word_lists/grade_2/
+    - assets/data/spelling/word_lists/grade_3/
+    - assets/data/spelling/word_lists/grade_4/
+    - assets/data/spelling/word_lists/grade_5/
+    - assets/data/spelling/word_lists/grade_6/
+    - assets/data/spelling/word_lists/grade_7/
+    - assets/data/spelling/word_lists/grade_8/
+    - assets/images/
+    - assets/icons/

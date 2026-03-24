@@ -1,0 +1,134 @@
+{
+  "assessment": {
+    "id": "readiness_gr4_evs_ncert_ch3",
+    "type": "readiness",
+    "entityId": "gr4_evs_ncert_ch3",
+    "title": "A Day with Nandu - Readiness Assessment",
+    "description": "Check if you're ready to learn about elephants!",
+    "prerequisiteConcepts": [
+      "Basic knowledge of animals",
+      "Understanding of body parts",
+      "Concept of size and weight",
+      "Food and eating habits"
+    ],
+    "passingScore": 0.60,
+    "questionIds": ["ra_e3_001", "ra_e3_002", "ra_e3_003", "ra_e3_004", "ra_e3_005", "ra_e3_006", "ra_e3_007", "ra_e3_008"],
+    "config": {
+      "allowReview": true,
+      "showScoreBreakdown": true,
+      "recommendationsEnabled": true
+    }
+  },
+  "questions": [
+    {
+      "id": "ra_e3_001",
+      "questionText": "Which is the largest land animal?",
+      "questionType": "mcq",
+      "options": ["Lion", "Elephant", "Giraffe", "Rhino"],
+      "correctAnswer": "B",
+      "explanation": "The elephant is the largest land animal on Earth.",
+      "conceptTested": "Basic animal knowledge",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_e3_002",
+      "questionText": "Animals that eat only plants are called:",
+      "questionType": "mcq",
+      "options": ["Carnivores", "Herbivores", "Omnivores", "Scavengers"],
+      "correctAnswer": "B",
+      "explanation": "Herbivores are animals that eat only plants. Examples include elephants, cows, and deer.",
+      "conceptTested": "Food habits classification",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_e3_003",
+      "questionText": "Which of these is NOT a body part?",
+      "questionType": "mcq",
+      "options": ["Trunk", "Tail", "Legs", "Water"],
+      "correctAnswer": "D",
+      "explanation": "Water is not a body part. Trunk, tail, and legs are body parts.",
+      "conceptTested": "Understanding body parts",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_e3_004",
+      "questionText": "True or False: Some animals live in groups.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Many animals like elephants, lions, and wolves live in groups for protection and hunting.",
+      "conceptTested": "Animal social behavior",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_e3_005",
+      "questionText": "Which unit is used to measure the weight of heavy animals?",
+      "questionType": "mcq",
+      "options": ["Centimeters", "Liters", "Kilograms", "Meters"],
+      "correctAnswer": "C",
+      "explanation": "Kilograms (kg) is used to measure weight. Elephants can weigh thousands of kilograms!",
+      "conceptTested": "Measurement concepts",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_e3_006",
+      "questionText": "A baby cow is called a calf. What might a baby elephant be called?",
+      "questionType": "mcq",
+      "options": ["Puppy", "Kitten", "Calf", "Cub"],
+      "correctAnswer": "C",
+      "explanation": "Like baby cows, baby elephants are also called calves!",
+      "conceptTested": "Animal terminology",
+      "difficulty": "intermediate",
+      "points": 2
+    },
+    {
+      "id": "ra_e3_007",
+      "questionText": "True or False: All animals need water to survive.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! All animals need water to survive. Elephants drink a lot of water every day.",
+      "conceptTested": "Basic survival needs",
+      "difficulty": "basic",
+      "points": 1
+    },
+    {
+      "id": "ra_e3_008",
+      "questionText": "Where do elephants naturally live?",
+      "questionType": "mcq",
+      "options": ["In the ocean", "In forests and grasslands", "In the sky", "In ice"],
+      "correctAnswer": "B",
+      "explanation": "Elephants live in forests and grasslands in Africa and Asia.",
+      "conceptTested": "Animal habitats",
+      "difficulty": "basic",
+      "points": 1
+    }
+  ],
+  "scoringRubric": {
+    "excellent": {
+      "minScore": 0.90,
+      "message": "Excellent! You have strong background knowledge about animals. You're ready to dive deep into learning about elephants!",
+      "recommendation": "proceed"
+    },
+    "good": {
+      "minScore": 0.70,
+      "message": "Good job! You know quite a bit about animals. You're ready to learn about elephants.",
+      "recommendation": "proceed"
+    },
+    "needsReview": {
+      "minScore": 0.50,
+      "message": "You have some knowledge about animals. Let's quickly review some basics before learning about elephants.",
+      "recommendation": "review_basics"
+    },
+    "needsPrep": {
+      "minScore": 0,
+      "message": "Let's build some foundation knowledge about animals first. Then learning about elephants will be much easier!",
+      "recommendation": "foundational_content"
+    }
+  }
+}

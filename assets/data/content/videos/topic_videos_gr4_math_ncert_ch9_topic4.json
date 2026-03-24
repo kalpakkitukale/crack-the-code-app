@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn9_t4",
+  "topicId": "gr4_mn_9_4",
+  "topicName": "Multiplication Word Problems",
+  "chapterId": "gr4_math_ncert_ch9",
+  "chapterName": "Equal Groups",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2310,
+    "totalDurationDisplay": "38:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_9_1", "gr4_mn_9_2", "gr4_mn_9_3"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn9_v6",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Multiplication Word Problems | Solving Real-Life Multiplication",
+      "description": "Solve fun multiplication word problems from everyday life! Learn to spot when a problem needs multiplication and set up the correct equation.",
+      "youtubeId": "LyPFRMidxNE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LyPFRMidxNE",
+      "thumbnailUrl": "https://img.youtube.com/vi/LyPFRMidxNE/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 720000,
+      "tags": ["word problems", "multiplication problems", "real life multiplication", "application"],
+      "learningObjectives": ["Identify multiplication in word problems", "Set up multiplication equations from stories", "Solve real-life multiplication problems"],
+      "keyConceptsCovered": ["Keywords for multiplication in word problems", "Setting up multiplication equations", "Real-life multiplication situations"],
+      "prerequisites": ["Times tables", "Equal groups", "Arrays"],
+      "followUpTopics": ["Multi-step word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "What is Multiplication? | Equal Groups for Kids",
+      "description": "Review equal groups and apply them to word problems. When a problem says 'each', 'every', or 'per', think multiplication!",
+      "youtubeId": "mvOkMYCygps",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mvOkMYCygps",
+      "thumbnailUrl": "https://img.youtube.com/vi/mvOkMYCygps/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["equal groups", "word problems", "multiplication application"],
+      "learningObjectives": ["Apply equal groups to word problems", "Identify 'groups of' in story problems", "Draw pictures to solve word problems"],
+      "keyConceptsCovered": ["Equal groups in word problems", "Drawing pictures for word problems", "Key words: each, every, per"],
+      "prerequisites": ["Equal groups concept"],
+      "followUpTopics": ["Complex word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v5",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Times Tables Made Easy | Learn Multiplication Tables",
+      "description": "Use your times tables to solve word problems quickly! When you know your facts, solving word problems becomes fast and easy.",
+      "youtubeId": "xO_1bYgoQvA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xO_1bYgoQvA",
+      "thumbnailUrl": "https://img.youtube.com/vi/xO_1bYgoQvA/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3800000,
+      "tags": ["times tables", "word problems", "quick multiplication", "application"],
+      "learningObjectives": ["Apply times tables to word problems", "Solve word problems quickly using known facts", "Choose the right multiplication fact"],
+      "keyConceptsCovered": ["Applying times tables to real problems", "Quick recall for word problems", "Choosing the correct operation"],
+      "prerequisites": ["Times tables"],
+      "followUpTopics": ["Multi-step problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v2",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Making Equal Groups | Multiplication as Repeated Addition",
+      "description": "Practise solving word problems by drawing equal groups. Use pictures and repeated addition to check your multiplication answers in story problems.",
+      "youtubeId": "dFpVMGjYfI4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dFpVMGjYfI4",
+      "thumbnailUrl": "https://img.youtube.com/vi/dFpVMGjYfI4/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2200000,
+      "tags": ["equal groups", "word problems", "practice", "drawing groups"],
+      "learningObjectives": ["Draw equal groups to solve word problems", "Verify answers using repeated addition", "Solve mixed word problems"],
+      "keyConceptsCovered": ["Drawing groups for word problems", "Checking answers with repeated addition", "Mixed multiplication word problems"],
+      "prerequisites": ["Equal groups", "Word problem basics"],
+      "followUpTopics": ["Complex word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v3",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Arrays in Multiplication | Rows and Columns",
+      "description": "Challenge yourself with array-based word problems! Can you find the total number of seats in a theatre with 8 rows and 6 seats in each row?",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["arrays", "word problems", "challenge", "application"],
+      "learningObjectives": ["Solve array-based word problems", "Apply all multiplication strategies to complex problems", "Build confidence with challenging multiplication"],
+      "keyConceptsCovered": ["Array word problems", "Multi-strategy problem solving", "Real-world arrays"],
+      "prerequisites": ["All previous multiplication topics"],
+      "followUpTopics": ["Next chapter topics"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn9_v6", "gr4_mn9_v1", "gr4_mn9_v2", "gr4_mn9_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1830,
+      "estimatedTimeDisplay": "30:30",
+      "rationale": "Word problems with drawing and array challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn9_v6", "gr4_mn9_v1", "gr4_mn9_v5", "gr4_mn9_v2", "gr4_mn9_v3"],
+      "totalVideos": 5,
+      "estimatedTime": 2310,
+      "estimatedTimeDisplay": "38:30",
+      "rationale": "Complete word problems coverage with all strategies"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn9_v1", "gr4_mn9_v6", "gr4_mn9_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1440,
+      "estimatedTimeDisplay": "24:00",
+      "rationale": "Core word problems with times tables support"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn9_v6", "gr4_mn9_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Essential word problems only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn9_v1",
+      "checkpointName": "Word Problems Understanding Check",
+      "questions": [
+        {
+          "question": "There are 6 bags. Each bag has 4 oranges. How many oranges are there in total?",
+          "options": ["10 oranges", "18 oranges", "24 oranges", "30 oranges"],
+          "correctAnswer": 2,
+          "explanation": "6 bags with 4 oranges each: 6 x 4 = 24 oranges. We can check: 4 + 4 + 4 + 4 + 4 + 4 = 24. Correct!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Help students identify key words in word problems: 'each', 'every', 'per', 'groups of'. Have students draw pictures before writing equations. Start with simple 1-step problems before introducing multi-step.",
+    "parentGuidance": "Create word problems from daily life! How many wheels on 4 cars? How many legs on 6 spiders? How many fingers on 5 hands? Let your child write the multiplication equation.",
+    "studentGuidance": "When you see a word problem, look for the clues! 'Each', 'every', and 'per' usually mean multiplication. Draw a picture of the groups to help you set up the equation."
+  }
+}

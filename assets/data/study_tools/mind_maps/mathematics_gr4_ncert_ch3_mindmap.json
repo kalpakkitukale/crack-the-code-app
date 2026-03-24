@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_math_ncert_ch3",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Patterns Around Us",
+      "description": "Recognising, creating, and extending patterns in shapes and numbers",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_repeating",
+      "label": "Repeating Patterns",
+      "description": "Patterns where the same group repeats over and over",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_core",
+      "label": "Core of a Pattern",
+      "description": "The smallest group that keeps repeating",
+      "parentId": "node_repeating",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_real_life_rep",
+      "label": "Real-Life Examples",
+      "description": "Floor tiles, rangoli borders, mehndi designs, saree patterns",
+      "parentId": "node_repeating",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_growing",
+      "label": "Growing Patterns",
+      "description": "Patterns where each step gets bigger or changes",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_add_rule",
+      "label": "Add a Fixed Number",
+      "description": "Example: 2, 5, 8, 11 (add 3 each time)",
+      "parentId": "node_growing",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_shape_grow",
+      "label": "Shape Growth",
+      "description": "Shapes that grow step by step, like staircase patterns",
+      "parentId": "node_growing",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_number_seq",
+      "label": "Number Sequences",
+      "description": "Lists of numbers that follow a rule",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_increase",
+      "label": "Increasing Sequences",
+      "description": "Numbers that go up: 10, 20, 30, 40...",
+      "parentId": "node_number_seq",
+      "positionX": 180,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_decrease",
+      "label": "Decreasing Sequences",
+      "description": "Numbers that go down: 50, 45, 40, 35...",
+      "parentId": "node_number_seq",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_rules",
+      "label": "Finding the Rule",
+      "description": "Looking at what changes between steps to discover the rule",
+      "parentId": "node_root",
+      "positionX": 400,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_diff",
+      "label": "Finding Differences",
+      "description": "Subtract one number from the next to find the rule",
+      "parentId": "node_rules",
+      "positionX": 340,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_predict",
+      "label": "Predicting Next Terms",
+      "description": "Using the rule to tell what comes next",
+      "parentId": "node_rules",
+      "positionX": 460,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_odd_even",
+      "label": "Odd & Even Patterns",
+      "description": "Odd numbers end in 1,3,5,7,9; Even numbers end in 0,2,4,6,8",
+      "parentId": "node_number_seq",
+      "positionX": 240,
+      "positionY": 280,
+      "color": "#CE93D8",
+      "orderIndex": 13
+    }
+  ]
+}

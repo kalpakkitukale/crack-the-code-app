@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_eng_ncert_u8",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en8",
+    "title": "Books / Going to Buy a Book",
+    "content": "Unit 8 of the NCERT Marigold textbook is all about the wonderful world of books and reading. The unit begins with a poem called 'Books' that celebrates how reading can transport us to faraway lands, fill our minds with ideas, and become our lifelong friends. The story 'Going to Buy a Book' follows a child's exciting trip to a bookshop, where they discover many kinds of books and learn to choose one of their own. The grammar section introduces articles -- the words 'a', 'an', and 'the' -- and teaches students when and how to use each one correctly. By the end of this unit, students will appreciate the value of reading, know how to care for books, and be confident in using articles in their sentences.",
+    "keyPoints": [
+      "The poem 'Books' compares books to friends and treasures that spark imagination",
+      "The story shows the excitement of visiting a bookshop and choosing a book",
+      "Books come in many types: storybooks, picture books, fairy tales, and more",
+      "'A' is used before consonant sounds, 'an' before vowel sounds",
+      "'The' is used for specific things or things already mentioned",
+      "The article rule depends on the sound of the next word, not its spelling"
+    ],
+    "learningObjectives": [
+      "Read and enjoy the poem 'Books' and identify its rhyming words and message",
+      "Understand the story and describe the experience of visiting a bookshop",
+      "Identify and correctly use the articles 'a', 'an', and 'the' in sentences",
+      "Distinguish between vowel sounds and consonant sounds for article usage",
+      "Build vocabulary with new words related to books and reading"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en8_001",
+      "title": "Easy Article Trick",
+      "content": "Not sure whether to use 'a' or 'an'? Say the next word out loud and listen to the first sound. If your mouth is open and the sound flows freely (a, e, i, o, u sounds), use 'an'. If your lips, tongue, or teeth block the sound (b, c, d, f, g... sounds), use 'a'. Practice with these: ___ orange, ___ ball, ___ umbrella, ___ horse, ___ hour. (Answers: an, a, an, a, an)",
+      "tags": ["study-tip", "articles", "grammar-rule"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en8_002",
+      "title": "Build Your Own Mini Library",
+      "content": "Start collecting books you love! Ask family members for old books, exchange books with friends, or visit a book fair. Even 5-10 books can be your mini library. Arrange them neatly on a shelf, label them, and keep a list of books you have read. This will help you develop a lifelong love for reading, just like the child in the story!",
+      "tags": ["activity", "reading-habit"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en8_003",
+      "title": "Tricky Articles to Remember",
+      "content": "Some articles are tricky because the spelling and sound do not match: 'an hour' (silent h), 'an honest person' (silent h), 'a university' (sounds like yoo-), 'a European country' (sounds like yoo-), 'an MBA' (sounds like em-). Always listen to the sound! Write these tricky ones in your notebook and revise them.",
+      "tags": ["important", "grammar-rule", "exceptions"],
+      "isPinned": false
+    }
+  ]
+}

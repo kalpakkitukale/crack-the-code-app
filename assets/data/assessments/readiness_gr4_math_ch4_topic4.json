@@ -1,0 +1,435 @@
+{
+  "assessmentId": "readiness_gr4_m4_t4",
+  "topicId": "gr4_m_4_4",
+  "topicName": "Expanded Form and Word Form (4-digit Numbers)",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning expanded and word form of 4-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_4digit",
+      "conceptName": "Place value in 4-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_pv4_v1", "prereq_pv4_v2"]
+    },
+    {
+      "conceptId": "expanded_form_3digit",
+      "conceptName": "Expanded form of 2-digit and 3-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_exp_v1", "prereq_exp_v2"]
+    },
+    {
+      "conceptId": "word_form_basics",
+      "conceptName": "Reading and writing numbers in words",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_word_v1"]
+    },
+    {
+      "conceptId": "addition_basics",
+      "conceptName": "Basic addition (understanding sums)",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_add_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "What is the place value of 5 in the number 2,537?",
+
+      "options": [
+        "5",
+        "50",
+        "500",
+        "5000"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "500",
+
+      "explanation": "The digit 5 is in the hundreds place. So its place value is 5 × 100 = 500.",
+
+      "tags": ["place value", "hundreds place", "4-digit numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused face value (5) with place value (500)",
+          "conceptGap": "Understanding difference between face value and place value",
+          "remediation": "Review place value in 4-digit numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "In the number 7,246, which digit has the place value of 7000?",
+
+      "options": [
+        "2",
+        "4",
+        "6",
+        "7"
+      ],
+
+      "correctAnswer": 3,
+      "correctAnswerText": "7",
+
+      "explanation": "The digit 7 is in the thousands place, so its place value is 7 × 1000 = 7000.",
+
+      "tags": ["place value", "thousands place", "identification"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Selected the hundreds place digit",
+          "conceptGap": "Identifying thousands place",
+          "remediation": "Review place value positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "True or False: In the number 4,856, the 8 represents 800.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The digit 8 is in the hundreds place, so it represents 8 × 100 = 800.",
+
+      "tags": ["place value", "hundreds place", "value representation"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Thought 8 represents 80 or 8",
+          "conceptGap": "Place value calculation",
+          "remediation": "Practice calculating place value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "expanded_form_3digit",
+
+      "question": "What is the expanded form of 453?",
+
+      "options": [
+        "400 + 50 + 3",
+        "4 + 5 + 3",
+        "450 + 3",
+        "453"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "400 + 50 + 3",
+
+      "explanation": "Expanded form shows the place value of each digit: 453 = 400 + 50 + 3.",
+
+      "tags": ["expanded form", "3-digit numbers", "place value"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Used face values instead of place values",
+          "conceptGap": "Understanding expanded form concept",
+          "remediation": "Review expanded form basics"
+        },
+        {
+          "wrongAnswer": 2,
+          "mistake": "Didn't expand all digits",
+          "conceptGap": "Incomplete expansion",
+          "remediation": "Practice expanding all place values"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "expanded_form_3digit",
+
+      "question": "Which number is represented by: 600 + 20 + 8?",
+
+      "options": [
+        "6028",
+        "628",
+        "6208",
+        "608"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "628",
+
+      "explanation": "Add the place values: 600 + 20 + 8 = 628.",
+
+      "tags": ["expanded form", "converting to standard form", "addition"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Wrote digits side by side without adding: 6, 02, 8",
+          "conceptGap": "Understanding expanded form means addition",
+          "remediation": "Review how to convert expanded form to standard form"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "fill_blank",
+      "difficulty": "intermediate",
+      "conceptTested": "expanded_form_3digit",
+
+      "question": "Fill in the blank: 789 = 700 + ___ + 9",
+
+      "correctAnswer": "80",
+      "acceptedAnswers": ["80", "eighty"],
+
+      "explanation": "789 = 700 + 80 + 9. The tens place value is 80.",
+
+      "tags": ["expanded form", "missing value", "tens place"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": "8",
+          "mistake": "Used face value instead of place value",
+          "conceptGap": "Place value vs face value in expanded form",
+          "remediation": "Review that expanded form uses place values"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "word_form_basics",
+
+      "question": "What is 245 written in words?",
+
+      "options": [
+        "Two hundred forty-five",
+        "Two four five",
+        "Twenty-four five",
+        "Two thousand forty-five"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Two hundred forty-five",
+
+      "explanation": "245 in words is 'Two hundred forty-five'. We read the hundreds, then the remaining two-digit number.",
+
+      "tags": ["word form", "3-digit numbers", "number names"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Read each digit separately",
+          "conceptGap": "Understanding how to read numbers in words",
+          "remediation": "Review reading numbers in words"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "word_form_basics",
+
+      "question": "Which number is represented by 'Three hundred sixty-two'?",
+
+      "options": [
+        "3062",
+        "362",
+        "3620",
+        "30062"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "362",
+
+      "explanation": "'Three hundred sixty-two' means 300 + 60 + 2 = 362.",
+
+      "tags": ["word form", "converting to standard form", "3-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added extra zeros",
+          "conceptGap": "Understanding place value from word form",
+          "remediation": "Review converting word form to standard form"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_basics",
+
+      "question": "What is 3000 + 400 + 50 + 6?",
+
+      "options": [
+        "3456",
+        "30456",
+        "34056",
+        "3465"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "3456",
+
+      "explanation": "Add the values: 3000 + 400 + 50 + 6 = 3456.",
+
+      "tags": ["addition", "place values", "combining"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Placed digits side by side without proper place values",
+          "conceptGap": "Understanding addition of place values",
+          "remediation": "Review addition with zeros"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "addition_basics",
+
+      "question": "Which statement about expanded form is TRUE?",
+
+      "options": [
+        "Expanded form always has three numbers being added",
+        "Expanded form shows the place value of each digit",
+        "Expanded form is the same as word form",
+        "Expanded form only works with 3-digit numbers"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Expanded form shows the place value of each digit",
+
+      "explanation": "Expanded form breaks a number into the sum of its place values. Example: 2,345 = 2000 + 300 + 40 + 5.",
+
+      "tags": ["expanded form", "concept understanding", "definition"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Confused expanded form with word form",
+          "conceptGap": "Understanding different number forms",
+          "remediation": "Review difference between expanded and word form"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong understanding of place value and expanded form. You're ready to learn about expanded and word form of 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand place value and basic expanded form. Let's extend this to 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in prerequisite knowledge. Watch review videos on place value and basic expanded form before learning the new content.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review prerequisite concepts first. We'll start with place value and basic expanded form, then you can learn about 4-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you review place value and expanded form concepts.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about expanded and word form of 4-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

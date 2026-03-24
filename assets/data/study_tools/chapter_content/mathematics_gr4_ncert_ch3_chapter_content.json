@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_math_ncert_ch3",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn3",
+    "title": "Patterns Around Us",
+    "content": "This chapter helps students discover and understand the wonderful world of patterns. Students learn about two main types: repeating patterns (where a core group comes back again and again) and growing patterns (where each step changes by following a rule). The chapter uses everyday examples from Indian life -- rangoli designs, floor tiles, saree borders, and mehndi art -- to make patterns fun and relatable. Students also explore number sequences, learn to find the rule behind a pattern, and use that rule to predict what comes next.",
+    "keyPoints": [
+      "A repeating pattern has a core that comes back in the same order again and again",
+      "A growing pattern changes at each step, usually by getting bigger",
+      "Number sequences follow rules like 'add 3' or 'subtract 5'",
+      "Finding the difference between consecutive numbers helps discover the rule",
+      "Multiplication tables are number patterns (e.g., table of 4: 4, 8, 12, 16...)",
+      "Patterns appear in nature, art, music, and everyday objects"
+    ],
+    "learningObjectives": [
+      "Identify and extend repeating patterns using shapes, colours, and objects",
+      "Find the core of a repeating pattern",
+      "Recognise growing patterns and describe how they change",
+      "Discover the rule behind a number sequence",
+      "Predict the next terms in a pattern using the rule",
+      "Create original patterns using shapes and numbers"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn3_001",
+      "title": "Two Types of Patterns",
+      "content": "Repeating patterns have a core that keeps coming back. Example: red, blue, blue, red, blue, blue -- the core is 'red, blue, blue'. Growing patterns change at each step. Example: 1, 3, 5, 7 -- the pattern grows by adding 2. To tell the difference, ask yourself: does the same group come back, or does each step change?",
+      "tags": ["key-concept", "pattern-types"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn3_002",
+      "title": "How to Find the Rule",
+      "content": "Step 1: Write down the numbers in the pattern. Step 2: Subtract each number from the next one. Step 3: If all the differences are the same, that number is your rule. Example: 6, 12, 18, 24. Differences: 12-6=6, 18-12=6, 24-18=6. Rule: add 6. For decreasing patterns like 40, 35, 30, 25: differences are all 5, so the rule is subtract 5.",
+      "tags": ["study-tip", "problem-solving"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn3_003",
+      "title": "Patterns Are Everywhere!",
+      "content": "Look around you for patterns! The tiles on your floor, the bricks in a wall, the design on a churidar, the petals on a flower, the stripes on a flag -- all have patterns. Even time follows a pattern: Monday, Tuesday, Wednesday... repeats every week. Music has rhythm patterns too. The more you look, the more patterns you will find!",
+      "tags": ["real-world", "observation"],
+      "isPinned": false
+    }
+  ]
+}

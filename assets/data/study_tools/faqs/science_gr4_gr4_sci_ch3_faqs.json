@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_sci_ch3",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_s3_001",
+      "videoId": "gr4_s3_v1",
+      "question": "What is matter?",
+      "answer": "Matter is anything that takes up space and has weight. Everything you can see, touch, or feel is matter. Your books, the water in your bottle, and even the air around you are all made of matter. The three states of matter are solid, liquid, and gas.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_s3_002",
+      "videoId": "gr4_s3_v1",
+      "question": "What are the three states of matter?",
+      "answer": "The three states of matter are solid, liquid, and gas. Solids have a fixed shape (like a stone). Liquids can flow and take the shape of their container (like water). Gases spread out and fill all the space available (like the air we breathe).",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_s3_003",
+      "videoId": "gr4_s3_v2",
+      "question": "Why does ice cream melt on a hot day?",
+      "answer": "Ice cream is a solid. When it gets warm, the heat makes the tiny particles inside move faster and spread apart. The solid ice cream turns into a liquid. This process is called melting. That is why you need to eat your ice cream quickly on a hot day!",
+      "status": "answered",
+      "upvotes": 28
+    },
+    {
+      "id": "faq_gr4_s3_004",
+      "videoId": "gr4_s3_v2",
+      "question": "Is butter a solid or a liquid?",
+      "answer": "Butter is a solid when it is cold, like when you take it out of the fridge. But when you heat it in a pan, it melts and becomes a liquid. This is a great example of how matter can change its state when heated or cooled!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_s3_005",
+      "videoId": "gr4_s3_v3",
+      "question": "Why does water take the shape of its container?",
+      "answer": "Water is a liquid, and the particles in a liquid are not fixed in one place. They can slide over each other and move around. So when you pour water into a glass, the water particles spread out and settle into the shape of the glass. The same water takes a different shape in a bowl or a bottle.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_s3_006",
+      "videoId": "gr4_s3_v3",
+      "question": "Where does the water go when a puddle dries up?",
+      "answer": "The water does not disappear! It turns into water vapour, which is water in gas form. The heat from the sun gives energy to the water particles, making them move fast enough to escape into the air. This process is called evaporation. The water is now in the air as invisible water vapour.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_s3_007",
+      "videoId": "gr4_s3_v4",
+      "question": "Why do we see drops of water on the outside of a cold glass?",
+      "answer": "The air around us has invisible water vapour in it. When this warm water vapour touches the cold surface of the glass, it cools down and turns back into tiny liquid water drops. This process is called condensation. It is the opposite of evaporation!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_s3_008",
+      "videoId": "gr4_s3_v4",
+      "question": "Can we see gases?",
+      "answer": "Most gases are invisible, which means we cannot see them. We cannot see the oxygen we breathe or the nitrogen in the air. But we can feel gases, like when wind blows on our face. We can also smell some gases, like the smell of perfume spreading in a room. Sometimes we can see the effects of gas, like steam rising from hot water.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_s3_009",
+      "videoId": "gr4_s3_v4",
+      "question": "What happens to water when it boils?",
+      "answer": "When water is heated to 100 degrees Celsius, it starts to boil. You can see bubbles forming inside the water and steam rising from the surface. The liquid water is turning into a gas called water vapour or steam. If you keep heating it, all the water will eventually turn into gas and the pot will be empty!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_s3_010",
+      "videoId": "gr4_s3_v1",
+      "question": "How does a balloon show that air takes up space?",
+      "answer": "When you blow air into a balloon, the balloon gets bigger and bigger. This happens because the air (which is a gas) fills up the space inside the balloon. The gas pushes against the walls of the balloon and stretches it. This proves that even though we cannot see air, it is real matter that takes up space!",
+      "status": "answered",
+      "upvotes": 23
+    }
+  ]
+}

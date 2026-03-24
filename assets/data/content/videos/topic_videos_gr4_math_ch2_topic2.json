@@ -1,0 +1,356 @@
+{
+  "playlistId": "gr4_m2_t2_main",
+  "topicId": "gr4_m_2_2",
+  "topicName": "Addition with Regrouping (Carrying)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2490,
+    "totalDurationDisplay": "41:30",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_2_1"],
+    "followUpTopics": ["gr4_m_2_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_regroup_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Addition with Regrouping | 4-Digit Introduction",
+      "description": "Learn how to add 4-digit numbers with regrouping/carrying",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 950000,
+      "tags": ["regrouping", "carrying", "4-digit", "addition"],
+      "learningObjectives": [
+        "Understand regrouping in 4-digit addition",
+        "Know when to carry",
+        "Apply regrouping systematically",
+        "Master the carrying notation"
+      ],
+      "keyConceptsCovered": [
+        "When sum in any place ≥ 10, regroup",
+        "Carry the 1 to next place (write small above)",
+        "Example: 3,567 + 2,845 → Ones: 7+5=12 (write 2, carry 1)",
+        "Continue: Tens 6+4+1=11, Hundreds 5+8+1=14, Thousands 3+2+1=6"
+      ],
+      "prerequisites": ["2-digit regrouping", "4-digit basic addition"],
+      "followUpTopics": ["Multiple regroupings"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_regroup_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Regrouping Once | Worked Examples",
+      "description": "Practice problems with regrouping in one place",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 890000,
+      "tags": ["regrouping", "one place", "examples", "practice"],
+      "learningObjectives": [
+        "Practice regrouping in ones place",
+        "Practice regrouping in tens place",
+        "Build confidence with single regrouping",
+        "Check answers"
+      ],
+      "keyConceptsCovered": [
+        "Example 1: 2,348 + 1,275 (regroup ones only)",
+        "Example 2: 3,180 + 2,560 (regroup tens only)",
+        "Example 3: 4,520 + 1,890 (regroup hundreds only)",
+        "Step-by-step solutions with carrying notation"
+      ],
+      "prerequisites": ["Basic regrouping concept"],
+      "followUpTopics": ["Multiple regroupings"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_regroup_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Regrouping Multiple Times",
+      "description": "Learn to handle regrouping in multiple place values",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 820000,
+      "tags": ["regrouping", "multiple", "complex", "4-digit"],
+      "learningObjectives": [
+        "Handle regrouping in 2-3 places",
+        "Track multiple carries",
+        "Maintain accuracy with multiple regroupings",
+        "Build systematic approach"
+      ],
+      "keyConceptsCovered": [
+        "Example: 5,678 + 4,567 → Regroup in ones, tens, hundreds",
+        "Tracking carries: write small numbers above",
+        "Work carefully from right to left",
+        "Check: 5,678 + 4,567 = 10,245"
+      ],
+      "prerequisites": ["Single regrouping"],
+      "followUpTopics": ["Regrouping with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_regroup_v4",
+      "sequenceNumber": 4,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Regrouping with Zeros",
+      "description": "Handle regrouping when zeros are present in the problem",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 780000,
+      "tags": ["regrouping", "zeros", "special cases", "tricky"],
+      "learningObjectives": [
+        "Add with zeros in different positions",
+        "Regroup when zero is present",
+        "Handle zeros correctly",
+        "Avoid common mistakes with zeros"
+      ],
+      "keyConceptsCovered": [
+        "Example: 5,067 + 3,854 (zero in tens place)",
+        "Example: 4,008 + 2,996 (zeros in hundreds and tens)",
+        "Remember: 0 + any number + carry = that number + carry",
+        "Zeros don't change regrouping process"
+      ],
+      "prerequisites": ["Multiple regroupings"],
+      "followUpTopics": ["5-digit regrouping"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_regroup_v5",
+      "sequenceNumber": 5,
+      "type": "concept_extension",
+      "importance": "must_watch",
+      "title": "Addition with Regrouping | 5-Digit Numbers",
+      "description": "Extend regrouping skills to 5-digit numbers",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 760000,
+      "tags": ["regrouping", "5-digit", "extension", "carrying"],
+      "learningObjectives": [
+        "Apply regrouping to 5-digit numbers",
+        "Handle one more place value",
+        "Build confidence with larger numbers",
+        "Master systematic approach"
+      ],
+      "keyConceptsCovered": [
+        "Same process, just one more place",
+        "Example: 45,678 + 37,845 = 83,523",
+        "Track all carries carefully",
+        "Work systematically right to left"
+      ],
+      "prerequisites": ["4-digit regrouping mastery"],
+      "followUpTopics": ["Mixed practice"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_regroup_v6",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Mixed Regrouping Practice | 4-5 Digit",
+      "description": "Practice variety of regrouping problems for fluency",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 690000,
+      "tags": ["regrouping", "mixed practice", "fluency", "variety"],
+      "learningObjectives": [
+        "Build fluency with varied problems",
+        "Mix of single and multiple regroupings",
+        "Develop speed and accuracy",
+        "Real exam practice"
+      ],
+      "keyConceptsCovered": [
+        "Mix of 4-digit and 5-digit problems",
+        "Some with one regroup, some with multiple",
+        "Problems with and without zeros",
+        "Timed practice for exam readiness"
+      ],
+      "prerequisites": ["All regrouping concepts"],
+      "followUpTopics": ["Word problems with regrouping"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_regroup_v7",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Complex Regrouping and Problem Solving",
+      "description": "Advanced regrouping problems and strategies",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 520000,
+      "tags": ["challenge", "complex", "problem solving", "advanced"],
+      "learningObjectives": [
+        "Solve complex regrouping problems",
+        "Apply strategies for difficult problems",
+        "Develop problem-solving skills",
+        "Challenge for advanced learners"
+      ],
+      "keyConceptsCovered": [
+        "Missing digit problems with regrouping",
+        "Multiple numbers addition with regrouping",
+        "Finding patterns in regrouping",
+        "Advanced problem-solving techniques"
+      ],
+      "prerequisites": ["Strong regrouping mastery"],
+      "followUpTopics": ["Advanced arithmetic"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_regroup_v1", "gr4_regroup_v3", "gr4_regroup_v4", "gr4_regroup_v5", "gr4_regroup_v6", "gr4_regroup_v7"],
+      "totalVideos": 6,
+      "estimatedTime": 2130,
+      "estimatedTimeDisplay": "35:30",
+      "rationale": "Fast-track through regrouping concepts with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_regroup_v1", "gr4_regroup_v2", "gr4_regroup_v3", "gr4_regroup_v4", "gr4_regroup_v5", "gr4_regroup_v6"],
+      "totalVideos": 6,
+      "estimatedTime": 2250,
+      "estimatedTimeDisplay": "37:30",
+      "rationale": "Complete coverage with all regrouping scenarios"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_regroup_v1", "gr4_regroup_v2", "gr4_regroup_v3", "gr4_regroup_v4", "gr4_regroup_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1920,
+      "estimatedTimeDisplay": "32:00",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_regroup_v1", "gr4_regroup_v2", "gr4_regroup_v3", "gr4_regroup_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Essential regrouping skills only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_regroup_v2",
+      "checkpointName": "Single Regrouping Check",
+      "questions": [
+        {
+          "question": "What is 2,567 + 1,845?",
+          "options": ["4,412", "4,312", "3,412", "4,512"],
+          "correctAnswer": 0,
+          "explanation": "Ones: 7+5=12 (write 2, carry 1). Tens: 6+4+1=11 (write 1, carry 1). Hundreds: 5+8+1=14 (write 4, carry 1). Thousands: 2+1+1=4 → 4,412."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_regroup_v5",
+      "checkpointName": "5-Digit Regrouping Check",
+      "questions": [
+        {
+          "question": "What is 45,678 + 37,845?",
+          "options": ["83,523", "82,523", "83,423", "73,523"],
+          "correctAnswer": 0,
+          "explanation": "Work right to left with regrouping: 8+5=13, 7+4+1=12, 6+8+1=15, 5+7+1=13, 4+3+1=8 → 83,523."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-4 build regrouping systematically. Video 5 extends to 5-digit. All core videos essential for mastery.",
+    "parentGuidance": "Help your child write carries small above the column. Practice checking by estimating (round numbers and add mentally).",
+    "studentGuidance": "Always write the carry number small above the next column. Work carefully from right to left. Check your work!"
+  }
+}

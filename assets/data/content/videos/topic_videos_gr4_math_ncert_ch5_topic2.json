@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn5_t2",
+  "topicId": "gr4_mn_5_2",
+  "topicName": "Division Facts",
+  "chapterId": "gr4_math_ncert_ch5",
+  "chapterName": "Sharing and Measuring",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2396,
+    "totalDurationDisplay": "39:56",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_5_1"],
+    "followUpTopics": ["gr4_mn_5_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn5_v2",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Basic Division | Understanding Division Facts",
+      "description": "Learn basic division facts and how to divide small numbers. Understand what the dividend, divisor, and quotient mean.",
+      "youtubeId": "KGMf314LUc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KGMf314LUc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/KGMf314LUc0/hqdefault.jpg",
+      "duration": 598,
+      "durationDisplay": "9:58",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3500000,
+      "tags": ["basic division", "division facts", "dividend", "divisor", "quotient"],
+      "learningObjectives": ["Understand dividend, divisor, quotient", "Learn basic division facts", "Solve single-digit division"],
+      "keyConceptsCovered": ["Dividend: the number being divided", "Divisor: the number you divide by", "Quotient: the answer"],
+      "prerequisites": ["Understanding of equal sharing"],
+      "followUpTopics": ["Division facts mastery"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v3",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Easy Division | Division Made Simple for Kids",
+      "description": "Division made easy! Learn how to solve division problems step by step with fun examples like sharing candies and toys.",
+      "youtubeId": "EvmAIpWTNMc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvmAIpWTNMc",
+      "thumbnailUrl": "https://img.youtube.com/vi/EvmAIpWTNMc/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+      "tags": ["easy division", "division practice", "step by step"],
+      "learningObjectives": ["Practise division with small numbers", "Build speed with division facts", "Solve word problems using division"],
+      "keyConceptsCovered": ["6 divided by 6 = 1", "9 divided by 3 = 3", "Division by 1 always gives the same number"],
+      "prerequisites": ["Division vocabulary"],
+      "followUpTopics": ["Division fact families"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v5",
+      "sequenceNumber": 3,
+      "type": "practice",
+      "importance": "must_watch",
+      "title": "Division Practice Problems | Practise Dividing Numbers",
+      "description": "Practise solving division problems with step-by-step guidance. Great for building confidence with division facts!",
+      "youtubeId": "ek1JJVYaXxU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ek1JJVYaXxU",
+      "thumbnailUrl": "https://img.youtube.com/vi/ek1JJVYaXxU/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 520000,
+      "tags": ["division practice", "division problems", "practice"],
+      "learningObjectives": ["Solve division facts quickly", "Recognise division patterns", "Practise division up to 100"],
+      "keyConceptsCovered": ["Division facts practice", "Speed building", "Pattern recognition in division"],
+      "prerequisites": ["Basic division facts"],
+      "followUpTopics": ["Division-multiplication connection"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch5_subtraction_v1",
+      "sequenceNumber": 4,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Repeated Subtraction and Division | Subtracting Again and Again",
+      "description": "See how subtracting the same number again and again is actually division! 12 - 3 - 3 - 3 - 3 = 0 means 12 divided by 3 is 4.",
+      "youtubeId": "EvmAIpWTNMc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvmAIpWTNMc",
+      "thumbnailUrl": "https://img.youtube.com/vi/EvmAIpWTNMc/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+      "tags": ["repeated subtraction", "division concept", "division strategies"],
+      "learningObjectives": ["Connect repeated subtraction to division", "Use subtraction to verify division", "Understand multiple ways to divide"],
+      "keyConceptsCovered": ["Division as repeated subtraction", "Counting subtractions = quotient", "Verifying division answers"],
+      "prerequisites": ["Subtraction fluency"],
+      "followUpTopics": ["Multiplication-division connection"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch5_multiplication_v1",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Multiplication Basics | Times Tables for Kids",
+      "description": "Review basic multiplication facts and times tables. You need multiplication to understand division!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["multiplication review", "times tables", "foundation"],
+      "learningObjectives": ["Review multiplication for division readiness", "Connect times tables to division facts"],
+      "keyConceptsCovered": ["Multiplication tables up to 10", "How multiplication helps with division"],
+      "prerequisites": ["Addition fluency"],
+      "followUpTopics": ["Using multiplication to solve division"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn5_v2", "gr4_mn5_v3", "gr4_mn5_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1528,
+      "estimatedTimeDisplay": "25:28",
+      "rationale": "Core division facts with practice for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn5_v2", "gr4_mn5_v3", "gr4_mn5_v5", "prereq_ch5_subtraction_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 2008,
+      "estimatedTimeDisplay": "33:28",
+      "rationale": "Complete division facts coverage with repeated subtraction"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch5_multiplication_v1", "gr4_mn5_v2", "gr4_mn5_v3", "gr4_mn5_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1948,
+      "estimatedTimeDisplay": "32:28",
+      "rationale": "Multiplication review first, then division facts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn5_v2", "gr4_mn5_v3"],
+      "totalVideos": 2,
+      "estimatedTime": 1078,
+      "estimatedTimeDisplay": "17:58",
+      "rationale": "Essential division facts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn5_v3",
+      "checkpointName": "Division Facts Mastery Check",
+      "questions": [
+        {
+          "question": "What is 24 divided by 6?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": 1,
+          "explanation": "24 divided by 6 = 4, because 6 x 4 = 24."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Focus on building automaticity with division facts. Use flash cards and timed practice after watching videos.",
+    "parentGuidance": "Quiz your child on division facts at home. Start with easy ones like dividing by 2 and 5, then move to harder ones.",
+    "studentGuidance": "Try to memorise division facts just like you memorised multiplication tables. The faster you know them, the easier maths becomes!"
+  }
+}

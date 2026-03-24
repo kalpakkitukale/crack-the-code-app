@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ch2",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_e2_001",
+      "term": "Verb",
+      "definition": "A word that shows an action or a state of being. Every sentence needs a verb to be complete.",
+      "pronunciation": "VURB",
+      "exampleUsage": "In the sentence 'The cat sleeps on the mat', the word 'sleeps' is a verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_e2_002",
+      "term": "Action Verb",
+      "definition": "A type of verb that tells what someone or something does. It shows an action you can do or see.",
+      "pronunciation": "AK-shun VURB",
+      "exampleUsage": "Run, jump, write, and sing are all action verbs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_e2_003",
+      "term": "Tense",
+      "definition": "The form of a verb that tells us when an action happens - in the past, present, or future.",
+      "pronunciation": "TENS",
+      "exampleUsage": "The verb 'play' changes tense: I play (present), I played (past), I will play (future).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_e2_004",
+      "term": "Present Tense",
+      "definition": "The form of a verb that tells about actions happening now or things that happen regularly.",
+      "pronunciation": "PREZ-ent TENS",
+      "exampleUsage": "In 'She reads every night', the word 'reads' is in the present tense.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_e2_005",
+      "term": "Subject",
+      "definition": "The person, animal, or thing that does the action in a sentence. It tells us WHO or WHAT the sentence is about.",
+      "pronunciation": "SUB-jekt",
+      "exampleUsage": "In 'The bird sings beautifully', the subject is 'The bird'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_e2_006",
+      "term": "Subject-Verb Agreement",
+      "definition": "A rule that says the verb must match the subject. If the subject is one person or thing, the verb changes to match.",
+      "pronunciation": "SUB-jekt VURB uh-GREE-ment",
+      "exampleUsage": "'He runs' is correct because 'runs' matches the singular subject 'He'. 'They run' matches the plural 'They'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_e2_007",
+      "term": "Present Continuous Tense",
+      "definition": "A verb form that shows an action is happening right now at this very moment. It uses is/am/are plus a verb ending in -ing.",
+      "pronunciation": "PREZ-ent kon-TIN-yoo-us TENS",
+      "exampleUsage": "In 'I am eating lunch', the words 'am eating' show present continuous tense.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_e2_008",
+      "term": "Singular",
+      "definition": "Meaning just one person, animal, or thing. When the subject is singular, we often add -s or -es to the verb.",
+      "pronunciation": "SING-gyoo-ler",
+      "exampleUsage": "'The girl dances' uses a singular subject (one girl) with the verb 'dances'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_e2_009",
+      "term": "Plural",
+      "definition": "Meaning more than one person, animal, or thing. When the subject is plural, the verb usually stays in its base form.",
+      "pronunciation": "PLOOR-ul",
+      "exampleUsage": "'The girls dance' uses a plural subject (many girls) with the base verb 'dance'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_e2_010",
+      "term": "Base Form",
+      "definition": "The simplest form of a verb without any changes or endings added. It is the original form you find in a dictionary.",
+      "pronunciation": "BAYSS FORM",
+      "exampleUsage": "The base form of 'running' is 'run', and the base form of 'eats' is 'eat'.",
+      "difficulty": "easy"
+    }
+  ]
+}

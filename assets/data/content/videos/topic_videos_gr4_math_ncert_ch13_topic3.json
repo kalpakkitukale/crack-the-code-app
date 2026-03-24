@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn13_t3",
+  "topicId": "gr4_mn_13_3",
+  "topicName": "Money and Ticket Prices",
+  "chapterId": "gr4_math_ncert_ch13",
+  "chapterName": "The Transport Museum",
+  "description": "Main learning videos for understanding money calculations including ticket prices, total costs, and making change at the museum",
+
+  "videos": [
+    {
+      "id": "gr4_mn13_v3",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Multiplying money amounts - 4th grade math: estimation and word problem",
+      "description": "Learn how to multiply money amounts to find total costs! If one ticket costs 25 rupees, how much do 4 tickets cost? Practice estimating and solving money word problems like buying museum tickets.",
+
+      "youtubeId": "3lqEo4cmRrE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3lqEo4cmRrE",
+      "thumbnailUrl": "https://img.youtube.com/vi/3lqEo4cmRrE/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Mammoth",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 85000,
+
+      "tags": ["money math", "ticket prices", "multiplying money", "word problems", "estimation"],
+
+      "learningObjectives": [
+        "Count money using rupees and paise",
+        "Multiply money amounts to find total cost of multiple tickets",
+        "Estimate answers and calculate change when paying with a larger note"
+      ],
+
+      "prerequisites": ["Understanding Indian money", "Multi-digit addition", "Basic multiplication"],
+      "followUpTopics": ["Division with money", "Budget planning"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "A child ticket costs 15 rupees and an adult ticket costs 30 rupees. What is the total for 1 child and 1 adult?",
+            "options": ["30 rupees", "45 rupees", "50 rupees"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn13_v3"],
+      "estimatedTime": 420
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn13_v3"],
+      "estimatedTime": 420
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn13_v3"],
+      "estimatedTime": 420
+    }
+  }
+}

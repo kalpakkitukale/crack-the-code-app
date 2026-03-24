@@ -1,0 +1,123 @@
+{
+  "chapterId": "gr4_evs_ncert_ch17",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_city_life",
+      "name": "City Life",
+      "description": "Learn about life in a big city like Mumbai",
+      "topicId": "gr4_evn_17_1",
+      "chapterId": "gr4_evs_ncert_ch17",
+      "cards": [
+        {
+          "id": "fc_cl_001",
+          "front": "What is Mumbai famous for?",
+          "back": "Mumbai is India's largest city and is famous for Bollywood (Hindi film industry), the Gateway of India, Marine Drive, local trains, vada pav, and being the financial capital of India.",
+          "hint": "Think of Bollywood and the sea",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_cl_002",
+          "front": "What are local trains and why are they important in Mumbai?",
+          "back": "Local trains are the main way people travel in Mumbai. Millions of people use them every day to go to work, school, and other places. Mumbai's local trains carry about 75 lakh (7.5 million) passengers daily!",
+          "hint": "The most common transport in Mumbai",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_cl_003",
+          "front": "How is life in a city different from life in a village?",
+          "back": "In a city, there are tall buildings, heavy traffic, many shops and malls, different types of transport, and people from many places. In a village, there are open fields, fewer vehicles, more trees, and people often know each other well.",
+          "hint": "Compare tall buildings with open fields",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_cl_004",
+          "front": "What kinds of houses do people live in, in a city like Mumbai?",
+          "back": "In Mumbai, people live in flats (apartments) in tall buildings, bungalows, chawls (old-style shared buildings), and some people live in slums or on footpaths. Housing depends on how much money a family has.",
+          "hint": "Think of tall buildings with many floors",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_cl_005",
+          "front": "What is a chawl?",
+          "back": "A chawl is a type of old building found in Mumbai where many families live together. Each family has one or two small rooms, and families share common areas like the corridor, bathroom, and water taps.",
+          "hint": "Many families share one building",
+          "orderIndex": 4
+        },
+        {
+          "id": "fc_cl_006",
+          "front": "Why do people move from villages to cities?",
+          "back": "People move to cities looking for better jobs, education, and healthcare. Cities have more schools, colleges, hospitals, and work opportunities. But city life can also be crowded and expensive.",
+          "hint": "Think about jobs and schools",
+          "orderIndex": 5
+        },
+        {
+          "id": "fc_cl_007",
+          "front": "What problems do big cities face?",
+          "back": "Big cities face problems like traffic jams, air pollution, too many people (overcrowding), water shortage, waste management, and very expensive housing. Heavy rains can also cause flooding in cities like Mumbai.",
+          "hint": "Think about too many people and vehicles",
+          "orderIndex": 6
+        },
+        {
+          "id": "fc_cl_008",
+          "front": "What is special about Mumbai's dabbawalas?",
+          "back": "Mumbai's dabbawalas are people who pick up lunch boxes (dabbas) from people's homes and deliver them to their offices. They deliver lakhs of dabbas every day with very few mistakes. They are famous all over the world!",
+          "hint": "They deliver lunch boxes",
+          "orderIndex": 7
+        }
+      ]
+    },
+    {
+      "id": "deck_city_transport",
+      "name": "City Transport and Services",
+      "description": "Different ways people travel and services available in a city",
+      "topicId": "gr4_evn_17_1",
+      "chapterId": "gr4_evs_ncert_ch17",
+      "cards": [
+        {
+          "id": "fc_ct_001",
+          "front": "Name different types of transport found in a city.",
+          "back": "Cities have buses, auto-rickshaws, taxis, local trains, metro trains, cars, bicycles, and in some cities, trams and boats. Mumbai also has BEST buses and ferry boats.",
+          "hint": "Think of vehicles you see on roads and rails",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ct_002",
+          "front": "What is a metro train?",
+          "back": "A metro train is a fast electric train that runs in cities, often underground or on elevated tracks above roads. It helps people avoid traffic jams and travel quickly. Many Indian cities like Delhi, Mumbai, Bengaluru, and Kolkata have metro trains.",
+          "hint": "It often runs underground",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ct_003",
+          "front": "What is the difference between a market and a mall?",
+          "back": "A market is an open area with many small shops and street vendors where you can bargain for prices. A mall is a large air-conditioned building with many shops, food courts, and entertainment. Both are places where people buy things.",
+          "hint": "One is open, the other is a big building",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ct_004",
+          "front": "Why is clean drinking water a problem in big cities?",
+          "back": "In big cities, millions of people need water every day, but the supply is limited. Many areas get water only for a few hours. Slum areas often do not have water taps and people have to stand in long queues. Saving water is very important!",
+          "hint": "Too many people, not enough water",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ct_005",
+          "front": "What does Nandita notice when she visits Mumbai?",
+          "back": "Nandita notices tall buildings touching the sky, crowded local trains, busy roads, the sea (Arabian Sea), different kinds of food, and how people from many parts of India live together in one city.",
+          "hint": "She comes from a smaller place",
+          "orderIndex": 4
+        },
+        {
+          "id": "fc_ct_006",
+          "front": "What is the Gateway of India?",
+          "back": "The Gateway of India is a famous monument in Mumbai built near the sea. It was built in 1924 and is a popular tourist spot. From here, you can take a boat to visit Elephanta Caves.",
+          "hint": "It is near the sea in Mumbai",
+          "orderIndex": 5
+        }
+      ]
+    }
+  ]
+}

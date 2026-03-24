@@ -1,0 +1,177 @@
+{
+  "chapterId": "gr4_evs_ncert_ch3",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Elephants",
+      "description": "The largest land animals on Earth",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_body",
+      "label": "Body Parts",
+      "description": "Special features of elephant body",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_trunk",
+      "label": "Trunk",
+      "description": "Used for breathing, smelling, drinking, grabbing",
+      "parentId": "node_body",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_tusks",
+      "label": "Tusks",
+      "description": "Long teeth made of ivory",
+      "parentId": "node_body",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_ears",
+      "label": "Big Ears",
+      "description": "Help cool down body temperature",
+      "parentId": "node_body",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_behavior",
+      "label": "Behavior",
+      "description": "How elephants live and act",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_herd",
+      "label": "Live in Herds",
+      "description": "Groups led by matriarch",
+      "parentId": "node_behavior",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_communicate",
+      "label": "Communication",
+      "description": "Trumpeting, rumbling, body language",
+      "parentId": "node_behavior",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_food",
+      "label": "Food & Water",
+      "description": "What elephants eat and drink",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_herbivore",
+      "label": "Herbivores",
+      "description": "Eat only plants - 150-200 kg daily",
+      "parentId": "node_food",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_water",
+      "label": "Water Needs",
+      "description": "Drink up to 200 liters daily",
+      "parentId": "node_food",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_facts",
+      "label": "Amazing Facts",
+      "description": "Interesting elephant facts",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_memory",
+      "label": "Excellent Memory",
+      "description": "Elephants never forget!",
+      "parentId": "node_facts",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_swimming",
+      "label": "Good Swimmers",
+      "description": "Use trunk as snorkel",
+      "parentId": "node_facts",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_protection",
+      "label": "Protection",
+      "description": "Why we must protect elephants",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_endangered",
+      "label": "Endangered",
+      "description": "Numbers decreasing due to hunting",
+      "parentId": "node_protection",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_conservation",
+      "label": "Conservation",
+      "description": "Efforts to save elephants",
+      "parentId": "node_protection",
+      "positionX": 200,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 16
+    }
+  ]
+}

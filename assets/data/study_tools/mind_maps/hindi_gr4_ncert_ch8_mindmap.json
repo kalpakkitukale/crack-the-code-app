@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch8",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "कौन? (Who?)",
+      "description": "A mysterious poem full of questions about the wonders of nature",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_prakriti",
+      "label": "प्रकृति के तत्व (Elements of Nature)",
+      "description": "The natural elements mentioned in the poem that inspire wonder",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_phool",
+      "label": "फूल (Flowers)",
+      "description": "Who fills beautiful colours in flowers? A question about nature's art",
+      "parentId": "node_prakriti",
+      "positionX": -450,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_taare",
+      "label": "तारे (Stars)",
+      "description": "Who gives shine and sparkle to the stars at night?",
+      "parentId": "node_prakriti",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_nadi",
+      "label": "नदी (River)",
+      "description": "Who teaches the rivers to flow and make sweet sounds?",
+      "parentId": "node_prakriti",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_badal",
+      "label": "बादल और हवा (Clouds & Wind)",
+      "description": "Who makes clouds rain and who makes the wind blow?",
+      "parentId": "node_prakriti",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_kavya",
+      "label": "काव्य विशेषताएँ (Poetic Features)",
+      "description": "Special literary features that make this poem beautiful and memorable",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_prashna",
+      "label": "प्रश्न शैली (Question Style)",
+      "description": "The entire poem is written as questions, creating curiosity",
+      "parentId": "node_kavya",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_tukbandi",
+      "label": "तुकबंदी (Rhyming)",
+      "description": "Lines end with matching sounds, making the poem musical",
+      "parentId": "node_kavya",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_punarukti",
+      "label": "पुनरुक्ति (Repetition)",
+      "description": "The word 'कौन?' repeats throughout, creating rhythm and emphasis",
+      "parentId": "node_kavya",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_bhaav",
+      "label": "भाव (Feelings/Themes)",
+      "description": "The emotions and ideas the poem evokes in readers",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_jigyaasa",
+      "label": "जिज्ञासा (Curiosity)",
+      "description": "The poem sparks a desire to know and understand the world around us",
+      "parentId": "node_bhaav",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_aashcharya",
+      "label": "आश्चर्य (Wonder)",
+      "description": "A sense of amazement at the beauty and mystery of nature",
+      "parentId": "node_bhaav",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_prem",
+      "label": "प्रकृति प्रेम (Love for Nature)",
+      "description": "The poem inspires love, respect, and appreciation for the natural world",
+      "parentId": "node_bhaav",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 13
+    }
+  ]
+}

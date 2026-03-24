@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_eng_ncert_u4",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_e4",
+    "title": "Why? / Alice in Wonderland",
+    "content": "This unit brings together a poem, a story, and a grammar lesson, all connected by the theme of curiosity and asking questions. The poem 'Why?' celebrates a child's natural habit of questioning everything in the world around them. The story 'Alice in Wonderland' takes students into a magical land where a curious girl named Alice has amazing adventures after following a White Rabbit down a rabbit hole. The grammar section teaches question words (Wh-words) such as What, Where, When, Who, Why, Which, and How, and shows how these words help us ask clear and meaningful questions.",
+    "keyPoints": [
+      "The poem 'Why?' encourages curiosity and the habit of asking questions",
+      "Alice in Wonderland is a story about a curious girl who discovers a magical land",
+      "Alice follows a White Rabbit down a rabbit hole and has surprising adventures",
+      "Question words (What, Where, When, Who, Why, Which, How) help us ask different kinds of questions",
+      "Every question sentence must end with a question mark (?)"
+    ],
+    "learningObjectives": [
+      "Understand the theme of curiosity in the poem 'Why?'",
+      "Retell the key events from the story 'Alice in Wonderland'",
+      "Identify and describe the main characters in the story",
+      "Use the correct question word (What, Where, When, Who, Why, Which, How) to form questions",
+      "Punctuate questions correctly with a question mark"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_e4_001",
+      "title": "Question Word Quick Guide",
+      "content": "Remember which question word to use: Who = person, What = thing or action, Where = place, When = time, Why = reason, Which = choice from options, How = manner or amount. Try making one question with each word every day to practise!",
+      "tags": ["study-tip", "grammar", "question-words"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_e4_002",
+      "title": "Alice in Wonderland -- Key Events",
+      "content": "Remember the story sequence: (1) Alice sits by the riverbank. (2) She sees a White Rabbit in a coat with a watch. (3) She follows the Rabbit out of curiosity. (4) She falls down a deep rabbit hole. (5) She arrives in Wonderland. (6) She drinks from a bottle and grows tall. (7) She eats a cake and becomes tiny. These events show how curiosity leads to adventure!",
+      "tags": ["story", "key-events", "alice"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_e4_003",
+      "title": "Curiosity Activity",
+      "content": "Be like the child in the poem 'Why?' -- pick one thing you see today (a cloud, a plant, a shadow) and write down three questions about it using different question words. For example: What is a shadow? Why does it change shape? When does it disappear? Share your questions with a friend or family member!",
+      "tags": ["activity", "curiosity", "poem"],
+      "isPinned": false
+    }
+  ]
+}

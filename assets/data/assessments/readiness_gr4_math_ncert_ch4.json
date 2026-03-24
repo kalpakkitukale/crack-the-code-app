@@ -1,0 +1,317 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch4",
+  "topicId": "gr4_mn_4_1",
+  "topicName": "Place Value up to 5 Digits",
+  "chapterId": "gr4_math_ncert_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about place value up to 5 digits, reading and writing large numbers, comparing and ordering, and estimation",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_3digit",
+      "conceptName": "Place value of 3-digit numbers (ones, tens, hundreds)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4_1", "rq4_2", "rq4_3"],
+      "remedialVideoIds": ["prereq_ch4_placevalue_v1"]
+    },
+    {
+      "conceptId": "counting_1000",
+      "conceptName": "Counting forward and backward up to 1000",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4_4", "rq4_5", "rq4_6"],
+      "remedialVideoIds": ["prereq_ch4_counting_v1"]
+    },
+    {
+      "conceptId": "number_comparison",
+      "conceptName": "Comparing 3-digit numbers using >, <, and =",
+      "importance": "important",
+      "questionsTestingThis": ["rq4_7", "rq4_8"],
+      "remedialVideoIds": ["prereq_ch4_comparison_v1"]
+    },
+    {
+      "conceptId": "number_sense",
+      "conceptName": "General number sense and understanding of number magnitude",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq4_9", "rq4_10"],
+      "remedialVideoIds": ["prereq_ch4_placevalue_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq4_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_3digit",
+      "question": "In the number 347, what is the value of the digit 3?",
+      "options": ["3", "30", "300", "3000"],
+      "correctAnswer": 2,
+      "correctAnswerText": "300",
+      "explanation": "The digit 3 is in the hundreds place. So its value is 3 hundreds = 300.",
+      "tags": ["place value", "hundreds place", "3-digit"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Gave the face value instead of the place value",
+          "conceptGap": "Understanding the difference between face value and place value",
+          "remediation": "Practice identifying place value by saying 'the 3 is in the hundreds place, so it means 300'"
+        }
+      ]
+    },
+    {
+      "id": "rq4_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_3digit",
+      "question": "Which digit is in the tens place in the number 582?",
+      "options": ["5", "8", "2", "0"],
+      "correctAnswer": 1,
+      "correctAnswerText": "8",
+      "explanation": "In 582, the digit 2 is in the ones place, 8 is in the tens place, and 5 is in the hundreds place.",
+      "tags": ["place value", "tens place", "3-digit"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused the hundreds place with the tens place",
+          "conceptGap": "Knowing the position names from right to left",
+          "remediation": "Start from the right: ones, tens, hundreds. Practice with a place value chart."
+        }
+      ]
+    },
+    {
+      "id": "rq4_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_3digit",
+      "question": "What is the expanded form of 269?",
+      "options": ["200 + 60 + 9", "2 + 6 + 9", "269 + 0", "200 + 6 + 9"],
+      "correctAnswer": 0,
+      "correctAnswerText": "200 + 60 + 9",
+      "explanation": "In 269, the 2 is worth 200, the 6 is worth 60, and the 9 is worth 9. So expanded form is 200 + 60 + 9.",
+      "tags": ["expanded form", "place value", "3-digit"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Wrote face values instead of place values",
+          "conceptGap": "Understanding that expanded form uses the value of each digit based on its position",
+          "remediation": "Use a place value chart: write each digit under hundreds, tens, and ones columns"
+        }
+      ]
+    },
+    {
+      "id": "rq4_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_1000",
+      "question": "What number comes just after 499?",
+      "options": ["490", "500", "501", "410"],
+      "correctAnswer": 1,
+      "correctAnswerText": "500",
+      "explanation": "The number just after 499 is 500. When we add 1 to 499, we get 500.",
+      "tags": ["counting", "number after", "hundreds transition"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Changed the wrong digit when adding 1",
+          "conceptGap": "Understanding how carrying works when ones and tens are both 9",
+          "remediation": "Practice counting around hundred boundaries: 198, 199, 200..."
+        }
+      ]
+    },
+    {
+      "id": "rq4_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_1000",
+      "question": "Count by 100s: 400, 500, 600, __. What comes next?",
+      "options": ["610", "650", "700", "900"],
+      "correctAnswer": 2,
+      "correctAnswerText": "700",
+      "explanation": "When we count by 100s, we add 100 each time. 600 + 100 = 700.",
+      "tags": ["skip counting", "counting by 100s"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq4_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_1000",
+      "question": "What number is 10 more than 990?",
+      "options": ["991", "999", "1000", "1010"],
+      "correctAnswer": 2,
+      "correctAnswerText": "1000",
+      "explanation": "990 + 10 = 1000. This is how we move from 3-digit numbers to 4-digit numbers!",
+      "tags": ["counting", "adding 10", "thousands transition"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 10",
+          "conceptGap": "Confusing adding 1 with adding 10",
+          "remediation": "Practice adding 10 to numbers near 1000 using a number line"
+        }
+      ]
+    },
+    {
+      "id": "rq4_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_comparison",
+      "question": "Which number is greater: 456 or 465?",
+      "options": ["456", "465", "They are equal", "Cannot tell"],
+      "correctAnswer": 1,
+      "correctAnswerText": "465",
+      "explanation": "Both have 4 in the hundreds place. Looking at the tens place: 465 has 6 tens while 456 has 5 tens. 6 > 5, so 465 is greater.",
+      "tags": ["comparing numbers", "greater than", "3-digit comparison"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Compared ones digits instead of tens digits",
+          "conceptGap": "Not comparing from the highest place value first",
+          "remediation": "Always start comparing from the leftmost (highest) place value"
+        }
+      ]
+    },
+    {
+      "id": "rq4_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "number_comparison",
+      "question": "Arrange these numbers in ascending order (smallest to largest): 734, 743, 347",
+      "options": ["347, 734, 743", "743, 734, 347", "734, 743, 347", "347, 743, 734"],
+      "correctAnswer": 0,
+      "correctAnswerText": "347, 734, 743",
+      "explanation": "347 is the smallest (3 hundreds). Then 734 (7 hundreds, 3 tens). Then 743 (7 hundreds, 4 tens). So ascending order is 347, 734, 743.",
+      "tags": ["ordering numbers", "ascending order", "3-digit comparison"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Arranged in descending order instead of ascending",
+          "conceptGap": "Confusing ascending (smallest to largest) with descending (largest to smallest)",
+          "remediation": "Remember: ascending means going UP like climbing stairs"
+        }
+      ]
+    },
+    {
+      "id": "rq4_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "number_sense",
+      "question": "What is the largest 3-digit number you can make using the digits 5, 3, and 8 (each used once)?",
+      "options": ["358", "538", "835", "853"],
+      "correctAnswer": 3,
+      "correctAnswerText": "853",
+      "explanation": "To make the largest number, put the biggest digit in the hundreds place (8), then the next biggest in tens (5), then the smallest in ones (3). The answer is 853.",
+      "tags": ["number formation", "largest number", "number sense"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Put digits in descending order but mixed up tens and ones",
+          "conceptGap": "Not systematically placing digits from largest to smallest",
+          "remediation": "First sort the digits from biggest to smallest, then write them left to right"
+        }
+      ]
+    },
+    {
+      "id": "rq4_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "number_sense",
+      "question": "Which of these numbers is closest to 500?",
+      "options": ["389", "478", "512", "550"],
+      "correctAnswer": 2,
+      "correctAnswerText": "512",
+      "explanation": "Find how far each number is from 500: 389 is 111 away, 478 is 22 away, 512 is 12 away, 550 is 50 away. 512 is only 12 away from 500, so it is the closest.",
+      "tags": ["number sense", "estimation", "closest number"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 55,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Chose a number less than 500 thinking it must be closer",
+          "conceptGap": "Understanding that numbers both above and below can be close to a target",
+          "remediation": "Calculate the difference from 500 for each option and compare"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Fantastic! You have a strong understanding of 3-digit place value and counting. You are ready to explore thousands and even bigger numbers!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Great job! You know your 3-digit numbers well. Let's learn about thousands and 5-digit numbers!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some basics about place value, but let's review a few things first. Watch the review videos and you will be all set for big numbers!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "No worries! Let's first watch some fun videos about 3-digit numbers and counting to 1000. Then you will be ready to learn about thousands and even bigger numbers!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We have some fun videos to help you get ready. Big numbers are exciting and you are going to love learning about thousands!",
+    "high_score_praise": "Awesome! You are a place value pro! Let's discover numbers in the thousands and beyond!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

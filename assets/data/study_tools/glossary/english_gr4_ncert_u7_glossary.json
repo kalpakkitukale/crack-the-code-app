@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u7",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_7_001",
+      "term": "Watering",
+      "definition": "Pouring water on plants so they can grow healthy and strong.",
+      "pronunciation": "WAW-ter-ing",
+      "exampleUsage": "Watering the plants every morning helps them grow well.",
+      "difficulty": "easy",
+      "relatedTerms": ["plants", "gardening", "irrigation"]
+    },
+    {
+      "id": "gls_eng_7_002",
+      "term": "Rhyme",
+      "definition": "Words that have the same ending sound, like 'tree' and 'free'. Poems often use rhymes to sound musical.",
+      "pronunciation": "RYME",
+      "exampleUsage": "The poem has a nice rhyme - 'sun' rhymes with 'done'.",
+      "difficulty": "easy",
+      "relatedTerms": ["poem", "verse", "rhythm"]
+    },
+    {
+      "id": "gls_eng_7_003",
+      "term": "Selfless",
+      "definition": "Thinking of others before yourself. Doing things to help others without expecting anything in return.",
+      "pronunciation": "SELF-les",
+      "exampleUsage": "The giving tree was selfless - it gave everything to make the boy happy.",
+      "difficulty": "medium",
+      "relatedTerms": ["generous", "kind", "unselfish"]
+    },
+    {
+      "id": "gls_eng_7_004",
+      "term": "Shade",
+      "definition": "A cool area sheltered from the hot sun, often under a tree or roof.",
+      "pronunciation": "SHAYD",
+      "exampleUsage": "The boy rested in the shade of the big tree on a hot day.",
+      "difficulty": "easy",
+      "relatedTerms": ["shadow", "shelter", "cool"]
+    },
+    {
+      "id": "gls_eng_7_005",
+      "term": "Stump",
+      "definition": "The short part of a tree trunk that remains after the tree is cut down.",
+      "pronunciation": "STUMP",
+      "exampleUsage": "After the tree was cut, only the stump was left for the old man to sit on.",
+      "difficulty": "easy",
+      "relatedTerms": ["trunk", "tree", "wood"]
+    },
+    {
+      "id": "gls_eng_7_006",
+      "term": "Tense",
+      "definition": "The form of a verb that shows when an action takes place - in the past, present, or future.",
+      "pronunciation": "TENS",
+      "exampleUsage": "'Played' is the past tense of 'play'.",
+      "difficulty": "easy",
+      "relatedTerms": ["past tense", "present tense", "future tense", "verb"]
+    },
+    {
+      "id": "gls_eng_7_007",
+      "term": "Grateful",
+      "definition": "Feeling thankful for something someone has done for you or given you.",
+      "pronunciation": "GRAYT-ful",
+      "exampleUsage": "We should be grateful to trees for giving us fruits, shade, and fresh air.",
+      "difficulty": "medium",
+      "relatedTerms": ["thankful", "appreciative", "kindness"]
+    },
+    {
+      "id": "gls_eng_7_008",
+      "term": "Trunk",
+      "definition": "The thick main stem of a tree from which branches grow. Also, the tree gave its trunk to the boy to make a boat.",
+      "pronunciation": "TRUNGK",
+      "exampleUsage": "The boy used the trunk of the tree to build a boat and sail away.",
+      "difficulty": "easy",
+      "relatedTerms": ["tree", "wood", "branch", "stump"]
+    },
+    {
+      "id": "gls_eng_7_009",
+      "term": "Bloom",
+      "definition": "When a flower opens up and shows its petals. Also means to grow and develop well.",
+      "pronunciation": "BLOOM",
+      "exampleUsage": "If you water the plants properly, they will bloom with beautiful flowers.",
+      "difficulty": "easy",
+      "relatedTerms": ["flower", "blossom", "garden"]
+    },
+    {
+      "id": "gls_eng_7_010",
+      "term": "Generous",
+      "definition": "Ready to give and share with others happily, without being asked or expecting anything back.",
+      "pronunciation": "JEN-er-us",
+      "exampleUsage": "The tree was generous - it happily gave its apples, branches, and trunk to the boy.",
+      "difficulty": "medium",
+      "relatedTerms": ["giving", "kind", "selfless"]
+    }
+  ]
+}

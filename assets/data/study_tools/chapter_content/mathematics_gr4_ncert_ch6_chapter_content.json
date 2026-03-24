@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_math_ncert_ch6",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn6",
+    "title": "Measuring Length",
+    "content": "This chapter teaches students all about measuring length using standard units. Students learn the three main units of length — centimetre (cm), metre (m), and kilometre (km) — and when to use each one. They practise converting between units using the relationships 1 m = 100 cm and 1 km = 1000 m. The chapter also covers estimation of lengths using body measurements and everyday objects, and introduces measuring tools like rulers, measuring tapes, and odometers. Students solve word problems involving addition, subtraction, and comparison of lengths in real-life situations.",
+    "keyPoints": [
+      "The three units of length are centimetre (cm), metre (m), and kilometre (km)",
+      "1 metre = 100 centimetres and 1 kilometre = 1000 metres",
+      "To convert bigger to smaller units, multiply; to convert smaller to bigger units, divide",
+      "Estimation means making a smart guess about length using known references",
+      "Common measuring tools: ruler, measuring tape, metre stick, odometer",
+      "To add or subtract lengths, first convert to the same unit"
+    ],
+    "learningObjectives": [
+      "Identify and use cm, m, and km as units of length",
+      "Convert between cm and m, and between m and km",
+      "Estimate lengths of objects and distances using body references",
+      "Use appropriate tools to measure different types of lengths",
+      "Solve word problems involving addition, subtraction, and comparison of lengths"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn6_001",
+      "title": "Quick Reference: Unit Conversions",
+      "content": "Remember these two key facts and you can do any conversion!\n\n1 m = 100 cm (so multiply by 100 to go from m to cm, divide by 100 to go from cm to m)\n1 km = 1000 m (so multiply by 1000 to go from km to m, divide by 1000 to go from m to km)\n\nBigger to smaller unit = multiply (numbers get bigger)\nSmaller to bigger unit = divide (numbers get smaller)",
+      "tags": ["reference", "conversion", "study-tip"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn6_002",
+      "title": "Fun Activity: Measure Without a Ruler",
+      "content": "First, measure your hand span (thumb to little finger stretched) with a ruler. Write it down. Now go around your house and estimate the length of 5 things using just your hand span. Then measure them with a ruler to see how close your estimate was! Keep score and try to get better each time. This will make you great at estimation.",
+      "tags": ["activity", "hands-on", "estimation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn6_003",
+      "title": "Real-Life Length Facts for India",
+      "content": "Here are some fun length facts to help you understand units better:\n- A 1-rupee coin is about 2 cm across\n- A cricket pitch is 22 metres (1 chain)\n- The Rajdhani Express train is about 600 metres long\n- The distance from Mumbai to Pune is about 150 km\n- India from north to south is about 3200 km!",
+      "tags": ["fun-facts", "real-life", "India"],
+      "isPinned": false
+    }
+  ]
+}

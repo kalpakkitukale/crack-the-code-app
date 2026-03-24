@@ -1,0 +1,103 @@
+{
+  "videoSetId": "prereq_gr4_ncert_ch3",
+  "purpose": "Prerequisite videos for Grade 4 Chapter 3: Pattern Around Us",
+  "targetTopicId": "gr4_mn_3_1",
+  "description": "Videos covering prerequisite concepts: skip counting, basic shape recognition, simple sequences",
+
+  "videos": [
+    {
+      "id": "prereq_ch3_counting_v1",
+      "conceptId": "skip_counting",
+      "type": "concept_review",
+      "title": "Skip Counting by 2s, 5s, and 10s | Counting Patterns for Kids",
+      "description": "Learn to skip count by 2s, 5s, and 10s. Skip counting creates number patterns and helps you see how numbers grow in a regular way!",
+      "youtubeId": "0LjzvbTw8E4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0LjzvbTw8E4",
+      "thumbnailUrl": "https://img.youtube.com/vi/0LjzvbTw8E4/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3500000,
+      "tags": ["skip counting", "counting by 2s", "counting by 5s", "counting by 10s", "number patterns"],
+      "learningObjectives": [
+        "Skip count forward by 2s to 100",
+        "Skip count forward by 5s to 100",
+        "Skip count forward by 10s to 100",
+        "Recognize the pattern in skip counting"
+      ],
+      "prerequisites": ["Counting to 100"],
+      "followUpTopics": ["Number sequences", "Repeating patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch3_shapes_v1",
+      "conceptId": "shape_recognition",
+      "type": "concept_review",
+      "title": "Basic Shapes for Kids | Circles, Squares, Triangles and More",
+      "description": "Review basic 2D shapes: circles, squares, triangles, rectangles, pentagons, and hexagons. Knowing shapes helps you spot shape patterns!",
+      "youtubeId": "b0ZUopmfTho",
+      "youtubeUrl": "https://www.youtube.com/watch?v=b0ZUopmfTho",
+      "thumbnailUrl": "https://img.youtube.com/vi/b0ZUopmfTho/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2100000,
+      "tags": ["shapes", "2D shapes", "circle", "square", "triangle", "rectangle", "shape recognition"],
+      "learningObjectives": [
+        "Identify and name basic 2D shapes",
+        "Describe properties of shapes (sides, corners)",
+        "Recognize shapes in everyday objects"
+      ],
+      "prerequisites": ["None"],
+      "followUpTopics": ["Shape patterns", "Shape sequences"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch3_sequence_v1",
+      "conceptId": "sequence_continuation",
+      "type": "concept_introduction",
+      "title": "Simple Patterns and Sequences | What Comes Next?",
+      "description": "Learn to look at a simple pattern and figure out what comes next. Practice with color patterns, shape patterns, and easy number patterns.",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 950000,
+      "tags": ["simple patterns", "sequences", "what comes next", "pattern recognition", "continuation"],
+      "learningObjectives": [
+        "Identify the repeating part of a simple pattern",
+        "Continue a simple pattern by finding what comes next",
+        "Explain the rule of a simple pattern"
+      ],
+      "prerequisites": ["Basic counting", "Shape recognition"],
+      "followUpTopics": ["Repeating patterns", "Growing patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "Review skip counting, shape recognition, and simple sequence continuation before learning about patterns in Chapter 3",
+    "recommendationStrategy": "Select videos based on weak concepts identified in readiness assessment",
+    "sequencing": "Skip counting -> Shape recognition -> Simple sequences (builds foundational understanding for pattern concepts)"
+  }
+}

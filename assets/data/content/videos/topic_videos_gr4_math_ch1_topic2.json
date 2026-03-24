@@ -1,0 +1,356 @@
+{
+  "playlistId": "gr4_m1_t2_main",
+  "topicId": "gr4_m_1_2",
+  "topicName": "Reading and Writing Large Numbers",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2520,
+    "totalDurationDisplay": "42:00",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_1_1"],
+    "followUpTopics": ["gr4_m_1_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_rw_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Reading 5-Digit Numbers Aloud | Introduction",
+      "description": "Learn how to read 5-digit numbers correctly",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 820000,
+      "tags": ["reading numbers", "5-digit", "pronunciation", "number names"],
+      "learningObjectives": [
+        "Read 5-digit numbers aloud correctly",
+        "Break numbers into thousands and remaining parts",
+        "Say 'thousand' between the parts",
+        "Practice with examples like 45,678"
+      ],
+      "keyConceptsCovered": [
+        "Read left to right",
+        "First part: tens/ones of thousands (45 thousand)",
+        "Then: hundreds, tens, ones (six hundred seventy-eight)",
+        "Example: 45,678 = Forty-five thousand six hundred seventy-eight"
+      ],
+      "prerequisites": ["5-digit place value"],
+      "followUpTopics": ["Reading with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_rw_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Reading 5-Digit Numbers with Zeros",
+      "description": "Practice reading numbers that contain zeros",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+      "tags": ["reading numbers", "zeros", "5-digit", "examples"],
+      "learningObjectives": [
+        "Read numbers with zeros correctly",
+        "Know when to skip zero places",
+        "Practice with various examples",
+        "Handle zeros in different positions"
+      ],
+      "keyConceptsCovered": [
+        "30,050 = Thirty thousand fifty (skip zero hundreds/tens)",
+        "50,007 = Fifty thousand seven (skip zero hundreds/tens)",
+        "20,400 = Twenty thousand four hundred (skip zero tens/ones)",
+        "Zeros in middle positions are not read aloud"
+      ],
+      "prerequisites": ["Basic 5-digit reading"],
+      "followUpTopics": ["Writing 5-digit numbers"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_rw_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Writing 5-Digit Numbers from Words",
+      "description": "Learn to write 5-digit numbers when given in word form",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 680000,
+      "tags": ["writing numbers", "word form", "5-digit", "conversion"],
+      "learningObjectives": [
+        "Convert word form to standard form",
+        "Identify place values from words",
+        "Place digits correctly",
+        "Handle missing places (zeros)"
+      ],
+      "keyConceptsCovered": [
+        "Forty-five thousand six hundred seventy-eight = 45,678",
+        "Thirty thousand fifty = 30,050 (zeros in hundreds/tens)",
+        "Listen for 'thousand' to know where comma goes",
+        "Use place value chart to organize digits"
+      ],
+      "prerequisites": ["Reading 5-digit numbers", "Place value"],
+      "followUpTopics": ["Writing with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_rw_v4",
+      "sequenceNumber": 4,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Writing 5-Digit Numbers with Zeros | Practice",
+      "description": "Practice writing numbers that need zeros in specific places",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 590000,
+      "tags": ["writing numbers", "zeros", "5-digit", "practice"],
+      "learningObjectives": [
+        "Write numbers with zeros correctly",
+        "Know when and where to place zeros",
+        "Avoid common mistakes",
+        "Practice multiple examples"
+      ],
+      "keyConceptsCovered": [
+        "Fifty thousand seven = 50,007 (not 5,007 or 50,700)",
+        "Twenty thousand four hundred = 20,400 (zeros in tens/ones)",
+        "Sixty thousand = 60,000 (all other places are zero)",
+        "Check: read your answer back to verify"
+      ],
+      "prerequisites": ["Writing 5-digit numbers basics"],
+      "followUpTopics": ["Reading and writing practice"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_rw_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Reading and Writing Practice | Mixed Examples",
+      "description": "Practice both reading and writing 5-digit numbers together",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 710000,
+      "tags": ["reading writing", "practice", "5-digit", "mixed"],
+      "learningObjectives": [
+        "Fluently read and write 5-digit numbers",
+        "Switch between digit and word forms",
+        "Build confidence with variety",
+        "Self-check for accuracy"
+      ],
+      "keyConceptsCovered": [
+        "Given digits → read aloud correctly",
+        "Given words → write in digits correctly",
+        "Check by converting back",
+        "Multiple practice examples"
+      ],
+      "prerequisites": ["Reading and writing 5-digit numbers"],
+      "followUpTopics": ["Real-world applications"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_rw_v6",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Reading and Writing in Real Life",
+      "description": "See how we read and write large numbers in daily life",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 520000,
+      "tags": ["real world", "applications", "reading writing", "practical"],
+      "learningObjectives": [
+        "Apply skills to real contexts",
+        "Read numbers on price tags, populations",
+        "Write amounts in check books",
+        "Understand importance of correct reading/writing"
+      ],
+      "keyConceptsCovered": [
+        "Populations: Delhi has 11,000,000 people (read as millions)",
+        "Prices: Car costs ₹8,50,000 (Eight lakh fifty thousand)",
+        "Distances in kilometers",
+        "Money amounts in rupees"
+      ],
+      "prerequisites": ["Reading and writing 5-digit numbers"],
+      "followUpTopics": ["Larger numbers (6-digit, lakhs)"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_rw_v7",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Reading and Writing 6-Digit Numbers",
+      "description": "Preview reading and writing numbers up to lakhs",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 450000,
+      "tags": ["6-digit", "lakhs", "challenge", "enrichment"],
+      "learningObjectives": [
+        "Preview lakhs place",
+        "Read 6-digit numbers",
+        "Write numbers in lakhs",
+        "Enrichment for advanced students"
+      ],
+      "keyConceptsCovered": [
+        "Introduction to lakhs (1,00,000)",
+        "Reading: 5,45,678 = Five lakh forty-five thousand six hundred seventy-eight",
+        "Writing: Four lakh twenty thousand = 4,20,000",
+        "Indian number system preview"
+      ],
+      "prerequisites": ["Strong 5-digit reading/writing"],
+      "followUpTopics": ["Indian and International number systems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_rw_v1", "gr4_rw_v2", "gr4_rw_v3", "gr4_rw_v4", "gr4_rw_v5", "gr4_rw_v7"],
+      "totalVideos": 6,
+      "estimatedTime": 2220,
+      "estimatedTimeDisplay": "37:00",
+      "rationale": "Fast-track through 5-digit reading/writing with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_rw_v1", "gr4_rw_v2", "gr4_rw_v3", "gr4_rw_v4", "gr4_rw_v5", "gr4_rw_v6"],
+      "totalVideos": 6,
+      "estimatedTime": 2190,
+      "estimatedTimeDisplay": "36:30",
+      "rationale": "Complete coverage with real-world applications"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_rw_v1", "gr4_rw_v2", "gr4_rw_v3", "gr4_rw_v4", "gr4_rw_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1890,
+      "estimatedTimeDisplay": "31:30",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_rw_v1", "gr4_rw_v3", "gr4_rw_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1170,
+      "estimatedTimeDisplay": "19:30",
+      "rationale": "Essential reading and writing skills only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_rw_v2",
+      "checkpointName": "Reading 5-Digit Numbers Check",
+      "questions": [
+        {
+          "question": "How do you read 30,050?",
+          "options": ["Three thousand fifty", "Thirty thousand fifty", "Three hundred thousand fifty", "Thirty thousand five hundred"],
+          "correctAnswer": 1,
+          "explanation": "30,050 is read as 'Thirty thousand fifty.' The zeros in hundreds and tens places are not mentioned."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_rw_v4",
+      "checkpointName": "Writing 5-Digit Numbers Check",
+      "questions": [
+        {
+          "question": "Write in digits: Fifty thousand seven",
+          "options": ["50,007", "5,007", "50,700", "50,070"],
+          "correctAnswer": 0,
+          "explanation": "Fifty thousand = 50,000; seven = 7. Total: 50,007 with zeros in hundreds, tens places."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-2 cover reading, videos 3-4 cover writing, video 5 integrates both. All core videos are essential.",
+    "parentGuidance": "Help your child practice reading numbers aloud and writing dictated numbers. Use real-life examples like prices and populations.",
+    "studentGuidance": "Practice reading aloud and writing down numbers. Check your work by reading back what you wrote."
+  }
+}

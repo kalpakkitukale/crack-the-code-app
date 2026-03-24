@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch18",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn18",
+    "title": "Too Much Water, Too Little Water",
+    "content": "This chapter from the NCERT Looking Around textbook helps students understand two extreme water situations - floods and droughts. When it rains too much, rivers overflow and water enters homes, fields, and roads causing floods. When it does not rain for a long time, the land dries up, crops die, and people and animals struggle to find water - this is a drought. Students learn how both situations affect the lives of people, animals, and farmers. The chapter also teaches the importance of water conservation - saving water so that there is enough for everyone. Children learn about rainwater harvesting, traditional water-saving methods like stepwells and johads, and simple everyday habits to reduce water wastage.",
+    "keyPoints": [
+      "Floods happen when there is too much rain and water overflows from rivers and drains",
+      "Droughts happen when there is very little or no rain for a long time",
+      "Both floods and droughts destroy crops and cause suffering to people and animals",
+      "Water conservation means using water carefully and not wasting it",
+      "Rainwater harvesting collects and stores rain for use during dry months",
+      "Traditional methods like stepwells and johads have been used in India for centuries"
+    ],
+    "learningObjectives": [
+      "Explain what floods and droughts are and how they affect people",
+      "Describe the causes of floods and droughts",
+      "List different ways to conserve water at home and school",
+      "Understand rainwater harvesting and its importance",
+      "Appreciate traditional Indian methods of water conservation"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn18_001",
+      "title": "Flood vs Drought Comparison Chart",
+      "content": "Make a table with two columns - 'Flood' and 'Drought'. Write how each is caused, what happens to land, what happens to crops, what happens to people, and how we can prepare. For example: Flood - too much rain, land covered with water, crops destroyed by water. Drought - too little rain, land becomes dry and cracked, crops die without water. This comparison helps you remember both topics easily!",
+      "tags": ["activity", "comparison"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn18_002",
+      "title": "Water Saving Diary",
+      "content": "Keep a diary for one week noting how you use water every day. Write down each time you use water - brushing teeth, bathing, drinking, washing hands, flushing. At the end of the week, see where you can save water. Did you leave the tap running while brushing? Could you reuse washing water for plants? Small changes by everyone can save a lot of water!",
+      "tags": ["activity", "observation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn18_003",
+      "title": "Key Exam Tip: Connect Floods, Droughts, and Conservation",
+      "content": "In exams, questions may ask you to link all three topics. Remember this flow: Too much rain causes floods, too little rain causes droughts, and water conservation helps us manage water so we are better prepared for both. Mention specific examples like rainwater harvesting, fixing leaking taps, and traditional methods like stepwells. Always give at least three ways to save water when asked!",
+      "tags": ["study-tip", "exam-preparation"],
+      "isPinned": false
+    }
+  ]
+}

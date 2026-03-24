@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn8_t2",
+  "topicId": "gr4_mn_8_2",
+  "topicName": "Measuring Capacity",
+  "chapterId": "gr4_math_ncert_ch8",
+  "chapterName": "Weigh it, Pour it",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_8_1"],
+    "followUpTopics": ["gr4_mn_8_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn8_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Measuring Capacity | Litres and Millilitres for Kids",
+      "description": "Learn about capacity: how much liquid a container can hold. Understand the difference between millilitres (mL) and litres (L) with everyday examples.",
+      "youtubeId": "GsF3OfCgUKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GsF3OfCgUKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/GsF3OfCgUKo/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1100000,
+      "tags": ["capacity", "litres", "millilitres", "mL", "L", "liquid measurement"],
+      "learningObjectives": ["Understand what capacity means", "Learn millilitres and litres as units", "Know that 1 L = 1000 mL"],
+      "keyConceptsCovered": ["Capacity is how much a container can hold", "Millilitres for small amounts", "Litres for large amounts", "1 litre = 1000 millilitres"],
+      "prerequisites": ["Concept of full and empty"],
+      "followUpTopics": ["Reading capacity labels", "Comparing capacities"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch8_fullempty_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Full, Empty, and Half Full | Capacity for Beginners",
+      "description": "Learn about full, empty, and half full containers. See how we describe how much water or juice is in a glass, bottle, or bucket.",
+      "youtubeId": "GsF3OfCgUKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GsF3OfCgUKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/GsF3OfCgUKo/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1100000,
+      "tags": ["full", "empty", "half full", "capacity", "containers"],
+      "learningObjectives": ["Describe containers as full, empty, or partly filled", "Compare containers by how much they hold", "Connect everyday experience to measurement"],
+      "keyConceptsCovered": ["Full means no more can fit", "Empty means nothing inside", "Bigger containers hold more liquid"],
+      "prerequisites": ["Basic observation skills"],
+      "followUpTopics": ["Measuring in millilitres"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn8_v2",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Grams and Kilograms | Measuring Weight for Kids",
+      "description": "Review how we measure weight in grams and kilograms. See the connection: just like 1 kg = 1000 g, we have 1 L = 1000 mL for capacity!",
+      "youtubeId": "V3XBKB8H0xI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=V3XBKB8H0xI",
+      "thumbnailUrl": "https://img.youtube.com/vi/V3XBKB8H0xI/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["grams", "kilograms", "weight capacity connection", "units"],
+      "learningObjectives": ["See the parallel between weight and capacity units", "Understand the 1000 relationship in both systems", "Distinguish weight from capacity"],
+      "keyConceptsCovered": ["Both systems use the factor of 1000", "Weight is for solids, capacity is for liquids", "Choosing the correct unit"],
+      "prerequisites": ["Grams and kilograms"],
+      "followUpTopics": ["Conversion between units"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch8_multiply_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Multiplication by 10, 100, and 1000 | Easy Multiplication Tricks",
+      "description": "Practice multiplying by 1000 to prepare for capacity conversions. If 1 L = 1000 mL, then 3 L = 3 x 1000 = 3000 mL!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["multiplication", "multiply by 1000", "capacity conversion"],
+      "learningObjectives": ["Multiply by 1000 for capacity conversions", "Convert litres to millilitres quickly", "Build fluency for unit work"],
+      "keyConceptsCovered": ["3 L = 3000 mL using multiplication by 1000", "Pattern of adding zeros", "Quick mental math for conversions"],
+      "prerequisites": ["Basic multiplication facts"],
+      "followUpTopics": ["Converting mL to litres"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn8_v3", "prereq_ch8_fullempty_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Quick coverage of capacity concepts for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn8_v3", "prereq_ch8_fullempty_v1", "gr4_mn8_v2", "prereq_ch8_multiply_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1860,
+      "estimatedTimeDisplay": "31:00",
+      "rationale": "Complete coverage of capacity with weight-capacity parallel"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch8_fullempty_v1", "gr4_mn8_v3", "prereq_ch8_multiply_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1350,
+      "estimatedTimeDisplay": "22:30",
+      "rationale": "Start with full/empty review, then capacity units"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn8_v3", "prereq_ch8_fullempty_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Essential capacity concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn8_v3",
+      "checkpointName": "Capacity Understanding Check",
+      "questions": [
+        {
+          "question": "Which unit would you use to measure the water in a swimming pool: millilitres or litres?",
+          "options": ["Millilitres", "Litres", "Grams", "Kilograms"],
+          "correctAnswer": 1,
+          "explanation": "A swimming pool holds a very large amount of water, so we measure it in litres. Millilitres are for small amounts like a spoon of medicine."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use real containers in class: a medicine spoon (5 mL), a glass (250 mL), a water bottle (1 L), and a bucket (10 L). Let children pour water between containers to understand capacity.",
+    "parentGuidance": "Look at labels on bottles and containers at home. Ask your child: How many millilitres in this juice box? How many litres in this water bottle?",
+    "studentGuidance": "Capacity is about how much liquid fits inside a container. Small amounts like medicine use millilitres, and big amounts like water in a bucket use litres!"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch6",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en6_backwaters",
+      "name": "Kerala Backwaters",
+      "description": "Learn about the backwaters of Kerala and how people live near them",
+      "topicId": "gr4_evn_6_1",
+      "chapterId": "gr4_evs_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_en6_001",
+          "front": "What are backwaters?",
+          "back": "Backwaters are a network of lakes, canals, and rivers that run along the coast. In Kerala, these waterways are connected to the sea and are used for travel, fishing, and farming.",
+          "hint": "Think of calm water channels near the sea",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en6_002",
+          "front": "What is a houseboat called in Kerala?",
+          "back": "A houseboat in Kerala is called a 'Kettuvallam'. It is a large boat made of wood and coir rope, where people can live, cook, and sleep while floating on the backwaters.",
+          "hint": "It is a traditional Malayalam word",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en6_003",
+          "front": "How do people travel in the backwaters of Kerala?",
+          "back": "People use boats to travel in the backwaters. Small wooden boats, canoes, and larger houseboats are common. Some children even go to school by boat!",
+          "hint": "Roads are replaced by water channels here",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en6_004",
+          "front": "Which state in India is famous for its backwaters?",
+          "back": "Kerala, a state on the south-western coast of India, is famous for its beautiful backwaters. The backwaters stretch across several districts including Alappuzha (Alleppey) and Kottayam.",
+          "hint": "This state is also called 'God's Own Country'",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en6_005",
+          "front": "What are the main things people grow near the backwaters?",
+          "back": "Coconut trees, rice paddies, and banana plants grow abundantly near the backwaters. The soil near the water is very fertile, which makes farming easy.",
+          "hint": "Think of crops that need plenty of water",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en6_life_on_water",
+      "name": "Life on Water",
+      "description": "Discover how daily life works for families living near Kerala's backwaters",
+      "topicId": "gr4_evn_6_1",
+      "chapterId": "gr4_evs_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_en6_006",
+          "front": "What does Omana see during her boat journey?",
+          "back": "During her boat journey, Omana sees coconut trees, green paddy fields, fish jumping in the water, birds flying, and other boats passing by on the backwaters.",
+          "hint": "Think of nature and water together",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en6_007",
+          "front": "Why are coconut trees so important in Kerala?",
+          "back": "Coconut trees are very important in Kerala because coconut is used in cooking, making oil, coir rope from the husk, and the leaves are used for thatching roofs. Almost every part of the coconut tree is useful!",
+          "hint": "Every part of this tree is used",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en6_008",
+          "front": "What types of fish are found in the backwaters?",
+          "back": "The backwaters have both freshwater and saltwater fish because the water mixes with the sea. Karimeen (pearl spot fish) is a famous fish found in Kerala's backwaters.",
+          "hint": "The water is a mix of fresh and salt water",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en6_009",
+          "front": "How is a houseboat different from a regular house?",
+          "back": "A houseboat floats on water instead of being built on land. It has rooms, a kitchen, and a deck just like a house, but it moves! It is made of wood and bamboo with a roof of palm leaves or bamboo mats.",
+          "hint": "It is both a house and a vehicle",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en6_010",
+          "front": "What is coir and how is it related to the backwaters?",
+          "back": "Coir is a strong fibre made from the outer husk of coconuts. In Kerala, coir is soaked in the backwater to soften it, then made into ropes, mats, and mattresses. It is an important local industry.",
+          "hint": "It comes from the outside of a coconut",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

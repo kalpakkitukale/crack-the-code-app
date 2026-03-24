@@ -1,0 +1,47 @@
+{
+  "id": "english_gr5",
+  "name": "English",
+  "icon": "menu_book",
+  "color": "#FFBE76",
+  "boardId": "cbse_elementary",
+  "classId": "class_5",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["english", "grade 5", "grammar", "writing"],
+  "chapters": [
+    {
+      "id": "gr5_eng_ch1",
+      "number": 1,
+      "name": "Advanced Grammar",
+      "description": "Tenses, prepositions, and conjunctions",
+      "keywords": ["tenses", "prepositions"],
+      "topics": [
+        {"id": "gr5_e_1_1", "name": "Past Tense", "difficulty": "intermediate", "videoCount": 4, "keywords": ["past tense"]},
+        {"id": "gr5_e_1_2", "name": "Future Tense", "difficulty": "intermediate", "videoCount": 4, "keywords": ["future tense"]},
+        {"id": "gr5_e_1_3", "name": "Prepositions", "difficulty": "basic", "videoCount": 3, "keywords": ["prepositions"]}
+      ]
+    },
+    {
+      "id": "gr5_eng_ch2",
+      "number": 2,
+      "name": "Sentence Structure",
+      "description": "Types of sentences and punctuation",
+      "keywords": ["sentences", "punctuation"],
+      "topics": [
+        {"id": "gr5_e_2_1", "name": "Types of Sentences", "difficulty": "basic", "videoCount": 4, "keywords": ["sentence types"]},
+        {"id": "gr5_e_2_2", "name": "Punctuation", "difficulty": "basic", "videoCount": 4, "keywords": ["punctuation"]}
+      ]
+    },
+    {
+      "id": "gr5_eng_ch3",
+      "number": 3,
+      "name": "Adverbs and Conjunctions",
+      "description": "Understanding adverbs and joining words",
+      "keywords": ["adverbs", "conjunctions"],
+      "topics": [
+        {"id": "gr5_e_3_1", "name": "Adverbs", "difficulty": "intermediate", "videoCount": 4, "keywords": ["adverbs"]},
+        {"id": "gr5_e_3_2", "name": "Conjunctions", "difficulty": "basic", "videoCount": 3, "keywords": ["conjunctions"]}
+      ]
+    }
+  ]
+}

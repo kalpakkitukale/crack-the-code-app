@@ -1,0 +1,288 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch1",
+  "topicId": "gr4_mn_1_1",
+  "topicName": "3D Shapes in Daily Life",
+  "chapterId": "gr4_math_ncert_ch1",
+  "chapterName": "Shapes Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about 3D shapes, faces, edges, vertices, angles, and identifying shapes around us",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "basic_2d_shapes",
+      "conceptName": "Recognizing and naming basic 2D shapes",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1_1", "rq1_2", "rq1_3"],
+      "remedialVideoIds": ["prereq_ch1_2dshapes_v1"]
+    },
+    {
+      "conceptId": "counting_sides",
+      "conceptName": "Counting sides and corners of shapes",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1_4", "rq1_5", "rq1_6"],
+      "remedialVideoIds": ["prereq_ch1_sides_v1"]
+    },
+    {
+      "conceptId": "flat_vs_solid",
+      "conceptName": "Understanding the difference between flat and solid shapes",
+      "importance": "important",
+      "questionsTestingThis": ["rq1_7", "rq1_8"],
+      "remedialVideoIds": ["prereq_ch1_flat_solid_v1"]
+    },
+    {
+      "conceptId": "real_world_shapes",
+      "conceptName": "Recognizing shapes in everyday objects",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq1_9", "rq1_10"],
+      "remedialVideoIds": ["prereq_ch1_2dshapes_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "basic_2d_shapes",
+      "question": "Which shape has 3 sides and 3 corners?",
+      "options": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Triangle",
+      "explanation": "A triangle has exactly 3 sides and 3 corners. The word 'tri' means three!",
+      "tags": ["2D shapes", "triangle", "naming"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Confused triangle with square",
+          "conceptGap": "A square has 4 sides and 4 corners, not 3",
+          "remediation": "Count sides of common shapes using pictures"
+        }
+      ]
+    },
+    {
+      "id": "rq1_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "basic_2d_shapes",
+      "question": "Which shape is perfectly round with no sides and no corners?",
+      "options": ["Square", "Circle", "Rectangle", "Triangle"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Circle",
+      "explanation": "A circle is perfectly round. It has no straight sides and no corners at all!",
+      "tags": ["2D shapes", "circle", "naming"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq1_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "basic_2d_shapes",
+      "question": "A square and a rectangle both have 4 sides. What is special about a square?",
+      "options": ["It is bigger", "All 4 sides are the same length", "It has more corners", "It is always red"],
+      "correctAnswer": 1,
+      "correctAnswerText": "All 4 sides are the same length",
+      "explanation": "A square is special because all 4 of its sides are the same length. A rectangle can have longer sides and shorter sides.",
+      "tags": ["2D shapes", "square", "rectangle", "properties"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thinks size determines shape type",
+          "conceptGap": "Shape type depends on side lengths and angles, not overall size",
+          "remediation": "Compare different sized squares and rectangles"
+        }
+      ]
+    },
+    {
+      "id": "rq1_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_sides",
+      "question": "How many sides does a rectangle have?",
+      "options": ["3 sides", "4 sides", "5 sides", "6 sides"],
+      "correctAnswer": 1,
+      "correctAnswerText": "4 sides",
+      "explanation": "A rectangle has 4 sides: two longer sides and two shorter sides.",
+      "tags": ["sides", "rectangle", "counting"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq1_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "counting_sides",
+      "question": "A shape has 5 sides and 5 corners. What is this shape called?",
+      "options": ["Hexagon", "Pentagon", "Square", "Triangle"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Pentagon",
+      "explanation": "A pentagon has 5 sides and 5 corners. 'Penta' means five!",
+      "tags": ["sides", "corners", "pentagon", "naming"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused pentagon with hexagon",
+          "conceptGap": "A hexagon has 6 sides, not 5",
+          "remediation": "Practice counting sides on different polygon pictures"
+        }
+      ]
+    },
+    {
+      "id": "rq1_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "counting_sides",
+      "question": "Rina drew a shape with 4 equal sides and 4 corners. Which shape did she draw?",
+      "options": ["Rectangle", "Triangle", "Square", "Circle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Square",
+      "explanation": "A square has 4 equal sides (all the same length) and 4 corners. A rectangle also has 4 sides and 4 corners, but its sides are not all equal.",
+      "tags": ["sides", "corners", "square", "properties"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Chose rectangle instead of square",
+          "conceptGap": "The key word is 'equal' sides - a rectangle has 4 sides but not all equal",
+          "remediation": "Compare square and rectangle side by side, measuring sides"
+        }
+      ]
+    },
+    {
+      "id": "rq1_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "flat_vs_solid",
+      "question": "Which of these is a flat shape that you can draw on paper?",
+      "options": ["A ball", "A box", "A triangle", "A tin can"],
+      "correctAnswer": 2,
+      "correctAnswerText": "A triangle",
+      "explanation": "A triangle is a flat (2D) shape that you can draw on paper. A ball, box, and tin can are solid (3D) shapes that take up space.",
+      "tags": ["flat shapes", "solid shapes", "2D", "3D"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq1_8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "flat_vs_solid",
+      "question": "True or False: A ball is a flat shape because it is round like a circle.",
+      "correctAnswer": false,
+      "correctAnswerText": "False",
+      "explanation": "False! A ball is a solid (3D) shape called a sphere. You can hold it in your hands. A circle is the flat (2D) version - you can draw it on paper but cannot hold it.",
+      "tags": ["flat vs solid", "sphere", "circle", "true false"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq1_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "real_world_shapes",
+      "question": "What shape is the face of a clock?",
+      "options": ["Square", "Triangle", "Circle", "Rectangle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Circle",
+      "explanation": "Most clocks have a round face, which is a circle shape!",
+      "tags": ["real world", "shapes", "everyday objects"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq1_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "real_world_shapes",
+      "question": "Look at a door. What shape is it?",
+      "options": ["Circle", "Triangle", "Square", "Rectangle"],
+      "correctAnswer": 3,
+      "correctAnswerText": "Rectangle",
+      "explanation": "A door is shaped like a rectangle - it has 4 sides with 2 longer sides and 2 shorter sides.",
+      "tags": ["real world", "shapes", "everyday objects", "rectangle"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Confused rectangle with square",
+          "conceptGap": "A door is taller than it is wide, making it a rectangle, not a square",
+          "remediation": "Measure real objects to see if all sides are equal (square) or not (rectangle)"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You know your shapes very well. You are ready to explore 3D shapes and their properties!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding of shapes. Let's learn about 3D shapes, faces, edges, and angles!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some shapes but need to review a few things first. Watch the review videos and you will be all set!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review basic shapes, sides, and corners. We have some fun videos to help you get ready!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We'll show you some fun videos about shapes to help you get ready.",
+    "high_score_praise": "Awesome! You're all set to learn about 3D shapes and angles!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

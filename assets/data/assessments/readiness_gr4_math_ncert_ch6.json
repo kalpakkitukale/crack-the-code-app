@@ -1,0 +1,295 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch6",
+  "topicId": "gr4_mn_6_1",
+  "topicName": "Units of Length",
+  "chapterId": "gr4_math_ncert_ch6",
+  "chapterName": "Measuring Length",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about measuring length (cm, m, km)",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "measurement_concept",
+      "conceptName": "Understanding what measurement means and why we measure",
+      "importance": "critical",
+      "questionsTestingThis": ["rq6_1", "rq6_2", "rq6_3"],
+      "remedialVideoIds": ["prereq_ch6_measurement_v1"]
+    },
+    {
+      "conceptId": "using_ruler",
+      "conceptName": "Using a ruler to measure objects in centimetres",
+      "importance": "critical",
+      "questionsTestingThis": ["rq6_4", "rq6_5", "rq6_6"],
+      "remedialVideoIds": ["prereq_ch6_ruler_v1"]
+    },
+    {
+      "conceptId": "addition_subtraction",
+      "conceptName": "Adding and subtracting numbers up to 1000",
+      "importance": "important",
+      "questionsTestingThis": ["rq6_7", "rq6_8"],
+      "remedialVideoIds": ["prereq_ch6_addition_v1"]
+    },
+    {
+      "conceptId": "comparing_lengths",
+      "conceptName": "Comparing lengths of two objects (longer, shorter, same)",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq6_9", "rq6_10"],
+      "remedialVideoIds": ["prereq_ch6_measurement_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq6_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "measurement_concept",
+      "question": "Why do we measure the length of things?",
+      "options": ["To make them heavier", "To find out how long or short they are", "To change their colour", "To make them disappear"],
+      "correctAnswer": 1,
+      "correctAnswerText": "To find out how long or short they are",
+      "explanation": "We measure length to find out how long or short something is. For example, we measure cloth to know how much to buy!",
+      "tags": ["measurement", "purpose"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq6_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "measurement_concept",
+      "question": "Which of these can we use to measure the length of a pencil?",
+      "options": ["A weighing scale", "A ruler", "A clock", "A thermometer"],
+      "correctAnswer": 1,
+      "correctAnswerText": "A ruler",
+      "explanation": "A ruler is used to measure length. A weighing scale measures weight, a clock measures time, and a thermometer measures temperature.",
+      "tags": ["measurement tools", "ruler"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused measuring length with measuring weight",
+          "conceptGap": "Does not distinguish between different types of measurement",
+          "remediation": "Review different types of measurement and their tools"
+        }
+      ]
+    },
+    {
+      "id": "rq6_3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "measurement_concept",
+      "question": "True or False: We can measure the length of a table using hand spans.",
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+      "explanation": "True! We can use hand spans to measure length. But different people have different hand sizes, so a ruler gives a more accurate answer.",
+      "tags": ["non-standard measurement", "hand span"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq6_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "using_ruler",
+      "question": "When measuring with a ruler, where should you start?",
+      "options": ["From the number 1", "From the middle of the ruler", "From the number 0", "From any number you like"],
+      "correctAnswer": 2,
+      "correctAnswerText": "From the number 0",
+      "explanation": "Always start measuring from the 0 mark on the ruler. If you start from 1, your measurement will be 1 cm less than the actual length!",
+      "tags": ["ruler", "measuring correctly"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thinks measurement starts from 1",
+          "conceptGap": "Does not understand ruler starts at zero",
+          "remediation": "Practice placing objects at the 0 mark on a ruler"
+        }
+      ]
+    },
+    {
+      "id": "rq6_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "using_ruler",
+      "question": "Anita places her eraser at the 0 mark on a ruler. The other end of the eraser reaches the 5 mark. How long is her eraser?",
+      "options": ["4 cm", "5 cm", "6 cm", "10 cm"],
+      "correctAnswer": 1,
+      "correctAnswerText": "5 cm",
+      "explanation": "The eraser goes from 0 to 5 on the ruler, so it is 5 cm long. We read the number where the object ends.",
+      "tags": ["ruler reading", "centimetre"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq6_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "using_ruler",
+      "question": "Ravi measures a ribbon from the 3 cm mark to the 11 cm mark on his ruler. How long is the ribbon?",
+      "options": ["3 cm", "8 cm", "11 cm", "14 cm"],
+      "correctAnswer": 1,
+      "correctAnswerText": "8 cm",
+      "explanation": "When you do not start from 0, subtract the smaller number from the bigger number: 11 - 3 = 8 cm.",
+      "tags": ["ruler", "subtraction", "non-zero start"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Read the end mark instead of subtracting",
+          "conceptGap": "Does not know to subtract when not starting from zero",
+          "remediation": "Practice measuring from different starting points on the ruler"
+        }
+      ]
+    },
+    {
+      "id": "rq6_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_subtraction",
+      "question": "What is 250 + 150?",
+      "options": ["300", "350", "400", "450"],
+      "correctAnswer": 2,
+      "correctAnswerText": "400",
+      "explanation": "250 + 150 = 400. You will need to add measurements like this when solving length problems!",
+      "tags": ["addition", "three-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Only added the hundreds digits",
+          "conceptGap": "Needs practice with multi-digit addition",
+          "remediation": "Review column addition with carrying"
+        }
+      ]
+    },
+    {
+      "id": "rq6_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "addition_subtraction",
+      "question": "A rope is 500 cm long. Priya cuts off 175 cm. How much rope is left?",
+      "options": ["225 cm", "275 cm", "325 cm", "375 cm"],
+      "correctAnswer": 2,
+      "correctAnswerText": "325 cm",
+      "explanation": "500 - 175 = 325 cm. When we cut something, we subtract to find out how much is left.",
+      "tags": ["subtraction", "word problem", "measurement context"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Subtracted incorrectly with borrowing",
+          "conceptGap": "Needs practice with subtraction involving borrowing",
+          "remediation": "Review column subtraction with borrowing"
+        }
+      ]
+    },
+    {
+      "id": "rq6_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparing_lengths",
+      "question": "Pencil A is 12 cm long. Pencil B is 9 cm long. Which pencil is longer?",
+      "options": ["Pencil A", "Pencil B", "Both are the same length", "We cannot tell"],
+      "correctAnswer": 0,
+      "correctAnswerText": "Pencil A",
+      "explanation": "Pencil A is 12 cm and Pencil B is 9 cm. Since 12 is more than 9, Pencil A is longer.",
+      "tags": ["comparing lengths", "longer shorter"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq6_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "comparing_lengths",
+      "question": "Sita has a ribbon that is 85 cm long. Gita has a ribbon that is 1 m long. Whose ribbon is longer?",
+      "options": ["Sita's ribbon", "Gita's ribbon", "Both are the same", "We cannot compare them"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Gita's ribbon",
+      "explanation": "1 metre = 100 cm. Gita's ribbon is 100 cm and Sita's is 85 cm. So Gita's ribbon is longer by 15 cm!",
+      "tags": ["comparing lengths", "metres and centimetres", "conversion"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Did not convert metre to centimetres to compare",
+          "conceptGap": "Does not know that 1 m = 100 cm",
+          "remediation": "Learn the basic conversion: 1 metre = 100 centimetres"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You know your measurement basics really well. You are ready to learn about measuring length with centimetres, metres, and kilometres!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding of measurement and rulers. Let's learn about measuring longer and shorter lengths!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things but need to review measurement basics. Watch the review videos first, then we will start measuring lengths.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review what measurement means and how to use a ruler. We will watch some fun videos about these topics before starting the chapter.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We will show you some fun videos about measurement and rulers first.",
+    "high_score_praise": "Awesome! You are all set to learn about measuring length in centimetres, metres, and kilometres!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

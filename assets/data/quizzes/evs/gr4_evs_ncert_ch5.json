@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_evs_ncert_ch5",
+    "level": "chapter",
+    "entityId": "gr4_evs_ncert_ch5",
+    "title": "Anita and the Honeybees - Chapter 5 Quiz",
+    "questionIds": ["q_ah_001", "q_ah_002", "q_ah_003", "q_ah_004", "q_ah_005", "q_ah_006", "q_ah_007", "q_ah_008", "q_ah_009", "q_ah_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_ah_001",
+      "questionText": "Honeybees live together in a:",
+      "questionType": "mcq",
+      "options": ["Nest", "Hive", "Burrow", "Cave"],
+      "correctAnswer": "B",
+      "explanation": "Honeybees live together in a hive. A hive is their home where they make honey and raise their young.",
+      "hints": ["It starts with H"],
+      "difficulty": "basic",
+      "conceptTags": ["bees", "habitat", "hive"],
+      "topicIds": ["gr4_evs_5_1"],
+      "points": 1
+    },
+    {
+      "id": "q_ah_002",
+      "questionText": "What do bees collect from flowers?",
+      "questionType": "mcq",
+      "options": ["Water", "Nectar", "Seeds", "Leaves"],
+      "correctAnswer": "B",
+      "explanation": "Bees collect nectar from flowers. They use nectar to make honey.",
+      "hints": ["It's a sweet liquid in flowers"],
+      "difficulty": "basic",
+      "conceptTags": ["bees", "nectar", "flowers"],
+      "topicIds": ["gr4_evs_5_2"],
+      "points": 1
+    },
+    {
+      "id": "q_ah_003",
+      "questionText": "The leader of a bee colony is called the:",
+      "questionType": "mcq",
+      "options": ["King bee", "Queen bee", "Boss bee", "Master bee"],
+      "correctAnswer": "B",
+      "explanation": "The leader of a bee colony is the Queen bee. She lays all the eggs in the hive.",
+      "hints": ["Female royalty"],
+      "difficulty": "basic",
+      "conceptTags": ["bees", "queen bee", "colony"],
+      "topicIds": ["gr4_evs_5_1"],
+      "points": 1
+    },
+    {
+      "id": "q_ah_004",
+      "questionText": "True or False: Bees help flowers by carrying pollen from one flower to another.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Bees carry pollen between flowers. This is called pollination and helps plants make seeds and fruits.",
+      "hints": ["This process helps plants reproduce"],
+      "difficulty": "basic",
+      "conceptTags": ["bees", "pollination", "flowers"],
+      "topicIds": ["gr4_evs_5_2"],
+      "points": 1
+    },
+    {
+      "id": "q_ah_005",
+      "questionText": "Worker bees in a hive are:",
+      "questionType": "mcq",
+      "options": ["All male", "All female", "Both male and female", "Only the queen"],
+      "correctAnswer": "B",
+      "explanation": "Worker bees are all female. They do all the work - collecting nectar, making honey, and protecting the hive.",
+      "hints": ["There are thousands of them doing all the work"],
+      "difficulty": "intermediate",
+      "conceptTags": ["bees", "worker bees", "colony"],
+      "topicIds": ["gr4_evs_5_1"],
+      "points": 2
+    },
+    {
+      "id": "q_ah_006",
+      "questionText": "Honey is stored in the hive in:",
+      "questionType": "mcq",
+      "options": ["Jars", "Honeycomb cells", "Bottles", "Bags"],
+      "correctAnswer": "B",
+      "explanation": "Honey is stored in honeycomb cells - small hexagonal (six-sided) wax chambers made by bees.",
+      "hints": ["Bees make these from wax"],
+      "difficulty": "basic",
+      "conceptTags": ["honey", "honeycomb", "storage"],
+      "topicIds": ["gr4_evs_5_3"],
+      "points": 1
+    },
+    {
+      "id": "q_ah_007",
+      "questionText": "Why do bees do a 'dance'?",
+      "questionType": "mcq",
+      "options": ["For fun", "To communicate location of flowers", "To exercise", "To attract other insects"],
+      "correctAnswer": "B",
+      "explanation": "Bees do a special dance (called waggle dance) to tell other bees where to find good flowers with nectar!",
+      "hints": ["It's a form of communication"],
+      "difficulty": "intermediate",
+      "conceptTags": ["bees", "communication", "dance"],
+      "topicIds": ["gr4_evs_5_2"],
+      "points": 2
+    },
+    {
+      "id": "q_ah_008",
+      "questionText": "True or False: Bees can sting only once and then they die.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True for honeybees! When a honeybee stings, its stinger gets stuck and the bee dies. This is why they only sting when threatened.",
+      "hints": ["Their stinger has barbs"],
+      "difficulty": "intermediate",
+      "conceptTags": ["bees", "defense", "sting"],
+      "topicIds": ["gr4_evs_5_1"],
+      "points": 2
+    },
+    {
+      "id": "q_ah_009",
+      "questionText": "Beekeeping is called:",
+      "questionType": "mcq",
+      "options": ["Agriculture", "Apiculture", "Horticulture", "Floriculture"],
+      "correctAnswer": "B",
+      "explanation": "Beekeeping is called apiculture. 'Api' comes from the Latin word for bee (apis).",
+      "hints": ["It starts with 'Api'"],
+      "difficulty": "intermediate",
+      "conceptTags": ["beekeeping", "apiculture"],
+      "topicIds": ["gr4_evs_5_3"],
+      "points": 2
+    },
+    {
+      "id": "q_ah_010",
+      "questionText": "Why are bees important for farmers?",
+      "questionType": "mcq",
+      "options": ["They give milk", "They pollinate crops", "They eat pests", "They water plants"],
+      "correctAnswer": "B",
+      "explanation": "Bees are important because they pollinate crops. Without bees, many fruits and vegetables wouldn't grow!",
+      "hints": ["Think about what bees do with flowers"],
+      "difficulty": "basic",
+      "conceptTags": ["bees", "pollination", "farming"],
+      "topicIds": ["gr4_evs_5_2"],
+      "points": 1
+    }
+  ]
+}

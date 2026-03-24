@@ -1,0 +1,46 @@
+{
+  "chapterId": "gr4_evs_ncert_ch15",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en15_v1",
+      "videoId": "gr4_evn_15_1_v1",
+      "content": "This lesson introduces students to the different types of markets found in India. A weekly market or haat is a temporary market set up on a fixed day, where farmers and small sellers bring their goods. Local kirana shops are small neighbourhood shops. Wholesale mandis are large markets where shopkeepers buy goods in bulk at lower prices. Malls and supermarkets are big stores with fixed prices and air conditioning. Students compare these markets - weekly markets have lower prices but less variety, while malls have more variety but higher prices. The lesson also covers specialised markets like vegetable markets, cloth markets, fish markets, and flower markets found in Indian cities.",
+      "keyPoints": [
+        "Weekly markets (haats) are temporary and have lower prices",
+        "Kirana shops are small neighbourhood stores",
+        "Wholesale mandis sell goods in bulk at lower prices",
+        "Malls and supermarkets have fixed prices and more variety",
+        "India has specialised markets for vegetables, cloth, fish, etc."
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en15_v2",
+      "videoId": "gr4_evn_15_1_v2",
+      "content": "This lesson traces the journey of goods from the farm to your home. A farmer grows vegetables and takes them to a wholesale mandi. Traders at the mandi buy in bulk and sell to shopkeepers. Shopkeepers sell to families at local markets. At each step, the price goes up because of transport costs, storage costs, and profit. Students learn about middlemen - people who buy from farmers at low prices and sell at higher prices. The lesson also teaches about MRP (Maximum Retail Price) printed on packaged goods, expiry dates on food items, and why bargaining is common in Indian markets. Students understand why the same tomato costs less at the farm gate than at a city shop.",
+      "keyPoints": [
+        "Goods travel from farmer to trader to shopkeeper to home",
+        "Prices increase at each step due to costs and profit",
+        "Middlemen buy cheap from farmers and sell at higher prices",
+        "MRP is the maximum price allowed for packaged products",
+        "Always check expiry dates on packaged food items"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en15_v3",
+      "videoId": "gr4_evn_15_1_v3",
+      "content": "This lesson teaches students how to be smart and responsible shoppers. Making a shopping list before going to the market helps avoid buying unnecessary items and saves money. Checking the MRP, expiry date, manufacturing date, and weight on packaged products protects consumers from being cheated. Always asking for a receipt helps track spending and allows returns if needed. The lesson also emphasises eco-friendly shopping - carrying cloth bags instead of using plastic bags, buying local products to support nearby farmers, and not wasting food. Students learn that being a good consumer means making wise choices that are good for their family, their pocket, and the environment.",
+      "keyPoints": [
+        "Making a shopping list saves money and time",
+        "Check MRP, expiry date, and weight on all packages",
+        "Always ask for a receipt when buying things",
+        "Carry cloth bags to reduce plastic waste",
+        "Being a smart shopper is good for family and environment"
+      ],
+      "source": "manual"
+    }
+  ]
+}

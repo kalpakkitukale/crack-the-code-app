@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ncert_u8",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en8_001",
+      "videoId": "gr4_en8_v1",
+      "question": "What is the poem 'Books' about?",
+      "answer": "The poem 'Books' is about the magic of reading. It tells us that books are like friends and treasures. They take us on adventures to faraway places, introduce us to wonderful characters, and fill our minds with exciting ideas. The poem encourages children to read more books and develop a love for reading!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en8_002",
+      "videoId": "gr4_en8_v1",
+      "question": "Why does the poet call books our 'friends'?",
+      "answer": "The poet calls books friends because, just like good friends, books keep us company when we are alone, teach us new things, make us laugh and cry, and are always there when we need them. You can read a book any time and it will never let you down. That is why books are called our best friends!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en8_003",
+      "videoId": "gr4_en8_v2",
+      "question": "What happens in the story 'Going to Buy a Book'?",
+      "answer": "In the story, a child goes to a bookshop to buy a book. The child is very excited to see so many different kinds of books -- storybooks, picture books, fairy tales, books about animals, and more. The child carefully chooses a book and feels very happy about owning it. The story teaches us that books are valuable and reading is a wonderful habit.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en8_004",
+      "videoId": "gr4_en8_v2",
+      "question": "What is the difference between a bookshop and a library?",
+      "answer": "A bookshop is a place where you buy books by paying money, and the books become yours to keep forever. A library is a place where you borrow books for free and return them after some time so that others can read them too. Both are wonderful places for book lovers!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en8_005",
+      "videoId": "gr4_en8_v3",
+      "question": "What are articles? How many articles are there in English?",
+      "answer": "Articles are small words that come before nouns. There are only three articles in English: 'a', 'an', and 'the'. 'A' and 'an' are called indefinite articles (used for general things). 'The' is called the definite article (used for specific things). Even though they are tiny words, they are very important for correct English!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en8_006",
+      "videoId": "gr4_en8_v3",
+      "question": "How do I know when to use 'a' and when to use 'an'?",
+      "answer": "Listen to the sound at the beginning of the next word. If it starts with a consonant sound (like b, c, d, f, g...), use 'a': a book, a cat, a dog. If it starts with a vowel sound (like a, e, i, o, u), use 'an': an apple, an egg, an ice cream. Remember: focus on the sound, not just the letter!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en8_007",
+      "videoId": "gr4_en8_v3",
+      "question": "Why do we say 'an hour' and not 'a hour'?",
+      "answer": "Even though 'hour' starts with the letter 'h', the 'h' is silent! The word actually sounds like it starts with 'ow' -- a vowel sound. Since we use 'an' before vowel sounds, we say 'an hour'. This is why the rule is about sounds, not letters. Similarly, we say 'an honest person' because the 'h' in 'honest' is also silent.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en8_008",
+      "videoId": "gr4_en8_v3",
+      "question": "When should I use 'the' in a sentence?",
+      "answer": "Use 'the' when: (1) You are talking about a specific thing: 'Give me the red pen' (a particular pen). (2) Something was already mentioned: 'I saw a dog. The dog was brown.' (3) There is only one of something: 'the sun', 'the moon', 'the Earth'. (4) Everyone knows what you mean: 'Let us go to the park' (the one near us).",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en8_009",
+      "videoId": "gr4_en8_v2",
+      "question": "How should I take care of my books?",
+      "answer": "Here are some tips to take care of your books: (1) Always use a bookmark -- do not fold the pages. (2) Keep your books in a dry place away from water. (3) Cover your textbooks with brown paper to protect them. (4) Do not eat or drink while reading. (5) Keep them on a shelf or in a bag, not on the floor. Treat your books like treasures!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en8_010",
+      "videoId": "gr4_en8_v1",
+      "question": "What are rhyming words? Can you give examples from the poem?",
+      "answer": "Rhyming words are words that end with the same sound. For example: book/look, read/lead, mind/find, place/space. Poets use rhyming words to make poems sound musical and fun to read aloud. When you read the poem 'Books', listen for words at the end of lines that sound similar -- those are the rhyming words!",
+      "status": "answered",
+      "upvotes": 15
+    }
+  ]
+}

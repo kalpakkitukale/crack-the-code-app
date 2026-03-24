@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch13",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn13_kahani",
+      "name": "कहानी पाठ - हुदहुद",
+      "description": "Learn about the hoopoe bird and its fascinating characteristics from Rimjhim Chapter 13",
+      "topicId": "gr4_hi_13_1",
+      "chapterId": "gr4_hin_ncert_ch13",
+      "cards": [
+        {
+          "id": "card_gr4_hn13_001",
+          "front": "हुदहुद कैसा पक्षी है? उसका वर्णन करो।",
+          "back": "हुदहुद (Hoopoe) एक सुंदर पक्षी है। इसके सिर पर एक पंखों की कलगी (crown of feathers) होती है जो पंखे की तरह खुलती और बंद होती है। इसके शरीर पर भूरे, काले और सफ़ेद रंग की धारियाँ (stripes) होती हैं। इसकी लंबी और पतली चोंच (beak) होती है। The hoopoe is a beautiful bird with a distinctive crown of feathers, striped body, and a long thin beak.",
+          "hint": "Think about what makes this bird look special on its head",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn13_002",
+          "front": "हुदहुद की कलगी (crest) की क्या विशेषता है?",
+          "back": "हुदहुद की कलगी उसकी सबसे खास पहचान है। यह सिर पर पंखों का एक गुच्छा (tuft) है जो पंखे की तरह खुलता और बंद होता है। जब हुदहुद खुश होता है या डरता है तो कलगी खोल लेता है। यह भूरे-नारंगी रंग की होती है और इसके सिरों पर काली पट्टी होती है। The crest is a fan-like tuft of feathers on its head that opens and closes depending on the bird's mood.",
+          "hint": "It opens and closes like a fan",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn13_003",
+          "front": "हुदहुद क्या खाता है?",
+          "back": "हुदहुद कीड़े-मकोड़े (insects) खाता है। यह अपनी लंबी और पतली चोंच को ज़मीन में डालकर कीड़े, लार्वा, और छोटे-छोटे जीव निकालकर खाता है। यह खेतों और बगीचों में कीड़े खाकर किसानों की मदद करता है। The hoopoe eats insects by poking its long thin beak into the ground to pull out worms and larvae.",
+          "hint": "Its long beak is specially designed for finding food in the ground",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn13_004",
+          "front": "हुदहुद कहाँ रहता है और उसका घोंसला कैसा होता है?",
+          "back": "हुदहुद भारत के कई हिस्सों में पाया जाता है। यह पेड़ों के खोखले (hollow) हिस्सों, दीवारों की दरारों, या पुराने मकानों में अपना घोंसला बनाता है। हुदहुद को खुले मैदान, बगीचे, और खेत पसंद हैं जहाँ ज़मीन से कीड़े मिल सकें। The hoopoe lives in tree hollows and wall cracks, preferring open fields and gardens where it can find insects.",
+          "hint": "Think about places where there are holes or cracks in trees and walls",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn13_005",
+          "front": "हुदहुद की आवाज़ कैसी होती है?",
+          "back": "हुदहुद की आवाज़ बहुत खास है - 'हुप-हुप-हुप' (hoop-hoop-hoop)। इसी आवाज़ से इसका नाम 'हुदहुद' (Hoopoe) पड़ा है। यह आवाज़ दूर तक सुनाई देती है। नर (male) हुदहुद यह आवाज़ बार-बार निकालता है, खासकर प्रजनन काल (breeding season) में। The hoopoe's call sounds like 'hoop-hoop-hoop' - that is how it got its name!",
+          "hint": "Its name sounds like the sound it makes",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn13_qa",
+      "name": "प्रश्न उत्तर - हुदहुद",
+      "description": "Practice questions and answers from the Rimjhim Chapter 13 exercises",
+      "topicId": "gr4_hi_13_2",
+      "chapterId": "gr4_hin_ncert_ch13",
+      "cards": [
+        {
+          "id": "card_gr4_hn13_006",
+          "front": "हुदहुद को पहचानने का सबसे आसान तरीका क्या है?",
+          "back": "हुदहुद को पहचानने का सबसे आसान तरीका उसके सिर की कलगी (crest) है। यह पंखों का गुच्छा पंखे जैसा खुलता है और किसी और पक्षी में ऐसा नहीं दिखता। इसके अलावा शरीर पर काली-सफ़ेद धारियाँ और 'हुप-हुप-हुप' की आवाज़ भी इसकी पहचान है। The easiest way to identify a hoopoe is by its fan-like crest, black-and-white striped body, and 'hoop-hoop' call.",
+          "hint": "Look at the head and listen to the sound it makes",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn13_007",
+          "front": "हुदहुद किसानों के लिए क्यों उपयोगी है?",
+          "back": "हुदहुद किसानों के लिए इसलिए उपयोगी है क्योंकि यह खेतों में कीड़े-मकोड़े खाता है। ये कीड़े फसलों को नुकसान पहुँचाते हैं। हुदहुद इन्हें खाकर फसलों की रक्षा करता है। इसलिए हुदहुद किसानों का मित्र (friend of farmers) कहलाता है। The hoopoe is useful to farmers because it eats insects that damage crops, protecting the harvest naturally.",
+          "hint": "Think about how eating insects helps the crops",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn13_008",
+          "front": "हुदहुद और अन्य पक्षियों में क्या अंतर है?",
+          "back": "हुदहुद अन्य पक्षियों से कई तरह से अलग है: (1) इसके सिर पर पंखे जैसी कलगी है (2) इसकी चोंच लंबी, पतली और नीचे की ओर मुड़ी हुई है (3) इसकी उड़ान लहरदार (wavy) होती है - ऊपर-नीचे (4) शरीर पर सुंदर काली-सफ़ेद धारियाँ हैं। The hoopoe differs with its crest, long curved beak, wavy flight pattern, and distinctive stripes.",
+          "hint": "Think about its crest, beak, flying style, and body pattern",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn13_009",
+          "front": "पक्षियों की रक्षा करना क्यों ज़रूरी है?",
+          "back": "पक्षियों की रक्षा करना बहुत ज़रूरी है क्योंकि: (1) वे कीड़े खाकर फसलों की रक्षा करते हैं (2) फूलों का परागण (pollination) करते हैं (3) बीज फैलाते हैं जिससे नए पेड़ उगते हैं (4) पर्यावरण का संतुलन बनाए रखते हैं (5) वे प्रकृति की सुंदरता हैं। Protecting birds is important because they eat pests, pollinate flowers, spread seeds, and maintain nature's balance.",
+          "hint": "Birds do many important jobs in nature",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn13_010",
+          "front": "अपने आसपास दिखने वाले पक्षियों के नाम हिंदी में बताओ।",
+          "back": "हमारे आसपास कई पक्षी दिखते हैं: कौआ (crow), गौरैया (sparrow), कबूतर (pigeon), मैना (myna), तोता (parrot), मोर (peacock), बुलबुल (bulbul), कोयल (cuckoo), चील (eagle), उल्लू (owl)। हर पक्षी की अपनी विशेषता होती है। हुदहुद इन सबसे अपनी कलगी और आवाज़ से अलग है। Common birds include crow, sparrow, pigeon, myna, parrot, peacock, bulbul, cuckoo, eagle, and owl.",
+          "hint": "Think about the birds you see in your garden, park, or school",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

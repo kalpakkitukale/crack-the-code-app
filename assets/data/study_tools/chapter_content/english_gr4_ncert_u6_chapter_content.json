@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_eng_ncert_u6",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en6",
+    "title": "Hiawatha / The Scholar's Mother Tongue",
+    "content": "Unit 6 of the Marigold textbook has two wonderful pieces. The poem 'Hiawatha' tells the story of a young Native American boy raised by his grandmother Nokomis in a forest. Hiawatha loved nature deeply - he learned the names and secrets of every bird and animal around him. The story 'The Scholar's Mother Tongue' is set in Emperor Akbar's court. A learned pandit could speak many languages so fluently that no one could tell which was his mother tongue. Birbal, the cleverest courtier, solved the puzzle by surprising the scholar from sleep, making him cry out in his first language. The grammar section introduces pronouns - words like he, she, it, and they that replace nouns and make our sentences smoother.",
+    "keyPoints": [
+      "Hiawatha was a young boy who grew up in a forest learning from nature",
+      "He was raised by his grandmother Nokomis and learned the language of birds and animals",
+      "In Akbar's court, a scholar could speak many languages perfectly",
+      "Birbal discovered the scholar's mother tongue by surprising him in his sleep",
+      "A person always reacts in their mother tongue when taken by surprise",
+      "Pronouns (he, she, it, they, we, I, you) replace nouns to avoid repetition"
+    ],
+    "learningObjectives": [
+      "Understand and appreciate the poem Hiawatha and its theme of love for nature",
+      "Retell the story of The Scholar's Mother Tongue in your own words",
+      "Explain what 'mother tongue' means and why it is special",
+      "Identify pronouns in sentences and know what noun each pronoun refers to",
+      "Replace nouns with correct pronouns based on gender and number",
+      "Use subject pronouns and object pronouns correctly in writing"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en6_001",
+      "title": "Nature Vocabulary from Hiawatha",
+      "content": "The poem Hiawatha uses many nature words. Make a list: birds, beasts, nests, lodges, forest, firefly, stars, moonlight. Try writing your own short poem or sentences using at least five of these words. This will help you remember them and build your vocabulary!",
+      "tags": ["vocabulary", "poem", "nature"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en6_002",
+      "title": "Birbal's Thinking Trick",
+      "content": "Birbal's plan was simple but clever: when we are suddenly woken up, we react in our mother tongue without thinking. This shows that our first language is deeply connected to us. Think about it - if someone startled you at night, which language would you speak first? That is your mother tongue!",
+      "tags": ["story", "critical-thinking", "mother-tongue"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en6_003",
+      "title": "Pronoun Practice Activity",
+      "content": "Read the poem Hiawatha and the story The Scholar's Mother Tongue again. Underline every pronoun you find (he, she, it, they, him, her, them, etc.). Then draw an arrow from each pronoun to the noun it replaces. This helps you see how pronouns work in real reading!",
+      "tags": ["practice", "grammar", "pronouns"],
+      "isPinned": false
+    }
+  ]
+}

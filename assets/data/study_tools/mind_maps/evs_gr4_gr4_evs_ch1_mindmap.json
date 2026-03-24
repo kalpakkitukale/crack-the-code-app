@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Our Environment",
+      "description": "Living and non-living things and how they work together",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_living",
+      "label": "Living Things",
+      "description": "Things that grow, breathe, eat, move, and reproduce",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_plants",
+      "label": "Plants",
+      "description": "Living things that make their own food using sunlight",
+      "parentId": "node_living",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_animals",
+      "label": "Animals",
+      "description": "Living things that eat plants or other animals for food",
+      "parentId": "node_living",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_characteristics",
+      "label": "Characteristics",
+      "description": "Growth, breathing, movement, reproduction, response",
+      "parentId": "node_living",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_nonliving",
+      "label": "Non-living Things",
+      "description": "Things that do not grow, breathe, or reproduce",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_natural",
+      "label": "Natural",
+      "description": "Non-living things found in nature: water, air, rocks, sunlight",
+      "parentId": "node_nonliving",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_manmade",
+      "label": "Man-made",
+      "description": "Non-living things made by humans: chairs, books, cars",
+      "parentId": "node_nonliving",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_ecosystem",
+      "label": "Ecosystems",
+      "description": "Communities where living and non-living things interact",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_habitat",
+      "label": "Habitats",
+      "description": "Natural homes: forest, desert, pond, ocean",
+      "parentId": "node_ecosystem",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_foodchain",
+      "label": "Food Chain",
+      "description": "How energy flows: producer to consumer to decomposer",
+      "parentId": "node_ecosystem",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_producers",
+      "label": "Producers",
+      "description": "Plants that make their own food using sunlight",
+      "parentId": "node_foodchain",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_consumers",
+      "label": "Consumers",
+      "description": "Animals that eat plants or other animals",
+      "parentId": "node_foodchain",
+      "positionX": 50,
+      "positionY": 300,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_decomposers",
+      "label": "Decomposers",
+      "description": "Break down dead things and return nutrients to soil",
+      "parentId": "node_foodchain",
+      "positionX": 100,
+      "positionY": 300,
+      "color": "#CE93D8",
+      "orderIndex": 13
+    }
+  ]
+}

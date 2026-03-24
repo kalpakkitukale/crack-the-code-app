@@ -1,0 +1,198 @@
+{
+  "quiz": {
+    "id": "quiz_gr5_s_1_1",
+    "level": "topic",
+    "entityId": "gr5_s_1_1",
+    "title": "Digestive System - Practice Quiz",
+    "questionIds": [
+      "q_digest5_001",
+      "q_digest5_002",
+      "q_digest5_003",
+      "q_digest5_004",
+      "q_digest5_005",
+      "q_digest5_006",
+      "q_digest5_007",
+      "q_digest5_008"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_digest5_001",
+      "questionText": "Where does digestion begin?",
+      "questionType": "mcq",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Intestine",
+        "Esophagus"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Digestion begins in the mouth where teeth chew food and saliva starts breaking it down.",
+      "hints": [
+        "Where do we first put food?",
+        "Chewing happens here"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["digestion", "mouth"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_002",
+      "questionText": "What is the role of stomach acid?",
+      "questionType": "mcq",
+      "options": [
+        "To taste food",
+        "To digest and kill germs",
+        "To absorb water",
+        "To chew food"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Stomach acid helps break down food and kills harmful bacteria and germs.",
+      "hints": [
+        "It's very strong",
+        "Helps break down food and kills germs"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["digestion", "stomach"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_003",
+      "questionText": "Which organ absorbs most of the nutrients from food?",
+      "questionType": "mcq",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The small intestine absorbs most nutrients from digested food into the bloodstream.",
+      "hints": [
+        "It's a long tube",
+        "After the stomach"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["digestion", "absorption", "intestine"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_004",
+      "questionText": "What is the food pipe called?",
+      "questionType": "mcq",
+      "options": [
+        "Trachea",
+        "Esophagus",
+        "Intestine",
+        "Colon"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The esophagus (food pipe) carries food from mouth to stomach.",
+      "hints": [
+        "Connects mouth to stomach",
+        "Starts with 'E'"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["digestion", "esophagus"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_005",
+      "questionText": "How long does food stay in the stomach approximately?",
+      "questionType": "mcq",
+      "options": [
+        "5-10 minutes",
+        "30 minutes",
+        "2-4 hours",
+        "12 hours"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Food typically stays in the stomach for 2-4 hours where it's mixed with stomach acid and enzymes.",
+      "hints": [
+        "Not too short, not too long",
+        "Few hours"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["digestion", "stomach"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_006",
+      "questionText": "What helps move food through the digestive system?",
+      "questionType": "mcq",
+      "options": [
+        "Gravity only",
+        "Muscle contractions",
+        "Blood flow",
+        "Breathing"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Muscle contractions (peristalsis) push food through the digestive system.",
+      "hints": [
+        "Muscles squeeze",
+        "Like a wave motion"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["digestion", "peristalsis"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_007",
+      "questionText": "What does the large intestine mainly absorb?",
+      "questionType": "mcq",
+      "options": [
+        "Proteins",
+        "Fats",
+        "Water",
+        "Vitamins"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The large intestine mainly absorbs water from undigested food and forms solid waste.",
+      "hints": [
+        "Helps make waste solid",
+        "A liquid"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["digestion", "large_intestine"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_digest5_008",
+      "questionText": "Why is chewing food properly important?",
+      "questionType": "mcq",
+      "options": [
+        "It tastes better",
+        "It helps digestion",
+        "It exercises teeth",
+        "It prevents choking only"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chewing breaks food into smaller pieces, making it easier to digest and allowing enzymes to work better.",
+      "hints": [
+        "Makes digestion easier",
+        "Breaks food into smaller pieces"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["digestion", "chewing"],
+      "topicIds": ["gr5_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

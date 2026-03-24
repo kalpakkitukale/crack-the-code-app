@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_math_ncert_ch4",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn4_001",
+      "term": "Place Value",
+      "definition": "The value of a digit based on its position in a number. The same digit has different values in different places. For example, 3 in the hundreds place means 300.",
+      "pronunciation": "PLAYS VAL-yoo",
+      "exampleUsage": "In 5,273, the place value of 2 is hundreds, so it stands for 200.",
+      "difficulty": "easy",
+      "relatedTerms": ["Digit", "Expanded Form"]
+    },
+    {
+      "id": "gls_gr4_mn4_002",
+      "term": "Digit",
+      "definition": "Any of the ten symbols 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 that we use to write numbers. A 4-digit number has four digits.",
+      "pronunciation": "DIJ-it",
+      "exampleUsage": "The number 4,807 has four digits: 4, 8, 0, and 7.",
+      "difficulty": "easy",
+      "relatedTerms": ["Place Value", "Number"]
+    },
+    {
+      "id": "gls_gr4_mn4_003",
+      "term": "Thousands",
+      "definition": "The place value that is fourth from the right in a number. One thousand is written as 1,000 and equals ten hundreds.",
+      "pronunciation": "THOW-zands",
+      "exampleUsage": "In 6,325, the digit 6 is in the thousands place, meaning 6,000.",
+      "difficulty": "easy",
+      "relatedTerms": ["Ten-Thousands", "Hundreds"]
+    },
+    {
+      "id": "gls_gr4_mn4_004",
+      "term": "Ten-Thousands",
+      "definition": "The place value that is fifth from the right. Ten thousand is written as 10,000 and equals ten thousands or one hundred hundreds.",
+      "pronunciation": "TEN THOW-zands",
+      "exampleUsage": "In 45,000, the digit 4 is in the ten-thousands place, meaning 40,000.",
+      "difficulty": "medium",
+      "relatedTerms": ["Thousands", "Place Value"]
+    },
+    {
+      "id": "gls_gr4_mn4_005",
+      "term": "Expanded Form",
+      "definition": "A way of writing a number that shows the value of each digit separately. For example, 3,425 = 3,000 + 400 + 20 + 5.",
+      "pronunciation": "ek-SPAN-ded form",
+      "exampleUsage": "The expanded form of 7,196 is 7,000 + 100 + 90 + 6.",
+      "difficulty": "medium",
+      "relatedTerms": ["Place Value", "Standard Form"]
+    },
+    {
+      "id": "gls_gr4_mn4_006",
+      "term": "Standard Form",
+      "definition": "The normal way of writing a number using digits. For example, the standard form of 'five thousand two hundred and thirty' is 5,230.",
+      "pronunciation": "STAN-dard form",
+      "exampleUsage": "The standard form of 2,000 + 600 + 50 + 1 is 2,651.",
+      "difficulty": "medium",
+      "relatedTerms": ["Expanded Form", "Number Name"]
+    },
+    {
+      "id": "gls_gr4_mn4_007",
+      "term": "Ascending Order",
+      "definition": "Arranging numbers from smallest to largest. The numbers go up like climbing stairs.",
+      "pronunciation": "uh-SEND-ing OR-der",
+      "exampleUsage": "1,200, 3,400, 5,600, 7,800 are in ascending order.",
+      "difficulty": "easy",
+      "relatedTerms": ["Descending Order", "Comparing"]
+    },
+    {
+      "id": "gls_gr4_mn4_008",
+      "term": "Descending Order",
+      "definition": "Arranging numbers from largest to smallest. The numbers go down like coming down stairs.",
+      "pronunciation": "dee-SEND-ing OR-der",
+      "exampleUsage": "9,000, 7,000, 5,000, 3,000 are in descending order.",
+      "difficulty": "easy",
+      "relatedTerms": ["Ascending Order", "Comparing"]
+    },
+    {
+      "id": "gls_gr4_mn4_009",
+      "term": "Estimation",
+      "definition": "Making a smart guess about a number by rounding it to the nearest ten, hundred, or thousand. Estimation gives a number that is close but not exact.",
+      "pronunciation": "es-tih-MAY-shun",
+      "exampleUsage": "The population of my village is 4,892. An estimate is about 5,000.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rounding", "Approximation"]
+    },
+    {
+      "id": "gls_gr4_mn4_010",
+      "term": "Rounding",
+      "definition": "Replacing a number with a nearby simpler number. If the digit to the right is 5 or more, round up. If it is less than 5, round down.",
+      "pronunciation": "ROWN-ding",
+      "exampleUsage": "3,672 rounded to the nearest thousand is 4,000 because 6 (hundreds digit) is 5 or more.",
+      "difficulty": "medium",
+      "relatedTerms": ["Estimation", "Place Value"]
+    },
+    {
+      "id": "gls_gr4_mn4_011",
+      "term": "Number Name",
+      "definition": "The way we write a number using words instead of digits.",
+      "pronunciation": "NUM-ber naym",
+      "exampleUsage": "The number name for 12,405 is twelve thousand four hundred and five.",
+      "difficulty": "easy",
+      "relatedTerms": ["Standard Form", "Expanded Form"]
+    },
+    {
+      "id": "gls_gr4_mn4_012",
+      "term": "Successor",
+      "definition": "The number that comes just after a given number. You find the successor by adding 1.",
+      "pronunciation": "suk-SES-er",
+      "exampleUsage": "The successor of 9,999 is 10,000.",
+      "difficulty": "easy",
+      "relatedTerms": ["Predecessor", "Number"]
+    }
+  ]
+}

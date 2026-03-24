@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_sci_ch1",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_sc1_001",
+      "videoId": "gr4_sc1_v1",
+      "question": "What are the main characteristics of living things?",
+      "answer": "All living things share six main characteristics: they grow (a kitten becomes a cat), breathe (take in air), eat food (for energy), move (animals walk, plants turn towards light), feel (react to heat, cold, or touch), and reproduce (make young ones like seeds or babies). If something does all of these, it is a living thing!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_sc1_002",
+      "videoId": "gr4_sc1_v1",
+      "question": "Is a wooden table a living thing since it came from a tree?",
+      "answer": "No, a wooden table is not a living thing. Even though the wood came from a tree that was once alive, the table can no longer grow, breathe, eat, or reproduce. Once a living thing dies and is made into something else, it becomes a non-living thing. The tree was alive, but the table is not.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_sc1_003",
+      "videoId": "gr4_sc1_v2",
+      "question": "How do plants eat if they don't have a mouth?",
+      "answer": "Plants make their own food right inside their leaves! They use sunlight, water (absorbed by roots from soil), and carbon dioxide (taken from air through stomata) to make food. This amazing process is called photosynthesis. That is why plants need to be placed in sunlight. They are the only living things that can make their own food!",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_sc1_004",
+      "videoId": "gr4_sc1_v2",
+      "question": "Do plants move? They seem to stay in one place.",
+      "answer": "Yes, plants do move, but very slowly! A sunflower turns its face towards the sun during the day. The roots of a plant grow downward into the soil, and the stem grows upward towards light. If you place a plant near a window, after a few days you will see it bending towards the sunlight. This slow movement is called tropism.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_sc1_005",
+      "videoId": "gr4_sc1_v3",
+      "question": "Why do some animals eat only plants while others eat only meat?",
+      "answer": "Animals eat what their bodies are designed to digest. Herbivores like cows have flat teeth for grinding grass and long intestines for digesting plants. Carnivores like tigers have sharp teeth and claws for catching and tearing meat, and shorter intestines. Their bodies have adapted over a very long time to eat certain types of food.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_sc1_006",
+      "videoId": "gr4_sc1_v3",
+      "question": "Are humans herbivores, carnivores, or omnivores?",
+      "answer": "Humans are omnivores because we can eat both plants and animals. We eat rice, vegetables, and fruits (plants) as well as chicken, fish, and eggs (animal products). Our teeth show this too: we have flat teeth in the back for grinding vegetables and slightly pointed teeth in the front for biting different foods.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_sc1_007",
+      "videoId": "gr4_sc1_v4",
+      "question": "What would happen if a polar bear was brought to the Thar Desert?",
+      "answer": "A polar bear would not survive in the Thar Desert because it is adapted for cold, icy places. Its thick white fur would make it too hot in the desert heat. It would not find the seals and fish it eats. Every animal is suited to its own habitat, and moving it to a very different place can be dangerous for it.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_sc1_008",
+      "videoId": "gr4_sc1_v4",
+      "question": "Why are some habitats in India being destroyed?",
+      "answer": "Habitats in India are being destroyed mainly because of cutting down forests for farming and buildings, pollution of rivers and lakes, and growing cities taking over natural areas. For example, the mangrove forests of the Sundarbans are shrinking. When habitats are destroyed, the plants and animals living there lose their homes and may disappear forever.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_sc1_009",
+      "videoId": "gr4_sc1_v4",
+      "question": "How does a cactus survive in the desert with so little water?",
+      "answer": "A cactus has amazing adaptations for desert life! Its leaves have become thin spines to stop water loss. Its thick, fleshy stem stores water inside, like a water tank. Its roots spread out wide near the surface to quickly absorb any rain that falls. These features help the cactus survive where most other plants cannot.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_sc1_010",
+      "videoId": "gr4_sc1_v1",
+      "question": "Do all living things need the same things to survive?",
+      "answer": "All living things need food, water, and air, but in different amounts and forms. Fish need water to breathe through gills, while we need air. A camel can go days without water, but a frog needs to stay near water. Plants need sunlight to make food, but animals do not. So while the basic needs are similar, each living thing has its own special requirements.",
+      "status": "answered",
+      "upvotes": 17
+    }
+  ]
+}

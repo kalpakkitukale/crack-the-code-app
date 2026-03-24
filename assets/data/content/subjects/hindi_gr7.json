@@ -1,0 +1,49 @@
+{
+  "id": "hindi_gr7",
+  "name": "Hindi",
+  "icon": "translate",
+  "color": "#FF8C42",
+  "boardId": "cbse_elementary",
+  "classId": "class_7",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["hindi", "grade 7", "language", "vyakaran"],
+  "chapters": [
+    {
+      "id": "gr7_hin_ch1",
+      "number": 1,
+      "name": "Vyakaran",
+      "description": "Advanced Hindi grammar",
+      "keywords": ["vyakaran", "grammar", "hindi"],
+      "topics": [
+        {"id": "gr7_h_1_1", "name": "Vakya Rachna", "difficulty": "intermediate", "videoCount": 4, "keywords": ["vakya", "sentence"]},
+        {"id": "gr7_h_1_2", "name": "Karak", "difficulty": "intermediate", "videoCount": 4, "keywords": ["karak", "case"]},
+        {"id": "gr7_h_1_3", "name": "Samas", "difficulty": "intermediate", "videoCount": 3, "keywords": ["samas", "compound"]}
+      ]
+    },
+    {
+      "id": "gr7_hin_ch2",
+      "number": 2,
+      "name": "Sahitya",
+      "description": "Hindi literature",
+      "keywords": ["sahitya", "literature", "poetry"],
+      "topics": [
+        {"id": "gr7_h_2_1", "name": "Kavya", "difficulty": "intermediate", "videoCount": 4, "keywords": ["kavya", "poetry"]},
+        {"id": "gr7_h_2_2", "name": "Gadya", "difficulty": "intermediate", "videoCount": 4, "keywords": ["gadya", "prose"]},
+        {"id": "gr7_h_2_3", "name": "Kahaniyan", "difficulty": "basic", "videoCount": 3, "keywords": ["kahani", "stories"]}
+      ]
+    },
+    {
+      "id": "gr7_hin_ch3",
+      "number": 3,
+      "name": "Rachnatmak Lekhan",
+      "description": "Creative writing in Hindi",
+      "keywords": ["lekhan", "writing", "creative"],
+      "topics": [
+        {"id": "gr7_h_3_1", "name": "Nibandh", "difficulty": "intermediate", "videoCount": 4, "keywords": ["nibandh", "essay"]},
+        {"id": "gr7_h_3_2", "name": "Samvad Lekhan", "difficulty": "intermediate", "videoCount": 3, "keywords": ["samvad", "dialogue"]},
+        {"id": "gr7_h_3_3", "name": "Vigyapan Lekhan", "difficulty": "intermediate", "videoCount": 3, "keywords": ["vigyapan", "advertisement"]}
+      ]
+    }
+  ]
+}

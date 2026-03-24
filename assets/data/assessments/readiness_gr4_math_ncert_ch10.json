@@ -1,0 +1,302 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch10",
+  "topicId": "gr4_mn_10_1",
+  "topicName": "Reading Wildlife Data Tables",
+  "chapterId": "gr4_math_ncert_ch10",
+  "chapterName": "Elephants, Tigers, and Leopards",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about data interpretation with wildlife data",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "number_comparison",
+      "conceptName": "Comparing numbers using greater than, less than, and equal to",
+      "importance": "critical",
+      "questionsTestingThis": ["rq10_1", "rq10_2", "rq10_3"],
+      "remedialVideoIds": ["prereq_ch10_counting_v1"]
+    },
+    {
+      "conceptId": "reading_tables",
+      "conceptName": "Reading information from rows and columns in a table",
+      "importance": "critical",
+      "questionsTestingThis": ["rq10_4", "rq10_5", "rq10_6"],
+      "remedialVideoIds": ["prereq_ch10_comparison_v1"]
+    },
+    {
+      "conceptId": "addition_subtraction",
+      "conceptName": "Addition and subtraction with larger numbers",
+      "importance": "important",
+      "questionsTestingThis": ["rq10_7", "rq10_8"],
+      "remedialVideoIds": ["prereq_ch10_addition_v1"]
+    },
+    {
+      "conceptId": "counting_large",
+      "conceptName": "Counting and reading large numbers up to thousands",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq10_9", "rq10_10"],
+      "remedialVideoIds": ["prereq_ch10_counting_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq10_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_comparison",
+      "question": "Which number is greater: 245 or 198?",
+      "options": ["198", "245", "They are equal", "Cannot tell"],
+      "correctAnswer": 1,
+      "correctAnswerText": "245",
+      "explanation": "245 is greater than 198. We can compare: 2 hundreds is more than 1 hundred, so 245 is bigger!",
+      "tags": ["number comparison", "greater than"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused greater with smaller",
+          "conceptGap": "Understanding what 'greater' means",
+          "remediation": "Review the meaning of greater than and less than"
+        }
+      ]
+    },
+    {
+      "id": "rq10_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_comparison",
+      "question": "Put these numbers in order from smallest to largest: 350, 125, 480",
+      "options": ["480, 350, 125", "125, 350, 480", "350, 125, 480", "125, 480, 350"],
+      "correctAnswer": 1,
+      "correctAnswerText": "125, 350, 480",
+      "explanation": "From smallest to largest: 125 is the smallest (1 hundred), then 350 (3 hundreds), then 480 (4 hundreds).",
+      "tags": ["number comparison", "ordering"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Arranged from largest to smallest instead",
+          "conceptGap": "Confusing ascending and descending order",
+          "remediation": "Remember: smallest to largest means the numbers get bigger"
+        }
+      ]
+    },
+    {
+      "id": "rq10_3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "number_comparison",
+      "question": "True or False: 1,200 is greater than 980.",
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+      "explanation": "True! 1,200 has 4 digits and 980 has only 3 digits. A 4-digit number is always greater than a 3-digit number.",
+      "tags": ["number comparison", "large numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq10_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_tables",
+      "question": "Look at this table:\n| Fruit  | Number |\n| Apple  | 12     |\n| Banana | 8      |\n| Mango  | 15     |\nHow many bananas are there?",
+      "options": ["12", "8", "15", "35"],
+      "correctAnswer": 1,
+      "correctAnswerText": "8",
+      "explanation": "To find the number of bananas, look at the row that says 'Banana'. The number next to it is 8.",
+      "tags": ["reading tables", "finding data"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added all numbers instead of reading one row",
+          "conceptGap": "Understanding how to find specific information in a table",
+          "remediation": "Practice finding specific values in simple tables"
+        }
+      ]
+    },
+    {
+      "id": "rq10_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_tables",
+      "question": "Look at this table:\n| Colour | Children who like it |\n| Red    | 10                   |\n| Blue   | 14                   |\n| Green  | 7                    |\nWhich colour do the most children like?",
+      "options": ["Red", "Blue", "Green", "All are equal"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Blue",
+      "explanation": "Blue has 14 children, which is more than Red (10) and Green (7). So Blue is liked by the most children!",
+      "tags": ["reading tables", "finding maximum"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq10_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "reading_tables",
+      "question": "Look at this table:\n| Animal | In Forest A | In Forest B |\n| Deer   | 45          | 30          |\n| Rabbit | 20          | 25          |\nHow many deer are in Forest A?",
+      "options": ["20", "25", "30", "45"],
+      "correctAnswer": 3,
+      "correctAnswerText": "45",
+      "explanation": "Find the row for 'Deer' and the column for 'Forest A'. Where they meet, the number is 45.",
+      "tags": ["reading tables", "two-way table"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Read the wrong column (Forest B instead of Forest A)",
+          "conceptGap": "Matching both row and column in a two-way table",
+          "remediation": "Practice using a finger to trace along the row and column to find the right cell"
+        }
+      ]
+    },
+    {
+      "id": "rq10_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_subtraction",
+      "question": "What is 245 + 130?",
+      "options": ["355", "365", "375", "385"],
+      "correctAnswer": 2,
+      "correctAnswerText": "375",
+      "explanation": "245 + 130 = 375. Add the ones: 5 + 0 = 5. Add the tens: 4 + 3 = 7. Add the hundreds: 2 + 1 = 3. The answer is 375!",
+      "tags": ["addition", "3-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Made a small error in the tens place",
+          "conceptGap": "Needs practice with multi-digit addition",
+          "remediation": "Practice adding 3-digit numbers step by step"
+        }
+      ]
+    },
+    {
+      "id": "rq10_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "addition_subtraction",
+      "question": "A forest had 520 birds last year and 380 birds this year. How many fewer birds are there this year?",
+      "options": ["100", "120", "140", "900"],
+      "correctAnswer": 2,
+      "correctAnswerText": "140",
+      "explanation": "To find how many fewer, we subtract: 520 - 380 = 140. There are 140 fewer birds this year.",
+      "tags": ["subtraction", "word problem", "difference"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added instead of subtracted",
+          "conceptGap": "Understanding that 'fewer' means subtraction",
+          "remediation": "Learn key words: 'fewer', 'less', 'difference' all mean subtract"
+        }
+      ]
+    },
+    {
+      "id": "rq10_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_large",
+      "question": "How do you read the number 2,500?",
+      "options": ["Twenty-five", "Two hundred and fifty", "Two thousand five hundred", "Twenty-five thousand"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Two thousand five hundred",
+      "explanation": "2,500 is read as 'two thousand five hundred'. The 2 is in the thousands place and the 5 is in the hundreds place.",
+      "tags": ["reading numbers", "thousands"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq10_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "counting_large",
+      "question": "Which of these numbers is closest to 1,000?",
+      "options": ["850", "990", "1,200", "500"],
+      "correctAnswer": 1,
+      "correctAnswerText": "990",
+      "explanation": "990 is closest to 1,000. It is only 10 away! 850 is 150 away, 1,200 is 200 away, and 500 is 500 away.",
+      "tags": ["number sense", "estimation", "large numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Chose 1,200 because it is over 1,000",
+          "conceptGap": "Understanding 'closest' means smallest difference, not closest above",
+          "remediation": "Practice finding distance between numbers on a number line"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You are great at comparing numbers and reading tables. You are ready to explore wildlife data!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You understand numbers and tables well. Let's learn about elephants, tigers, and leopards with data!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things but need to review comparing numbers and reading tables. Watch the review videos first, then we will explore wildlife data.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review how to compare numbers and read tables. We will watch some fun videos about these topics before exploring wildlife data.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We will show you some fun videos about numbers and tables first.",
+    "high_score_praise": "Awesome! You are all set to learn about data with elephants, tigers, and leopards!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

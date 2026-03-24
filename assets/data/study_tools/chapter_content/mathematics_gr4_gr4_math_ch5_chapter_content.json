@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_math_ch5",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_m5",
+    "title": "Geometry - Shapes, Lines, and Angles",
+    "content": "This chapter introduces students to the world of geometry. Students will learn about different types of lines (line segments, rays, parallel lines, and perpendicular lines) and angles (especially right angles). They will explore triangles and learn to identify equilateral, isosceles, and scalene types. Students will also study quadrilaterals including rectangles, squares, parallelograms, and rhombuses. Geometry helps us understand the shapes and patterns we see in the world around us every day.",
+    "keyPoints": [
+      "A line segment has two endpoints; a ray has one endpoint and extends forever",
+      "Parallel lines never meet; perpendicular lines meet at 90 degrees",
+      "A right angle is exactly 90 degrees, like the corner of a book",
+      "Triangles have 3 sides and their angles always add up to 180 degrees",
+      "Quadrilaterals have 4 sides - rectangles, squares, parallelograms, and rhombuses are all quadrilaterals"
+    ],
+    "learningObjectives": [
+      "Identify and draw line segments, rays, and lines",
+      "Recognise parallel and perpendicular lines in the environment",
+      "Classify triangles as equilateral, isosceles, or scalene",
+      "Identify and describe properties of rectangles, squares, parallelograms, and rhombuses",
+      "Find examples of geometric shapes in everyday life"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_m5_001",
+      "title": "Shape Detective Challenge",
+      "content": "Become a shape detective! Walk around your house or school and write down all the shapes you can find. Is the door a rectangle? Is the clock a circle? Are the floor tiles squares? Drawing these shapes in a notebook helps you remember their properties. Try to find at least one triangle, one rectangle, one square, and one parallelogram each day.",
+      "tags": ["study-tip", "hands-on"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_m5_002",
+      "title": "Easy Way to Remember Triangle Types",
+      "content": "Here is a simple trick to remember the three types of triangles. Equilateral starts with 'equi' which means equal - all 3 sides are equal. Isosceles has 'iso' which also hints at same - 2 sides are the same. Scalene sounds different and means all sides are different. You can also remember: 3 equal, 2 equal, 0 equal!",
+      "tags": ["memory-tip", "triangles"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m5_003",
+      "title": "The Right Angle Test",
+      "content": "Want to check if something has a right angle? Use the corner of any piece of paper or a book. Place the corner against the angle you want to test. If it fits perfectly with no gap and no overlap, you have found a right angle! This is a quick and easy way to check corners of shapes around you.",
+      "tags": ["study-tip", "practical"],
+      "isPinned": false
+    }
+  ]
+}

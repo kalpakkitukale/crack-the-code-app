@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn3_t4",
+  "topicId": "gr4_mn_3_4",
+  "topicName": "Shape Sequences",
+  "chapterId": "gr4_math_ncert_ch3",
+  "chapterName": "Pattern Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "35-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_3_1", "gr4_mn_3_2"],
+    "followUpTopics": ["gr4_mn_3_5"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn3_v5",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Shape Patterns and Sequences | Geometry Patterns for Kids",
+      "description": "Discover patterns made with shapes! Learn how triangles, squares, circles, and other shapes form repeating and growing sequences.",
+      "youtubeId": "gepEhdI7418",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gepEhdI7418",
+      "thumbnailUrl": "https://img.youtube.com/vi/gepEhdI7418/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Harry Kindergarten Music",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1800000,
+      "tags": ["shape patterns", "shape sequences", "geometry patterns", "2D shapes"],
+      "learningObjectives": ["Identify repeating and growing patterns made with shapes", "Continue shape sequences by finding the rule"],
+      "keyConceptsCovered": ["Shapes can form repeating sequences (circle, square, circle, square)", "Shapes can form growing sequences (1 triangle, 2 triangles, 3 triangles)", "Shape patterns follow the same rules as number patterns"],
+      "prerequisites": ["Shape recognition", "Repeating patterns", "Growing patterns"],
+      "followUpTopics": ["Finding pattern rules"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t4_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Shape Sequences with Rotation and Flip | Moving Shape Patterns",
+      "description": "Watch how shapes can rotate, flip, and change position in a pattern. Learn to spot patterns where shapes turn, reflect, or slide to create sequences.",
+      "youtubeId": "3dTVnS8P2b4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3dTVnS8P2b4",
+      "thumbnailUrl": "https://img.youtube.com/vi/3dTVnS8P2b4/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 580000,
+      "tags": ["rotation", "flip", "shape movement", "transformation patterns", "geometry"],
+      "learningObjectives": ["Identify shape patterns involving rotation and reflection", "Predict the next shape in a movement sequence"],
+      "keyConceptsCovered": ["Rotation: shape turns clockwise or counterclockwise", "Flip: shape reflects to create a mirror image", "Slide: shape moves position without changing orientation"],
+      "prerequisites": ["Basic shape sequences"],
+      "followUpTopics": ["Complex shape patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t4_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Tessellations and Tiling Patterns | Shapes That Fit Together",
+      "description": "Explore how shapes fit together to cover a surface with no gaps! Learn about tessellations: repeating shape patterns used in floors, walls, and art.",
+      "youtubeId": "JnHkPWQbNdU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JnHkPWQbNdU",
+      "thumbnailUrl": "https://img.youtube.com/vi/JnHkPWQbNdU/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "NUMBEROCK",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 940000,
+      "tags": ["tessellations", "tiling", "shapes fitting together", "no gaps", "art patterns"],
+      "learningObjectives": ["Understand what a tessellation is", "Identify which shapes can tessellate"],
+      "keyConceptsCovered": ["Tessellation = shapes covering a surface with no gaps and no overlaps", "Squares, triangles, and hexagons tessellate perfectly", "Tessellations are shape patterns used in real life"],
+      "prerequisites": ["Shape sequences"],
+      "followUpTopics": ["Creating shape patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t4_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "What Shape Comes Next? | Shape Sequence Quiz",
+      "description": "Test your shape pattern skills! Each question shows a shape sequence, and you need to figure out the rule and pick what comes next. Fun interactive quiz.",
+      "youtubeId": "WrN5vKR82dM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WrN5vKR82dM",
+      "thumbnailUrl": "https://img.youtube.com/vi/WrN5vKR82dM/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 720000,
+      "tags": ["shape quiz", "what comes next", "shape sequence practice", "pattern quiz"],
+      "learningObjectives": ["Quickly identify the rule in shape sequences", "Predict the next shape accurately"],
+      "keyConceptsCovered": ["Applying shape pattern rules", "Handling sequences with multiple attributes (shape, color, size)", "Practice with varied difficulty levels"],
+      "prerequisites": ["All shape sequence concepts"],
+      "followUpTopics": ["Finding pattern rules"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t4_v5",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Design Your Own Shape Pattern | Creative Geometry Activity",
+      "description": "Create your own shape patterns and tessellations! Use triangles, squares, hexagons, and other shapes to design beautiful patterns on paper or a grid.",
+      "youtubeId": "ULAvMx2Mx6Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ULAvMx2Mx6Q",
+      "thumbnailUrl": "https://img.youtube.com/vi/ULAvMx2Mx6Q/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOO2Q",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 380000,
+      "tags": ["design patterns", "creative geometry", "tessellation art", "shape art", "hands-on"],
+      "learningObjectives": ["Create original shape patterns using geometric shapes", "Apply understanding of tessellations creatively"],
+      "keyConceptsCovered": ["Designing repeating shape patterns", "Creating simple tessellations on grid paper", "Combining shapes to make complex patterns"],
+      "prerequisites": ["Shape sequences", "Tessellations"],
+      "followUpTopics": ["Finding pattern rules"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn3_v5", "gr4_mn3_t4_v2", "gr4_mn3_t4_v3", "gr4_mn3_t4_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1380,
+      "estimatedTimeDisplay": "23:00",
+      "rationale": "Fast-track through shape sequences with tessellations and creative challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn3_v5", "gr4_mn3_t4_v2", "gr4_mn3_t4_v3", "gr4_mn3_t4_v4", "gr4_mn3_t4_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1710,
+      "estimatedTimeDisplay": "28:30",
+      "rationale": "Complete coverage of shape sequences with practice and creative activity"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn3_v5", "gr4_mn3_t4_v2", "gr4_mn3_t4_v3", "gr4_mn3_t4_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1410,
+      "estimatedTimeDisplay": "23:30",
+      "rationale": "Core shape sequence concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn3_v5", "gr4_mn3_t4_v2", "gr4_mn3_t4_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1080,
+      "estimatedTimeDisplay": "18:00",
+      "rationale": "Essential shape sequence content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn3_t4_v2",
+      "checkpointName": "Shape Sequences Check",
+      "questions": [
+        {
+          "question": "A shape pattern goes: Triangle pointing up, Triangle pointing right, Triangle pointing down, Triangle pointing left, Triangle pointing __. What direction is next?",
+          "options": ["Up", "Right", "Down", "Left"],
+          "correctAnswer": 0,
+          "explanation": "The triangle rotates clockwise: up, right, down, left. After left, the pattern repeats and goes back to up."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use pattern blocks or cut-out shapes to create sequences on desks. Have students describe the rule in words before extending. Videos 1-3 are essential for all students. Tessellation exploration works well as a group activity.",
+    "parentGuidance": "Help your child notice shape patterns on floors, fabrics, and buildings. Use shape cut-outs or stamps to create patterns together. Ask 'What is the rule in this shape pattern?'",
+    "studentGuidance": "Look at shapes carefully: are they changing size, color, position, or type? Find the rule first, then you can predict what comes next!"
+  }
+}

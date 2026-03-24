@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch14",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn14_kahani",
+      "name": "कहानी पाठ - मुफ्त ही मुफ्त",
+      "description": "Learn about the humorous story of getting things for free from Rimjhim Chapter 14",
+      "topicId": "gr4_hi_14_1",
+      "chapterId": "gr4_hin_ncert_ch14",
+      "cards": [
+        {
+          "id": "card_gr4_hn14_001",
+          "front": "'मुफ्त ही मुफ्त' कहानी किस बारे में है?",
+          "back": "'मुफ्त ही मुफ्त' एक मज़ेदार (funny) कहानी है। इसमें एक व्यक्ति को पता चलता है कि कहीं चीज़ें मुफ्त (free) में मिल रही हैं। वह बहुत खुश होता है और सारी चीज़ें बटोरने (collect) लगता है। लेकिन अंत में उसे समझ आता है कि 'मुफ्त' की चीज़ों का भी कोई न कोई मूल्य (value) होता है। कहानी हास्य (humour) के साथ एक अच्छी सीख देती है। This is a funny story about someone who gets excited about free things, but learns that nothing is truly free.",
+          "hint": "Think about what happens when someone hears the word 'free'",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn14_002",
+          "front": "कहानी में 'मुफ्त' का क्या मतलब है?",
+          "back": "'मुफ्त' (muft) का मतलब है बिना पैसे दिए कुछ पाना - यानी free! कहानी में जब लोगों को पता चलता है कि चीज़ें मुफ्त में मिल रही हैं, तो सब बहुत उत्साहित (excited) हो जाते हैं। हर कोई ज़्यादा से ज़्यादा चीज़ें लेना चाहता है। यह दिखाता है कि 'मुफ्त' शब्द सुनकर लोग कैसे अपना आपा (control) खो देते हैं। 'Muft' means getting something without paying - free! The story shows how people lose control when they hear this word.",
+          "hint": "What does it mean when you do not have to pay for something?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn14_003",
+          "front": "कहानी में लोग मुफ्त की चीज़ें पाकर क्या करते हैं?",
+          "back": "कहानी में जब लोगों को मुफ्त चीज़ें मिलती हैं, तो वे लालच (greed) में आ जाते हैं। वे ज़रूरत से ज़्यादा चीज़ें ले लेते हैं। कोई ढेर सारा सामान उठा लेता है, कोई जेबें भर लेता है। लोग एक-दूसरे से छीनने लगते हैं। यह बहुत हास्यपूर्ण (funny) दृश्य है! कहानी मज़ाक-मज़ाक में दिखाती है कि 'मुफ्त' शब्द लोगों को कैसा बना देता है। When people get free things, they become greedy and take more than they need - the story shows this humorously.",
+          "hint": "Think about how people behave during a big sale or when something is free",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn14_004",
+          "front": "इस कहानी में हास्य (humour) कहाँ है?",
+          "back": "कहानी में कई जगह हास्य (humour) है: (1) लोगों का मुफ्त सुनकर पागलों की तरह दौड़ना (2) ज़रूरत न होने पर भी सामान बटोरना (3) एक-दूसरे से छीना-झपटी करना (4) अंत में पता चलना कि सब बेकार है या कोई शर्त (condition) है। कहानी हँसाती भी है और सोचने पर मजबूर भी करती है कि क्या सच में कुछ मुफ्त मिलता है? The humour comes from people's crazy behaviour when they hear 'free' - running, grabbing, and fighting over things.",
+          "hint": "What makes you laugh in this story?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn14_005",
+          "front": "कहानी से क्या सीख मिलती है?",
+          "back": "कहानी से कई सीखें मिलती हैं: (1) लालच (greed) बुरी बला है - ज़रूरत से ज़्यादा नहीं लेना चाहिए (2) दुनिया में कुछ भी सच में मुफ्त नहीं होता - हर चीज़ की कोई कीमत होती है (3) 'मुफ्त' सुनकर अंधा (blindly) मत हो जाओ, पहले सोचो (4) संयम (self-control) रखना ज़रूरी है। मज़ेदार कहानी के ज़रिए बहुत अच्छी बात सिखाई गई है। The story teaches that greed is bad, nothing is truly free, and we should think before grabbing things blindly.",
+          "hint": "What should you remember when someone offers something for free?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn14_qa",
+      "name": "प्रश्न उत्तर - मुफ्त ही मुफ्त",
+      "description": "Practice questions and answers from the Rimjhim Chapter 14 exercises",
+      "topicId": "gr4_hi_14_2",
+      "chapterId": "gr4_hin_ncert_ch14",
+      "cards": [
+        {
+          "id": "card_gr4_hn14_006",
+          "front": "'मुफ्त ही मुफ्त' कहानी का मुख्य पात्र कैसा है?",
+          "back": "कहानी का मुख्य पात्र (main character) एक साधारण व्यक्ति है जो 'मुफ्त' शब्द सुनकर बहुत खुश हो जाता है। वह सोचता है कि यह उसकी किस्मत (luck) है! वह लालची (greedy) नहीं है, बस 'मुफ्त' शब्द का जादू (magic) उस पर चल जाता है। अंत में उसे समझ आता है कि उसने बेवकूफी (foolishness) की। यह पात्र हम सबके जैसा है - 'मुफ्त' सुनकर कौन खुश नहीं होता! The main character is an ordinary person who gets carried away by the word 'free' - just like most of us would!",
+          "hint": "Think about an ordinary person who gets excited about free things",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn14_007",
+          "front": "क्या तुम्हें कभी कोई चीज़ मुफ्त मिली है? कैसा लगा?",
+          "back": "हम सबको कभी न कभी कुछ मुफ्त (free) मिलता है - जैसे जन्मदिन का तोहफ़ा (birthday gift), स्कूल में इनाम (prize), या दुकान से free sample। मुफ्त चीज़ पाकर बहुत अच्छा लगता है! लेकिन कहानी यह सिखाती है कि मुफ्त के लालच में अपनी अक्ल (wisdom) मत खोना। तोहफ़ा पाना अच्छा है, लेकिन लालच करना गलत है। We all get free things sometimes - gifts, prizes, samples. It feels great! But the story warns against losing our sense over free stuff.",
+          "hint": "Think about birthday gifts, school prizes, or free samples",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn14_008",
+          "front": "लालच करना क्यों बुरा है?",
+          "back": "लालच (greed) करना बुरा है क्योंकि: (1) लालच में हम ज़रूरत से ज़्यादा ले लेते हैं और दूसरों को कम मिलता है (2) लालची व्यक्ति कभी संतुष्ट (satisfied) नहीं होता (3) लालच में लोग गलत काम भी कर बैठते हैं (4) लालच से दोस्ती और रिश्ते खराब होते हैं। कहानी में भी लोग लालच में आकर हास्यास्पद (funny) हरकतें करते हैं। संतोष (contentment) सबसे बड़ा धन है! Greed is bad because it makes us take more than we need, leaves less for others, and makes us do foolish things.",
+          "hint": "What happens when someone always wants more and more?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn14_009",
+          "front": "कहानी की भाषा में क्या खास है?",
+          "back": "कहानी की भाषा बहुत सरल (simple) और मज़ेदार (funny) है। इसमें रोज़मर्रा (everyday) की बोलचाल की हिंदी का इस्तेमाल है। मज़ाकिया संवाद (humorous dialogues) हैं जो पढ़ने में बहुत मज़ा आता है। कहानी में मुहावरे (idioms) और कहावतों (proverbs) का भी प्रयोग हो सकता है। सरल भाषा में गहरी बात कही गई है - यही इस कहानी की खूबसूरती है! The language is simple, everyday Hindi with humorous dialogues - the beauty is that a deep message is told in a fun, easy way.",
+          "hint": "Notice how the story uses simple, everyday Hindi to make you laugh",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn14_010",
+          "front": "'मुफ्त ही मुफ्त' जैसी कोई और कहानी या कहावत बताओ।",
+          "back": "हिंदी में कई कहावतें (proverbs) हैं जो इस कहानी से मिलती-जुलती सीख देती हैं: 'लालच बुरी बला' (greed is an evil thing), 'मुफ्त का चंदन घिस मेरे नंदन' (if it is free, everyone wants it), 'जो मिले सो खाओ, मत पूछो किसने बनाओ' जैसी बातें। लोककथाओं (folk tales) में भी लालची लोगों की कहानियाँ मिलती हैं जिनमें लालच का बुरा नतीजा (result) होता है। Hindi proverbs like 'लालच बुरी बला' (greed is evil) teach the same lesson as this story.",
+          "hint": "Think of Hindi proverbs about greed or getting things for free",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

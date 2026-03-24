@@ -1,0 +1,318 @@
+{
+  "playlistId": "gr4_m2_t3_main",
+  "topicId": "gr4_m_2_3",
+  "topicName": "Subtraction of 4-5 Digit Numbers (Basic)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 6,
+    "totalDuration": 2100,
+    "totalDurationDisplay": "35:00",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "40-50 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_2_1"],
+    "followUpTopics": ["gr4_m_2_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_sub_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Subtracting 4-Digit Numbers | Introduction",
+      "description": "Learn how to subtract 4-digit numbers without regrouping",
+      "youtubeId": "H03kY5K2V-0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=H03kY5K2V-0",
+      "thumbnailUrl": "https://img.youtube.com/vi/H03kY5K2V-0/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 920000,
+      "tags": ["subtraction", "4-digit", "no regrouping", "introduction"],
+      "learningObjectives": [
+        "Understand 4-digit subtraction setup",
+        "Align numbers by place value",
+        "Subtract column by column from right to left",
+        "Check answers using addition"
+      ],
+      "keyConceptsCovered": [
+        "Column subtraction with 4-digit numbers",
+        "Align by place value (ones under ones, etc.)",
+        "Subtract from right to left: ones, tens, hundreds, thousands",
+        "Example: 6,789 - 2,345 = 4,444 (no regrouping needed)"
+      ],
+      "prerequisites": ["3-digit subtraction", "place value alignment"],
+      "followUpTopics": ["Worked examples"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_sub_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "4-Digit Subtraction | Worked Examples",
+      "description": "Practice 4-digit subtraction through step-by-step examples",
+      "youtubeId": "lYWps_VkXZk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lYWps_VkXZk",
+      "thumbnailUrl": "https://img.youtube.com/vi/lYWps_VkXZk/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 870000,
+      "tags": ["subtraction", "4-digit", "examples", "practice"],
+      "learningObjectives": [
+        "Practice 4-digit subtraction problems",
+        "Build confidence with column subtraction",
+        "Apply systematic approach",
+        "Check work for accuracy"
+      ],
+      "keyConceptsCovered": [
+        "Example 1: 5,879 - 2,345 = 3,534",
+        "Example 2: 9,876 - 4,523 = 5,353",
+        "Example 3: 7,654 - 3,421 = 4,233",
+        "Step-by-step solutions with place value emphasis"
+      ],
+      "prerequisites": ["4-digit subtraction introduction"],
+      "followUpTopics": ["Subtracting with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_sub_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Subtracting with Zeros (No Regrouping)",
+      "description": "Learn to subtract when zeros are present in the problem",
+      "youtubeId": "6RU3Dfp_Sl8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6RU3Dfp_Sl8",
+      "thumbnailUrl": "https://img.youtube.com/vi/6RU3Dfp_Sl8/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 790000,
+      "tags": ["subtraction", "zeros", "special cases", "4-digit"],
+      "learningObjectives": [
+        "Subtract when zeros appear in top number",
+        "Handle zeros in bottom number",
+        "Understand 0 - 0 = 0",
+        "Work with zeros confidently"
+      ],
+      "keyConceptsCovered": [
+        "Example: 5,089 - 1,023 (zeros in top number)",
+        "Example: 8,765 - 4,000 (zeros in bottom number)",
+        "Rule: any number - 0 = that number",
+        "Rule: 0 - 0 = 0"
+      ],
+      "prerequisites": ["4-digit subtraction basics"],
+      "followUpTopics": ["5-digit subtraction"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_sub_v4",
+      "sequenceNumber": 4,
+      "type": "concept_extension",
+      "importance": "must_watch",
+      "title": "Subtracting 5-Digit Numbers",
+      "description": "Extend subtraction skills to 5-digit numbers",
+      "youtubeId": "2Z2TF5T8YQA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2Z2TF5T8YQA",
+      "thumbnailUrl": "https://img.youtube.com/vi/2Z2TF5T8YQA/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 740000,
+      "tags": ["subtraction", "5-digit", "extension"],
+      "learningObjectives": [
+        "Apply subtraction to 5-digit numbers",
+        "Handle one more place value",
+        "Build confidence with larger numbers",
+        "Master systematic approach"
+      ],
+      "keyConceptsCovered": [
+        "Same process, just one more place",
+        "Example: 78,956 - 23,412 = 55,544",
+        "Work systematically: ones, tens, hundreds, thousands, ten thousands",
+        "Check work using estimation"
+      ],
+      "prerequisites": ["4-digit subtraction mastery"],
+      "followUpTopics": ["Mixed practice"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_sub_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Mixed Subtraction Practice | 4-5 Digit",
+      "description": "Practice variety of subtraction problems for fluency",
+      "youtubeId": "jLwZvx3BS3Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jLwZvx3BS3Q",
+      "thumbnailUrl": "https://img.youtube.com/vi/jLwZvx3BS3Q/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 670000,
+      "tags": ["subtraction", "mixed practice", "fluency", "variety"],
+      "learningObjectives": [
+        "Build fluency with varied problems",
+        "Mix of 4-digit and 5-digit problems",
+        "Develop speed and accuracy",
+        "Real exam practice"
+      ],
+      "keyConceptsCovered": [
+        "Mix of 4-digit and 5-digit problems",
+        "Problems with and without zeros",
+        "Different number combinations",
+        "Timed practice for exam readiness"
+      ],
+      "prerequisites": ["All basic subtraction concepts"],
+      "followUpTopics": ["Estimation and checking"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_sub_v6",
+      "sequenceNumber": 6,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Mental Math and Estimation in Subtraction",
+      "description": "Learn strategies for quick subtraction and estimation",
+      "youtubeId": "H03kY5K2V-0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=H03kY5K2V-0",
+      "thumbnailUrl": "https://img.youtube.com/vi/H03kY5K2V-0/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 510000,
+      "tags": ["challenge", "mental math", "estimation", "strategies"],
+      "learningObjectives": [
+        "Learn mental subtraction strategies",
+        "Use rounding for estimation",
+        "Check answers quickly",
+        "Develop number sense"
+      ],
+      "keyConceptsCovered": [
+        "Rounding to nearest thousand for estimation",
+        "Breaking numbers apart for mental math",
+        "Using addition to check subtraction",
+        "Quick strategies for specific number patterns"
+      ],
+      "prerequisites": ["Strong basic subtraction"],
+      "followUpTopics": ["Advanced arithmetic"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_sub_v1", "gr4_sub_v2", "gr4_sub_v4", "gr4_sub_v5", "gr4_sub_v6"],
+      "totalVideos": 5,
+      "estimatedTime": 1740,
+      "estimatedTimeDisplay": "29:00",
+      "rationale": "Fast-track through subtraction concepts with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_sub_v1", "gr4_sub_v2", "gr4_sub_v3", "gr4_sub_v4", "gr4_sub_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1860,
+      "estimatedTimeDisplay": "31:00",
+      "rationale": "Complete coverage of basic subtraction"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_sub_v1", "gr4_sub_v2", "gr4_sub_v3", "gr4_sub_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1530,
+      "estimatedTimeDisplay": "25:30",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_sub_v1", "gr4_sub_v2", "gr4_sub_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1170,
+      "estimatedTimeDisplay": "19:30",
+      "rationale": "Essential subtraction skills only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_sub_v2",
+      "checkpointName": "4-Digit Subtraction Mastery",
+      "questions": [
+        {
+          "question": "What is 8,769 - 3,425?",
+          "options": ["5,344", "5,244", "5,444", "5,334"],
+          "correctAnswer": 0,
+          "explanation": "Subtract place by place: 9-5=4, 6-2=4, 7-4=3, 8-3=5 → 5,344."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_sub_v4",
+      "checkpointName": "5-Digit Subtraction Check",
+      "questions": [
+        {
+          "question": "What is 78,956 - 23,412?",
+          "options": ["55,544", "55,444", "56,544", "54,544"],
+          "correctAnswer": 0,
+          "explanation": "Work right to left: 6-2=4, 5-1=4, 9-4=5, 8-3=5, 7-2=5 → 55,544."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-4 build subtraction systematically. Video 4 extends to 5-digit. All core videos essential for mastery.",
+    "parentGuidance": "Help your child align numbers carefully by place value. Practice checking answers using addition (answer + bottom number = top number).",
+    "studentGuidance": "Always align by place value before subtracting. Work from right to left. Check your work using addition!"
+  }
+}

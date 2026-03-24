@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch1",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn1_001",
+      "videoId": "gr4_mn1_v1",
+      "question": "What is the difference between a 2D shape and a 3D shape?",
+      "answer": "A 2D shape is flat and has only length and width, like a drawing on paper. You cannot pick it up. A 3D shape is solid and has length, width, and height. You can hold it in your hand. A circle is 2D, but a ball (sphere) is 3D. A square is 2D, but a dice (cube) is 3D!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn1_002",
+      "videoId": "gr4_mn1_v1",
+      "question": "What is the difference between a cube and a cuboid?",
+      "answer": "A cube has all 6 faces as equal squares - every side is the same size, like a dice. A cuboid has 6 faces that are rectangles - some faces can be bigger or smaller than others, like a brick or a book. So a cube is a special type of cuboid where all faces are equal!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn1_003",
+      "videoId": "gr4_mn1_v2",
+      "question": "How do I count the faces, edges, and vertices of a 3D shape?",
+      "answer": "Faces: Count every flat and curved surface. Edges: Count the lines where two faces meet - run your finger along them. Vertices: Count the corners where edges come together. For example, pick up a matchbox (cuboid) and count: 6 flat faces, 12 edges, and 8 corners. It is easier to count on a real object than on a picture!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn1_004",
+      "videoId": "gr4_mn1_v1",
+      "question": "Why does a sphere have no edges and no vertices?",
+      "answer": "A sphere is perfectly round like a ball. It has only one curved surface that goes smoothly all around. Since there are no flat faces, there are no lines where faces meet (edges) and no corners where edges meet (vertices). That is why a ball can roll in every direction!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn1_005",
+      "videoId": "gr4_mn1_v2",
+      "question": "How many faces, edges, and vertices does a cylinder have?",
+      "answer": "A cylinder (like a tin can) has 3 faces: 2 flat circular faces (top and bottom) and 1 curved surface going around. It has 2 curved edges where the flat circles meet the curved surface. It has 0 vertices because the edges are circular and have no corners.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn1_006",
+      "videoId": "gr4_mn1_v3",
+      "question": "What is a right angle? How can I spot one?",
+      "answer": "A right angle is the angle you see at the corner of a square or rectangle. It looks like the letter L. You can spot right angles everywhere: the corners of your notebook, the corner of a door frame, where the wall meets the floor, and the corners of a window. To check, hold the corner of a book against any angle - if they match perfectly, it is a right angle!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn1_007",
+      "videoId": "gr4_mn1_v4",
+      "question": "What 3D shapes can I find in my school bag?",
+      "answer": "Look inside your school bag! Your pencil box is a cuboid. Your pencil or pen is like a cylinder. An eraser can be a cuboid or a cylinder. A tennis ball for games is a sphere. Your geometry box is a cuboid. A sharpener can look like a small cuboid. Even your tiffin box is a cuboid or cylinder. 3D shapes are all around you!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn1_008",
+      "videoId": "gr4_mn1_v4",
+      "question": "If I trace the face of a 3D shape on paper, what do I get?",
+      "answer": "You get a 2D shape! Tracing the face of a cube gives a square. Tracing the face of a cuboid gives a rectangle. Tracing the bottom of a cylinder or cone gives a circle. You cannot trace the face of a sphere because it has no flat face. Try placing a glass upside down on paper and draw around it - you will get a circle!",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn1_009",
+      "videoId": "gr4_mn1_v1",
+      "question": "Can a 3D shape roll? Which ones can and which cannot?",
+      "answer": "Shapes with curved surfaces can roll. A sphere (ball) rolls the best because it is curved all around. A cylinder (like a pipe) rolls sideways. A cone rolls in a circle because one end is wider. But a cube and a cuboid cannot roll because they have only flat faces - they slide instead!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn1_010",
+      "videoId": "gr4_mn1_v3",
+      "question": "Are all angles the same size?",
+      "answer": "No! Angles come in different sizes. A right angle is like the corner of a book. An angle smaller than a right angle (like a slightly open door) is called an acute angle. An angle larger than a right angle (like a door opened wide) is called an obtuse angle. The hands of a clock show different angles at different times of the day.",
+      "status": "answered",
+      "upvotes": 15
+    }
+  ]
+}

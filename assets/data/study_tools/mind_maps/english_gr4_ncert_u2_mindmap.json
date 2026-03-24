@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u2",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 2: Noses / The Little Fir Tree",
+      "description": "Poem about noses, story about a fir tree, and grammar on nouns",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "Noses (Poem)",
+      "description": "A fun poem about the different types of noses people and animals have",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_types",
+      "label": "Types of Noses",
+      "description": "Long, short, snub, pointed, flat, turned-up, big, small",
+      "parentId": "node_poem",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_message",
+      "label": "Message of the Poem",
+      "description": "Every nose is special; be happy with the nose you have",
+      "parentId": "node_poem",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_story",
+      "label": "The Little Fir Tree (Story)",
+      "description": "A fir tree with needle-like leaves wishes for different leaves",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_wish_gold",
+      "label": "Wish 1: Gold Leaves",
+      "description": "The fir tree wished for gold leaves, but a man came and stole them all",
+      "parentId": "node_story",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_wish_glass",
+      "label": "Wish 2: Glass Leaves",
+      "description": "The fir tree wished for glass leaves, but a strong wind shattered them",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_wish_broad",
+      "label": "Wish 3: Broad Green Leaves",
+      "description": "The fir tree wished for broad leaves, but a goat came and ate them all",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_story_moral",
+      "label": "Moral of the Story",
+      "description": "Be happy with what you have; your own qualities are the best for you",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#E65100",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Nouns",
+      "description": "Naming words for people, places, animals, and things",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_common_nouns",
+      "label": "Common Nouns",
+      "description": "General names like tree, nose, goat, man, forest, wind",
+      "parentId": "node_grammar",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_proper_nouns",
+      "label": "Proper Nouns",
+      "description": "Specific names that begin with a capital letter like India, Ganga, Monday",
+      "parentId": "node_grammar",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_noun_spotting",
+      "label": "How to Spot Nouns",
+      "description": "Ask 'Who?' or 'What?' to find nouns in a sentence",
+      "parentId": "node_grammar",
+      "positionX": 300,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_theme",
+      "label": "Unit Theme: Be Yourself",
+      "description": "Both the poem and the story teach us to appreciate what we have and be ourselves",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 400,
+      "color": "#F44336",
+      "orderIndex": 13
+    }
+  ]
+}

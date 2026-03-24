@@ -1,0 +1,244 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_math_ch1",
+    "level": "chapter",
+    "entityId": "gr4_math_ch1",
+    "title": "Large Numbers - Chapter Quiz",
+    "questionIds": [
+      "q_ln_001",
+      "q_ln_002",
+      "q_ln_003",
+      "q_ln_004",
+      "q_ln_005",
+      "q_ln_006",
+      "q_ln_007",
+      "q_ln_008",
+      "q_ln_009",
+      "q_ln_010"
+    ],
+    "timeLimit": 900,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_ln_001",
+      "questionText": "What is the place value of 7 in 47,893?",
+      "questionType": "mcq",
+      "options": [
+        "7",
+        "700",
+        "7,000",
+        "70,000"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The digit 7 is in the thousands place, so its value is 7,000.",
+      "hints": [
+        "Count from right: ones, tens, hundreds, thousands",
+        "The 7 is in the 4th position from the right"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["place_value", "thousands"],
+      "topicIds": ["gr4_m_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_002",
+      "questionText": "Which number is greater: 56,789 or 56,798?",
+      "questionType": "mcq",
+      "options": [
+        "56,789",
+        "56,798",
+        "Both are equal",
+        "Cannot be determined"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When comparing 56,789 and 56,798, we compare digit by digit from left. The first three digits are the same (5, 6, 7). At the tens place, 9 > 8, so 56,798 is greater.",
+      "hints": [
+        "Compare the digits from left to right",
+        "Look at the tens place: which is bigger, 8 or 9?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["comparing_numbers", "place_value"],
+      "topicIds": ["gr4_m_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_003",
+      "questionText": "Arrange these numbers in ascending order: 34,567 | 34,657 | 34,576",
+      "questionType": "mcq",
+      "options": [
+        "34,567, 34,576, 34,657",
+        "34,657, 34,576, 34,567",
+        "34,576, 34,567, 34,657",
+        "34,567, 34,657, 34,576"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ascending order means from smallest to largest. Comparing: 34,567 < 34,576 < 34,657",
+      "hints": [
+        "Ascending order means smallest to largest",
+        "Compare the hundreds and tens digits"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["comparing_numbers", "ordering"],
+      "topicIds": ["gr4_m_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_004",
+      "questionText": "What comes next in this pattern? 10,000 | 15,000 | 20,000 | ?",
+      "questionType": "mcq",
+      "options": [
+        "22,000",
+        "25,000",
+        "30,000",
+        "21,000"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The pattern adds 5,000 each time. 10,000 + 5,000 = 15,000, 15,000 + 5,000 = 20,000, so 20,000 + 5,000 = 25,000",
+      "hints": [
+        "What is the difference between each number?",
+        "15,000 - 10,000 = ?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["number_patterns", "sequences"],
+      "topicIds": ["gr4_m_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_005",
+      "questionText": "Round 47,836 to the nearest thousand.",
+      "questionType": "mcq",
+      "options": [
+        "47,000",
+        "48,000",
+        "47,800",
+        "50,000"
+      ],
+      "correctAnswer": "B",
+      "explanation": "To round to the nearest thousand, look at the hundreds digit. Since 8 ≥ 5, we round up. So 47,836 rounds to 48,000.",
+      "hints": [
+        "Look at the hundreds digit (8)",
+        "If it's 5 or more, round up"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["rounding", "place_value"],
+      "topicIds": ["gr4_m_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_006",
+      "questionText": "What is the smallest 5-digit number you can make using 3, 7, 1, 9, 5?",
+      "questionType": "mcq",
+      "options": [
+        "13579",
+        "97531",
+        "13759",
+        "17359"
+      ],
+      "correctAnswer": "A",
+      "explanation": "To make the smallest number, arrange digits from smallest to largest: 1, 3, 5, 7, 9 = 13,579",
+      "hints": [
+        "Arrange the digits from smallest to largest",
+        "Put the smallest digit first"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["number_formation", "ordering"],
+      "topicIds": ["gr4_m_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_007",
+      "questionText": "How many thousands are in 1 lakh?",
+      "questionType": "mcq",
+      "options": [
+        "10",
+        "100",
+        "1,000",
+        "10,000"
+      ],
+      "correctAnswer": "B",
+      "explanation": "1 lakh = 1,00,000 = 100 thousands (100 × 1,000 = 1,00,000)",
+      "hints": [
+        "1 lakh = 1,00,000",
+        "Divide 1,00,000 by 1,000"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["lakhs", "place_value"],
+      "topicIds": ["gr4_m_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_008",
+      "questionText": "What is 8 ten thousands + 5 thousands + 3 hundreds + 2 tens + 7 ones?",
+      "questionType": "mcq",
+      "options": [
+        "85,327",
+        "80,327",
+        "8,5327",
+        "85,237"
+      ],
+      "correctAnswer": "A",
+      "explanation": "8 ten thousands = 80,000, 5 thousands = 5,000, 3 hundreds = 300, 2 tens = 20, 7 ones = 7. Total: 80,000 + 5,000 + 300 + 20 + 7 = 85,327",
+      "hints": [
+        "Write each value: 80,000 + 5,000 + 300 + 20 + 7",
+        "Add them together step by step"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["place_value", "expanded_form"],
+      "topicIds": ["gr4_m_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_009",
+      "questionText": "Which number pattern shows counting by 2,500?",
+      "questionType": "mcq",
+      "options": [
+        "2,500 | 5,000 | 7,500 | 10,000",
+        "2,500 | 3,500 | 4,500 | 5,500",
+        "2,500 | 4,000 | 5,500 | 7,000",
+        "2,500 | 5,500 | 8,500 | 11,500"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Counting by 2,500 means adding 2,500 each time: 2,500, 5,000 (2,500+2,500), 7,500 (5,000+2,500), 10,000 (7,500+2,500)",
+      "hints": [
+        "Each number should be 2,500 more than the previous",
+        "Check if the difference is always 2,500"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["number_patterns", "skip_counting"],
+      "topicIds": ["gr4_m_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ln_010",
+      "questionText": "If you write numbers from 1 to 100, how many times will you write the digit 5?",
+      "questionType": "mcq",
+      "options": [
+        "10",
+        "19",
+        "20",
+        "11"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The digit 5 appears in: 5, 15, 25, 35, 45, 50, 51, 52, 53, 54, 55 (twice), 56, 57, 58, 59, 65, 75, 85, 95. That's 20 times total (count 55 as two 5s).",
+      "hints": [
+        "Count 5 in ones place: 5, 15, 25... 95 (10 times)",
+        "Count 5 in tens place: 50-59 (10 times)"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": ["counting", "digit_frequency"],
+      "topicIds": ["gr4_m_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

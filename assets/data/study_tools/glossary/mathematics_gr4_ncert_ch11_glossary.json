@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_math_ncert_ch11",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn11_001",
+      "term": "Symmetry",
+      "definition": "When one half of a shape or figure is the exact mirror image of the other half. A shape with symmetry looks balanced and matching on both sides.",
+      "pronunciation": "SIM-uh-tree",
+      "exampleUsage": "A butterfly has symmetry because both its wings look the same.",
+      "difficulty": "easy",
+      "relatedTerms": ["line of symmetry", "mirror image", "symmetric"]
+    },
+    {
+      "id": "gls_gr4_mn11_002",
+      "term": "Line of Symmetry",
+      "definition": "An imaginary line that divides a shape into two halves that are exact mirror images of each other. It is also called a mirror line or fold line.",
+      "pronunciation": "LINE ov SIM-uh-tree",
+      "exampleUsage": "A rectangle has 2 lines of symmetry - one horizontal and one vertical.",
+      "difficulty": "easy",
+      "relatedTerms": ["symmetry", "fold line", "mirror line"]
+    },
+    {
+      "id": "gls_gr4_mn11_003",
+      "term": "Mirror Image",
+      "definition": "The reflection of a shape or object as seen in a mirror. In a mirror image, left and right sides are swapped.",
+      "pronunciation": "MIR-er IM-ij",
+      "exampleUsage": "When you look in a mirror, your right hand appears as the left hand in the mirror image.",
+      "difficulty": "easy",
+      "relatedTerms": ["reflection", "symmetry", "line of symmetry"]
+    },
+    {
+      "id": "gls_gr4_mn11_004",
+      "term": "Symmetrical",
+      "definition": "A shape or object that has at least one line of symmetry. Both halves match when folded along the line of symmetry.",
+      "pronunciation": "sih-MET-rih-kul",
+      "exampleUsage": "A circle is symmetrical because you can fold it along any line through the centre and both halves match.",
+      "difficulty": "easy",
+      "relatedTerms": ["symmetry", "line of symmetry", "asymmetrical"]
+    },
+    {
+      "id": "gls_gr4_mn11_005",
+      "term": "Asymmetrical",
+      "definition": "A shape or object that does not have any line of symmetry. You cannot fold it so that both halves match exactly.",
+      "pronunciation": "ay-sih-MET-rih-kul",
+      "exampleUsage": "The letter J is asymmetrical because no fold line can make both halves match.",
+      "difficulty": "medium",
+      "relatedTerms": ["symmetrical", "symmetry"]
+    },
+    {
+      "id": "gls_gr4_mn11_006",
+      "term": "Reflection",
+      "definition": "The image of a shape that appears on the other side of a line of symmetry, like looking in a mirror.",
+      "pronunciation": "ree-FLEK-shun",
+      "exampleUsage": "When a tree stands by a still lake, its reflection in the water shows symmetry.",
+      "difficulty": "medium",
+      "relatedTerms": ["mirror image", "line of symmetry", "symmetry"]
+    },
+    {
+      "id": "gls_gr4_mn11_007",
+      "term": "Fold Line",
+      "definition": "The line along which you fold a paper to check for symmetry. If both halves match exactly when folded, the fold line is a line of symmetry.",
+      "pronunciation": "FOLD LINE",
+      "exampleUsage": "Fold the heart shape along the middle. The fold line is its line of symmetry.",
+      "difficulty": "easy",
+      "relatedTerms": ["line of symmetry", "mirror line", "folding"]
+    },
+    {
+      "id": "gls_gr4_mn11_008",
+      "term": "Mirror Line",
+      "definition": "Another name for the line of symmetry. If you place a mirror on this line, the reflection completes the shape.",
+      "pronunciation": "MIR-er LINE",
+      "exampleUsage": "Place a mirror on the mirror line of half a circle and you will see a full circle.",
+      "difficulty": "easy",
+      "relatedTerms": ["line of symmetry", "fold line", "reflection"]
+    },
+    {
+      "id": "gls_gr4_mn11_009",
+      "term": "Horizontal Line of Symmetry",
+      "definition": "A line of symmetry that goes across (left to right). The top half and bottom half are mirror images.",
+      "pronunciation": "hor-ih-ZON-tul LINE ov SIM-uh-tree",
+      "exampleUsage": "The letter B has a horizontal line of symmetry - the top half mirrors the bottom half.",
+      "difficulty": "medium",
+      "relatedTerms": ["vertical line of symmetry", "line of symmetry"]
+    },
+    {
+      "id": "gls_gr4_mn11_010",
+      "term": "Vertical Line of Symmetry",
+      "definition": "A line of symmetry that goes up and down. The left half and right half are mirror images.",
+      "pronunciation": "VER-tih-kul LINE ov SIM-uh-tree",
+      "exampleUsage": "The letter A has a vertical line of symmetry - the left half mirrors the right half.",
+      "difficulty": "medium",
+      "relatedTerms": ["horizontal line of symmetry", "line of symmetry"]
+    },
+    {
+      "id": "gls_gr4_mn11_011",
+      "term": "Symmetric Figure",
+      "definition": "A figure or drawing that can be divided into two matching halves by at least one line of symmetry.",
+      "pronunciation": "sih-MET-rik FIG-yer",
+      "exampleUsage": "A rangoli pattern is a symmetric figure because it looks the same on all sides.",
+      "difficulty": "easy",
+      "relatedTerms": ["symmetry", "line of symmetry", "symmetrical"]
+    },
+    {
+      "id": "gls_gr4_mn11_012",
+      "term": "Complete the Figure",
+      "definition": "Drawing the missing half of a symmetric shape using the line of symmetry as a guide so that both halves match.",
+      "pronunciation": "kum-PLEET the FIG-yer",
+      "exampleUsage": "Given half a flower and a line of symmetry, complete the figure by drawing the mirror image on the other side.",
+      "difficulty": "medium",
+      "relatedTerms": ["symmetry", "mirror image", "reflection"]
+    }
+  ]
+}

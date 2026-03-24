@@ -1,0 +1,46 @@
+{
+  "chapterId": "gr4_math_ncert_ch8",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn8_v1",
+      "videoId": "gr4_mn8_v1",
+      "content": "This lesson introduces the idea of weight and how we measure it. Students explore how different objects feel heavy or light and learn that we measure weight in grams (g) and kilograms (kg). Light things like a pencil or a packet of chips are measured in grams, while heavier things like a bag of rice or a watermelon are measured in kilograms. The key relationship is that 1 kilogram equals 1000 grams. Students also learn about the weighing balance (tarazu) that shopkeepers use at vegetable and fruit markets, where standard weights are placed on one side and the object on the other.",
+      "keyPoints": [
+        "Weight tells us how heavy an object is",
+        "Light objects are measured in grams (g); heavy objects in kilograms (kg)",
+        "1 kilogram (kg) = 1000 grams (g)",
+        "A weighing balance uses standard weights to measure objects",
+        "Common standard weights are 100 g, 200 g, 500 g, 1 kg, 2 kg"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn8_v2",
+      "videoId": "gr4_mn8_v2",
+      "content": "This lesson is about capacity - how much liquid a container can hold. A glass holds less water than a bucket, so the bucket has a greater capacity. We measure capacity in millilitres (mL) for small amounts and litres (L) for large amounts. A teaspoon holds about 5 mL, a cup holds about 250 mL, and a big water bottle holds 1 litre. The key fact is that 1 litre equals 1000 millilitres. Students practise reading labels on bottles, juice packets, and medicine bottles to identify their capacity in mL or L.",
+      "keyPoints": [
+        "Capacity is the amount of liquid a container can hold",
+        "Small amounts are measured in millilitres (mL); large amounts in litres (L)",
+        "1 litre (L) = 1000 millilitres (mL)",
+        "Measuring cups and jugs help us measure exact amounts of liquid",
+        "Labels on bottles and packets tell us the capacity in mL or L"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn8_v3",
+      "videoId": "gr4_mn8_v3",
+      "content": "This lesson teaches students how to convert between units and solve word problems. To convert kg to g, multiply by 1000. To convert L to mL, multiply by 1000. When adding or subtracting measurements, students learn to convert everything to the same unit first. For example, 2 kg 300 g + 1 kg 700 g: add the grams (300 + 700 = 1000 g = 1 kg), then add the kg (2 + 1 + 1 = 4 kg). The lesson includes fun real-life problems like figuring out how much fruit a family bought or how much water is needed to fill glasses at a party.",
+      "keyPoints": [
+        "To convert kg to g, multiply by 1000 (e.g., 3 kg = 3000 g)",
+        "To convert L to mL, multiply by 1000 (e.g., 2 L = 2000 mL)",
+        "Always convert to the same unit before adding or subtracting",
+        "When grams add up to 1000 or more, convert to kilograms",
+        "Word problems use real-life situations like shopping and cooking"
+      ],
+      "source": "manual"
+    }
+  ]
+}

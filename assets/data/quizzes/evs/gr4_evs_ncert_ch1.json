@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_evs_ncert_ch1",
+    "level": "chapter",
+    "entityId": "gr4_evs_ncert_ch1",
+    "title": "Going to School - Chapter 1 Quiz",
+    "questionIds": ["q_gs_001", "q_gs_002", "q_gs_003", "q_gs_004", "q_gs_005", "q_gs_006", "q_gs_007", "q_gs_008", "q_gs_009", "q_gs_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_gs_001",
+      "questionText": "In hilly areas, children often use which of these to reach school?",
+      "questionType": "mcq",
+      "options": ["Metro train", "Rope bridge", "Airplane", "Escalator"],
+      "correctAnswer": "B",
+      "explanation": "In hilly areas with rivers and valleys, children often use rope bridges or wooden bridges to cross rivers and reach school.",
+      "hints": ["Think about crossing rivers in mountains"],
+      "difficulty": "basic",
+      "conceptTags": ["transport", "hilly areas", "school"],
+      "topicIds": ["gr4_evs_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_002",
+      "questionText": "Children in valley regions may travel to school by:",
+      "questionType": "mcq",
+      "options": ["Airplane", "Bicycle on roads", "Boat", "Metro"],
+      "correctAnswer": "C",
+      "explanation": "In valley regions with many rivers and waterways, children often travel to school by boat.",
+      "hints": ["Think about areas with lots of water"],
+      "difficulty": "basic",
+      "conceptTags": ["transport", "water", "school"],
+      "topicIds": ["gr4_evs_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_003",
+      "questionText": "In desert areas, which animal is commonly used for travel?",
+      "questionType": "mcq",
+      "options": ["Elephant", "Horse", "Camel", "Donkey"],
+      "correctAnswer": "C",
+      "explanation": "Camels are called 'ships of the desert' and are commonly used for travel in desert areas because they can survive in hot, dry conditions.",
+      "hints": ["This animal is called the 'ship of the desert'"],
+      "difficulty": "basic",
+      "conceptTags": ["transport", "desert", "animals"],
+      "topicIds": ["gr4_evs_1_2"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_004",
+      "questionText": "True or False: Children in all parts of India travel to school in the same way.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "B",
+      "explanation": "False! Children in different parts of India travel differently - by boat, bridge, camel, bullock cart, cycle, bus, etc. depending on where they live.",
+      "hints": ["Think about mountains vs plains vs deserts"],
+      "difficulty": "basic",
+      "conceptTags": ["diversity", "transport", "India"],
+      "topicIds": ["gr4_evs_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_005",
+      "questionText": "What is a 'trolley' used for in hilly areas?",
+      "questionType": "mcq",
+      "options": ["Carrying luggage at airports", "Crossing rivers in valleys", "Shopping in malls", "Carrying books"],
+      "correctAnswer": "B",
+      "explanation": "In some hilly areas, a trolley (a basket hung on a rope) is used to cross rivers and deep valleys to reach the other side.",
+      "hints": ["It hangs on a rope over the valley"],
+      "difficulty": "intermediate",
+      "conceptTags": ["transport", "hilly areas", "rivers"],
+      "topicIds": ["gr4_evs_1_2"],
+      "points": 2
+    },
+    {
+      "id": "q_gs_006",
+      "questionText": "Which mode of transport do most children in cities use to go to school?",
+      "questionType": "mcq",
+      "options": ["Camel", "Boat", "School bus or car", "Bullock cart"],
+      "correctAnswer": "C",
+      "explanation": "In cities, most children go to school by school bus, car, metro, or walking on paved roads.",
+      "hints": ["Think about what's common in big cities"],
+      "difficulty": "basic",
+      "conceptTags": ["transport", "cities", "school"],
+      "topicIds": ["gr4_evs_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_007",
+      "questionText": "In villages, children might go to school by:",
+      "questionType": "mcq",
+      "options": ["Metro train", "Bullock cart or bicycle", "Airplane", "Helicopter"],
+      "correctAnswer": "B",
+      "explanation": "In villages, children often walk, cycle, or travel by bullock cart to school.",
+      "hints": ["Think about simple, traditional transport"],
+      "difficulty": "basic",
+      "conceptTags": ["transport", "village", "school"],
+      "topicIds": ["gr4_evs_1_1"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_008",
+      "questionText": "Why do children in different places use different ways to reach school?",
+      "questionType": "mcq",
+      "options": ["Because they like different things", "Because of different geography and environment", "Because schools are the same everywhere", "Because buses are not available"],
+      "correctAnswer": "B",
+      "explanation": "Different places have different geography - mountains, rivers, deserts, plains - so people use transport that works best for their environment.",
+      "hints": ["Think about how land and water affect travel"],
+      "difficulty": "intermediate",
+      "conceptTags": ["geography", "environment", "transport"],
+      "topicIds": ["gr4_evs_1_2"],
+      "points": 2
+    },
+    {
+      "id": "q_gs_009",
+      "questionText": "True or False: A bamboo bridge can be used to cross rivers.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! In many areas, bamboo bridges are built to cross small rivers and streams. Bamboo is strong and grows locally.",
+      "hints": ["Bamboo is used for building in many villages"],
+      "difficulty": "basic",
+      "conceptTags": ["bridges", "bamboo", "rivers"],
+      "topicIds": ["gr4_evs_1_2"],
+      "points": 1
+    },
+    {
+      "id": "q_gs_010",
+      "questionText": "What can we learn from how different children travel to school?",
+      "questionType": "mcq",
+      "options": ["All children are lazy", "India has diverse geography and cultures", "Only city children go to school", "Travel is not important"],
+      "correctAnswer": "B",
+      "explanation": "We learn that India has diverse geography - mountains, plains, deserts, rivers - and children adapt to their environment in creative ways.",
+      "hints": ["Think about what the chapter teaches us about India"],
+      "difficulty": "intermediate",
+      "conceptTags": ["diversity", "India", "learning"],
+      "topicIds": ["gr4_evs_1_3"],
+      "points": 2
+    }
+  ]
+}

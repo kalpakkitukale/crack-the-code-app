@@ -1,0 +1,475 @@
+{
+  "algorithmId": "rec_gr4_m2_t2",
+  "topicId": "gr4_m_2_2",
+  "topicName": "Addition with Regrouping (Carrying)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for addition with regrouping/carrying for 4-5 digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent 2-digit regrouping skills, can fast-track to 4-5 digit with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 6,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2130,
+      "videoSequence": [
+        {
+          "videoId": "gr4_regroup_v1",
+          "reason": "Introduction to 4-digit regrouping",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v3",
+          "reason": "Jump to multiple regroupings",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v4",
+          "reason": "Handle special case with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v5",
+          "reason": "Extend to 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v6",
+          "reason": "Mixed practice for fluency",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v7",
+          "reason": "Challenge: Complex regrouping problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete systematic coverage of regrouping",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 6,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2250,
+      "videoSequence": [
+        {
+          "videoId": "gr4_regroup_v1",
+          "reason": "4-digit regrouping introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v2",
+          "reason": "Practice single regrouping first",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v3",
+          "reason": "Build to multiple regroupings",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v4",
+          "reason": "Handle zeros - important skill",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v5",
+          "reason": "5-digit regrouping",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v6",
+          "reason": "Mixed practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in 2-digit regrouping or place value trades, needs targeted review",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 10
+      },
+      "estimatedTime": 3150,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "regrouping_2digit_weak": {
+            "addVideos": ["prereq_regroup2_v1", "prereq_regroup2_v2"],
+            "priority": "high"
+          },
+          "place_value_trades_weak": {
+            "addVideos": ["prereq_trades_v1"],
+            "priority": "high"
+          },
+          "addition_facts_over10_weak": {
+            "addVideos": ["prereq_facts10_v1"],
+            "priority": "medium"
+          },
+          "basic_4digit_add_weak": {
+            "addVideos": ["prereq_4digit_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_regroup2_v1",
+          "reason": "Review: 2-digit regrouping basics",
+          "skippable": false,
+          "condition": "if regrouping_2digit concept is weak"
+        },
+        {
+          "videoId": "prereq_regroup2_v2",
+          "reason": "Review: 2-digit practice examples",
+          "skippable": false,
+          "condition": "if regrouping_2digit concept is weak"
+        },
+        {
+          "videoId": "prereq_trades_v1",
+          "reason": "Review: Place value trades (10 ones = 1 ten)",
+          "skippable": false,
+          "condition": "if place_value_trades concept is weak"
+        },
+        {
+          "videoId": "prereq_facts10_v1",
+          "reason": "Review: Addition facts with sums over 10",
+          "skippable": false,
+          "condition": "if addition_facts_over10 concept is weak"
+        },
+        {
+          "videoId": "prereq_4digit_v1",
+          "reason": "Review: Basic 4-digit addition",
+          "skippable": false,
+          "condition": "if basic_4digit_add concept is weak"
+        },
+        {
+          "videoId": "gr4_regroup_v1",
+          "reason": "Start main topic: 4-digit regrouping",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v2",
+          "reason": "Single regrouping practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v3",
+          "reason": "Multiple regroupings",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v4",
+          "reason": "Regrouping with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v5",
+          "reason": "5-digit regrouping",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of 2-digit regrouping and place value trades before 4-5 digit regrouping",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2400,
+      "videoSequence": [
+        {
+          "videoId": "prereq_regroup2_v1",
+          "reason": "Foundation: 2-digit regrouping review",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_regroup2_v2",
+          "reason": "Essential: 2-digit regrouping practice",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_trades_v1",
+          "reason": "Critical: Understanding place value trades",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_facts10_v1",
+          "reason": "Important: Addition facts over 10",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_4digit_v1",
+          "reason": "Prepare: Basic 4-digit addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v1",
+          "reason": "Gentle intro to 4-digit regrouping",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_regroup_v2",
+          "reason": "Begin practice with single regrouping",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with 4-5 digit regrouping."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "regrouping_2digit": {
+        "conceptName": "Addition with regrouping in 2-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_regroup2_v1", "prereq_regroup2_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "place_value_trades": {
+        "conceptName": "Understanding trading 10 ones for 1 ten, etc.",
+        "importance": "critical",
+        "videoIds": ["prereq_trades_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "addition_facts_over10": {
+        "conceptName": "Addition facts that result in sums over 10",
+        "importance": "important",
+        "videoIds": ["prereq_facts10_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "basic_4digit_add": {
+        "conceptName": "Basic 4-digit addition without regrouping",
+        "importance": "important",
+        "videoIds": ["prereq_4digit_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_regroup_v2",
+        "checkpointName": "Single Regrouping Mastery",
+        "questions": [
+          {
+            "question": "What is 2,567 + 1,845?",
+            "options": ["4,412", "4,312", "3,412", "4,512"],
+            "correctAnswer": 0,
+            "explanation": "Ones: 7+5=12 (write 2, carry 1). Tens: 6+4+1=11 (write 1, carry 1). Hundreds: 5+8+1=14 (write 4, carry 1). Thousands: 2+1+1=4 → 4,412."
+          },
+          {
+            "question": "In 3,478 + 2,356, which place values will need regrouping?",
+            "options": ["Tens only", "Ones and tens", "Ones only", "None"],
+            "correctAnswer": 1,
+            "explanation": "Ones: 8+6=14 (regroup), Tens: 7+5+1=13 (regroup). Hundreds: 4+3=7 (no regroup), Thousands: 3+2=5 (no regroup)."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand single regrouping well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_regroup2_v1",
+          "reason": "Student struggling with regrouping concept"
+        }
+      },
+      {
+        "afterVideoId": "gr4_regroup_v5",
+        "checkpointName": "5-Digit Regrouping Check",
+        "questions": [
+          {
+            "question": "What is 45,678 + 37,845?",
+            "options": ["83,523", "82,523", "83,423", "73,523"],
+            "correctAnswer": 0,
+            "explanation": "Work right to left with regrouping: 8+5=13, 7+4+1=12, 6+8+1=15, 5+7+1=13, 4+3+1=8 → 83,523."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_regroup_v7",
+          "reason": "Student ready for complex regrouping problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice more 5-digit regrouping before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip mixed practice, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on 2-digit regrouping"
+    },
+    "suggest_break": {
+      "trigger": "After 3 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing 10-15 regrouping problems with parent/teacher"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong 2-digit regrouping skills. You're ready to learn 4-5 digit regrouping. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand regrouping basics. Let's extend your skills to 4-5 digit numbers with complete systematic coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in 2-digit regrouping or place value trades. Don't worry! We'll start with targeted review videos on the concepts you need."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review 2-digit regrouping and place value trades first. We've created a playlist focused on building strong foundation."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how regrouping skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic addition facts", "Addition facts with sums over 10", "Place value basics"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["2-digit regrouping", "Understanding carries", "Place value trades (10 ones = 1 ten)"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["4-digit basic addition", "Column alignment", "Adding from right to left"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["4-digit regrouping", "Single regrouping", "Multiple regroupings", "Regrouping with zeros"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["5-digit regrouping", "Mixed regrouping practice", "Fluency building"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 6,
+        "concepts": ["Complex regrouping problems", "Missing digit problems", "Problem solving strategies"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "regroupingAccuracy": {
+      "target": 90,
+      "description": "% of students who can correctly add 4-5 digit numbers with regrouping"
+    },
+    "speedFluency": {
+      "target": 75,
+      "description": "% of students who complete 10 regrouping problems in < 12 minutes with 80%+ accuracy"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 37-42 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 52-58 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (25 min) = 65-75 total minutes, expected 65-80% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students forgetting to carry/regroup when sum >= 10",
+      "solution1": "Emphasize checking each column: if sum is 10 or more, write ones digit and carry the ten. Use visual cue: circle sums >= 10",
+      "challenge2": "Students writing both digits instead of carrying",
+      "solution2": "Practice writing the carry number small above the next column. Show incorrect vs correct notation side-by-side",
+      "challenge3": "Students losing track of carries with multiple regroupings",
+      "solution3": "Work systematically right to left, mark each carry clearly above column, cross out after adding it in",
+      "challenge4": "Students confused when zeros are involved in regrouping",
+      "solution4": "Remind: 0 + any number + carry = that number + carry. Zeros don't change the regrouping process, treat them like any other digit"
+    }
+  }
+}

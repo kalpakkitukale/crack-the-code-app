@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_hin_ncert_ch13",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "हुदहुद (Hoopoe Bird)",
+      "description": "Chapter 13 - A fascinating story about the beautiful hoopoe bird and its unique features",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_appearance",
+      "label": "दिखावट (Appearance)",
+      "description": "The hoopoe's beautiful and distinctive physical features that make it easy to identify",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_crest",
+      "label": "कलगी (Crest)",
+      "description": "Fan-shaped crown of feathers on the head that opens and closes - the hoopoe's most famous feature",
+      "parentId": "node_appearance",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_stripes",
+      "label": "धारियाँ (Stripes)",
+      "description": "Beautiful black and white stripes on the wings and body, with brownish-orange feathers",
+      "parentId": "node_appearance",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_beak",
+      "label": "चोंच (Beak)",
+      "description": "Long, thin, slightly curved beak used for digging insects out of the ground",
+      "parentId": "node_appearance",
+      "positionX": -350,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_food",
+      "label": "भोजन (Food)",
+      "description": "What the hoopoe eats and how it finds its food",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_insects",
+      "label": "कीड़े-मकोड़े (Insects)",
+      "description": "The hoopoe eats insects, worms, and larvae by poking its beak into the soil",
+      "parentId": "node_food",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_farmer_friend",
+      "label": "किसानों का मित्र (Farmer's Friend)",
+      "description": "Helps farmers by eating harmful insects that damage crops in the fields",
+      "parentId": "node_food",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_habitat",
+      "label": "निवास स्थान (Habitat)",
+      "description": "Where the hoopoe lives, builds its nest, and is found in India",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_nest",
+      "label": "घोंसला (Nest)",
+      "description": "Nests in tree hollows, wall cracks, and holes in old buildings - does not build typical nests",
+      "parentId": "node_habitat",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_places",
+      "label": "खुले मैदान और बगीचे (Open Fields)",
+      "description": "Prefers open fields, gardens, and farmlands where it can easily find insects in the ground",
+      "parentId": "node_habitat",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_sound",
+      "label": "आवाज़ (Sound)",
+      "description": "The hoopoe's distinctive 'hoop-hoop-hoop' call - the origin of its name 'hudhud'",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_conservation",
+      "label": "पक्षी संरक्षण (Bird Conservation)",
+      "description": "Why it is important to protect birds and their natural habitats",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#795548",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_language",
+      "label": "भाषा कार्य (Language Skills)",
+      "description": "Hindi vocabulary and comprehension skills from this chapter",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 400,
+      "color": "#607D8B",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_vocab",
+      "label": "नए शब्द (New Words)",
+      "description": "हुदहुद, कलगी, चोंच, कीड़े-मकोड़े, घोंसला, पंख, धारियाँ, प्रवासी पक्षी, पर्यावरण, संरक्षण",
+      "parentId": "node_language",
+      "positionX": 0,
+      "positionY": 500,
+      "color": "#78909C",
+      "orderIndex": 14
+    }
+  ]
+}

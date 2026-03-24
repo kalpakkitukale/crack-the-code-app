@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch11",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en11",
+    "title": "The Valley of Flowers",
+    "content": "This chapter from the NCERT Looking Around textbook takes students on a journey to the Valley of Flowers, a breathtaking alpine meadow nestled high in the Himalayan mountains of Uttarakhand. Located in the Chamoli district at over 3,000 metres, this National Park and UNESCO World Heritage Site is home to more than 600 species of flowering plants, including rare ones like the Brahma Kamal and blue poppies. Students learn about the discovery of the valley by Frank Smythe in 1931, the Pushpawati River that flows through it, and the amazing wildlife that lives there, from snow leopards to colourful butterflies. The chapter introduces the concept of biodiversity and explains why conservation of such natural treasures is important for all of us.",
+    "keyPoints": [
+      "The Valley of Flowers is in Chamoli, Uttarakhand, at over 3,000 metres altitude",
+      "More than 600 species of flowering plants grow in the valley",
+      "It was discovered by British mountaineer Frank Smythe in 1931",
+      "It is both a National Park and a UNESCO World Heritage Site",
+      "Rare flowers like Brahma Kamal and blue poppies are found here",
+      "The valley has rich wildlife including snow leopards and musk deer"
+    ],
+    "learningObjectives": [
+      "Locate the Valley of Flowers on a map of India and describe its geography",
+      "Name at least five rare flowers and animals found in the valley",
+      "Explain what biodiversity means using the valley as an example",
+      "Describe why national parks are important for protecting nature",
+      "Discuss what we can do to conserve natural beauty around us"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en11_001",
+      "title": "Flower Diary Activity",
+      "content": "Observe the flowers around your home, school, or neighbourhood. Over one week, draw or photograph every different flower you see. Note down the colour, size, number of petals, and whether it has a fragrance. How many different types did you find? Compare your list with your classmates. You will be surprised by the biodiversity right outside your door!",
+      "tags": ["activity", "observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en11_002",
+      "title": "Did You Know? Amazing Flower Facts",
+      "content": "The Brahma Kamal, the state flower of Uttarakhand, blooms only at night! The Valley of Flowers has flowers of almost every colour - pink, blue, yellow, red, white, and purple. Some flowers there are so tiny you need a magnifying glass to see them, while others can be as big as your face. During peak bloom in August, the entire valley looks like a giant colourful carpet spread across the mountains.",
+      "tags": ["fun-fact", "nature"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en11_003",
+      "title": "How to Be a Nature Protector",
+      "content": "You do not need to visit the Valley of Flowers to protect nature. Here are simple things you can do: never pluck flowers from parks or gardens, do not litter in natural areas, plant native flowers in pots at home, put out a small bowl of water for birds and butterflies, and spread awareness about why nature matters. Remember, even small actions make a big difference when everyone does them together!",
+      "tags": ["tips", "conservation"],
+      "isPinned": false
+    }
+  ]
+}

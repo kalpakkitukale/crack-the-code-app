@@ -1,0 +1,49 @@
+{
+  "id": "english_gr6",
+  "name": "English",
+  "icon": "menu_book",
+  "color": "#FFB6C1",
+  "boardId": "cbse_elementary",
+  "classId": "class_6",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["english", "grade 6", "language", "grammar"],
+  "chapters": [
+    {
+      "id": "gr6_eng_ch1",
+      "number": 1,
+      "name": "Grammar Basics",
+      "description": "Parts of speech and sentence structure",
+      "keywords": ["grammar", "nouns", "verbs"],
+      "topics": [
+        {"id": "gr6_e_1_1", "name": "Nouns and Pronouns", "difficulty": "basic", "videoCount": 4, "keywords": ["nouns", "pronouns"]},
+        {"id": "gr6_e_1_2", "name": "Verbs and Tenses", "difficulty": "intermediate", "videoCount": 4, "keywords": ["verbs", "tenses"]},
+        {"id": "gr6_e_1_3", "name": "Adjectives and Adverbs", "difficulty": "intermediate", "videoCount": 3, "keywords": ["adjectives", "adverbs"]}
+      ]
+    },
+    {
+      "id": "gr6_eng_ch2",
+      "number": 2,
+      "name": "Reading Comprehension",
+      "description": "Understanding and analyzing texts",
+      "keywords": ["reading", "comprehension", "analysis"],
+      "topics": [
+        {"id": "gr6_e_2_1", "name": "Reading Skills", "difficulty": "basic", "videoCount": 3, "keywords": ["reading", "understanding"]},
+        {"id": "gr6_e_2_2", "name": "Story Elements", "difficulty": "intermediate", "videoCount": 4, "keywords": ["plot", "characters"]},
+        {"id": "gr6_e_2_3", "name": "Main Idea", "difficulty": "intermediate", "videoCount": 3, "keywords": ["main idea", "summary"]}
+      ]
+    },
+    {
+      "id": "gr6_eng_ch3",
+      "number": 3,
+      "name": "Writing Skills",
+      "description": "Paragraphs, essays, and creative writing",
+      "keywords": ["writing", "essays", "creativity"],
+      "topics": [
+        {"id": "gr6_e_3_1", "name": "Paragraph Writing", "difficulty": "basic", "videoCount": 4, "keywords": ["paragraph", "structure"]},
+        {"id": "gr6_e_3_2", "name": "Essay Writing", "difficulty": "intermediate", "videoCount": 4, "keywords": ["essay", "introduction"]},
+        {"id": "gr6_e_3_3", "name": "Creative Writing", "difficulty": "intermediate", "videoCount": 3, "keywords": ["creative", "story"]}
+      ]
+    }
+  ]
+}

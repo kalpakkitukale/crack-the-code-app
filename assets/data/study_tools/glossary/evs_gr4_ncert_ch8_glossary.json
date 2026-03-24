@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch8",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_8_001",
+      "term": "Joint family",
+      "definition": "A large family where grandparents, parents, uncles, aunts, and cousins all live together in one household.",
+      "pronunciation": "JOYNT FAM-uh-lee",
+      "exampleUsage": "In a joint family, grandmother cooks for everyone and they eat together.",
+      "difficulty": "easy",
+      "relatedTerms": ["family", "relatives"]
+    },
+    {
+      "id": "gls_evs_8_002",
+      "term": "Nuclear family",
+      "definition": "A small family made up of just parents and their children living together.",
+      "pronunciation": "NOO-klee-er FAM-uh-lee",
+      "exampleUsage": "Many families in cities are nuclear families with parents and one or two children.",
+      "difficulty": "easy",
+      "relatedTerms": ["family", "parents"]
+    },
+    {
+      "id": "gls_evs_8_003",
+      "term": "Maternal",
+      "definition": "Related to your mother's side of the family. Your mother's parents are your maternal grandparents.",
+      "pronunciation": "mah-TER-nul",
+      "exampleUsage": "My maternal grandmother lives in a village near Varanasi.",
+      "difficulty": "medium",
+      "relatedTerms": ["mother", "nana", "nani"]
+    },
+    {
+      "id": "gls_evs_8_004",
+      "term": "Paternal",
+      "definition": "Related to your father's side of the family. Your father's parents are your paternal grandparents.",
+      "pronunciation": "pah-TER-nul",
+      "exampleUsage": "My paternal grandfather taught me how to fly a kite.",
+      "difficulty": "medium",
+      "relatedTerms": ["father", "dada", "dadi"]
+    },
+    {
+      "id": "gls_evs_8_005",
+      "term": "Relatives",
+      "definition": "People who are part of your family, such as grandparents, uncles, aunts, cousins, and in-laws.",
+      "pronunciation": "REL-uh-tivz",
+      "exampleUsage": "We visit our relatives during Diwali and other festivals.",
+      "difficulty": "easy",
+      "relatedTerms": ["family", "kin"]
+    },
+    {
+      "id": "gls_evs_8_006",
+      "term": "Ancestor",
+      "definition": "A person in your family who lived a long time ago, like your great-grandparents or their parents before them.",
+      "pronunciation": "AN-ses-ter",
+      "exampleUsage": "My grandmother told me stories about our ancestors who were farmers.",
+      "difficulty": "medium",
+      "relatedTerms": ["forefather", "family history"]
+    },
+    {
+      "id": "gls_evs_8_007",
+      "term": "Generation",
+      "definition": "A group of people born and living around the same time. You, your parents, and your grandparents are three different generations.",
+      "pronunciation": "jen-er-AY-shun",
+      "exampleUsage": "Three generations of our family gathered for the wedding - grandparents, parents, and children.",
+      "difficulty": "medium",
+      "relatedTerms": ["age group", "family"]
+    },
+    {
+      "id": "gls_evs_8_008",
+      "term": "Tradition",
+      "definition": "A custom or belief that is passed down from grandparents and parents to children over many years.",
+      "pronunciation": "trah-DISH-un",
+      "exampleUsage": "Making laddoos for Diwali is a tradition in our family.",
+      "difficulty": "easy",
+      "relatedTerms": ["custom", "culture"]
+    },
+    {
+      "id": "gls_evs_8_009",
+      "term": "Village",
+      "definition": "A small settlement in a rural area, usually surrounded by farms and fields, where fewer people live compared to a city.",
+      "pronunciation": "VIL-ij",
+      "exampleUsage": "Grandmother's village has green fields, a pond, and a small temple.",
+      "difficulty": "easy",
+      "relatedTerms": ["rural", "countryside"]
+    },
+    {
+      "id": "gls_evs_8_010",
+      "term": "Family tree",
+      "definition": "A diagram that shows all the members of a family and how they are related to each other across generations.",
+      "pronunciation": "FAM-uh-lee tree",
+      "exampleUsage": "We drew a family tree with grandparents at the top and grandchildren at the bottom.",
+      "difficulty": "easy",
+      "relatedTerms": ["genealogy", "family chart"]
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "playlistId": "gr4_m1_t3_main",
+  "topicId": "gr4_m_1_3",
+  "topicName": "Comparing and Ordering Large Numbers",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2550,
+    "totalDurationDisplay": "42:30",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_1_1", "gr4_m_1_2"],
+    "followUpTopics": ["gr4_m_1_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_comp_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Comparing 5-Digit Numbers | Introduction",
+      "description": "Learn how to compare 5-digit numbers using place value",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 840000,
+      "tags": ["comparing", "5-digit", "place value", "introduction"],
+      "learningObjectives": [
+        "Understand how to compare 5-digit numbers",
+        "Use place value for comparison",
+        "Compare from left to right systematically",
+        "Use >, <, = symbols correctly"
+      ],
+      "keyConceptsCovered": [
+        "Start from ten thousands place (leftmost)",
+        "If equal, move to next place (thousands)",
+        "Continue until you find a difference",
+        "Example: 45,678 vs 45,876 → compare hundreds (6 < 8)"
+      ],
+      "prerequisites": ["5-digit place value", "Comparing 4-digit numbers"],
+      "followUpTopics": ["Comparing with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Comparing 5-Digit Numbers | Worked Examples",
+      "description": "Practice comparing 5-digit numbers with step-by-step examples",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 760000,
+      "tags": ["comparing", "examples", "5-digit", "practice"],
+      "learningObjectives": [
+        "Compare numbers with detailed steps",
+        "Practice with various examples",
+        "Build confidence in comparison",
+        "Verify answers"
+      ],
+      "keyConceptsCovered": [
+        "Example 1: 56,234 vs 56,189 (compare hundreds)",
+        "Example 2: 78,900 vs 87,900 (compare ten thousands)",
+        "Example 3: 23,456 vs 23,456 (equal numbers)",
+        "Multiple practice problems with solutions"
+      ],
+      "prerequisites": ["Basic 5-digit comparison"],
+      "followUpTopics": ["Comparing with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Comparing Numbers with Zeros",
+      "description": "Learn to compare 5-digit numbers that contain zeros",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 690000,
+      "tags": ["comparing", "zeros", "5-digit", "tricky"],
+      "learningObjectives": [
+        "Compare numbers with zeros correctly",
+        "Understand that 0 < any other digit",
+        "Handle zeros in any position",
+        "Avoid common mistakes with zeros"
+      ],
+      "keyConceptsCovered": [
+        "30,050 vs 30,500 (compare hundreds: 0 < 5)",
+        "50,007 vs 50,070 (compare tens: 0 < 7)",
+        "Zero is smaller than any other digit",
+        "Don't get confused by multiple zeros"
+      ],
+      "prerequisites": ["Comparing 5-digit numbers"],
+      "followUpTopics": ["Ordering numbers"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v4",
+      "sequenceNumber": 4,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Ordering Numbers | Ascending Order",
+      "description": "Learn to arrange 5-digit numbers from smallest to largest",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 720000,
+      "tags": ["ordering", "ascending", "smallest to largest", "5-digit"],
+      "learningObjectives": [
+        "Understand ascending order (smallest first)",
+        "Arrange multiple numbers in order",
+        "Use comparison skills to order",
+        "Check work for accuracy"
+      ],
+      "keyConceptsCovered": [
+        "Ascending = going up (smallest to largest)",
+        "Compare all numbers pairwise",
+        "Find smallest, then next smallest, etc.",
+        "Example: 45,123; 45,678; 45,234 → 45,123; 45,234; 45,678"
+      ],
+      "prerequisites": ["Comparing 5-digit numbers"],
+      "followUpTopics": ["Descending order"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v5",
+      "sequenceNumber": 5,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Ordering Numbers | Descending Order",
+      "description": "Learn to arrange 5-digit numbers from largest to smallest",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 710000,
+      "tags": ["ordering", "descending", "largest to smallest", "5-digit"],
+      "learningObjectives": [
+        "Understand descending order (largest first)",
+        "Distinguish ascending from descending",
+        "Arrange numbers in reverse order",
+        "Practice both directions"
+      ],
+      "keyConceptsCovered": [
+        "Descending = going down (largest to smallest)",
+        "Find largest first, then next largest",
+        "Opposite of ascending order",
+        "Example: 45,123; 45,678; 45,234 → 45,678; 45,234; 45,123"
+      ],
+      "prerequisites": ["Ascending order"],
+      "followUpTopics": ["Mixed ordering practice"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v6",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Comparing and Ordering Practice | Mixed Problems",
+      "description": "Practice both comparing and ordering with various problems",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 650000,
+      "tags": ["comparing", "ordering", "practice", "mixed"],
+      "learningObjectives": [
+        "Apply comparison skills to varied problems",
+        "Switch between comparing and ordering",
+        "Build fluency and speed",
+        "Self-check answers"
+      ],
+      "keyConceptsCovered": [
+        "Compare two numbers using symbols",
+        "Order 3-4 numbers in ascending/descending",
+        "Mixed problem types",
+        "Real exam-style questions"
+      ],
+      "prerequisites": ["Comparing and ordering 5-digit numbers"],
+      "followUpTopics": ["Real-world applications"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_comp_v7",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Comparing and Ordering 6-Digit Numbers",
+      "description": "Preview comparing and ordering numbers up to lakhs",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 480000,
+      "tags": ["6-digit", "lakhs", "challenge", "enrichment"],
+      "learningObjectives": [
+        "Preview 6-digit number comparison",
+        "Apply same principles to larger numbers",
+        "Challenge advanced learners",
+        "Enrichment activity"
+      ],
+      "keyConceptsCovered": [
+        "Compare numbers in lakhs (1,00,000+)",
+        "Same method: compare from left to right",
+        "Order 6-digit numbers",
+        "Preview for next grade"
+      ],
+      "prerequisites": ["Strong 5-digit comparison skills"],
+      "followUpTopics": ["Indian number system"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v2", "gr4_comp_v3", "gr4_comp_v4", "gr4_comp_v5", "gr4_comp_v7"],
+      "totalVideos": 6,
+      "estimatedTime": 2220,
+      "estimatedTimeDisplay": "37:00",
+      "rationale": "Fast-track through 5-digit comparison/ordering with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v2", "gr4_comp_v3", "gr4_comp_v4", "gr4_comp_v5", "gr4_comp_v6"],
+      "totalVideos": 6,
+      "estimatedTime": 2250,
+      "estimatedTimeDisplay": "37:30",
+      "rationale": "Complete coverage with mixed practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v2", "gr4_comp_v3", "gr4_comp_v4", "gr4_comp_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1920,
+      "estimatedTimeDisplay": "32:00",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_comp_v1", "gr4_comp_v2", "gr4_comp_v4", "gr4_comp_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Essential comparison and ordering only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_comp_v3",
+      "checkpointName": "Comparing 5-Digit Numbers Mastery",
+      "questions": [
+        {
+          "question": "Which symbol makes this true? 30,050 ___ 30,500",
+          "options": ["<", ">", "="],
+          "correctAnswer": 0,
+          "explanation": "Compare hundreds place: 0 < 5, so 30,050 < 30,500."
+        },
+        {
+          "question": "Which number is greater: 56,789 or 56,890?",
+          "options": ["56,789", "56,890", "Equal"],
+          "correctAnswer": 1,
+          "explanation": "Compare hundreds: 7 < 8, so 56,890 is greater."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_comp_v5",
+      "checkpointName": "Ordering Numbers Mastery",
+      "questions": [
+        {
+          "question": "Arrange in ascending order: 45,678; 45,234; 45,890",
+          "options": [
+            "45,234; 45,678; 45,890",
+            "45,890; 45,678; 45,234",
+            "45,678; 45,234; 45,890"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ascending means smallest to largest. Compare hundreds: 2 < 6 < 8."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-3 cover comparing, videos 4-5 cover ordering. All core videos are essential for mastery.",
+    "parentGuidance": "Help your child practice by comparing prices, populations, distances. Use real numbers from daily life.",
+    "studentGuidance": "Always compare from left (highest place) to right. For ordering, compare all numbers first, then arrange."
+  }
+}

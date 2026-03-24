@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch7",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en7_001",
+      "videoId": "gr4_en7_v1",
+      "question": "Why do things outside the train look like they are moving backwards?",
+      "answer": "When you sit in a moving train, you are moving forward with the train. But the trees, fields, and buildings outside are standing still. Since the train is moving past them, they appear to rush backwards from your window. This is called 'relative motion' - things seem to move depending on where you are looking from. Try this: if you look at very far-away things like mountains, they seem to move slowly, but nearby things seem to zoom past quickly!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en7_002",
+      "videoId": "gr4_en7_v1",
+      "question": "What kinds of crops can you see from a train window in India?",
+      "answer": "It depends on which part of India you are travelling through! In the northern plains (Punjab, Haryana), you might see golden wheat fields. In West Bengal and south India, you will see green paddy (rice) fields. In Maharashtra, you can spot sugarcane and cotton. In Assam, you might see tea gardens on hillsides. In Kerala, look for coconut trees and spice plantations. The crops change because different areas have different soil, rainfall, and climate.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en7_003",
+      "videoId": "gr4_en7_v1",
+      "question": "Why does the train make a clickety-clack sound?",
+      "answer": "The clickety-clack sound comes from the wheels of the train passing over small gaps between the rail sections. Railway tracks are made of long metal rails joined together, and there are tiny gaps at the joints to allow the rails to expand in hot weather. When the train wheels roll over these gaps, they make the rhythmic clickety-clack sound. Modern welded tracks have fewer gaps, so newer trains are quieter!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en7_004",
+      "videoId": "gr4_en7_v2",
+      "question": "What is the difference between a plain and a plateau?",
+      "answer": "A plain is a large, flat area of land at a low height, usually good for farming. The Indo-Gangetic plain in north India is a good example. A plateau is also flat on top, but it is raised high above the surrounding land, like a table. The Deccan Plateau in south-central India is a large plateau. From a train, plains look like endless flat fields, while plateaus have flat tops with steep sides.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en7_005",
+      "videoId": "gr4_en7_v2",
+      "question": "How does the train cross a river?",
+      "answer": "Trains cross rivers using railway bridges! These are strong bridges built specially to hold the weight of heavy trains. Some bridges are very old and made of iron, while newer ones use steel and concrete. The Pamban Bridge in Tamil Nadu goes over the sea to reach Rameswaram island. When your train crosses a bridge, look out the window - you can often see the water flowing below!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en7_006",
+      "videoId": "gr4_en7_v3",
+      "question": "What does a station master do?",
+      "answer": "The station master is in charge of a railway station. Their main job is to make sure trains arrive and depart safely and on time. They control the signals (green for go, red for stop), communicate with other stations, manage the tracks, and keep records of all train movements. Without the station master, trains would not know when it is safe to enter or leave a station!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en7_007",
+      "videoId": "gr4_en7_v3",
+      "question": "Why do vendors on trains call out loudly?",
+      "answer": "Vendors on trains call out the names of what they are selling so passengers can hear them from inside the compartments. You might hear 'Chai, chai, garam chai!' (tea), 'Samosa, vada!' (snacks), or 'Paani, thanda paani!' (water). This is their way of advertising without any signs or screens. Each vendor has a special way of calling that passengers recognise. It is a very Indian part of train travel!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en7_008",
+      "videoId": "gr4_en7_v3",
+      "question": "What is a level crossing and why do gates close?",
+      "answer": "A level crossing is a place where a road and a railway track cross each other at the same level (same height). When a train is approaching, the crossing gates are closed to stop cars, bikes, and people from going on the tracks. A gatekeeper operates the gates. This is very important for safety because trains cannot stop quickly. You should always wait for the gates to open fully before crossing!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en7_009",
+      "videoId": "gr4_en7_v4",
+      "question": "How long is the Indian railway network?",
+      "answer": "Indian Railways has one of the largest railway networks in the world, with over 67,000 km of track! That is enough to go around the Earth almost twice. Indian Railways runs about 13,000 trains every day and carries over 23 million passengers daily. It connects big cities, small towns, and even remote areas, making it the lifeline of India's transport system.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en7_010",
+      "videoId": "gr4_en7_v4",
+      "question": "What is a travel diary and how can I keep one?",
+      "answer": "A travel diary is a notebook where you write down what you see, hear, feel, and learn during a journey. Here is how to keep one: (1) Write the date and where you are going. (2) Draw or describe the scenery you see from the window. (3) Note down interesting things - a new type of tree, a river, a different kind of house. (4) Write about the people you meet and the food you try. (5) Paste your ticket or any small souvenirs. A travel diary becomes a wonderful memory of your trip!",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

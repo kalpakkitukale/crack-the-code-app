@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_eng_ch3",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_e3",
+    "title": "Adjectives — Describing Words and Comparisons",
+    "content": "This chapter teaches students about adjectives, the describing words that make our language colourful and clear. Students will learn to identify adjectives, understand how they describe nouns by telling about size, colour, shape, number, and quality, and discover how to place them correctly in sentences. The chapter also covers comparison — how to use adjectives to compare two things (comparative form) and three or more things (superlative form), including important irregular adjectives like good-better-best.",
+    "keyPoints": [
+      "Adjectives are words that describe nouns",
+      "They tell about size, colour, shape, number, quality, and feelings",
+      "Adjectives can come before a noun or after is/was/are",
+      "Comparative form (-er or more) compares two things",
+      "Superlative form (-est or most) compares three or more things",
+      "Some adjectives are irregular and must be memorised"
+    ],
+    "learningObjectives": [
+      "Identify adjectives in sentences",
+      "Use adjectives to describe nouns clearly",
+      "Form the comparative degree of adjectives correctly",
+      "Form the superlative degree of adjectives correctly",
+      "Recognise and use common irregular adjectives"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_e3_001",
+      "title": "Quick Test to Find Adjectives",
+      "content": "When reading a sentence, ask three questions about each noun: 'What kind?', 'How many?', and 'Which one?'. Any word that answers these questions is an adjective. Try this on the sentence: 'Two little kittens played with a shiny ball.' (Two = how many, little = what kind, shiny = what kind.)",
+      "tags": ["study-tip", "practice"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_e3_002",
+      "title": "Spelling Rules for Comparison",
+      "content": "Remember these three spelling rules when adding -er or -est: (1) If the adjective ends in 'e', just add -r or -st (nice - nicer - nicest). (2) If it ends in consonant-vowel-consonant, double the last letter (big - bigger - biggest). (3) If it ends in 'y', change 'y' to 'i' (happy - happier - happiest).",
+      "tags": ["key-concept", "spelling"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_e3_003",
+      "title": "Irregular Adjectives Cheat Sheet",
+      "content": "These adjectives break the rules — memorise them! Good - better - best. Bad - worse - worst. Many/much - more - most. Little - less - least. Far - farther - farthest. Write each set five times to help them stick in your memory.",
+      "tags": ["important", "common-mistake"],
+      "isPinned": false
+    }
+  ]
+}

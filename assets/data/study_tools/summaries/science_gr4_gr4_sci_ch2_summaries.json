@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_sci_ch2",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_sc2_v1",
+      "videoId": "gr4_sc2_v1",
+      "content": "This lesson introduces the different food groups and why each one is important for our body. Foods are divided into three main groups based on what they do: energy-giving foods (carbohydrates and fats like rice, roti, and ghee), body-building foods (proteins like dal, milk, and eggs), and protective foods (vitamins and minerals from fruits and vegetables). We also need water and roughage every day to keep our body working well.",
+      "keyPoints": [
+        "Food is divided into three main groups: energy-giving, body-building, and protective",
+        "Carbohydrates in rice and roti give us energy to play and study",
+        "Proteins in dal, milk, and eggs help our body grow and repair",
+        "Vitamins and minerals in fruits and vegetables protect us from diseases"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_sc2_v2",
+      "videoId": "gr4_sc2_v2",
+      "content": "This lesson explains what a balanced diet is and why it is important. A balanced diet means eating the right amount of food from all food groups in every meal. An Indian thali with roti, dal, sabzi, rice, salad, and curd is a great example. The lesson also covers important vitamins and minerals: Vitamin A for eyes, Vitamin C for fighting infections, calcium for bones, and iron for blood.",
+      "keyPoints": [
+        "A balanced diet includes food from all food groups in the right amounts",
+        "An Indian thali is a good example of a balanced meal",
+        "Different vitamins help different parts of our body",
+        "Calcium makes bones strong and iron keeps blood healthy"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_sc2_v3",
+      "videoId": "gr4_sc2_v3",
+      "content": "This lesson teaches healthy eating habits and the harmful effects of junk food. Good habits include washing hands before eating, eating at regular times, chewing food properly, and drinking plenty of water. Junk foods like chips, cold drinks, and excessive sweets are high in oil, sugar, and salt but low in nutrients. Eating too much junk food can lead to tooth decay, obesity, and poor health.",
+      "keyPoints": [
+        "Washing hands and eating on time are important healthy habits",
+        "Chewing food properly helps in better digestion",
+        "Junk food has too much oil, sugar, and salt with very few nutrients",
+        "Eating too much junk food can cause tooth problems and make us sick"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_sc2_v4",
+      "videoId": "gr4_sc2_v4",
+      "content": "This lesson explains how our body digests the food we eat. Digestion begins in the mouth where teeth chew food and saliva makes it soft. The food then travels down to the stomach where digestive juices break it into a thick paste. In the small intestine, nutrients are absorbed into the blood and sent to all parts of the body. The large intestine absorbs water, and leftover waste is removed from the body.",
+      "keyPoints": [
+        "Digestion starts in the mouth with chewing and saliva",
+        "The stomach uses digestive juices to break food into paste",
+        "The small intestine absorbs nutrients into the blood",
+        "The large intestine absorbs water and removes waste from the body"
+      ],
+      "source": "manual"
+    }
+  ]
+}

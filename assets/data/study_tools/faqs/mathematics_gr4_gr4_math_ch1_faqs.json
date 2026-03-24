@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ch1",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_m1_001",
+      "videoId": "gr4_m1_v1",
+      "question": "Why is place value important?",
+      "answer": "Place value helps us understand the true worth of each digit in a number. Without it, we couldn't tell the difference between 45 and 54, even though they have the same digits! It's the foundation for all math operations with numbers.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_m1_002",
+      "videoId": "gr4_m1_v1",
+      "question": "How do I remember the order of place values?",
+      "answer": "Start from the right and go left: Ones, Tens, Hundreds, Thousands, Ten Thousands, Hundred Thousands, Millions. You can remember that each position is 10 times bigger than the one to its right.",
+      "status": "answered",
+      "upvotes": 12
+    },
+    {
+      "id": "faq_gr4_m1_003",
+      "videoId": "gr4_m1_v2",
+      "question": "What does zero do in a number?",
+      "answer": "Zero is a placeholder! In 305, the zero keeps the 3 in the hundreds place. Without the zero, it would just be 35, which is a completely different number. Zero holds the position even though it adds no value itself.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_m1_004",
+      "videoId": "gr4_m1_v3",
+      "question": "Why does the bigger number get the open part of the symbol?",
+      "answer": "Think of the > or < symbols like an alligator's mouth - the alligator always wants to eat the bigger number! So the open (hungry) side always faces the larger number.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_m1_005",
+      "videoId": "gr4_m1_v3",
+      "question": "What if two numbers have the same digits but in different order?",
+      "answer": "Compare them digit by digit starting from the left (the biggest place value). For example, 54 vs 45: both have 5 and 4, but 54 has 5 in the tens place (50) while 45 has 4 in the tens place (40). Since 50 > 40, we know 54 > 45.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_m1_006",
+      "videoId": "gr4_m1_v4",
+      "question": "How do I find the rule in a number pattern?",
+      "answer": "Look at what changes between consecutive numbers. Ask: Are numbers going up or down? By how much? Is it adding, subtracting, multiplying, or dividing? Try your rule on all numbers to make sure it works!",
+      "status": "answered",
+      "upvotes": 14
+    },
+    {
+      "id": "faq_gr4_m1_007",
+      "videoId": "gr4_m1_v4",
+      "question": "Can a pattern have more than one rule?",
+      "answer": "Yes! Some patterns alternate or combine rules. For example: 1, 2, 4, 5, 7, 8, 10... This pattern adds 1, then adds 2, then adds 1, then adds 2. Always check multiple numbers to confirm the pattern.",
+      "status": "answered",
+      "upvotes": 10
+    },
+    {
+      "id": "faq_gr4_m1_008",
+      "videoId": "gr4_m1_v5",
+      "question": "When would I ever use millions in real life?",
+      "answer": "Millions are everywhere! Population of cities (Mumbai has over 20 million people), distances in space, money in budgets, views on YouTube videos, and prices of expensive things like houses or sports teams. Understanding millions helps you make sense of news and big numbers!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_m1_009",
+      "videoId": "gr4_m1_v5",
+      "question": "Why do we use commas in large numbers?",
+      "answer": "Commas make large numbers easier to read! They separate groups of three digits. So instead of 1234567, we write 1,234,567. The commas help you quickly see that it's 'one million, two hundred thirty-four thousand, five hundred sixty-seven'.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_m1_010",
+      "videoId": "gr4_m1_v2",
+      "question": "What comes after millions?",
+      "answer": "After millions come billions (1,000,000,000 - nine zeros), then trillions (twelve zeros), then quadrillions (fifteen zeros). Each is 1,000 times bigger than the previous! These are used for things like national budgets and distances in outer space.",
+      "status": "answered",
+      "upvotes": 19
+    }
+  ]
+}

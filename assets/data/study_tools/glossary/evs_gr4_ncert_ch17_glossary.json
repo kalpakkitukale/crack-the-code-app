@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch17",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_17_001",
+      "term": "City",
+      "definition": "A large town with many buildings, roads, shops, hospitals, and schools where lots of people live and work.",
+      "pronunciation": "SIH-tee",
+      "exampleUsage": "Mumbai is the biggest city in India.",
+      "difficulty": "easy",
+      "relatedTerms": ["town", "urban", "metro"]
+    },
+    {
+      "id": "gls_evs_17_002",
+      "term": "Flat",
+      "definition": "A home inside a tall building, also called an apartment. Many families live in different flats in the same building.",
+      "pronunciation": "FLAT",
+      "exampleUsage": "Nandita's aunt lives in a flat on the fifth floor.",
+      "difficulty": "easy",
+      "relatedTerms": ["apartment", "building", "house"]
+    },
+    {
+      "id": "gls_evs_17_003",
+      "term": "Chawl",
+      "definition": "An old-style building in Mumbai where many families live in small rooms and share common spaces like corridors and bathrooms.",
+      "pronunciation": "CHAWL",
+      "exampleUsage": "In the chawl, all the children played together in the common area.",
+      "difficulty": "medium",
+      "relatedTerms": ["housing", "shared living", "Mumbai"]
+    },
+    {
+      "id": "gls_evs_17_004",
+      "term": "Local Train",
+      "definition": "A train that runs short distances within a city, stopping at many stations. Mumbai's local trains are the lifeline of the city.",
+      "pronunciation": "LOH-kul trayn",
+      "exampleUsage": "Millions of people travel by local train in Mumbai every day.",
+      "difficulty": "easy",
+      "relatedTerms": ["railway", "commute", "station"]
+    },
+    {
+      "id": "gls_evs_17_005",
+      "term": "Traffic",
+      "definition": "The movement of vehicles on a road. When too many vehicles are on the road, there is a traffic jam.",
+      "pronunciation": "TRAH-fik",
+      "exampleUsage": "The traffic in Mumbai can be very heavy during office hours.",
+      "difficulty": "easy",
+      "relatedTerms": ["vehicles", "road", "jam"]
+    },
+    {
+      "id": "gls_evs_17_006",
+      "term": "Slum",
+      "definition": "An area in a city where people live in small, crowded homes made of tin sheets or other materials, often without proper water or toilets.",
+      "pronunciation": "SLUM",
+      "exampleUsage": "Many families in the slum share a common water tap.",
+      "difficulty": "medium",
+      "relatedTerms": ["housing", "poverty", "jhuggi"]
+    },
+    {
+      "id": "gls_evs_17_007",
+      "term": "Dabbawala",
+      "definition": "A person in Mumbai who picks up lunch boxes from homes and delivers them to offices, and returns the empty boxes.",
+      "pronunciation": "DUB-bah-wah-lah",
+      "exampleUsage": "The dabbawala delivered Amma's lunch to Papa's office on time.",
+      "difficulty": "easy",
+      "relatedTerms": ["lunch box", "delivery", "Mumbai"]
+    },
+    {
+      "id": "gls_evs_17_008",
+      "term": "Pollution",
+      "definition": "When harmful things like smoke, waste, and chemicals make the air, water, or land dirty and unhealthy.",
+      "pronunciation": "poh-LOO-shun",
+      "exampleUsage": "Air pollution from vehicles makes it hard to breathe in big cities.",
+      "difficulty": "medium",
+      "relatedTerms": ["smoke", "waste", "environment"]
+    },
+    {
+      "id": "gls_evs_17_009",
+      "term": "Metro",
+      "definition": "A fast electric train system in cities that often runs underground or on elevated tracks to avoid road traffic.",
+      "pronunciation": "MEH-troh",
+      "exampleUsage": "The Delhi Metro helps people travel quickly across the city.",
+      "difficulty": "easy",
+      "relatedTerms": ["train", "underground", "transport"]
+    },
+    {
+      "id": "gls_evs_17_010",
+      "term": "Footpath",
+      "definition": "A paved path on the side of the road meant for people to walk on safely, away from vehicles.",
+      "pronunciation": "FOOT-pahth",
+      "exampleUsage": "We should always walk on the footpath, not on the road.",
+      "difficulty": "easy",
+      "relatedTerms": ["pavement", "sidewalk", "pedestrian"]
+    }
+  ]
+}

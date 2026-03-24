@@ -1,0 +1,48 @@
+# Codecov Configuration
+# https://docs.codecov.com/docs/codecovyml-reference
+
+coverage:
+  precision: 2
+  round: down
+  range: "30...100"
+
+  status:
+    project:
+      default:
+        # Minimum coverage required
+        target: 30%
+        # Allow coverage to drop by this amount
+        threshold: 5%
+        # Only check coverage on files that changed
+        if_ci_failed: error
+    patch:
+      default:
+        # New code should be well tested
+        target: 50%
+        threshold: 10%
+
+parsers:
+  gcov:
+    branch_detection:
+      conditional: yes
+      loop: yes
+      method: no
+      macro: no
+
+ignore:
+  # Ignore generated files
+  - "**/*.g.dart"
+  - "**/*.freezed.dart"
+  - "**/generated/**"
+  # Ignore test files
+  - "test/**"
+  - "**/mocks/**"
+  - "**/fixtures/**"
+  # Ignore main entry points (hard to test)
+  - "lib/main.dart"
+  - "lib/main_*.dart"
+
+comment:
+  layout: "reach,diff,flags,files"
+  behavior: default
+  require_changes: false

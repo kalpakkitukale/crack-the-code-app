@@ -1,0 +1,296 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch9",
+  "topicId": "gr4_mn_9_1",
+  "topicName": "Equal Groups",
+  "chapterId": "gr4_math_ncert_ch9",
+  "chapterName": "Equal Groups",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about multiplication through equal groups",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "repeated_addition",
+      "conceptName": "Repeated addition (adding the same number)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq9_1", "rq9_2", "rq9_3"],
+      "remedialVideoIds": ["prereq_ch9_addition_v1"]
+    },
+    {
+      "conceptId": "skip_counting",
+      "conceptName": "Skip counting by 2s, 3s, and 5s",
+      "importance": "critical",
+      "questionsTestingThis": ["rq9_4", "rq9_5", "rq9_6"],
+      "remedialVideoIds": ["prereq_ch9_skipcounting_v1"]
+    },
+    {
+      "conceptId": "grouping_objects",
+      "conceptName": "Grouping objects into equal groups",
+      "importance": "important",
+      "questionsTestingThis": ["rq9_7", "rq9_8"],
+      "remedialVideoIds": ["prereq_ch9_grouping_v1"]
+    },
+    {
+      "conceptId": "number_sense",
+      "conceptName": "Basic number sense and understanding of numbers",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq9_9", "rq9_10"],
+      "remedialVideoIds": ["prereq_ch9_addition_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq9_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "repeated_addition",
+      "question": "What is 3 + 3 + 3?",
+      "options": ["6", "8", "9", "12"],
+      "correctAnswer": 2,
+      "correctAnswerText": "9",
+      "explanation": "3 + 3 + 3 means adding 3 three times. 3 + 3 = 6, then 6 + 3 = 9. So the answer is 9!",
+      "tags": ["repeated addition", "basic"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Only added 3 + 3 and stopped",
+          "conceptGap": "Need to add all three numbers",
+          "remediation": "Practice counting all the groups"
+        }
+      ]
+    },
+    {
+      "id": "rq9_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "repeated_addition",
+      "question": "What is 5 + 5 + 5 + 5?",
+      "options": ["15", "20", "25", "10"],
+      "correctAnswer": 1,
+      "correctAnswerText": "20",
+      "explanation": "5 + 5 + 5 + 5 means adding 5 four times. 5 + 5 = 10, 10 + 5 = 15, 15 + 5 = 20. The answer is 20!",
+      "tags": ["repeated addition", "basic"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added only three 5s instead of four",
+          "conceptGap": "Need to count how many times to add",
+          "remediation": "Count the number of 5s first, then add"
+        }
+      ]
+    },
+    {
+      "id": "rq9_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "repeated_addition",
+      "question": "Anu has 4 bags. Each bag has 2 marbles. She writes 2 + 2 + 2 + 2 to find the total. What is the total?",
+      "options": ["6", "8", "10", "4"],
+      "correctAnswer": 1,
+      "correctAnswerText": "8",
+      "explanation": "4 bags with 2 marbles each: 2 + 2 + 2 + 2 = 8 marbles in total. Great job!",
+      "tags": ["repeated addition", "word problem", "basic"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq9_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "skip_counting",
+      "question": "Count by 2s: 2, 4, 6, 8, ___. What comes next?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": 1,
+      "correctAnswerText": "10",
+      "explanation": "When we count by 2s, we add 2 each time: 2, 4, 6, 8, 10. The next number is 10!",
+      "tags": ["skip counting", "count by 2s", "basic"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 2",
+          "conceptGap": "Understanding skip counting means adding the same number each time",
+          "remediation": "Practice counting by 2s using a number line"
+        }
+      ]
+    },
+    {
+      "id": "rq9_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "skip_counting",
+      "question": "Count by 5s: 5, 10, 15, ___. What comes next?",
+      "options": ["16", "18", "20", "25"],
+      "correctAnswer": 2,
+      "correctAnswerText": "20",
+      "explanation": "When we count by 5s, we add 5 each time: 5, 10, 15, 20. The next number is 20!",
+      "tags": ["skip counting", "count by 5s", "basic"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq9_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "skip_counting",
+      "question": "Count by 3s: 3, 6, 9, 12, ___. What comes next?",
+      "options": ["13", "14", "15", "16"],
+      "correctAnswer": 2,
+      "correctAnswerText": "15",
+      "explanation": "When we count by 3s, we add 3 each time: 3, 6, 9, 12, 15. The next number is 15!",
+      "tags": ["skip counting", "count by 3s", "intermediate"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 3",
+          "conceptGap": "Not following the skip counting pattern",
+          "remediation": "Find the difference between each number in the pattern"
+        }
+      ]
+    },
+    {
+      "id": "rq9_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "grouping_objects",
+      "question": "Ravi has 12 pencils. He puts them into groups of 4. How many groups does he make?",
+      "options": ["2 groups", "3 groups", "4 groups", "6 groups"],
+      "correctAnswer": 1,
+      "correctAnswerText": "3 groups",
+      "explanation": "12 pencils in groups of 4: Group 1 has 4, Group 2 has 4, Group 3 has 4. That is 3 groups! 4 + 4 + 4 = 12.",
+      "tags": ["grouping", "equal groups", "basic"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Confused the group size with the number of groups",
+          "conceptGap": "Understanding the difference between group size and number of groups",
+          "remediation": "Use objects to physically make groups"
+        }
+      ]
+    },
+    {
+      "id": "rq9_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "grouping_objects",
+      "question": "There are 15 flowers. Priya puts 5 flowers in each vase. How many vases does she need?",
+      "options": ["2 vases", "3 vases", "4 vases", "5 vases"],
+      "correctAnswer": 1,
+      "correctAnswerText": "3 vases",
+      "explanation": "15 flowers with 5 in each vase: 5 + 5 + 5 = 15. She needs 3 vases!",
+      "tags": ["grouping", "equal groups", "intermediate"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq9_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_sense",
+      "question": "Which number is the same as 2 tens and 4 ones?",
+      "options": ["42", "24", "204", "14"],
+      "correctAnswer": 1,
+      "correctAnswerText": "24",
+      "explanation": "2 tens = 20 and 4 ones = 4. Together they make 20 + 4 = 24!",
+      "tags": ["number sense", "place value", "basic"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Reversed the tens and ones",
+          "conceptGap": "Understanding place value - tens come first",
+          "remediation": "Practice with a place value chart"
+        }
+      ]
+    },
+    {
+      "id": "rq9_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "number_sense",
+      "question": "What is 4 + 4 + 4 + 4 + 4? (Hint: count by 4s!)",
+      "options": ["16", "18", "20", "24"],
+      "correctAnswer": 2,
+      "correctAnswerText": "20",
+      "explanation": "4 + 4 + 4 + 4 + 4 means adding 4 five times. You can count by 4s: 4, 8, 12, 16, 20. The answer is 20!",
+      "tags": ["number sense", "repeated addition", "intermediate"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": []
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You are great at adding groups and skip counting. You are ready to learn about multiplication!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You understand grouping and counting well. Let's learn about equal groups and multiplication!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some understanding but need to review adding groups and skip counting. Watch the review videos first.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review how to add the same number again and again, and how to count by 2s, 3s, and 5s. We'll watch some fun videos before learning multiplication.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We'll show you some fun videos about adding groups and skip counting first.",
+    "high_score_praise": "Awesome! You're all set to learn about multiplication with equal groups!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

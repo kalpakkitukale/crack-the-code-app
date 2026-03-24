@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch5",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en5_bees",
+      "name": "About Honeybees",
+      "description": "Learn about honeybees and how they live",
+      "topicId": "gr4_evn_5_1",
+      "chapterId": "gr4_evs_ncert_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_en5_001",
+          "front": "Where do honeybees live?",
+          "back": "Honeybees live together in a hive (or beehive). The hive is made of wax and has thousands of tiny six-sided rooms called cells. A single hive can have 20,000 to 60,000 bees living together!",
+          "hint": "Think about a busy home with many rooms",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en5_002",
+          "front": "What are the three types of bees in a hive?",
+          "back": "A beehive has three types of bees: the Queen Bee (one per hive, lays eggs), Worker Bees (thousands of females who collect nectar, make honey, and protect the hive), and Drone Bees (males whose job is to help the queen).",
+          "hint": "Think about a kingdom with a queen",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en5_003",
+          "front": "What is the job of the Queen Bee?",
+          "back": "The Queen Bee is the most important bee in the hive. Her main job is to lay eggs - she can lay up to 2,000 eggs in a single day! There is only one queen in each hive, and she is larger than the other bees.",
+          "hint": "She is the mother of all bees in the hive",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en5_004",
+          "front": "Why do bees do a special dance?",
+          "back": "When a worker bee finds flowers with nectar, it goes back to the hive and does a 'waggle dance' to tell other bees where the flowers are. The direction and speed of the dance shows how far away and in which direction the flowers are!",
+          "hint": "It is their way of giving directions",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en5_005",
+          "front": "Why do bees sting?",
+          "back": "Bees sting only to protect themselves or their hive. A bee can sting only once because its stinger gets stuck and the bee dies after stinging. So bees sting only when they feel truly threatened. If you stay calm near bees, they usually will not sting you.",
+          "hint": "They sting only when they feel danger",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en5_honey",
+      "name": "How Honey is Made",
+      "description": "Discover the amazing process of honey-making",
+      "topicId": "gr4_evn_5_2",
+      "chapterId": "gr4_evs_ncert_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_en5_006",
+          "front": "How do bees make honey?",
+          "back": "Bees fly to flowers and suck up a sweet liquid called nectar using their long tongue. They store it in a special honey stomach. Back at the hive, they pass the nectar to other bees who chew it and store it in wax cells. Then they fan it with their wings to dry it. This turns nectar into thick, sweet honey!",
+          "hint": "It starts with flowers and nectar",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en5_007",
+          "front": "What is nectar?",
+          "back": "Nectar is a sweet, sugary liquid that flowers produce to attract bees and other insects. When bees come to drink nectar, they also carry pollen from one flower to another, helping plants make seeds and fruits.",
+          "hint": "It is the sweet liquid inside flowers",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en5_008",
+          "front": "What is pollination and why is it important?",
+          "back": "Pollination happens when pollen (a yellow powder) is carried from one flower to another. Bees do this naturally while collecting nectar - pollen sticks to their hairy bodies. Pollination helps plants produce fruits and seeds. Without bees, many fruits and vegetables we eat would not grow!",
+          "hint": "Think about the yellow powder on flowers",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en5_009",
+          "front": "What is beekeeping?",
+          "back": "Beekeeping (also called apiculture) is when people raise bees in special wooden boxes to collect honey. A beekeeper takes care of the bees and collects honey from the hives. Many families in India earn their living through beekeeping.",
+          "hint": "People who keep bees for honey",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en5_010",
+          "front": "How many flowers must bees visit to make one jar of honey?",
+          "back": "To make just one kilogram of honey, bees must visit about 40 lakh (4 million) flowers! A single bee makes only about one-twelfth of a teaspoon of honey in its entire lifetime. That is why honey is so precious!",
+          "hint": "It takes a LOT of flowers",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

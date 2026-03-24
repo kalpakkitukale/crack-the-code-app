@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch10",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en10",
+    "title": "Hu Tu Tu, Hu Tu Tu",
+    "content": "This chapter from the NCERT Looking Around textbook celebrates traditional Indian games, especially kabaddi. The title comes from the chanting sound 'hu tu tu' made by kabaddi players. Students learn about kabaddi and its rules, as well as many other traditional games like kho-kho, gilli-danda, hopscotch (stapu), marbles (kanche), and spinning tops (lattoo). The chapter highlights that these games have been played for hundreds of years across India and need little or no equipment. It teaches children the value of outdoor play, teamwork, fair play, and physical fitness. The chapter also discusses how traditional games are part of India's rich cultural heritage and encourages students to play them instead of spending all their time on screens.",
+    "keyPoints": [
+      "Kabaddi is a traditional Indian game where raiders chant 'hu tu tu' or 'kabaddi' in one breath",
+      "India has many traditional games like kho-kho, gilli-danda, hopscotch, and marbles",
+      "Most traditional games need no expensive equipment - just open space and friends",
+      "These games build physical fitness, teamwork, and fair play",
+      "Different regions of India have their own special games with local names",
+      "Kabaddi is now an international sport played in the Asian Games"
+    ],
+    "learningObjectives": [
+      "Describe how kabaddi is played and explain its basic rules",
+      "Name at least five traditional Indian games and briefly explain how they are played",
+      "Explain why traditional games are important for health and culture",
+      "Compare traditional games with modern video games and discuss the benefits of each",
+      "Appreciate the cultural heritage of Indian games and the importance of keeping them alive"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en10_001",
+      "title": "Games Survey Activity",
+      "content": "Ask five elders in your family or neighbourhood about the games they played as children. Write down the name of each game, how it was played, and how many players were needed. Make a colourful chart showing these games and present it to your class. You might discover games you have never heard of before!",
+      "tags": ["activity", "interview"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en10_002",
+      "title": "Organise a Traditional Games Day",
+      "content": "Talk to your teacher about organising a Traditional Games Day at school! Set up stations for different games - kabaddi, kho-kho, hopscotch, marbles, and gilli-danda. Each student can try all the games and pick their favourite. You can also invite grandparents to come and teach the games. This is a great way to learn about our heritage while having fun!",
+      "tags": ["activity", "school-event"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en10_003",
+      "title": "Did You Know - Games That Went International!",
+      "content": "Kabaddi was included in the Asian Games in 1990 and India has won gold almost every time! The Pro Kabaddi League started in 2014 and became one of the most watched sports leagues in India. Kho-kho is trying to become an Olympic sport. Even chess was invented in India as 'Chaturanga' about 1,500 years ago. Snakes and Ladders was invented in India as 'Moksha Patam' to teach children about good and bad deeds!",
+      "tags": ["fun-fact", "sports"],
+      "isPinned": false
+    }
+  ]
+}

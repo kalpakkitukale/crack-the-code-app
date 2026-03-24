@@ -1,0 +1,49 @@
+{
+  "id": "evs_gr6",
+  "name": "Environmental Studies",
+  "icon": "eco",
+  "color": "#7ED321",
+  "boardId": "cbse_elementary",
+  "classId": "class_6",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["evs", "environment", "grade 6", "nature"],
+  "chapters": [
+    {
+      "id": "gr6_evs_ch1",
+      "number": 1,
+      "name": "Our Environment",
+      "description": "Understanding ecosystems and environment",
+      "keywords": ["environment", "ecosystem", "nature"],
+      "topics": [
+        {"id": "gr6_ev_1_1", "name": "Ecosystems", "difficulty": "intermediate", "videoCount": 4, "keywords": ["ecosystem", "habitats"]},
+        {"id": "gr6_ev_1_2", "name": "Air and Water", "difficulty": "basic", "videoCount": 4, "keywords": ["air", "water", "pollution"]},
+        {"id": "gr6_ev_1_3", "name": "Conservation", "difficulty": "intermediate", "videoCount": 3, "keywords": ["conservation", "protection"]}
+      ]
+    },
+    {
+      "id": "gr6_evs_ch2",
+      "number": 2,
+      "name": "Plants and Animals",
+      "description": "Diversity in living things",
+      "keywords": ["plants", "animals", "biodiversity"],
+      "topics": [
+        {"id": "gr6_ev_2_1", "name": "Plant Life", "difficulty": "basic", "videoCount": 4, "keywords": ["plants", "types"]},
+        {"id": "gr6_ev_2_2", "name": "Animal Kingdom", "difficulty": "intermediate", "videoCount": 4, "keywords": ["animals", "classification"]},
+        {"id": "gr6_ev_2_3", "name": "Habitats", "difficulty": "basic", "videoCount": 3, "keywords": ["habitats", "homes"]}
+      ]
+    },
+    {
+      "id": "gr6_evs_ch3",
+      "number": 3,
+      "name": "Natural Resources",
+      "description": "Earth's resources and their uses",
+      "keywords": ["resources", "renewable", "conservation"],
+      "topics": [
+        {"id": "gr6_ev_3_1", "name": "Types of Resources", "difficulty": "basic", "videoCount": 3, "keywords": ["renewable", "non-renewable"]},
+        {"id": "gr6_ev_3_2", "name": "Water Resources", "difficulty": "intermediate", "videoCount": 4, "keywords": ["water", "conservation"]},
+        {"id": "gr6_ev_3_3", "name": "Energy Sources", "difficulty": "intermediate", "videoCount": 4, "keywords": ["energy", "solar", "wind"]}
+      ]
+    }
+  ]
+}

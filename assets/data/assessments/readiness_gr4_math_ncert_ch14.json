@@ -1,0 +1,303 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch14",
+  "topicId": "gr4_mn_14_1",
+  "topicName": "Collecting and Organising Data",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about collecting data, tally marks, pictographs, bar graphs, and interpreting data",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "counting_sorting",
+      "conceptName": "Counting objects and sorting them into groups",
+      "importance": "critical",
+      "questionsTestingThis": ["rq14_1", "rq14_2", "rq14_3"],
+      "remedialVideoIds": ["prereq_ch14_counting_v1"]
+    },
+    {
+      "conceptId": "comparison_vocabulary",
+      "conceptName": "Using comparison words like more, less, most, and least",
+      "importance": "critical",
+      "questionsTestingThis": ["rq14_4", "rq14_5", "rq14_6"],
+      "remedialVideoIds": ["prereq_ch14_comparison_v1"]
+    },
+    {
+      "conceptId": "reading_numbers",
+      "conceptName": "Reading numbers and understanding number values up to 100",
+      "importance": "important",
+      "questionsTestingThis": ["rq14_7", "rq14_8"],
+      "remedialVideoIds": ["prereq_ch14_numbers_v1"]
+    },
+    {
+      "conceptId": "basic_addition",
+      "conceptName": "Adding small numbers to find totals",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq14_9", "rq14_10"],
+      "remedialVideoIds": ["prereq_ch14_numbers_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq14_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_sorting",
+      "question": "A bag has 3 red balls, 5 blue balls, and 2 green balls. How many balls are there in all?",
+      "options": ["8", "10", "5", "7"],
+      "correctAnswer": 1,
+      "correctAnswerText": "10",
+      "explanation": "Count all the balls: 3 red + 5 blue + 2 green = 10 balls in total.",
+      "tags": ["counting", "total", "sorting by colour"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added only two groups and missed one",
+          "conceptGap": "Forgetting to count all the groups",
+          "remediation": "Count each group carefully and add them all together"
+        }
+      ]
+    },
+    {
+      "id": "rq14_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_sorting",
+      "question": "Which of these is a way to sort a collection of fruits?",
+      "options": ["By colour", "By throwing them", "By eating them", "By hiding them"],
+      "correctAnswer": 0,
+      "correctAnswerText": "By colour",
+      "explanation": "We can sort fruits by colour (red apples, yellow bananas, green grapes). Sorting means putting similar things together in groups.",
+      "tags": ["sorting", "classifying", "grouping"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq14_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_sorting",
+      "question": "In a class, 8 children like mango, 6 like apple, and 4 like banana. How many children were asked about their favourite fruit?",
+      "options": ["8", "14", "18", "6"],
+      "correctAnswer": 2,
+      "correctAnswerText": "18",
+      "explanation": "To find the total number of children, add all the groups: 8 + 6 + 4 = 18 children.",
+      "tags": ["counting", "total", "data collection"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Added only two groups instead of all three",
+          "conceptGap": "Not counting all the categories when finding the total",
+          "remediation": "Make sure to add every group when finding the total"
+        }
+      ]
+    },
+    {
+      "id": "rq14_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparison_vocabulary",
+      "question": "There are 9 cats and 5 dogs. Which group has more animals?",
+      "options": ["Dogs", "Cats", "Both are equal", "Cannot tell"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Cats",
+      "explanation": "9 cats is more than 5 dogs. Since 9 > 5, the cats group has more animals.",
+      "tags": ["comparison", "more", "less"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq14_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparison_vocabulary",
+      "question": "Group A has 12 stickers, Group B has 7 stickers, and Group C has 15 stickers. Which group has the most stickers?",
+      "options": ["Group A", "Group B", "Group C", "All are equal"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Group C",
+      "explanation": "Compare the numbers: 12, 7, and 15. The biggest number is 15, so Group C has the most stickers.",
+      "tags": ["comparison", "most", "three groups"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Chose the first group listed instead of the largest",
+          "conceptGap": "Not comparing all groups to find the greatest value",
+          "remediation": "Look at the number for each group and pick the biggest one"
+        }
+      ]
+    },
+    {
+      "id": "rq14_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparison_vocabulary",
+      "question": "Riya has 4 pencils and Sam has 4 pencils. What can we say about their pencils?",
+      "options": ["Riya has more", "Sam has more", "They have an equal number", "Sam has the least"],
+      "correctAnswer": 2,
+      "correctAnswerText": "They have an equal number",
+      "explanation": "Riya has 4 and Sam has 4. Since both numbers are the same, they have an equal number of pencils.",
+      "tags": ["comparison", "equal", "same"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq14_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_numbers",
+      "question": "What number does the mark point to on a number line that goes 0, 10, 20, 30, 40, 50 if the mark is exactly at the third line?",
+      "options": ["3", "15", "20", "30"],
+      "correctAnswer": 2,
+      "correctAnswerText": "20",
+      "explanation": "The number line goes by 10s: 0 is the first mark, 10 is the second, and 20 is the third mark.",
+      "tags": ["number line", "reading numbers", "skip counting by 10"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted the mark as 3 instead of reading the scale",
+          "conceptGap": "Not reading the scale of the number line",
+          "remediation": "Always check what each mark on the number line stands for before reading a value"
+        }
+      ]
+    },
+    {
+      "id": "rq14_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "reading_numbers",
+      "question": "On a number line marked 0, 5, 10, 15, 20, 25, 30, what is the value halfway between 10 and 20?",
+      "options": ["12", "15", "13", "17"],
+      "correctAnswer": 1,
+      "correctAnswerText": "15",
+      "explanation": "Halfway between 10 and 20 is 15. You can see it marked right on the number line between these two numbers.",
+      "tags": ["number line", "midpoint", "reading scale"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Guessed a number between 10 and 20 without checking the scale",
+          "conceptGap": "Not understanding that halfway means exactly in the middle",
+          "remediation": "Find the exact middle by adding both numbers and dividing by 2, or look at the scale"
+        }
+      ]
+    },
+    {
+      "id": "rq14_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "basic_addition",
+      "question": "A shop sold 12 ice creams on Monday, 8 on Tuesday, and 15 on Wednesday. How many ice creams were sold in these three days?",
+      "options": ["20", "27", "35", "30"],
+      "correctAnswer": 2,
+      "correctAnswerText": "35",
+      "explanation": "Add the ice creams sold each day: 12 + 8 + 15 = 35 ice creams in total.",
+      "tags": ["addition", "total", "multi-step"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added only two of the three numbers",
+          "conceptGap": "Forgetting to include all values when finding a total",
+          "remediation": "Write down all the numbers first, then add them one by one"
+        }
+      ]
+    },
+    {
+      "id": "rq14_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "basic_addition",
+      "question": "In a survey, 6 children chose red, 9 chose blue, 3 chose yellow, and 7 chose green as their favourite colour. How many more children chose blue than yellow?",
+      "options": ["3", "6", "9", "12"],
+      "correctAnswer": 1,
+      "correctAnswerText": "6",
+      "explanation": "Blue was chosen by 9 children and yellow by 3 children. The difference is 9 - 3 = 6. So 6 more children chose blue than yellow.",
+      "tags": ["subtraction", "comparison", "difference", "data interpretation"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 55,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Gave the number who chose blue instead of the difference",
+          "conceptGap": "Confusing the total for a category with the difference between two categories",
+          "remediation": "When asked 'how many more', subtract the smaller number from the bigger number"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Wonderful! You are great at counting, comparing, and reading numbers. You are all set to learn about data handling, pictographs, and bar graphs!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Great job! You know how to count, sort, and compare really well. Let's learn how to show data using tally marks, pictographs, and bar graphs!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some basics, but let's review a few things first. Watch the review videos about counting, comparing, and reading numbers. Then you will be all set!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "No worries! Let's first watch some fun videos about counting, sorting, and comparing. Then you will be ready to learn how to make cool graphs and charts!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We have some fun videos to help you get ready. Data handling is like detective work and you are going to love it!",
+    "high_score_praise": "Awesome! You are a counting and comparing champion! Let's learn to make amazing graphs and charts!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

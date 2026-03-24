@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_math_ncert_ch9",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn9",
+    "title": "Equal Groups",
+    "content": "This chapter introduces multiplication as a way to count equal groups quickly. Students discover that when objects are arranged in groups of the same size, instead of adding them one by one, we can use multiplication. The chapter builds understanding through real-life equal groups (packets, bunches, rows), arrays (objects in rows and columns), and skip counting. Students learn the times tables from 2 to 10, discover helpful patterns and tricks, and understand special rules (multiplying by 0 and 1). The chapter concludes with word problems that help students spot equal groups in everyday situations and solve them using multiplication.",
+    "keyPoints": [
+      "Equal groups have the same number of objects in each group",
+      "Multiplication is repeated addition: 4 x 3 = 3 + 3 + 3 + 3 = 12",
+      "Arrays show multiplication as rows and columns of objects",
+      "Skip counting connects to times tables (count by 5: 5,10,15,20... = table of 5)",
+      "You can swap the numbers: 3 x 4 = 4 x 3",
+      "Any number x 0 = 0; any number x 1 = that number"
+    ],
+    "learningObjectives": [
+      "Understand multiplication as counting equal groups",
+      "Relate multiplication to repeated addition",
+      "Use arrays to visualise and solve multiplication problems",
+      "Connect skip counting to multiplication tables",
+      "Learn and recall times tables from 2 to 10",
+      "Solve word problems involving multiplication"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn9_001",
+      "title": "Quick Times Table Tricks",
+      "content": "Table of 2: Just double the number (2x6=12, 2x7=14). Table of 5: Answers always end in 0 or 5 (5,10,15,20,25...). Table of 10: Just add a zero to the number (10x3=30, 10x7=70). Table of 9: Digits of the answer add up to 9 (9x4=36, 3+6=9). Table of 4: Double the number, then double again (4x6: double 6=12, double 12=24). These tricks make memorising tables much easier!",
+      "tags": ["key-concept", "study-tip"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn9_002",
+      "title": "How to Spot Multiplication in Word Problems",
+      "content": "Look for these clue words: 'each', 'every', 'per', 'groups of', 'rows of', 'packets of'. Example: 'There are 7 trees. Each tree has 8 birds.' Clue word = 'each'. Groups = 7 trees. Number in each group = 8 birds. Answer = 7 x 8 = 56 birds. Always ask yourself: Are there equal groups? What is the size of each group? How many groups?",
+      "tags": ["study-tip", "word-problems"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn9_003",
+      "title": "Array Drawing Activity",
+      "content": "Practice multiplication by drawing arrays! For 3 x 6, draw 3 rows with 6 dots each. Count the total (18). Then turn the page and see 6 rows of 3 dots - still 18! Try drawing arrays for: 2x8, 4x5, 3x7. This activity helps you see why multiplication works and why swapping numbers gives the same answer.",
+      "tags": ["practice", "activity"],
+      "isPinned": false
+    }
+  ]
+}

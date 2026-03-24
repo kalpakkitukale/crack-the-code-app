@@ -1,0 +1,127 @@
+{
+  "chapterId": "gr4_math_ch1",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Large Numbers",
+      "description": "Understanding place value and large numbers",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_pv",
+      "label": "Place Value",
+      "description": "Value of a digit based on position",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_ones",
+      "label": "Ones",
+      "description": "First position from right",
+      "parentId": "node_pv",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_tens",
+      "label": "Tens",
+      "description": "Second position, x10",
+      "parentId": "node_pv",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_hundreds",
+      "label": "Hundreds",
+      "description": "Third position, x100",
+      "parentId": "node_pv",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_thousands",
+      "label": "Thousands",
+      "description": "Fourth position, x1000",
+      "parentId": "node_pv",
+      "positionX": -200,
+      "positionY": 280,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_compare",
+      "label": "Comparing Numbers",
+      "description": "Deciding which is greater or less",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_greater",
+      "label": "Greater Than (>)",
+      "description": "Symbol for larger numbers",
+      "parentId": "node_compare",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_less",
+      "label": "Less Than (<)",
+      "description": "Symbol for smaller numbers",
+      "parentId": "node_compare",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_patterns",
+      "label": "Number Patterns",
+      "description": "Sequences that follow rules",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_add_pattern",
+      "label": "Adding Pattern",
+      "description": "Each number increases by same amount",
+      "parentId": "node_patterns",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_mult_pattern",
+      "label": "Multiplying Pattern",
+      "description": "Each number multiplied by same amount",
+      "parentId": "node_patterns",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    }
+  ]
+}

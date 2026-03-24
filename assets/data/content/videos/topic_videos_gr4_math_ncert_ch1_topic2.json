@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn1_t2",
+  "topicId": "gr4_mn_1_2",
+  "topicName": "Faces, Edges and Vertices",
+  "chapterId": "gr4_math_ncert_ch1",
+  "chapterName": "Shapes Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1590,
+    "totalDurationDisplay": "26:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-35 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_1_1"],
+    "followUpTopics": ["gr4_mn_1_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn1_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "3D Shapes I Know | Faces, Edges and Vertices | Solid Shapes Song",
+      "description": "Learn about the faces, edges, and vertices of 3D shapes through a fun song! Discover how many flat faces a cube has, how many edges a pyramid has, and how to count the corners (vertices) of different solid shapes.",
+      "youtubeId": "2cg-Uc556-Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2cg-Uc556-Q",
+      "thumbnailUrl": "https://img.youtube.com/vi/2cg-Uc556-Q/hqdefault.jpg",
+      "duration": 210,
+      "durationDisplay": "3:30",
+      "channelName": "Harry Kindergarten Music",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 4200000,
+      "tags": ["faces", "edges", "vertices", "3D shapes", "solid shapes", "song", "cube", "pyramid"],
+      "learningObjectives": ["Understand what faces, edges, and vertices are", "Begin counting faces, edges, and vertices"],
+      "keyConceptsCovered": ["Face = flat surface of a 3D shape", "Edge = line where two faces meet", "Vertex = corner point where edges meet"],
+      "prerequisites": ["3D shape names"],
+      "followUpTopics": ["Counting faces, edges, vertices of each shape"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t2_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Counting Faces, Edges, and Vertices of 3D Shapes",
+      "description": "Learn to count the faces, edges, and vertices of cubes, rectangular prisms, pyramids, cylinders, and cones step by step. See clear diagrams for each shape.",
+      "youtubeId": "REjfX9cDavw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=REjfX9cDavw",
+      "thumbnailUrl": "https://img.youtube.com/vi/REjfX9cDavw/hqdefault.jpg",
+      "duration": 378,
+      "durationDisplay": "6:18",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["counting faces", "counting edges", "counting vertices", "3D shapes", "step by step"],
+      "learningObjectives": ["Count faces of common 3D shapes", "Count edges of common 3D shapes", "Count vertices of common 3D shapes"],
+      "keyConceptsCovered": ["Cube: 6 faces, 12 edges, 8 vertices", "Pyramid: 5 faces, 8 edges, 5 vertices", "Cylinder: 2 faces, 0 edges (curved), 0 vertices"],
+      "prerequisites": ["Faces, edges, vertices definitions"],
+      "followUpTopics": ["Comparing properties of shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t2_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Shape Properties Table | Organizing Faces, Edges, Vertices",
+      "description": "Learn to organize the number of faces, edges, and vertices of different 3D shapes in a neat table. Compare the properties of cubes, pyramids, prisms, and more!",
+      "youtubeId": "G79xAbas6Os",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G79xAbas6Os",
+      "thumbnailUrl": "https://img.youtube.com/vi/G79xAbas6Os/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 3500000,
+      "tags": ["shape properties", "table", "comparison", "faces", "edges", "vertices"],
+      "learningObjectives": ["Create a properties table for 3D shapes", "Compare shapes using their properties"],
+      "keyConceptsCovered": ["Comparing faces across shapes", "Organizing shape data in a table", "Noticing patterns in shape properties"],
+      "prerequisites": ["Counting faces, edges, vertices"],
+      "followUpTopics": ["Nets of 3D shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t2_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Faces, Edges, and Vertices Quiz | Test Yourself!",
+      "description": "Can you count the faces, edges, and vertices of different 3D shapes? Take this fun quiz and check your understanding!",
+      "youtubeId": "8v4JMFOmBKA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8v4JMFOmBKA",
+      "thumbnailUrl": "https://img.youtube.com/vi/8v4JMFOmBKA/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 800000,
+      "tags": ["quiz", "faces", "edges", "vertices", "practice"],
+      "learningObjectives": ["Test knowledge of shape properties", "Apply counting skills independently"],
+      "keyConceptsCovered": ["Self-assessment on faces, edges, vertices", "Multiple shape examples"],
+      "prerequisites": ["Counting faces, edges, vertices"],
+      "followUpTopics": ["Understanding angles"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t2_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Building 3D Shapes | Nets and Folding",
+      "description": "See how 3D shapes are made from flat 2D nets! Watch a cube net fold into a cube, count the faces on the net, and understand how edges and vertices come together.",
+      "youtubeId": "gqhGSbXFQ5E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gqhGSbXFQ5E",
+      "thumbnailUrl": "https://img.youtube.com/vi/gqhGSbXFQ5E/hqdefault.jpg",
+      "duration": 492,
+      "durationDisplay": "8:12",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["nets", "folding", "3D shapes", "building shapes", "hands-on"],
+      "learningObjectives": ["Understand how nets fold into 3D shapes", "Connect 2D faces to 3D shape properties"],
+      "keyConceptsCovered": ["Cube net has 6 square faces", "Folding a net creates edges where faces meet", "Vertices form where edges come together"],
+      "prerequisites": ["Faces, edges, vertices of 3D shapes"],
+      "followUpTopics": ["Understanding angles"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn1_v3", "gr4_mn1_t2_v2", "gr4_mn1_t2_v3", "gr4_mn1_t2_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1320,
+      "estimatedTimeDisplay": "22:00",
+      "rationale": "Fast-track through faces, edges, vertices with building challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn1_v3", "gr4_mn1_t2_v2", "gr4_mn1_t2_v3", "gr4_mn1_t2_v4", "gr4_mn1_t2_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1590,
+      "estimatedTimeDisplay": "26:30",
+      "rationale": "Complete coverage of faces, edges, and vertices with practice and nets"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn1_v3", "gr4_mn1_t2_v2", "gr4_mn1_t2_v3", "gr4_mn1_t2_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1098,
+      "estimatedTimeDisplay": "18:18",
+      "rationale": "Core faces, edges, vertices concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn1_v3", "gr4_mn1_t2_v2", "gr4_mn1_t2_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 828,
+      "estimatedTimeDisplay": "13:48",
+      "rationale": "Essential faces, edges, vertices content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn1_t2_v2",
+      "checkpointName": "Counting Faces, Edges, Vertices Check",
+      "questions": [
+        {
+          "question": "How many faces does a cube have?",
+          "options": ["4 faces", "5 faces", "6 faces", "8 faces"],
+          "correctAnswer": 2,
+          "explanation": "A cube has 6 faces. Think of a dice - each number is on a different face, and there are 6 numbers (1 to 6), so 6 faces!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use physical 3D shape models and let students count faces, edges, and vertices by touching them. Build shapes from nets (paper cutouts) to make it hands-on.",
+    "parentGuidance": "Help your child count the faces of a box, the edges of a tissue box, and the corners of a dice. Everyday objects make great learning tools!",
+    "studentGuidance": "Pick up a box or a dice and try counting the flat faces, the edges where two faces meet, and the pointy corners (vertices). Write the numbers in a table!"
+  }
+}

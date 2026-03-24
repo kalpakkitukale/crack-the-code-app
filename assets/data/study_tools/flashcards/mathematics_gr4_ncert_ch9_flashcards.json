@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch9",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn9_equal_groups",
+      "name": "Equal Groups and Multiplication",
+      "description": "Learn how multiplication means making equal groups",
+      "topicId": "gr4_mn_9_1",
+      "chapterId": "gr4_math_ncert_ch9",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn9_001",
+          "front": "What are equal groups?",
+          "back": "Equal groups means each group has the same number of objects.\n\nExample: 3 plates with 4 apples on each plate. Each plate is an equal group of 4.",
+          "hint": "Think of plates with the same number of sweets on each",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn9_002",
+          "front": "What is multiplication?",
+          "back": "Multiplication is a quick way of adding equal groups together.\n\nInstead of 5 + 5 + 5, we write 3 x 5 = 15.\nThis means 3 groups of 5.",
+          "hint": "It is repeated addition made shorter",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn9_003",
+          "front": "What does the 'x' sign mean?",
+          "back": "The 'x' sign means 'times' or 'groups of'.\n\n4 x 3 means '4 times 3' or '4 groups of 3'.\nThe answer is 12.",
+          "hint": "Read it as 'times' or 'groups of'",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn9_004",
+          "front": "There are 6 bags with 3 marbles in each bag. How many marbles in total?",
+          "back": "6 x 3 = 18 marbles\n\n6 bags, each with 3 marbles = 6 groups of 3 = 18",
+          "hint": "Number of bags times marbles in each bag",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn9_005",
+          "front": "Is 4 x 5 the same as 5 x 4?",
+          "back": "Yes! Both give 20.\n\n4 x 5 = 20 (4 groups of 5)\n5 x 4 = 20 (5 groups of 4)\n\nYou can swap the numbers and the answer stays the same!",
+          "hint": "Try counting both ways - you get the same total",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn9_arrays_skip",
+      "name": "Arrays and Skip Counting",
+      "description": "Learn about arrays and how skip counting connects to multiplication",
+      "topicId": "gr4_mn_9_2",
+      "chapterId": "gr4_math_ncert_ch9",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn9_006",
+          "front": "What is an array?",
+          "back": "An array is a way of arranging objects in equal rows and columns.\n\nExample: 3 rows with 4 stars in each row is a 3 x 4 array.\nTotal stars = 3 x 4 = 12",
+          "hint": "Think of how desks are arranged in your classroom",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn9_007",
+          "front": "What is skip counting?",
+          "back": "Skip counting means counting forward by jumping the same number each time.\n\nSkip count by 2: 2, 4, 6, 8, 10...\nSkip count by 5: 5, 10, 15, 20, 25...",
+          "hint": "You skip some numbers and land on every 2nd, 3rd, or 5th number",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn9_008",
+          "front": "How does skip counting help with multiplication?",
+          "back": "Skip counting IS multiplication!\n\nSkip count by 3, four times: 3, 6, 9, 12\nThis is the same as 4 x 3 = 12\n\nThe number you skip by and how many times you count gives the multiplication.",
+          "hint": "Each skip is one more group",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn9_009",
+          "front": "A classroom has 5 rows of chairs with 6 chairs in each row. How many chairs are there?",
+          "back": "5 x 6 = 30 chairs\n\nThis is a 5 x 6 array.\nYou can also skip count by 6: 6, 12, 18, 24, 30.",
+          "hint": "Rows times chairs in each row",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn9_010",
+          "front": "How can you use an array to show 2 x 7?",
+          "back": "Make 2 rows with 7 objects in each row.\n\nO O O O O O O\nO O O O O O O\n\nCount them: 7 + 7 = 14. So 2 x 7 = 14.",
+          "hint": "The first number is rows, the second number is objects per row",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn9_tables",
+      "name": "Times Tables and Word Problems",
+      "description": "Learn the times tables and solve multiplication word problems",
+      "topicId": "gr4_mn_9_3",
+      "chapterId": "gr4_math_ncert_ch9",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn9_011",
+          "front": "What are times tables?",
+          "back": "Times tables are lists of multiplication facts for each number.\n\nTable of 3: 3x1=3, 3x2=6, 3x3=9, 3x4=12...\n\nLearning them by heart makes maths faster!",
+          "hint": "They are like a list of answers for each number multiplied by 1, 2, 3, 4...",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn9_012",
+          "front": "What is an easy trick for the table of 9?",
+          "back": "In the 9 times table, the digits of each answer add up to 9!\n\n9x1=9, 9x2=18 (1+8=9), 9x3=27 (2+7=9), 9x4=36 (3+6=9), 9x5=45 (4+5=9)...\n\nAlso, the tens digit goes up by 1 and the ones digit goes down by 1.",
+          "hint": "Add the two digits of the answer - what do you get?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn9_013",
+          "front": "A packet has 8 biscuits. Ravi buys 4 packets. How many biscuits does he have?",
+          "back": "4 x 8 = 32 biscuits\n\n4 packets, each with 8 biscuits = 4 groups of 8 = 32",
+          "hint": "Number of packets times biscuits in each packet",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn9_014",
+          "front": "What happens when you multiply any number by 1?",
+          "back": "You get the same number back!\n\n7 x 1 = 7\n1 x 25 = 25\n\nMultiplying by 1 does not change the number.",
+          "hint": "One group of any number is just that number",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn9_015",
+          "front": "What happens when you multiply any number by 0?",
+          "back": "You always get 0!\n\n5 x 0 = 0\n100 x 0 = 0\n\nZero groups of anything means nothing at all.",
+          "hint": "If you have zero groups, you have nothing",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

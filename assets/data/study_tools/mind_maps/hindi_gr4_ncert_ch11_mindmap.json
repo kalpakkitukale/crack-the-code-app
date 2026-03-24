@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch11",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "पढ़क्कू की सूझ",
+      "description": "Chapter 11 - A humorous story about bookish knowledge vs practical wisdom",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_characters",
+      "label": "पात्र (Characters)",
+      "description": "The characters in the story who bring the humor to life",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_padhakku",
+      "label": "पढ़क्कू (Bookworm)",
+      "description": "Main character - a person who reads all the time but lacks practical common sense",
+      "parentId": "node_characters",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_others",
+      "label": "अन्य पात्र (Other Characters)",
+      "description": "Other people in the story who show practical wisdom and common sense",
+      "parentId": "node_characters",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_theme",
+      "label": "विषय (Theme)",
+      "description": "The central theme contrasting bookish knowledge with practical wisdom",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_bookish",
+      "label": "किताबी ज्ञान (Book Knowledge)",
+      "description": "Knowledge gained from reading books - facts, theories, and information",
+      "parentId": "node_theme",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_practical",
+      "label": "व्यावहारिक ज्ञान (Practical Knowledge)",
+      "description": "Wisdom gained from real-life experience and common sense",
+      "parentId": "node_theme",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_humor",
+      "label": "हास्य तत्व (Humour Elements)",
+      "description": "The funny situations and comedy in the story",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_irony",
+      "label": "विडंबना (Irony)",
+      "description": "The irony of a very learned person failing at simple everyday tasks",
+      "parentId": "node_humor",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_situations",
+      "label": "मज़ेदार घटनाएँ (Funny Events)",
+      "description": "The comical situations where Padhakku's bookish solutions backfire",
+      "parentId": "node_humor",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_moral",
+      "label": "सीख (Moral)",
+      "description": "The lesson: balance bookish knowledge with practical wisdom and real-world experience",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_language",
+      "label": "भाषा कार्य (Language Skills)",
+      "description": "Hindi language skills learned through this chapter",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#795548",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_muhavare",
+      "label": "मुहावरे (Idioms)",
+      "description": "Hindi idioms like 'किताबी कीड़ा' (bookworm) learned in this chapter",
+      "parentId": "node_language",
+      "positionX": 50,
+      "positionY": 400,
+      "color": "#8D6E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_vocab",
+      "label": "शब्द भंडार (Vocabulary)",
+      "description": "New Hindi words: सूझ, व्यावहारिक, अनुभव, उपदेश, and more",
+      "parentId": "node_language",
+      "positionX": 250,
+      "positionY": 400,
+      "color": "#8D6E63",
+      "orderIndex": 13
+    }
+  ]
+}

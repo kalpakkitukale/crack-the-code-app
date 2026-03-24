@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_math_ncert_ch1",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Shapes Around Us",
+      "description": "Exploring 3D shapes, their properties, angles, and shapes in daily life",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_3d_shapes",
+      "label": "3D Shapes",
+      "description": "Solid shapes with length, width, and height",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_cube",
+      "label": "Cube",
+      "description": "6 equal square faces - dice, sugar cube",
+      "parentId": "node_3d_shapes",
+      "positionX": -320,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_cuboid",
+      "label": "Cuboid",
+      "description": "6 rectangular faces - brick, book, tiffin box",
+      "parentId": "node_3d_shapes",
+      "positionX": -240,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_cylinder",
+      "label": "Cylinder",
+      "description": "2 circles + 1 curved surface - glass, pipe",
+      "parentId": "node_3d_shapes",
+      "positionX": -160,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_cone",
+      "label": "Cone",
+      "description": "1 circle + 1 curved surface + 1 tip - ice cream cone",
+      "parentId": "node_3d_shapes",
+      "positionX": -80,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_sphere",
+      "label": "Sphere",
+      "description": "Perfectly round, 0 edges, 0 corners - ball, marble",
+      "parentId": "node_3d_shapes",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_properties",
+      "label": "Faces, Edges, Vertices",
+      "description": "Properties that describe 3D shapes",
+      "parentId": "node_root",
+      "positionX": 100,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_faces",
+      "label": "Faces",
+      "description": "Flat or curved surfaces of a shape",
+      "parentId": "node_properties",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_edges",
+      "label": "Edges",
+      "description": "Lines where two faces meet",
+      "parentId": "node_properties",
+      "positionX": 120,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_vertices",
+      "label": "Vertices",
+      "description": "Corners where edges meet",
+      "parentId": "node_properties",
+      "positionX": 190,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_angles",
+      "label": "Angles",
+      "description": "Space formed when two lines meet at a point",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_right_angle",
+      "label": "Right Angle",
+      "description": "Corner of a square or book - shaped like letter L",
+      "parentId": "node_angles",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_daily_life",
+      "label": "Shapes in Daily Life",
+      "description": "Spotting 3D shapes all around us",
+      "parentId": "node_root",
+      "positionX": -50,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_home",
+      "label": "At Home",
+      "description": "Kitchen containers, balls, boxes, cans",
+      "parentId": "node_daily_life",
+      "positionX": -120,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_outside",
+      "label": "Outside",
+      "description": "Pillars (cylinder), road cones, domes (half-sphere)",
+      "parentId": "node_daily_life",
+      "positionX": 20,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 15
+    }
+  ]
+}

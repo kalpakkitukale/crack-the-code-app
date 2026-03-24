@@ -1,0 +1,46 @@
+{
+  "chapterId": "gr4_evs_ncert_ch14",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en14_v1",
+      "videoId": "gr4_evn_14_1_v1",
+      "content": "This lesson introduces farming through the story of Basva and his family who live on a farm. Students learn about the basic steps of farming: ploughing the soil to loosen it, sowing seeds, watering the crops through irrigation, weeding to remove unwanted plants, and finally harvesting the ripe crops. The lesson shows both traditional and modern farming tools - from wooden ploughs pulled by bullocks and sickles for cutting crops to modern tractors, harvesters, and seed drills. Students discover that farming is hard work that requires patience and knowledge of the land, and that most of the food on their plates comes from the effort of farmers.",
+      "keyPoints": [
+        "Farming involves ploughing, sowing, watering, weeding, and harvesting",
+        "Traditional tools include plough, sickle, and hoe",
+        "Modern tools include tractors and harvesters",
+        "Farming requires hard work, patience, and knowledge",
+        "Most of our food comes from the efforts of farmers"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en14_v2",
+      "videoId": "gr4_evn_14_2_v1",
+      "content": "This lesson teaches students about seasons and the crops that grow in each season. Kharif crops like rice, maize, millet, cotton, and sugarcane are sown at the start of the monsoon season (June-July) and harvested in autumn. Rabi crops like wheat, mustard, peas, and gram are sown in winter and harvested in spring. Students learn why different crops need different weather - rice needs lots of rain and warmth while wheat prefers cool dry weather. The lesson also explains the importance of rain for Indian farmers, as many still depend on monsoon rains rather than irrigation systems. A good monsoon means happy farmers and plentiful food for everyone.",
+      "keyPoints": [
+        "Kharif crops (rice, maize) grow in the monsoon season",
+        "Rabi crops (wheat, mustard) grow in the winter season",
+        "Different crops need different amounts of water and warmth",
+        "Many Indian farmers depend on monsoon rains for their crops",
+        "A good monsoon season means good crops and food supply"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en14_v3",
+      "videoId": "gr4_evn_14_2_v2",
+      "content": "This lesson explores life on Basva's farm beyond just growing crops. Farm animals like bullocks help with ploughing and transport, cows and buffaloes give milk, and animal dung is used as natural manure to keep the soil healthy. Students learn about the challenges farmers face: unpredictable rainfall, pests that eat crops, lack of money for good seeds and tools, and sometimes not getting fair prices for their produce. The lesson emphasises the importance of respecting farmers and not wasting food. Students are encouraged to visit a farm if possible and to learn about where their daily food comes from - from the wheat in their roti to the rice on their plate.",
+      "keyPoints": [
+        "Farm animals help with ploughing, milk, and manure",
+        "Manure is natural fertiliser from animal dung and plant waste",
+        "Farmers face challenges like unpredictable rain and pests",
+        "We should respect farmers and avoid wasting food",
+        "Our daily food comes from the hard work of farming families"
+      ],
+      "source": "manual"
+    }
+  ]
+}

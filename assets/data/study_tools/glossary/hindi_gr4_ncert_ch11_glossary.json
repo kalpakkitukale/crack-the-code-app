@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch11",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn11_001",
+      "term": "पढ़क्कू (Padhakku)",
+      "definition": "A person who reads too much or is always reading books. It is used in a slightly teasing way to describe someone who is a bookworm. In the story, this is the name of the main character who reads all the time but lacks practical sense.",
+      "pronunciation": "PADH-ak-koo",
+      "exampleUsage": "वह इतना पढ़ता है कि सब उसे पढ़क्कू कहते हैं। (He reads so much that everyone calls him Padhakku.)",
+      "difficulty": "easy",
+      "relatedTerms": ["किताबी कीड़ा", "ज्ञानी", "विद्वान"]
+    },
+    {
+      "id": "gls_gr4_hn11_002",
+      "term": "सूझ (Soojh)",
+      "definition": "Practical wisdom, understanding, or common sense. It refers to the ability to think clearly and make good decisions in everyday situations. 'Soojh' is different from bookish knowledge - it is the kind of smart thinking that comes from experience.",
+      "pronunciation": "SOOJH",
+      "exampleUsage": "उसमें सूझ-बूझ की कमी नहीं है। (He does not lack practical wisdom.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बुद्धि", "समझ", "अक्ल"]
+    },
+    {
+      "id": "gls_gr4_hn11_003",
+      "term": "किताबी कीड़ा (Kitabi Keeda)",
+      "definition": "A Hindi idiom meaning 'bookworm'. Just like a worm lives inside books, a 'kitabi keeda' is a person who is always buried in books and does little else. It is used in a humorous or teasing way.",
+      "pronunciation": "ki-TAA-bee KEE-daa",
+      "exampleUsage": "मेरा दोस्त एक किताबी कीड़ा है, हर समय पढ़ता रहता है। (My friend is a bookworm, he reads all the time.)",
+      "difficulty": "easy",
+      "relatedTerms": ["पढ़क्कू", "मुहावरा", "पुस्तक"]
+    },
+    {
+      "id": "gls_gr4_hn11_004",
+      "term": "हास्य (Hasya)",
+      "definition": "Humour or comedy. In literature, it refers to writing that is meant to make the reader laugh or smile. This chapter is a 'hasya katha' (humorous story) because it makes us laugh at the funny situations created by the bookworm character.",
+      "pronunciation": "HAAS-ya",
+      "exampleUsage": "यह कहानी हास्य से भरी है। (This story is full of humour.)",
+      "difficulty": "medium",
+      "relatedTerms": ["मज़ाक", "विनोद", "हँसी"]
+    },
+    {
+      "id": "gls_gr4_hn11_005",
+      "term": "व्यावहारिक (Vyavaharik)",
+      "definition": "Practical or relating to real-life situations. Something that is 'vyavaharik' is useful in everyday life, not just in theory. The story teaches us that 'vyavaharik gyan' (practical knowledge) is as important as bookish knowledge.",
+      "pronunciation": "VYAA-va-HAA-rik",
+      "exampleUsage": "हमें व्यावहारिक ज्ञान भी होना चाहिए। (We should also have practical knowledge.)",
+      "difficulty": "medium",
+      "relatedTerms": ["अनुभव", "सूझ-बूझ", "ज्ञान"]
+    },
+    {
+      "id": "gls_gr4_hn11_006",
+      "term": "मुहावरा (Muhavara)",
+      "definition": "An idiom or phrase in Hindi that has a special meaning different from the literal meaning of its words. For example, 'सिर खुजाना' (to scratch one's head) means to be confused. Muhavare make Hindi interesting and expressive.",
+      "pronunciation": "mu-HAA-va-raa",
+      "exampleUsage": "'आँखों का तारा' एक मुहावरा है जिसका अर्थ है बहुत प्यारा। ('Apple of one's eye' is an idiom meaning very dear.)",
+      "difficulty": "medium",
+      "relatedTerms": ["लोकोक्ति", "कहावत", "मतलब"]
+    },
+    {
+      "id": "gls_gr4_hn11_007",
+      "term": "ज्ञान (Gyan)",
+      "definition": "Knowledge or learning. It is information and understanding gained from reading, studying, or experiencing things. In this chapter, we learn that there are two types: 'kitabi gyan' (bookish knowledge) and 'vyavaharik gyan' (practical knowledge).",
+      "pronunciation": "GYAAN",
+      "exampleUsage": "किताबों से ज्ञान मिलता है। (We get knowledge from books.)",
+      "difficulty": "easy",
+      "relatedTerms": ["विद्या", "शिक्षा", "पढ़ाई"]
+    },
+    {
+      "id": "gls_gr4_hn11_008",
+      "term": "अनुभव (Anubhav)",
+      "definition": "Experience - the knowledge or skill gained by actually doing or living through something. 'Anubhav' is different from book learning because it comes from real life. The story shows that experience and practical sense are very important.",
+      "pronunciation": "ANU-bhav",
+      "exampleUsage": "अनुभव सबसे बड़ा गुरु है। (Experience is the greatest teacher.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सीख", "ज्ञान", "समझ"]
+    },
+    {
+      "id": "gls_gr4_hn11_009",
+      "term": "शीर्षक (Sheershak)",
+      "definition": "Title or heading. The 'sheershak' of a story or chapter tells us what it is about. The sheershak of this chapter is 'पढ़क्कू की सूझ' which means 'The Reader's Wisdom' or 'The Bookworm's Clever Idea'.",
+      "pronunciation": "SHEER-shak",
+      "exampleUsage": "इस कहानी का शीर्षक बहुत रोचक है। (The title of this story is very interesting.)",
+      "difficulty": "easy",
+      "relatedTerms": ["नाम", "सिरलेख", "विषय"]
+    },
+    {
+      "id": "gls_gr4_hn11_010",
+      "term": "उपदेश (Updesh)",
+      "definition": "A moral or lesson - the teaching we get from a story. Every good story has an 'updesh' that helps us learn something. The updesh of this story is that practical wisdom is as important as bookish knowledge.",
+      "pronunciation": "UP-desh",
+      "exampleUsage": "इस कहानी का उपदेश है कि सिर्फ पढ़ना काफी नहीं। (The moral of this story is that just reading is not enough.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सीख", "शिक्षा", "नैतिक शिक्षा"]
+    }
+  ]
+}

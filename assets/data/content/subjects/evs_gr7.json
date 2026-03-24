@@ -1,0 +1,49 @@
+{
+  "id": "evs_gr7",
+  "name": "Environmental Studies",
+  "icon": "eco",
+  "color": "#7ED321",
+  "boardId": "cbse_elementary",
+  "classId": "class_7",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["evs", "environment", "grade 7", "nature"],
+  "chapters": [
+    {
+      "id": "gr7_evs_ch1",
+      "number": 1,
+      "name": "Weather and Climate",
+      "description": "Understanding weather patterns and climate",
+      "keywords": ["weather", "climate", "seasons"],
+      "topics": [
+        {"id": "gr7_ev_1_1", "name": "Weather Elements", "difficulty": "basic", "videoCount": 4, "keywords": ["weather", "temperature", "humidity"]},
+        {"id": "gr7_ev_1_2", "name": "Climate Zones", "difficulty": "intermediate", "videoCount": 4, "keywords": ["climate", "tropical", "temperate"]},
+        {"id": "gr7_ev_1_3", "name": "Climate Change", "difficulty": "intermediate", "videoCount": 4, "keywords": ["global warming", "climate change"]}
+      ]
+    },
+    {
+      "id": "gr7_evs_ch2",
+      "number": 2,
+      "name": "Soil",
+      "description": "Types of soil and soil conservation",
+      "keywords": ["soil", "erosion", "conservation"],
+      "topics": [
+        {"id": "gr7_ev_2_1", "name": "Types of Soil", "difficulty": "basic", "videoCount": 4, "keywords": ["sandy", "clay", "loamy"]},
+        {"id": "gr7_ev_2_2", "name": "Soil Formation", "difficulty": "intermediate", "videoCount": 3, "keywords": ["formation", "layers"]},
+        {"id": "gr7_ev_2_3", "name": "Soil Conservation", "difficulty": "intermediate", "videoCount": 4, "keywords": ["conservation", "erosion"]}
+      ]
+    },
+    {
+      "id": "gr7_evs_ch3",
+      "number": 3,
+      "name": "Water",
+      "description": "Water cycle and conservation",
+      "keywords": ["water", "cycle", "conservation"],
+      "topics": [
+        {"id": "gr7_ev_3_1", "name": "Water Cycle", "difficulty": "basic", "videoCount": 4, "keywords": ["cycle", "evaporation", "precipitation"]},
+        {"id": "gr7_ev_3_2", "name": "Water Sources", "difficulty": "basic", "videoCount": 3, "keywords": ["rivers", "groundwater"]},
+        {"id": "gr7_ev_3_3", "name": "Water Conservation", "difficulty": "intermediate", "videoCount": 4, "keywords": ["conservation", "rainwater"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_math_ncert_ch1",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn1",
+    "title": "Shapes Around Us",
+    "content": "This chapter from the NCERT Maths Mela textbook helps students explore 3D shapes found in everyday life. Students learn about five important 3D shapes: cube, cuboid, cylinder, cone, and sphere. They discover how to describe these shapes using faces, edges, and vertices. The chapter also introduces angles, especially the right angle found in squares and rectangles. By spotting shapes in their homes, schools, and outdoors, students connect mathematics to the real world and build strong observation skills.",
+    "keyPoints": [
+      "3D shapes have length, width, and height - they are solid objects",
+      "Five key 3D shapes: cube, cuboid, cylinder, cone, and sphere",
+      "Faces are flat or curved surfaces, edges are lines where faces meet, vertices are corners",
+      "A cube has 6 faces, 12 edges, and 8 vertices; a sphere has 1 face, 0 edges, 0 vertices",
+      "An angle is formed where two lines meet; a right angle looks like the letter L",
+      "3D shapes are all around us - in the kitchen, classroom, playground, and roads"
+    ],
+    "learningObjectives": [
+      "Identify and name 3D shapes: cube, cuboid, cylinder, cone, and sphere",
+      "Count faces, edges, and vertices of each 3D shape",
+      "Understand what an angle is and recognise right angles",
+      "Relate 3D shapes to everyday objects in daily life",
+      "Describe the difference between 2D and 3D shapes"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn1_001",
+      "title": "Quick Shape Reference Table",
+      "content": "Use this table to remember the properties of each 3D shape:\n\nCube: 6 faces, 12 edges, 8 vertices (example: dice)\nCuboid: 6 faces, 12 edges, 8 vertices (example: brick)\nCylinder: 3 faces (2 flat + 1 curved), 2 edges, 0 vertices (example: tin can)\nCone: 2 faces (1 flat + 1 curved), 1 edge, 1 vertex (example: birthday cap)\nSphere: 1 face (curved), 0 edges, 0 vertices (example: ball)\n\nTip: Make this table on a card and revise it often!",
+      "tags": ["key-concept", "reference", "study-tip"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn1_002",
+      "title": "Shape Hunt Activity",
+      "content": "Go on a shape hunt at home or in school! Find at least 2 examples of each 3D shape:\n\n- Cube: dice, sugar cube, Rubik's cube\n- Cuboid: book, matchbox, eraser, pencil box\n- Cylinder: glass, bangle, pipe, candle\n- Cone: ice cream cone, funnel, party hat\n- Sphere: ball, marble, orange, ladoo\n\nWrite them in your notebook and draw the shapes next to each object name.",
+      "tags": ["activity", "real-world", "hands-on-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn1_003",
+      "title": "Right Angle Checker Trick",
+      "content": "Here is a simple trick to check if any angle is a right angle:\n\n1. Take the corner of any book or notebook.\n2. Place it over the angle you want to check.\n3. If the corner fits exactly, it is a right angle!\n\nTry checking: the corner of a window, the corner of your desk, where two walls meet, and the corner of a photo frame. You will find right angles everywhere around you.",
+      "tags": ["study-tip", "angles", "practical"],
+      "isPinned": false
+    }
+  ]
+}

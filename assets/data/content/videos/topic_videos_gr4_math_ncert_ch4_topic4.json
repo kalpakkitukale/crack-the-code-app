@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn4_t4",
+  "topicId": "gr4_mn_4_4",
+  "topicName": "Estimation of Numbers",
+  "chapterId": "gr4_math_ncert_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1500,
+    "totalDurationDisplay": "25:00",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_4_1", "gr4_mn_4_2", "gr4_mn_4_3"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn4_v5",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Estimation and Rounding Numbers | Grade 4 Math",
+      "description": "Learn how to estimate and round numbers to the nearest ten, hundred, and thousand. Use estimation to check answers and make quick calculations in everyday life.",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 600000,
+      "tags": ["estimation", "rounding", "approximate", "nearest ten", "nearest hundred", "nearest thousand"],
+      "learningObjectives": ["Understand why estimation is useful in everyday life", "Round numbers to the nearest ten, hundred, and thousand", "Use estimation to check if an answer is reasonable"],
+      "keyConceptsCovered": ["What is estimation and why we use it", "Rounding rules (5 or more rounds up, less than 5 rounds down)", "Rounding to nearest 10, 100, and 1000"],
+      "prerequisites": ["5-digit place value", "Comparing numbers"],
+      "followUpTopics": ["Estimation in addition and subtraction"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v4",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Comparing and Ordering Numbers up to 5 Digits",
+      "description": "Learn to compare 4 and 5 digit numbers using greater than, less than, and equal to signs. Also practice arranging numbers in ascending and descending order.",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 750000,
+      "tags": ["comparing", "ordering", "number sense", "supports estimation"],
+      "learningObjectives": ["Review comparing numbers to support estimation skills", "Understand number magnitude for better estimates"],
+      "keyConceptsCovered": ["Number comparison supports estimation", "Understanding which numbers are close together", "Number magnitude and proximity"],
+      "prerequisites": ["5-digit place value"],
+      "followUpTopics": ["Estimation strategies"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Place Value up to 5 Digits | Ten Thousands Place",
+      "description": "Learn about place value in 5-digit numbers. Understand ones, tens, hundreds, thousands, and ten thousands places with real-life examples like distances and populations!",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+      "tags": ["place value", "5-digit", "foundation for estimation"],
+      "learningObjectives": ["Review place value to support rounding decisions", "Identify which digit to look at when rounding to a specific place"],
+      "keyConceptsCovered": ["Place value review for rounding", "Identifying the rounding digit and the digit to its right"],
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Rounding to nearest ten, hundred, thousand"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v3",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Expanded Form of Large Numbers",
+      "description": "Understand expanded form of 4 and 5 digit numbers. Break numbers like 45,328 into 40,000 + 5,000 + 300 + 20 + 8 and learn how each digit has a different value.",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 680000,
+      "tags": ["expanded form", "large numbers", "supports estimation"],
+      "learningObjectives": ["Use expanded form to understand why rounding works", "See how each place value contributes to the total"],
+      "keyConceptsCovered": ["Expanded form shows the value of each digit", "Connection between expanded form and estimation"],
+      "prerequisites": ["5-digit place value"],
+      "followUpTopics": ["Real-world estimation problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn4_v5", "gr4_mn4_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 720,
+      "estimatedTimeDisplay": "12:00",
+      "rationale": "Estimation and comparison for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn4_v5", "gr4_mn4_v4", "gr4_mn4_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1140,
+      "estimatedTimeDisplay": "19:00",
+      "rationale": "Complete estimation coverage with place value support"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn4_v1", "gr4_mn4_v4", "gr4_mn4_v5", "gr4_mn4_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1500,
+      "estimatedTimeDisplay": "25:00",
+      "rationale": "Build from place value through comparison to estimation"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn4_v5"],
+      "totalVideos": 1,
+      "estimatedTime": 390,
+      "estimatedTimeDisplay": "6:30",
+      "rationale": "Core estimation concept only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn4_v5",
+      "checkpointName": "Estimation and Rounding Check",
+      "questions": [
+        {
+          "question": "Round 47,382 to the nearest thousand.",
+          "options": ["47,000", "47,400", "48,000", "50,000"],
+          "correctAnswer": 0,
+          "explanation": "Look at the hundreds digit (3). Since 3 < 5, we round down. 47,382 rounded to the nearest thousand is 47,000."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use real-world contexts for estimation: estimating crowd sizes, distances between cities, prices of items. Ask students to round first and then check with the exact calculation.",
+    "parentGuidance": "When shopping, ask your child to estimate the total bill by rounding each price to the nearest ten or hundred. Compare the estimate with the actual total.",
+    "studentGuidance": "Estimation is like making a smart guess! When you round numbers, you make them simpler so you can do maths faster in your head. It is a superpower for everyday life!"
+  }
+}

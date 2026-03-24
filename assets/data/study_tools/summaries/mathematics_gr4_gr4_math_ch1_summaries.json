@@ -1,0 +1,68 @@
+{
+  "chapterId": "gr4_math_ch1",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_m1_v1",
+      "videoId": "5W47G-h7myY",
+      "content": "This video teaches place value through a fun song. Place value tells us what each digit in a number is worth based on its position. In the ones place, the digit represents its face value. In the tens place, the digit is worth 10 times its face value. In the hundreds place, it's worth 100 times its face value.",
+      "keyPoints": [
+        "Place value depends on the position of a digit",
+        "Ones place: digit x 1",
+        "Tens place: digit x 10",
+        "Hundreds place: digit x 100"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m1_v2",
+      "videoId": "6-_x-FUx3rA",
+      "content": "A comprehensive lesson on understanding place value in multi-digit numbers. The video explains how each position in a number has a specific value, and how we can break down any number into its expanded form to understand what each digit represents.",
+      "keyPoints": [
+        "Every digit has a place value",
+        "Moving left increases value by 10 times",
+        "Expanded form shows actual value of each digit",
+        "Zero as a placeholder keeps positions correct"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m1_v3",
+      "videoId": "c8_zQmgmR0E",
+      "content": "Learn how to compare two numbers using greater than (>), less than (<), and equal to (=) symbols. The video teaches to compare numbers by looking at the number of digits first, then comparing digit by digit from left to right.",
+      "keyPoints": [
+        "More digits usually means larger number",
+        "Compare from the leftmost digit",
+        "> means greater than",
+        "< means less than",
+        "= means equal to"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m1_v4",
+      "videoId": "Wgf2m7WRAJg",
+      "content": "Discover patterns in number sequences through this engaging song. Number patterns follow rules that help us predict what comes next. Common patterns include adding, subtracting, multiplying, or following special sequences.",
+      "keyPoints": [
+        "Patterns follow rules",
+        "Look for what changes between numbers",
+        "Common patterns: add 2, add 5, multiply by 2",
+        "Practice helps recognize patterns quickly"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m1_v5",
+      "videoId": "pFTe7HKZJc0",
+      "content": "This video extends place value understanding to millions. Learn the positions: ones, tens, hundreds, thousands, ten thousands, hundred thousands, and millions. Understanding large numbers helps in real-world situations like population counts and distances.",
+      "keyPoints": [
+        "Place values go up to millions and beyond",
+        "Each position is 10 times the previous",
+        "Commas help read large numbers",
+        "Millions used for population, money, distances"
+      ],
+      "source": "manual"
+    }
+  ]
+}

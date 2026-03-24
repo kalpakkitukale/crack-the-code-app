@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_ev1_v1",
+      "videoId": "gr4_ev1_v1",
+      "content": "This lesson introduces the difference between living and non-living things. Living things can grow, breathe, eat food, move, feel, and reproduce. Non-living things cannot do any of these on their own. By observing the world around us, we can sort everything into these two groups.",
+      "keyPoints": [
+        "Living things grow, breathe, eat, move, and reproduce",
+        "Non-living things do not grow or breathe on their own",
+        "Plants are living things even though they do not walk",
+        "We can classify everything around us as living or non-living"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev1_v2",
+      "videoId": "gr4_ev1_v2",
+      "content": "This lesson explains what an ecosystem is and how it works. An ecosystem is a place where living things like plants and animals interact with non-living things like water, air, soil, and sunlight. Every ecosystem has producers, consumers, and decomposers that depend on each other.",
+      "keyPoints": [
+        "An ecosystem includes both living and non-living things",
+        "Plants are producers that make their own food",
+        "Animals are consumers that eat other living things",
+        "Decomposers break down dead things and recycle nutrients"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev1_v3",
+      "videoId": "gr4_ev1_v3",
+      "content": "This lesson covers food chains and how energy flows in an ecosystem. A food chain starts with plants that get energy from the sun. Herbivores eat the plants, carnivores eat the herbivores, and decomposers break down dead organisms. Every living thing in an ecosystem is connected through food chains.",
+      "keyPoints": [
+        "Food chains show how energy passes from one living thing to another",
+        "The sun is the main source of energy for most ecosystems",
+        "Herbivores eat plants and carnivores eat other animals",
+        "If one link in a food chain is removed, all others are affected"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev1_v4",
+      "videoId": "gr4_ev1_v4",
+      "content": "This lesson explores different types of habitats and how living things adapt to survive. Forests have tall trees and many animals. Deserts are hot and dry, so plants and animals save water. Ponds have fish, frogs, and water plants. Each habitat provides food, water, and shelter to its living things.",
+      "keyPoints": [
+        "A habitat is the natural home of a living thing",
+        "Different habitats include forests, deserts, ponds, and oceans",
+        "Living things have special features to survive in their habitat",
+        "Habitats provide food, water, and shelter"
+      ],
+      "source": "manual"
+    }
+  ]
+}

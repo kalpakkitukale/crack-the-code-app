@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch6",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn6",
+    "title": "नाव बनाओ नाव बनाओ (Make a Boat, Make a Boat)",
+    "content": "This chapter from the Rimjhim textbook presents a delightful poem about one of childhood's simplest pleasures - making paper boats and floating them in rainwater. The poem 'Naav Banao Naav Banao' uses lively, rhythmic language with repetition and rhyming to capture the excitement of children during the rainy season. As they fold paper into boat shapes and set them afloat in streams of rainwater, their imagination takes the little boats on grand voyages to distant lands. The poem celebrates creativity, nature, and the carefree joy of childhood play. Through this poem, students learn about poetic elements like rhyming (तुकबंदी), rhythm (लय), and repetition (दोहराव), while also building vocabulary related to rain, water, and nature.",
+    "keyPoints": [
+      "The poem celebrates making paper boats (कागज़ की नाव) and floating them in rainwater",
+      "Repetition of 'नाव बनाओ' creates a musical, song-like rhythm",
+      "Imagination transforms a simple paper boat into a vessel on a grand journey",
+      "Nature elements: बारिश (rain), पानी (water), हवा (wind), धारा (stream)",
+      "Poetic elements: तुकबंदी (rhyming), लय (rhythm), दोहराव (repetition)",
+      "Imperative verbs (आज्ञा वाचक): बनाओ (make!), तैराओ (float!), चलाओ (sail!)"
+    ],
+    "learningObjectives": [
+      "Read and recite a Hindi poem with proper rhythm and expression",
+      "Identify poetic elements: rhyming (तुकबंदी), rhythm (लय), and repetition (दोहराव)",
+      "Learn vocabulary related to rain, water, and nature in Hindi",
+      "Understand and use imperative verb forms (आज्ञा वाचक क्रिया)",
+      "Appreciate the role of imagination (कल्पना) in childhood play and poetry",
+      "Write simple rhyming lines about a favourite activity"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn6_001",
+      "title": "Poetic Elements to Remember (काव्य तत्व)",
+      "content": "This poem is perfect for learning about how poems work! Key poetic elements: (1) तुकबंदी (Rhyming) - matching sounds at the end of lines make the poem musical. (2) दोहराव (Repetition) - 'नाव बनाओ' is repeated to create excitement and rhythm. (3) लय (Rhythm) - the pattern of stressed and unstressed syllables creates a beat, like a song. (4) बिंब (Imagery) - the poem paints pictures of rain, water, and boats in your mind. When you read any poem, look for these four elements!",
+      "tags": ["poetry", "काव्य-तत्व", "literature"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn6_002",
+      "title": "Command Words in Hindi (आज्ञा वाचक)",
+      "content": "The poem uses lots of command words (आज्ञा वाचक क्रिया) that tell someone to do something. These are formed from the basic verb: बनाना (to make) → बनाओ (make!), तैराना (to float) → तैराओ (float!), चलाना (to drive/sail) → चलाओ (sail!), लाना (to bring) → लाओ (bring!), खेलना (to play) → खेलो (play!). Notice the pattern: for the तुम (you-informal) form, the verb ends in -ओ. Practice using these in your daily Hindi!",
+      "tags": ["grammar", "verbs", "imperative"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn6_003",
+      "title": "Make a Paper Boat - Hands-On Activity!",
+      "content": "Bring the poem to life by making your own paper boat! You need: one rectangular sheet of paper (notebook paper works well). Steps: (1) Fold in half top to bottom. (2) Fold top corners to centre to make a triangle. (3) Fold bottom strips up on each side. (4) Open from bottom and press flat into a diamond. (5) Fold bottom corners up. (6) Pull top corners apart gently - your boat opens up! Now wait for rain or fill a tub with water, and watch your नाव तैरना (boat float)!",
+      "tags": ["activity", "craft", "hands-on"],
+      "isPinned": false
+    }
+  ]
+}

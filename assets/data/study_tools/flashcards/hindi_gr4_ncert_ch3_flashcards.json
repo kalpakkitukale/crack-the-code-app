@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch3",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hi3_kahani",
+      "name": "कहानी पाठ (Story Reading)",
+      "description": "Learn about the heartwarming story of friendship and sharing from Rimjhim Chapter 3",
+      "topicId": "gr4_hi_3_1",
+      "chapterId": "gr4_hin_ncert_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_hi3_001",
+          "front": "कहानी 'किरमिच की गेंद' किस बारे में है? (What is the story 'The Leather Ball' about?)",
+          "back": "यह कहानी बचपन की दोस्ती और मिलकर खेलने के बारे में है। एक किरमिच (leather) की गेंद कहानी का केंद्र है। बच्चे इस गेंद से खेलते हैं और इसके ज़रिये दोस्ती, साझेदारी (sharing), और मिल-जुलकर रहने का पाठ सीखते हैं। (This is a story about childhood friendship and playing together. A leather ball is central to the story. Children play with the ball and learn lessons about friendship, sharing, and living harmoniously.)",
+          "hint": "कहानी का नाम 'किरमिच की गेंद' है - गेंद से जुड़ी कहानी सोचो (Think of a story connected to a ball)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi3_002",
+          "front": "'किरमिच' का क्या अर्थ है? (What does 'किरमिच' mean?)",
+          "back": "'किरमिच' का अर्थ है एक मोटा, मज़बूत कपड़ा जो चमड़े जैसा दिखता है। पहले के ज़माने में इससे गेंदें बनाई जाती थीं। अंग्रेज़ी में इसे 'rexine' या 'leather cloth' कहते हैं। यह असली चमड़े से सस्ता होता था। (Kirmic means a thick, sturdy cloth that looks like leather. In old times, balls were made from it. In English it is called 'rexine' or 'leather cloth'. It was cheaper than real leather.)",
+          "hint": "यह एक कपड़ा है जो चमड़े जैसा दिखता है (It is a cloth that looks like leather)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi3_003",
+          "front": "कहानी में बच्चे गेंद से कैसे खेलते हैं? (How do the children play with the ball in the story?)",
+          "back": "कहानी में बच्चे मिल-जुलकर गेंद से खेलते हैं। वे गली-मोहल्ले में दोस्तों के साथ खेलते हैं। सब मिलकर नियम बनाते हैं, बारी-बारी से खेलते हैं, और झगड़ा होने पर भी जल्दी सुलझा लेते हैं। गेंद एक साधारण खिलौना है लेकिन यह बच्चों को एक साथ लाती है। (Children play together with the ball in the lanes and neighbourhood. They make rules together, take turns, and quickly resolve disputes. The ball is a simple toy but it brings children together.)",
+          "hint": "बच्चे गली-मोहल्ले में कैसे खेलते हैं? (How do children play in lanes and neighbourhoods?)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi3_004",
+          "front": "कहानी में दोस्ती का क्या महत्व दिखाया गया है? (What importance of friendship is shown in the story?)",
+          "back": "कहानी बताती है कि दोस्ती सबसे अनमोल (precious) चीज़ है। एक गेंद कई बच्चों को दोस्त बनाती है। खेल में जीत-हार से ज़्यादा ज़रूरी है साथ मिलकर खेलना। दोस्ती में साझेदारी (sharing), सहयोग (cooperation), और एक-दूसरे की मदद होनी चाहिए। (The story shows that friendship is the most precious thing. A ball makes many children friends. Playing together matters more than winning or losing. Friendship needs sharing, cooperation, and helping each other.)",
+          "hint": "खेल में जीतना ज़रूरी है या दोस्ती? (Is winning important or friendship?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi3_005",
+          "front": "कहानी से क्या संदेश मिलता है? (What message does the story convey?)",
+          "back": "कहानी से कई संदेश मिलते हैं: (1) मिलकर खेलने में ज़्यादा मज़ा आता है। (2) चीज़ें बाँटने (sharing) से खुशी बढ़ती है। (3) दोस्ती किसी भी खिलौने से कीमती है। (4) छोटी-छोटी चीज़ों में भी बहुत खुशी मिल सकती है। (5) सब मिलकर खेलें तो झगड़ा नहीं होता। (Messages: Playing together is more fun, sharing increases happiness, friendship is more valuable than any toy, joy can be found in small things, and playing together prevents fights.)",
+          "hint": "बाँटने से खुशी बढ़ती है या घटती है? (Does sharing increase or decrease happiness?)",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hi3_prashn",
+      "name": "प्रश्न उत्तर (Questions and Answers)",
+      "description": "Practice answering key questions from the story about the leather ball",
+      "topicId": "gr4_hi_3_2",
+      "chapterId": "gr4_hin_ncert_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_hi3_006",
+          "front": "'साझेदारी' का क्या अर्थ है? (What does 'sharing' mean?)",
+          "back": "'साझेदारी' का अर्थ है किसी चीज़ को मिल-बाँटकर उपयोग करना। जैसे कहानी में बच्चे एक गेंद को मिलकर खेलते हैं - किसी एक का नहीं, सबका। अंग्रेज़ी में इसे 'sharing' कहते हैं। साझेदारी से दोस्ती मज़बूत होती है और सबको खुशी मिलती है। (Sharing means using something together. Like in the story, children play with one ball together - it belongs to everyone. Sharing strengthens friendship and brings happiness to all.)",
+          "hint": "जब सब मिलकर एक चीज़ का उपयोग करते हैं (When everyone uses something together)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi3_007",
+          "front": "गेंद पुराने ज़माने में किससे बनती थी? (What were balls made from in old times?)",
+          "back": "पुराने ज़माने में गेंदें कई चीज़ों से बनती थीं: (1) किरमिच (rexine) - मोटा कपड़ा जो चमड़े जैसा दिखे। (2) चमड़ा (leather) - जानवरों की खाल से। (3) कपड़े के गोले - पुराने कपड़ों को गोल लपेटकर। (4) रबर - प्राकृतिक रबर से। आज की प्लास्टिक और सिंथेटिक गेंदें तब नहीं थीं! (In old times, balls were made from rexine, leather, rolled cloth, and natural rubber. Today's plastic and synthetic balls didn't exist then!)",
+          "hint": "प्लास्टिक से पहले गेंदें किससे बनती थीं? (What were balls made from before plastic?)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi3_008",
+          "front": "कहानी में बच्चों के बीच झगड़ा क्यों होता है? (Why do children quarrel in the story?)",
+          "back": "कहानी में बच्चों के बीच गेंद को लेकर झगड़ा होता है - कौन खेलेगा, किसकी बारी है, कौन जीता। लेकिन यह झगड़ा ज़्यादा देर नहीं चलता क्योंकि बच्चे समझ जाते हैं कि लड़ने से खेल रुक जाता है। दोस्ती बनाए रखना ज़्यादा ज़रूरी है। (Children quarrel about turns and winning. But the fight doesn't last long because they understand that fighting stops the game. Maintaining friendship is more important.)",
+          "hint": "खेलते समय आमतौर पर किस बात पर झगड़ा होता है? (What do children usually fight about while playing?)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi3_009",
+          "front": "आजकल के खेल और पुराने ज़माने के खेल में क्या अंतर है? (What is the difference between modern and old-time games?)",
+          "back": "पुराने ज़माने में बच्चे बाहर मैदान में मिलकर खेलते थे - गेंद, कबड्डी, खो-खो, गिल्ली-डंडा। आजकल बच्चे ज़्यादातर मोबाइल और वीडियो गेम खेलते हैं। पुराने खेलों में दोस्ती, शारीरिक व्यायाम (exercise), और टीमवर्क था। कहानी बताती है कि मिलकर बाहर खेलना ज़्यादा अच्छा है। (In old times, children played outdoors together. Now they mostly play mobile and video games. Old games had friendship, exercise, and teamwork. The story shows that playing outdoors together is better.)",
+          "hint": "तुम ज़्यादा बाहर खेलते हो या मोबाइल पर? (Do you play more outdoors or on mobile?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi3_010",
+          "front": "कहानी का शीर्षक 'किरमिच की गेंद' क्यों रखा गया? (Why is the story titled 'The Leather Ball'?)",
+          "back": "शीर्षक इसलिए रखा गया क्योंकि किरमिच की गेंद कहानी का केंद्रबिंदु (central point) है। यह गेंद बच्चों को एक साथ लाती है, उनमें दोस्ती करवाती है, और खेल का आनंद देती है। गेंद एक साधारण चीज़ है लेकिन उसने बच्चों की ज़िंदगी में बहुत खुशी भर दी। शीर्षक सादगी (simplicity) में खुशी ढूँढने का संदेश देता है। (The title is because the leather ball is the centerpiece. It brings children together, creates friendships, and gives joy. The ball is simple but fills children's lives with happiness. The title conveys finding joy in simplicity.)",
+          "hint": "गेंद कहानी में क्या भूमिका निभाती है? (What role does the ball play in the story?)",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

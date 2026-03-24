@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u9",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_9_001",
+      "term": "Naughty",
+      "definition": "Behaving badly or not obeying rules, especially in a playful way. The boy in the poem is naughty because he runs away without permission.",
+      "pronunciation": "NAW-tee",
+      "exampleUsage": "The naughty boy ran away from home to explore Scotland.",
+      "difficulty": "easy",
+      "relatedTerms": ["mischievous", "playful", "disobedient"]
+    },
+    {
+      "id": "gls_eng_9_002",
+      "term": "Puppet",
+      "definition": "A doll or figure that can be moved by pulling strings, using hands, or other means. Pinocchio is a special puppet made of wood.",
+      "pronunciation": "PUH-pit",
+      "exampleUsage": "Geppetto carved a beautiful puppet out of wood.",
+      "difficulty": "easy",
+      "relatedTerms": ["doll", "marionette", "toy"]
+    },
+    {
+      "id": "gls_eng_9_003",
+      "term": "Carpenter",
+      "definition": "A person who makes and repairs things made of wood, like furniture, doors, and shelves. Geppetto was a carpenter who made Pinocchio.",
+      "pronunciation": "KAR-pen-tur",
+      "exampleUsage": "The carpenter made a wooden chair for the classroom.",
+      "difficulty": "easy",
+      "relatedTerms": ["woodworker", "craftsman", "builder"]
+    },
+    {
+      "id": "gls_eng_9_004",
+      "term": "Punctuation",
+      "definition": "The marks used in writing to separate sentences and make meaning clear. Full stops, commas, question marks, and exclamation marks are all punctuation marks.",
+      "pronunciation": "PUNK-choo-AY-shun",
+      "exampleUsage": "Good punctuation makes your writing easy to read and understand.",
+      "difficulty": "medium",
+      "relatedTerms": ["full stop", "comma", "question mark", "exclamation mark"]
+    },
+    {
+      "id": "gls_eng_9_005",
+      "term": "Curious",
+      "definition": "Wanting to learn or know more about something. The naughty boy was curious about what Scotland looked like.",
+      "pronunciation": "KYOOR-ee-us",
+      "exampleUsage": "The curious boy wanted to find out what was inside the old box.",
+      "difficulty": "easy",
+      "relatedTerms": ["inquisitive", "interested", "eager"]
+    },
+    {
+      "id": "gls_eng_9_006",
+      "term": "Honest",
+      "definition": "Telling the truth and not lying or cheating. Pinocchio had to learn to be honest because his nose grew when he lied.",
+      "pronunciation": "ON-ist",
+      "exampleUsage": "An honest person always tells the truth, even when it is difficult.",
+      "difficulty": "easy",
+      "relatedTerms": ["truthful", "sincere", "trustworthy"]
+    },
+    {
+      "id": "gls_eng_9_007",
+      "term": "Exclamation",
+      "definition": "A sudden cry or remark expressing surprise, joy, pain, or excitement. An exclamation mark (!) is used at the end of such sentences.",
+      "pronunciation": "EKS-kluh-MAY-shun",
+      "exampleUsage": "'What a surprise!' is an exclamation showing strong feeling.",
+      "difficulty": "medium",
+      "relatedTerms": ["exclamation mark", "surprise", "emotion"]
+    },
+    {
+      "id": "gls_eng_9_008",
+      "term": "Mischievous",
+      "definition": "Liking to play tricks and have fun in a slightly naughty way. It is similar to naughty but often in a harmless, playful manner.",
+      "pronunciation": "MIS-chuh-vus",
+      "exampleUsage": "The mischievous kitten knocked over the flower vase.",
+      "difficulty": "medium",
+      "relatedTerms": ["naughty", "playful", "cheeky"]
+    },
+    {
+      "id": "gls_eng_9_009",
+      "term": "Adventure",
+      "definition": "An exciting and sometimes risky experience or journey. Pinocchio goes on many adventures before becoming a real boy.",
+      "pronunciation": "ad-VEN-chur",
+      "exampleUsage": "Pinocchio had many adventures before he learned his lessons.",
+      "difficulty": "easy",
+      "relatedTerms": ["journey", "experience", "explore"]
+    },
+    {
+      "id": "gls_eng_9_010",
+      "term": "Consequence",
+      "definition": "Something that happens as a result of an action. When Pinocchio lies, the consequence is that his nose grows longer.",
+      "pronunciation": "KON-suh-kwens",
+      "exampleUsage": "The consequence of not studying is doing poorly on the test.",
+      "difficulty": "medium",
+      "relatedTerms": ["result", "outcome", "effect"]
+    }
+  ]
+}

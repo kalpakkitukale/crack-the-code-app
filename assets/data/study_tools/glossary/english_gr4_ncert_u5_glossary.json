@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u5",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_5_001",
+      "term": "Blind",
+      "definition": "Unable to see. Helen Keller was blind - she could not see anything.",
+      "pronunciation": "BLYND",
+      "exampleUsage": "Helen Keller was blind from a very young age.",
+      "difficulty": "easy",
+      "relatedTerms": ["sight", "vision", "deaf"]
+    },
+    {
+      "id": "gls_eng_5_002",
+      "term": "Deaf",
+      "definition": "Unable to hear. Helen Keller was deaf - she could not hear any sounds.",
+      "pronunciation": "DEF",
+      "exampleUsage": "Being deaf, Helen could not hear her teacher speak.",
+      "difficulty": "easy",
+      "relatedTerms": ["hearing", "sound", "blind"]
+    },
+    {
+      "id": "gls_eng_5_003",
+      "term": "Determined",
+      "definition": "Having a strong will to achieve something, not giving up easily.",
+      "pronunciation": "dih-TER-mind",
+      "exampleUsage": "Helen was determined to learn to communicate.",
+      "difficulty": "medium",
+      "relatedTerms": ["strong-willed", "persistent"]
+    },
+    {
+      "id": "gls_eng_5_004",
+      "term": "Courage",
+      "definition": "The ability to face fear, danger, or difficulty bravely.",
+      "pronunciation": "KUR-ij",
+      "exampleUsage": "Helen showed great courage in overcoming her disabilities.",
+      "difficulty": "easy",
+      "relatedTerms": ["bravery", "fearless"]
+    },
+    {
+      "id": "gls_eng_5_005",
+      "term": "Adjective",
+      "definition": "A word that describes a noun - tells us about its qualities like size, color, or nature.",
+      "pronunciation": "AJ-ik-tiv",
+      "exampleUsage": "In 'brave girl', the word 'brave' is an adjective.",
+      "difficulty": "easy",
+      "relatedTerms": ["describing word", "modifier"]
+    },
+    {
+      "id": "gls_eng_5_006",
+      "term": "Inspire",
+      "definition": "To encourage someone or fill them with ideas to do great things.",
+      "pronunciation": "in-SPY-er",
+      "exampleUsage": "Helen Keller's story inspires people all over the world.",
+      "difficulty": "medium",
+      "relatedTerms": ["motivate", "encourage"]
+    },
+    {
+      "id": "gls_eng_5_007",
+      "term": "Communicate",
+      "definition": "To share information, ideas, or feelings with others.",
+      "pronunciation": "kuh-MYOO-ni-kayt",
+      "exampleUsage": "Helen learned to communicate through sign language.",
+      "difficulty": "medium",
+      "relatedTerms": ["talk", "express", "sign language"]
+    },
+    {
+      "id": "gls_eng_5_008",
+      "term": "Sign Language",
+      "definition": "A way of communicating using hand movements and gestures instead of spoken words.",
+      "pronunciation": "SYNE LANG-wij",
+      "exampleUsage": "Anne Sullivan taught Helen sign language by spelling words into her palm.",
+      "difficulty": "easy",
+      "relatedTerms": ["gestures", "hand signs", "communication"]
+    },
+    {
+      "id": "gls_eng_5_009",
+      "term": "Darkness",
+      "definition": "The absence of light; when it is not bright.",
+      "pronunciation": "DARK-nis",
+      "exampleUsage": "The poem tells us not to be afraid of the dark.",
+      "difficulty": "easy",
+      "relatedTerms": ["night", "shadow", "light"]
+    },
+    {
+      "id": "gls_eng_5_010",
+      "term": "Achievement",
+      "definition": "Something difficult that you accomplish through effort and skill.",
+      "pronunciation": "uh-CHEEV-ment",
+      "exampleUsage": "Graduating from college was a great achievement for Helen Keller.",
+      "difficulty": "medium",
+      "relatedTerms": ["accomplishment", "success"]
+    }
+  ]
+}

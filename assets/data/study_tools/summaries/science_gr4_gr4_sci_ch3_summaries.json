@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_sci_ch3",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_s3_v1",
+      "videoId": "gr4_s3_v1",
+      "content": "This lesson introduces what matter is and the three states of matter: solid, liquid, and gas. Everything around us is made of matter. Matter is anything that takes up space and has weight. The desk you sit at, the water you drink, and the air you breathe are all matter. Matter exists in three main forms called states. Solids have a fixed shape, liquids can flow and take the shape of their container, and gases spread out to fill all the space around them.",
+      "keyPoints": [
+        "Matter is anything that takes up space and has weight",
+        "There are three states of matter: solid, liquid, and gas",
+        "Everything around us is made of matter",
+        "Each state has its own special properties"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_s3_v2",
+      "videoId": "gr4_s3_v2",
+      "content": "Solids are all around us. A solid has a fixed shape and a fixed size. You can hold a solid in your hand, like a book, a stone, or an ice cube. The tiny particles inside a solid are packed very closely together and cannot move around freely, which is why solids keep their shape. Some solids are hard like a rock, while others are soft like a sponge. You can change the shape of some solids by bending, breaking, or pressing them, like clay or play dough.",
+      "keyPoints": [
+        "Solids have a fixed shape and fixed size",
+        "Particles in solids are tightly packed together",
+        "Some solids are hard (rock) and some are soft (sponge)",
+        "You can change the shape of some solids by bending or pressing"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_s3_v3",
+      "videoId": "gr4_s3_v3",
+      "content": "Liquids are very different from solids. A liquid can flow from one place to another and takes the shape of whatever container it is poured into. Pour water into a round bowl and it becomes round; pour it into a square box and it becomes square. Liquids have a fixed volume, which means the amount stays the same even if the shape changes. The particles in a liquid are close together but can slide over each other, which is why liquids flow. Examples include water, milk, juice, oil, and honey.",
+      "keyPoints": [
+        "Liquids flow and take the shape of their container",
+        "Liquids have a fixed volume but no fixed shape",
+        "Particles in liquids can slide over each other",
+        "Water, milk, juice, and oil are common liquids"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_s3_v4",
+      "videoId": "gr4_s3_v4",
+      "content": "Gases have no fixed shape and no fixed size. They spread out to fill any space they are in. You cannot usually see gases, but you can feel the wind blowing and smell perfume spreading across a room. When you blow air into a balloon, the gas fills the balloon and makes it bigger. Matter can change from one state to another. Heating a solid can melt it into a liquid, like ice turning into water. Heating a liquid can turn it into a gas, like boiling water turning into steam. Cooling reverses these changes: steam becomes water, and water becomes ice.",
+      "keyPoints": [
+        "Gases have no fixed shape and no fixed size",
+        "Gas particles are far apart and move very fast",
+        "Matter changes state when heated or cooled",
+        "Melting, freezing, evaporation, and condensation are state changes"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch9",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn9_001",
+      "term": "Equal Groups",
+      "definition": "Groups that have the same number of objects in each group. Making equal groups is the basic idea behind multiplication.",
+      "pronunciation": "EE-kwul GROOPS",
+      "exampleUsage": "There are 4 equal groups of 3 pencils, so there are 12 pencils in total.",
+      "difficulty": "easy",
+      "relatedTerms": ["multiplication", "groups of"]
+    },
+    {
+      "id": "gls_gr4_mn9_002",
+      "term": "Multiplication",
+      "definition": "A quick way of adding the same number again and again. Instead of 5+5+5, we write 3 x 5 = 15.",
+      "pronunciation": "mul-tih-plih-KAY-shun",
+      "exampleUsage": "3 x 4 = 12 means 3 groups of 4 objects gives 12 in total.",
+      "difficulty": "easy",
+      "relatedTerms": ["equal groups", "times", "product"]
+    },
+    {
+      "id": "gls_gr4_mn9_003",
+      "term": "Times",
+      "definition": "The word we use for the multiplication sign (x). '4 times 3' means 4 groups of 3.",
+      "pronunciation": "TYMZ",
+      "exampleUsage": "5 times 6 equals 30.",
+      "difficulty": "easy",
+      "relatedTerms": ["multiplication", "groups of"]
+    },
+    {
+      "id": "gls_gr4_mn9_004",
+      "term": "Product",
+      "definition": "The answer you get when you multiply two numbers together.",
+      "pronunciation": "PROD-ukt",
+      "exampleUsage": "The product of 4 and 7 is 28 because 4 x 7 = 28.",
+      "difficulty": "medium",
+      "relatedTerms": ["multiplication", "times"]
+    },
+    {
+      "id": "gls_gr4_mn9_005",
+      "term": "Array",
+      "definition": "A way of arranging objects neatly in rows and columns, with the same number in each row.",
+      "pronunciation": "uh-RAY",
+      "exampleUsage": "Chairs arranged in 4 rows of 5 make a 4 x 5 array of 20 chairs.",
+      "difficulty": "easy",
+      "relatedTerms": ["rows", "columns", "multiplication"]
+    },
+    {
+      "id": "gls_gr4_mn9_006",
+      "term": "Skip Counting",
+      "definition": "Counting forward by jumping the same number each time, like 2, 4, 6, 8 or 5, 10, 15, 20.",
+      "pronunciation": "SKIP KOWN-ting",
+      "exampleUsage": "Skip counting by 3 gives: 3, 6, 9, 12, 15, 18...",
+      "difficulty": "easy",
+      "relatedTerms": ["multiplication", "times table"]
+    },
+    {
+      "id": "gls_gr4_mn9_007",
+      "term": "Times Table",
+      "definition": "A list of multiplication facts for a particular number. For example, the table of 4 is: 4x1=4, 4x2=8, 4x3=12, and so on.",
+      "pronunciation": "TYMZ TAY-bul",
+      "exampleUsage": "I have memorised the times table of 7 up to 7 x 10 = 70.",
+      "difficulty": "easy",
+      "relatedTerms": ["multiplication", "skip counting"]
+    },
+    {
+      "id": "gls_gr4_mn9_008",
+      "term": "Repeated Addition",
+      "definition": "Adding the same number over and over. It is what multiplication replaces to make it faster.",
+      "pronunciation": "rih-PEE-ted uh-DIH-shun",
+      "exampleUsage": "4 + 4 + 4 is repeated addition, and the shorter way is 3 x 4 = 12.",
+      "difficulty": "easy",
+      "relatedTerms": ["multiplication", "equal groups"]
+    },
+    {
+      "id": "gls_gr4_mn9_009",
+      "term": "Rows",
+      "definition": "Lines of objects arranged going across (left to right) in an array.",
+      "pronunciation": "ROHZ",
+      "exampleUsage": "The egg tray has 2 rows with 6 eggs in each row.",
+      "difficulty": "easy",
+      "relatedTerms": ["array", "columns"]
+    },
+    {
+      "id": "gls_gr4_mn9_010",
+      "term": "Columns",
+      "definition": "Lines of objects arranged going up and down (top to bottom) in an array.",
+      "pronunciation": "KOL-umz",
+      "exampleUsage": "The classroom has 5 columns of desks with 6 desks in each column.",
+      "difficulty": "easy",
+      "relatedTerms": ["array", "rows"]
+    }
+  ]
+}

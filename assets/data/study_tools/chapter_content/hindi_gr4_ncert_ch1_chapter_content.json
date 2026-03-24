@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch1",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hi1",
+    "title": "मन के भोले-भाले बादल (Innocent Clouds of the Mind)",
+    "content": "यह कक्षा 4 की NCERT रिमझिम पुस्तक का पहला अध्याय है। यह एक सुंदर कविता है जो बादलों को भोले-भाले बच्चों की तरह दर्शाती है। कवि ने बादलों की कल्पना बच्चों के रूप में की है जो आसमान में बिना किसी चिंता के घूमते-खेलते रहते हैं। बादल कभी हाथी, कभी घोड़े, कभी पहाड़ का आकार लेते हैं। कविता बच्चों की कल्पना शक्ति को बढ़ावा देती है और प्रकृति से जुड़ने की प्रेरणा देती है। शब्दार्थ, उपमा अलंकार, और पर्यायवाची शब्दों के ज़रिये भाषा कौशल भी विकसित होता है। (This is Chapter 1 of NCERT Rimjhim Class 4. It is a beautiful poem depicting clouds as innocent children. The poet imagines clouds as children playing freely in the sky, taking shapes of elephants, horses, and mountains. The poem encourages children's imagination and inspires connection with nature. Language skills develop through vocabulary, similes, and synonyms.)",
+    "keyPoints": [
+      "कविता बादलों को भोले-भाले बच्चों जैसा दर्शाती है (The poem portrays clouds as innocent children)",
+      "बादल आसमान में अलग-अलग आकार बनाते हैं (Clouds form different shapes in the sky)",
+      "कल्पना शक्ति कविता का केंद्रीय विषय है (Imagination is the central theme of the poem)",
+      "उपमा अलंकार और मानवीकरण का प्रयोग हुआ है (Simile and personification are used)",
+      "पर्यायवाची शब्द: बादल-मेघ, आकाश-आसमान (Synonyms: बादल-मेघ, आकाश-आसमान)",
+      "कविता प्रकृति प्रेम और बचपन की मासूमियत को दर्शाती है (The poem depicts love for nature and childhood innocence)"
+    ],
+    "learningObjectives": [
+      "कविता को सही लय और उच्चारण के साथ पढ़ना (Read the poem with correct rhythm and pronunciation)",
+      "कठिन शब्दों के अर्थ समझना और वाक्यों में प्रयोग करना (Understand difficult words and use them in sentences)",
+      "उपमा अलंकार को पहचानना और समझना (Identify and understand simile as a figure of speech)",
+      "पर्यायवाची शब्दों को जानना (Learn synonym pairs)",
+      "कविता के प्रश्न-उत्तर लिखना (Write answers to poem-based questions)",
+      "प्रकृति के प्रति संवेदनशीलता विकसित करना (Develop sensitivity towards nature)"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hi1_001",
+      "title": "कविता पढ़ने की टिप (Poem Reading Tip)",
+      "content": "कविता को पहले चुपचाप पढ़ो, फिर ज़ोर से पढ़ो। ध्यान दो कि कहाँ रुकना है और कहाँ ज़ोर देना है। 'भोले-भाले' पर ज़ोर देकर बोलो। कविता की लय (rhythm) समझने के लिए ताली बजाते हुए पढ़ो। गाकर पढ़ने से कविता जल्दी याद होती है! (Read the poem silently first, then aloud. Pay attention to pauses and emphasis. Stress on 'भोले-भाले'. Clap while reading to understand rhythm. Singing makes memorization easier!)",
+      "tags": ["study-tip", "poem-reading"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hi1_002",
+      "title": "बादल देखो, कल्पना करो! (Watch Clouds, Imagine!)",
+      "content": "अगली बार जब आसमान में बादल हों, तो बाहर जाकर उन्हें ध्यान से देखो। क्या तुम्हें कोई जानवर, पहाड़, या कोई और आकृति दिखती है? एक कॉपी में बादलों के आकार बनाओ और लिखो कि तुम्हें क्या-क्या दिखा। यह गतिविधि कविता को समझने में बहुत मदद करेगी। (Next time there are clouds, go outside and observe them carefully. Do you see animals, mountains, or other shapes? Draw the shapes in a notebook and write what you saw. This activity helps understand the poem.)",
+      "tags": ["activity", "observation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hi1_003",
+      "title": "शब्दार्थ याद करने का तरीका (How to Remember Word Meanings)",
+      "content": "हर नए शब्द के लिए एक छोटा कार्ड बनाओ। एक तरफ शब्द लिखो (जैसे 'भोले-भाले') और दूसरी तरफ अर्थ और एक वाक्य। रोज़ 5 मिनट इन कार्डों को देखो। चित्र बनाकर शब्द याद करना और भी आसान होता है - 'बादल' के लिए बादल का चित्र बनाओ! (Make a small card for each new word. Write the word on one side and meaning with a sentence on the other. Review cards for 5 minutes daily. Drawing pictures makes it even easier!)",
+      "tags": ["study-tip", "vocabulary"],
+      "isPinned": false
+    }
+  ]
+}

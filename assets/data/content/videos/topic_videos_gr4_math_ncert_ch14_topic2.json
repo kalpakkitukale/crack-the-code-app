@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn14_t2",
+  "topicId": "gr4_mn_14_2",
+  "topicName": "Tally Marks",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1590,
+    "totalDurationDisplay": "26:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_14_1"],
+    "followUpTopics": ["gr4_mn_14_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn14_v2",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Tally Marks | How to Count Using Tally Marks",
+      "description": "Learn how to use tally marks to count and record data quickly. Every 5th mark goes across to make counting easy. Practice tally marks with fun examples!",
+      "youtubeId": "YBbUKx0x5fU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YBbUKx0x5fU",
+      "thumbnailUrl": "https://img.youtube.com/vi/YBbUKx0x5fU/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["tally marks", "counting", "data recording", "tally chart", "frequency"],
+      "learningObjectives": ["Understand what tally marks are", "Draw tally marks for any number", "Read tally marks to find the count"],
+      "keyConceptsCovered": ["Tally mark notation (groups of 5)", "Drawing tally marks", "Reading tally charts"],
+      "prerequisites": ["Basic counting", "Data collection"],
+      "followUpTopics": ["Frequency tables", "Pictographs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Collecting and Organising Data | Data Handling for Kids",
+      "description": "See how collected data is organised into tally charts and frequency tables. Watch step-by-step examples of turning survey results into neat tally tables!",
+      "youtubeId": "TXslGErFmJE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TXslGErFmJE",
+      "thumbnailUrl": "https://img.youtube.com/vi/TXslGErFmJE/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["data collection", "tally chart", "frequency table", "organising data"],
+      "learningObjectives": ["Create tally charts from raw data", "Convert tally marks to numbers", "Build a frequency table"],
+      "keyConceptsCovered": ["Raw data to tally chart", "Tally to frequency conversion", "Organising data in tables"],
+      "prerequisites": ["Tally mark notation"],
+      "followUpTopics": ["Reading tally charts"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch14_counting_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Counting and Sorting Objects | Sorting into Groups",
+      "description": "Practice counting and sorting with tally marks. Sort objects into groups and use tally marks to record how many are in each group.",
+      "youtubeId": "408bLnzcYuQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=408bLnzcYuQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/408bLnzcYuQ/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+      "tags": ["counting", "sorting", "tally practice", "grouping"],
+      "learningObjectives": ["Apply tally marks to sort and count", "Record sorted data using tally marks", "Check counts by reading tally marks back"],
+      "keyConceptsCovered": ["Sorting and tallying", "Recording group counts", "Verifying tally totals"],
+      "prerequisites": ["Tally mark notation"],
+      "followUpTopics": ["Pictographs from tally data"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v3",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Pictographs for Kids | Reading and Making Picture Graphs",
+      "description": "See how tally chart data can be turned into pictographs. This video bridges tally marks and pictographs, showing how one leads to the other.",
+      "youtubeId": "Gn2pdkvdbGQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gn2pdkvdbGQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/Gn2pdkvdbGQ/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2200000,
+      "tags": ["tally to pictograph", "picture graph", "data conversion", "visual data"],
+      "learningObjectives": ["Convert tally data into pictographs", "Understand the connection between tallies and pictures", "Begin reading pictographs"],
+      "keyConceptsCovered": ["From tally chart to pictograph", "Using symbols to represent numbers", "Connecting data representations"],
+      "prerequisites": ["Tally charts"],
+      "followUpTopics": ["Pictograph reading and interpretation"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn14_v2", "gr4_mn14_v1", "gr4_mn14_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1260,
+      "estimatedTimeDisplay": "21:00",
+      "rationale": "Quick tally marks and transition to pictographs for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn14_v2", "gr4_mn14_v1", "prereq_ch14_counting_v1", "gr4_mn14_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1650,
+      "estimatedTimeDisplay": "27:30",
+      "rationale": "Complete coverage of tally marks with practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch14_counting_v1", "gr4_mn14_v2", "gr4_mn14_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1170,
+      "estimatedTimeDisplay": "19:30",
+      "rationale": "Start with counting review, then tally marks"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn14_v2", "gr4_mn14_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 780,
+      "estimatedTimeDisplay": "13:00",
+      "rationale": "Essential tally marks concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn14_v1",
+      "checkpointName": "Tally Chart Reading Check",
+      "questions": [
+        {
+          "question": "In a tally chart, how many does |||| ||| stand for?",
+          "options": ["5", "7", "8", "3"],
+          "correctAnswer": 2,
+          "explanation": "|||| is a group of 5, and ||| is 3 more. So |||| ||| = 5 + 3 = 8."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Have students practise tally marks by doing a live survey in class. Ask a question like 'What is your favourite season?' and record answers using tally marks on the board.",
+    "parentGuidance": "At home, ask your child to count items using tally marks. For example, tally the number of each type of vehicle they see from the window in 10 minutes.",
+    "studentGuidance": "Tally marks are a quick way to count! Draw a line for each thing you count, and every 5th line goes across the group. It makes counting super easy!"
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "id": "biology",
+  "name": "Biology",
+  "icon": "assets/icons/biology.png",
+  "color": "#4CAF50",
+  "boardId": "cbse",
+  "classId": "class_12",
+  "streamId": "science_pcb",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "id": "ch1_reproduction",
+      "number": 1,
+      "name": "Reproduction in Organisms",
+      "description": "Modes of reproduction, asexual and sexual reproduction",
+      "topics": [
+        {
+          "id": "topic_1_1",
+          "name": "Modes of Reproduction",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_1_2",
+          "name": "Asexual Reproduction",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_1_3",
+          "name": "Sexual Reproduction",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch2_sexual_reproduction_flowering",
+      "number": 2,
+      "name": "Sexual Reproduction in Flowering Plants",
+      "description": "Structure of flower, pollination, fertilization and seed development",
+      "topics": [
+        {
+          "id": "topic_2_1",
+          "name": "Flower Structure",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_2_2",
+          "name": "Pollination",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_2_3",
+          "name": "Fertilization",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_2_4",
+          "name": "Post-fertilization Events",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch3_human_reproduction",
+      "number": 3,
+      "name": "Human Reproduction",
+      "description": "Male and female reproductive systems, menstrual cycle, fertilization and pregnancy",
+      "topics": [
+        {
+          "id": "topic_3_1",
+          "name": "Male Reproductive System",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_3_2",
+          "name": "Female Reproductive System",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_3_3",
+          "name": "Menstrual Cycle",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_3_4",
+          "name": "Fertilization and Pregnancy",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ch4_reproductive_health",
+      "number": 4,
+      "name": "Reproductive Health",
+      "description": "Reproductive health issues, contraception, STDs, and infertility",
+      "topics": [
+        {
+          "id": "topic_4_1",
+          "name": "Reproductive Health Problems",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_4_2",
+          "name": "Birth Control Methods",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_4_3",
+          "name": "STDs and Prevention",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_4_4",
+          "name": "Infertility and ART",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch5_heredity_variation",
+      "number": 5,
+      "name": "Principles of Inheritance and Variation",
+      "description": "Mendel's laws, chromosomal theory, sex determination, and genetic disorders",
+      "topics": [
+        {
+          "id": "topic_5_1",
+          "name": "Mendel's Laws",
+          "difficulty": "basic",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_5_2",
+          "name": "Chromosomal Theory",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_5_3",
+          "name": "Sex Determination",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_5_4",
+          "name": "Genetic Disorders",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch6_molecular_basis",
+      "number": 6,
+      "name": "Molecular Basis of Inheritance",
+      "description": "DNA structure, replication, transcription, translation, and gene regulation",
+      "topics": [
+        {
+          "id": "topic_6_1",
+          "name": "DNA Structure and Replication",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_6_2",
+          "name": "Transcription",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_6_3",
+          "name": "Translation",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_6_4",
+          "name": "Gene Regulation",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch7_evolution",
+      "number": 7,
+      "name": "Evolution",
+      "description": "Origin of life, evolution theories, natural selection, and human evolution",
+      "topics": [
+        {
+          "id": "topic_7_1",
+          "name": "Origin of Life",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_7_2",
+          "name": "Evolution Theories",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_7_3",
+          "name": "Natural Selection",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_7_4",
+          "name": "Human Evolution",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch8_human_health",
+      "number": 8,
+      "name": "Human Health and Disease",
+      "description": "Common diseases, immunity, AIDS, cancer, and drug abuse",
+      "topics": [
+        {
+          "id": "topic_8_1",
+          "name": "Common Diseases",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_8_2",
+          "name": "Immunity",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_8_3",
+          "name": "AIDS and Cancer",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_8_4",
+          "name": "Drug and Alcohol Abuse",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch9_food_production",
+      "number": 9,
+      "name": "Strategies for Enhancement in Food Production",
+      "description": "Animal husbandry, plant breeding, and tissue culture",
+      "topics": [
+        {
+          "id": "topic_9_1",
+          "name": "Animal Husbandry",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_9_2",
+          "name": "Plant Breeding",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_9_3",
+          "name": "Tissue Culture",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch10_microbes",
+      "number": 10,
+      "name": "Microbes in Human Welfare",
+      "description": "Microbes in household products, industrial products, sewage treatment, and biogas",
+      "topics": [
+        {
+          "id": "topic_10_1",
+          "name": "Microbes in Household Products",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_10_2",
+          "name": "Industrial Products",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_10_3",
+          "name": "Sewage Treatment",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_10_4",
+          "name": "Biogas and Biocontrol",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch11_biotechnology",
+      "number": 11,
+      "name": "Biotechnology: Principles and Processes",
+      "description": "Genetic engineering, recombinant DNA technology, and tools",
+      "topics": [
+        {
+          "id": "topic_11_1",
+          "name": "Principles of Biotechnology",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_11_2",
+          "name": "Tools of Recombinant DNA",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_11_3",
+          "name": "Processes",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ch12_biotechnology_applications",
+      "number": 12,
+      "name": "Biotechnology and its Applications",
+      "description": "Applications in agriculture, medicine, and environmental conservation",
+      "topics": [
+        {
+          "id": "topic_12_1",
+          "name": "Agricultural Applications",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_12_2",
+          "name": "Medical Applications",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_12_3",
+          "name": "Environmental Applications",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch13_organisms_populations",
+      "number": 13,
+      "name": "Organisms and Populations",
+      "description": "Ecology, population attributes, and population interactions",
+      "topics": [
+        {
+          "id": "topic_13_1",
+          "name": "Organism and Environment",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_13_2",
+          "name": "Population Attributes",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_13_3",
+          "name": "Population Interactions",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch14_ecosystem",
+      "number": 14,
+      "name": "Ecosystem",
+      "description": "Ecosystem structure and function, productivity, energy flow, and nutrient cycling",
+      "topics": [
+        {
+          "id": "topic_14_1",
+          "name": "Ecosystem Structure",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_14_2",
+          "name": "Productivity and Energy Flow",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_14_3",
+          "name": "Nutrient Cycling",
+          "difficulty": "advanced",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_14_4",
+          "name": "Ecological Succession",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch15_biodiversity",
+      "number": 15,
+      "name": "Biodiversity and Conservation",
+      "description": "Biodiversity, patterns, importance, loss, and conservation",
+      "topics": [
+        {
+          "id": "topic_15_1",
+          "name": "Biodiversity",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_15_2",
+          "name": "Biodiversity Patterns",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_15_3",
+          "name": "Loss of Biodiversity",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_15_4",
+          "name": "Conservation",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch16_environmental_issues",
+      "number": 16,
+      "name": "Environmental Issues",
+      "description": "Air, water pollution, solid wastes, greenhouse effect, and ozone depletion",
+      "topics": [
+        {
+          "id": "topic_16_1",
+          "name": "Air Pollution",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_16_2",
+          "name": "Water Pollution",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_16_3",
+          "name": "Solid Waste Management",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_16_4",
+          "name": "Greenhouse Effect and Ozone",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    }
+  ]
+}

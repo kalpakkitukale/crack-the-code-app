@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ch1",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_m1_pv",
+      "name": "Place Value Basics",
+      "description": "Master place value concepts from ones to thousands",
+      "topicId": "gr4_m_1_1",
+      "chapterId": "gr4_math_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_m1_001",
+          "front": "What is place value?",
+          "back": "The value of a digit based on its position in a number.",
+          "hint": "Think about where the digit sits in the number",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m1_002",
+          "front": "In the number 345, what is the place value of 4?",
+          "back": "40 (4 is in the tens place)",
+          "hint": "Count positions from the right",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m1_003",
+          "front": "What is the ones place?",
+          "back": "The rightmost position in a whole number. Each unit equals 1.",
+          "hint": "It's the first position when counting from the right",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m1_004",
+          "front": "What is the value of 7 in 7,234?",
+          "back": "7,000 (7 is in the thousands place)",
+          "hint": "Count 4 positions from the right",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m1_005",
+          "front": "What is expanded form?",
+          "back": "A way of writing a number that shows the value of each digit. Example: 234 = 200 + 30 + 4",
+          "hint": "Break the number into its parts",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m1_compare",
+      "name": "Comparing Numbers",
+      "description": "Learn to compare numbers using symbols",
+      "topicId": "gr4_m_1_2",
+      "chapterId": "gr4_math_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_m1_006",
+          "front": "What symbol means 'greater than'?",
+          "back": "> (the open end points to the bigger number)",
+          "hint": "The symbol looks like an arrow pointing left",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m1_007",
+          "front": "What symbol means 'less than'?",
+          "back": "< (the open end points to the bigger number)",
+          "hint": "The symbol looks like an arrow pointing right",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m1_008",
+          "front": "Compare: 456 ___ 465",
+          "back": "456 < 465 (456 is less than 465)",
+          "hint": "Look at the tens place - which has the bigger digit?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m1_009",
+          "front": "How do you compare two numbers with different number of digits?",
+          "back": "The number with more digits is usually greater (unless it has leading zeros).",
+          "hint": "More digits = bigger number",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m1_010",
+          "front": "Compare: 1,234 ___ 999",
+          "back": "1,234 > 999 (1,234 has 4 digits, 999 has only 3)",
+          "hint": "Count the digits first",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m1_patterns",
+      "name": "Number Patterns",
+      "description": "Recognize and continue number sequences",
+      "topicId": "gr4_m_1_3",
+      "chapterId": "gr4_math_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_m1_011",
+          "front": "What is a number pattern?",
+          "back": "A sequence of numbers that follows a specific rule.",
+          "hint": "Look for what stays the same between numbers",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m1_012",
+          "front": "What comes next: 2, 4, 6, 8, ___?",
+          "back": "10 (the pattern adds 2 each time)",
+          "hint": "What do you add to get from one number to the next?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m1_013",
+          "front": "What comes next: 5, 10, 15, 20, ___?",
+          "back": "25 (the pattern adds 5 each time)",
+          "hint": "Count by 5s",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m1_014",
+          "front": "What comes next: 1, 2, 4, 8, ___?",
+          "back": "16 (the pattern doubles each time)",
+          "hint": "Each number is multiplied by 2",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m1_015",
+          "front": "Find the rule: 100, 90, 80, 70, ___",
+          "back": "60 (the pattern subtracts 10 each time)",
+          "hint": "Numbers are getting smaller",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch10",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hi10_kahani",
+      "name": "कहानी पाठ (Story Reading)",
+      "description": "Learn about the story of food, culture, and togetherness from Rimjhim Chapter 10",
+      "topicId": "gr4_hi_10_1",
+      "chapterId": "gr4_hin_ncert_ch10",
+      "cards": [
+        {
+          "id": "card_gr4_hi10_001",
+          "front": "'थप्प रोटी थप्प दाल' कहानी किसके बारे में है? (What is the story 'Thapp Roti Thapp Dal' about?)",
+          "back": "यह कहानी खाने-पीने और भारतीय संस्कृति (culture) के बारे में है। इसमें बताया गया है कि रोटी और दाल भारतीय खाने का सबसे ज़रूरी हिस्सा है। कहानी में खाना बनाने, मिलकर खाने, और खाने से जुड़ी परंपराओं (traditions) के बारे में सुंदर तरीके से बताया गया है। (This story is about food and Indian culture. It tells how roti and dal are the most essential parts of Indian food. The story beautifully describes cooking, eating together, and food-related traditions.)",
+          "hint": "कहानी का नाम खाने से जुड़ा है (The title is related to food)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi10_002",
+          "front": "'थप्प' शब्द का क्या मतलब है? (What does the word 'Thapp' mean?)",
+          "back": "'थप्प' एक ध्वनि (sound) है जो रोटी बनाते समय आती है। जब आटे को हाथ से थपथपाकर रोटी बनाई जाती है तो 'थप्प-थप्प' की आवाज़ आती है। यह शब्द रोटी बनाने की क्रिया को मज़ेदार तरीके से दर्शाता है। (Thapp is the sound made while making roti. When dough is patted by hand to make roti, a 'thapp-thapp' sound is produced. This word represents the action of making roti in a fun way.)",
+          "hint": "रोटी बनाते समय क्या आवाज़ आती है? (What sound comes while making roti?)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi10_003",
+          "front": "रोटी और दाल भारतीय खाने में इतने महत्वपूर्ण क्यों हैं? (Why are roti and dal so important in Indian food?)",
+          "back": "रोटी और दाल भारत के लगभग हर घर में रोज़ बनती है। रोटी गेहूँ (wheat) से बनती है जो ऊर्जा (energy) देती है। दाल प्रोटीन (protein) देती है जो शरीर को मज़बूत बनाती है। ये दोनों सस्ते और पौष्टिक (nutritious) हैं। चाहे उत्तर हो या दक्षिण, पूर्व हो या पश्चिम - रोटी-दाल पूरे भारत को जोड़ती है। (Roti and dal are made in almost every Indian home daily. Roti from wheat gives energy, dal gives protein for strength. Both are affordable and nutritious. They connect all of India - north, south, east, and west.)",
+          "hint": "भारत में रोज़ सबसे ज़्यादा क्या खाया जाता है? (What is eaten most daily in India?)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi10_004",
+          "front": "कहानी में मिलकर खाना खाने का क्या महत्व बताया गया है? (What is the importance of eating together as shown in the story?)",
+          "back": "कहानी बताती है कि मिलकर खाना खाने से परिवार और दोस्ती मज़बूत होती है। जब सब लोग एक साथ बैठकर खाते हैं तो बातचीत होती है, हँसी-मज़ाक होता है, और प्यार बढ़ता है। भारतीय संस्कृति में मिलकर खाना बहुत ज़रूरी माना जाता है। खाना सिर्फ़ पेट भरने के लिए नहीं, बल्कि रिश्ते बनाने के लिए भी है। (The story tells that eating together strengthens family bonds and friendships. When everyone sits together to eat, there is conversation, laughter, and love. In Indian culture, eating together is very important. Food is not just for filling stomachs, but for building relationships.)",
+          "hint": "जब पूरा परिवार साथ खाता है तो क्या होता है? (What happens when the whole family eats together?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi10_005",
+          "front": "कहानी से हमें क्या सीख मिलती है? (What do we learn from this story?)",
+          "back": "कहानी से हमें कई सीख मिलती हैं: (1) खाना बनाना एक कला (art) है। (2) सादा खाना जैसे रोटी-दाल भी बहुत स्वादिष्ट और पौष्टिक होता है। (3) मिलकर खाने से खुशी बढ़ती है। (4) भारत की खाने की संस्कृति बहुत समृद्ध (rich) है। (5) खाने की कद्र करनी चाहिए और बर्बाद नहीं करना चाहिए। (Lessons: Cooking is an art, simple food like roti-dal is delicious and nutritious, eating together increases happiness, India's food culture is rich, and we should value food and not waste it.)",
+          "hint": "सादे खाने की क्या खासियत है? (What is special about simple food?)",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hi10_prashn",
+      "name": "प्रश्न उत्तर (Questions and Answers)",
+      "description": "Practice answering key questions from the story about food and culture",
+      "topicId": "gr4_hi_10_2",
+      "chapterId": "gr4_hin_ncert_ch10",
+      "cards": [
+        {
+          "id": "card_gr4_hi10_006",
+          "front": "रोटी किससे और कैसे बनती है? (What is roti made from and how?)",
+          "back": "रोटी गेहूँ के आटे (wheat flour) से बनती है। पहले आटे में पानी मिलाकर गूँधते हैं (knead)। फिर छोटे-छोटे गोले बनाकर बेलन (rolling pin) से गोल-गोल बेलते हैं। फिर तवे (flat pan) पर सेंकते हैं और आँच (flame) पर फुलाते हैं। जब रोटी फूलती है तो 'थप्प' की आवाज़ आती है! (Roti is made from wheat flour. Knead flour with water, make small balls, roll them round with a rolling pin, cook on a flat pan, and puff on flame.)",
+          "hint": "आटा गूँधना, बेलना, सेंकना (Knead, roll, bake)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi10_007",
+          "front": "दाल कितने प्रकार की होती है? (How many types of dal are there?)",
+          "back": "भारत में कई प्रकार की दालें होती हैं: मूँग दाल (moong dal - हरी/पीली), अरहर दाल (toor dal - पीली), मसूर दाल (masoor dal - लाल/नारंगी), चना दाल (chana dal - पीली), उड़द दाल (urad dal - काली/सफ़ेद), राजमा (kidney beans)। हर दाल का अपना स्वाद और रंग होता है। सभी दालें प्रोटीन से भरपूर होती हैं। (India has many types of dal: moong, toor, masoor, chana, urad, and rajma. Each has its own taste and colour. All dals are rich in protein.)",
+          "hint": "अलग-अलग रंगों की दालें सोचो (Think of dals of different colours)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi10_008",
+          "front": "भारत के अलग-अलग हिस्सों में क्या-क्या खाया जाता है? (What is eaten in different parts of India?)",
+          "back": "भारत के हर हिस्से का अपना खाना है: उत्तर भारत में रोटी, दाल, पराठे। दक्षिण भारत में इडली, डोसा, सांभर। पूर्व भारत में चावल और मछली। पश्चिम भारत में ढोकला, थेपला, पोहा। लेकिन रोटी और दाल लगभग पूरे भारत में खाई जाती है! खाने की यह विविधता (variety) भारत की खूबसूरती है। (Every part of India has its own food: North - roti, dal, paratha. South - idli, dosa, sambar. East - rice and fish. West - dhokla, thepla, poha. But roti and dal are eaten almost everywhere! This food variety is India's beauty.)",
+          "hint": "उत्तर, दक्षिण, पूर्व, पश्चिम - हर जगह अलग खाना (Different food in every direction)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi10_009",
+          "front": "खाना बर्बाद क्यों नहीं करना चाहिए? (Why should we not waste food?)",
+          "back": "खाना बर्बाद नहीं करना चाहिए क्योंकि: (1) किसान बहुत मेहनत से अनाज उगाते हैं। (2) खाना बनाने में भी बहुत मेहनत लगती है। (3) बहुत से लोगों को खाना नहीं मिलता। (4) खाना बर्बाद करना पैसे बर्बाद करना है। (5) खाना फेंकने से पर्यावरण को नुकसान होता है। उतना ही लो जितना खा सको! (We should not waste food because: farmers work hard to grow grain, cooking takes effort, many people don't get food, wasting food wastes money, and throwing food harms the environment. Take only what you can eat!)",
+          "hint": "किसान की मेहनत सोचो (Think of the farmer's hard work)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi10_010",
+          "front": "तुम्हारा पसंदीदा खाना क्या है और क्यों? (What is your favourite food and why?)",
+          "back": "यह एक व्यक्तिगत (personal) प्रश्न है। जवाब देते समय बताओ: (1) तुम्हें कौन सा खाना सबसे ज़्यादा पसंद है। (2) वह कैसे बनता है। (3) कौन बनाता है - माँ, पापा, दादी? (4) तुम्हें वह क्यों पसंद है - स्वाद, रंग, या किसी याद से जुड़ा है? (5) क्या तुम उसे बनाने में मदद करते हो? अपना जवाब 3-4 वाक्यों में लिखो। (This is a personal question. Tell: what food you like most, how it is made, who makes it, why you like it, and if you help make it. Write your answer in 3-4 sentences.)",
+          "hint": "अपने मनपसंद खाने के बारे में सोचो (Think about your favourite food)",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

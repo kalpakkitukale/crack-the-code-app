@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_ev1_living",
+      "name": "Living and Non-living Things",
+      "description": "Learn the differences between living and non-living things around us",
+      "topicId": "gr4_ev_1_1",
+      "chapterId": "gr4_evs_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_ev1_001",
+          "front": "What are living things?",
+          "back": "Living things are those that can grow, breathe, eat, move, and reproduce. Examples include plants, animals, and humans.",
+          "hint": "Think about what you and a puppy can do that a rock cannot",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_ev1_002",
+          "front": "What are non-living things?",
+          "back": "Non-living things do not grow, breathe, eat, or reproduce on their own. Examples include stones, water, and chairs.",
+          "hint": "Think about objects in your classroom that were never alive",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_ev1_003",
+          "front": "Name three things that all living things need to survive.",
+          "back": "Air, water, and food. All living things need these three things to stay alive and healthy.",
+          "hint": "What do you need every day to stay healthy?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_ev1_004",
+          "front": "Is a seed living or non-living?",
+          "back": "A seed is a living thing! Even though it looks still, it can grow into a plant when it gets water, air, and sunlight.",
+          "hint": "Think about what happens when you plant a seed in soil",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_ev1_005",
+          "front": "What are the main characteristics of living things?",
+          "back": "Living things can grow, breathe, move, eat food, feel things, and produce young ones (reproduce).",
+          "hint": "Think of what makes a cat different from a toy cat",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_ev1_eco",
+      "name": "Ecosystems",
+      "description": "Understand how living and non-living things work together in ecosystems",
+      "topicId": "gr4_ev_1_2",
+      "chapterId": "gr4_evs_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_ev1_006",
+          "front": "What is an ecosystem?",
+          "back": "An ecosystem is a place where living things (plants, animals) and non-living things (water, air, soil) live and work together.",
+          "hint": "Think of a pond with fish, plants, water, and sunlight all together",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_ev1_007",
+          "front": "What is a habitat?",
+          "back": "A habitat is the natural home of a plant or animal where it finds food, water, and shelter. Examples include forests, deserts, and oceans.",
+          "hint": "Where does a fish live? Where does a monkey live?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_ev1_008",
+          "front": "What is a food chain?",
+          "back": "A food chain shows how energy passes from one living thing to another. For example: grass is eaten by a grasshopper, which is eaten by a frog, which is eaten by a snake.",
+          "hint": "Think about who eats whom in nature",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_ev1_009",
+          "front": "Why are plants important in an ecosystem?",
+          "back": "Plants make their own food using sunlight and give oxygen to other living things. They are called producers because they produce food for the ecosystem.",
+          "hint": "What do plants give us when they make their food?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_ev1_010",
+          "front": "What happens if one part of an ecosystem is removed?",
+          "back": "If one part is removed, it affects all other parts. For example, if all the frogs disappear, insects will increase and the plants they eat will decrease.",
+          "hint": "Think of a chain - what happens if one link breaks?",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

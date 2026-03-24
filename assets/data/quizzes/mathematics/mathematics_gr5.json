@@ -1,0 +1,359 @@
+{
+  "quiz": {
+    "id": "quiz_mathematics_gr5",
+    "level": "subject",
+    "entityId": "mathematics_gr5",
+    "title": "Mathematics Grade 5 - Complete Assessment",
+    "questionIds": [
+      "q_math5_001",
+      "q_math5_002",
+      "q_math5_003",
+      "q_math5_004",
+      "q_math5_005",
+      "q_math5_006",
+      "q_math5_007",
+      "q_math5_008",
+      "q_math5_009",
+      "q_math5_010",
+      "q_math5_011",
+      "q_math5_012",
+      "q_math5_013",
+      "q_math5_014",
+      "q_math5_015"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_math5_001",
+      "questionText": "What is the place value of 5 in 56,789?",
+      "questionType": "mcq",
+      "options": [
+        "5",
+        "500",
+        "5,000",
+        "50,000"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The digit 5 is in the ten thousands place, so its value is 50,000.",
+      "hints": [
+        "Count from right: ones, tens, hundreds, thousands, ten thousands",
+        "It's in the 5th position from right"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["place_value", "large_numbers"],
+      "topicIds": ["gr5_m_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_002",
+      "questionText": "What is the Roman numeral for 50?",
+      "questionType": "mcq",
+      "options": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correctAnswer": "C",
+      "explanation": "L represents 50 in Roman numerals. V=5, X=10, L=50, C=100.",
+      "hints": [
+        "It's not V (5) or X (10)",
+        "Starts with 'L'"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["roman_numerals"],
+      "topicIds": ["gr5_m_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_003",
+      "questionText": "What is 3/4 + 1/4?",
+      "questionType": "mcq",
+      "options": [
+        "4/4 or 1",
+        "4/8",
+        "3/8",
+        "2/4"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When adding fractions with same denominator, add numerators: 3 + 1 = 4, so 3/4 + 1/4 = 4/4 = 1",
+      "hints": [
+        "Same denominator, add numerators",
+        "4/4 equals 1 whole"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["fractions", "addition"],
+      "topicIds": ["gr5_m_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_004",
+      "questionText": "What is 0.5 + 0.3?",
+      "questionType": "mcq",
+      "options": [
+        "0.8",
+        "0.53",
+        "0.35",
+        "0.7"
+      ],
+      "correctAnswer": "A",
+      "explanation": "0.5 + 0.3 = 0.8. Line up the decimal points and add: 5 + 3 = 8.",
+      "hints": [
+        "Line up decimal points",
+        "5 + 3 = 8"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["decimals", "addition"],
+      "topicIds": ["gr5_m_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_005",
+      "questionText": "How many right angles does a rectangle have?",
+      "questionType": "mcq",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "0"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A rectangle has 4 right angles (90° each).",
+      "hints": [
+        "Think about the corners",
+        "Each corner is 90 degrees"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["geometry", "angles", "shapes"],
+      "topicIds": ["gr5_m_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_006",
+      "questionText": "What is the perimeter of a square with side 5 cm?",
+      "questionType": "mcq",
+      "options": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Perimeter of square = 4 × side = 4 × 5 = 20 cm",
+      "hints": [
+        "Add all 4 sides",
+        "Multiply side by 4"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["perimeter", "square"],
+      "topicIds": ["gr5_m_4_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_007",
+      "questionText": "What is the area of a rectangle with length 6 cm and width 4 cm?",
+      "questionType": "mcq",
+      "options": [
+        "10 cm²",
+        "20 cm²",
+        "24 cm²",
+        "14 cm²"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Area = length × width = 6 × 4 = 24 cm²",
+      "hints": [
+        "Area = length times width",
+        "6 × 4 = ?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["area", "rectangle"],
+      "topicIds": ["gr5_m_4_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_008",
+      "questionText": "What is the average of 4, 6, and 8?",
+      "questionType": "mcq",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Average = (4 + 6 + 8) ÷ 3 = 18 ÷ 3 = 6",
+      "hints": [
+        "Add all numbers",
+        "Divide by how many numbers"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["average", "mean"],
+      "topicIds": ["gr5_m_5_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_009",
+      "questionText": "Simplify: 8/12",
+      "questionType": "mcq",
+      "options": [
+        "2/3",
+        "4/6",
+        "1/2",
+        "3/4"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Divide both by 4: 8÷4 / 12÷4 = 2/3",
+      "hints": [
+        "Find common factor",
+        "Both divisible by 4"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["fractions", "simplification"],
+      "topicIds": ["gr5_m_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_010",
+      "questionText": "Convert 0.25 to a fraction:",
+      "questionType": "mcq",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/3",
+        "2/5"
+      ],
+      "correctAnswer": "B",
+      "explanation": "0.25 = 25/100 = 1/4 (simplified)",
+      "hints": [
+        "0.25 = 25 hundredths",
+        "Simplify 25/100"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["decimals", "fractions", "conversion"],
+      "topicIds": ["gr5_m_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_011",
+      "questionText": "How many sides does a triangle have?",
+      "questionType": "mcq",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A triangle has 3 sides and 3 angles.",
+      "hints": [
+        "Tri means three",
+        "Basic shape"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["geometry", "triangles"],
+      "topicIds": ["gr5_m_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_012",
+      "questionText": "What is 2/3 of 15?",
+      "questionType": "mcq",
+      "options": [
+        "5",
+        "10",
+        "12",
+        "9"
+      ],
+      "correctAnswer": "B",
+      "explanation": "First find 1/3 of 15 = 5, then 2/3 = 2 × 5 = 10",
+      "hints": [
+        "First divide 15 by 3",
+        "Then multiply by 2"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["fractions", "of"],
+      "topicIds": ["gr5_m_2_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_013",
+      "questionText": "Which is larger: 0.7 or 0.65?",
+      "questionType": "mcq",
+      "options": [
+        "0.7",
+        "0.65",
+        "Both equal",
+        "Cannot compare"
+      ],
+      "correctAnswer": "A",
+      "explanation": "0.7 = 0.70, and 0.70 > 0.65, so 0.7 is larger.",
+      "hints": [
+        "0.7 = 0.70",
+        "Compare: 70 vs 65"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["decimals", "comparison"],
+      "topicIds": ["gr5_m_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_014",
+      "questionText": "What is the sum of angles in a triangle?",
+      "questionType": "mcq",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The sum of all angles in any triangle is always 180°.",
+      "hints": [
+        "It's more than 90°",
+        "Less than 360°"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["geometry", "triangles", "angles"],
+      "topicIds": ["gr5_m_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math5_015",
+      "questionText": "What is 1.5 × 2?",
+      "questionType": "mcq",
+      "options": [
+        "2.5",
+        "3.0",
+        "3.5",
+        "4.0"
+      ],
+      "correctAnswer": "B",
+      "explanation": "1.5 × 2 = 3.0 or 3",
+      "hints": [
+        "1.5 is same as 1 and a half",
+        "Two times 1.5"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["decimals", "multiplication"],
+      "topicIds": ["gr5_m_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

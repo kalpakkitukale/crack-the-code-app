@@ -1,0 +1,44 @@
+{
+  "chapterId": "gr4_eng_ncert_u4",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_e4_v1",
+      "videoId": "gr4_en_4_1",
+      "content": "This lesson covers the poem 'Why?' which is about a child who is full of curiosity. The child asks question after question about the world -- why the sky is blue, why the wind blows, why the grass is green, and why birds can fly. The poem shows us that asking 'why' is a natural and wonderful part of growing up. Every question helps us learn something new about the world around us.",
+      "keyPoints": [
+        "The poem is about a curious child who asks many questions",
+        "The child asks about nature -- the sky, wind, rain, grass, and birds",
+        "Asking 'why' is how children explore and understand the world",
+        "The poem encourages us to stay curious and never stop asking questions"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e4_v2",
+      "videoId": "gr4_en_4_2",
+      "content": "This lesson tells the story of Alice in Wonderland. Alice is a young girl sitting by a riverbank when she sees a White Rabbit wearing a coat and carrying a pocket watch. The Rabbit is in a great hurry. Curious Alice follows the Rabbit and falls down a deep rabbit hole into a strange world called Wonderland. There she has many surprising adventures -- she grows very tall after drinking from a bottle and shrinks very small after eating a cake. The story celebrates imagination and the spirit of adventure.",
+      "keyPoints": [
+        "Alice sees a White Rabbit in a coat with a pocket watch",
+        "She follows the Rabbit down a deep rabbit hole out of curiosity",
+        "In Wonderland, Alice grows big and shrinks small",
+        "The story was written by Lewis Carroll and celebrates imagination",
+        "Curiosity drives Alice's adventure, just like in the poem 'Why?'"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e4_v3",
+      "videoId": "gr4_en_4_3",
+      "content": "This lesson teaches question words, also known as Wh-words. The main question words are: What (asks about things), Where (asks about places), When (asks about time), Who (asks about people), Why (asks about reasons), Which (asks about choices), and How (asks about manner or amount). These words always come at the beginning of a question, and every question must end with a question mark (?). Students practise forming questions using each word.",
+      "keyPoints": [
+        "Question words: What, Where, When, Who, Why, Which, How",
+        "Each question word asks about something specific",
+        "Questions always end with a question mark (?)",
+        "Wh-questions help us get detailed answers, not just yes or no"
+      ],
+      "source": "manual"
+    }
+  ]
+}

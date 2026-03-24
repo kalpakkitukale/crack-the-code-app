@@ -1,0 +1,289 @@
+{
+  "videoSetId": "prereq_gr4_exp_word",
+  "purpose": "Prerequisite videos for Grade 4 Expanded and Word Form",
+  "targetTopicId": "gr4_m_4_4",
+  "description": "Videos covering prerequisite concepts: 4-digit place value, expanded form basics, word form, addition",
+
+  "videos": [
+    {
+      "id": "prereq_pv4_v1",
+      "conceptId": "pv_4digit",
+      "type": "concept_review",
+
+      "title": "Place Value in 4-Digit Numbers - Quick Review",
+      "description": "Review place value in thousands, hundreds, tens, and ones",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["place value", "4-digit numbers", "thousands", "review"],
+
+      "learningObjectives": [
+        "Recall place value in 4-digit numbers",
+        "Identify thousands, hundreds, tens, ones",
+        "Essential foundation for expanded form"
+      ],
+
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Expanded form with 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_pv4_v2",
+      "conceptId": "pv_4digit",
+      "type": "worked_examples",
+
+      "title": "Finding Place Value - Examples and Practice",
+      "description": "Practice identifying place values in 4-digit numbers",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["place value", "practice", "4-digit"],
+
+      "learningObjectives": [
+        "Practice identifying place values",
+        "Calculate value of each digit",
+        "Build confidence with place value"
+      ],
+
+      "prerequisites": ["Basic place value concept"],
+      "followUpTopics": ["Using place value for expanded form"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_exp_v1",
+      "conceptId": "expanded_form_3digit",
+      "type": "concept_introduction",
+
+      "title": "Expanded Form | What Is It and How It Works",
+      "description": "Learn what expanded form means with 2-digit and 3-digit numbers",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1400000,
+
+      "tags": ["expanded form", "introduction", "2-digit", "3-digit"],
+
+      "learningObjectives": [
+        "Understand what expanded form means",
+        "Write 2-digit numbers in expanded form",
+        "Write 3-digit numbers in expanded form",
+        "Learn the concept before 4-digit numbers"
+      ],
+
+      "prerequisites": ["Place value understanding"],
+      "followUpTopics": ["Expanded form of 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_exp_v2",
+      "conceptId": "expanded_form_3digit",
+      "type": "worked_examples",
+
+      "title": "Expanded Form Practice | 2-Digit and 3-Digit Numbers",
+      "description": "Practice writing and converting expanded form with multiple examples",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+
+      "tags": ["expanded form", "practice", "examples", "3-digit"],
+
+      "learningObjectives": [
+        "Practice writing numbers in expanded form",
+        "Practice converting expanded form to standard form",
+        "Build confidence with expanded notation"
+      ],
+
+      "prerequisites": ["Basic expanded form concept"],
+      "followUpTopics": ["4-digit expanded form"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_word_v1",
+      "conceptId": "word_form_basics",
+      "type": "concept_introduction",
+
+      "title": "Reading and Writing Numbers in Words | Number Names",
+      "description": "Learn how to read and write 2-digit and 3-digit numbers in words",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1100000,
+
+      "tags": ["word form", "number names", "reading numbers", "writing numbers"],
+
+      "learningObjectives": [
+        "Read numbers in words correctly",
+        "Write numbers in word form",
+        "Understand number naming patterns",
+        "Prepare for 4-digit number names"
+      ],
+
+      "prerequisites": ["Basic number knowledge"],
+      "followUpTopics": ["Word form of 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_word_v2",
+      "conceptId": "word_form_basics",
+      "type": "practice",
+
+      "title": "Number Names Practice | Converting Between Forms",
+      "description": "Practice converting between standard form and word form",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 300,
+      "durationDisplay": "5:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 850000,
+
+      "tags": ["word form", "practice", "conversion", "number names"],
+
+      "learningObjectives": [
+        "Practice reading numbers aloud",
+        "Practice writing numbers from words",
+        "Build fluency with number names"
+      ],
+
+      "prerequisites": ["Basic word form understanding"],
+      "followUpTopics": ["4-digit number names"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_add_v1",
+      "conceptId": "addition_basics",
+      "type": "concept_review",
+
+      "title": "Adding Numbers with Zeros | Place Value Addition",
+      "description": "Learn to add numbers like 3000 + 400 + 50 + 6",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 330,
+      "durationDisplay": "5:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 720000,
+
+      "tags": ["addition", "place values", "zeros", "combining"],
+
+      "learningObjectives": [
+        "Add numbers with zeros (3000 + 400)",
+        "Understand how place values combine",
+        "Essential for converting expanded form to standard form"
+      ],
+
+      "prerequisites": ["Basic addition"],
+      "followUpTopics": ["Expanded form conversion"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "These videos should be recommended when students show gaps in prerequisite knowledge during readiness assessment",
+    "recommendationStrategy": "Select videos based on specific concepts where student struggled",
+    "sequencing": "Present in order of importance: place value first (critical), then expanded form (critical), then word form (important), then addition (helpful)"
+  }
+}

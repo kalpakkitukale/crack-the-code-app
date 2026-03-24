@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch13",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn13_001",
+      "videoId": "gr4_mn13_v1",
+      "question": "What is the difference between metres and kilometres?",
+      "answer": "Both are units used to measure distance, but they are used for different sizes. Metres (m) are used for shorter distances - like the length of a room, a playground, or a bus. Kilometres (km) are used for longer distances - like the distance between two cities or from your home to a museum. 1 kilometre = 1000 metres. Think of it this way: you measure your desk in metres, but you measure a road trip in kilometres!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn13_002",
+      "videoId": "gr4_mn13_v1",
+      "question": "What is a round trip?",
+      "answer": "A round trip means going from one place to another AND coming back to where you started. If the museum is 10 km from your home, you travel 10 km to get there and 10 km to come back. So the round trip distance is 10 + 10 = 20 km. Easy rule: round trip = 2 times the one-way distance!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn13_003",
+      "videoId": "gr4_mn13_v2",
+      "question": "How do I find how long a journey takes?",
+      "answer": "If you know the start time and end time, just count from one to the other. For example, if you leave at 9:00 AM and arrive at 11:30 AM, count: 9 to 10 is 1 hour, 10 to 11 is 1 hour, 11 to 11:30 is 30 minutes. Total = 2 hours 30 minutes. Another way is to subtract: 11:30 minus 9:00 = 2 hours 30 minutes.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn13_004",
+      "videoId": "gr4_mn13_v2",
+      "question": "How do I find the arrival time if I know the departure time and travel duration?",
+      "answer": "Add the travel duration to the departure time. For example, if a bus leaves at 8:45 AM and the journey takes 2 hours 15 minutes: first add the hours (8:45 + 2 hours = 10:45), then add the minutes (10:45 + 15 minutes = 11:00 AM). So the bus arrives at 11:00 AM. Always add hours first, then minutes!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn13_005",
+      "videoId": "gr4_mn13_v3",
+      "question": "How do I calculate the total cost of tickets for a group?",
+      "answer": "Multiply the price of one ticket by the number of people. If tickets are Rs 30 each and there are 15 students, the total cost is 15 x 30 = Rs 450. If adults and children have different prices, calculate each group separately and then add. For example: 3 adults at Rs 50 = Rs 150, and 2 children at Rs 30 = Rs 60. Total = 150 + 60 = Rs 210.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn13_006",
+      "videoId": "gr4_mn13_v3",
+      "question": "How do I find the change I should get back?",
+      "answer": "Subtract the cost from the amount you paid. If you buy a snack for Rs 35 and give Rs 50 to the shopkeeper, your change is 50 - 35 = Rs 15. If you buy multiple items, first add up the total cost, then subtract from the money you paid. Always count your change to make sure it is correct!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn13_007",
+      "videoId": "gr4_mn13_v4",
+      "question": "How do auto-rickshaw fares work?",
+      "answer": "Many auto-rickshaws charge a base fare for the first kilometre and then a rate per kilometre after that. For example, Rs 25 for the first km and Rs 10 for each extra km. For a 5 km ride: Rs 25 (first km) + 4 x Rs 10 (next 4 km) = 25 + 40 = Rs 65. The key is to separate the first-km charge from the rest!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn13_008",
+      "videoId": "gr4_mn13_v4",
+      "question": "How do I compare costs of different transport options?",
+      "answer": "Calculate the fare for each option separately, then compare. For example, a bus might cost Rs 20 for a 10 km ride, while an auto costs Rs 85 for the same distance. The bus is cheaper by 85 - 20 = Rs 65. But the auto might be faster! When comparing, think about both cost and time.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_mn13_009",
+      "videoId": "gr4_mn13_v5",
+      "question": "How do I solve a word problem with many steps?",
+      "answer": "Break it into smaller parts! Step 1: Read the problem carefully and find out what is being asked. Step 2: Write down the numbers you know. Step 3: Decide which operation to use - add, subtract, or multiply. Step 4: Solve one step at a time. Step 5: Check if your answer makes sense. For example, 'How much does a family of 4 spend at the museum?' might need you to first find ticket cost, then food cost, then add them together.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn13_010",
+      "videoId": "gr4_mn13_v5",
+      "question": "Why is maths useful when we travel or visit places?",
+      "answer": "Maths is everywhere when you travel! You need it to read distances on signboards, check if you will arrive on time, count your money for tickets and snacks, and figure out the best way to travel. Even planning a school trip needs maths - how many buses for all students, how much each person should bring, and when to leave to arrive on time. Maths helps us make smart plans!",
+      "status": "answered",
+      "upvotes": 21
+    }
+  ]
+}

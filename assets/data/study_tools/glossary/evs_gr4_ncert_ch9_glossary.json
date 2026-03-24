@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch9",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_9_001",
+      "term": "Family",
+      "definition": "A group of people who are related to each other and care for one another. Families can be big or small.",
+      "pronunciation": "FAM-uh-lee",
+      "exampleUsage": "My family has five members - my parents, my sister, my brother, and me.",
+      "difficulty": "easy",
+      "relatedTerms": ["relatives", "household"]
+    },
+    {
+      "id": "gls_evs_9_002",
+      "term": "Sibling",
+      "definition": "A brother or sister. Siblings share the same parents.",
+      "pronunciation": "SIB-ling",
+      "exampleUsage": "I have two siblings - an older brother and a younger sister.",
+      "difficulty": "easy",
+      "relatedTerms": ["brother", "sister"]
+    },
+    {
+      "id": "gls_evs_9_003",
+      "term": "Adoption",
+      "definition": "The process of legally taking a child into your family and raising them as your own when their birth parents cannot take care of them.",
+      "pronunciation": "uh-DOP-shun",
+      "exampleUsage": "The couple adopted a baby girl and gave her a loving home.",
+      "difficulty": "medium",
+      "relatedTerms": ["family", "parenting"]
+    },
+    {
+      "id": "gls_evs_9_004",
+      "term": "Marriage",
+      "definition": "When two people decide to become life partners and join their families together through a ceremony.",
+      "pronunciation": "MAR-ij",
+      "exampleUsage": "After the marriage, our family became bigger with new relatives.",
+      "difficulty": "easy",
+      "relatedTerms": ["wedding", "spouse"]
+    },
+    {
+      "id": "gls_evs_9_005",
+      "term": "Single-parent family",
+      "definition": "A family where one parent raises the children. The parent takes care of everything with help from other relatives.",
+      "pronunciation": "SING-gul PAIR-ent FAM-uh-lee",
+      "exampleUsage": "In a single-parent family, the parent works extra hard to look after the children.",
+      "difficulty": "medium",
+      "relatedTerms": ["family", "parent"]
+    },
+    {
+      "id": "gls_evs_9_006",
+      "term": "Extended family",
+      "definition": "A family that includes not just parents and children, but also grandparents, uncles, aunts, and cousins.",
+      "pronunciation": "ex-TEN-ded FAM-uh-lee",
+      "exampleUsage": "Our extended family meets every year during Diwali at grandfather's house.",
+      "difficulty": "medium",
+      "relatedTerms": ["joint family", "relatives"]
+    },
+    {
+      "id": "gls_evs_9_007",
+      "term": "Celebration",
+      "definition": "A special event or gathering to mark a happy occasion like a birthday, festival, or wedding.",
+      "pronunciation": "sel-eh-BRAY-shun",
+      "exampleUsage": "The whole family came together for the celebration of Grandpa's 70th birthday.",
+      "difficulty": "easy",
+      "relatedTerms": ["festival", "occasion"]
+    },
+    {
+      "id": "gls_evs_9_008",
+      "term": "Responsibility",
+      "definition": "A duty or task that someone is expected to take care of. In a family, everyone has responsibilities.",
+      "pronunciation": "ree-spon-sih-BIL-ih-tee",
+      "exampleUsage": "Keeping my room clean is my responsibility at home.",
+      "difficulty": "medium",
+      "relatedTerms": ["duty", "task"]
+    },
+    {
+      "id": "gls_evs_9_009",
+      "term": "Custom",
+      "definition": "A traditional way of doing things that has been followed by a family or community for a long time.",
+      "pronunciation": "KUS-tum",
+      "exampleUsage": "It is our family custom to eat together at the dinner table every evening.",
+      "difficulty": "easy",
+      "relatedTerms": ["tradition", "practice"]
+    },
+    {
+      "id": "gls_evs_9_010",
+      "term": "Household",
+      "definition": "All the people who live together in one house and share daily tasks like cooking, cleaning, and eating.",
+      "pronunciation": "HOWS-hohld",
+      "exampleUsage": "There are six people in our household including my grandparents.",
+      "difficulty": "easy",
+      "relatedTerms": ["home", "family"]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ch3",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_e3_001",
+      "videoId": "gr4_e3_v1",
+      "question": "What is an adjective in simple words?",
+      "answer": "An adjective is a describing word. It tells us something about a noun — like what it looks like, how it feels, what colour it is, or how many there are. For example, in 'a cold drink', the word 'cold' is the adjective because it describes the drink.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_e3_002",
+      "videoId": "gr4_e3_v1",
+      "question": "How do I find the adjective in a sentence?",
+      "answer": "Ask yourself three questions: 'What kind?', 'How many?', or 'Which one?'. The word that answers these questions is usually the adjective. For example, in 'She has three red balloons', 'three' tells how many and 'red' tells what kind — both are adjectives!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_e3_003",
+      "videoId": "gr4_e3_v2",
+      "question": "Can an adjective come after the noun?",
+      "answer": "Yes! An adjective can come after a linking verb like 'is', 'was', 'are', or 'were'. For example, 'The sky is blue.' Here 'blue' comes after 'is' but still describes 'sky'. Both 'a blue sky' and 'The sky is blue' are correct.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_e3_004",
+      "videoId": "gr4_e3_v2",
+      "question": "How many adjectives can I use for one noun?",
+      "answer": "You can use as many as you need, but two or three is usually enough. For example, 'a big, fluffy, white rabbit' uses three adjectives. Too many can make a sentence hard to read, so pick the most important ones!",
+      "status": "answered",
+      "upvotes": 12
+    },
+    {
+      "id": "faq_gr4_e3_005",
+      "videoId": "gr4_e3_v3",
+      "question": "When do I add -er and when do I use 'more'?",
+      "answer": "For short adjectives (one syllable like tall, fast, big), add -er. For longer adjectives (two or more syllables like beautiful, colourful, interesting), use 'more' before the word. For example: 'taller' but 'more beautiful'. Never say 'more taller' — pick one way only!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_e3_006",
+      "videoId": "gr4_e3_v3",
+      "question": "What are some common irregular adjectives I should remember?",
+      "answer": "Here are the most important ones: good - better - best, bad - worse - worst, many/much - more - most, little - less - least. These do not follow the -er/-est rule, so you need to memorise them!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_e3_007",
+      "videoId": "gr4_e3_v3",
+      "question": "What is the difference between comparative and superlative?",
+      "answer": "Comparative compares exactly two things: 'My bag is heavier than yours.' Superlative compares three or more: 'My bag is the heaviest in the class.' Remember: -er for two, -est for the most!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_e3_008",
+      "videoId": "gr4_e3_v4",
+      "question": "What happens when a short adjective ends in 'y'?",
+      "answer": "When a short adjective ends in 'y', change the 'y' to 'i' and then add -er or -est. For example: happy becomes happier (not happyer) and happiest (not happyest). Other examples: easy - easier - easiest, funny - funnier - funniest.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_e3_009",
+      "videoId": "gr4_e3_v4",
+      "question": "Do I double the last letter sometimes when adding -er or -est?",
+      "answer": "Yes! If a short adjective ends in a single consonant after a single vowel, double the last letter. For example: big becomes bigger and biggest (not biger). Other examples: hot - hotter - hottest, thin - thinner - thinnest.",
+      "status": "answered",
+      "upvotes": 14
+    },
+    {
+      "id": "faq_gr4_e3_010",
+      "videoId": "gr4_e3_v1",
+      "question": "Is a number like 'three' also an adjective?",
+      "answer": "Yes! Numbers can be adjectives when they describe how many of something there are. In 'I have five pencils', the word 'five' is an adjective because it tells us how many pencils. These are called adjectives of number.",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

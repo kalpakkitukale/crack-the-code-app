@@ -1,0 +1,292 @@
+{
+  "quiz": {
+    "id": "quiz_topic_kinematics",
+    "level": "topic",
+    "entityId": "topic_kinematics",
+    "title": "Kinematics Quiz",
+    "questionIds": [
+      "q_kin_001",
+      "q_kin_002",
+      "q_kin_003",
+      "q_kin_004",
+      "q_kin_005",
+      "q_kin_006",
+      "q_kin_007",
+      "q_kin_008",
+      "q_kin_009",
+      "q_kin_010"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_kin_001",
+      "questionText": "What is the difference between distance and displacement?",
+      "questionType": "mcq",
+      "options": [
+        "Distance is a vector, displacement is a scalar",
+        "Distance is total path length, displacement is shortest distance with direction",
+        "They are the same thing",
+        "Displacement is always greater than distance"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Distance is a scalar quantity representing the total path length traveled, while displacement is a vector quantity representing the shortest distance from initial to final position with direction. Displacement can be zero even when distance is not.",
+      "hints": [
+        "One considers the entire path, the other considers only start and end points",
+        "One is a scalar, the other is a vector"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_speed_velocity",
+        "physics_8_motion_basics"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_002",
+      "questionText": "What is the SI unit of acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "m/s",
+        "m/s²",
+        "m²/s",
+        "s/m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The SI unit of acceleration is meters per second squared (m/s²). This represents the change in velocity (m/s) per unit time (s), giving us m/s per second, or m/s².",
+      "hints": [
+        "Acceleration is the rate of change of velocity",
+        "It has units of velocity divided by time"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_acceleration"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_003",
+      "questionText": "A car travels 100 m in 20 seconds. What is its average speed?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s",
+        "5 m/s",
+        "10 m/s",
+        "20 m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Average speed = Total distance / Total time = 100 m / 20 s = 5 m/s. Average speed is a scalar quantity that doesn't consider direction.",
+      "hints": [
+        "Use the formula: speed = distance / time",
+        "Divide 100 by 20"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_speed_velocity",
+        "physics_8_motion_basics"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_004",
+      "questionText": "An object moving in a straight line with constant velocity has:",
+      "questionType": "mcq",
+      "options": [
+        "Zero acceleration",
+        "Constant acceleration",
+        "Increasing acceleration",
+        "Decreasing acceleration"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When an object moves with constant velocity, its speed and direction don't change. Since acceleration is the rate of change of velocity, and velocity is not changing, acceleration must be zero.",
+      "hints": [
+        "Constant velocity means no change in speed or direction",
+        "Acceleration measures change in velocity"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_speed_velocity",
+        "physics_8_acceleration"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_005",
+      "questionText": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s²",
+        "4 m/s²",
+        "5 m/s²",
+        "100 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using the formula a = (v - u) / t, where u = 0 (starts from rest), v = 20 m/s, and t = 5 s: a = (20 - 0) / 5 = 4 m/s². This means the velocity increases by 4 m/s every second.",
+      "hints": [
+        "Use the formula: acceleration = change in velocity / time",
+        "The car starts from rest, so initial velocity is 0"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "physics_8_acceleration",
+        "physics_9_equations_motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_006",
+      "questionText": "An object is thrown vertically upward. At the highest point of its trajectory:",
+      "questionType": "mcq",
+      "options": [
+        "Both velocity and acceleration are zero",
+        "Velocity is zero but acceleration is not zero",
+        "Acceleration is zero but velocity is not zero",
+        "Both velocity and acceleration are maximum"
+      ],
+      "correctAnswer": "B",
+      "explanation": "At the highest point, the object momentarily stops (velocity = 0) before falling back down. However, gravity continues to act on it, so acceleration = g (approximately 9.8 m/s²) downward throughout the motion, including at the highest point.",
+      "hints": [
+        "The object stops momentarily at the peak",
+        "Gravity acts on the object throughout its flight"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "physics_9_equations_motion",
+        "physics_8_speed_velocity",
+        "physics_8_acceleration"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_007",
+      "questionText": "A ball is dropped from rest and falls freely under gravity (g = 10 m/s²). How far does it fall in 3 seconds?",
+      "questionType": "mcq",
+      "options": [
+        "15 m",
+        "30 m",
+        "45 m",
+        "90 m"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Using the equation s = ut + ½at², where u = 0 (dropped from rest), a = g = 10 m/s², and t = 3 s: s = 0 + ½(10)(3²) = 5 × 9 = 45 m.",
+      "hints": [
+        "Use the equation: s = ut + ½at²",
+        "Initial velocity u = 0 since it's dropped from rest"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "physics_9_equations_motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_008",
+      "questionText": "A vehicle moving at 30 m/s applies brakes and comes to rest with uniform deceleration in 6 seconds. What is the distance traveled during braking?",
+      "questionType": "mcq",
+      "options": [
+        "45 m",
+        "90 m",
+        "180 m",
+        "360 m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using s = (u + v)t / 2, where u = 30 m/s, v = 0 m/s, t = 6 s: s = (30 + 0) × 6 / 2 = 30 × 3 = 90 m. Alternatively, using v² = u² + 2as: 0 = 900 - 2a(s), where a = 5 m/s², gives s = 90 m.",
+      "hints": [
+        "You can use s = (u + v)t / 2 for uniform acceleration",
+        "The final velocity is 0 since the vehicle comes to rest"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "physics_9_equations_motion",
+        "physics_8_acceleration"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_kin_009",
+      "questionText": "A particle starts from rest and accelerates uniformly at 2 m/s² for 5 seconds, then continues at constant velocity. What is the total distance covered in 10 seconds?",
+      "questionType": "mcq",
+      "options": [
+        "25 m",
+        "50 m",
+        "75 m",
+        "100 m"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phase 1 (0-5s): s₁ = ½at² = ½(2)(5²) = 25 m. Final velocity after 5s: v = at = 2 × 5 = 10 m/s. Phase 2 (5-10s): Constant velocity, s₂ = vt = 10 × 5 = 50 m. Total distance = 25 + 50 = 75 m.",
+      "hints": [
+        "Break the motion into two phases: acceleration and constant velocity",
+        "Find the velocity at the end of acceleration to use in the second phase"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "physics_9_equations_motion",
+        "physics_8_acceleration"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_kin_010",
+      "questionText": "Two cars A and B are 100 m apart. Car A starts from rest with acceleration 2 m/s². At the same instant, car B (ahead of A) starts moving away with constant velocity 10 m/s. When will car A catch up with car B?",
+      "questionType": "mcq",
+      "options": [
+        "5 seconds",
+        "10 seconds",
+        "15 seconds",
+        "20 seconds"
+      ],
+      "correctAnswer": "D",
+      "explanation": "For A to catch B, their positions must be equal. Position of A: sₐ = ½(2)t² = t². Position of B: s_b = 100 + 10t. Setting equal: t² = 100 + 10t, so t² - 10t - 100 = 0. Using the quadratic formula: t = (10 ± √(100 + 400)) / 2 = (10 ± √500) / 2 ≈ (10 + 22.36) / 2 ≈ 20 seconds (taking positive value).",
+      "hints": [
+        "Set up position equations for both cars",
+        "Car A catches B when their positions are equal"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "physics_9_equations_motion"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

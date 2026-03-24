@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch6",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn6_001",
+      "videoId": "gr4_mn6_v1",
+      "question": "Why do we need different units to measure length?",
+      "answer": "Because different things have different sizes! Measuring the length of an ant in kilometres would give a very tiny number that is hard to read. And measuring the distance between cities in centimetres would give a huge number. By using cm for small things, m for medium things, and km for big distances, we keep the numbers easy to understand and work with.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn6_002",
+      "videoId": "gr4_mn6_v1",
+      "question": "How do I remember how many centimetres are in a metre?",
+      "answer": "Remember that 'centi' means hundredth! Just like there are 100 paise in 1 rupee, there are 100 centimetres in 1 metre. You can also think of your metre scale at school — it has exactly 100 small markings from one end to the other, and each marking is 1 cm.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn6_003",
+      "videoId": "gr4_mn6_v2",
+      "question": "How do I convert 4 m 75 cm into centimetres only?",
+      "answer": "It is easy! First, convert the metres to centimetres by multiplying by 100. So 4 m = 4 x 100 = 400 cm. Then add the remaining 75 cm. So 4 m 75 cm = 400 cm + 75 cm = 475 cm. The trick is: always convert the bigger unit first, then add the smaller part.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn6_004",
+      "videoId": "gr4_mn6_v2",
+      "question": "How do I convert 3500 metres into kilometres and metres?",
+      "answer": "Divide by 1000! Since 1 km = 1000 m, divide 3500 by 1000. That gives 3 km with 500 m remaining. So 3500 m = 3 km 500 m. Here is the quick way: the thousands part becomes km and the rest stays as m. 3500 m = 3 thousand 500 = 3 km 500 m.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn6_005",
+      "videoId": "gr4_mn6_v3",
+      "question": "How can I estimate the length of something without a ruler?",
+      "answer": "Use things you already know! Your hand span (thumb to little finger stretched out) is about 15 cm. Your arm from elbow to fingertip is about 45 cm. One big step is about 60 cm. Your height might be about 130-140 cm. Use these as references! For example, if a table is about 4 hand spans long, it is roughly 4 x 15 = 60 cm.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn6_006",
+      "videoId": "gr4_mn6_v3",
+      "question": "Which measuring tool should I use?",
+      "answer": "It depends on what you are measuring! Use a ruler or scale for small things like pencils, notebooks, or your hand (up to 30 cm). Use a measuring tape for bigger things like the length of a room or a piece of cloth (it can measure several metres). For very long distances like the road between two places, we use the odometer in a car or bus, which shows kilometres.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn6_007",
+      "videoId": "gr4_mn6_v4",
+      "question": "How do I add two lengths that have both metres and centimetres?",
+      "answer": "The easiest way is to convert everything to centimetres first. For example: 2 m 45 cm + 3 m 70 cm. Convert: 245 cm + 370 cm = 615 cm. Then convert back: 615 cm = 6 m 15 cm. You can also add metres and centimetres separately: 2 m + 3 m = 5 m and 45 cm + 70 cm = 115 cm = 1 m 15 cm. Then 5 m + 1 m 15 cm = 6 m 15 cm.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn6_008",
+      "videoId": "gr4_mn6_v4",
+      "question": "How do I subtract lengths when the centimetres in the first number are smaller?",
+      "answer": "Borrow from the metres! For example: 5 m 20 cm - 2 m 60 cm. Since 20 cm is less than 60 cm, borrow 1 m from the 5 m. Now you have 4 m 120 cm - 2 m 60 cm = 2 m 60 cm. Or convert both to centimetres: 520 cm - 260 cm = 260 cm = 2 m 60 cm.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn6_009",
+      "videoId": "gr4_mn6_v1",
+      "question": "How long is 1 kilometre in real life?",
+      "answer": "1 kilometre is 1000 metres, which is quite a long walk! If you walk at normal speed, it takes about 10 to 15 minutes to walk 1 km. A running track at a big stadium is usually 400 m, so you would need to go around it 2 and a half times to cover 1 km. The distance from your school gate to a nearby market might be about 1 km.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn6_010",
+      "videoId": "gr4_mn6_v4",
+      "question": "How do I compare two lengths given in different units?",
+      "answer": "First, convert both lengths to the same unit, then compare the numbers. For example, which is longer: 250 cm or 3 m? Convert 3 m to cm: 3 x 100 = 300 cm. Now compare: 250 cm vs 300 cm. Since 300 > 250, 3 m is longer. Always convert to the smaller unit (cm rather than m) so you work with whole numbers.",
+      "status": "answered",
+      "upvotes": 15
+    }
+  ]
+}

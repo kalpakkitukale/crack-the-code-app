@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn1_t4",
+  "topicId": "gr4_mn_1_4",
+  "topicName": "Identifying Shapes Around Us",
+  "chapterId": "gr4_math_ncert_ch1",
+  "chapterName": "Shapes Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1587,
+    "totalDurationDisplay": "26:27",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-35 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_1_1", "gr4_mn_1_2", "gr4_mn_1_3"],
+    "followUpTopics": ["gr4_mn_2_1"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn1_v6",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Recognizing Shapes in Our World | Geometry for Kids",
+      "description": "Look at the world around you and identify shapes everywhere! See circles in wheels and clocks, rectangles in doors and books, triangles in roofs and sandwiches, and 3D shapes in everyday objects like balls, boxes, and cans.",
+      "youtubeId": "10dTx1Zy_4w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=10dTx1Zy_4w",
+      "thumbnailUrl": "https://img.youtube.com/vi/10dTx1Zy_4w/hqdefault.jpg",
+      "duration": 369,
+      "durationDisplay": "6:09",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3200000,
+      "tags": ["recognizing shapes", "shapes around us", "geometry", "everyday shapes", "2D shapes", "3D shapes"],
+      "learningObjectives": ["Identify 2D and 3D shapes in everyday surroundings", "Connect geometry knowledge to the real world"],
+      "keyConceptsCovered": ["Circles in wheels, clocks, plates", "Rectangles in doors, books, screens", "Triangles in roofs, sandwiches, hangers", "3D shapes in balls, boxes, cans, cones"],
+      "prerequisites": ["2D and 3D shape names", "Faces, edges, vertices", "Basic angles"],
+      "followUpTopics": ["Views of objects from different positions"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t4_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Shape Scavenger Hunt | Finding Shapes at Home and School",
+      "description": "Go on a shape scavenger hunt! Find shapes in your kitchen, bedroom, classroom, and playground. See how many shapes you can spot in everyday life.",
+      "youtubeId": "REjfX9cDavw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=REjfX9cDavw",
+      "thumbnailUrl": "https://img.youtube.com/vi/REjfX9cDavw/hqdefault.jpg",
+      "duration": 378,
+      "durationDisplay": "6:18",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["scavenger hunt", "shapes", "everyday objects", "finding shapes"],
+      "learningObjectives": ["Find shapes in familiar environments", "Name both 2D and 3D shapes in objects"],
+      "keyConceptsCovered": ["Kitchen shapes: cylinder cans, rectangular boxes", "Classroom shapes: rectangular books, circular clocks", "Playground shapes: spherical balls, cylindrical poles"],
+      "prerequisites": ["Shape names"],
+      "followUpTopics": ["Shape art and patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t4_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Shapes in Art and Architecture | Geometry Is Beautiful",
+      "description": "Discover how shapes make beautiful art and buildings! See circles in arches, triangles in pyramids, rectangles in skyscrapers, and hexagons in beehives. Geometry is everywhere in nature and human creations.",
+      "youtubeId": "G79xAbas6Os",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G79xAbas6Os",
+      "thumbnailUrl": "https://img.youtube.com/vi/G79xAbas6Os/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 3500000,
+      "tags": ["shapes in art", "architecture", "geometry in nature", "beautiful shapes"],
+      "learningObjectives": ["Recognize shapes in art and architecture", "Appreciate geometry in nature and design"],
+      "keyConceptsCovered": ["Triangles in pyramids and roofs", "Circles in arches and wheels", "Rectangles in buildings and frames", "Hexagons in beehives"],
+      "prerequisites": ["All shape types"],
+      "followUpTopics": ["Creating shape patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t4_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Shape Detective Game | Can You Find All the Shapes?",
+      "description": "Be a shape detective! Look at pictures of everyday scenes and find as many shapes as you can. How many circles, rectangles, triangles, and 3D shapes can you spot?",
+      "youtubeId": "NVuMULQjb3o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NVuMULQjb3o",
+      "thumbnailUrl": "https://img.youtube.com/vi/NVuMULQjb3o/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "NUMBEROCK",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2100000,
+      "tags": ["detective game", "finding shapes", "interactive", "practice"],
+      "learningObjectives": ["Spot shapes quickly in complex scenes", "Apply all shape knowledge in context"],
+      "keyConceptsCovered": ["Finding multiple shapes in one scene", "2D and 3D shape identification practice"],
+      "prerequisites": ["All shape types"],
+      "followUpTopics": ["Geometry review"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t4_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Create Shape Art! | Drawing with 2D and 3D Shapes",
+      "description": "Use your shape knowledge to create art! Draw a house using rectangles, triangles, and squares. Make a robot using circles and rectangles. See how shapes combine to make amazing pictures.",
+      "youtubeId": "gqhGSbXFQ5E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gqhGSbXFQ5E",
+      "thumbnailUrl": "https://img.youtube.com/vi/gqhGSbXFQ5E/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["shape art", "drawing", "creative", "combining shapes"],
+      "learningObjectives": ["Use shapes creatively to make drawings", "Combine different shapes to create pictures"],
+      "keyConceptsCovered": ["House = rectangle + triangle roof + square windows", "Robot = rectangles + circles", "Tree = rectangle trunk + circle/triangle top"],
+      "prerequisites": ["All shape types"],
+      "followUpTopics": ["Views of objects"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn1_v6", "gr4_mn1_t4_v3", "gr4_mn1_t4_v4", "gr4_mn1_t4_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1209,
+      "estimatedTimeDisplay": "20:09",
+      "rationale": "Fast-track through shape identification with art and architecture focus"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn1_v6", "gr4_mn1_t4_v2", "gr4_mn1_t4_v3", "gr4_mn1_t4_v4", "gr4_mn1_t4_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1587,
+      "estimatedTimeDisplay": "26:27",
+      "rationale": "Complete coverage of identifying shapes with scavenger hunt and creative activities"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn1_v6", "gr4_mn1_t4_v2", "gr4_mn1_t4_v3", "gr4_mn1_t4_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1257,
+      "estimatedTimeDisplay": "20:57",
+      "rationale": "Core shape identification concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn1_v6", "gr4_mn1_t4_v2", "gr4_mn1_t4_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 987,
+      "estimatedTimeDisplay": "16:27",
+      "rationale": "Essential shape identification content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn1_t4_v2",
+      "checkpointName": "Shapes Around Us Check",
+      "questions": [
+        {
+          "question": "A wheel on a bicycle is shaped like a:",
+          "options": ["Square", "Triangle", "Circle", "Rectangle"],
+          "correctAnswer": 2,
+          "explanation": "A bicycle wheel is shaped like a circle. It needs to be round so it can roll smoothly!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Take students on a 'shape walk' around the school. Give each student a checklist of shapes to find. Have them draw the objects they find and label the shapes.",
+    "parentGuidance": "During a walk or car ride, play 'I Spy' with shapes. Say 'I spy something shaped like a cylinder' and let your child find it. Grocery stores and parks are great for this!",
+    "studentGuidance": "Become a shape detective! Look around your room, kitchen, or school and try to find at least 3 objects for each shape: circle, rectangle, triangle, square, sphere, cube, cylinder, and cone."
+  }
+}

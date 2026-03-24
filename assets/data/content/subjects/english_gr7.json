@@ -1,0 +1,49 @@
+{
+  "id": "english_gr7",
+  "name": "English",
+  "icon": "menu_book",
+  "color": "#FFB6C1",
+  "boardId": "cbse_elementary",
+  "classId": "class_7",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["english", "grade 7", "language", "grammar"],
+  "chapters": [
+    {
+      "id": "gr7_eng_ch1",
+      "number": 1,
+      "name": "Advanced Grammar",
+      "description": "Complex grammar concepts",
+      "keywords": ["grammar", "tenses", "voice"],
+      "topics": [
+        {"id": "gr7_e_1_1", "name": "Tenses", "difficulty": "intermediate", "videoCount": 4, "keywords": ["past", "present", "future"]},
+        {"id": "gr7_e_1_2", "name": "Active and Passive Voice", "difficulty": "intermediate", "videoCount": 4, "keywords": ["active", "passive"]},
+        {"id": "gr7_e_1_3", "name": "Direct and Indirect Speech", "difficulty": "intermediate", "videoCount": 4, "keywords": ["direct", "indirect"]}
+      ]
+    },
+    {
+      "id": "gr7_eng_ch2",
+      "number": 2,
+      "name": "Literature",
+      "description": "Understanding prose and poetry",
+      "keywords": ["literature", "prose", "poetry"],
+      "topics": [
+        {"id": "gr7_e_2_1", "name": "Prose Analysis", "difficulty": "intermediate", "videoCount": 4, "keywords": ["prose", "analysis"]},
+        {"id": "gr7_e_2_2", "name": "Poetry", "difficulty": "intermediate", "videoCount": 4, "keywords": ["poetry", "rhyme"]},
+        {"id": "gr7_e_2_3", "name": "Literary Devices", "difficulty": "intermediate", "videoCount": 3, "keywords": ["metaphor", "simile"]}
+      ]
+    },
+    {
+      "id": "gr7_eng_ch3",
+      "number": 3,
+      "name": "Composition",
+      "description": "Essay and letter writing",
+      "keywords": ["composition", "essay", "letter"],
+      "topics": [
+        {"id": "gr7_e_3_1", "name": "Essay Writing", "difficulty": "intermediate", "videoCount": 4, "keywords": ["essay", "structure"]},
+        {"id": "gr7_e_3_2", "name": "Letter Writing", "difficulty": "basic", "videoCount": 3, "keywords": ["formal", "informal"]},
+        {"id": "gr7_e_3_3", "name": "Story Writing", "difficulty": "intermediate", "videoCount": 4, "keywords": ["story", "narrative"]}
+      ]
+    }
+  ]
+}

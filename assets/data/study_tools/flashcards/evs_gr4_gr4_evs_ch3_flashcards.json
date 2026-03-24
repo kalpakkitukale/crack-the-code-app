@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ch3",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_ev3_types",
+      "name": "Types of Plants",
+      "description": "Learn about different types of plants around us",
+      "topicId": "gr4_ev_3_1",
+      "chapterId": "gr4_evs_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_ev3_001",
+          "front": "What are the three main types of plants based on their size?",
+          "back": "Trees, shrubs, and herbs. Trees are the tallest with thick trunks, shrubs are medium-sized with many branches, and herbs are small and soft.",
+          "hint": "Think of big, medium, and small plants",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_ev3_002",
+          "front": "What is a herb?",
+          "back": "A herb is a small plant with a soft, green stem. Examples include mint, coriander, and wheat. Herbs are usually short and live for one or two seasons.",
+          "hint": "Think of the small plants in your kitchen garden",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_ev3_003",
+          "front": "What is a shrub?",
+          "back": "A shrub is a medium-sized plant with many branches growing close to the ground. Examples include rose, hibiscus, and tulsi. Shrubs have thin, woody stems.",
+          "hint": "These plants are bigger than herbs but smaller than trees",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_ev3_004",
+          "front": "What are climbers and creepers?",
+          "back": "Climbers are plants that grow upward by holding onto a support, like money plant and grapevine. Creepers are plants that spread along the ground, like pumpkin and watermelon.",
+          "hint": "Some plants need help standing up, others spread on the ground",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_ev3_005",
+          "front": "What makes a tree different from a shrub?",
+          "back": "A tree has one thick, strong, woody trunk and is very tall. A shrub has many thin stems branching near the ground and is shorter than a tree.",
+          "hint": "Compare their stems and height",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_ev3_uses",
+      "name": "Uses of Plants",
+      "description": "Discover the many ways plants help us every day",
+      "topicId": "gr4_ev_3_2",
+      "chapterId": "gr4_evs_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_ev3_006",
+          "front": "How do plants give us food?",
+          "back": "Different parts of plants give us food. We eat roots (carrot), stems (sugarcane), leaves (spinach), flowers (broccoli), fruits (mango), and seeds (rice, wheat).",
+          "hint": "Think about which part of the plant you eat",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_ev3_007",
+          "front": "How do plants help us breathe?",
+          "back": "Plants take in carbon dioxide and release oxygen during the day. Oxygen is the gas we need to breathe. Without plants, there would not be enough oxygen for us.",
+          "hint": "Think about the air around you",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_ev3_008",
+          "front": "Name some useful things we get from trees.",
+          "back": "We get wood for furniture and houses, rubber for tyres and erasers, paper from wood pulp, fruits, shade, and many medicines from trees.",
+          "hint": "Look around your home for things made from trees",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_ev3_009",
+          "front": "How do plants help the soil?",
+          "back": "Plant roots hold the soil tightly and stop it from being washed away by rain or blown away by wind. This is called preventing soil erosion.",
+          "hint": "Think about what plant roots do underground",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_ev3_010",
+          "front": "What are medicinal plants?",
+          "back": "Medicinal plants are plants used to treat illnesses. Examples include tulsi (for cough and cold), neem (for skin problems), and aloe vera (for burns and skin care).",
+          "hint": "Some plants can help when you are sick",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

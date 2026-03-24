@@ -1,0 +1,458 @@
+{
+  "algorithmId": "rec_gr4_m2_t5",
+  "topicId": "gr4_m_2_5",
+  "topicName": "Word Problems on Addition and Subtraction",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for word problems on addition and subtraction",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has strong computation and problem-solving basics, can focus on application with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2160,
+      "videoSequence": [
+        {
+          "videoId": "gr4_wordprob_v1",
+          "reason": "One-step addition problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v2",
+          "reason": "One-step subtraction problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v3",
+          "reason": "Comparison problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v4",
+          "reason": "Two-step problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v5",
+          "reason": "Mixed practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v7",
+          "reason": "Challenge: Complex multi-step problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of word problem types with real-world application",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2280,
+      "videoSequence": [
+        {
+          "videoId": "gr4_wordprob_v1",
+          "reason": "One-step addition word problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v2",
+          "reason": "One-step subtraction word problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v3",
+          "reason": "Comparison problems (how many more/less)",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v4",
+          "reason": "Two-step word problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v5",
+          "reason": "Mixed practice - variety of problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in computation or problem-solving basics, needs targeted review",
+      "playlistComposition": {
+        "prerequisiteVideos": 4,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 9
+      },
+      "estimatedTime": 3120,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "addition_subtraction_mastery_weak": {
+            "addVideos": ["prereq_addsub_review_v1"],
+            "priority": "high"
+          },
+          "identifying_operations_weak": {
+            "addVideos": ["prereq_keywords_v1"],
+            "priority": "high"
+          },
+          "reading_comprehension_weak": {
+            "addVideos": ["prereq_readprob_v1"],
+            "priority": "high"
+          },
+          "problem_solving_steps_weak": {
+            "addVideos": ["prereq_steps_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_addsub_review_v1",
+          "reason": "Review: Addition and subtraction skills",
+          "skippable": false,
+          "condition": "if addition_subtraction_mastery concept is weak"
+        },
+        {
+          "videoId": "prereq_keywords_v1",
+          "reason": "Review: Keywords for operations",
+          "skippable": false,
+          "condition": "if identifying_operations concept is weak"
+        },
+        {
+          "videoId": "prereq_readprob_v1",
+          "reason": "Review: Reading and understanding problems",
+          "skippable": false,
+          "condition": "if reading_comprehension concept is weak"
+        },
+        {
+          "videoId": "prereq_steps_v1",
+          "reason": "Review: Problem-solving steps",
+          "skippable": false,
+          "condition": "if problem_solving_steps concept is weak"
+        },
+        {
+          "videoId": "gr4_wordprob_v1",
+          "reason": "Start main topic: One-step addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v2",
+          "reason": "One-step subtraction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v3",
+          "reason": "Comparison problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v4",
+          "reason": "Two-step problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v5",
+          "reason": "Mixed practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of computation and problem-solving basics before word problems",
+      "playlistComposition": {
+        "prerequisiteVideos": 4,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2220,
+      "videoSequence": [
+        {
+          "videoId": "prereq_addsub_review_v1",
+          "reason": "Foundation: Addition and subtraction review",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_keywords_v1",
+          "reason": "Essential: Keywords for operations",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_readprob_v1",
+          "reason": "Critical: Reading word problems",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_steps_v1",
+          "reason": "Important: Problem-solving steps",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v1",
+          "reason": "Gentle intro to one-step addition problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_wordprob_v2",
+          "reason": "Begin one-step subtraction problems",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with word problems."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "addition_subtraction_mastery": {
+        "conceptName": "Mastery of addition and subtraction (with and without regrouping)",
+        "importance": "critical",
+        "videoIds": ["prereq_addsub_review_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1", "rq2"]
+      },
+      "identifying_operations": {
+        "conceptName": "Identifying which operation to use (addition vs subtraction)",
+        "importance": "critical",
+        "videoIds": ["prereq_keywords_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq3", "rq4", "rq5"]
+      },
+      "reading_comprehension": {
+        "conceptName": "Understanding word problems and extracting information",
+        "importance": "critical",
+        "videoIds": ["prereq_readprob_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq6", "rq7", "rq8"]
+      },
+      "problem_solving_steps": {
+        "conceptName": "Following problem-solving steps systematically",
+        "importance": "important",
+        "videoIds": ["prereq_steps_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_wordprob_v2",
+        "checkpointName": "One-Step Problems Mastery",
+        "questions": [
+          {
+            "question": "Maya had 3,456 stickers. She gave 1,289 to her friend. How many does she have left?",
+            "options": ["2,167", "4,745", "2,267", "2,067"],
+            "correctAnswer": 0,
+            "explanation": "Keywords: 'gave', 'left' → Subtraction. 3,456 - 1,289 = 2,167 stickers."
+          },
+          {
+            "question": "A shop sold 2,345 books in January and 3,456 books in February. How many books total?",
+            "options": ["5,801", "5,701", "5,901", "1,111"],
+            "correctAnswer": 0,
+            "explanation": "Keywords: 'total' → Addition. 2,345 + 3,456 = 5,801 books."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand one-step word problems well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_keywords_v1",
+          "reason": "Student struggling with operation selection"
+        }
+      },
+      {
+        "afterVideoId": "gr4_wordprob_v4",
+        "checkpointName": "Two-Step Problems Check",
+        "questions": [
+          {
+            "question": "A farmer had 5,000 kg rice. He sold 2,000 kg and then harvested 3,000 kg more. How much rice does he have now?",
+            "options": ["6,000 kg", "5,000 kg", "4,000 kg", "10,000 kg"],
+            "correctAnswer": 0,
+            "explanation": "Step 1: After selling → 5,000 - 2,000 = 3,000 kg. Step 2: After harvesting → 3,000 + 3,000 = 6,000 kg."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_wordprob_v7",
+          "reason": "Student ready for complex multi-step problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice more two-step problems before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip mixed practice, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on keywords and problem-solving steps"
+    },
+    "suggest_break": {
+      "trigger": "After 3 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend solving 10-15 word problems with parent/teacher"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong computation and problem-solving skills. You're ready to master word problems. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand basics well. Let's build your word problem-solving skills with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in computation or problem-solving basics. Don't worry! We'll start with targeted review videos on the concepts you need."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review addition/subtraction and problem-solving basics first. We've created a playlist focused on building strong foundation."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how word problem skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Addition mastery", "Subtraction mastery", "Reading comprehension"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Identifying keywords", "Extracting information", "Problem-solving steps"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["One-step addition problems", "One-step subtraction problems", "Comparison problems"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Two-step problems", "Mixed problem types", "Real-world applications"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Complex multi-step problems", "Problems with extra information", "Advanced strategies"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 42,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "problemSolvingAccuracy": {
+      "target": 85,
+      "description": "% of students who can correctly solve word problems"
+    },
+    "operationSelection": {
+      "target": 90,
+      "description": "% of students who correctly identify which operation to use"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 36-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 38-42 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 52-58 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (37 min) + retake + main content (26 min) = 63-72 total minutes, expected 65-80% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students choosing wrong operation",
+      "solution1": "Emphasize keywords: 'total', 'altogether' → add; 'left', 'difference', 'more/less' → subtract. Practice identifying keywords first",
+      "challenge2": "Students not reading problem carefully",
+      "solution2": "Teach: Read twice, underline important information (given, asked). What do I know? What do I need to find?",
+      "challenge3": "Students making computation errors even with correct operation",
+      "solution3": "Remind: Solve carefully with regrouping. Check answer using opposite operation or estimation",
+      "challenge4": "Students confused by two-step problems",
+      "solution4": "Teach: Break into steps. Solve first step, use answer in second step. Label intermediate results clearly"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch10",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_10_001",
+      "term": "Kabaddi",
+      "definition": "A traditional Indian contact sport where a raider must tag opponents and return to their side while chanting 'kabaddi' in one breath.",
+      "pronunciation": "kuh-BAD-dee",
+      "exampleUsage": "The children played kabaddi in the school ground during the games period.",
+      "difficulty": "easy",
+      "relatedTerms": ["raider", "traditional games"]
+    },
+    {
+      "id": "gls_evs_10_002",
+      "term": "Kho-kho",
+      "definition": "One of the oldest Indian games where two teams take turns chasing and running. Chasers sit in a row and tag runners by saying 'kho'.",
+      "pronunciation": "KHO-KHO",
+      "exampleUsage": "Our school team won the kho-kho tournament at the district level.",
+      "difficulty": "easy",
+      "relatedTerms": ["chasing", "traditional games"]
+    },
+    {
+      "id": "gls_evs_10_003",
+      "term": "Gilli-danda",
+      "definition": "A traditional game played with two sticks - a short one (gilli) and a long one (danda). The gilli is flicked into the air and hit as far as possible.",
+      "pronunciation": "GIL-lee DUN-dah",
+      "exampleUsage": "Grandpa told us he used to play gilli-danda with his friends every evening.",
+      "difficulty": "easy",
+      "relatedTerms": ["stick game", "outdoor games"]
+    },
+    {
+      "id": "gls_evs_10_004",
+      "term": "Traditional",
+      "definition": "Something that has been done or practised for a very long time, passed down from one generation to the next.",
+      "pronunciation": "truh-DISH-un-ul",
+      "exampleUsage": "Kabaddi is a traditional game that has been played in India for hundreds of years.",
+      "difficulty": "easy",
+      "relatedTerms": ["custom", "heritage"]
+    },
+    {
+      "id": "gls_evs_10_005",
+      "term": "Raider",
+      "definition": "In kabaddi, the player who goes to the other team's side to tag opponents. The raider must chant 'kabaddi' continuously without taking a breath.",
+      "pronunciation": "RAY-der",
+      "exampleUsage": "The raider touched three players and scored three points for her team.",
+      "difficulty": "easy",
+      "relatedTerms": ["kabaddi", "player"]
+    },
+    {
+      "id": "gls_evs_10_006",
+      "term": "Hopscotch",
+      "definition": "A game where players toss a small stone into numbered squares drawn on the ground and hop through them on one foot. Called stapu or kith-kith in Hindi.",
+      "pronunciation": "HOP-skotch",
+      "exampleUsage": "The girls drew hopscotch squares with chalk and played during lunch break.",
+      "difficulty": "easy",
+      "relatedTerms": ["stapu", "outdoor games"]
+    },
+    {
+      "id": "gls_evs_10_007",
+      "term": "Lattoo",
+      "definition": "A wooden spinning top that is spun using a string wound around it. Players compete to see whose top spins the longest.",
+      "pronunciation": "LAT-too",
+      "exampleUsage": "The colourful lattoo spun so fast that it looked like a blur!",
+      "difficulty": "easy",
+      "relatedTerms": ["spinning top", "toy"]
+    },
+    {
+      "id": "gls_evs_10_008",
+      "term": "Teamwork",
+      "definition": "When a group of people work together to achieve a goal. In games, teamwork means cooperating with your teammates to win.",
+      "pronunciation": "TEEM-wurk",
+      "exampleUsage": "Good teamwork helped our kabaddi team win the match.",
+      "difficulty": "easy",
+      "relatedTerms": ["cooperation", "team"]
+    },
+    {
+      "id": "gls_evs_10_009",
+      "term": "Fair play",
+      "definition": "Playing a game honestly and following the rules without cheating. Being a good sport whether you win or lose.",
+      "pronunciation": "FAIR PLAY",
+      "exampleUsage": "Our teacher always reminds us that fair play is more important than winning.",
+      "difficulty": "easy",
+      "relatedTerms": ["sportsmanship", "rules"]
+    },
+    {
+      "id": "gls_evs_10_010",
+      "term": "Physical fitness",
+      "definition": "Being healthy and strong because of regular exercise and movement. Traditional games help children stay physically fit.",
+      "pronunciation": "FIZ-ih-kul FIT-ness",
+      "exampleUsage": "Playing outdoor games every day improves our physical fitness.",
+      "difficulty": "medium",
+      "relatedTerms": ["exercise", "health"]
+    }
+  ]
+}

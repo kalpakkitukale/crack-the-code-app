@@ -1,0 +1,447 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch14",
+  "topicId": "gr4_mn_14_1",
+  "topicName": "Collecting and Organising Data",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 14: Data Handling (Tally marks, Pictographs, Bar Graphs)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent counting, sorting, and comparison skills. Can fast-track through data collection and move quickly to graphs and interpretation",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2760,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn14_v1",
+          "reason": "Introduction to collecting and organising data",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn14_v2",
+          "reason": "Learn tally marks for recording data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v3",
+          "reason": "Understand pictographs and picture symbols",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v4",
+          "reason": "Learn to read and draw bar graphs",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v5",
+          "reason": "Practice making bar graphs from data tables",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn14_v6",
+          "reason": "Challenge: Interpret and compare data from graphs",
+          "skippable": false
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready. Provide complete coverage of data handling from collection through interpretation",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2760,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn14_v1",
+          "reason": "Learn to collect and organise data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v2",
+          "reason": "Learn tally marks for counting data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v3",
+          "reason": "Read and make pictographs",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v4",
+          "reason": "Learn to read and draw bar graphs",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v5",
+          "reason": "Practice making bar graphs from data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v6",
+          "reason": "Read and interpret data from graphs",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in counting, comparison, or number reading. Needs targeted review before data handling concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 3930,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "counting_sorting_weak": {
+            "addVideos": ["prereq_ch14_counting_v1"],
+            "priority": "high"
+          },
+          "comparison_vocabulary_weak": {
+            "addVideos": ["prereq_ch14_comparison_v1"],
+            "priority": "high"
+          },
+          "reading_numbers_weak": {
+            "addVideos": ["prereq_ch14_numbers_v1"],
+            "priority": "medium"
+          },
+          "basic_addition_weak": {
+            "addVideos": ["prereq_ch14_numbers_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch14_counting_v1",
+          "reason": "Review: Counting and sorting objects into groups",
+          "skippable": false,
+          "condition": "if counting_sorting concept is weak"
+        },
+        {
+          "videoId": "prereq_ch14_comparison_v1",
+          "reason": "Review: Comparison vocabulary (more, less, most, least)",
+          "skippable": false,
+          "condition": "if comparison_vocabulary concept is weak"
+        },
+        {
+          "videoId": "prereq_ch14_numbers_v1",
+          "reason": "Review: Reading numbers on a number line",
+          "skippable": false,
+          "condition": "if reading_numbers concept is weak"
+        },
+        {
+          "videoId": "gr4_mn14_v1",
+          "reason": "Start main topic: Collecting and organising data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v2",
+          "reason": "Tally marks for counting data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v3",
+          "reason": "Pictographs and picture symbols",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v4",
+          "reason": "Introduction to bar graphs",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v6",
+          "reason": "Reading and interpreting data from graphs",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review in counting, sorting, and comparison before attempting data handling",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1950,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch14_counting_v1",
+          "reason": "Foundation: Review counting and sorting into groups",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch14_comparison_v1",
+          "reason": "Essential: Learn comparison words (more, less, most, least)",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch14_numbers_v1",
+          "reason": "Critical: Reading numbers and understanding number values",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v1",
+          "reason": "Gentle intro to collecting and organising data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn14_v2",
+          "reason": "Begin main content: Tally marks for counting",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with data handling."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "counting_sorting": {
+        "conceptName": "Counting objects and sorting them into groups",
+        "importance": "critical",
+        "videoIds": ["prereq_ch14_counting_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq14_1", "rq14_2", "rq14_3"]
+      },
+      "comparison_vocabulary": {
+        "conceptName": "Using comparison words like more, less, most, and least",
+        "importance": "critical",
+        "videoIds": ["prereq_ch14_comparison_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq14_4", "rq14_5", "rq14_6"]
+      },
+      "reading_numbers": {
+        "conceptName": "Reading numbers and understanding number values up to 100",
+        "importance": "important",
+        "videoIds": ["prereq_ch14_numbers_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq14_7", "rq14_8"]
+      },
+      "basic_addition": {
+        "conceptName": "Adding small numbers to find totals",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch14_numbers_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq14_9", "rq14_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn14_v2",
+        "checkpointName": "Tally Marks Understanding Check",
+        "questions": [
+          {
+            "question": "How many tally marks does this show: |||| || ?",
+            "options": ["5", "6", "7", "8"],
+            "correctAnswer": 2,
+            "explanation": "The first group of 5 tally marks (with the line across) equals 5, plus 2 more marks = 7."
+          },
+          {
+            "question": "If 8 children like cricket, how many tally marks would you draw?",
+            "options": ["|||| |", "|||| ||", "|||| |||", "|||| ||||"],
+            "correctAnswer": 2,
+            "explanation": "8 tally marks = one group of 5 (||||) plus 3 more (|||) = |||| |||."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand tally marks perfectly."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch14_counting_v1",
+          "reason": "Student struggling with tally marks, review counting and grouping"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn14_v4",
+        "checkpointName": "Bar Graph Reading Check",
+        "questions": [
+          {
+            "question": "In a bar graph, if the bar for 'Mango' reaches up to 10 and the bar for 'Apple' reaches up to 6, which fruit do more children like?",
+            "options": ["Apple", "Mango", "Both are equal", "Cannot tell"],
+            "correctAnswer": 1,
+            "explanation": "The taller bar means more children chose that option. Mango's bar is at 10, which is more than Apple's bar at 6."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn14_v6",
+          "reason": "Student ready for data interpretation challenge"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the bar graph video again and pay attention to how the height of each bar shows the number."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on counting and comparison"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising data collection and tally marks with real objects at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You are great at counting, sorting, and comparing. You are ready to learn about data handling. We have created a fast-track playlist with all the exciting graph topics for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand counting and comparing well. Let's learn how to collect data and show it using tally marks, pictographs, and bar graphs."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in counting, comparison, or number reading. Don't worry! We will start with targeted review videos on the concepts you need, then move to data handling."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review counting, sorting, and comparison first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn about graphs and charts."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how data handling concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Counting objects", "Sorting into groups", "Basic addition"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Comparison vocabulary (more, less, most, least)", "Reading numbers on a scale"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Collecting data", "Organising data in tables", "Tally marks"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Pictographs", "Bar graphs", "Choosing a scale"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Reading and interpreting data", "Comparing categories", "Drawing conclusions from graphs"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "tallyMarksFluency": {
+      "target": 90,
+      "description": "% of students who can correctly read and write tally marks"
+    },
+    "graphReadingAccuracy": {
+      "target": 80,
+      "description": "% of students who can correctly read data values from a bar graph or pictograph"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 45-55 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 55-65 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (20 min) + retake + main content (30 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing tally marks grouping (forgetting to cross at 5)",
+      "solution1": "Emphasise the bundle of 5 pattern. Use physical sticks or straws to demonstrate grouping by 5s.",
+      "challenge2": "Students unable to read the scale on a pictograph (each picture = 2 or 5)",
+      "solution2": "Always point out the key/legend first. Practice counting by 2s and 5s before reading pictographs.",
+      "challenge3": "Students drawing bar graph bars of incorrect height",
+      "solution3": "Use grid paper so students can count squares. Start with scales of 1 before moving to scales of 2 or 5."
+    }
+  }
+}

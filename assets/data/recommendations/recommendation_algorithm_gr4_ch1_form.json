@@ -1,0 +1,441 @@
+{
+  "algorithmId": "rec_gr4_m1_t4",
+  "topicId": "gr4_m_1_4",
+  "topicName": "Forming Numbers (largest/smallest)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for forming largest and smallest numbers from given digits",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student understands digit arrangement and place value well, can fast-track to 5-digit formation with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1860,
+      "videoSequence": [
+        {
+          "videoId": "gr4_form_v1",
+          "reason": "Strategy for forming largest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v2",
+          "reason": "Strategy for forming smallest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v3",
+          "reason": "Handling zeros - critical skill",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v4",
+          "reason": "Practice with 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v6",
+          "reason": "Challenge: Advanced problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of number formation strategies",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1890,
+      "videoSequence": [
+        {
+          "videoId": "gr4_form_v1",
+          "reason": "Forming largest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v2",
+          "reason": "Forming smallest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v3",
+          "reason": "Handling zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v4",
+          "reason": "5-digit practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v5",
+          "reason": "Mixed problems and applications",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in digit arrangement or place value understanding, needs targeted review",
+      "playlistComposition": {
+        "prerequisiteVideos": 4,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 2340,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "digit_arrangement_weak": {
+            "addVideos": ["prereq_arrange_v1"],
+            "priority": "high"
+          },
+          "pv_digit_value_weak": {
+            "addVideos": ["prereq_pv_digit_v1"],
+            "priority": "high"
+          },
+          "comparing_numbers_weak": {
+            "addVideos": ["prereq_comp_v1"],
+            "priority": "medium"
+          },
+          "ordering_digits_weak": {
+            "addVideos": ["prereq_digit_order_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_arrange_v1",
+          "reason": "Review: Digit arrangement basics",
+          "skippable": false,
+          "condition": "if digit_arrangement concept is weak"
+        },
+        {
+          "videoId": "prereq_pv_digit_v1",
+          "reason": "Review: Place value determines digit value",
+          "skippable": false,
+          "condition": "if pv_digit_value concept is weak"
+        },
+        {
+          "videoId": "prereq_comp_v1",
+          "reason": "Review: Comparing to find largest/smallest",
+          "skippable": false,
+          "condition": "if comparing_numbers concept is weak"
+        },
+        {
+          "videoId": "prereq_digit_order_v1",
+          "reason": "Review: Ordering digits",
+          "skippable": false,
+          "condition": "if ordering_digits concept is weak"
+        },
+        {
+          "videoId": "gr4_form_v1",
+          "reason": "Start main topic: Forming largest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v2",
+          "reason": "Forming smallest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v3",
+          "reason": "Handling zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v4",
+          "reason": "5-digit practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of digit arrangement and place value concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 4,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2040,
+      "videoSequence": [
+        {
+          "videoId": "prereq_arrange_v1",
+          "reason": "Foundation: Understanding digit arrangement",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv_digit_v1",
+          "reason": "Critical: Place value impact on digit value",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_comp_v1",
+          "reason": "Essential: Finding largest and smallest",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_digit_order_v1",
+          "reason": "Important: Ordering digits",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v1",
+          "reason": "Gentle intro to forming largest numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_form_v2",
+          "reason": "Gentle intro to forming smallest numbers",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with forming numbers."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "digit_arrangement": {
+        "conceptName": "Understanding how digit position affects number value",
+        "importance": "critical",
+        "videoIds": ["prereq_arrange_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "pv_digit_value": {
+        "conceptName": "Understanding place value determines digit's contribution",
+        "importance": "critical",
+        "videoIds": ["prereq_pv_digit_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "comparing_numbers": {
+        "conceptName": "Comparing numbers to identify largest/smallest",
+        "importance": "important",
+        "videoIds": ["prereq_comp_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "ordering_digits": {
+        "conceptName": "Ordering digits in ascending and descending order",
+        "importance": "important",
+        "videoIds": ["prereq_digit_order_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_form_v2",
+        "checkpointName": "Basic Formation Mastery",
+        "questions": [
+          {
+            "question": "Using digits 7, 3, 9, 1, what is the largest 4-digit number?",
+            "options": ["9,731", "7,391", "1,379", "9,713"],
+            "correctAnswer": 0,
+            "explanation": "Arrange in descending order: 9, 7, 3, 1 → 9,731."
+          },
+          {
+            "question": "Using digits 7, 3, 9, 1, what is the smallest 4-digit number?",
+            "options": ["1,379", "1,397", "1,739", "3,179"],
+            "correctAnswer": 0,
+            "explanation": "Arrange in ascending order: 1, 3, 7, 9 → 1,379."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand the basic formation strategies."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_arrange_v1",
+          "reason": "Student struggling with digit arrangement"
+        }
+      },
+      {
+        "afterVideoId": "gr4_form_v3",
+        "checkpointName": "Handling Zeros Mastery",
+        "questions": [
+          {
+            "question": "Using digits 5, 0, 3, 8, what is the smallest 4-digit number?",
+            "options": ["3,058", "0,358", "3,085", "5,038"],
+            "correctAnswer": 0,
+            "explanation": "Cannot start with 0. Put smallest non-zero (3) first, then 0, then rest ascending → 3,058."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_form_v6",
+          "reason": "Student ready for advanced problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice more with zeros before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip mixed practice, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on digit arrangement"
+    },
+    "suggest_break": {
+      "trigger": "After 3 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing with parent/teacher using digit cards"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You understand digit arrangement and place value well. You're ready to learn forming largest and smallest 5-digit numbers. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand the basics of forming numbers. Let's apply these strategies to 5-digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in understanding digit arrangement or place value. Don't worry! We'll start with targeted review videos on the concepts you need."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review digit arrangement and place value basics first. We've created a playlist focused on building strong foundation."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how number formation skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic digit arrangement", "Understanding position matters"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Place value impact", "Comparing numbers", "Ordering digits"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Forming largest (descending)", "Forming smallest (ascending)", "Basic strategies"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Handling zeros correctly", "5-digit formation", "Verification"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Complex constraints", "Multi-step problems", "Advanced applications"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 35,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "formationAccuracy": {
+      "target": 90,
+      "description": "% of students who can correctly form largest and smallest numbers"
+    },
+    "zeroHandling": {
+      "target": 85,
+      "description": "% of students who correctly handle zeros in number formation"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 30-35 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 40-45 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (35 min) + retake + main content (20 min) = 55-65 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students putting 0 as the first digit when forming smallest numbers",
+      "solution1": "Emphasize rule: first digit cannot be zero. Practice identifying smallest non-zero digit",
+      "challenge2": "Students confusing largest and smallest strategies",
+      "solution2": "Use memory aids: Largest = Big digits first (descending), Smallest = Small digits first (ascending)",
+      "challenge3": "Students not arranging all digits systematically",
+      "solution3": "Teach step-by-step: First order all digits, then place them position by position"
+    }
+  }
+}

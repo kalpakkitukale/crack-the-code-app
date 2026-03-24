@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch9",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Changing Families",
+      "description": "How families change and grow over time",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_types",
+      "label": "Types of Families",
+      "description": "Different kinds of family structures",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_joint",
+      "label": "Joint Family",
+      "description": "Many relatives living together",
+      "parentId": "node_types",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_nuclear",
+      "label": "Nuclear Family",
+      "description": "Parents and children only",
+      "parentId": "node_types",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_single",
+      "label": "Single-Parent Family",
+      "description": "One parent raising children",
+      "parentId": "node_types",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_growing",
+      "label": "Family Gets Bigger",
+      "description": "Events that add new members",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_birth",
+      "label": "New Baby Born",
+      "description": "A new member arrives in the family",
+      "parentId": "node_growing",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_marriage",
+      "label": "Marriage",
+      "description": "Two families join together",
+      "parentId": "node_growing",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_smaller",
+      "label": "Family Gets Smaller",
+      "description": "Events that change family size",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_moving",
+      "label": "Moving Away",
+      "description": "Children grow up and move to new places",
+      "parentId": "node_smaller",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_passing",
+      "label": "Elders Passing Away",
+      "description": "Losing family members to old age",
+      "parentId": "node_smaller",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_bonds",
+      "label": "Staying Connected",
+      "description": "How families stay close despite changes",
+      "parentId": "node_root",
+      "positionX": -100,
+      "positionY": 280,
+      "color": "#2196F3",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_festivals",
+      "label": "Festivals & Gatherings",
+      "description": "Coming together for celebrations",
+      "parentId": "node_bonds",
+      "positionX": -150,
+      "positionY": 360,
+      "color": "#03A9F4",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_technology",
+      "label": "Calls & Video Chats",
+      "description": "Using technology to stay in touch",
+      "parentId": "node_bonds",
+      "positionX": -50,
+      "positionY": 360,
+      "color": "#03A9F4",
+      "orderIndex": 13
+    }
+  ]
+}

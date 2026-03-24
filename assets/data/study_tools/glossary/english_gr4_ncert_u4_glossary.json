@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u4",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_4_001",
+      "term": "Curious",
+      "definition": "Wanting to know or learn about something. A curious person asks lots of questions.",
+      "pronunciation": "KYOOR-ee-us",
+      "exampleUsage": "Alice was a very curious girl who wanted to know everything.",
+      "difficulty": "easy",
+      "relatedTerms": ["wonder", "inquisitive", "question"]
+    },
+    {
+      "id": "gls_eng_4_002",
+      "term": "Wonderland",
+      "definition": "A magical, imaginary place full of strange and surprising things. In the story, it is the land Alice discovers underground.",
+      "pronunciation": "WUN-der-land",
+      "exampleUsage": "Alice fell down the rabbit hole and found herself in Wonderland.",
+      "difficulty": "easy",
+      "relatedTerms": ["magical", "imaginary", "fantasy"]
+    },
+    {
+      "id": "gls_eng_4_003",
+      "term": "Rabbit Hole",
+      "definition": "A hole or tunnel in the ground made by a rabbit. In the story, it is the entrance to Wonderland.",
+      "pronunciation": "RAB-it HOLE",
+      "exampleUsage": "Alice followed the White Rabbit down the rabbit hole.",
+      "difficulty": "easy",
+      "relatedTerms": ["tunnel", "burrow", "hole"]
+    },
+    {
+      "id": "gls_eng_4_004",
+      "term": "Question Word",
+      "definition": "A special word used at the beginning of a question to find out specific information. Also called Wh-words.",
+      "pronunciation": "KWES-chun WURD",
+      "exampleUsage": "'Where' is a question word that asks about a place.",
+      "difficulty": "easy",
+      "relatedTerms": ["who", "what", "where", "when", "why", "how"]
+    },
+    {
+      "id": "gls_eng_4_005",
+      "term": "Wonder",
+      "definition": "A feeling of surprise and admiration caused by something beautiful or amazing. It also means to think about something with curiosity.",
+      "pronunciation": "WUN-der",
+      "exampleUsage": "The child looked at the stars with wonder.",
+      "difficulty": "easy",
+      "relatedTerms": ["amazement", "surprise", "curious"]
+    },
+    {
+      "id": "gls_eng_4_006",
+      "term": "Shrink",
+      "definition": "To become smaller in size. The opposite of grow.",
+      "pronunciation": "SHRINK",
+      "exampleUsage": "After eating the cake, Alice began to shrink and became very tiny.",
+      "difficulty": "medium",
+      "relatedTerms": ["reduce", "smaller", "grow"]
+    },
+    {
+      "id": "gls_eng_4_007",
+      "term": "Adventure",
+      "definition": "An exciting or unusual experience, often involving some risk or discovery.",
+      "pronunciation": "ad-VEN-chur",
+      "exampleUsage": "Alice had many amazing adventures in Wonderland.",
+      "difficulty": "easy",
+      "relatedTerms": ["journey", "exploration", "experience"]
+    },
+    {
+      "id": "gls_eng_4_008",
+      "term": "Poem",
+      "definition": "A piece of writing arranged in lines, often with rhyming words and a rhythm. Poems express feelings and ideas in a special way.",
+      "pronunciation": "PO-em",
+      "exampleUsage": "The poem 'Why?' is about a child who asks many questions.",
+      "difficulty": "easy",
+      "relatedTerms": ["verse", "rhyme", "poetry"]
+    },
+    {
+      "id": "gls_eng_4_009",
+      "term": "Curiosity",
+      "definition": "A strong desire to know or learn something new.",
+      "pronunciation": "kyoor-ee-OS-ih-tee",
+      "exampleUsage": "It was Alice's curiosity that led her to follow the rabbit.",
+      "difficulty": "medium",
+      "relatedTerms": ["interest", "inquisitiveness", "wonder"]
+    },
+    {
+      "id": "gls_eng_4_010",
+      "term": "Imaginary",
+      "definition": "Something that exists only in the mind; not real. Made up in one's imagination.",
+      "pronunciation": "ih-MAJ-ih-nair-ee",
+      "exampleUsage": "Wonderland is an imaginary place created by the author Lewis Carroll.",
+      "difficulty": "medium",
+      "relatedTerms": ["make-believe", "fictional", "fantasy"]
+    }
+  ]
+}

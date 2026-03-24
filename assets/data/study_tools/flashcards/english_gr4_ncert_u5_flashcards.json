@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_eng_ncert_u5",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_helen_keller",
+      "name": "Helen Keller's Story",
+      "description": "Learn about the inspiring life of Helen Keller",
+      "cards": [
+        {
+          "id": "fc_hk_001",
+          "front": "Who was Helen Keller?",
+          "back": "Helen Keller was an American author and speaker who was both deaf and blind. She became the first deaf-blind person to earn a college degree!",
+          "hints": ["She overcame two major disabilities"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_hk_002",
+          "front": "Why couldn't Helen Keller see or hear?",
+          "back": "Helen Keller lost her ability to see and hear when she was only 19 months old due to an illness (possibly scarlet fever or meningitis).",
+          "hints": ["She became ill as a baby"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_hk_003",
+          "front": "Who was Anne Sullivan?",
+          "back": "Anne Sullivan was Helen Keller's teacher and lifelong companion. She taught Helen to communicate by spelling words into her palm.",
+          "hints": ["She was Helen's teacher"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_hk_004",
+          "front": "What was the first word Helen understood?",
+          "back": "The first word Helen understood was 'water' (W-A-T-E-R). Anne spelled it into Helen's hand while water flowed over her other hand.",
+          "hints": ["It was something flowing"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_hk_005",
+          "front": "What did Helen Keller achieve despite her disabilities?",
+          "back": "Helen graduated from college, wrote 12 books, gave speeches around the world, and inspired millions of people to overcome challenges.",
+          "hints": ["She achieved many great things"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_adjectives",
+      "name": "Adjectives",
+      "description": "Learn about describing words",
+      "cards": [
+        {
+          "id": "fc_adj_001",
+          "front": "What is an adjective?",
+          "back": "An adjective is a describing word. It tells us more about a noun - like its color, size, shape, or quality. Examples: big, beautiful, brave, dark",
+          "hints": ["It describes nouns"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_adj_002",
+          "front": "Find the adjective: 'The tall tree'",
+          "back": "'Tall' is the adjective. It describes the tree - telling us about its height.",
+          "hints": ["Which word describes tree?"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_adj_003",
+          "front": "What adjectives describe Helen Keller?",
+          "back": "Helen Keller was: brave, determined, hardworking, intelligent, inspiring, and courageous.",
+          "hints": ["Think about her qualities"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_adj_004",
+          "front": "Can we use more than one adjective for a noun?",
+          "back": "Yes! We can use multiple adjectives. Example: 'a beautiful, old, wooden box' uses three adjectives.",
+          "hints": ["Yes, multiple are allowed"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_adj_005",
+          "front": "Where do adjectives usually come in a sentence?",
+          "back": "Adjectives usually come before the noun they describe. Example: 'brave girl' (brave comes before girl).",
+          "hints": ["They come before nouns"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_courage",
+      "name": "Courage & Inspiration",
+      "description": "Lessons about bravery from the chapter",
+      "cards": [
+        {
+          "id": "fc_ci_001",
+          "front": "What does 'courage' mean?",
+          "back": "Courage means being brave - facing your fears and doing something difficult even when you're scared.",
+          "hints": ["It's about being brave"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ci_002",
+          "front": "Why was Helen Keller considered brave?",
+          "back": "Helen was brave because she never gave up despite not being able to see or hear. She worked hard to learn and achieved great things.",
+          "hints": ["She never gave up"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ci_003",
+          "front": "What lesson does Helen Keller's story teach us?",
+          "back": "Helen's story teaches us that nothing is impossible with hard work and determination. We should never give up on our dreams!",
+          "hints": ["About not giving up"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ci_004",
+          "front": "What does the poem 'Don't Be Afraid of the Dark' teach?",
+          "back": "The poem teaches us to be brave and not fear the darkness. Darkness is natural, and we shouldn't be scared of it.",
+          "hints": ["About facing fears"],
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

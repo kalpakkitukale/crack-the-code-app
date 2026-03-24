@@ -1,0 +1,220 @@
+{
+  "videos": [
+    {
+      "id": "vid_mult_tables_1",
+      "conceptId": "math_3_multiplication_tables",
+      "youtubeId": "xO_1bYgoQvA",
+      "title": "Learn Multiplication Tables 1-12",
+      "duration": 480,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 120, "questionId": "q_mult_check_1", "replayStart": 60, "replayEnd": 120},
+        {"timestamp": 240, "questionId": "q_mult_check_2", "replayStart": 120, "replayEnd": 240},
+        {"timestamp": 360, "questionId": "q_mult_check_3", "replayStart": 240, "replayEnd": 360}
+      ],
+      "preQuizQuestionIds": ["q_mult_pre_1", "q_mult_pre_2", "q_mult_pre_3", "q_mult_pre_4", "q_mult_pre_5"],
+      "postQuizQuestionIds": ["q_mult_post_1", "q_mult_post_2", "q_mult_post_3", "q_mult_post_4", "q_mult_post_5", "q_mult_post_6", "q_mult_post_7"]
+    },
+    {
+      "id": "vid_factors_1",
+      "conceptId": "math_4_factors",
+      "youtubeId": "mIStB5X4U8M",
+      "title": "Understanding Factors",
+      "duration": 420,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 150, "questionId": "q_factors_check_1", "replayStart": 90, "replayEnd": 150},
+        {"timestamp": 300, "questionId": "q_factors_check_2", "replayStart": 150, "replayEnd": 300}
+      ],
+      "preQuizQuestionIds": ["q_factors_pre_1", "q_factors_pre_2", "q_factors_pre_3", "q_factors_pre_4", "q_factors_pre_5"],
+      "postQuizQuestionIds": ["q_factors_post_1", "q_factors_post_2", "q_factors_post_3", "q_factors_post_4", "q_factors_post_5", "q_factors_post_6", "q_factors_post_7"]
+    },
+    {
+      "id": "vid_multiples_1",
+      "conceptId": "math_4_multiples",
+      "youtubeId": "s9h7I1mSYns",
+      "title": "Multiples Made Easy",
+      "duration": 360,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 120, "questionId": "q_multiples_check_1", "replayStart": 60, "replayEnd": 120},
+        {"timestamp": 240, "questionId": "q_multiples_check_2", "replayStart": 120, "replayEnd": 240}
+      ],
+      "preQuizQuestionIds": ["q_multiples_pre_1", "q_multiples_pre_2", "q_multiples_pre_3", "q_multiples_pre_4", "q_multiples_pre_5"],
+      "postQuizQuestionIds": ["q_multiples_post_1", "q_multiples_post_2", "q_multiples_post_3", "q_multiples_post_4", "q_multiples_post_5"]
+    },
+    {
+      "id": "vid_lcm_1",
+      "conceptId": "math_5_lcm",
+      "youtubeId": "znmPfDLCgwI",
+      "title": "Understanding LCM - Khan Academy",
+      "duration": 480,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 150, "questionId": "q_lcm_check_1", "replayStart": 90, "replayEnd": 150},
+        {"timestamp": 300, "questionId": "q_lcm_check_2", "replayStart": 150, "replayEnd": 300},
+        {"timestamp": 420, "questionId": "q_lcm_check_3", "replayStart": 300, "replayEnd": 420}
+      ],
+      "preQuizQuestionIds": ["q_lcm_pre_1", "q_lcm_pre_2", "q_lcm_pre_3", "q_lcm_pre_4", "q_lcm_pre_5"],
+      "postQuizQuestionIds": ["q_lcm_post_1", "q_lcm_post_2", "q_lcm_post_3", "q_lcm_post_4", "q_lcm_post_5", "q_lcm_post_6", "q_lcm_post_7"]
+    },
+    {
+      "id": "vid_lcm_2",
+      "conceptId": "math_5_lcm",
+      "youtubeId": "WL0ejHxUD74",
+      "title": "LCM Made Easy",
+      "duration": 360,
+      "isPrimary": false,
+      "checkpoints": [
+        {"timestamp": 120, "questionId": "q_lcm_check_4", "replayStart": 60, "replayEnd": 120},
+        {"timestamp": 240, "questionId": "q_lcm_check_5", "replayStart": 120, "replayEnd": 240}
+      ],
+      "preQuizQuestionIds": ["q_lcm_pre_1", "q_lcm_pre_2", "q_lcm_pre_3", "q_lcm_pre_4", "q_lcm_pre_5"],
+      "postQuizQuestionIds": ["q_lcm_post_1", "q_lcm_post_2", "q_lcm_post_3", "q_lcm_post_4", "q_lcm_post_5", "q_lcm_post_6", "q_lcm_post_7"]
+    },
+    {
+      "id": "vid_hcf_1",
+      "conceptId": "math_5_hcf",
+      "youtubeId": "jFd-6EPfnec",
+      "title": "Understanding HCF (GCD)",
+      "duration": 420,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 140, "questionId": "q_hcf_check_1", "replayStart": 80, "replayEnd": 140},
+        {"timestamp": 280, "questionId": "q_hcf_check_2", "replayStart": 140, "replayEnd": 280}
+      ],
+      "preQuizQuestionIds": ["q_hcf_pre_1", "q_hcf_pre_2", "q_hcf_pre_3", "q_hcf_pre_4", "q_hcf_pre_5"],
+      "postQuizQuestionIds": ["q_hcf_post_1", "q_hcf_post_2", "q_hcf_post_3", "q_hcf_post_4", "q_hcf_post_5", "q_hcf_post_6"]
+    },
+    {
+      "id": "vid_equiv_frac_1",
+      "conceptId": "math_5_equivalent_fractions",
+      "youtubeId": "qcHHhd6HizI",
+      "title": "Equivalent Fractions Explained",
+      "duration": 360,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 120, "questionId": "q_equiv_check_1", "replayStart": 60, "replayEnd": 120},
+        {"timestamp": 240, "questionId": "q_equiv_check_2", "replayStart": 120, "replayEnd": 240}
+      ],
+      "preQuizQuestionIds": ["q_equiv_pre_1", "q_equiv_pre_2", "q_equiv_pre_3", "q_equiv_pre_4", "q_equiv_pre_5"],
+      "postQuizQuestionIds": ["q_equiv_post_1", "q_equiv_post_2", "q_equiv_post_3", "q_equiv_post_4", "q_equiv_post_5"]
+    },
+    {
+      "id": "vid_frac_add_1",
+      "conceptId": "math_6_fractions_addition",
+      "youtubeId": "5juto2ze8Lg",
+      "title": "Adding Fractions with Unlike Denominators",
+      "duration": 540,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 180, "questionId": "q_frac_add_check_1", "replayStart": 90, "replayEnd": 180},
+        {"timestamp": 360, "questionId": "q_frac_add_check_2", "replayStart": 180, "replayEnd": 360},
+        {"timestamp": 480, "questionId": "q_frac_add_check_3", "replayStart": 360, "replayEnd": 480}
+      ],
+      "preQuizQuestionIds": ["q_frac_add_pre_1", "q_frac_add_pre_2", "q_frac_add_pre_3", "q_frac_add_pre_4", "q_frac_add_pre_5"],
+      "postQuizQuestionIds": ["q_frac_add_post_1", "q_frac_add_post_2", "q_frac_add_post_3", "q_frac_add_post_4", "q_frac_add_post_5", "q_frac_add_post_6", "q_frac_add_post_7"]
+    },
+    {
+      "id": "vid_motion_basics_1",
+      "conceptId": "physics_8_motion_basics",
+      "youtubeId": "ZM8ECpBuQYE",
+      "title": "Motion - An Introduction",
+      "duration": 450,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 150, "questionId": "q_motion_check_1", "replayStart": 60, "replayEnd": 150},
+        {"timestamp": 300, "questionId": "q_motion_check_2", "replayStart": 150, "replayEnd": 300}
+      ],
+      "preQuizQuestionIds": ["q_motion_pre_1", "q_motion_pre_2", "q_motion_pre_3", "q_motion_pre_4", "q_motion_pre_5"],
+      "postQuizQuestionIds": ["q_motion_post_1", "q_motion_post_2", "q_motion_post_3", "q_motion_post_4", "q_motion_post_5"]
+    },
+    {
+      "id": "vid_speed_vel_1",
+      "conceptId": "physics_8_speed_velocity",
+      "youtubeId": "4dCrkp8qgLU",
+      "title": "Speed vs Velocity",
+      "duration": 480,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 160, "questionId": "q_speed_check_1", "replayStart": 80, "replayEnd": 160},
+        {"timestamp": 320, "questionId": "q_speed_check_2", "replayStart": 160, "replayEnd": 320},
+        {"timestamp": 420, "questionId": "q_speed_check_3", "replayStart": 320, "replayEnd": 420}
+      ],
+      "preQuizQuestionIds": ["q_speed_pre_1", "q_speed_pre_2", "q_speed_pre_3", "q_speed_pre_4", "q_speed_pre_5"],
+      "postQuizQuestionIds": ["q_speed_post_1", "q_speed_post_2", "q_speed_post_3", "q_speed_post_4", "q_speed_post_5", "q_speed_post_6"]
+    },
+    {
+      "id": "vid_acceleration_1",
+      "conceptId": "physics_8_acceleration",
+      "youtubeId": "5-2nKhJYFho",
+      "title": "Understanding Acceleration",
+      "duration": 420,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 140, "questionId": "q_accel_check_1", "replayStart": 60, "replayEnd": 140},
+        {"timestamp": 280, "questionId": "q_accel_check_2", "replayStart": 140, "replayEnd": 280},
+        {"timestamp": 360, "questionId": "q_accel_check_3", "replayStart": 280, "replayEnd": 360}
+      ],
+      "preQuizQuestionIds": ["q_accel_pre_1", "q_accel_pre_2", "q_accel_pre_3", "q_accel_pre_4", "q_accel_pre_5"],
+      "postQuizQuestionIds": ["q_accel_post_1", "q_accel_post_2", "q_accel_post_3", "q_accel_post_4", "q_accel_post_5", "q_accel_post_6"]
+    },
+    {
+      "id": "vid_acceleration_2",
+      "conceptId": "physics_8_acceleration",
+      "youtubeId": "UtxqIUyLD8A",
+      "title": "Acceleration and Deceleration",
+      "duration": 360,
+      "isPrimary": false,
+      "checkpoints": [
+        {"timestamp": 120, "questionId": "q_accel_check_4", "replayStart": 60, "replayEnd": 120},
+        {"timestamp": 240, "questionId": "q_accel_check_5", "replayStart": 120, "replayEnd": 240}
+      ],
+      "preQuizQuestionIds": ["q_accel_pre_1", "q_accel_pre_2", "q_accel_pre_3", "q_accel_pre_4", "q_accel_pre_5"],
+      "postQuizQuestionIds": ["q_accel_post_1", "q_accel_post_2", "q_accel_post_3", "q_accel_post_4", "q_accel_post_5", "q_accel_post_6"]
+    },
+    {
+      "id": "vid_equations_motion_1",
+      "conceptId": "physics_9_equations_motion",
+      "youtubeId": "opz3WGUzAX8",
+      "title": "Equations of Motion - Introduction",
+      "duration": 540,
+      "isPrimary": true,
+      "checkpoints": [
+        {"timestamp": 180, "questionId": "q_eom_check_1", "replayStart": 90, "replayEnd": 180},
+        {"timestamp": 360, "questionId": "q_eom_check_2", "replayStart": 180, "replayEnd": 360},
+        {"timestamp": 480, "questionId": "q_eom_check_3", "replayStart": 360, "replayEnd": 480}
+      ],
+      "preQuizQuestionIds": ["q_eom_pre_1", "q_eom_pre_2", "q_eom_pre_3", "q_eom_pre_4", "q_eom_pre_5"],
+      "postQuizQuestionIds": ["q_eom_post_1", "q_eom_post_2", "q_eom_post_3", "q_eom_post_4", "q_eom_post_5", "q_eom_post_6", "q_eom_post_7"]
+    },
+    {
+      "id": "vid_equations_motion_2",
+      "conceptId": "physics_9_equations_motion",
+      "youtubeId": "D3LHUnIHQOk",
+      "title": "Kinematics Equations Explained",
+      "duration": 480,
+      "isPrimary": false,
+      "checkpoints": [
+        {"timestamp": 160, "questionId": "q_eom_check_4", "replayStart": 80, "replayEnd": 160},
+        {"timestamp": 320, "questionId": "q_eom_check_5", "replayStart": 160, "replayEnd": 320}
+      ],
+      "preQuizQuestionIds": ["q_eom_pre_1", "q_eom_pre_2", "q_eom_pre_3", "q_eom_pre_4", "q_eom_pre_5"],
+      "postQuizQuestionIds": ["q_eom_post_1", "q_eom_post_2", "q_eom_post_3", "q_eom_post_4", "q_eom_post_5", "q_eom_post_6", "q_eom_post_7"]
+    },
+    {
+      "id": "vid_equations_motion_3",
+      "conceptId": "physics_9_equations_motion",
+      "youtubeId": "kh3pPT-fkQA",
+      "title": "Free Fall and Projectile Motion",
+      "duration": 420,
+      "isPrimary": false,
+      "checkpoints": [
+        {"timestamp": 140, "questionId": "q_eom_check_6", "replayStart": 70, "replayEnd": 140},
+        {"timestamp": 280, "questionId": "q_eom_check_7", "replayStart": 140, "replayEnd": 280}
+      ],
+      "preQuizQuestionIds": ["q_eom_pre_1", "q_eom_pre_2", "q_eom_pre_3", "q_eom_pre_4", "q_eom_pre_5"],
+      "postQuizQuestionIds": ["q_eom_post_1", "q_eom_post_2", "q_eom_post_3", "q_eom_post_4", "q_eom_post_5", "q_eom_post_6", "q_eom_post_7"]
+    }
+  ]
+}

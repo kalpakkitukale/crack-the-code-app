@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch11",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_11_001",
+      "term": "Valley",
+      "definition": "A low area of land between two hills or mountains. Rivers often flow through valleys.",
+      "pronunciation": "VAL-ee",
+      "exampleUsage": "The Valley of Flowers is a beautiful valley in the Himalayas.",
+      "difficulty": "easy",
+      "relatedTerms": ["mountain", "hill"]
+    },
+    {
+      "id": "gls_evs_11_002",
+      "term": "Himalayas",
+      "definition": "The highest mountain range in the world, stretching across northern India and other countries. The name means 'abode of snow'.",
+      "pronunciation": "him-AH-lay-uz",
+      "exampleUsage": "The Himalayas have snow-covered peaks that can be seen from far away.",
+      "difficulty": "easy",
+      "relatedTerms": ["mountains", "snow", "Uttarakhand"]
+    },
+    {
+      "id": "gls_evs_11_003",
+      "term": "National Park",
+      "definition": "A protected area set up by the government where plants and animals are kept safe from harm. Hunting and cutting trees is not allowed.",
+      "pronunciation": "NASH-uh-nul PARK",
+      "exampleUsage": "The Valley of Flowers National Park is home to hundreds of rare flowers.",
+      "difficulty": "easy",
+      "relatedTerms": ["conservation", "protected area"]
+    },
+    {
+      "id": "gls_evs_11_004",
+      "term": "UNESCO World Heritage Site",
+      "definition": "A special place recognised by the United Nations as being very important to the world because of its natural beauty or cultural value.",
+      "pronunciation": "yoo-NES-koh WURLD HER-ih-tij SITE",
+      "exampleUsage": "The Valley of Flowers became a UNESCO World Heritage Site because of its unique flowers.",
+      "difficulty": "hard",
+      "relatedTerms": ["conservation", "protection"]
+    },
+    {
+      "id": "gls_evs_11_005",
+      "term": "Endangered",
+      "definition": "When a type of plant or animal has very few left and might disappear from the world forever.",
+      "pronunciation": "en-DAYN-jerd",
+      "exampleUsage": "The snow leopard is an endangered animal found near the Valley of Flowers.",
+      "difficulty": "medium",
+      "relatedTerms": ["rare", "extinction", "conservation"]
+    },
+    {
+      "id": "gls_evs_11_006",
+      "term": "Flora",
+      "definition": "All the plants and flowers found in a particular area. The Valley of Flowers has very rich flora.",
+      "pronunciation": "FLOR-uh",
+      "exampleUsage": "The flora of the valley includes orchids, poppies, and daisies.",
+      "difficulty": "medium",
+      "relatedTerms": ["plants", "flowers", "fauna"]
+    },
+    {
+      "id": "gls_evs_11_007",
+      "term": "Fauna",
+      "definition": "All the animals found in a particular area. The region around the valley has diverse fauna.",
+      "pronunciation": "FAW-nuh",
+      "exampleUsage": "The fauna of the Himalayan region includes snow leopards and musk deer.",
+      "difficulty": "medium",
+      "relatedTerms": ["animals", "wildlife", "flora"]
+    },
+    {
+      "id": "gls_evs_11_008",
+      "term": "Conservation",
+      "definition": "The careful protection of plants, animals, and natural places so they are not destroyed or lost.",
+      "pronunciation": "kon-ser-VAY-shun",
+      "exampleUsage": "Conservation efforts have helped protect the rare flowers in the valley.",
+      "difficulty": "medium",
+      "relatedTerms": ["protection", "national park"]
+    },
+    {
+      "id": "gls_evs_11_009",
+      "term": "Alpine",
+      "definition": "Relating to high mountain areas. Alpine meadows are grassy areas found high up in mountains where beautiful flowers grow.",
+      "pronunciation": "AL-pine",
+      "exampleUsage": "The Valley of Flowers is an alpine meadow with hundreds of flower species.",
+      "difficulty": "hard",
+      "relatedTerms": ["mountain", "meadow", "Himalayas"]
+    },
+    {
+      "id": "gls_evs_11_010",
+      "term": "Biodiversity",
+      "definition": "The variety of different plants and animals living in one area. A place with many different species has high biodiversity.",
+      "pronunciation": "bye-oh-dy-VER-sih-tee",
+      "exampleUsage": "The Valley of Flowers has incredible biodiversity with over 600 types of plants.",
+      "difficulty": "hard",
+      "relatedTerms": ["flora", "fauna", "species"]
+    }
+  ]
+}

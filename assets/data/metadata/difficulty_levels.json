@@ -1,0 +1,25 @@
+{
+  "levels": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "description": "Fundamental concepts and introduction",
+      "color": "#4CAF50",
+      "icon": "📚"
+    },
+    {
+      "id": "intermediate",
+      "name": "Intermediate",
+      "description": "Moderate difficulty with applications",
+      "color": "#FF9800",
+      "icon": "📖"
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "description": "Complex concepts and problem solving",
+      "color": "#F44336",
+      "icon": "🎓"
+    }
+  ]
+}

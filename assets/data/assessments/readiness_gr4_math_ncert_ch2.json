@@ -1,0 +1,289 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch2",
+  "topicId": "gr4_mn_2_1",
+  "topicName": "Hide and Seek",
+  "chapterId": "gr4_math_ncert_ch2",
+  "chapterName": "Hide and Seek",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about views, grids, and maps",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "basic_directions",
+      "conceptName": "Understanding left, right, above, below",
+      "importance": "critical",
+      "questionsTestingThis": ["rq2_1", "rq2_2", "rq2_3"],
+      "remedialVideoIds": ["prereq_ch2_directions_v1"]
+    },
+    {
+      "conceptId": "position_words",
+      "conceptName": "Using position words (beside, between, in front of, behind)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq2_4", "rq2_5"],
+      "remedialVideoIds": ["prereq_ch2_positions_v1"]
+    },
+    {
+      "conceptId": "shape_recognition",
+      "conceptName": "Recognizing basic 2D and 3D shapes",
+      "importance": "important",
+      "questionsTestingThis": ["rq2_6", "rq2_7", "rq2_8"],
+      "remedialVideoIds": ["prereq_ch2_shapes_v1"]
+    },
+    {
+      "conceptId": "spatial_awareness",
+      "conceptName": "Basic spatial awareness and observation",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq2_9", "rq2_10"],
+      "remedialVideoIds": ["prereq_ch2_shapes_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq2_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "basic_directions",
+      "question": "If you are facing your teacher, which hand do you write with? (For most people) That is your:",
+      "options": ["Left hand", "Right hand", "Both hands", "No hand"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Right hand",
+      "explanation": "Most people write with their right hand. Knowing left and right helps us describe where things are and give directions!",
+      "tags": ["left", "right", "directions"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused left and right",
+          "conceptGap": "Distinguishing left from right",
+          "remediation": "Practice with the L-shape trick: your left hand makes an L"
+        }
+      ]
+    },
+    {
+      "id": "rq2_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "basic_directions",
+      "question": "A bird is flying in the sky. The bird is _______ you.",
+      "options": ["Below", "Above", "Behind", "Under"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Above",
+      "explanation": "A bird flying in the sky is above you because it is higher up. 'Above' means something is at a higher position than you.",
+      "tags": ["above", "below", "position"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq2_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "basic_directions",
+      "question": "Your shoes are on the floor. The floor is _______ the table.",
+      "options": ["Above", "On top of", "Below", "Beside"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Below",
+      "explanation": "The floor is below the table because it is at a lower position. 'Below' means something is lower down.",
+      "tags": ["above", "below", "relative position"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Confused below with beside",
+          "conceptGap": "Difference between vertical and horizontal positions",
+          "remediation": "Use real objects to show above/below vs beside"
+        }
+      ]
+    },
+    {
+      "id": "rq2_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "position_words",
+      "question": "There are three children standing in a line: Anu, Balu, and Chitra. Balu is in the middle. Balu is _______ Anu and Chitra.",
+      "options": ["Above", "Behind", "Between", "Below"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Between",
+      "explanation": "'Between' means in the middle of two things. Balu is standing between Anu and Chitra, with one on each side.",
+      "tags": ["between", "position words", "spatial"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq2_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "position_words",
+      "question": "A cat is sitting next to a box, on the same side. The cat is _______ the box.",
+      "options": ["Inside", "Beside", "On top of", "Under"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Beside",
+      "explanation": "'Beside' means next to something, on the same level. The cat is sitting beside the box, right next to it.",
+      "tags": ["beside", "next to", "position words"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq2_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "Which shape has NO corners at all?",
+      "options": ["Square", "Triangle", "Circle", "Rectangle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Circle",
+      "explanation": "A circle is round and has no corners (vertices) at all. Squares have 4 corners, triangles have 3, and rectangles have 4.",
+      "tags": ["shapes", "circle", "corners"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq2_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "A ball is a 3D shape. What is the name of this shape?",
+      "options": ["Cube", "Cylinder", "Sphere", "Cone"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Sphere",
+      "explanation": "A ball is shaped like a sphere. A sphere is perfectly round from every direction, like a football or a marble.",
+      "tags": ["3D shapes", "sphere", "ball"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused sphere with cube",
+          "conceptGap": "Distinguishing between round and box-like 3D shapes",
+          "remediation": "Handle real objects: a ball (sphere) vs a dice (cube)"
+        }
+      ]
+    },
+    {
+      "id": "rq2_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "shape_recognition",
+      "question": "If you look at a tin can (cylinder) from the top, what shape do you see?",
+      "options": ["Rectangle", "Square", "Circle", "Triangle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Circle",
+      "explanation": "When you look at a tin can from the top, you see its round opening, which is a circle! From the side, it would look like a rectangle.",
+      "tags": ["3D shapes", "cylinder", "top view", "views"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused top view with side view of cylinder",
+          "conceptGap": "Understanding that different views show different shapes",
+          "remediation": "Look at real cans from different angles"
+        }
+      ]
+    },
+    {
+      "id": "rq2_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "spatial_awareness",
+      "question": "Imagine you are standing in front of your school. Your friend is standing behind the school. Can your friend see you?",
+      "options": ["Yes, easily", "No, the building blocks the view", "Only if they jump", "Only at night"],
+      "correctAnswer": 1,
+      "correctAnswerText": "No, the building blocks the view",
+      "explanation": "If a big building is between you and your friend, you cannot see each other because the building blocks the view. Objects can hide other objects!",
+      "tags": ["spatial awareness", "blocking view", "observation"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq2_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "spatial_awareness",
+      "question": "In a classroom, there are 3 rows and 4 columns of desks. How many desks are there in total?",
+      "options": ["7 desks", "10 desks", "12 desks", "34 desks"],
+      "correctAnswer": 2,
+      "correctAnswerText": "12 desks",
+      "explanation": "If there are 3 rows with 4 desks in each row, there are 3 x 4 = 12 desks in total. Rows go across and columns go up and down!",
+      "tags": ["rows", "columns", "grid", "counting"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added rows and columns instead of multiplying",
+          "conceptGap": "Understanding rows and columns form a grid",
+          "remediation": "Draw a grid and count objects in rows and columns"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Wonderful! You know your directions and shapes really well. You are ready to learn about views, grids, and maps!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Great job! You understand positions and shapes nicely. Let's explore how objects look from different sides!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things well, but let's review directions and shapes a bit more. Watch the review videos first, then we will start the fun chapter!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first practice left-right, above-below, and shape names. We have some fun videos to help you get ready for this exciting chapter!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check for Hide and Seek!",
+    "low_score_encouragement": "No worries! We have some really fun videos about directions and shapes to help you get ready.",
+    "high_score_praise": "Awesome! You are all set to discover how objects look from different views and play grid games!",
+    "retake_option": "After watching the recommended videos, you can try this quiz again to see how much you have improved."
+  }
+}

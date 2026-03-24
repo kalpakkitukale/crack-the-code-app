@@ -1,0 +1,49 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "chapterName": "Our Environment",
+  "subjectId": "evs_gr4",
+  "videos": [
+    {
+      "id": "gr4_ev1_v1",
+      "title": "Living and Non-Living Things | Science for Kids",
+      "description": "Learn to identify living and non-living things around us.",
+      "youtubeId": "pT58zbLPNLw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pT58zbLPNLw",
+      "thumbnailUrl": "https://img.youtube.com/vi/pT58zbLPNLw/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Peekaboo Kidz",
+      "channelId": "",
+      "language": "English",
+      "topicId": "gr4_ev_1_1",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 800000,
+      "tags": ["living things", "non-living things", "environment"],
+      "dateAdded": "2024-01-20T00:00:00.000Z",
+      "lastUpdated": "2024-01-20T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_ev1_v2",
+      "title": "What is an Ecosystem? | Ecosystems for Kids",
+      "description": "Discover what ecosystems are and how living things interact.",
+      "youtubeId": "sKJoXdrOT70",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sKJoXdrOT70",
+      "thumbnailUrl": "https://img.youtube.com/vi/sKJoXdrOT70/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Free School",
+      "channelId": "",
+      "language": "English",
+      "topicId": "gr4_ev_1_2",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 600000,
+      "tags": ["ecosystem", "environment", "nature"],
+      "dateAdded": "2024-02-05T00:00:00.000Z",
+      "lastUpdated": "2024-02-05T00:00:00.000Z"
+    }
+  ]
+}

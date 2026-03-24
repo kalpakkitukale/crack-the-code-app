@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn3_t1",
+  "topicId": "gr4_mn_3_1",
+  "topicName": "Repeating Patterns",
+  "chapterId": "gr4_math_ncert_ch3",
+  "chapterName": "Pattern Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1530,
+    "totalDurationDisplay": "25:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-35 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_3_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn3_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "The Patterns Practice Song | Repeating Patterns for Kids",
+      "description": "A catchy song that introduces repeating patterns using colors, shapes, and numbers. Learn to spot AB, ABC, and AABB patterns all around you!",
+      "youtubeId": "MBjjxSx45-Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MBjjxSx45-Q",
+      "thumbnailUrl": "https://img.youtube.com/vi/MBjjxSx45-Q/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2800000,
+      "tags": ["repeating patterns", "patterns song", "AB pattern", "ABC pattern", "colors", "shapes"],
+      "learningObjectives": ["Identify repeating patterns in colors, shapes, and numbers", "Recognize AB, ABC, and AABB pattern types"],
+      "keyConceptsCovered": ["Repeating patterns repeat the same group over and over", "AB pattern = two items alternating", "ABC pattern = three items repeating"],
+      "prerequisites": ["Basic shape recognition", "Color identification"],
+      "followUpTopics": ["Growing patterns", "Pattern core identification"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Pump Up the Pattern | Fun Exercise Pattern Song for Kids",
+      "description": "Get moving and learn about repeating and growing patterns! Create AB and ABC patterns using body movements like clapping, stomping, and jumping.",
+      "youtubeId": "hoFhVdYsmPg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hoFhVdYsmPg",
+      "thumbnailUrl": "https://img.youtube.com/vi/hoFhVdYsmPg/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["patterns", "exercise song", "body patterns", "growing patterns", "repeating patterns"],
+      "learningObjectives": ["Create repeating patterns using body movements", "Distinguish between AB and ABC body patterns"],
+      "keyConceptsCovered": ["Patterns can be made with actions, not just shapes", "Clap-stomp = AB pattern", "Clap-stomp-jump = ABC pattern"],
+      "prerequisites": ["Understanding of repeating patterns"],
+      "followUpTopics": ["Creating your own patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t1_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Repeating Patterns in Real Life | Patterns Around You",
+      "description": "Discover repeating patterns in everyday life: floor tiles, fabric designs, wallpaper, fences, and nature. Learn to spot the repeating core in real-world patterns.",
+      "youtubeId": "Kq3JnS7WRFI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kq3JnS7WRFI",
+      "thumbnailUrl": "https://img.youtube.com/vi/Kq3JnS7WRFI/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 680000,
+      "tags": ["real life patterns", "patterns around us", "pattern core", "tiles", "fabric", "nature patterns"],
+      "learningObjectives": ["Identify repeating patterns in real-world objects", "Find the core (repeating unit) of a pattern"],
+      "keyConceptsCovered": ["Patterns appear in tiles, fabric, fences, and nature", "The 'core' is the part that repeats", "Finding the core helps you extend the pattern"],
+      "prerequisites": ["AB, ABC pattern types"],
+      "followUpTopics": ["Creating repeating patterns", "Growing patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t1_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "What Comes Next? | Repeating Pattern Practice Quiz",
+      "description": "Test yourself with repeating pattern puzzles! Look at each pattern, find the repeating core, and predict what comes next. Interactive quiz-style video.",
+      "youtubeId": "Rw4G8e2TxnE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Rw4G8e2TxnE",
+      "thumbnailUrl": "https://img.youtube.com/vi/Rw4G8e2TxnE/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["pattern practice", "quiz", "what comes next", "repeating patterns", "predict"],
+      "learningObjectives": ["Predict the next item in a repeating pattern", "Quickly identify the pattern core"],
+      "keyConceptsCovered": ["Finding what comes next by identifying the core", "Practice with AB, ABC, ABB, and AABB patterns"],
+      "prerequisites": ["All repeating pattern concepts"],
+      "followUpTopics": ["Growing patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t1_v5",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Create Your Own Repeating Patterns | Pattern Art Activity",
+      "description": "Use colors, shapes, and objects to create your own repeating patterns. Make pattern bracelets, pattern borders, and pattern art!",
+      "youtubeId": "T5c9a3nLfHE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=T5c9a3nLfHE",
+      "thumbnailUrl": "https://img.youtube.com/vi/T5c9a3nLfHE/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOO2Q",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 450000,
+      "tags": ["create patterns", "pattern art", "hands-on", "pattern bracelet", "creative patterns"],
+      "learningObjectives": ["Create original repeating patterns using different media", "Apply pattern knowledge creatively"],
+      "keyConceptsCovered": ["Designing your own pattern core", "Extending patterns consistently", "Patterns in art and craft"],
+      "prerequisites": ["Understanding repeating patterns"],
+      "followUpTopics": ["Growing patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn3_v1", "gr4_mn3_t1_v3", "gr4_mn3_t1_v4", "gr4_mn3_t1_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1260,
+      "estimatedTimeDisplay": "21:00",
+      "rationale": "Fast-track through repeating patterns with real-life application and creative challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn3_v1", "gr4_mn3_v2", "gr4_mn3_t1_v3", "gr4_mn3_t1_v4", "gr4_mn3_t1_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1530,
+      "estimatedTimeDisplay": "25:30",
+      "rationale": "Complete coverage of repeating patterns with practice and creative activity"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn3_v1", "gr4_mn3_v2", "gr4_mn3_t1_v3", "gr4_mn3_t1_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1230,
+      "estimatedTimeDisplay": "20:30",
+      "rationale": "Core repeating pattern concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn3_v1", "gr4_mn3_v2", "gr4_mn3_t1_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Essential repeating pattern content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn3_v2",
+      "checkpointName": "Repeating Patterns Basics Check",
+      "questions": [
+        {
+          "question": "In the pattern: Clap, Stomp, Clap, Stomp, Clap, __ what comes next?",
+          "options": ["Clap", "Stomp", "Jump", "Snap"],
+          "correctAnswer": 1,
+          "explanation": "This is an AB pattern: Clap, Stomp keeps repeating. After Clap, the next action is Stomp."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use real objects (beads, blocks, colored tiles) to create repeating patterns in class. Videos 1-3 are essential for all students. Encourage students to find patterns on their clothes, in the classroom, and outside.",
+    "parentGuidance": "Help your child spot repeating patterns at home: kitchen tiles, curtain designs, fence rails. Ask 'What is the repeating part?' and 'What comes next?'",
+    "studentGuidance": "Look around you for patterns! Check your shirt, the floor, and even sounds. Can you find the repeating part and continue the pattern?"
+  }
+}

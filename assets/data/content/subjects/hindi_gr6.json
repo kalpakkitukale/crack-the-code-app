@@ -1,0 +1,49 @@
+{
+  "id": "hindi_gr6",
+  "name": "Hindi",
+  "icon": "translate",
+  "color": "#FF8C42",
+  "boardId": "cbse_elementary",
+  "classId": "class_6",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["hindi", "grade 6", "language", "vyakaran"],
+  "chapters": [
+    {
+      "id": "gr6_hin_ch1",
+      "number": 1,
+      "name": "Vyakaran",
+      "description": "Hindi grammar fundamentals",
+      "keywords": ["vyakaran", "grammar", "hindi"],
+      "topics": [
+        {"id": "gr6_h_1_1", "name": "Sangya aur Sarvanam", "difficulty": "basic", "videoCount": 4, "keywords": ["sangya", "sarvanam"]},
+        {"id": "gr6_h_1_2", "name": "Kriya", "difficulty": "intermediate", "videoCount": 3, "keywords": ["kriya", "verbs"]},
+        {"id": "gr6_h_1_3", "name": "Visheshan", "difficulty": "basic", "videoCount": 3, "keywords": ["visheshan", "adjectives"]}
+      ]
+    },
+    {
+      "id": "gr6_hin_ch2",
+      "number": 2,
+      "name": "Padhan",
+      "description": "Reading and comprehension in Hindi",
+      "keywords": ["padhan", "reading", "comprehension"],
+      "topics": [
+        {"id": "gr6_h_2_1", "name": "Gadya", "difficulty": "basic", "videoCount": 3, "keywords": ["gadya", "prose"]},
+        {"id": "gr6_h_2_2", "name": "Padya", "difficulty": "intermediate", "videoCount": 4, "keywords": ["padya", "poetry"]},
+        {"id": "gr6_h_2_3", "name": "Kahani", "difficulty": "basic", "videoCount": 3, "keywords": ["kahani", "story"]}
+      ]
+    },
+    {
+      "id": "gr6_hin_ch3",
+      "number": 3,
+      "name": "Lekhan",
+      "description": "Writing skills in Hindi",
+      "keywords": ["lekhan", "writing", "nibandh"],
+      "topics": [
+        {"id": "gr6_h_3_1", "name": "Nibandh", "difficulty": "intermediate", "videoCount": 4, "keywords": ["nibandh", "essay"]},
+        {"id": "gr6_h_3_2", "name": "Patra Lekhan", "difficulty": "basic", "videoCount": 3, "keywords": ["patra", "letter"]},
+        {"id": "gr6_h_3_3", "name": "Anuchhed", "difficulty": "basic", "videoCount": 3, "keywords": ["anuchhed", "paragraph"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_eng_ncert_u5",
+    "level": "chapter",
+    "entityId": "gr4_eng_ncert_u5",
+    "title": "Helen Keller - Unit 5 Quiz",
+    "questionIds": ["q_hk_001", "q_hk_002", "q_hk_003", "q_hk_004", "q_hk_005", "q_hk_006", "q_hk_007", "q_hk_008", "q_hk_009", "q_hk_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_hk_001",
+      "questionText": "Helen Keller could not:",
+      "questionType": "mcq",
+      "options": ["Walk", "See and hear", "Think", "Feel"],
+      "correctAnswer": "B",
+      "explanation": "Helen Keller lost her ability to see and hear when she was very young due to an illness. She was both blind and deaf.",
+      "hints": ["Think about which senses Helen lost"],
+      "difficulty": "basic",
+      "conceptTags": ["Helen Keller", "disability"],
+      "topicIds": ["gr4_en_5_2"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_002",
+      "questionText": "Who was Helen Keller's teacher?",
+      "questionType": "mcq",
+      "options": ["Anne Sullivan", "Mary Smith", "John Brown", "Sarah Parker"],
+      "correctAnswer": "A",
+      "explanation": "Anne Sullivan was Helen Keller's teacher. She taught Helen to communicate using sign language spelled into her palm.",
+      "hints": ["Her teacher's first name was Anne"],
+      "difficulty": "basic",
+      "conceptTags": ["Anne Sullivan", "teacher"],
+      "topicIds": ["gr4_en_5_2"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_003",
+      "questionText": "The first word Helen understood was:",
+      "questionType": "mcq",
+      "options": ["Mother", "Teacher", "Water", "Love"],
+      "correctAnswer": "C",
+      "explanation": "The first word Helen understood was 'water'. Anne Sullivan spelled W-A-T-E-R into Helen's hand while water flowed over her other hand.",
+      "hints": ["It was something flowing"],
+      "difficulty": "basic",
+      "conceptTags": ["first word", "learning"],
+      "topicIds": ["gr4_en_5_2"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_004",
+      "questionText": "Helen Keller grew up to become a famous:",
+      "questionType": "mcq",
+      "options": ["Singer", "Author and speaker", "Dancer", "Painter"],
+      "correctAnswer": "B",
+      "explanation": "Helen Keller became a famous author and speaker. She wrote many books and gave speeches to inspire others.",
+      "hints": ["She communicated through words"],
+      "difficulty": "basic",
+      "conceptTags": ["achievements", "inspiration"],
+      "topicIds": ["gr4_en_5_2"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_005",
+      "questionText": "The poem 'Don't Be Afraid of the Dark' teaches us about:",
+      "questionType": "mcq",
+      "options": ["Being scared", "Being brave and not fearing darkness", "Sleeping", "Playing at night"],
+      "correctAnswer": "B",
+      "explanation": "The poem teaches us to be brave and not fear the dark. It encourages courage and facing our fears.",
+      "hints": ["What does 'Don't be afraid' tell us to do?"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "courage"],
+      "topicIds": ["gr4_en_5_1"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_006",
+      "questionText": "What is an adjective?",
+      "questionType": "mcq",
+      "options": ["A naming word", "A doing word", "A describing word", "A joining word"],
+      "correctAnswer": "C",
+      "explanation": "An adjective is a describing word. It tells us more about a noun - like beautiful, tall, brave, dark.",
+      "hints": ["It describes things"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "adjectives"],
+      "topicIds": ["gr4_en_5_3"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_007",
+      "questionText": "Which word is an adjective in: 'Helen was a brave girl'?",
+      "questionType": "mcq",
+      "options": ["Helen", "was", "brave", "girl"],
+      "correctAnswer": "C",
+      "explanation": "'Brave' is the adjective because it describes what kind of girl Helen was. Adjectives describe nouns.",
+      "hints": ["Which word describes 'girl'?"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "adjectives"],
+      "topicIds": ["gr4_en_5_3"],
+      "points": 1
+    },
+    {
+      "id": "q_hk_008",
+      "questionText": "True or False: Helen Keller went to college.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Helen Keller graduated from Radcliffe College. She was the first deaf-blind person to earn a college degree.",
+      "hints": ["Helen achieved many things despite her challenges"],
+      "difficulty": "intermediate",
+      "conceptTags": ["achievements", "education"],
+      "topicIds": ["gr4_en_5_2"],
+      "points": 2
+    },
+    {
+      "id": "q_hk_009",
+      "questionText": "Which adjectives describe Helen Keller best?",
+      "questionType": "mcq",
+      "options": ["Lazy and careless", "Brave and determined", "Mean and angry", "Quiet and shy"],
+      "correctAnswer": "B",
+      "explanation": "Helen Keller was brave and determined. Despite not being able to see or hear, she worked hard to learn and achieve great things.",
+      "hints": ["Think about her qualities"],
+      "difficulty": "intermediate",
+      "conceptTags": ["character", "adjectives"],
+      "topicIds": ["gr4_en_5_2", "gr4_en_5_3"],
+      "points": 2
+    },
+    {
+      "id": "q_hk_010",
+      "questionText": "Helen Keller's story teaches us that:",
+      "questionType": "mcq",
+      "options": ["Challenges can stop us", "Nothing is impossible with hard work", "We should give up easily", "Only lucky people succeed"],
+      "correctAnswer": "B",
+      "explanation": "Helen Keller's story teaches us that nothing is impossible with hard work and determination. She overcame huge challenges to achieve great things.",
+      "hints": ["What is the main lesson from her life?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["moral", "inspiration"],
+      "topicIds": ["gr4_en_5_2"],
+      "points": 2
+    }
+  ]
+}

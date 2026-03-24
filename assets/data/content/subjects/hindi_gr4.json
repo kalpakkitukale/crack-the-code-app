@@ -1,0 +1,35 @@
+{
+  "id": "hindi_gr4",
+  "name": "Hindi",
+  "icon": "translate",
+  "color": "#FF6B9D",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "totalChapters": 2,
+  "keywords": ["hindi", "grade 4", "grammar", "language"],
+  "chapters": [
+    {
+      "id": "gr4_hin_ch1",
+      "number": 1,
+      "name": "Varnamala",
+      "description": "Swar and Vyanjan",
+      "keywords": ["varnamala", "swar", "vyanjan"],
+      "topics": [
+        {"id": "gr4_h_1_1", "name": "Swar", "difficulty": "basic", "videoCount": 4, "keywords": ["swar"]},
+        {"id": "gr4_h_1_2", "name": "Vyanjan", "difficulty": "basic", "videoCount": 4, "keywords": ["vyanjan"]}
+      ]
+    },
+    {
+      "id": "gr4_hin_ch2",
+      "number": 2,
+      "name": "Sangya aur Sarvanam",
+      "description": "Nouns and pronouns in Hindi",
+      "keywords": ["sangya", "sarvanam"],
+      "topics": [
+        {"id": "gr4_h_2_1", "name": "Sangya", "difficulty": "basic", "videoCount": 4, "keywords": ["sangya"]},
+        {"id": "gr4_h_2_2", "name": "Sarvanam", "difficulty": "basic", "videoCount": 4, "keywords": ["sarvanam"]}
+      ]
+    }
+  ]
+}

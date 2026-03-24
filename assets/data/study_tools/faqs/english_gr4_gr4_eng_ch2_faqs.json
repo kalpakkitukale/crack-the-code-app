@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ch2",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_e2_001",
+      "videoId": "gr4_e2_v1",
+      "question": "What is the easiest way to find a verb in a sentence?",
+      "answer": "Ask yourself: What is the person or thing DOING in this sentence? The answer is your verb! For example, in 'The cat sleeps on the sofa', ask 'What does the cat do?' The answer is 'sleeps', so that is the verb.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_e2_002",
+      "videoId": "gr4_e2_v1",
+      "question": "Are words like 'think' and 'love' also verbs?",
+      "answer": "Yes! Words like 'think', 'love', 'believe', and 'remember' are verbs even though you cannot see the action. They are called invisible or mental action verbs because they happen inside your mind.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_e2_003",
+      "videoId": "gr4_e2_v1",
+      "question": "Can a sentence have two or more action verbs?",
+      "answer": "Absolutely! A sentence can have multiple action verbs joined by 'and' or 'or'. For example: 'The children sang, danced, and laughed at the party.' Here 'sang', 'danced', and 'laughed' are all action verbs.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_e2_004",
+      "videoId": "gr4_e2_v2",
+      "question": "When do I add -s and when do I add -es to a verb?",
+      "answer": "Add -es when the verb ends in ch, sh, s, x, or o. For example: watch becomes watches, push becomes pushes, miss becomes misses. For most other verbs, just add -s. For example: play becomes plays, read becomes reads.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_e2_005",
+      "videoId": "gr4_e2_v2",
+      "question": "Why do we say 'She plays' but 'They play'?",
+      "answer": "This is called subject-verb agreement. When the subject is one person or thing (he, she, it), we add -s to the verb. When the subject is more than one (we, they) or when it is 'I' or 'you', we use the base form without -s. The verb must match its subject!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_e2_006",
+      "videoId": "gr4_e2_v3",
+      "question": "What is the difference between 'I read' and 'I am reading'?",
+      "answer": "'I read' (simple present) means you read regularly or as a habit, like 'I read every night before bed.' 'I am reading' (present continuous) means you are reading right now, at this very moment. The tense changes the meaning!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_e2_007",
+      "videoId": "gr4_e2_v3",
+      "question": "How do I add -ing to a verb correctly?",
+      "answer": "For most verbs, just add -ing: play becomes playing, read becomes reading. If a verb ends in -e, drop the -e and add -ing: make becomes making, write becomes writing. If a short verb ends in a consonant after a vowel, double the last letter: run becomes running, sit becomes sitting.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_e2_008",
+      "videoId": "gr4_e2_v3",
+      "question": "When do I use 'am', 'is', or 'are' in the present continuous tense?",
+      "answer": "Use 'am' with I: 'I am walking.' Use 'is' with he, she, or it: 'She is walking.' Use 'are' with you, we, or they: 'They are walking.' Remember: the helping verb must match the subject!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_e2_009",
+      "videoId": "gr4_e2_v4",
+      "question": "What happens to verbs that end in -y when we add -s?",
+      "answer": "If the letter before -y is a consonant, change -y to -ies. For example: fly becomes flies, cry becomes cries. If the letter before -y is a vowel, just add -s: play becomes plays, enjoy becomes enjoys.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_e2_010",
+      "videoId": "gr4_e2_v4",
+      "question": "How can I tell if a sentence is in the present tense?",
+      "answer": "Look for clue words like 'every day', 'always', 'usually', 'sometimes', 'right now', 'today', and 'at this moment'. Also check the verb: if it has no special ending or has -s/-es, it is simple present. If it has am/is/are plus -ing, it is present continuous.",
+      "status": "answered",
+      "upvotes": 14
+    }
+  ]
+}

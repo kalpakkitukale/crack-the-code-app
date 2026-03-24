@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_hin_ncert_ch10",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "थप्प रोटी थप्प दाल",
+      "description": "Chapter 10 - A story about food, culture, and togetherness from Rimjhim textbook",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_kahani_parichay",
+      "label": "कहानी परिचय (Story Introduction)",
+      "description": "A story celebrating Indian food culture, especially roti and dal",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_vishay",
+      "label": "विषय: भारतीय खाना",
+      "description": "The story centres on Indian food traditions, especially the everyday meal of roti and dal",
+      "parentId": "node_kahani_parichay",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_sandesh",
+      "label": "संदेश: सादा खाना सबसे अच्छा",
+      "description": "Simple food like roti-dal is nutritious, delicious, and brings people together",
+      "parentId": "node_kahani_parichay",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_roti",
+      "label": "रोटी बनाने की प्रक्रिया (Making Roti)",
+      "description": "The process of making roti - from wheat flour to the finished chapati",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_aata",
+      "label": "आटा गूँधना (Kneading Dough)",
+      "description": "Mixing wheat flour with water and kneading it into soft dough",
+      "parentId": "node_roti",
+      "positionX": -80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_belna",
+      "label": "बेलना और सेंकना (Rolling & Cooking)",
+      "description": "Rolling the dough into round shapes and cooking on a hot griddle",
+      "parentId": "node_roti",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_thapp",
+      "label": "थप्प - रोटी फूलना (Puffing)",
+      "description": "The 'thapp' sound when roti puffs up on the flame - the joyful moment",
+      "parentId": "node_roti",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_sanskriti",
+      "label": "खाने की संस्कृति (Food Culture)",
+      "description": "Indian traditions and customs related to food and eating together",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_milkar",
+      "label": "मिलकर खाना (Eating Together)",
+      "description": "The tradition of the whole family sitting together for meals",
+      "parentId": "node_sanskriti",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_vividhta",
+      "label": "भारतीय खाने की विविधता",
+      "description": "Variety of foods from different regions of India - all part of one culture",
+      "parentId": "node_sanskriti",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_tyohar",
+      "label": "त्योहार और खाना",
+      "description": "Special foods made during festivals - connecting celebrations with cuisine",
+      "parentId": "node_sanskriti",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_seekh",
+      "label": "जीवन की सीख (Life Lessons)",
+      "description": "Important lessons about food, gratitude, and togetherness",
+      "parentId": "node_root",
+      "positionX": -50,
+      "positionY": 320,
+      "color": "#E91E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_kisaan",
+      "label": "किसान की मेहनत",
+      "description": "Appreciating the hard work of farmers who grow our food",
+      "parentId": "node_seekh",
+      "positionX": -150,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_barbad",
+      "label": "खाना बर्बाद न करो",
+      "description": "Never waste food - respect the effort that goes into growing and cooking it",
+      "parentId": "node_seekh",
+      "positionX": 50,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 14
+    }
+  ]
+}

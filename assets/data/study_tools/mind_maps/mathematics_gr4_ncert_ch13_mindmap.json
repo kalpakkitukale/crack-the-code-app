@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_math_ncert_ch13",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "The Transport Museum",
+      "description": "Using maths for distance, time, and money in everyday travel and museum visits",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_distance",
+      "label": "Distance",
+      "description": "How far one place is from another, measured in metres or kilometres",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_dist_units",
+      "label": "Units of Distance",
+      "description": "Metres (m) for short distances, kilometres (km) for long ones; 1 km = 1000 m",
+      "parentId": "node_distance",
+      "positionX": -320,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_dist_round",
+      "label": "Round Trip",
+      "description": "Going and coming back; total distance = 2 x one-way distance",
+      "parentId": "node_distance",
+      "positionX": -180,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_time",
+      "label": "Time Calculations",
+      "description": "Finding travel time, arrival time, and duration of events",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_time_read",
+      "label": "Reading Time",
+      "description": "Using hours and minutes; AM for morning, PM for afternoon and evening",
+      "parentId": "node_time",
+      "positionX": -80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_time_duration",
+      "label": "Finding Duration",
+      "description": "Subtract start time from end time; count hours first, then minutes",
+      "parentId": "node_time",
+      "positionX": 80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_time_schedule",
+      "label": "Schedules",
+      "description": "Reading bus and train timetables to plan travel",
+      "parentId": "node_time",
+      "positionX": 0,
+      "positionY": 260,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_money",
+      "label": "Money Calculations",
+      "description": "Working with rupees for tickets, fares, and shopping",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_money_tickets",
+      "label": "Ticket Prices",
+      "description": "Finding total cost: multiply price by number of tickets",
+      "parentId": "node_money",
+      "positionX": 180,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_money_change",
+      "label": "Giving Change",
+      "description": "Change = money paid - cost; always subtract to find change",
+      "parentId": "node_money",
+      "positionX": 320,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_money_compare",
+      "label": "Comparing Costs",
+      "description": "Find how much more or less by subtracting the two prices",
+      "parentId": "node_money",
+      "positionX": 250,
+      "positionY": 260,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_transport",
+      "label": "Types of Transport",
+      "description": "Buses, trains, autos, cars, cycles - each with different fares and speeds",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_transport_fare",
+      "label": "Fare Calculation",
+      "description": "Some fares are fixed, some depend on distance; read the fare chart carefully",
+      "parentId": "node_transport",
+      "positionX": -250,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_problems",
+      "label": "Word Problems",
+      "description": "Using addition, subtraction, and multiplication to solve real-life museum problems",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 300,
+      "color": "#00BCD4",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_problems_tip",
+      "label": "Problem-Solving Tip",
+      "description": "Read carefully, find what is asked, pick the right operation, and check your answer",
+      "parentId": "node_problems",
+      "positionX": 250,
+      "positionY": 380,
+      "color": "#4DD0E1",
+      "orderIndex": 15
+    }
+  ]
+}

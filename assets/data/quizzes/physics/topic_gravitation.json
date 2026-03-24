@@ -1,0 +1,302 @@
+{
+  "quiz": {
+    "id": "quiz_topic_gravitation",
+    "level": "topic",
+    "entityId": "topic_gravitation",
+    "title": "Gravitation Quiz",
+    "questionIds": [
+      "q_grav_001",
+      "q_grav_002",
+      "q_grav_003",
+      "q_grav_004",
+      "q_grav_005",
+      "q_grav_006",
+      "q_grav_007",
+      "q_grav_008",
+      "q_grav_009",
+      "q_grav_010"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_grav_001",
+      "questionText": "What is Newton's Law of Universal Gravitation?",
+      "questionType": "mcq",
+      "options": [
+        "Every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of distance between them",
+        "Objects fall at the same rate regardless of mass",
+        "Force equals mass times acceleration",
+        "Energy is conserved in gravitational interactions"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's Law of Universal Gravitation states that every particle attracts every other particle with a force F = G(m₁m₂)/r², where G is the gravitational constant, m₁ and m₂ are the masses, and r is the distance between their centers.",
+      "hints": [
+        "The law involves two masses and the distance between them",
+        "The force is proportional to masses and inversely proportional to distance squared"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Universal Gravitation",
+        "Newton's Law",
+        "Gravitational Force"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_002",
+      "questionText": "What is the value of acceleration due to gravity (g) on Earth's surface approximately?",
+      "questionType": "mcq",
+      "options": [
+        "9.8 m/s²",
+        "6.67 × 10⁻¹¹ N⋅m²/kg²",
+        "3 × 10⁸ m/s",
+        "1.62 m/s²"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s² (often rounded to 10 m/s² for calculations). This means that in the absence of air resistance, all objects near Earth's surface accelerate downward at this rate.",
+      "hints": [
+        "It's close to 10 m/s²",
+        "This is the standard acceleration for falling objects on Earth"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Acceleration due to Gravity",
+        "Earth's Gravity"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_003",
+      "questionText": "How does the gravitational force between two objects change if the distance between them is doubled?",
+      "questionType": "mcq",
+      "options": [
+        "It becomes half",
+        "It becomes one-fourth",
+        "It doubles",
+        "It becomes four times"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to the inverse square law (F ∝ 1/r²), when distance is doubled, the force becomes 1/(2²) = 1/4 of the original value. Gravitational force decreases rapidly with increasing distance.",
+      "hints": [
+        "Gravitational force follows an inverse square law",
+        "If distance is doubled, r becomes 2r in the formula F = G(m₁m₂)/r²"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Inverse Square Law",
+        "Gravitational Force",
+        "Distance"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_004",
+      "questionText": "What is the weight of an object?",
+      "questionType": "mcq",
+      "options": [
+        "The amount of matter in the object",
+        "The gravitational force acting on the object",
+        "The mass of the object",
+        "The volume of the object"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Weight is the gravitational force acting on an object, calculated as W = mg, where m is mass and g is acceleration due to gravity. Unlike mass (which is constant), weight varies depending on the gravitational field strength.",
+      "hints": [
+        "Weight is a force, not an amount of matter",
+        "It depends on both mass and gravity"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Weight",
+        "Gravitational Force",
+        "Mass vs Weight"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_005",
+      "questionText": "If the mass of Earth is M and radius is R, what is the acceleration due to gravity at Earth's surface? (G = gravitational constant)",
+      "questionType": "mcq",
+      "options": [
+        "g = GM/R",
+        "g = GM/R²",
+        "g = GM²/R",
+        "g = GR/M"
+      ],
+      "correctAnswer": "B",
+      "explanation": "At Earth's surface, gravitational force F = GMm/R² equals mg (weight). Canceling m from both sides: g = GM/R². This shows that surface gravity depends on the planet's mass and radius.",
+      "hints": [
+        "Set gravitational force equal to weight: GMm/R² = mg",
+        "Cancel mass m to solve for g"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Surface Gravity",
+        "Gravitational Acceleration",
+        "Planetary Mass"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_006",
+      "questionText": "At what height above Earth's surface does the value of g become one-fourth of its value on the surface? (R = Earth's radius)",
+      "questionType": "mcq",
+      "options": [
+        "h = R/4",
+        "h = R/2",
+        "h = R",
+        "h = 2R"
+      ],
+      "correctAnswer": "C",
+      "explanation": "At height h, g_h = GM/(R+h)². For g_h = g/4: GM/(R+h)² = (1/4)(GM/R²). Simplifying: R² = 4(R+h)². Taking square root: R = 2(R+h), which gives R = 2R + 2h, so h = R. At height equal to Earth's radius, gravity becomes one-fourth.",
+      "hints": [
+        "Use g_h = GM/(R+h)² and set it equal to (1/4)(GM/R²)",
+        "Solve for h algebraically"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Variation of g with Height",
+        "Gravitational Field"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_007",
+      "questionText": "The Moon's mass is about 1/81 of Earth's mass and its radius is about 1/4 of Earth's radius. What is the approximate value of g on the Moon's surface compared to Earth?",
+      "questionType": "mcq",
+      "options": [
+        "g_moon ≈ g_earth/81",
+        "g_moon ≈ g_earth/6",
+        "g_moon ≈ g_earth/4",
+        "g_moon ≈ g_earth/16"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using g = GM/R²: g_moon/g_earth = (M_moon/M_earth) × (R_earth/R_moon)² = (1/81) × (4)² = (1/81) × 16 = 16/81 ≈ 1/6. So g on the Moon is about 1/6 of g on Earth (approximately 1.62 m/s²).",
+      "hints": [
+        "Use the ratio g = GM/R² for both bodies",
+        "Consider both mass ratio (1/81) and radius ratio (1/4)"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Comparative Gravity",
+        "Planetary Physics",
+        "Moon"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_008",
+      "questionText": "What is gravitational potential energy of a mass m at height h above Earth's surface?",
+      "questionType": "mcq",
+      "options": [
+        "PE = mgh",
+        "PE = -GMm/h",
+        "PE = ½mv²",
+        "PE = GMm/R"
+      ],
+      "correctAnswer": "A",
+      "explanation": "For small heights near Earth's surface where g is approximately constant, gravitational potential energy is PE = mgh, where m is mass, g is acceleration due to gravity, and h is height. This is the work done against gravity to raise the object to height h.",
+      "hints": [
+        "This is the standard formula for potential energy near Earth's surface",
+        "It involves mass, gravity, and height"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Gravitational Potential Energy",
+        "Potential Energy",
+        "Height"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_grav_009",
+      "questionText": "What is the escape velocity from Earth's surface? (Given: g = 10 m/s², R = 6.4 × 10⁶ m)",
+      "questionType": "mcq",
+      "options": [
+        "7.9 km/s",
+        "11.2 km/s",
+        "15 km/s",
+        "3 × 10⁸ m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Escape velocity v_e = √(2gR) = √(2 × 10 × 6.4 × 10⁶) = √(128 × 10⁶) ≈ 11,314 m/s ≈ 11.2 km/s. This is the minimum velocity needed to escape Earth's gravitational field without further propulsion.",
+      "hints": [
+        "Use the formula v_e = √(2gR) or v_e = √(2GM/R)",
+        "The answer is in km/s range"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Escape Velocity",
+        "Gravitational Energy",
+        "Orbital Mechanics"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_grav_010",
+      "questionText": "A satellite is orbiting Earth at height h above the surface. If its orbital velocity is v, what is the relationship between v, g, R (Earth's radius), and h?",
+      "questionType": "mcq",
+      "options": [
+        "v = √(gR)",
+        "v = √(g(R+h))",
+        "v = √(gR²/(R+h))",
+        "v = √(2gR)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For a satellite in circular orbit, centripetal force equals gravitational force: mv²/(R+h) = GMm/(R+h)². Simplifying: v² = GM/(R+h). Since g = GM/R², we have GM = gR². Therefore: v² = gR²/(R+h), so v = √(gR²/(R+h)).",
+      "hints": [
+        "Set centripetal force equal to gravitational force",
+        "Express GM in terms of g and R using g = GM/R²"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Orbital Velocity",
+        "Satellite Motion",
+        "Circular Orbits"
+      ],
+      "topicIds": [
+        "topic_gravitation"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

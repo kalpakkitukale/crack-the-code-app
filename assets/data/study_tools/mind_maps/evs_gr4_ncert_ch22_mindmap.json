@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch22",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "The World in My Home",
+      "description": "Cultural diversity and inclusivity in families and communities",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_family",
+      "label": "Family & Culture",
+      "description": "Different cultures within our own families",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_language",
+      "label": "Languages",
+      "description": "Families may speak different languages at home",
+      "parentId": "node_family",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_food_culture",
+      "label": "Food Traditions",
+      "description": "Different families cook and eat different foods",
+      "parentId": "node_family",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_festivals",
+      "label": "Festivals",
+      "description": "Celebrations across religions and communities",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_hindu_fest",
+      "label": "Diwali, Holi",
+      "description": "Hindu festivals of lights and colours",
+      "parentId": "node_festivals",
+      "positionX": -80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_other_fest",
+      "label": "Eid, Christmas, Baisakhi",
+      "description": "Festivals from different religions and regions",
+      "parentId": "node_festivals",
+      "positionX": 80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_clothing",
+      "label": "Clothing & Dress",
+      "description": "Different traditional clothes across India",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_regional_dress",
+      "label": "Regional Styles",
+      "description": "Saree, salwar, dhoti, lungi, phiran, mekhela",
+      "parentId": "node_clothing",
+      "positionX": 250,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_respect",
+      "label": "Respect & Inclusivity",
+      "description": "Accepting and respecting everyone's differences",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_equality",
+      "label": "Equality",
+      "description": "All people are equal regardless of background",
+      "parentId": "node_respect",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_unity",
+      "label": "Unity in Diversity",
+      "description": "Living together in harmony despite differences",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_constitution",
+      "label": "Our Constitution",
+      "description": "Protects the right to follow one's own culture",
+      "parentId": "node_unity",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_learning",
+      "label": "Learning From Others",
+      "description": "We grow by understanding different perspectives",
+      "parentId": "node_unity",
+      "positionX": 200,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 13
+    }
+  ]
+}

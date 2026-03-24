@@ -1,0 +1,59 @@
+{
+  "chapterId": "gr4_math_ncert_ch7",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn7_v1",
+      "videoId": "gr4_mn7_v1",
+      "content": "This lesson introduces students to how mathematics is used in a village community. Through the story of a clean village, students see how addition helps find totals (total population, total trees), how subtraction finds what is left or needed, and how multiplication helps with equal groups like teams of volunteers. The lesson highlights Mawlynnong village in Meghalaya, known as Asia's cleanest village, showing how community teamwork and planning use mathematics every day.",
+      "keyPoints": [
+        "Math is used every day in village life for planning and decision-making",
+        "Addition finds totals: total people, total money, total resources",
+        "Subtraction finds what is remaining or how much more is needed",
+        "Multiplication helps with equal groups like volunteer teams",
+        "Mawlynnong in Meghalaya is known as Asia's cleanest village"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn7_v2",
+      "videoId": "gr4_mn7_v2",
+      "content": "This lesson teaches students how to collect data about their community. A survey is when we gather information by asking questions or counting things. Students learn to organise data in tables with rows and columns, making it easy to read and compare. For example, recording the number of dustbins on each street helps identify which streets need more. The lesson shows how the panchayat uses surveys about water sources, toilets, and cleanliness to plan improvements for the village.",
+      "keyPoints": [
+        "A survey is collecting information by asking questions or counting",
+        "Data should be organised in tables with clear labels",
+        "Tables have rows and columns for easy comparison",
+        "Data helps find which area has the most or least of something",
+        "The panchayat uses survey data to plan village improvements"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn7_v3",
+      "videoId": "gr4_mn7_v3",
+      "content": "This lesson focuses on doing calculations using real village scenarios. Students practice adding amounts to find totals (e.g., total waste collected over 3 days), subtracting to find remainders (e.g., money left after spending), and multiplying for equal groups (e.g., trees planted per family). Students also work with money problems, like tracking how the panchayat spends its budget on roads, drains, and dustbins.",
+      "keyPoints": [
+        "Addition finds totals across multiple days, streets, or groups",
+        "Subtraction finds how much is left after using or spending",
+        "Multiplication calculates totals when groups are equal",
+        "Money problems use the same operations with rupee amounts",
+        "Always include the correct unit in your answer (kg, rupees, people)"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn7_v4",
+      "videoId": "gr4_mn7_v4",
+      "content": "This lesson brings everything together with problem-solving using real data. Students solve multi-step problems like finding how many more saplings a village needs after receiving some from two sources. They learn to compare scores in a village competition, calculate whether volunteers can cover all houses, and track budgets with multiple expenses. The key skill is reading problems carefully, identifying what is given and asked, and choosing the right operations step by step.",
+      "keyPoints": [
+        "Multi-step problems need more than one operation to solve",
+        "Read the problem carefully to find what is given and what is asked",
+        "Choose the right operation: add for totals, subtract for remaining, multiply for equal groups",
+        "Check your answer by reading the problem again",
+        "Data-based decisions help communities improve and grow"
+      ],
+      "source": "manual"
+    }
+  ]
+}

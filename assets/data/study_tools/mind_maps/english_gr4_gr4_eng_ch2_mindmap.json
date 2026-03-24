@@ -1,0 +1,137 @@
+{
+  "chapterId": "gr4_eng_ch2",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Verbs and Tenses",
+      "description": "Understanding action words and when they happen",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_action_verbs",
+      "label": "Action Verbs",
+      "description": "Words that show what someone or something does",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_visible_actions",
+      "label": "Visible Actions",
+      "description": "Actions you can see: run, jump, write, kick",
+      "parentId": "node_action_verbs",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_invisible_actions",
+      "label": "Invisible Actions",
+      "description": "Actions in your mind: think, remember, dream, believe",
+      "parentId": "node_action_verbs",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_finding_verbs",
+      "label": "Finding Verbs",
+      "description": "Ask: What is the subject DOING? That word is the verb!",
+      "parentId": "node_action_verbs",
+      "positionX": -300,
+      "positionY": 280,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_present_tense",
+      "label": "Present Tense",
+      "description": "Tells about actions happening now or regularly",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_simple_present",
+      "label": "Simple Present",
+      "description": "For habits and regular actions: I play, She reads",
+      "parentId": "node_present_tense",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_present_continuous",
+      "label": "Present Continuous",
+      "description": "For actions right now: I am playing, She is reading",
+      "parentId": "node_present_tense",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_sv_agreement",
+      "label": "Subject-Verb Agreement",
+      "description": "The verb must match the subject (singular or plural)",
+      "parentId": "node_present_tense",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#FFC107",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_add_s",
+      "label": "Add -s or -es",
+      "description": "For he/she/it: play becomes plays, wash becomes washes",
+      "parentId": "node_sv_agreement",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#FFEB3B",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_no_change",
+      "label": "No Change",
+      "description": "For I/you/we/they: play stays play, wash stays wash",
+      "parentId": "node_sv_agreement",
+      "positionX": 300,
+      "positionY": 360,
+      "color": "#FFEB3B",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_signal_words",
+      "label": "Signal Words",
+      "description": "Words that hint at present tense: always, every day, right now, usually",
+      "parentId": "node_present_tense",
+      "positionX": 400,
+      "positionY": 280,
+      "color": "#FFC107",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_ing_form",
+      "label": "Adding -ing",
+      "description": "For continuous tense: run becomes running, eat becomes eating",
+      "parentId": "node_present_continuous",
+      "positionX": 350,
+      "positionY": 280,
+      "color": "#FFEB3B",
+      "orderIndex": 12
+    }
+  ]
+}

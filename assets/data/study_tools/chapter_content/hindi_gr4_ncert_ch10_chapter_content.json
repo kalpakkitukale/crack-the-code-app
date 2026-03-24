@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch10",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hi10",
+    "title": "थप्प रोटी थप्प दाल (Thapp Roti Thapp Dal)",
+    "content": "यह कक्षा 4 की NCERT रिमझिम पुस्तक का दसवाँ अध्याय है। यह एक रोचक और मज़ेदार कहानी है जो भारतीय खाने की संस्कृति (food culture) को मनाती है। कहानी का केंद्र रोटी और दाल है - भारत का सबसे आम और प्यारा खाना। 'थप्प' वह मज़ेदार आवाज़ है जो रोटी बनाते समय आती है। कहानी में बताया गया है कि कैसे गेहूँ के आटे से रोटी बनती है, कैसे दाल पकाई जाती है, और कैसे मिलकर खाने से खुशी बढ़ती है। कहानी भारत के अलग-अलग हिस्सों के खाने, त्योहारों के पकवानों, और किसान की मेहनत के बारे में भी बताती है। खाना बर्बाद न करने और सादे खाने की कद्र करने का सुंदर संदेश मिलता है। (This is Chapter 10 of NCERT Rimjhim Class 4. A fun story celebrating Indian food culture, centring on roti and dal. 'Thapp' is the fun sound made while making roti. The story describes how roti is made from wheat flour, how dal is cooked, and how eating together increases happiness. It also covers food from different parts of India, festival foods, and farmers' hard work.)",
+    "keyPoints": [
+      "कहानी भारतीय खाने की संस्कृति के बारे में है (Story about Indian food culture)",
+      "'थप्प' रोटी बनाने की मज़ेदार ध्वनि है (Thapp is the fun sound of making roti)",
+      "रोटी-दाल भारत का सबसे आम और पौष्टिक खाना है (Roti-dal is India's most common and nutritious food)",
+      "भारत के अलग-अलग हिस्सों में अलग-अलग खाना बनता है (Different regions have different cuisines)",
+      "मिलकर खाने से परिवार और दोस्ती मज़बूत होती है (Eating together strengthens family and friendship)",
+      "किसान की मेहनत की कदर करो, खाना बर्बाद मत करो (Respect farmers' hard work, do not waste food)"
+    ],
+    "learningObjectives": [
+      "भारतीय खाने की संस्कृति और विविधता को समझना (Understand Indian food culture and diversity)",
+      "नए शब्द सीखना: आटा, तवा, रसोई, पौष्टिक, किसान, संस्कृति (Learn new vocabulary)",
+      "रोटी और दाल बनाने की प्रक्रिया जानना (Know the process of making roti and dal)",
+      "मिलकर खाने के महत्व को समझना (Understand importance of eating together)",
+      "खाना बर्बाद न करने और किसान की मेहनत की कदर करने का संदेश (Message of not wasting food)",
+      "अपने पसंदीदा खाने और खाने के अनुभव लिखना (Write about favourite food and eating experiences)"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hi10_001",
+      "title": "रोटी बनाने के कदम (Steps to Make Roti)",
+      "content": "रोटी बनाना एक कला है! ये कदम याद रखो: (1) गेहूँ का आटा (wheat flour) लो। (2) आटे में थोड़ा-थोड़ा पानी मिलाकर गूँधो (knead) - आटा नरम होना चाहिए। (3) छोटी-छोटी लोइयाँ बनाओ। (4) सूखा आटा लगाकर बेलन (rolling pin) से गोल बेलो। (5) गरम तवे (griddle) पर रखो। (6) जब बुलबुले आएँ तो पलटो। (7) आँच (flame) पर रखो - रोटी फूलेगी! थप्प! (8) घी लगाओ और गरम-गरम खाओ। घर में माँ या पापा से रोटी बनाना सीखो! (Roti is an art! Steps: take flour, knead with water, make balls, roll round, cook on griddle, flip when bubbles appear, puff on flame, apply ghee and eat hot!)",
+      "tags": ["cooking", "step-by-step", "activity"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hi10_002",
+      "title": "भारत का खाने का नक्शा (India's Food Map)",
+      "content": "भारत के हर कोने का अपना खास खाना है! उत्तर: पंजाब - छोले-भटूरे, मक्के की रोटी। उत्तर प्रदेश - कचौरी, चाट। राजस्थान - दाल-बाटी-चूरमा। दक्षिण: तमिलनाडु - इडली-सांभर। केरल - अप्पम, पुट्टू। पूर्व: बंगाल - मछली-भात, रसगुल्ला। पश्चिम: गुजरात - ढोकला, थेपला। महाराष्ट्र - वड़ा पाव, पूरन पोली। एक कॉपी में भारत का नक्शा बनाओ और हर जगह का खाना लिखो! (Every corner of India has special food! Draw a map and write each region's food.)",
+      "tags": ["geography", "food-map", "activity"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hi10_003",
+      "title": "खाने की शब्दावली (Food Vocabulary)",
+      "content": "खाने से जुड़े ज़रूरी शब्द सीखो: आटा (flour), गूँधना (to knead), बेलन (rolling pin), तवा (griddle), चूल्हा (stove), रसोई (kitchen), मसाला (spice), पौष्टिक (nutritious), स्वादिष्ट (delicious), स्वाद (taste), परोसना (to serve), किसान (farmer), अनाज (grain), फसल (crop), खेत (field)। हर शब्द को एक वाक्य में इस्तेमाल करो: 'माँ ने तवे पर गरम-गरम रोटी सेंकी।' (Learn food-related words. Use each in a sentence.)",
+      "tags": ["vocabulary", "food", "study-tip"],
+      "isPinned": false
+    }
+  ]
+}

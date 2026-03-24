@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch1",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hi1_001",
+      "term": "भोले-भाले (Innocent)",
+      "definition": "सीधे-सादे, मासूम, बिना चालाकी के। कविता में बादलों को भोला-भाला कहा गया है क्योंकि वे बिना किसी चिंता के आसमान में घूमते हैं। (Simple, innocent, without cleverness. Clouds are called innocent because they roam the sky without any worry.)",
+      "pronunciation": "BHO-le BHA-le",
+      "exampleUsage": "छोटे बच्चे बहुत भोले-भाले होते हैं। (Small children are very innocent.)",
+      "difficulty": "easy",
+      "relatedTerms": ["मासूम", "सरल", "निश्छल"]
+    },
+    {
+      "id": "gls_gr4_hi1_002",
+      "term": "बादल (Cloud)",
+      "definition": "आसमान में तैरने वाले पानी की बूँदों के समूह। जब ये भारी हो जाते हैं तो बारिश होती है। (Groups of water droplets floating in the sky. When they become heavy, it rains.)",
+      "pronunciation": "BAA-dal",
+      "exampleUsage": "आसमान में काले बादल छा गए और बारिश शुरू हो गई। (Dark clouds covered the sky and it started raining.)",
+      "difficulty": "easy",
+      "relatedTerms": ["आसमान", "वर्षा", "मेघ"]
+    },
+    {
+      "id": "gls_gr4_hi1_003",
+      "term": "कल्पना (Imagination)",
+      "definition": "मन में कुछ ऐसा सोचना या देखना जो सामने नहीं है। जैसे बादलों में हाथी या पहाड़ की आकृति देखना। (Thinking or seeing something in the mind that is not actually present. Like seeing elephant or mountain shapes in clouds.)",
+      "pronunciation": "KAL-pa-naa",
+      "exampleUsage": "बच्चों की कल्पना बहुत अच्छी होती है, वे बादलों में कई आकार देख लेते हैं। (Children have great imagination, they can see many shapes in clouds.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सोच", "मन", "सपना"]
+    },
+    {
+      "id": "gls_gr4_hi1_004",
+      "term": "आकाश (Sky)",
+      "definition": "हमारे ऊपर का विशाल नीला फैलाव जहाँ सूरज, चाँद, तारे और बादल दिखते हैं। 'आसमान' इसका पर्यायवाची है। (The vast blue expanse above us where the sun, moon, stars, and clouds are seen. 'आसमान' is its synonym.)",
+      "pronunciation": "AA-kaash",
+      "exampleUsage": "वर्षा ऋतु में आकाश बादलों से ढक जाता है। (In the rainy season, the sky gets covered with clouds.)",
+      "difficulty": "easy",
+      "relatedTerms": ["आसमान", "गगन", "अंबर"]
+    },
+    {
+      "id": "gls_gr4_hi1_005",
+      "term": "कविता (Poem)",
+      "definition": "तुकबंदी और लय में लिखी गई रचना। कविता में भावनाओं को सुंदर शब्दों में व्यक्त किया जाता है। (A composition written in rhyme and rhythm. Feelings are expressed in beautiful words in a poem.)",
+      "pronunciation": "ka-vi-TAA",
+      "exampleUsage": "'मन के भोले-भाले बादल' एक सुंदर कविता है। ('Man ke Bhole-Bhale Badal' is a beautiful poem.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कवि", "पंक्ति", "छंद"]
+    },
+    {
+      "id": "gls_gr4_hi1_006",
+      "term": "उपमा (Simile)",
+      "definition": "एक अलंकार जिसमें दो अलग-अलग चीज़ों की तुलना 'जैसा', 'सा', 'की तरह' शब्दों से की जाती है। (A figure of speech that compares two different things using words like 'like' or 'as'.)",
+      "pronunciation": "UP-maa",
+      "exampleUsage": "बादल रूई जैसे सफ़ेद हैं - यह उपमा है। (Clouds are white like cotton - this is a simile.)",
+      "difficulty": "medium",
+      "relatedTerms": ["अलंकार", "तुलना", "रूपक"]
+    },
+    {
+      "id": "gls_gr4_hi1_007",
+      "term": "वर्षा ऋतु (Rainy Season)",
+      "definition": "साल का वह मौसम जब बहुत बारिश होती है। भारत में यह जुलाई से सितंबर तक होती है। इसे 'बरसात' भी कहते हैं। (The season of the year when it rains a lot. In India, it is from July to September. Also called 'बरसात'.)",
+      "pronunciation": "VAR-shaa RI-tu",
+      "exampleUsage": "वर्षा ऋतु में चारों ओर हरियाली छा जाती है। (In the rainy season, greenery spreads everywhere.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बरसात", "मानसून", "बादल"]
+    },
+    {
+      "id": "gls_gr4_hi1_008",
+      "term": "प्रकृति (Nature)",
+      "definition": "हमारे चारों ओर का प्राकृतिक वातावरण - पेड़, पहाड़, नदियाँ, बादल, जानवर आदि। कविता प्रकृति की सुंदरता का वर्णन करती है। (The natural environment around us - trees, mountains, rivers, clouds, animals, etc. The poem describes the beauty of nature.)",
+      "pronunciation": "pra-KRI-ti",
+      "exampleUsage": "प्रकृति की सुंदरता को देखकर मन खुश हो जाता है। (The mind becomes happy seeing the beauty of nature.)",
+      "difficulty": "medium",
+      "relatedTerms": ["वातावरण", "पर्यावरण", "सृष्टि"]
+    },
+    {
+      "id": "gls_gr4_hi1_009",
+      "term": "मेघ (Cloud - poetic)",
+      "definition": "'बादल' का संस्कृत और काव्यात्मक (poetic) शब्द। कविताओं में बादलों के लिए अक्सर 'मेघ' शब्द प्रयोग होता है। (The Sanskrit and poetic word for cloud. 'मेघ' is often used in poetry to refer to clouds.)",
+      "pronunciation": "MEGH",
+      "exampleUsage": "काले-काले मेघ आसमान में छा गए। (Dark clouds covered the sky.)",
+      "difficulty": "medium",
+      "relatedTerms": ["बादल", "घन", "जलधर"]
+    },
+    {
+      "id": "gls_gr4_hi1_010",
+      "term": "पंक्ति (Line of a poem)",
+      "definition": "कविता की एक लाइन को पंक्ति कहते हैं। कई पंक्तियाँ मिलकर एक पद (stanza) बनाती हैं। (A single line of a poem is called a 'पंक्ति'. Several lines together form a stanza or 'पद'.)",
+      "pronunciation": "PANK-ti",
+      "exampleUsage": "इस कविता की पहली पंक्ति बहुत सुंदर है। (The first line of this poem is very beautiful.)",
+      "difficulty": "easy",
+      "relatedTerms": ["पद", "छंद", "कविता"]
+    }
+  ]
+}

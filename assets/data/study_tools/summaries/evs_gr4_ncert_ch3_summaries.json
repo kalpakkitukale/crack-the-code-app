@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ncert_ch3",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en3_v1",
+      "videoId": "gr4_en3_v1",
+      "content": "This lesson introduces Nandu, a baby elephant, and his life in the forest. Nandu lives with his mother and a large herd of elephants. Students learn that elephants are the largest land animals, weighing up to 5,000-6,000 kg. Baby elephants are called calves and they stay very close to their mothers. Elephants use their long trunk for breathing, eating, drinking water, and even bathing. The lesson helps children understand how elephants live in their natural forest home.",
+      "keyPoints": [
+        "Elephants are the largest land animals on Earth",
+        "A baby elephant is called a calf",
+        "Elephants live in groups called herds",
+        "The trunk is used for breathing, eating, drinking, and bathing"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en3_v2",
+      "videoId": "gr4_en3_v2",
+      "content": "This lesson explores what elephants eat, drink, and how they behave. Elephants are herbivores - they eat only plants, including grass, leaves, fruits, and bark. An elephant eats about 150-200 kg of food and drinks up to 200 litres of water every day! Elephants spend 16-18 hours a day just eating. The lesson also covers how elephants communicate through sounds like trumpeting and low rumbles, and how the oldest female (matriarch) leads the herd.",
+      "keyPoints": [
+        "Elephants are herbivores and eat only plants",
+        "They eat 150-200 kg of food daily",
+        "They drink up to 200 litres of water daily",
+        "The matriarch leads the herd"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en3_v3",
+      "videoId": "gr4_en3_v3",
+      "content": "This lesson focuses on the forest habitat of elephants and why we need to protect them. Elephants live in forests and grasslands where they find food and water. However, their habitat is being destroyed as forests are cut down for farms and buildings. This forces elephants into villages, causing conflicts with people. The lesson explains that elephants are endangered and discusses why conservation is important - elephants help forests grow by spreading seeds and creating paths.",
+      "keyPoints": [
+        "Elephants live in forests and grasslands",
+        "Deforestation is destroying elephant habitats",
+        "Elephants are endangered and need protection",
+        "Elephants help forests by spreading seeds"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en3_v4",
+      "videoId": "gr4_en3_v4",
+      "content": "This lesson shares amazing facts about elephant bodies. Their tusks are actually very long teeth made of ivory. Their big ears help them cool down in hot weather by fanning air. Elephant skin is up to 2.5 cm thick but still sensitive enough to feel a tiny insect! Their trunk has no bones - it is made of about 40,000 muscles. Elephants are also excellent swimmers and use their trunk as a snorkel. They have one of the best memories in the animal kingdom.",
+      "keyPoints": [
+        "Tusks are long teeth made of ivory",
+        "Big ears help elephants cool their body temperature",
+        "Elephant skin is thick but very sensitive",
+        "The trunk has 40,000 muscles and zero bones"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "assessmentId": "readiness_gr4_m1_t3",
+  "topicId": "gr4_m_1_3",
+  "topicName": "Comparing and Ordering Large Numbers",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning to compare and order 5-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "comparing_4digit",
+      "conceptName": "Comparing 4-digit numbers using >, <, =",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_comp4_v1", "prereq_comp4_v2"]
+    },
+    {
+      "conceptId": "ordering_basics",
+      "conceptName": "Ordering numbers in ascending and descending order",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_order_v1"]
+    },
+    {
+      "conceptId": "pv_comparison",
+      "conceptName": "Using place value to compare numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_pv_comp_v1"]
+    },
+    {
+      "conceptId": "comparison_symbols",
+      "conceptName": "Understanding and using comparison symbols",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_symbols_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparing_4digit",
+
+      "question": "Which symbol makes this statement true? 5,678 ___ 5,876",
+
+      "options": ["<", ">", "=", "Both < and >"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "<",
+
+      "explanation": "Compare the hundreds place: 6 < 8, so 5,678 < 5,876. The first number is smaller.",
+
+      "tags": ["comparing", "4-digit", "symbols", "less than"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Compared only the last digits",
+          "conceptGap": "Understanding place value comparison from left to right",
+          "remediation": "Review comparing from highest place value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparing_4digit",
+
+      "question": "Which number is greater: 7,234 or 7,189?",
+
+      "options": ["7,234", "7,189", "Both are equal", "Cannot determine"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "7,234",
+
+      "explanation": "Thousands are same (7). Compare hundreds: 2 > 1, so 7,234 > 7,189.",
+
+      "tags": ["comparing", "greater than", "4-digit"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Looked at last digits only",
+          "conceptGap": "Place value comparison strategy",
+          "remediation": "Practice comparing from left to right"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "comparing_4digit",
+
+      "question": "True or False: 4,500 > 4,050",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Compare hundreds place: 5 > 0, so 4,500 > 4,050.",
+
+      "tags": ["comparing", "4-digit", "greater than", "zeros"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Confused by the zeros",
+          "conceptGap": "Understanding value with zeros",
+          "remediation": "Review place value with zeros"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "ordering_basics",
+
+      "question": "Arrange in ascending order (smallest to largest): 3,456; 3,654; 3,465",
+
+      "options": [
+        "3,456; 3,465; 3,654",
+        "3,654; 3,465; 3,456",
+        "3,465; 3,456; 3,654",
+        "3,456; 3,654; 3,465"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "3,456; 3,465; 3,654",
+
+      "explanation": "Compare hundreds: all have 4. Compare tens: 5, 6, 6. So 3,456 < 3,465 < 3,654.",
+
+      "tags": ["ordering", "ascending", "4-digit", "sequence"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Arranged in descending instead of ascending",
+          "conceptGap": "Understanding ascending vs descending",
+          "remediation": "Review ordering terminology"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "ordering_basics",
+
+      "question": "Which list shows numbers in descending order (largest to smallest)?",
+
+      "options": [
+        "8,900; 8,090; 8,009",
+        "8,009; 8,090; 8,900",
+        "8,090; 8,900; 8,009",
+        "8,900; 8,009; 8,090"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "8,900; 8,090; 8,009",
+
+      "explanation": "Descending means largest to smallest. 8,900 > 8,090 > 8,009 (compare hundreds: 9 > 0 > 0).",
+
+      "tags": ["ordering", "descending", "4-digit", "comparison"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Arranged in ascending instead of descending",
+          "conceptGap": "Understanding ordering direction",
+          "remediation": "Remember descending = going down"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "fill_blank",
+      "difficulty": "intermediate",
+      "conceptTested": "ordering_basics",
+
+      "question": "Fill in the missing number: 2,100; 2,300; ___; 2,700 (ascending order)",
+
+      "correctAnswer": "2500",
+      "acceptedAnswers": ["2500", "2,500"],
+
+      "explanation": "The pattern increases by 200 each time. 2,300 + 200 = 2,500.",
+
+      "tags": ["ordering", "ascending", "patterns", "sequence"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": "2400",
+          "mistake": "Added 100 instead of 200",
+          "conceptGap": "Identifying the pattern",
+          "remediation": "Check the difference between consecutive numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "pv_comparison",
+
+      "question": "When comparing two 4-digit numbers, which place value should you check first?",
+
+      "options": [
+        "Ones place",
+        "Tens place",
+        "Hundreds place",
+        "Thousands place"
+      ],
+
+      "correctAnswer": 3,
+      "correctAnswerText": "Thousands place",
+
+      "explanation": "Always start comparing from the highest place value (left side). For 4-digit numbers, that's the thousands place.",
+
+      "tags": ["place value", "comparison strategy", "method"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Started from the right (ones place)",
+          "conceptGap": "Comparison direction",
+          "remediation": "Review left-to-right comparison method"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "pv_comparison",
+
+      "question": "True or False: If the thousands digits are the same, you should compare the hundreds digits next.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! If digits in one place are equal, move to the next place value to the right to compare.",
+
+      "tags": ["place value", "comparison", "strategy"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't understand the place-by-place comparison method",
+          "conceptGap": "Systematic comparison strategy",
+          "remediation": "Practice step-by-step comparison"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparison_symbols",
+
+      "question": "What does the symbol '>' mean?",
+
+      "options": [
+        "Less than",
+        "Greater than",
+        "Equal to",
+        "Not equal to"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Greater than",
+
+      "explanation": "The symbol '>' means 'greater than.' The open side faces the larger number. Example: 5 > 3.",
+
+      "tags": ["symbols", "greater than", "notation"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused > with <",
+          "conceptGap": "Symbol recognition",
+          "remediation": "Remember: the open mouth faces the bigger number"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "comparison_symbols",
+
+      "question": "Which statement is true about the numbers 15,000 and 9,999?",
+
+      "options": [
+        "15,000 < 9,999",
+        "15,000 = 9,999",
+        "15,000 > 9,999",
+        "Cannot compare"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "15,000 > 9,999",
+
+      "explanation": "15,000 is a 5-digit number and 9,999 is a 4-digit number. A 5-digit number is always greater than a 4-digit number. So 15,000 > 9,999.",
+
+      "tags": ["comparing", "different digits", "5-digit vs 4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thought more 9s means bigger",
+          "conceptGap": "Understanding that digit count matters first",
+          "remediation": "Review that more digits = larger number"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You can compare and order 4-digit numbers well. You're ready to learn about comparing and ordering 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand comparison and ordering. Let's extend this to 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in comparing or ordering numbers. Watch review videos before learning 5-digit comparison and ordering.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review how to compare and order 4-digit numbers first. We'll start with basics, then move to 5-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you learn to compare and order numbers correctly.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about comparing and ordering 5-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

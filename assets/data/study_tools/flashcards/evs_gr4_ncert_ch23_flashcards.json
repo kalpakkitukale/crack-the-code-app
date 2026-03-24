@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch23",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_evn23_weaving_basics",
+      "name": "Weaving Basics",
+      "description": "Learn about the art of weaving and how cloth is made",
+      "topicId": "gr4_evn_23_1",
+      "chapterId": "gr4_evs_ncert_ch23",
+      "cards": [
+        {
+          "id": "card_gr4_evn23_001",
+          "front": "What is weaving?",
+          "back": "Weaving is the process of making cloth by interlacing (crossing) two sets of threads - the warp (vertical threads) and the weft (horizontal threads) - on a loom.\n\nIt is one of the oldest crafts in the world!",
+          "hint": "Think of criss-crossing threads to make fabric",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_evn23_002",
+          "front": "What is a loom?",
+          "back": "A loom is a machine or frame used for weaving cloth. Threads are stretched on the loom and the weaver passes other threads through them to create fabric.\n\nLooms can be simple handlooms or big power looms.",
+          "hint": "The tool a weaver uses to make cloth",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_evn23_003",
+          "front": "What is Pochampalli famous for?",
+          "back": "Pochampalli is a village in Telangana (South India) famous for its beautiful handloom sarees and fabrics.\n\nThe special Pochampalli Ikat sarees have unique geometric patterns that are made using a tie-and-dye technique.",
+          "hint": "A village in Telangana known for a special type of saree",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_evn23_004",
+          "front": "What is the difference between a handloom and a power loom?",
+          "back": "A handloom is worked by hand and foot by the weaver. It is slower but creates unique, beautiful cloth. A power loom is run by electricity and works much faster.\n\nHandloom cloth is considered more special because each piece is unique.",
+          "hint": "One uses human effort, the other uses electricity",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_evn23_005",
+          "front": "What is the Ikat technique used in Pochampalli?",
+          "back": "Ikat is a special tie-and-dye method where the threads are tied and dyed with colours BEFORE they are woven on the loom.\n\nThis creates beautiful patterns that look slightly blurred at the edges, which is the signature look of Pochampalli fabrics.",
+          "hint": "The threads are dyed before weaving, not after",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_evn23_crafts_india",
+      "name": "Traditional Crafts of India",
+      "description": "Explore various traditional crafts and the artisans who make them",
+      "topicId": "gr4_evn_23_1",
+      "chapterId": "gr4_evs_ncert_ch23",
+      "cards": [
+        {
+          "id": "card_gr4_evn23_006",
+          "front": "Why are traditional crafts important?",
+          "back": "Traditional crafts are important because they are part of India's cultural heritage. They provide livelihoods to millions of artisans and their families.\n\nEach craft tells the story of the region it comes from and keeps ancient skills alive.",
+          "hint": "Think about heritage, jobs, and culture",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_evn23_007",
+          "front": "Name some other famous weaving traditions in India.",
+          "back": "India has many famous weaving traditions:\n- Banarasi silk (Varanasi, UP)\n- Kanjeevaram silk (Tamil Nadu)\n- Patola (Gujarat)\n- Chanderi (Madhya Pradesh)\n- Muga silk (Assam)\n- Pashmina (Kashmir)",
+          "hint": "Different states are known for different types of fabric",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_evn23_008",
+          "front": "What materials are used to make cloth in India?",
+          "back": "Common materials used are:\n- Cotton (from cotton plants, used across India)\n- Silk (from silkworms, used for special sarees)\n- Wool (from sheep, used for sweaters and shawls)\n- Jute (from jute plants, used for bags and mats)",
+          "hint": "Some come from plants, some from animals",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_evn23_009",
+          "front": "What is the life of a weaver like?",
+          "back": "Weavers work long hours at their looms, often 10-12 hours a day. The whole family usually helps - some wind the thread, some dye it, some operate the loom.\n\nMany weavers earn very little money despite their great skill, which is why supporting handloom products is important.",
+          "hint": "It is hard work that involves the whole family",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_evn23_010",
+          "front": "What is National Handloom Day and when is it celebrated?",
+          "back": "National Handloom Day is celebrated on 7th August every year in India.\n\nIt honours the handloom weavers and promotes handloom products. The date was chosen because on this day in 1905, the Swadeshi Movement started, encouraging Indians to use Indian-made goods.",
+          "hint": "It is in the month of August",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

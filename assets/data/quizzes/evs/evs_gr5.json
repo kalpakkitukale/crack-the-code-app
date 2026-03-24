@@ -1,0 +1,290 @@
+{
+  "quiz": {
+    "id": "quiz_evs_gr5",
+    "level": "subject",
+    "entityId": "evs_gr5",
+    "title": "EVS Grade 5 - Complete Assessment",
+    "questionIds": [
+      "q_evs5_001",
+      "q_evs5_002",
+      "q_evs5_003",
+      "q_evs5_004",
+      "q_evs5_005",
+      "q_evs5_006",
+      "q_evs5_007",
+      "q_evs5_008",
+      "q_evs5_009",
+      "q_evs5_010",
+      "q_evs5_011",
+      "q_evs5_012"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_evs5_001",
+      "questionText": "What percentage of Earth's surface is covered by water?",
+      "questionType": "mcq",
+      "options": [
+        "50%",
+        "60%",
+        "71%",
+        "85%"
+      ],
+      "correctAnswer": "C",
+      "explanation": "About 71% of Earth's surface is covered by water, mostly in oceans and seas.",
+      "hints": [
+        "More than half",
+        "Around 70%"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["water", "earth", "natural_resources"],
+      "topicIds": ["gr5_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_002",
+      "questionText": "Which of these is a renewable natural resource?",
+      "questionType": "mcq",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Forest",
+        "Natural gas"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Forests are renewable resources because trees can be replanted and grown again. Coal, petroleum, and natural gas are non-renewable.",
+      "hints": [
+        "Can be replaced naturally",
+        "Trees can grow again"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["renewable", "forest", "natural_resources"],
+      "topicIds": ["gr5_ev_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_003",
+      "questionText": "What is the process of converting sea water to fresh water called?",
+      "questionType": "mcq",
+      "options": [
+        "Filtration",
+        "Desalination",
+        "Evaporation",
+        "Condensation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Desalination is the process of removing salt from sea water to make it drinkable.",
+      "hints": [
+        "Removing salt",
+        "De + salt"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["water", "desalination"],
+      "topicIds": ["gr5_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_004",
+      "questionText": "Which mountain range separates India from the rest of Asia?",
+      "questionType": "mcq",
+      "options": [
+        "Western Ghats",
+        "Aravalli Range",
+        "Himalayas",
+        "Vindhya Range"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Himalayas are the great mountain range in the north that separate India from the rest of Asia.",
+      "hints": [
+        "In the north",
+        "Highest mountains"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["india", "geography", "mountains"],
+      "topicIds": ["gr5_ev_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_005",
+      "questionText": "Which is the national animal of India?",
+      "questionType": "mcq",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Tiger",
+        "Peacock"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Bengal Tiger is the national animal of India, representing strength and grace.",
+      "hints": [
+        "Striped animal",
+        "Big cat"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["india", "national_symbols"],
+      "topicIds": ["gr5_ev_2_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_006",
+      "questionText": "What is the capital of India?",
+      "questionType": "mcq",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": "B",
+      "explanation": "New Delhi is the capital city of India where the central government is located.",
+      "hints": [
+        "In north India",
+        "Starts with 'D'"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["india", "capital", "geography"],
+      "topicIds": ["gr5_ev_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_007",
+      "questionText": "How many times should we brush our teeth daily?",
+      "questionType": "mcq",
+      "options": [
+        "Once",
+        "Twice",
+        "Three times",
+        "Four times"
+      ],
+      "correctAnswer": "B",
+      "explanation": "We should brush our teeth twice daily - once in the morning and once before sleeping at night.",
+      "hints": [
+        "Morning and night",
+        "More than once"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["hygiene", "health", "teeth"],
+      "topicIds": ["gr5_ev_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_008",
+      "questionText": "Which disease is caused by mosquito bites?",
+      "questionType": "mcq",
+      "options": [
+        "Tuberculosis",
+        "Malaria",
+        "Typhoid",
+        "Common cold"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Malaria is spread by mosquito bites. The mosquito carries the malaria parasite from one person to another.",
+      "hints": [
+        "Spread by insects",
+        "Fever disease"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["diseases", "mosquito", "health"],
+      "topicIds": ["gr5_ev_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_009",
+      "questionText": "Why is it important to wash hands before eating?",
+      "questionType": "mcq",
+      "options": [
+        "To make them wet",
+        "To remove germs and dirt",
+        "To cool them down",
+        "To make them smell good"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Washing hands removes germs and dirt that can cause diseases if they enter our body with food.",
+      "hints": [
+        "Prevents illness",
+        "Removes harmful things"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["hygiene", "health", "prevention"],
+      "topicIds": ["gr5_ev_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_010",
+      "questionText": "Which river is known as the lifeline of India?",
+      "questionType": "mcq",
+      "options": [
+        "Yamuna",
+        "Godavari",
+        "Ganga",
+        "Narmada"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Ganga (Ganges) is called the lifeline of India as it supports millions of people with water for drinking, farming, and daily needs.",
+      "hints": [
+        "Holy river",
+        "Flows in north India"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["india", "rivers", "geography"],
+      "topicIds": ["gr5_ev_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_011",
+      "questionText": "What should we do with waste water at home?",
+      "questionType": "mcq",
+      "options": [
+        "Throw it on roads",
+        "Let it flow in drains",
+        "Store it in containers",
+        "Use it for watering plants"
+      ],
+      "correctAnswer": "D",
+      "explanation": "We should reuse waste water from washing vegetables or rinsing for watering plants to conserve water.",
+      "hints": [
+        "Conservation practice",
+        "Reuse wisely"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["water", "conservation", "environment"],
+      "topicIds": ["gr5_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_evs5_012",
+      "questionText": "Which of these helps prevent the spread of diseases?",
+      "questionType": "mcq",
+      "options": [
+        "Keeping surroundings dirty",
+        "Covering mouth while coughing",
+        "Sharing personal items",
+        "Not washing hands"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Covering mouth while coughing or sneezing prevents germs from spreading to others and helps prevent diseases.",
+      "hints": [
+        "Good hygiene practice",
+        "Stops germs spreading"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["hygiene", "disease_prevention", "health"],
+      "topicIds": ["gr5_ev_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

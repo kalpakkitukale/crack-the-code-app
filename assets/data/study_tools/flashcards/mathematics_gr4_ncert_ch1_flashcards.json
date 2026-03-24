@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ncert_ch1",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn1_3dshapes",
+      "name": "3D Shapes Around Us",
+      "description": "Learn about cubes, cuboids, cylinders, cones, and spheres that you see every day",
+      "topicId": "gr4_mn_1_1",
+      "chapterId": "gr4_math_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_mn1_001",
+          "front": "What is a cube? Give an example from daily life.",
+          "back": "A cube is a 3D shape where all 6 faces are equal squares. A dice (ludo dice), a Rubik's cube, and a sugar cube are all examples of cubes.",
+          "hint": "Think of a shape where every face looks exactly the same",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn1_002",
+          "front": "What is a cuboid? How is it different from a cube?",
+          "back": "A cuboid is a 3D shape with 6 rectangular faces. Unlike a cube, a cuboid's faces can be different sizes. A brick, a book, and a tiffin box are cuboids.",
+          "hint": "Think of a box shape where all sides are not equal",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn1_003",
+          "front": "What shape is a cricket ball or a marble?",
+          "back": "A cricket ball and a marble are shaped like a sphere. A sphere is perfectly round from every side. It has no edges, no corners, and just one curved surface.",
+          "hint": "Think of a perfectly round shape you can roll in any direction",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn1_004",
+          "front": "What shape does an ice cream cone have?",
+          "back": "An ice cream cone is shaped like a cone. A cone has a circular flat base at the bottom and a pointed tip at the top. A birthday cap and a funnel are also cone-shaped.",
+          "hint": "It has a round base and gets narrower to a point",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn1_005",
+          "front": "Name the shape of a pipe or a tin can.",
+          "back": "A pipe and a tin can are shaped like a cylinder. A cylinder has 2 circular flat faces (top and bottom) and 1 curved surface in the middle. A glass and a bangle are also cylinders.",
+          "hint": "It has circles on top and bottom connected by a curved surface",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn1_properties",
+      "name": "Faces, Edges, and Vertices",
+      "description": "Understand the parts of 3D shapes - faces, edges, and vertices (corners)",
+      "topicId": "gr4_mn_1_2",
+      "chapterId": "gr4_math_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_mn1_006",
+          "front": "What is a face of a 3D shape?",
+          "back": "A face is a flat or curved surface of a 3D shape. A cube has 6 flat faces. A cylinder has 2 flat faces and 1 curved face. A sphere has only 1 curved face.",
+          "hint": "Touch any side of a box - that flat part is called a face",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn1_007",
+          "front": "What is an edge of a 3D shape?",
+          "back": "An edge is a line where two faces of a 3D shape meet. A cube has 12 edges. A cylinder has 2 curved edges. A sphere has 0 edges.",
+          "hint": "Run your finger along the side of a box - that line is an edge",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn1_008",
+          "front": "What is a vertex? How many vertices does a cube have?",
+          "back": "A vertex is a corner where edges meet. The plural is vertices. A cube has 8 vertices (4 on top, 4 on the bottom). A cone has 1 vertex (its pointed tip).",
+          "hint": "Think of the sharp corners of a box",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn1_009",
+          "front": "Which 3D shape has no edges and no vertices?",
+          "back": "A sphere has no edges and no vertices. It is perfectly round with only 1 curved surface. That is why a ball can roll easily in any direction!",
+          "hint": "Think of a ball - can you find any corners or sharp lines on it?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn1_010",
+          "front": "How many faces, edges, and vertices does a cone have?",
+          "back": "A cone has 2 faces (1 flat circle + 1 curved surface), 1 curved edge (where the flat and curved faces meet), and 1 vertex (the pointed tip at the top).",
+          "hint": "Think of a birthday cap - it has a round bottom and a pointy top",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn1_angles_daily",
+      "name": "Angles and Shapes in Daily Life",
+      "description": "Explore angles in shapes and spot 3D shapes around you every day",
+      "topicId": "gr4_mn_1_3",
+      "chapterId": "gr4_math_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_mn1_011",
+          "front": "What is an angle?",
+          "back": "An angle is formed when two straight lines meet at a point. The corner of your notebook, the hands of a clock, and an open door all make angles. A square corner makes a right angle.",
+          "hint": "Look at the corner of your book - the two edges meeting form an angle",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn1_012",
+          "front": "What is a right angle? Where do you see it?",
+          "back": "A right angle is the angle at the corner of a square or rectangle. It looks like the letter L. The corners of your book, a door frame, and a window all have right angles.",
+          "hint": "Think of the shape of the letter L",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn1_013",
+          "front": "Name five 3D shapes you can find in your kitchen.",
+          "back": "In the kitchen you can find: a cylinder (glass or steel tumbler), a sphere (round ladoo or orange), a cuboid (tiffin box or matchbox), a cone (funnel), and a cube (sugar cube or paneer block).",
+          "hint": "Look at containers, fruits, and boxes in the kitchen",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn1_014",
+          "front": "Can a 3D shape have both flat and curved faces?",
+          "back": "Yes! A cylinder has 2 flat faces (circles) and 1 curved face. A cone has 1 flat face (circle) and 1 curved face. But a cube has only flat faces, and a sphere has only a curved face.",
+          "hint": "Think about a tin can - is every part flat?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn1_015",
+          "front": "If you trace the bottom of a cylinder on paper, what shape do you get?",
+          "back": "You get a circle! When you trace any flat face of a 3D shape, you get a 2D shape. Tracing a cube's face gives a square. Tracing a cuboid's face gives a rectangle.",
+          "hint": "Put a glass upside down on paper and draw around it",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

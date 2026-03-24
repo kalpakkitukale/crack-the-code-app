@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch4",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_4_001",
+      "term": "Conservation",
+      "definition": "Protecting nature, including trees, animals, and their habitats, so they are not destroyed.",
+      "pronunciation": "kon-ser-VAY-shun",
+      "exampleUsage": "Conservation of forests helps protect the animals that live in them.",
+      "difficulty": "medium",
+      "relatedTerms": ["protection", "environment"]
+    },
+    {
+      "id": "gls_evs_4_002",
+      "term": "Deforestation",
+      "definition": "Cutting down large numbers of trees and clearing forests, usually to make space for farms or buildings.",
+      "pronunciation": "dee-FOR-est-AY-shun",
+      "exampleUsage": "Deforestation is causing many animals to lose their homes.",
+      "difficulty": "medium",
+      "relatedTerms": ["trees", "habitat loss"]
+    },
+    {
+      "id": "gls_evs_4_003",
+      "term": "Chipko Movement",
+      "definition": "A movement where villagers hugged trees to stop them from being cut down. It started in Uttarakhand in 1973.",
+      "pronunciation": "CHIP-ko MOOV-ment",
+      "exampleUsage": "The Chipko Movement showed that ordinary people can protect nature.",
+      "difficulty": "medium",
+      "relatedTerms": ["trees", "protest"]
+    },
+    {
+      "id": "gls_evs_4_004",
+      "term": "Bishnoi",
+      "definition": "A community in Rajasthan known for protecting trees and animals as part of their way of life for over 500 years.",
+      "pronunciation": "BISH-noy",
+      "exampleUsage": "The Bishnoi people never cut green trees because they believe all life is sacred.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rajasthan", "nature protection"]
+    },
+    {
+      "id": "gls_evs_4_005",
+      "term": "Khejri",
+      "definition": "A desert tree found in Rajasthan that gives shade, food (pods), and fodder for animals. It is the state tree of Rajasthan.",
+      "pronunciation": "KHAY-jree",
+      "exampleUsage": "The Khejri tree can survive even in hot desert conditions.",
+      "difficulty": "easy",
+      "relatedTerms": ["desert", "Rajasthan"]
+    },
+    {
+      "id": "gls_evs_4_006",
+      "term": "Oxygen",
+      "definition": "A gas in the air that all living things need to breathe. Trees make oxygen and release it into the air.",
+      "pronunciation": "OK-sih-jen",
+      "exampleUsage": "Trees produce oxygen which we need to breathe and stay alive.",
+      "difficulty": "easy",
+      "relatedTerms": ["breathing", "air"]
+    },
+    {
+      "id": "gls_evs_4_007",
+      "term": "Soil erosion",
+      "definition": "When soil is washed away or blown away because there are no tree roots to hold it in place.",
+      "pronunciation": "SOYL eh-ROH-zhun",
+      "exampleUsage": "Cutting down trees leads to soil erosion during heavy rains.",
+      "difficulty": "medium",
+      "relatedTerms": ["soil", "roots"]
+    },
+    {
+      "id": "gls_evs_4_008",
+      "term": "Van Mahotsav",
+      "definition": "A tree planting festival celebrated in India during the first week of July. 'Van' means forest and 'Mahotsav' means festival.",
+      "pronunciation": "VUN muh-HOT-suv",
+      "exampleUsage": "During Van Mahotsav, our school planted 50 new trees.",
+      "difficulty": "easy",
+      "relatedTerms": ["planting", "festival"]
+    },
+    {
+      "id": "gls_evs_4_009",
+      "term": "Sacrifice",
+      "definition": "Giving up something very important, even your own life, to protect what you believe in.",
+      "pronunciation": "SAK-rih-fice",
+      "exampleUsage": "Amrita Devi made a great sacrifice to protect the khejri trees.",
+      "difficulty": "medium",
+      "relatedTerms": ["bravery", "protection"]
+    },
+    {
+      "id": "gls_evs_4_010",
+      "term": "Transpiration",
+      "definition": "The process by which trees and plants release water vapour from their leaves into the air, helping form clouds.",
+      "pronunciation": "trans-pih-RAY-shun",
+      "exampleUsage": "Through transpiration, forests help bring rain to the area.",
+      "difficulty": "medium",
+      "relatedTerms": ["water", "clouds", "rain"]
+    }
+  ]
+}

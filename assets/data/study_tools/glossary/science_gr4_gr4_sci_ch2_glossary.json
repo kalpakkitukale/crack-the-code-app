@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_sci_ch2",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_sc2_001",
+      "term": "Nutrients",
+      "definition": "The useful substances present in food that our body needs to grow, get energy, and stay healthy. The main nutrients are carbohydrates, proteins, fats, vitamins, and minerals.",
+      "pronunciation": "NOO-tree-ents",
+      "exampleUsage": "Fruits and vegetables are full of important nutrients like vitamins and minerals.",
+      "difficulty": "medium",
+      "relatedTerms": ["vitamins", "minerals", "proteins"]
+    },
+    {
+      "id": "gls_gr4_sc2_002",
+      "term": "Carbohydrates",
+      "definition": "Nutrients found in foods like rice, roti, bread, and potatoes that give our body energy to work, play, and study.",
+      "pronunciation": "kar-bo-HY-drayts",
+      "exampleUsage": "Rice and roti are rich in carbohydrates that give us energy for the whole day.",
+      "difficulty": "medium",
+      "relatedTerms": ["energy", "rice", "starch"]
+    },
+    {
+      "id": "gls_gr4_sc2_003",
+      "term": "Proteins",
+      "definition": "Nutrients found in foods like dal, milk, paneer, eggs, and fish that help our body grow and repair itself.",
+      "pronunciation": "PRO-teens",
+      "exampleUsage": "Children need proteins from dal and milk to grow tall and strong.",
+      "difficulty": "medium",
+      "relatedTerms": ["body-building", "dal", "growth"]
+    },
+    {
+      "id": "gls_gr4_sc2_004",
+      "term": "Fats",
+      "definition": "Nutrients found in ghee, oil, butter, and nuts that give our body extra energy and keep us warm.",
+      "pronunciation": "FATS",
+      "exampleUsage": "A little ghee on your roti gives you fats for extra energy.",
+      "difficulty": "easy",
+      "relatedTerms": ["energy", "ghee", "oil"]
+    },
+    {
+      "id": "gls_gr4_sc2_005",
+      "term": "Vitamins",
+      "definition": "Nutrients found in fruits and vegetables that protect our body from diseases and help different body parts work properly.",
+      "pronunciation": "VY-tah-mins",
+      "exampleUsage": "Eating an orange gives us Vitamin C that helps us fight colds.",
+      "difficulty": "easy",
+      "relatedTerms": ["fruits", "vegetables", "protective foods"]
+    },
+    {
+      "id": "gls_gr4_sc2_006",
+      "term": "Minerals",
+      "definition": "Nutrients like iron, calcium, and iodine found in food that help build strong bones and teeth and keep our blood healthy.",
+      "pronunciation": "MIN-er-als",
+      "exampleUsage": "Milk has calcium, a mineral that makes our bones and teeth strong.",
+      "difficulty": "medium",
+      "relatedTerms": ["calcium", "iron", "bones"]
+    },
+    {
+      "id": "gls_gr4_sc2_007",
+      "term": "Balanced Diet",
+      "definition": "A diet that includes the right amounts of all food groups: carbohydrates, proteins, fats, vitamins, minerals, and water.",
+      "pronunciation": "BAL-ansd DY-et",
+      "exampleUsage": "An Indian thali with roti, dal, sabzi, rice, and curd is a balanced diet.",
+      "difficulty": "easy",
+      "relatedTerms": ["food groups", "healthy eating", "nutrition"]
+    },
+    {
+      "id": "gls_gr4_sc2_008",
+      "term": "Digestion",
+      "definition": "The process by which our body breaks down the food we eat into very tiny pieces so it can be used by the body for energy, growth, and repair.",
+      "pronunciation": "dy-JES-chun",
+      "exampleUsage": "Digestion starts in the mouth when we chew our food properly.",
+      "difficulty": "medium",
+      "relatedTerms": ["stomach", "intestine", "saliva"]
+    },
+    {
+      "id": "gls_gr4_sc2_009",
+      "term": "Roughage",
+      "definition": "The fibre found in plant foods like whole grains, fruits, and vegetables that helps food move through our digestive system. Also called dietary fibre.",
+      "pronunciation": "RUF-ij",
+      "exampleUsage": "Eating whole wheat roti gives us roughage that keeps our stomach healthy.",
+      "difficulty": "medium",
+      "relatedTerms": ["fibre", "whole grains", "digestion"]
+    },
+    {
+      "id": "gls_gr4_sc2_010",
+      "term": "Saliva",
+      "definition": "The watery liquid in our mouth that helps make food soft and slippery and begins the process of digestion.",
+      "pronunciation": "sah-LY-vah",
+      "exampleUsage": "When we chew food, saliva mixes with it and starts breaking it down.",
+      "difficulty": "easy",
+      "relatedTerms": ["mouth", "chewing", "digestion"]
+    },
+    {
+      "id": "gls_gr4_sc2_011",
+      "term": "Malnutrition",
+      "definition": "A health problem caused by not eating enough nutritious food or eating too much of the wrong food. It can make a person weak and sick.",
+      "pronunciation": "mal-noo-TRISH-un",
+      "exampleUsage": "Children who do not eat enough fruits and vegetables can suffer from malnutrition.",
+      "difficulty": "medium",
+      "relatedTerms": ["nutrients", "deficiency", "health"]
+    },
+    {
+      "id": "gls_gr4_sc2_012",
+      "term": "Food Preservation",
+      "definition": "Methods used to keep food fresh and safe for a longer time, such as drying, pickling, refrigerating, or adding salt and sugar.",
+      "pronunciation": "food preh-zer-VAY-shun",
+      "exampleUsage": "Making mango pickle is a form of food preservation that keeps mangoes eatable for months.",
+      "difficulty": "medium",
+      "relatedTerms": ["pickling", "drying", "refrigeration"]
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch10",
+  "topicId": "gr4_mn_10_1",
+  "topicName": "Reading Wildlife Data Tables",
+  "chapterId": "gr4_math_ncert_ch10",
+  "chapterName": "Elephants, Tigers, and Leopards",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 10: Elephants, Tigers, and Leopards (Data Interpretation with Wildlife)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent number comparison and table-reading skills, can fast-track to charts and conservation math with challenge content",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2820,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn10_v1",
+          "reason": "Introduction to reading wildlife data tables",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v2",
+          "reason": "Comparing numbers from wildlife data",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn10_v3",
+          "reason": "Reading bar graphs and charts with animal data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v4",
+          "reason": "Pictographs and picture graphs with wildlife",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v5",
+          "reason": "Challenge: Conservation math using real data",
+          "skippable": false
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of data interpretation concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2400,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn10_v1",
+          "reason": "Introduction to reading wildlife data tables",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v2",
+          "reason": "Comparing numbers from wildlife data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v3",
+          "reason": "Reading bar graphs with animal data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v4",
+          "reason": "Pictographs and picture graphs",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v5",
+          "reason": "Conservation math with real wildlife data",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in number comparison or table reading, needs targeted review before data interpretation",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 3180,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "number_comparison_weak": {
+            "addVideos": ["prereq_ch10_counting_v1"],
+            "priority": "high"
+          },
+          "reading_tables_weak": {
+            "addVideos": ["prereq_ch10_comparison_v1"],
+            "priority": "high"
+          },
+          "addition_subtraction_weak": {
+            "addVideos": ["prereq_ch10_addition_v1"],
+            "priority": "medium"
+          },
+          "counting_large_weak": {
+            "addVideos": ["prereq_ch10_counting_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch10_counting_v1",
+          "reason": "Review: Comparing numbers with greater than and less than",
+          "skippable": false,
+          "condition": "if number_comparison concept is weak"
+        },
+        {
+          "videoId": "prereq_ch10_comparison_v1",
+          "reason": "Review: Reading information from rows and columns",
+          "skippable": false,
+          "condition": "if reading_tables concept is weak"
+        },
+        {
+          "videoId": "prereq_ch10_addition_v1",
+          "reason": "Review: Addition and subtraction with larger numbers",
+          "skippable": false,
+          "condition": "if addition_subtraction concept is weak"
+        },
+        {
+          "videoId": "gr4_mn10_v1",
+          "reason": "Start main topic: Reading wildlife data tables",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v2",
+          "reason": "Comparing numbers from data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v3",
+          "reason": "Reading bar graphs and charts",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v5",
+          "reason": "Conservation math application",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in number comparison and table reading before attempting data interpretation",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2190,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch10_counting_v1",
+          "reason": "Foundation: Review comparing numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch10_comparison_v1",
+          "reason": "Essential: Learn to read rows and columns in tables",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch10_addition_v1",
+          "reason": "Critical: Review addition and subtraction for data problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v1",
+          "reason": "Gentle intro to wildlife data tables",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn10_v2",
+          "reason": "Begin main content: Comparing numbers from data",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with data interpretation."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "number_comparison": {
+        "conceptName": "Comparing numbers using greater than, less than, and equal to",
+        "importance": "critical",
+        "videoIds": ["prereq_ch10_counting_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq10_1", "rq10_2", "rq10_3"]
+      },
+      "reading_tables": {
+        "conceptName": "Reading information from rows and columns in a table",
+        "importance": "critical",
+        "videoIds": ["prereq_ch10_comparison_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq10_4", "rq10_5", "rq10_6"]
+      },
+      "addition_subtraction": {
+        "conceptName": "Addition and subtraction with larger numbers",
+        "importance": "important",
+        "videoIds": ["prereq_ch10_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq10_7", "rq10_8"]
+      },
+      "counting_large": {
+        "conceptName": "Counting and reading large numbers up to thousands",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch10_counting_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq10_9", "rq10_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn10_v1",
+        "checkpointName": "Data Table Reading Check",
+        "questions": [
+          {
+            "question": "A table shows: Tigers in Park A = 45, Tigers in Park B = 32. Which park has more tigers?",
+            "options": ["Park A", "Park B", "Both are equal"],
+            "correctAnswer": 0,
+            "explanation": "Park A has 45 tigers and Park B has 32. Since 45 is greater than 32, Park A has more tigers."
+          },
+          {
+            "question": "If a table shows elephants = 1,200 and leopards = 850, how many more elephants are there?",
+            "options": ["250", "350", "450"],
+            "correctAnswer": 1,
+            "explanation": "1,200 - 850 = 350. There are 350 more elephants than leopards."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You can read data tables very well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch10_comparison_v1",
+          "reason": "Student struggling with table reading, review rows and columns"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn10_v3",
+        "checkpointName": "Charts and Graphs Check",
+        "questions": [
+          {
+            "question": "In a bar graph, a taller bar means:",
+            "options": ["A smaller number", "A bigger number", "The same number"],
+            "correctAnswer": 1,
+            "explanation": "In a bar graph, a taller bar represents a bigger number. The taller the bar, the more there are!"
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn10_v5",
+          "reason": "Student ready for conservation math challenge"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the bar graph video again. Remember: taller bars mean bigger numbers!"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to conservation math or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on number comparison and table reading"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising reading tables and comparing numbers with real examples at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You are great at comparing numbers and reading tables. You are ready to explore data about elephants, tigers, and leopards. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand numbers and tables well. Let's explore wildlife data about elephants, tigers, and leopards with complete coverage of all topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in comparing numbers or reading tables. Don't worry! We will start with targeted review videos on the concepts you need, then move to wildlife data."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review number comparison and table reading first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then explore wildlife data."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how data interpretation concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Counting large numbers", "Basic addition and subtraction", "Number comparison"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Reading rows and columns", "Finding data in tables", "Understanding headings"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Reading wildlife data tables", "Comparing numbers from data", "Finding most and least"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Reading bar graphs", "Reading pictographs", "Interpreting chart data"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Conservation math", "Population change calculations", "Data-based word problems"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "tableReadingFluency": {
+      "target": 85,
+      "description": "% of students who can correctly read data from a 2-way table within 15 seconds"
+    },
+    "graphInterpretation": {
+      "target": 80,
+      "description": "% of students who can correctly answer a question from a bar graph or pictograph"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (25 min) + retake + main content (25 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students reading the wrong row or column in a table",
+      "solution1": "Teach the finger-trace method: use one finger along the row and another along the column to find where they meet.",
+      "challenge2": "Students confusing bar graph height with the label below",
+      "solution2": "Emphasise that the height of the bar tells us the number. Always look at the scale on the side.",
+      "challenge3": "Students who can read data but cannot compare or calculate with it",
+      "solution3": "Practice extracting two numbers from a table and then comparing or adding/subtracting them as a two-step process."
+    }
+  }
+}

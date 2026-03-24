@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn4_t3",
+  "topicId": "gr4_mn_4_3",
+  "topicName": "Comparing and Ordering Numbers",
+  "chapterId": "gr4_math_ncert_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1440,
+    "totalDurationDisplay": "24:00",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_4_1", "gr4_mn_4_2"],
+    "followUpTopics": ["gr4_mn_4_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn4_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Comparing and Ordering Numbers up to 5 Digits",
+      "description": "Learn to compare 4 and 5 digit numbers using greater than, less than, and equal to signs. Also practice arranging numbers in ascending and descending order.",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 750000,
+      "tags": ["comparing", "ordering", "greater than", "less than", "ascending", "descending"],
+      "learningObjectives": ["Compare two 5-digit numbers using >, <, and =", "Use place value to determine which number is greater", "Arrange numbers in ascending and descending order"],
+      "keyConceptsCovered": ["Comparing by number of digits first", "Comparing digit by digit from the left", "Ascending order (smallest to largest)", "Descending order (largest to smallest)"],
+      "prerequisites": ["5-digit place value", "Reading large numbers"],
+      "followUpTopics": ["Forming largest and smallest numbers", "Estimation"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Place Value up to 5 Digits | Ten Thousands Place",
+      "description": "Learn about place value in 5-digit numbers. Understand ones, tens, hundreds, thousands, and ten thousands places with real-life examples like distances and populations!",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+      "tags": ["place value", "5-digit", "ten thousands", "review for comparing"],
+      "learningObjectives": ["Review 5-digit place value for comparison", "Understand why the leftmost digit is most important for comparing"],
+      "keyConceptsCovered": ["Place value review", "Using place value to compare numbers"],
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Comparing 5-digit numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch4_comparison_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Comparing 3-Digit Numbers",
+      "description": "Learn to compare 3-digit numbers using greater than, less than, and equal to. Start from the hundreds place and work your way down to compare numbers correctly.",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 870000,
+      "tags": ["comparing numbers", "3-digit comparison", "greater than", "less than", "equal to"],
+      "learningObjectives": ["Review comparing 3-digit numbers", "Apply the same method to larger numbers", "Build confidence with comparison symbols"],
+      "keyConceptsCovered": ["Compare starting from the highest place", "Using >, <, and = symbols", "Bridge to 5-digit comparison"],
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Comparing 5-digit numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v6",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Place Value Practice | All Forms of 5-Digit Numbers",
+      "description": "Practice writing 5-digit numbers in standard form, expanded form, and word form. Strengthen your understanding of place value with plenty of examples and exercises.",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 550000,
+      "tags": ["practice", "all forms", "5-digit", "number forms"],
+      "learningObjectives": ["Practice number forms to support comparison skills", "Strengthen understanding of digit values for accurate comparison"],
+      "keyConceptsCovered": ["All forms of 5-digit numbers", "Connecting place value understanding to comparison"],
+      "prerequisites": ["Reading and writing large numbers"],
+      "followUpTopics": ["Estimation of numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn4_v4", "gr4_mn4_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 750,
+      "estimatedTimeDisplay": "12:30",
+      "rationale": "Comparing and place value review for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn4_v4", "gr4_mn4_v1", "prereq_ch4_comparison_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1080,
+      "estimatedTimeDisplay": "18:00",
+      "rationale": "Complete comparison coverage with 3-digit review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch4_comparison_v1", "gr4_mn4_v1", "gr4_mn4_v4", "gr4_mn4_v6"],
+      "totalVideos": 4,
+      "estimatedTime": 1500,
+      "estimatedTimeDisplay": "25:00",
+      "rationale": "Start with 3-digit comparison review, build up to 5-digit"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn4_v4", "gr4_mn4_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 750,
+      "estimatedTimeDisplay": "12:30",
+      "rationale": "Essential comparing and ordering concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn4_v4",
+      "checkpointName": "Comparing Numbers Check",
+      "questions": [
+        {
+          "question": "Arrange in descending order: 45,230 ; 54,320 ; 43,520",
+          "options": ["43,520 ; 45,230 ; 54,320", "54,320 ; 45,230 ; 43,520", "54,320 ; 43,520 ; 45,230", "45,230 ; 54,320 ; 43,520"],
+          "correctAnswer": 1,
+          "explanation": "Descending means largest to smallest. 54,320 is the largest (5 ten thousands), then 45,230 (4 ten thousands, 5 thousands), then 43,520 (4 ten thousands, 3 thousands)."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use a place value comparison chart. Write two numbers in columns and compare digit by digit from the left. Have students use > and < symbols and explain their reasoning.",
+    "parentGuidance": "Compare prices, distances, or populations with your child. Ask 'Which city has more people?' or 'Which item costs more?' and discuss how to compare the numbers.",
+    "studentGuidance": "When comparing big numbers, always start from the left! Check the biggest place value first. If those digits are the same, move to the next place."
+  }
+}

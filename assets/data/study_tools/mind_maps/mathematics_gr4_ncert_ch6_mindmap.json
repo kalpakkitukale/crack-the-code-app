@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_math_ncert_ch6",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Measuring Length",
+      "description": "Understanding units of length, conversions, estimation, and word problems",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_units",
+      "label": "Units of Length",
+      "description": "cm, m, and km — choosing the right unit for the right measurement",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_cm",
+      "label": "Centimetre (cm)",
+      "description": "For small objects: pencil, eraser, book",
+      "parentId": "node_units",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_m",
+      "label": "Metre (m)",
+      "description": "For medium lengths: room, tree, height of a person",
+      "parentId": "node_units",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_km",
+      "label": "Kilometre (km)",
+      "description": "For long distances: between cities, roads, journeys",
+      "parentId": "node_units",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_conversion",
+      "label": "Converting Units",
+      "description": "Changing between cm, m, and km using multiplication and division",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_m_to_cm",
+      "label": "m to cm",
+      "description": "Multiply by 100: 1 m = 100 cm",
+      "parentId": "node_conversion",
+      "positionX": -60,
+      "positionY": 200,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_km_to_m",
+      "label": "km to m",
+      "description": "Multiply by 1000: 1 km = 1000 m",
+      "parentId": "node_conversion",
+      "positionX": 60,
+      "positionY": 200,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_estimation",
+      "label": "Estimating Length",
+      "description": "Making a good guess using body parts and known objects",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_body_measures",
+      "label": "Body Measurements",
+      "description": "Hand span (~15 cm), arm length (~50 cm), step (~60 cm)",
+      "parentId": "node_estimation",
+      "positionX": 160,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_tools",
+      "label": "Measuring Tools",
+      "description": "Ruler, measuring tape, metre stick, odometer",
+      "parentId": "node_root",
+      "positionX": -100,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_word_problems",
+      "label": "Word Problems",
+      "description": "Adding, subtracting, and comparing lengths in real-life situations",
+      "parentId": "node_root",
+      "positionX": 100,
+      "positionY": 300,
+      "color": "#00BCD4",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_addition",
+      "label": "Adding Lengths",
+      "description": "Convert to same unit, then add: 2 m 30 cm + 1 m 50 cm = 3 m 80 cm",
+      "parentId": "node_word_problems",
+      "positionX": 50,
+      "positionY": 380,
+      "color": "#00ACC1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_subtraction",
+      "label": "Subtracting Lengths",
+      "description": "Convert to same unit, then subtract: 5 m 40 cm - 2 m 60 cm = 2 m 80 cm",
+      "parentId": "node_word_problems",
+      "positionX": 160,
+      "positionY": 380,
+      "color": "#00ACC1",
+      "orderIndex": 13
+    }
+  ]
+}

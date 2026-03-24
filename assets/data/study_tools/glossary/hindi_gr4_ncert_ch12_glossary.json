@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch12",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn12_001",
+      "term": "पहिया कुर्सी (Pahiya Kursi)",
+      "definition": "A wheelchair - a special chair with wheels that helps people who cannot walk to move around. The word 'pahiya' means wheel and 'kursi' means chair. Sunita uses a pahiya kursi because she cannot walk on her own.",
+      "pronunciation": "pa-HI-yaa KUR-see",
+      "exampleUsage": "सुनीता अपनी पहिया कुर्सी से स्कूल जाती है। (Sunita goes to school in her wheelchair.)",
+      "difficulty": "easy",
+      "relatedTerms": ["विकलांगता", "सहायक उपकरण", "पहिया"]
+    },
+    {
+      "id": "gls_gr4_hn12_002",
+      "term": "विकलांगता (Viklangata)",
+      "definition": "Disability - a condition where a part of the body does not work as expected. It can affect walking, seeing, hearing, or other abilities. Having a disability does not mean a person cannot do great things, as Sunita's story shows.",
+      "pronunciation": "vi-KLAAN-ga-taa",
+      "exampleUsage": "विकलांगता कोई कमज़ोरी नहीं है। (Disability is not a weakness.)",
+      "difficulty": "medium",
+      "relatedTerms": ["अक्षमता", "शारीरिक", "दिव्यांग"]
+    },
+    {
+      "id": "gls_gr4_hn12_003",
+      "term": "हिम्मत (Himmat)",
+      "definition": "Courage or bravery - the quality of being able to face difficult or scary situations without giving up. Sunita shows great himmat by living her life fully despite not being able to walk.",
+      "pronunciation": "HIM-mat",
+      "exampleUsage": "सुनीता ने बहुत हिम्मत दिखाई। (Sunita showed great courage.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बहादुरी", "साहस", "वीरता"]
+    },
+    {
+      "id": "gls_gr4_hn12_004",
+      "term": "आत्मविश्वास (Aatmvishvas)",
+      "definition": "Self-confidence - believing in yourself and your abilities. 'Aatm' means self and 'vishvas' means trust or belief. Sunita has strong aatmvishvas which helps her overcome challenges every day.",
+      "pronunciation": "AAT-ma-VISH-vaas",
+      "exampleUsage": "आत्मविश्वास से हर मुश्किल आसान हो जाती है। (With self-confidence, every difficulty becomes easy.)",
+      "difficulty": "medium",
+      "relatedTerms": ["विश्वास", "हिम्मत", "साहस"]
+    },
+    {
+      "id": "gls_gr4_hn12_005",
+      "term": "सहानुभूति (Sahanubhuti)",
+      "definition": "Empathy or sympathy - the ability to understand and share the feelings of another person. It is different from pity. The story teaches us to show sahanubhuti, not tars (pity), towards people with disabilities.",
+      "pronunciation": "sa-HAA-nu-BHOO-ti",
+      "exampleUsage": "हमें दूसरों के प्रति सहानुभूति रखनी चाहिए। (We should have empathy towards others.)",
+      "difficulty": "medium",
+      "relatedTerms": ["दया", "करुणा", "समझ"]
+    },
+    {
+      "id": "gls_gr4_hn12_006",
+      "term": "दिव्यांग (Divyang)",
+      "definition": "A respectful Hindi word for a differently-abled person. 'Divy' means divine and 'ang' means body part. This word is used instead of 'viklang' (disabled) to show respect. It means a person with divine or special body parts.",
+      "pronunciation": "DIV-yaang",
+      "exampleUsage": "दिव्यांग व्यक्ति भी बड़े-बड़े काम कर सकते हैं। (Differently-abled people can also do great things.)",
+      "difficulty": "medium",
+      "relatedTerms": ["विकलांग", "विशेष", "सम्मान"]
+    },
+    {
+      "id": "gls_gr4_hn12_007",
+      "term": "संघर्ष (Sangharsh)",
+      "definition": "Struggle or fight - the effort needed to overcome difficulties. Sunita's life is a sangharsh against her physical limitations, but she faces it bravely every day. Sangharsh makes a person stronger.",
+      "pronunciation": "SAN-gharsh",
+      "exampleUsage": "सुनीता का संघर्ष हम सबके लिए प्रेरणा है। (Sunita's struggle is an inspiration for all of us.)",
+      "difficulty": "medium",
+      "relatedTerms": ["कठिनाई", "मेहनत", "प्रयास"]
+    },
+    {
+      "id": "gls_gr4_hn12_008",
+      "term": "प्रेरणा (Prerana)",
+      "definition": "Inspiration - something or someone that gives you the idea or motivation to do something good. Sunita is a prerana (inspiration) for all children because she never gives up despite facing challenges.",
+      "pronunciation": "PRER-naa",
+      "exampleUsage": "सुनीता की कहानी बहुत प्रेरणादायक है। (Sunita's story is very inspiring.)",
+      "difficulty": "medium",
+      "relatedTerms": ["उत्साह", "हिम्मत", "प्रोत्साहन"]
+    },
+    {
+      "id": "gls_gr4_hn12_009",
+      "term": "समानता (Samanta)",
+      "definition": "Equality - treating everyone the same way regardless of their physical abilities, appearance, or background. The story teaches us that all people deserve samanta and respect, whether or not they have a disability.",
+      "pronunciation": "sa-MAAN-taa",
+      "exampleUsage": "हर इंसान को समानता का अधिकार है। (Every person has the right to equality.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बराबरी", "न्याय", "अधिकार"]
+    },
+    {
+      "id": "gls_gr4_hn12_010",
+      "term": "सम्मान (Samman)",
+      "definition": "Respect or honour - treating someone with dignity and valuing them. We should give samman to every person, including those with disabilities. Feeling sorry for someone is not the same as respecting them.",
+      "pronunciation": "SAM-maan",
+      "exampleUsage": "हमें सबका सम्मान करना चाहिए। (We should respect everyone.)",
+      "difficulty": "easy",
+      "relatedTerms": ["आदर", "इज्ज़त", "गौरव"]
+    }
+  ]
+}

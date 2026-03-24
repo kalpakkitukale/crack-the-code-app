@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_eng_ch1",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_e1_v1",
+      "videoId": "gr4_e1_v1",
+      "content": "This video introduces nouns as naming words. Everything around us has a name, and that name is called a noun. Nouns can name people (girl, teacher), places (school, park), animals (dog, parrot), and things (pen, chair). Students learn to spot nouns in sentences by asking 'What is the name of this person, place, or thing?'",
+      "keyPoints": [
+        "A noun is a naming word",
+        "Nouns name people, places, animals, and things",
+        "Every sentence has at least one noun",
+        "You can find nouns by asking who or what the sentence is about"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e1_v2",
+      "videoId": "gr4_e1_v2",
+      "content": "This video explains the difference between common nouns and proper nouns. Common nouns are general names like boy, city, and river. Proper nouns are special names for particular people, places, or things and always start with a capital letter, like Aman, Delhi, and Ganga. Students also learn about collective nouns (group names) and abstract nouns (feelings and ideas).",
+      "keyPoints": [
+        "Common nouns are general names and do not start with a capital letter",
+        "Proper nouns are special names and always begin with a capital letter",
+        "Collective nouns name groups like a flock, a team, a bunch",
+        "Abstract nouns name feelings and ideas like love, honesty, courage"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e1_v3",
+      "videoId": "gr4_e1_v3",
+      "content": "This video teaches pronouns and why we use them. A pronoun takes the place of a noun so we do not repeat the same word. For example, instead of saying 'Priya went to the shop. Priya bought milk,' we say 'Priya went to the shop. She bought milk.' Common pronouns include I, you, he, she, it, we, and they.",
+      "keyPoints": [
+        "A pronoun is a word used in place of a noun",
+        "Pronouns help us avoid repeating nouns",
+        "Common pronouns: I, you, he, she, it, we, they",
+        "The pronoun must match the noun it replaces"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e1_v4",
+      "videoId": "gr4_e1_v4",
+      "content": "This video covers subject and object pronouns and how to use them correctly. Subject pronouns (I, he, she, we, they) do the action in a sentence. Object pronouns (me, him, her, us, them) receive the action. For example: 'She called him.' Here 'She' is the subject pronoun and 'him' is the object pronoun.",
+      "keyPoints": [
+        "Subject pronouns do the action: I, you, he, she, it, we, they",
+        "Object pronouns receive the action: me, you, him, her, it, us, them",
+        "Choose the right pronoun based on its role in the sentence",
+        "Practice replacing nouns with pronouns in your own sentences"
+      ],
+      "source": "manual"
+    }
+  ]
+}

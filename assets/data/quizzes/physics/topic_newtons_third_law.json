@@ -1,0 +1,297 @@
+{
+  "quiz": {
+    "id": "quiz_topic_newtons_third_law",
+    "level": "topic",
+    "entityId": "topic_newtons_third_law",
+    "title": "Newton's Third Law Quiz",
+    "questionIds": [
+      "q_ntl_001",
+      "q_ntl_002",
+      "q_ntl_003",
+      "q_ntl_004",
+      "q_ntl_005",
+      "q_ntl_006",
+      "q_ntl_007",
+      "q_ntl_008",
+      "q_ntl_009",
+      "q_ntl_010"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_ntl_001",
+      "questionText": "What does Newton's Third Law state?",
+      "questionType": "mcq",
+      "options": [
+        "For every action, there is an equal and opposite reaction",
+        "An object at rest stays at rest unless acted upon by force",
+        "Force equals mass times acceleration",
+        "Energy cannot be created or destroyed"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Newton's Third Law states that for every action force, there is an equal and opposite reaction force. These forces always occur in pairs and act on different objects.",
+      "hints": [
+        "Think about what happens when you push against a wall",
+        "The law involves pairs of forces acting in opposite directions"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Newton's Third Law",
+        "Action-Reaction Pairs"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_002",
+      "questionText": "When you push against a wall, what pushes back on you?",
+      "questionType": "mcq",
+      "options": [
+        "Nothing pushes back",
+        "The wall pushes back with equal force",
+        "Gravity pushes back",
+        "Air pressure pushes back"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to Newton's Third Law, when you exert a force on the wall (action), the wall exerts an equal and opposite force on you (reaction). This is why you feel resistance when pushing against a wall.",
+      "hints": [
+        "Consider Newton's Third Law of motion",
+        "The reaction force comes from the object being pushed"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Contact Forces"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_003",
+      "questionText": "Which statement correctly describes action-reaction force pairs?",
+      "questionType": "mcq",
+      "options": [
+        "They act on the same object",
+        "They act on different objects",
+        "They cancel each other out",
+        "They only occur in collisions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Action-reaction pairs always act on different objects. This is a crucial aspect of Newton's Third Law. Because they act on different objects, they do not cancel each other out.",
+      "hints": [
+        "Think about which objects experience the forces",
+        "If they acted on the same object, nothing could ever move"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Force Pairs"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_004",
+      "questionText": "A book rests on a table. The book pushes down on the table with a force of 10 N. What is the magnitude of the force the table exerts on the book?",
+      "questionType": "mcq",
+      "options": [
+        "5 N",
+        "10 N",
+        "20 N",
+        "0 N"
+      ],
+      "correctAnswer": "B",
+      "explanation": "By Newton's Third Law, the table exerts an equal and opposite force on the book. If the book pushes down with 10 N, the table pushes up with exactly 10 N. These are action-reaction pairs.",
+      "hints": [
+        "Action and reaction forces are equal in magnitude",
+        "The table must push back with the same force"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Normal Force"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_005",
+      "questionText": "When a rocket expels gas downward, what happens to the rocket?",
+      "questionType": "mcq",
+      "options": [
+        "The rocket moves downward",
+        "The rocket moves upward",
+        "The rocket remains stationary",
+        "The rocket moves sideways"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When the rocket pushes gas downward (action), the gas pushes the rocket upward (reaction) according to Newton's Third Law. This is the principle behind rocket propulsion.",
+      "hints": [
+        "Consider the direction of the reaction force",
+        "Think about Newton's Third Law and opposite directions"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Rocket Propulsion",
+        "Action-Reaction Pairs"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_006",
+      "questionText": "A person jumps off a boat onto a dock. What happens to the boat?",
+      "questionType": "mcq",
+      "options": [
+        "The boat moves toward the dock",
+        "The boat moves away from the dock",
+        "The boat remains stationary",
+        "The boat sinks"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When the person pushes against the boat to jump forward (action), the boat experiences an equal and opposite force pushing it backward (reaction). This causes the boat to move away from the dock.",
+      "hints": [
+        "The person pushes on the boat to jump forward",
+        "Newton's Third Law applies here"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Momentum"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_007",
+      "questionText": "A swimmer pushes water backward with a force of 50 N. What is the force exerted by the water on the swimmer?",
+      "questionType": "mcq",
+      "options": [
+        "25 N forward",
+        "50 N backward",
+        "50 N forward",
+        "100 N forward"
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to Newton's Third Law, when the swimmer pushes water backward with 50 N (action), the water pushes the swimmer forward with 50 N (reaction). The forces are equal in magnitude but opposite in direction.",
+      "hints": [
+        "Action and reaction forces are equal in magnitude",
+        "The reaction force acts in the opposite direction to the action"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Swimming Mechanics"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_008",
+      "questionText": "Two ice skaters push off each other. Skater A (60 kg) and Skater B (40 kg) initially at rest push each other. If they experience equal forces, which statement is correct?",
+      "questionType": "mcq",
+      "options": [
+        "Both skaters move with the same speed",
+        "Skater A moves faster than Skater B",
+        "Skater B moves faster than Skater A",
+        "Neither skater moves"
+      ],
+      "correctAnswer": "C",
+      "explanation": "By Newton's Third Law, both skaters experience equal and opposite forces. However, by F = ma, the lighter Skater B (40 kg) will experience greater acceleration and thus move faster than the heavier Skater A (60 kg).",
+      "hints": [
+        "Equal forces on different masses produce different accelerations",
+        "Use F = ma to compare accelerations"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Newton's Second Law",
+        "Acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_ntl_009",
+      "questionText": "A car (1000 kg) collides head-on with a truck (3000 kg). During the collision, which statement is true?",
+      "questionType": "mcq",
+      "options": [
+        "The truck exerts more force on the car than the car exerts on the truck",
+        "The car exerts more force on the truck than the truck exerts on the car",
+        "Both vehicles exert equal forces on each other",
+        "No forces are exerted during the collision"
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to Newton's Third Law, during the collision, the car and truck exert equal and opposite forces on each other, regardless of their masses. However, the lighter car will experience greater acceleration (and thus greater damage) due to F = ma.",
+      "hints": [
+        "Newton's Third Law applies regardless of mass differences",
+        "Action-reaction pairs are always equal in magnitude"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "Collisions",
+        "Force Analysis"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_ntl_010",
+      "questionText": "A horse pulls a cart forward with force F. The cart pulls the horse backward with force F. If the forces are equal and opposite, why does the system move forward?",
+      "questionType": "mcq",
+      "options": [
+        "The forces don't actually cancel because they act on different objects",
+        "The horse is stronger than the cart",
+        "Friction helps the horse more than the cart",
+        "The forces are not really equal"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The key insight is that action-reaction pairs act on different objects. The horse pulls the cart forward, and the cart pulls the horse backward - these act on different objects and don't cancel. The system moves because the horse pushes backward on the ground, and the ground pushes the horse forward (another action-reaction pair). The net external force from the ground moves the system forward.",
+      "hints": [
+        "Consider what forces act on the horse-cart system as a whole",
+        "Think about the interaction between the horse's feet and the ground"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Action-Reaction Pairs",
+        "System Analysis",
+        "Net Force"
+      ],
+      "topicIds": [
+        "topic_newtons_third_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

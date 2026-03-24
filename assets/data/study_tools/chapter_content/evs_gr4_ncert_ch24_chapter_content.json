@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch24",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn24",
+    "title": "Home and Abroad",
+    "content": "This chapter from the NCERT Looking Around textbook explores why many Indians leave their homes and families to work in other countries. Students learn about the reasons for migration, including the search for better jobs and higher wages to support their families back home. The chapter discusses popular destinations like Gulf countries (UAE, Saudi Arabia, Kuwait) and the types of work Indians do abroad. Students develop empathy by understanding the challenges workers face - homesickness, language barriers, and separation from family. They also learn how families stay connected through technology and how remittances sent by workers contribute to their families' wellbeing and India's economy. The chapter introduces travel documents like passports and visas, and the difference between internal and international migration.",
+    "keyPoints": [
+      "Many Indians go abroad for better job opportunities and higher wages",
+      "Gulf countries like UAE, Saudi Arabia, and Kuwait are popular destinations",
+      "Workers face challenges like homesickness, language barriers, and long working hours",
+      "Remittances are the money workers send back to their families in India",
+      "A passport and visa are needed to travel and work in another country",
+      "Technology like video calls helps families stay connected across countries"
+    ],
+    "learningObjectives": [
+      "Explain why people migrate to other countries for work",
+      "Identify the challenges faced by workers living abroad",
+      "Understand how families cope when a member works in another country",
+      "Know what a passport and visa are and why they are needed",
+      "Describe the difference between internal migration and international migration"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn24_001",
+      "title": "Interview Activity",
+      "content": "Do you know anyone whose family member works abroad - a relative, neighbour, or friend's parent? With permission, ask them these questions: (1) Where does the person work? (2) What work do they do? (3) How often do they come home? (4) How does the family stay in touch? Write down what you learn and share with your class. This helps you understand real stories of migration.",
+      "tags": ["activity", "interview"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn24_002",
+      "title": "Currency Comparison Activity",
+      "content": "Find out the currencies of these countries where many Indians work: UAE (Dirham), Saudi Arabia (Riyal), USA (Dollar), UK (Pound), Kuwait (Dinar). With a parent's help, check how much each is worth in Indian Rupees. You will see that earning in these currencies and sending money home in Rupees can be very helpful for families. Make a chart with the country name and currency.",
+      "tags": ["activity", "research"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn24_003",
+      "title": "Exam Tip: Migration Types",
+      "content": "Remember the two types of migration for exams: Internal migration is when people move within India (village to city, like going from Bihar to Mumbai). International migration is when people go to another country (like going to Dubai or USA). Internal migration does not need a passport. International migration needs both passport and visa. Always give examples when answering exam questions about migration!",
+      "tags": ["study-tip", "exam-preparation"],
+      "isPinned": false
+    }
+  ]
+}

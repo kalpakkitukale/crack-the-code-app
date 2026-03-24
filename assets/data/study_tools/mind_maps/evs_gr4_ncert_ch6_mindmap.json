@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch6",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Omana's Journey",
+      "description": "A journey through the backwaters of Kerala",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_backwaters",
+      "label": "Kerala Backwaters",
+      "description": "Network of lakes, canals, and rivers along the coast",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_lagoon",
+      "label": "Lagoons",
+      "description": "Shallow water bodies separated from the sea",
+      "parentId": "node_backwaters",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_canals",
+      "label": "Canals",
+      "description": "Narrow waterways connecting lakes and rivers",
+      "parentId": "node_backwaters",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_saltfresh",
+      "label": "Fresh & Salt Water",
+      "description": "Backwaters mix freshwater and seawater",
+      "parentId": "node_backwaters",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_transport",
+      "label": "Travel by Boat",
+      "description": "How people move around the backwaters",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_houseboat",
+      "label": "Houseboats",
+      "description": "Kettuvallam - boats you can live in",
+      "parentId": "node_transport",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_canoe",
+      "label": "Canoes",
+      "description": "Small boats paddled through narrow canals",
+      "parentId": "node_transport",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_nature",
+      "label": "Nature Around",
+      "description": "Plants and animals near the backwaters",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_coconut",
+      "label": "Coconut Trees",
+      "description": "Tall palms with many uses - oil, coir, food",
+      "parentId": "node_nature",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_paddy",
+      "label": "Paddy Fields",
+      "description": "Rice fields along the backwaters",
+      "parentId": "node_nature",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_livelihood",
+      "label": "Livelihood",
+      "description": "How people earn a living near backwaters",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_fishing",
+      "label": "Fishing",
+      "description": "Catching fish like karimeen from the water",
+      "parentId": "node_livelihood",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_coir",
+      "label": "Coir Making",
+      "description": "Making ropes and mats from coconut husk fibre",
+      "parentId": "node_livelihood",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

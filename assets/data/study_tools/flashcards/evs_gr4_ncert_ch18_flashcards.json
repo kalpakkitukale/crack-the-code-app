@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_evs_ncert_ch18",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_floods",
+      "name": "Floods - Too Much Water",
+      "description": "Learn about what floods are and how they affect people",
+      "topicId": "gr4_evn_18_1",
+      "chapterId": "gr4_evs_ncert_ch18",
+      "cards": [
+        {
+          "id": "fc_fl_001",
+          "front": "What is a flood?",
+          "back": "A flood happens when water overflows from rivers, lakes, or the sea and covers land that is usually dry. Heavy rain is the most common cause of floods in India.",
+          "hint": "Too much water on land",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_fl_002",
+          "front": "What causes floods?",
+          "back": "Floods are caused by very heavy rainfall, overflowing rivers, blocked drains, melting of glaciers, and sometimes by cyclones bringing huge waves from the sea. Cutting down trees also makes floods worse.",
+          "hint": "Think about too much rain",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_fl_003",
+          "front": "How do floods affect people's lives?",
+          "back": "Floods damage homes, crops, and roads. People have to leave their houses and move to safer places. Schools close, drinking water gets dirty, and diseases can spread. Animals and their shelters are also affected.",
+          "hint": "Think about what happens when water enters a house",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_fl_004",
+          "front": "Which parts of India face floods regularly?",
+          "back": "Assam, Bihar, West Bengal, and Kerala face floods almost every year during the monsoon. River areas like along the Ganga, Brahmaputra, and Godavari are often flooded. Mumbai also faces flooding during heavy rains.",
+          "hint": "Think about eastern and northeastern India",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_fl_005",
+          "front": "How can we help people during floods?",
+          "back": "We can donate food, clean clothes, and drinking water. Rescue teams use boats to save people stuck in flooded areas. The army, NDRF (National Disaster Response Force), and volunteers help people reach safe shelters.",
+          "hint": "Think about rescue and sharing",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_droughts",
+      "name": "Droughts - Too Little Water",
+      "description": "Learn about what droughts are and their effects",
+      "topicId": "gr4_evn_18_2",
+      "chapterId": "gr4_evs_ncert_ch18",
+      "cards": [
+        {
+          "id": "fc_dr_001",
+          "front": "What is a drought?",
+          "back": "A drought happens when an area does not get enough rain for a long time. Rivers, ponds, and wells dry up, and there is very little water for drinking, farming, and animals.",
+          "hint": "The opposite of a flood",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_dr_002",
+          "front": "How do droughts affect farmers?",
+          "back": "Without rain, crops cannot grow and they dry up in the fields. Farmers lose their harvest and income. Animals do not get enough water or food to eat. Farmers sometimes have to walk long distances to find water.",
+          "hint": "Think about crops without water",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_dr_003",
+          "front": "Which parts of India often face drought?",
+          "back": "Parts of Rajasthan, Gujarat, Maharashtra, Karnataka, and Telangana often face drought. These areas have less rainfall and dry weather. The Thar Desert in Rajasthan is one of the driest regions in India.",
+          "hint": "Think about western and central India",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_dr_004",
+          "front": "What do people do when there is a drought?",
+          "back": "During drought, people walk long distances to fetch water, store rainwater, share water carefully, and sometimes have to move to places where water is available. The government sends water tankers to drought-hit areas.",
+          "hint": "They have to find and save water",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_dr_005",
+          "front": "Why is it unfair that some places have floods while others have drought?",
+          "back": "India is a large country and rain does not fall equally everywhere. Some areas get too much rain (floods) while others get too little (drought) at the same time. This shows why sharing water and building canals to carry water to dry areas is important.",
+          "hint": "Rain is not equal in all places",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_water_conservation",
+      "name": "Water Conservation",
+      "description": "Ways to save and manage water wisely",
+      "topicId": "gr4_evn_18_3",
+      "chapterId": "gr4_evs_ncert_ch18",
+      "cards": [
+        {
+          "id": "fc_wc_001",
+          "front": "What is water conservation?",
+          "back": "Water conservation means using water carefully and not wasting it. It includes saving water at home, collecting rainwater, and protecting rivers and ponds from pollution.",
+          "hint": "Saving water for the future",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_wc_002",
+          "front": "What is rainwater harvesting?",
+          "back": "Rainwater harvesting is collecting and storing rainwater that falls on rooftops and the ground. This water can be used later for drinking, washing, or watering plants. Many houses in Rajasthan have tanks to store rainwater.",
+          "hint": "Collecting rain for later use",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_wc_003",
+          "front": "Name five ways to save water at home.",
+          "back": "1. Turn off the tap while brushing teeth. 2. Take shorter baths. 3. Fix leaking taps. 4. Use a bucket instead of a hose to wash cars. 5. Water plants in the evening when it is cooler so less water evaporates.",
+          "hint": "Think about your daily water use",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_wc_004",
+          "front": "What is a step well (baoli)?",
+          "back": "A step well or baoli is an old Indian way of storing water. It is a well with stairs going down to the water level so people can walk down and collect water. Famous step wells include Chand Baori in Rajasthan and Adalaj Vav in Gujarat.",
+          "hint": "An ancient water structure with steps",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_wc_005",
+          "front": "Why should we not waste water?",
+          "back": "Only a very small amount of Earth's water is fresh and drinkable. Most water is salty sea water. If we waste water, there may not be enough for everyone to drink, farm, and stay clean. Saving water today helps ensure there is enough for tomorrow.",
+          "hint": "Very little of Earth's water can be drunk",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

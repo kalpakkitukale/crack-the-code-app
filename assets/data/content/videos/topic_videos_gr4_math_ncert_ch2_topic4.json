@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn2_t4",
+  "topicId": "gr4_mn_2_4",
+  "topicName": "Spatial Reasoning Puzzles",
+  "chapterId": "gr4_math_ncert_ch2",
+  "chapterName": "Hide and Seek",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1380,
+    "totalDurationDisplay": "23:00",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "30-35 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_2_1", "gr4_mn_2_2", "gr4_mn_2_3"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn2_v5",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Spatial Reasoning Puzzles | Think and Solve Fun Challenges",
+      "description": "Solve fun spatial reasoning puzzles! Figure out what shapes look like when rotated, how objects fit together, and build your brain power.",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+      "tags": ["spatial reasoning", "puzzles", "brain teaser", "problem solving"],
+      "learningObjectives": ["Develop spatial thinking skills", "Solve visual puzzles", "Think about objects from different perspectives"],
+      "keyConceptsCovered": ["Mental rotation of shapes", "Fitting shapes together", "Predicting views"],
+      "prerequisites": ["Views of objects", "Grid positions", "Map reading"],
+      "followUpTopics": ["Advanced geometry"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t4_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "What Does It Look Like? | Perspective Puzzles for Kids",
+      "description": "Can you figure out what an object looks like from different sides? Try these fun perspective puzzles and train your brain to think in 3D!",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["perspective puzzles", "3D thinking", "brain training", "views"],
+      "learningObjectives": ["Predict what objects look like from different angles", "Match views to objects"],
+      "keyConceptsCovered": ["Perspective taking", "Mental visualization", "Matching 2D views to 3D objects"],
+      "prerequisites": ["Top, side, front views"],
+      "followUpTopics": ["Block counting puzzles"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t4_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Block Counting Puzzles | How Many Blocks Are Hidden?",
+      "description": "Look at a stack of blocks and figure out how many blocks are used, including the hidden ones you cannot see! A great brain workout.",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 620000,
+      "tags": ["block counting", "hidden blocks", "3D puzzles", "spatial reasoning"],
+      "learningObjectives": ["Count blocks in 3D arrangements", "Identify hidden blocks"],
+      "keyConceptsCovered": ["Hidden blocks behind or under visible blocks", "3D visualization from 2D images"],
+      "prerequisites": ["Views of 3D shapes"],
+      "followUpTopics": ["Path finding puzzles"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t4_v4",
+      "sequenceNumber": 4,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Path Finding Puzzles | Navigate the Maze on a Grid",
+      "description": "Find the shortest path through a maze on a grid! Use your spatial skills and grid knowledge to navigate from start to finish.",
+      "youtubeId": "N4nrdf0yYfM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=N4nrdf0yYfM",
+      "thumbnailUrl": "https://img.youtube.com/vi/N4nrdf0yYfM/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["maze", "path finding", "grid navigation", "challenge"],
+      "learningObjectives": ["Navigate mazes using spatial reasoning", "Apply grid and direction skills"],
+      "keyConceptsCovered": ["Finding paths on grids", "Using directions to navigate", "Shortest route planning"],
+      "prerequisites": ["Grid positions", "Following directions"],
+      "followUpTopics": ["Advanced spatial puzzles"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn2_v5", "gr4_mn2_t4_v2", "gr4_mn2_t4_v3", "gr4_mn2_t4_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1380,
+      "estimatedTimeDisplay": "23:00",
+      "rationale": "Full puzzle set including challenge maze"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn2_v5", "gr4_mn2_t4_v2", "gr4_mn2_t4_v3", "gr4_mn2_t4_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1380,
+      "estimatedTimeDisplay": "23:00",
+      "rationale": "Complete spatial reasoning puzzles"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn2_v5", "gr4_mn2_t4_v2", "gr4_mn2_t4_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1110,
+      "estimatedTimeDisplay": "18:30",
+      "rationale": "Core spatial puzzles without advanced maze"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn2_v5", "gr4_mn2_t4_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 810,
+      "estimatedTimeDisplay": "13:30",
+      "rationale": "Basic spatial puzzles only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn2_t4_v2",
+      "checkpointName": "Spatial Reasoning Check",
+      "questions": [
+        {
+          "question": "If you build a tower with 3 blocks on the bottom, 2 on the middle layer, and 1 on top, how many blocks total?",
+          "options": ["3 blocks", "5 blocks", "6 blocks", "7 blocks"],
+          "correctAnswer": 2,
+          "explanation": "3 + 2 + 1 = 6 blocks total. Even though some blocks are hidden behind others, they are still there!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use building blocks and tangram puzzles in class. Let students build 3D structures and draw them from different views. Videos 1-2 are essential.",
+    "parentGuidance": "Play with building blocks at home. Ask your child to count hidden blocks and predict what a structure looks like from different angles.",
+    "studentGuidance": "These puzzles are like detective games for your brain! Look carefully, think about what you cannot see, and use what you know about views and positions."
+  }
+}

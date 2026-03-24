@@ -1,0 +1,324 @@
+{
+  "playlistId": "gr4_m1_t4_main",
+  "topicId": "gr4_m_1_4",
+  "topicName": "Forming Numbers (largest/smallest)",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 6,
+    "totalDuration": 2190,
+    "totalDurationDisplay": "36:30",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_1_1", "gr4_m_1_3"],
+    "followUpTopics": ["gr4_m_1_5"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_form_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Forming the Largest Number | Strategy",
+      "description": "Learn how to form the largest possible number from given digits",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 780000,
+      "tags": ["forming numbers", "largest", "strategy", "digit arrangement"],
+      "learningObjectives": [
+        "Understand the strategy for forming largest numbers",
+        "Arrange digits in descending order",
+        "Place largest digit in highest place value",
+        "Practice with 4-5 digit examples"
+      ],
+      "keyConceptsCovered": [
+        "Strategy: Arrange digits from largest to smallest",
+        "Example: Given 5, 3, 8, 2 → Form 8,532",
+        "Leftmost position gets the largest digit",
+        "Continue with remaining digits in descending order"
+      ],
+      "prerequisites": ["Place value", "Comparing digits"],
+      "followUpTopics": ["Forming smallest numbers"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_form_v2",
+      "sequenceNumber": 2,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Forming the Smallest Number | Strategy",
+      "description": "Learn how to form the smallest possible number from given digits",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 720000,
+      "tags": ["forming numbers", "smallest", "strategy", "digit arrangement"],
+      "learningObjectives": [
+        "Understand strategy for forming smallest numbers",
+        "Arrange digits in ascending order",
+        "Place smallest non-zero digit in highest place",
+        "Handle zeros correctly"
+      ],
+      "keyConceptsCovered": [
+        "Strategy: Arrange digits from smallest to largest",
+        "Example: Given 5, 3, 8, 2 → Form 2,358",
+        "IMPORTANT: First digit cannot be zero",
+        "If 0 is present: Put smallest non-zero first, then 0"
+      ],
+      "prerequisites": ["Place value", "Forming largest numbers"],
+      "followUpTopics": ["Handling zeros in smallest numbers"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_form_v3",
+      "sequenceNumber": 3,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Forming Numbers with Zeros | Special Cases",
+      "description": "Learn how to handle zeros when forming largest and smallest numbers",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 650000,
+      "tags": ["forming numbers", "zeros", "special cases", "tricky"],
+      "learningObjectives": [
+        "Handle zeros when forming largest numbers",
+        "Handle zeros when forming smallest numbers",
+        "Remember: 0 cannot be first digit",
+        "Practice with multiple examples"
+      ],
+      "keyConceptsCovered": [
+        "Largest with 0: Just arrange all digits descending (0 goes to end)",
+        "Example: 7, 0, 5, 3 → Largest: 7,530",
+        "Smallest with 0: Put smallest non-zero first, then 0, then rest ascending",
+        "Example: 7, 0, 5, 3 → Smallest: 3,057 (NOT 0,357)"
+      ],
+      "prerequisites": ["Forming largest and smallest basics"],
+      "followUpTopics": ["Mixed practice"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_form_v4",
+      "sequenceNumber": 4,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Forming 5-Digit Numbers | Practice",
+      "description": "Practice forming largest and smallest 5-digit numbers",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 690000,
+      "tags": ["forming numbers", "5-digit", "practice", "application"],
+      "learningObjectives": [
+        "Apply strategies to 5-digit numbers",
+        "Form largest 5-digit numbers confidently",
+        "Form smallest 5-digit numbers confidently",
+        "Verify answers"
+      ],
+      "keyConceptsCovered": [
+        "Example: Given 8, 4, 0, 6, 2",
+        "Largest: 86,420 (descending order)",
+        "Smallest: 20,468 (smallest non-zero first, then 0)",
+        "Multiple practice problems with solutions"
+      ],
+      "prerequisites": ["Forming numbers with zeros"],
+      "followUpTopics": ["Complex problems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_form_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Forming Numbers | Mixed Problems and Applications",
+      "description": "Solve various types of number formation problems",
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 640000,
+      "tags": ["forming numbers", "mixed problems", "applications", "practice"],
+      "learningObjectives": [
+        "Solve mixed problem types",
+        "Apply to real-world contexts",
+        "Build speed and accuracy",
+        "Develop problem-solving skills"
+      ],
+      "keyConceptsCovered": [
+        "Problems with specific conditions (e.g., even/odd)",
+        "Word problems involving number formation",
+        "Finding difference between largest and smallest",
+        "Real exam-style questions"
+      ],
+      "prerequisites": ["Forming 5-digit numbers"],
+      "followUpTopics": ["Challenge problems"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_form_v6",
+      "sequenceNumber": 6,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Advanced Number Formation Problems",
+      "description": "Tackle complex number formation challenges",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.7,
+      "viewCount": 420000,
+      "tags": ["challenge", "advanced", "problem solving", "enrichment"],
+      "learningObjectives": [
+        "Solve multi-step formation problems",
+        "Work with additional constraints",
+        "Apply critical thinking",
+        "Enrichment for advanced students"
+      ],
+      "keyConceptsCovered": [
+        "Form numbers with specific digit requirements",
+        "Find numbers closest to a target",
+        "Form numbers divisible by certain numbers",
+        "Complex problem-solving"
+      ],
+      "prerequisites": ["Strong formation skills"],
+      "followUpTopics": ["Advanced number concepts"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_form_v1", "gr4_form_v2", "gr4_form_v3", "gr4_form_v4", "gr4_form_v6"],
+      "totalVideos": 5,
+      "estimatedTime": 1860,
+      "estimatedTimeDisplay": "31:00",
+      "rationale": "Fast-track through formation strategies with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_form_v1", "gr4_form_v2", "gr4_form_v3", "gr4_form_v4", "gr4_form_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1890,
+      "estimatedTimeDisplay": "31:30",
+      "rationale": "Complete coverage with mixed practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_form_v1", "gr4_form_v2", "gr4_form_v3", "gr4_form_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_form_v1", "gr4_form_v2", "gr4_form_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1200,
+      "estimatedTimeDisplay": "20:00",
+      "rationale": "Essential formation strategies only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_form_v2",
+      "checkpointName": "Forming Largest and Smallest Check",
+      "questions": [
+        {
+          "question": "Using digits 7, 3, 9, 1, what is the largest 4-digit number?",
+          "options": ["9,731", "7,391", "1,379", "9,713"],
+          "correctAnswer": 0,
+          "explanation": "Arrange in descending order: 9, 7, 3, 1 → 9,731."
+        },
+        {
+          "question": "Using digits 7, 3, 9, 1, what is the smallest 4-digit number?",
+          "options": ["1,379", "1,397", "1,739", "3,179"],
+          "correctAnswer": 0,
+          "explanation": "Arrange in ascending order: 1, 3, 7, 9 → 1,379."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_form_v3",
+      "checkpointName": "Handling Zeros Check",
+      "questions": [
+        {
+          "question": "Using digits 5, 0, 3, 8, what is the smallest 4-digit number?",
+          "options": ["3,058", "0,358", "3,085", "5,038"],
+          "correctAnswer": 0,
+          "explanation": "Cannot start with 0. Put smallest non-zero (3) first, then 0, then rest ascending → 3,058."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-2 teach strategies for largest and smallest. Video 3 is critical for handling zeros. All are essential.",
+    "parentGuidance": "Help your child practice by giving them random digits and asking them to form largest and smallest numbers. Use playing cards!",
+    "studentGuidance": "Remember: Largest = descending order. Smallest = ascending order (but never start with 0!)."
+  }
+}

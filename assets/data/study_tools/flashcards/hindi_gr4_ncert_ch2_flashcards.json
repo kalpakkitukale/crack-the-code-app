@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch2",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hi2_kahani",
+      "name": "कहानी पाठ (Story Reading)",
+      "description": "Learn about the clever story of wit and humor from Rimjhim Chapter 2",
+      "topicId": "gr4_hi_2_1",
+      "chapterId": "gr4_hin_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_hi2_001",
+          "front": "कहानी 'जैसा सवाल वैसा जवाब' का मुख्य विषय क्या है? (What is the main theme of the story?)",
+          "back": "कहानी का मुख्य विषय है चतुराई और हाज़िरजवाबी (wit and quick thinking)। कहानी बताती है कि अगर कोई चालाकी से सवाल पूछे, तो उसे उतनी ही चतुराई से जवाब देना चाहिए। बुद्धि (intelligence) शक्ति से बड़ी होती है। (The main theme is wit and quick thinking. The story shows that if someone asks a clever question, they should be answered with equal cleverness. Intelligence is greater than strength.)",
+          "hint": "कहानी का शीर्षक ही मुख्य विषय बताता है (The title itself tells the main theme)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi2_002",
+          "front": "कहानी में कौन चतुर पात्र (clever character) है? (Who is the clever character in the story?)",
+          "back": "कहानी में एक चतुर व्यक्ति है जो हर मुश्किल सवाल का जवाब अपनी बुद्धि और हाज़िरजवाबी से देता है। वह दिखाता है कि शांत दिमाग से सोचने पर हर समस्या का हल मिल जाता है। (The story has a clever person who answers every difficult question with intelligence and quick wit. He shows that thinking calmly solves every problem.)",
+          "hint": "कौन है जो हर सवाल का चतुर जवाब देता है? (Who gives a clever answer to every question?)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi2_003",
+          "front": "'जैसा सवाल वैसा जवाब' मुहावरे का क्या अर्थ है? (What does the idiom 'As the question, so the answer' mean?)",
+          "back": "इस मुहावरे का अर्थ है कि जैसा व्यवहार कोई आपके साथ करे, वैसा ही जवाब उसे मिलना चाहिए। अगर कोई बेतुका सवाल पूछे तो उसे भी वैसा ही जवाब मिलेगा। यह 'जैसे को तैसा' जैसा ही है। (It means the response should match the nature of the question. If someone asks a silly question, they get a matching answer. It is similar to 'tit for tat'.)",
+          "hint": "जैसे को तैसा - यह कहावत याद करो (Remember the proverb 'tit for tat')",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi2_004",
+          "front": "कहानी में हास्य (humor) कैसे आता है? (How does humor come in the story?)",
+          "back": "कहानी में हास्य चतुर जवाबों से आता है। जब कोई सोचता है कि उसने बहुत मुश्किल सवाल पूछा है, तो चतुर पात्र उसी तरीके से उलटा जवाब देता है जो सुनने वाले को हँसा देता है। अप्रत्याशित (unexpected) जवाब ही हास्य पैदा करता है। (Humor comes from clever answers. When someone thinks they've asked a very difficult question, the clever character gives an unexpected reverse answer that makes everyone laugh.)",
+          "hint": "जब जवाब अप्रत्याशित होता है तो क्या होता है? (What happens when the answer is unexpected?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi2_005",
+          "front": "कहानी से क्या सीख मिलती है? (What lesson does the story teach?)",
+          "back": "कहानी से कई सीख मिलती हैं: (1) बुद्धि शक्ति से बड़ी है। (2) हाज़िरजवाबी एक अच्छा गुण है। (3) मुश्किल समय में शांत रहकर सोचना चाहिए। (4) हर समस्या का समाधान होता है अगर हम दिमाग लगाएँ। (5) हास्य से माहौल खुशनुमा बनता है। (Lessons: Intelligence beats strength, quick thinking is a good quality, stay calm in difficult times, every problem has a solution, and humor makes the atmosphere pleasant.)",
+          "hint": "बुद्धि और शक्ति में क्या बड़ा है? (What is greater - intelligence or strength?)",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hi2_prashn",
+      "name": "प्रश्न उत्तर (Questions and Answers)",
+      "description": "Practice answering key questions from the story about wit and clever responses",
+      "topicId": "gr4_hi_2_2",
+      "chapterId": "gr4_hin_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_hi2_006",
+          "front": "'हाज़िरजवाबी' का क्या अर्थ है? (What does 'हाज़िरजवाबी' mean?)",
+          "back": "'हाज़िरजवाबी' का अर्थ है तुरंत और सटीक जवाब देने की कला। जब कोई बिना सोचे-समझे, तुरंत सही और चतुर जवाब दे दे, तो उसे हाज़िरजवाब कहते हैं। अंग्रेज़ी में इसे 'quick-witted' या 'ready wit' कहते हैं। (It means the art of giving an instant and accurate answer. Someone who gives a correct and clever answer without hesitation is called quick-witted.)",
+          "hint": "जब कोई बहुत जल्दी सही जवाब दे तो उसे क्या कहते हैं? (What do you call someone who answers correctly very quickly?)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi2_007",
+          "front": "'चतुर' और 'चालाक' में क्या अंतर है? (What is the difference between 'clever' and 'cunning'?)",
+          "back": "'चतुर' (clever) का अर्थ है बुद्धिमान, जो अपनी अक्ल का सही उपयोग करे। 'चालाक' (cunning) का अर्थ है जो दूसरों को धोखा देने के लिए अक्ल का उपयोग करे। कहानी का पात्र चतुर है, चालाक नहीं - वह बुद्धि का सही उपयोग करता है। (Clever means intelligent, using wisdom properly. Cunning means using intelligence to deceive others. The story character is clever, not cunning - he uses wisdom correctly.)",
+          "hint": "एक अच्छी बात है और दूसरी बुरी - कौन सी कौन सी? (One is good and the other is bad - which is which?)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi2_008",
+          "front": "कहानी में सवाल-जवाब की शैली क्यों महत्वपूर्ण है? (Why is the question-answer style important in the story?)",
+          "back": "सवाल-जवाब की शैली कहानी को रोचक (interesting) और जीवंत (lively) बनाती है। पाठक को लगता है जैसे वह कहानी में शामिल है। हर सवाल के बाद उत्सुकता (curiosity) बढ़ती है कि जवाब क्या होगा। यह शैली संवाद (dialogue) कहलाती है। (The Q&A style makes the story interesting and lively. The reader feels involved. Curiosity builds after each question. This style is called dialogue.)",
+          "hint": "जब हम किसी बातचीत को पढ़ते हैं तो कैसा लगता है? (How does it feel when we read a conversation?)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi2_009",
+          "front": "कहानी की भाषा कैसी है - सरल या कठिन? (Is the language of the story simple or difficult?)",
+          "back": "कहानी की भाषा सरल और बोलचाल की हिंदी में है जो बच्चों के लिए आसानी से समझ में आती है। रोज़मर्रा के शब्दों का प्रयोग हुआ है। कुछ मुहावरे और कहावतें भी हैं जो भाषा को मज़ेदार बनाती हैं। हास्य शैली (humorous style) के कारण पढ़ने में आनंद आता है। (The language is simple and conversational Hindi, easy for children. Everyday words are used along with some idioms and proverbs that make it fun. The humorous style makes reading enjoyable.)",
+          "hint": "क्या बच्चे इसे आसानी से समझ सकते हैं? (Can children understand it easily?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi2_010",
+          "front": "कहानी का शीर्षक 'जैसा सवाल वैसा जवाब' क्यों रखा गया है? (Why is the story titled 'As the Question, So the Answer'?)",
+          "back": "शीर्षक इसलिए रखा गया क्योंकि कहानी में हर सवाल का जवाब उसी अंदाज़ में दिया जाता है जिस अंदाज़ में सवाल पूछा गया था। अगर सवाल मुश्किल था तो जवाब भी उतना ही चतुर था। शीर्षक कहानी का सार (essence) एक पंक्ति में बता देता है। (The title was chosen because every question in the story is answered in the same style it was asked. If the question was difficult, the answer was equally clever. The title captures the essence of the story in one line.)",
+          "hint": "शीर्षक और कहानी का संबंध क्या है? (What is the connection between the title and the story?)",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

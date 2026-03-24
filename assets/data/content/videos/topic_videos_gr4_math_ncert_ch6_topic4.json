@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn6_t4",
+  "topicId": "gr4_mn_6_4",
+  "topicName": "Length Word Problems",
+  "chapterId": "gr4_math_ncert_ch6",
+  "chapterName": "Measuring Length",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2460,
+    "totalDurationDisplay": "41:00",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_6_1", "gr4_mn_6_2", "gr4_mn_6_3"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn6_v6",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Length Word Problems | Solving Measurement Problems Step by Step",
+      "description": "Solve fun word problems about measuring length! Learn how to add, subtract, and compare lengths in real-life situations like measuring cloth and roads.",
+      "youtubeId": "nJ4zRe7KXPA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nJ4zRe7KXPA",
+      "thumbnailUrl": "https://img.youtube.com/vi/nJ4zRe7KXPA/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 740000,
+      "tags": ["word problems", "length problems", "measurement problems", "addition subtraction length"],
+      "learningObjectives": ["Read and understand length word problems", "Identify which operation to use (add, subtract, compare)", "Solve step by step with correct units"],
+      "keyConceptsCovered": ["Adding lengths together", "Subtracting to find remaining length", "Comparing lengths of different objects"],
+      "prerequisites": ["Units of length", "Length conversion", "Addition and subtraction"],
+      "followUpTopics": ["Multi-step measurement problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v3",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Converting Centimetres to Metres | Length Conversion Made Easy",
+      "description": "Learn how to convert centimetres to metres and metres to centimetres. Remember: 1 metre = 100 centimetres. Practise with step-by-step examples!",
+      "youtubeId": "pL3N5aJmyLw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pL3N5aJmyLw",
+      "thumbnailUrl": "https://img.youtube.com/vi/pL3N5aJmyLw/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2100000,
+      "tags": ["conversion review", "cm to m", "word problem prep"],
+      "learningObjectives": ["Review conversions needed for word problems", "Convert within a word problem context", "Ensure units match before calculating"],
+      "keyConceptsCovered": ["Converting before adding", "Matching units in problems", "Step-by-step conversion review"],
+      "prerequisites": ["Understanding cm to m conversion"],
+      "followUpTopics": ["Multi-step word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v4",
+      "sequenceNumber": 3,
+      "type": "practice",
+      "importance": "must_watch",
+      "title": "Metres to Kilometres | Converting Bigger Units of Length",
+      "description": "Learn how to convert metres to kilometres and kilometres to metres. Remember: 1 kilometre = 1000 metres. Great examples with roads and distances!",
+      "youtubeId": "FwE9XnR2bHQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FwE9XnR2bHQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/FwE9XnR2bHQ/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 890000,
+      "tags": ["m to km", "conversion review", "distance problems"],
+      "learningObjectives": ["Review m to km conversion for distance problems", "Solve distance word problems", "Work with larger numbers in measurement"],
+      "keyConceptsCovered": ["Converting m to km in word problems", "Distance between places", "Adding and subtracting distances"],
+      "prerequisites": ["m to km conversion"],
+      "followUpTopics": ["Complex distance problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch6_addition_v1",
+      "sequenceNumber": 4,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Adding and Subtracting Bigger Numbers | Addition and Subtraction Review",
+      "description": "Review adding and subtracting numbers up to 1000. You need these skills to solve length problems where you add or subtract measurements!",
+      "youtubeId": "mTPXSmgkR3c",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mTPXSmgkR3c",
+      "thumbnailUrl": "https://img.youtube.com/vi/mTPXSmgkR3c/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2300000,
+      "tags": ["addition", "subtraction", "arithmetic for word problems"],
+      "learningObjectives": ["Practise addition for word problems", "Practise subtraction for word problems", "Handle carrying and borrowing in measurement context"],
+      "keyConceptsCovered": ["Adding measurements with carrying", "Subtracting measurements with borrowing", "Multi-digit arithmetic"],
+      "prerequisites": ["Basic addition and subtraction"],
+      "followUpTopics": ["Length word problems mastery"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v5",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Estimating Lengths | Guess and Measure for Kids",
+      "description": "Learn how to estimate the length of objects before measuring them. Use your hand span, arm length, and footsteps to make smart guesses!",
+      "youtubeId": "WqLbR8gT2Xk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WqLbR8gT2Xk",
+      "thumbnailUrl": "https://img.youtube.com/vi/WqLbR8gT2Xk/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Education",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 620000,
+      "tags": ["estimation", "checking answers", "reasonableness"],
+      "learningObjectives": ["Use estimation to check word problem answers", "Decide if an answer is reasonable", "Estimate before solving to plan the solution"],
+      "keyConceptsCovered": ["Is my answer reasonable?", "Estimating to check", "Common sense in measurement"],
+      "prerequisites": ["Estimation basics"],
+      "followUpTopics": ["Advanced measurement challenges"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn6_v6", "gr4_mn6_v3", "gr4_mn6_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Word problems with conversion review for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn6_v6", "gr4_mn6_v3", "gr4_mn6_v4", "gr4_mn6_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1950,
+      "estimatedTimeDisplay": "32:30",
+      "rationale": "Complete word problem coverage with estimation for checking answers"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch6_addition_v1", "gr4_mn6_v3", "gr4_mn6_v6"],
+      "totalVideos": 3,
+      "estimatedTime": 1530,
+      "estimatedTimeDisplay": "25:30",
+      "rationale": "Arithmetic review first, then conversion review, then word problems"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn6_v6"],
+      "totalVideos": 1,
+      "estimatedTime": 510,
+      "estimatedTimeDisplay": "8:30",
+      "rationale": "Essential word problems video only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn6_v6",
+      "checkpointName": "Length Word Problems Check",
+      "questions": [
+        {
+          "question": "Raju walks 2 km to school and 2 km back home. How far does he walk in total?",
+          "options": ["2 km", "3 km", "4 km", "6 km"],
+          "correctAnswer": 2,
+          "explanation": "Raju walks 2 km to school + 2 km back = 4 km in total. We add the two distances together."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use real-life scenarios from the students' daily lives: distance from home to school, length of the playground, height of the classroom door. Have students create their own word problems.",
+    "parentGuidance": "When travelling, ask your child to estimate distances and solve simple problems: 'We drove 15 km to the market and 8 km to grandma's house. How far did we drive in total?'",
+    "studentGuidance": "Word problems are like puzzles! Read carefully, find the numbers, decide whether to add or subtract, and always write the unit (cm, m, or km) in your answer."
+  }
+}

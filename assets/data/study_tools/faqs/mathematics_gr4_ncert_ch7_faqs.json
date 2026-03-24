@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch7",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn7_001",
+      "videoId": "gr4_mn7_v1",
+      "question": "How is math used in a village?",
+      "answer": "Math is used in many ways in a village! The panchayat uses addition to count the total number of houses and people. They use subtraction to find how much money is left after spending. They use multiplication when dividing tasks equally among volunteers. Even planting trees, building roads, and managing water supply all need math!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn7_002",
+      "videoId": "gr4_mn7_v1",
+      "question": "What is Mawlynnong village and why is it famous?",
+      "answer": "Mawlynnong is a small village in Meghalaya (a state in Northeast India). It was named Asia's cleanest village! The people there keep their village spotless by working together. Every family takes responsibility for cleaning, they use bamboo dustbins, and the whole community plans together. This chapter uses a similar story to show how math helps in keeping a village clean and well-managed.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn7_003",
+      "videoId": "gr4_mn7_v2",
+      "question": "What is a survey and how do I do one?",
+      "answer": "A survey is when you collect information by asking people questions or counting things. To do a survey: 1) Decide what you want to find out (e.g., how many families have a garden), 2) Ask each family or count yourself, 3) Write the numbers in a table, 4) Add up the totals. Now you have data that helps you understand your community!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn7_004",
+      "videoId": "gr4_mn7_v2",
+      "question": "Why do we put data in tables?",
+      "answer": "Tables organise data neatly so we can read and compare it easily. Imagine if someone just told you: 'Street A has 15 houses, Street B has 22, Street C has 18, Street D has 25.' That is hard to compare! But in a table with the street name and number side by side, you can quickly see which street has the most or fewest houses.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn7_005",
+      "videoId": "gr4_mn7_v3",
+      "question": "How do I know which operation to use in a word problem?",
+      "answer": "Here are some clues: Use ADDITION when the problem says 'total', 'in all', 'altogether', or 'how many combined'. Use SUBTRACTION when it says 'how many left', 'how many more needed', 'difference', or 'remaining'. Use MULTIPLICATION when it says 'each', 'every', 'per', or when there are equal groups. Always read the problem twice before solving!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn7_006",
+      "videoId": "gr4_mn7_v3",
+      "question": "What is a multi-step problem?",
+      "answer": "A multi-step problem needs more than one calculation. For example: 'A village needs 500 saplings. They got 180 from the government and 145 from donations. How many more do they need?' Step 1: Add 180 + 145 = 325 (total received). Step 2: Subtract 500 - 325 = 175 (still needed). You need two operations to get the final answer!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn7_007",
+      "videoId": "gr4_mn7_v4",
+      "question": "What is a budget and how does a village use it?",
+      "answer": "A budget is the total money available to spend. A village panchayat gets money and must decide how to use it wisely. For example, if they have ₹10,000, they might spend ₹3,500 on road repair, ₹2,200 on a drain, and save the rest. Using subtraction, they can always check how much money is left: ₹10,000 - ₹3,500 - ₹2,200 = ₹4,300 remaining.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn7_008",
+      "videoId": "gr4_mn7_v4",
+      "question": "Can I do a survey in my own school or neighbourhood?",
+      "answer": "Yes, absolutely! You can survey your class about favourite subjects, count the trees on your street, or find out how many students walk to school versus take a bus. Make a simple table, collect the data, add up totals, and see what your data tells you. It is a great way to practise math and learn about your community!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn7_009",
+      "videoId": "gr4_mn7_v1",
+      "question": "Why should we always write units in our answer?",
+      "answer": "Units tell us WHAT the number means. The number 135 alone does not tell you much. But '135 kg of waste' or '135 families' or '₹135' are all very different! Always write the unit (kg, litres, rupees, people, trees, etc.) so your answer makes sense. In village problems, you might use rupees for money, kg for weight, and just numbers for people or houses.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn7_010",
+      "videoId": "gr4_mn7_v4",
+      "question": "How does data help in making decisions?",
+      "answer": "Data turns guesses into facts! Without data, a panchayat might guess which street needs more dustbins. But with data showing Street C has only 3 dustbins while others have 8-12, they KNOW where to place new ones. Data helps make fair, smart decisions because you are using real numbers instead of just opinions. That is why governments do surveys and census!",
+      "status": "answered",
+      "upvotes": 23
+    }
+  ]
+}

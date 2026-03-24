@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch13",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en13_001",
+      "videoId": "gr4_evn_13_1_v1",
+      "question": "Where do rivers in India come from?",
+      "answer": "Most major rivers in North India come from glaciers in the Himalayan mountains. When snow and ice melt, they form small streams that join together to become rivers. For example, the Ganga starts from the Gangotri glacier. Rivers in South India, like the Godavari and Kaveri, start from hills like the Western Ghats. Some rivers also start from springs or lakes.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en13_002",
+      "videoId": "gr4_evn_13_1_v1",
+      "question": "What are the major rivers of India?",
+      "answer": "India has many important rivers! The Ganga and Yamuna flow through North India. The Brahmaputra flows through the northeast. The Godavari (the longest peninsular river), Krishna, and Kaveri flow through South India. The Narmada and Tapi flow westward into the Arabian Sea. The Indus flows through Jammu and Kashmir. Each river is important for the people and farms along its banks.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en13_003",
+      "videoId": "gr4_evn_13_1_v1",
+      "question": "What is a tributary?",
+      "answer": "A tributary is a smaller river or stream that flows into and joins a bigger river. Think of it like branches joining a tree trunk! For example, the Yamuna is a tributary of the Ganga - it joins the Ganga at Prayagraj (Allahabad). The Son and Gandak are also tributaries of the Ganga. A big river may have many tributaries feeding it with water.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en13_004",
+      "videoId": "gr4_evn_13_1_v1",
+      "question": "Why are rivers important for people?",
+      "answer": "Rivers are incredibly important! They give us drinking water, water for farming and irrigation, fish to eat, and water for factories. Rivers help with transport - boats carry goods along them. Dams on rivers generate hydroelectricity. The fertile soil on riverbanks is excellent for growing crops. That is why most big cities in India are built along rivers.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en13_005",
+      "videoId": "gr4_evn_13_2_v1",
+      "question": "What is water pollution and what causes it?",
+      "answer": "Water pollution means making water dirty and harmful by adding unwanted substances to it. In India, the main causes are: factories dumping chemical waste into rivers, untreated sewage (dirty water from homes and toilets) flowing into rivers, people throwing garbage and plastic into water, farm chemicals (pesticides and fertilisers) washing into rivers, and waste from religious activities.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en13_006",
+      "videoId": "gr4_evn_13_2_v1",
+      "question": "How does river pollution affect fish and other water animals?",
+      "answer": "Pollution is terrible for aquatic life. Chemical waste from factories poisons the water. Sewage uses up the oxygen dissolved in water, and fish need that oxygen to breathe. Plastic can choke fish and turtles. Hot water from factories changes the river temperature, which harms many creatures. In very polluted stretches of rivers, almost no fish can survive.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en13_007",
+      "videoId": "gr4_evn_13_2_v1",
+      "question": "What diseases can you get from drinking polluted water?",
+      "answer": "Drinking polluted water can cause many serious diseases including cholera, typhoid, jaundice, diarrhoea, and dysentery. These diseases can make people very sick and are especially dangerous for children. That is why you should always drink clean, filtered, or boiled water. Never drink water directly from a river or tap without making sure it is safe.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en13_008",
+      "videoId": "gr4_evn_13_2_v2",
+      "question": "What is the Namami Gange programme?",
+      "answer": "Namami Gange is a big programme started by the Indian government to clean and protect the river Ganga. It works on: building sewage treatment plants so dirty water is cleaned before entering the Ganga, stopping factories from dumping waste, cleaning the riverbanks, planting trees along the river, and creating awareness among people about keeping the Ganga clean.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en13_009",
+      "videoId": "gr4_evn_13_2_v2",
+      "question": "What can I do to help keep rivers clean?",
+      "answer": "There is a lot you can do! Never throw garbage or plastic near or into rivers. Use less plastic in daily life. Save water at home - every drop saved means less sewage going to rivers. Tell your friends and family about river pollution. Support river cleaning drives in your area. Plant trees near water bodies. Even writing about river conservation for a school project helps spread awareness!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en13_010",
+      "videoId": "gr4_evn_13_1_v1",
+      "question": "How does a river change during its journey from mountain to sea?",
+      "answer": "A river changes a lot during its journey! Near its source in the mountains, it is narrow, fast-flowing, and very clean. As it flows down to the plains, it becomes wider and slower. Near cities, it often collects pollution and becomes dirty. In the plains, it deposits rich soil on its banks. Near the sea, it may split into many branches forming a delta. The story of a river is a journey of many changes!",
+      "status": "answered",
+      "upvotes": 18
+    }
+  ]
+}

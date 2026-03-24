@@ -1,0 +1,460 @@
+{
+  "algorithmId": "rec_gr4_m4_t4",
+  "topicId": "gr4_m_4_4",
+  "topicName": "Expanded Form and Word Form (4-digit Numbers)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for expanded and word form of 4-digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent place value and basic expanded/word form knowledge, can focus on 4-digit applications",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1980,
+      "videoSequence": [
+        {
+          "videoId": "gr4_exp_v1",
+          "reason": "Introduction to 4-digit expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_exp_v2",
+          "reason": "Practice writing expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v1",
+          "reason": "Introduction to 4-digit word form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v2",
+          "reason": "Practice word form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_forms_v2",
+          "reason": "Challenge problems with all forms",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready with good foundation, provide complete coverage of both expanded and word forms",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2340,
+      "videoSequence": [
+        {
+          "videoId": "gr4_exp_v1",
+          "reason": "Introduction to expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_exp_v2",
+          "reason": "Writing expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_exp_v3",
+          "reason": "Converting expanded to standard form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v1",
+          "reason": "Introduction to word form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v2",
+          "reason": "Word form practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_forms_v1",
+          "reason": "Integration of all three forms",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in place value and/or basic expanded/word form, needs review before 4-digit content",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 2610,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_4digit_weak": {
+            "addVideos": ["prereq_pv4_v1", "prereq_pv4_v2"],
+            "priority": "high"
+          },
+          "expanded_form_3digit_weak": {
+            "addVideos": ["prereq_exp_v1", "prereq_exp_v2"],
+            "priority": "high"
+          },
+          "word_form_basics_weak": {
+            "addVideos": ["prereq_word_v1", "prereq_word_v2"],
+            "priority": "medium"
+          },
+          "addition_basics_weak": {
+            "addVideos": ["prereq_add_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Review: Place Value in 4-digit Numbers",
+          "skippable": false,
+          "condition": "if pv_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_exp_v1",
+          "reason": "Review: Basic Expanded Form Concept",
+          "skippable": false,
+          "condition": "if expanded_form_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_word_v1",
+          "reason": "Review: Reading Numbers in Words",
+          "skippable": false,
+          "condition": "if word_form_basics concept is weak"
+        },
+        {
+          "videoId": "gr4_exp_v1",
+          "reason": "Start main topic: 4-digit expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_exp_v2",
+          "reason": "Practice expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_exp_v3",
+          "reason": "Converting forms",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v1",
+          "reason": "4-digit word form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v2",
+          "reason": "Word form practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in place value and basic expanded/word form",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2430,
+      "videoSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Foundation: Place Value in 4-digit Numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv4_v2",
+          "reason": "Practice: Finding Place Values",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_exp_v1",
+          "reason": "Essential: What is Expanded Form",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_exp_v2",
+          "reason": "Practice: Expanded Form Basics",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_word_v1",
+          "reason": "Important: Reading Numbers in Words",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_exp_v1",
+          "reason": "Gentle intro to 4-digit expanded form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_word_v1",
+          "reason": "Begin 4-digit word form",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with expanded and word form."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_4digit": {
+        "conceptName": "Place value in 4-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_pv4_v1", "prereq_pv4_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "expanded_form_3digit": {
+        "conceptName": "Expanded form of 2-digit and 3-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_exp_v1", "prereq_exp_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "word_form_basics": {
+        "conceptName": "Reading and writing numbers in words",
+        "importance": "important",
+        "videoIds": ["prereq_word_v1", "prereq_word_v2"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "addition_basics": {
+        "conceptName": "Basic addition (understanding sums)",
+        "importance": "helpful",
+        "videoIds": ["prereq_add_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_exp_v2",
+        "checkpointName": "Expanded Form Writing Mastery",
+        "questions": [
+          {
+            "question": "Write 3,456 in expanded form.",
+            "options": ["3000 + 400 + 50 + 6", "3 + 4 + 5 + 6", "300 + 40 + 50 + 6", "3456"],
+            "correctAnswer": 0,
+            "explanation": "3,456 = 3000 + 400 + 50 + 6. Each digit is shown with its place value."
+          },
+          {
+            "question": "What number is represented by: 5000 + 200 + 30 + 4?",
+            "options": ["5234", "50234", "5,234", "52034"],
+            "correctAnswer": 2,
+            "explanation": "5000 + 200 + 30 + 4 = 5,234"
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Great! You understand expanded form well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_exp_v1",
+          "reason": "Student still struggling with expanded form concept"
+        }
+      },
+      {
+        "afterVideoId": "gr4_word_v2",
+        "checkpointName": "Word Form Mastery Check",
+        "questions": [
+          {
+            "question": "What is 2,735 in words?",
+            "options": ["Two thousand seven hundred thirty-five", "Two seven three five", "Twenty-seven thirty-five", "Two hundred seventy-three five"],
+            "correctAnswer": 0,
+            "explanation": "2,735 is read as 'Two thousand seven hundred thirty-five'."
+          },
+          {
+            "question": "Which number is 'Five thousand forty-two'?",
+            "options": ["5,042", "5,420", "5,402", "50,042"],
+            "correctAnswer": 0,
+            "explanation": "'Five thousand forty-two' = 5,042. Note: there are no hundreds."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_forms_v2",
+          "reason": "Student ready for challenge problems with all forms"
+        },
+        "ifSomeCorrect": {
+          "action": "continue_normally",
+          "message": "Good progress with word form!"
+        },
+        "ifAllWrong": {
+          "action": "recommend_review",
+          "message": "Review word form video before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip remaining basic videos, jump to integration or challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review videos"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend additional practice exercises before practice quiz"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong understanding of place value and expanded form. We've created a fast-track playlist focusing on 4-digit expanded and word forms with challenges."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand place value and basic expanded form. Let's extend this to 4-digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in prerequisite knowledge. Don't worry! We'll start with review videos on place value and basic expanded/word form, then move to 4-digit numbers."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review prerequisite concepts first. We've created a playlist focused on building strong foundation in place value and number forms. After watching, you can retake the quiz."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how number forms build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Place value in 4-digit numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Expanded form with 2-3 digit numbers", "Word form basics"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Writing 4-digit numbers in expanded form"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Writing 4-digit numbers in word form", "Converting between forms"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Integration of all three forms", "Problem solving"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 80,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 75,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.0,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "formConversion": {
+      "target": 85,
+      "description": "% of students who can convert between all three forms correctly"
+    },
+    "wordFormAccuracy": {
+      "target": 80,
+      "description": "% of students who can write 4-digit numbers in words correctly"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 85-95% practice quiz score",
+      "ready_students": "Complete in 40-45 minutes with 75-85% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 65-75% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (25 min) = 65-75 total minutes, expected 55-70% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing expanded form with standard form (writing 3456 instead of 3000+400+50+6)",
+      "solution1": "Emphasis on using + signs and showing place values explicitly",
+      "challenge2": "Students struggling with word form of numbers with zeros (5,007)",
+      "solution2": "Specific examples showing how to handle zeros in different places",
+      "challenge3": "Students adding extra zeros when converting word form to standard (writing 5,0042 for 'five thousand forty-two')",
+      "solution3": "Practice place value positions and understanding which places have zeros"
+    }
+  }
+}

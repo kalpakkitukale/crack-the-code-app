@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch12",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_12_001",
+      "term": "Generation",
+      "definition": "A group of people born and living around the same time. Your grandparents, parents, and you belong to different generations.",
+      "pronunciation": "jen-er-AY-shun",
+      "exampleUsage": "Each generation has its own way of doing things.",
+      "difficulty": "medium",
+      "relatedTerms": ["elders", "ancestors"]
+    },
+    {
+      "id": "gls_evs_12_002",
+      "term": "Ancestors",
+      "definition": "People in your family who lived a long time ago, like your great-grandparents and their parents.",
+      "pronunciation": "AN-ses-tors",
+      "exampleUsage": "Our ancestors did not have electricity or telephones.",
+      "difficulty": "medium",
+      "relatedTerms": ["generation", "elders", "family"]
+    },
+    {
+      "id": "gls_evs_12_003",
+      "term": "Telegram",
+      "definition": "A way of sending short written messages over long distances using electric signals. It was used before telephones became common.",
+      "pronunciation": "TEL-eh-gram",
+      "exampleUsage": "People used to send a telegram when they had urgent news to share.",
+      "difficulty": "medium",
+      "relatedTerms": ["communication", "message"]
+    },
+    {
+      "id": "gls_evs_12_004",
+      "term": "Bullock Cart",
+      "definition": "A cart pulled by bullocks (male cattle) used for carrying people and goods. It was one of the main ways to travel and transport things in the past.",
+      "pronunciation": "BUL-uk KART",
+      "exampleUsage": "Grandfather told us how he used to ride a bullock cart to the nearby town.",
+      "difficulty": "easy",
+      "relatedTerms": ["transport", "farming"]
+    },
+    {
+      "id": "gls_evs_12_005",
+      "term": "Chulha",
+      "definition": "A traditional clay stove used for cooking with firewood or cow dung cakes. Many villages in India still use chulhas.",
+      "pronunciation": "CHOOL-hah",
+      "exampleUsage": "Grandmother cooked rotis on a chulha using firewood.",
+      "difficulty": "easy",
+      "relatedTerms": ["cooking", "firewood", "kitchen"]
+    },
+    {
+      "id": "gls_evs_12_006",
+      "term": "Slate",
+      "definition": "A flat piece of dark stone that was used as a writing board in old schools. Children wrote on it with chalk and wiped it clean.",
+      "pronunciation": "SLAYT",
+      "exampleUsage": "In the old days, students practised writing on a slate instead of a notebook.",
+      "difficulty": "easy",
+      "relatedTerms": ["school", "writing", "chalk"]
+    },
+    {
+      "id": "gls_evs_12_007",
+      "term": "Technology",
+      "definition": "Tools, machines, and methods invented by people to make life easier. Computers, phones, and cars are all examples of technology.",
+      "pronunciation": "tek-NOL-uh-jee",
+      "exampleUsage": "Technology has changed the way we learn, play, and communicate.",
+      "difficulty": "medium",
+      "relatedTerms": ["invention", "machines", "progress"]
+    },
+    {
+      "id": "gls_evs_12_008",
+      "term": "Tradition",
+      "definition": "Customs, beliefs, and practices passed down from one generation to the next. Festivals and folk songs are examples of traditions.",
+      "pronunciation": "truh-DISH-un",
+      "exampleUsage": "The tradition of celebrating Diwali has been passed down for thousands of years.",
+      "difficulty": "medium",
+      "relatedTerms": ["culture", "customs", "heritage"]
+    },
+    {
+      "id": "gls_evs_12_009",
+      "term": "Communication",
+      "definition": "The sharing of information or messages between people. It can be through speaking, writing, phone calls, or the internet.",
+      "pronunciation": "kuh-myoo-nih-KAY-shun",
+      "exampleUsage": "Communication has become much faster with mobile phones and the internet.",
+      "difficulty": "medium",
+      "relatedTerms": ["telephone", "letter", "telegram"]
+    },
+    {
+      "id": "gls_evs_12_010",
+      "term": "Heritage",
+      "definition": "The history, traditions, and values passed down from earlier generations that we value and want to preserve.",
+      "pronunciation": "HER-ih-tij",
+      "exampleUsage": "Old stories and recipes are part of our family heritage.",
+      "difficulty": "medium",
+      "relatedTerms": ["tradition", "culture", "ancestors"]
+    }
+  ]
+}

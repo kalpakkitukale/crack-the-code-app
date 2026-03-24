@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ch1",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_e1_001",
+      "videoId": "gr4_e1_v1",
+      "question": "What is a noun?",
+      "answer": "A noun is a naming word. It is the name of a person (girl, doctor), a place (school, garden), an animal (cat, elephant), or a thing (book, table). Look around you - every object you see has a name, and that name is a noun!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_e1_002",
+      "videoId": "gr4_e1_v1",
+      "question": "How can I find nouns in a sentence?",
+      "answer": "Ask yourself: Who or what is this sentence about? The answer is usually a noun. For example, in 'The cat drank milk,' ask 'Who drank?' (cat) and 'What did it drink?' (milk). Both 'cat' and 'milk' are nouns!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_e1_003",
+      "videoId": "gr4_e1_v2",
+      "question": "What is the difference between a common noun and a proper noun?",
+      "answer": "A common noun is a general name like 'city' or 'boy'. A proper noun is a specific name like 'Mumbai' or 'Arjun'. The easy trick: proper nouns always start with a capital letter, common nouns do not.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_e1_004",
+      "videoId": "gr4_e1_v2",
+      "question": "Can you give examples of collective nouns?",
+      "answer": "Sure! A flock of birds, a herd of cattle, a bunch of grapes, a team of players, a pack of wolves, a bouquet of flowers. Each of these words (flock, herd, bunch, team, pack, bouquet) is a collective noun because it names a group.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_e1_005",
+      "videoId": "gr4_e1_v2",
+      "question": "What are abstract nouns? Can you give some examples?",
+      "answer": "Abstract nouns name things you cannot see, hear, touch, smell, or taste. They are feelings, ideas, or qualities. Examples: happiness, sadness, bravery, kindness, truth, freedom, friendship. You know they exist, but you cannot hold them in your hand!",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_e1_006",
+      "videoId": "gr4_e1_v3",
+      "question": "What is a pronoun and why do we need it?",
+      "answer": "A pronoun is a word that takes the place of a noun. We need pronouns to avoid repeating the same noun. Without pronouns, we would say: 'Ria likes ice cream. Ria eats ice cream every day.' With a pronoun: 'Ria likes ice cream. She eats it every day.' Much smoother!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_e1_007",
+      "videoId": "gr4_e1_v3",
+      "question": "When do I use 'he' and when do I use 'she'?",
+      "answer": "Use 'he' when talking about a boy or a man. Use 'she' when talking about a girl or a woman. For example: 'My father is a doctor. He works at a hospital.' 'My mother is a teacher. She teaches at a school.'",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_e1_008",
+      "videoId": "gr4_e1_v3",
+      "question": "When do I use 'it' as a pronoun?",
+      "answer": "Use 'it' when talking about an animal, a thing, or a place. For example: 'The book is on the table. It has a red cover.' 'The dog is sleeping. It looks tired.' We also use 'it' for weather: 'It is raining today.'",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_e1_009",
+      "videoId": "gr4_e1_v4",
+      "question": "What is the difference between 'they' and 'them'?",
+      "answer": "'They' is used when the group is doing the action (subject). 'Them' is used when the action is done to the group (object). Example: 'They are playing.' (They do the action.) 'I will call them.' (The action is done to them.)",
+      "status": "answered",
+      "upvotes": 14
+    },
+    {
+      "id": "faq_gr4_e1_010",
+      "videoId": "gr4_e1_v4",
+      "question": "Is 'I' always written as a capital letter?",
+      "answer": "Yes! The pronoun 'I' is always written as a capital letter, no matter where it appears in a sentence. For example: 'My friend and I went to the park.' Even in the middle of a sentence, 'I' stays capital. This is a special rule in English!",
+      "status": "answered",
+      "upvotes": 21
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ncert_ch4",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn4_placevalue",
+      "name": "Place Value up to 5 Digits",
+      "description": "Learn about ones, tens, hundreds, thousands, and ten-thousands places",
+      "topicId": "gr4_mn_4_1",
+      "chapterId": "gr4_math_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_mn4_001",
+          "front": "What are the five place values in a 5-digit number?",
+          "back": "From right to left: Ones, Tens, Hundreds, Thousands, Ten-Thousands.\n\nFor example, in 34,567:\n3 = Ten-Thousands\n4 = Thousands\n5 = Hundreds\n6 = Tens\n7 = Ones",
+          "hint": "Start from the right and move left: O, T, H, Th, T-Th",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn4_002",
+          "front": "What is the place value of 6 in the number 26,483?",
+          "back": "The place value of 6 is Thousands. So 6 stands for 6,000.\n\nThe number 26,483 = 20,000 + 6,000 + 400 + 80 + 3",
+          "hint": "Count from the right: 3 is ones, 8 is tens, 4 is hundreds, 6 is...",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn4_003",
+          "front": "What is the smallest 4-digit number?",
+          "back": "1,000 (one thousand). It is the first number after 999. The smallest 4-digit number always has 1 in the thousands place and 0 in the rest.",
+          "hint": "What comes right after 999?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn4_004",
+          "front": "What is the largest 4-digit number?",
+          "back": "9,999 (nine thousand nine hundred and ninety-nine). The next number, 10,000, is already a 5-digit number.",
+          "hint": "Put the biggest digit (9) in every place",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn4_005",
+          "front": "How many hundreds make one thousand?",
+          "back": "10 hundreds make 1 thousand.\n\n10 x 100 = 1,000\n\nThink of it as stacking ten bundles of 100.",
+          "hint": "How many times does 100 fit into 1000?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn4_readwrite",
+      "name": "Reading and Writing Big Numbers",
+      "description": "Practise reading and writing 4-digit and 5-digit numbers in words and numerals",
+      "topicId": "gr4_mn_4_2",
+      "chapterId": "gr4_math_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_mn4_006",
+          "front": "How do you read the number 4,825?",
+          "back": "Four thousand eight hundred and twenty-five.\n\nBreak it: 4 thousand + 8 hundred + 2 tens + 5 ones.",
+          "hint": "Read from the left: thousands first, then hundreds, tens, ones",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn4_007",
+          "front": "Write the number: Thirty-two thousand five hundred and sixteen",
+          "back": "32,516\n\n32 thousand = 32,000\n5 hundred = 500\nSixteen = 16\n32,000 + 500 + 16 = 32,516",
+          "hint": "Write the thousands part first, then add the hundreds, tens, and ones",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn4_008",
+          "front": "What does the comma in 15,720 mean?",
+          "back": "The comma separates the thousands from the hundreds. It makes big numbers easier to read. 15,720 is read as fifteen thousand seven hundred and twenty.",
+          "hint": "The comma comes after the thousands part",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn4_009",
+          "front": "In the Indian number system, where do we place commas?",
+          "back": "In the Indian system, the first comma comes after the hundreds place (3 digits from the right), then every 2 digits after that. Example: 1,23,456 is read as one lakh twenty-three thousand four hundred and fifty-six.",
+          "hint": "Indian system: first comma after 3 digits, then every 2 digits",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn4_010",
+          "front": "How do you write 50,000 + 3,000 + 200 + 40 + 8 as one number?",
+          "back": "53,248\n\nJust add all the parts together:\n50,000 + 3,000 = 53,000\n53,000 + 200 = 53,200\n53,200 + 40 = 53,240\n53,240 + 8 = 53,248",
+          "hint": "This is called expanded form. Combine all the parts into one number.",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn4_compare",
+      "name": "Comparing and Ordering Numbers",
+      "description": "Learn to compare big numbers and arrange them in order",
+      "topicId": "gr4_mn_4_3",
+      "chapterId": "gr4_math_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_mn4_011",
+          "front": "How do you compare two big numbers?",
+          "back": "Step 1: Count the digits. The number with more digits is bigger.\nStep 2: If both have the same number of digits, compare from the left. The first different digit tells you which is bigger.",
+          "hint": "More digits = bigger number. Same digits? Start comparing from the left.",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn4_012",
+          "front": "Which is greater: 4,589 or 4,612?",
+          "back": "4,612 is greater. Both are 4-digit numbers. The thousands digit is the same (4). Compare the hundreds: 6 > 5, so 4,612 > 4,589.",
+          "hint": "Both start with 4, so look at the next digit",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn4_013",
+          "front": "Arrange in ascending order: 3,200, 2,500, 5,100, 1,800",
+          "back": "Ascending (smallest to largest):\n1,800, 2,500, 3,200, 5,100\n\nCompare the thousands digits: 1 < 2 < 3 < 5.",
+          "hint": "Ascending means going up, from smallest to biggest",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn4_014",
+          "front": "What do the symbols >, <, and = mean?",
+          "back": "> means 'greater than' (5,000 > 3,000)\n< means 'less than' (2,100 < 4,300)\n= means 'equal to' (3,500 = 3,500)\n\nTip: The open side of > or < faces the bigger number.",
+          "hint": "The symbol looks like a crocodile mouth -- it opens towards the bigger number!",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn4_015",
+          "front": "What is the difference between ascending and descending order?",
+          "back": "Ascending order: numbers go from smallest to largest (going up). Example: 100, 200, 300.\nDescending order: numbers go from largest to smallest (going down). Example: 300, 200, 100.",
+          "hint": "Ascending = climbing up a hill. Descending = coming down.",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

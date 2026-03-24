@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch23",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_evn23_001",
+      "videoId": "gr4_evn23_v1",
+      "question": "Where is Pochampalli and what is it famous for?",
+      "answer": "Pochampalli is a small village in the Nalgonda district of Telangana state in South India. It is famous for its beautiful handloom sarees and fabrics, especially the Pochampalli Ikat sarees. These sarees have unique geometric patterns created using a special tie-and-dye technique on the threads before weaving.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_evn23_002",
+      "videoId": "gr4_evn23_v1",
+      "question": "What makes Pochampalli sarees different from other sarees?",
+      "answer": "Pochampalli sarees are special because they use the Ikat technique. In this method, the threads are tied in bundles and dyed with colours BEFORE weaving. When these pre-dyed threads are woven together, they create beautiful patterns with slightly blurred edges. This blur is the hallmark of genuine Pochampalli Ikat work.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_evn23_003",
+      "videoId": "gr4_evn23_v2",
+      "question": "How does a loom work?",
+      "answer": "A loom has a frame that holds one set of threads (warp) stretched vertically. The weaver uses a shuttle to pass another set of threads (weft) horizontally through the warp, going over and under alternately. By pressing a pedal with the foot, the weaver can lift different warp threads to create patterns. This crossing of threads creates cloth.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_evn23_004",
+      "videoId": "gr4_evn23_v2",
+      "question": "What is the difference between warp and weft?",
+      "answer": "Warp threads run lengthwise (up and down) on the loom. They are stretched tightly and stay fixed in place. Weft threads run crosswise (side to side) and are passed through the warp using a shuttle. Together, the warp and weft create the fabric. A simple way to remember: Warp goes 'up' (vertical) and Weft goes 'left to right' (horizontal).",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_evn23_005",
+      "videoId": "gr4_evn23_v2",
+      "question": "Why is handloom cloth more expensive than machine-made cloth?",
+      "answer": "Handloom cloth is more expensive because it takes much more time and effort to make. A weaver may take days or even weeks to complete one saree by hand. Each piece is unique and made with great skill. Machine-made cloth is produced in minutes by power looms, so it is cheaper but not as special.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_evn23_006",
+      "videoId": "gr4_evn23_v3",
+      "question": "How does the whole family help in weaving?",
+      "answer": "In weaver families, everyone has a role. Some members wind the thread onto bobbins. Others prepare the dye by mixing colours. Some tie the threads for the Ikat pattern. The main weaver operates the loom. Even children help with small tasks like sorting threads. Weaving is truly a family team effort!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_evn23_007",
+      "videoId": "gr4_evn23_v3",
+      "question": "What problems do handloom weavers face today?",
+      "answer": "Handloom weavers face many challenges: (1) Competition from cheap machine-made cloth. (2) Low wages despite long working hours. (3) Young people leaving the craft for other jobs. (4) Rising cost of raw materials like cotton and silk. (5) Health problems from sitting at the loom for hours. The government has programmes to support weavers, but more help is needed.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_evn23_008",
+      "videoId": "gr4_evn23_v4",
+      "question": "Where does silk come from?",
+      "answer": "Silk comes from silkworms! The silkworm spins a cocoon around itself using a single long thread. This thread can be up to 900 metres long! People carefully unwind this thread from the cocoon and use it to make silk fabric. The most common silk in India comes from mulberry silkworms. Assam is famous for its special Muga silk.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_evn23_009",
+      "videoId": "gr4_evn23_v4",
+      "question": "What was the Swadeshi Movement and how is it connected to weaving?",
+      "answer": "The Swadeshi Movement started in 1905 during India's freedom struggle. Indian leaders like Mahatma Gandhi encouraged people to stop buying British machine-made cloth and instead use Indian handloom cloth (khadi). This supported Indian weavers and artisans. National Handloom Day on 7th August remembers this connection between handloom and India's independence.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_evn23_010",
+      "videoId": "gr4_evn23_v4",
+      "question": "How can we help support handloom weavers?",
+      "answer": "We can support weavers by: (1) Buying handloom products when possible. (2) Learning about and appreciating traditional crafts. (3) Telling others about the importance of handloom. (4) Choosing quality handmade items over cheap machine-made ones. (5) Supporting government schemes like Handloom Mark that certify genuine handloom products.",
+      "status": "answered",
+      "upvotes": 20
+    }
+  ]
+}

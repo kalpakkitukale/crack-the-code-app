@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "145909045512",
+    "project_id": "streamshaala",
+    "storage_bucket": "streamshaala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145909045512:android:d12d557bbc3bbd5a39f4bd",
+        "android_client_info": {
+          "package_name": "com.streamshaala.streamshaala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145909045512-6tu97cfl2r8uv24hvmbh4mkm1cpolbrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streamshaala.streamshaala",
+            "certificate_hash": "05da61d9ce11ac601269e2a5cc32fdcb32d5ec9e"
+          }
+        },
+        {
+          "client_id": "145909045512-f97qltdtstv5kpp2g6q3qbngffannaul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxpKGo5XjRrGK6sT-EQycAYP-ohtwEcTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145909045512-f97qltdtstv5kpp2g6q3qbngffannaul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145909045512-7vaeke4br4aglg1ibs2ouq62ic38ph51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.streamshaala.streamshaala"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145909045512:android:1bdef4a52f6db41339f4bd",
+        "android_client_info": {
+          "package_name": "com.streamshaala.streamshaala.junior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145909045512-f97qltdtstv5kpp2g6q3qbngffannaul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxpKGo5XjRrGK6sT-EQycAYP-ohtwEcTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145909045512-f97qltdtstv5kpp2g6q3qbngffannaul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145909045512-7vaeke4br4aglg1ibs2ouq62ic38ph51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.streamshaala.streamshaala"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145909045512:android:d12d557bbc3bbd5a39f4bd",
+        "android_client_info": {
+          "package_name": "com.streamshaala.streamshaala.spelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145909045512-6tu97cfl2r8uv24hvmbh4mkm1cpolbrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streamshaala.streamshaala",
+            "certificate_hash": "05da61d9ce11ac601269e2a5cc32fdcb32d5ec9e"
+          }
+        },
+        {
+          "client_id": "145909045512-f97qltdtstv5kpp2g6q3qbngffannaul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxpKGo5XjRrGK6sT-EQycAYP-ohtwEcTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145909045512-f97qltdtstv5kpp2g6q3qbngffannaul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145909045512-7vaeke4br4aglg1ibs2ouq62ic38ph51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.streamshaala.streamshaala"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch9",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en9",
+    "title": "Changing Families",
+    "content": "This chapter from the NCERT Looking Around textbook explores how families change over time. Students learn that families grow bigger when babies are born and when marriages happen, and they may get smaller when children grow up and move away. The chapter introduces different types of families - joint families, nuclear families, single-parent families, and families with adopted children. It compares families of the past with families of today, showing how changes in work, education, and lifestyle have affected family structures. Above all, the chapter teaches that no matter what shape a family takes, love and caring for each other is what truly makes a family.",
+    "keyPoints": [
+      "Families change over time through births, marriages, and members moving away",
+      "Joint, nuclear, single-parent, and extended families are all valid family types",
+      "Families today are often smaller than families in our grandparents' time",
+      "Adoption gives children a loving family when birth parents cannot care for them",
+      "Festivals and technology help families stay connected despite distance",
+      "Love and care define a family, not just the number of members"
+    ],
+    "learningObjectives": [
+      "Describe how families change over time and identify the events that cause changes",
+      "Compare different types of family structures",
+      "Understand that all families are special regardless of size or structure",
+      "Explain how families in the past were different from families today",
+      "Identify ways families stay connected despite living apart"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en9_001",
+      "title": "My Family Photo Timeline",
+      "content": "Collect family photographs from different years - your parents' wedding, when you were born, last Diwali, a recent birthday. Arrange them in order from oldest to newest. Look at how the family has changed! Who are the new members? Has anyone moved away? Make a timeline on a long strip of paper and stick the photos with captions. This visual story of your family is something you can treasure forever.",
+      "tags": ["activity", "family-history"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en9_002",
+      "title": "Every Family Is Special",
+      "content": "Remember, there is no 'right' way for a family to look. Some families have one child, some have many. Some children live with one parent, some with grandparents. Some families are created through adoption. What matters is not how many people are in a family, but how much they love and support each other. Be proud of your family just the way it is!",
+      "tags": ["values", "inclusivity"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en9_003",
+      "title": "Interview Activity - How Has Our Family Changed?",
+      "content": "Ask your parents or grandparents: How many people were in our family when you were a child? How has the family changed since then? Who are the new members? Has anyone moved to another city? Write down the answers. You can also ask them to name three things that have changed about family life and three things that have stayed the same.",
+      "tags": ["activity", "interview"],
+      "isPinned": false
+    }
+  ]
+}

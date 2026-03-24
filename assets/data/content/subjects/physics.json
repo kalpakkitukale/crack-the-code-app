@@ -1,0 +1,214 @@
+{
+  "id": "physics",
+  "name": "Physics",
+  "icon": "assets/icons/physics.png",
+  "color": "#4CAF50",
+  "boardId": "cbse",
+  "classId": "class_12",
+  "streamId": "science_pcm",
+  "totalChapters": 15,
+  "keywords": [
+    "physics",
+    "class 12 physics",
+    "JEE physics",
+    "NEET physics",
+    "CBSE physics",
+    "science"
+  ],
+  "chapters": [
+    {
+      "id": "ch1_electric_charges",
+      "number": 1,
+      "name": "Electric Charges and Fields",
+      "description": "Study of electric charges, Coulomb's law, electric field and flux",
+      "keywords": [
+        "electric charge",
+        "coulomb's law",
+        "electric field",
+        "field lines",
+        "gauss's law",
+        "electric flux",
+        "superposition principle"
+      ],
+      "topics": [
+        {
+          "id": "topic_1_1",
+          "name": "Introduction to Electric Charges",
+          "difficulty": "basic",
+          "videoCount": 8,
+          "keywords": [
+            "electric charge",
+            "positive charge",
+            "negative charge",
+            "charge conservation",
+            "quantization of charge",
+            "conductors",
+            "insulators"
+          ]
+        },
+        {
+          "id": "topic_1_2",
+          "name": "Coulomb's Law",
+          "difficulty": "intermediate",
+          "videoCount": 12,
+          "keywords": [
+            "coulomb's law",
+            "coulomb force",
+            "inverse square law",
+            "electric force",
+            "point charges",
+            "permittivity"
+          ]
+        },
+        {
+          "id": "topic_1_3",
+          "name": "Electric Field and Field Lines",
+          "difficulty": "intermediate",
+          "videoCount": 15,
+          "keywords": [
+            "electric field",
+            "field lines",
+            "electric field intensity",
+            "field due to point charge",
+            "superposition principle"
+          ]
+        },
+        {
+          "id": "topic_1_4",
+          "name": "Electric Flux and Gauss's Law",
+          "difficulty": "advanced",
+          "videoCount": 10,
+          "keywords": [
+            "gauss's law",
+            "electric flux",
+            "gaussian surface",
+            "flux density",
+            "applications of gauss law"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch2_electrostatic_potential",
+      "number": 2,
+      "name": "Electrostatic Potential and Capacitance",
+      "description": "Electric potential, potential energy, capacitors and their combinations",
+      "keywords": [
+        "electrostatic potential",
+        "electric potential",
+        "potential energy",
+        "capacitor",
+        "capacitance",
+        "dielectric"
+      ],
+      "topics": [
+        {
+          "id": "topic_2_1",
+          "name": "Electric Potential and Potential Energy",
+          "difficulty": "intermediate",
+          "videoCount": 14,
+          "keywords": [
+            "electric potential",
+            "potential energy",
+            "potential difference",
+            "equipotential surface",
+            "work done"
+          ]
+        },
+        {
+          "id": "topic_2_2",
+          "name": "Capacitors and Capacitance",
+          "difficulty": "intermediate",
+          "videoCount": 16,
+          "keywords": [
+            "capacitor",
+            "capacitance",
+            "parallel plate capacitor",
+            "dielectric",
+            "energy stored in capacitor"
+          ]
+        },
+        {
+          "id": "topic_2_3",
+          "name": "Combination of Capacitors",
+          "difficulty": "advanced",
+          "videoCount": 12,
+          "keywords": [
+            "series combination",
+            "parallel combination",
+            "equivalent capacitance",
+            "capacitor networks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch3_current_electricity",
+      "number": 3,
+      "name": "Current Electricity",
+      "description": "Electric current, Ohm's law, resistance, and electrical circuits",
+      "keywords": [
+        "current electricity",
+        "electric current",
+        "ohm's law",
+        "resistance",
+        "electrical circuits",
+        "kirchhoff's law"
+      ],
+      "topics": [
+        {
+          "id": "topic_3_1",
+          "name": "Electric Current and Drift Velocity",
+          "difficulty": "basic",
+          "videoCount": 10,
+          "keywords": [
+            "electric current",
+            "drift velocity",
+            "current density",
+            "charge carriers",
+            "electron flow"
+          ]
+        },
+        {
+          "id": "topic_3_2",
+          "name": "Ohm's Law and Resistance",
+          "difficulty": "basic",
+          "videoCount": 14,
+          "keywords": [
+            "ohm's law",
+            "resistance",
+            "resistivity",
+            "conductance",
+            "temperature dependence"
+          ]
+        },
+        {
+          "id": "topic_3_3",
+          "name": "Series and Parallel Circuits",
+          "difficulty": "intermediate",
+          "videoCount": 18,
+          "keywords": [
+            "series circuit",
+            "parallel circuit",
+            "equivalent resistance",
+            "voltage divider",
+            "current divider"
+          ]
+        },
+        {
+          "id": "topic_3_4",
+          "name": "Kirchhoff's Laws",
+          "difficulty": "advanced",
+          "videoCount": 15,
+          "keywords": [
+            "kirchhoff's law",
+            "kirchhoff's current law",
+            "kirchhoff's voltage law",
+            "wheatstone bridge",
+            "potentiometer"
+          ]
+        }
+      ]
+    }
+  ]
+}

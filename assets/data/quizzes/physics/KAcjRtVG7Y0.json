@@ -1,0 +1,138 @@
+{
+  "quiz": {
+    "id": "quiz_video_KAcjRtVG7Y0",
+    "title": "Electric Potential Energy",
+    "level": "video",
+    "entityId": "KAcjRtVG7Y0",
+    "subjectId": "physics",
+    "subjectName": "Physics",
+    "chapterId": "ch1_electric_charges",
+    "chapterName": "Electric Charges and Fields",
+    "questionIds": [
+      "q_potential_energy_001",
+      "q_potential_energy_002",
+      "q_potential_energy_003",
+      "q_potential_energy_004",
+      "q_potential_energy_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_potential_energy_001",
+      "questionText": "Electric potential energy is the energy a charge has due to its:",
+      "questionType": "mcq",
+      "options": [
+        "Position in an electric field",
+        "Motion through a conductor",
+        "Temperature",
+        "Mass"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Electric potential energy is the energy a charged object has due to its position in an electric field. It's similar to gravitational potential energy, which depends on position in a gravitational field.",
+      "hints": [
+        "Think about stored energy",
+        "Related to where the charge is located",
+        "Similar concept to gravitational PE"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["potential_energy", "position"],
+      "videoTimestamp": "2:00",
+      "points": 3
+    },
+    {
+      "id": "q_potential_energy_002",
+      "questionText": "The formula for electric potential energy between two point charges is:",
+      "questionType": "mcq",
+      "options": [
+        "U = kq1q2/r",
+        "U = kq1q2/r²",
+        "U = kq1q2r",
+        "U = kq1q2r²"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Electric potential energy U = kq1q2/r (inversely proportional to r, not r²). Note that this is different from the force formula F = kq1q2/r². Energy decreases as 1/r, while force decreases as 1/r².",
+      "hints": [
+        "Different from force formula",
+        "Energy involves 1/r, not 1/r²",
+        "Think about work done to bring charges together"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["potential_energy", "formula"],
+      "videoTimestamp": "5:30",
+      "points": 4
+    },
+    {
+      "id": "q_potential_energy_003",
+      "questionText": "When two like charges are brought closer together, their electric potential energy:",
+      "questionType": "mcq",
+      "options": [
+        "Increases (becomes more positive)",
+        "Decreases",
+        "Remains constant",
+        "Becomes zero"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When like charges (both positive or both negative) are brought closer, their PE increases because work must be done against the repulsive force. The system stores more energy, which would be released if the charges were allowed to move apart.",
+      "hints": [
+        "Like charges repel",
+        "Work is done against repulsion",
+        "Energy is stored in the system"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["potential_energy", "work"],
+      "videoTimestamp": "8:00",
+      "points": 4
+    },
+    {
+      "id": "q_potential_energy_004",
+      "questionText": "The SI unit of electric potential energy is:",
+      "questionType": "mcq",
+      "options": [
+        "Joule (J)",
+        "Volt (V)",
+        "Coulomb (C)",
+        "Newton (N)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Electric potential energy, like all forms of energy, is measured in Joules (J). Don't confuse this with electric potential (voltage), which is measured in Volts. Potential energy = Potential × Charge (J = V × C).",
+      "hints": [
+        "Same unit as any energy",
+        "Not to be confused with potential",
+        "Work and energy have the same unit"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["potential_energy", "units"],
+      "videoTimestamp": "10:00",
+      "points": 3
+    },
+    {
+      "id": "q_potential_energy_005",
+      "questionText": "If the electric potential energy of a system of two charges is negative, the charges are:",
+      "questionType": "mcq",
+      "options": [
+        "Unlike charges (one positive, one negative)",
+        "Like charges (both positive or both negative)",
+        "Neutral",
+        "At infinite distance"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Negative PE indicates unlike charges (opposite signs). Since U = kq1q2/r, if q1 and q2 have opposite signs, their product is negative, making U negative. This represents a bound state where energy was released when the charges came together.",
+      "hints": [
+        "Think about the sign of q1 × q2",
+        "Positive × negative = negative",
+        "Negative PE means attractive system"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["potential_energy", "sign_convention"],
+      "videoTimestamp": "12:30",
+      "points": 4
+    }
+  ]
+}

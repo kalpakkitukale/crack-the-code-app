@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch5",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn5_001",
+      "term": "Division",
+      "definition": "The operation of splitting a number into equal groups. It is the opposite of multiplication.",
+      "pronunciation": "dih-VIH-zhun",
+      "exampleUsage": "12 ÷ 3 = 4 means 12 things shared equally among 3 groups gives 4 in each group.",
+      "difficulty": "easy",
+      "relatedTerms": ["equal sharing", "quotient", "multiplication"]
+    },
+    {
+      "id": "gls_gr4_mn5_002",
+      "term": "Equal Sharing",
+      "definition": "Dividing things so that every person or group gets the same amount. No one gets more or less.",
+      "pronunciation": "EE-kwul SHAIR-ing",
+      "exampleUsage": "Amma shared 20 ladoos equally among 5 children, so each child got 4 ladoos.",
+      "difficulty": "easy",
+      "relatedTerms": ["division", "quotient", "groups"]
+    },
+    {
+      "id": "gls_gr4_mn5_003",
+      "term": "Dividend",
+      "definition": "The total number that is being divided or shared. It is the big number in a division problem.",
+      "pronunciation": "DIH-vih-dend",
+      "exampleUsage": "In 18 ÷ 3 = 6, the number 18 is the dividend because it is the total being shared.",
+      "difficulty": "medium",
+      "relatedTerms": ["divisor", "quotient", "division"]
+    },
+    {
+      "id": "gls_gr4_mn5_004",
+      "term": "Divisor",
+      "definition": "The number you divide by. It tells you how many equal groups to make.",
+      "pronunciation": "dih-VY-zor",
+      "exampleUsage": "In 18 ÷ 3 = 6, the number 3 is the divisor because we are making 3 equal groups.",
+      "difficulty": "medium",
+      "relatedTerms": ["dividend", "quotient", "division"]
+    },
+    {
+      "id": "gls_gr4_mn5_005",
+      "term": "Quotient",
+      "definition": "The answer you get when you divide one number by another. It tells how many are in each group.",
+      "pronunciation": "KWO-shunt",
+      "exampleUsage": "In 18 ÷ 3 = 6, the number 6 is the quotient. Each group has 6 items.",
+      "difficulty": "medium",
+      "relatedTerms": ["dividend", "divisor", "remainder"]
+    },
+    {
+      "id": "gls_gr4_mn5_006",
+      "term": "Remainder",
+      "definition": "The amount left over when a number cannot be divided equally. It is always less than the divisor.",
+      "pronunciation": "rih-MAIN-dur",
+      "exampleUsage": "When you divide 14 by 3, you get 4 with a remainder of 2, because 3 x 4 = 12 and 14 - 12 = 2.",
+      "difficulty": "medium",
+      "relatedTerms": ["division", "quotient", "divisor"]
+    },
+    {
+      "id": "gls_gr4_mn5_007",
+      "term": "Grouping",
+      "definition": "A way of dividing where you make groups of a fixed size and count how many groups you get.",
+      "pronunciation": "GROO-ping",
+      "exampleUsage": "If you have 24 pencils and put 6 in each box, you get 4 boxes. That is grouping!",
+      "difficulty": "easy",
+      "relatedTerms": ["division", "equal sharing"]
+    },
+    {
+      "id": "gls_gr4_mn5_008",
+      "term": "Division Fact",
+      "definition": "A basic division equation that you can learn by heart, like 56 ÷ 7 = 8. Division facts come from multiplication tables.",
+      "pronunciation": "dih-VIH-zhun fakt",
+      "exampleUsage": "Since 8 x 7 = 56, the division facts are 56 ÷ 7 = 8 and 56 ÷ 8 = 7.",
+      "difficulty": "easy",
+      "relatedTerms": ["multiplication fact", "division", "times table"]
+    },
+    {
+      "id": "gls_gr4_mn5_009",
+      "term": "Multiplication Fact",
+      "definition": "A basic multiplication equation like 6 x 5 = 30. Every multiplication fact gives you two division facts.",
+      "pronunciation": "mul-tih-plih-KAY-shun fakt",
+      "exampleUsage": "The multiplication fact 6 x 5 = 30 gives us 30 ÷ 5 = 6 and 30 ÷ 6 = 5.",
+      "difficulty": "easy",
+      "relatedTerms": ["division fact", "multiplication", "times table"]
+    },
+    {
+      "id": "gls_gr4_mn5_010",
+      "term": "Distribute",
+      "definition": "To give out or hand out items to different people or places, often in equal amounts.",
+      "pronunciation": "dis-TRIB-yoot",
+      "exampleUsage": "The teacher distributed 30 notebooks equally among 6 rows of students, giving 5 to each row.",
+      "difficulty": "easy",
+      "relatedTerms": ["equal sharing", "division", "grouping"]
+    }
+  ]
+}

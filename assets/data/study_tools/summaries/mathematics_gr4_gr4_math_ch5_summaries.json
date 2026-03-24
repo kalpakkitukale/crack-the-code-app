@@ -1,0 +1,69 @@
+{
+  "chapterId": "gr4_math_ch5",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_m5_v1",
+      "videoId": "gr4_m5_v1",
+      "content": "This video introduces the basic building blocks of geometry: points, lines, line segments, and rays. A point is a single location. A line segment connects two points and has a fixed length, like the edge of your desk. A ray starts at one point and goes on forever in one direction, like a beam of light. Students learn to identify and name these in everyday objects.",
+      "keyPoints": [
+        "A point marks a single location in space",
+        "A line segment has two endpoints and a fixed length",
+        "A ray has one endpoint and extends forever in one direction",
+        "Lines, rays, and segments are found everywhere around us"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m5_v2",
+      "videoId": "gr4_m5_v2",
+      "content": "This video explains angles and special types of lines. An angle is formed when two rays or line segments meet at a point called the vertex. A right angle is exactly 90 degrees, like the corner of a page. Parallel lines are lines that run side by side and never meet, like railway tracks. Perpendicular lines cross each other at right angles, like the letter T.",
+      "keyPoints": [
+        "An angle is formed where two lines or rays meet",
+        "A right angle is exactly 90 degrees",
+        "Parallel lines stay the same distance apart and never meet",
+        "Perpendicular lines cross at a 90-degree angle"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m5_v3",
+      "videoId": "gr4_m5_v3",
+      "content": "This video teaches about triangles, which are shapes with 3 sides and 3 angles. An equilateral triangle has all sides equal and all angles the same (60 degrees). An isosceles triangle has two equal sides and two equal angles. A scalene triangle has all sides and angles different. No matter the type, the angles of every triangle always add up to 180 degrees.",
+      "keyPoints": [
+        "Every triangle has 3 sides and 3 angles",
+        "Equilateral: all 3 sides and angles are equal",
+        "Isosceles: 2 sides and 2 angles are equal",
+        "Scalene: all sides and angles are different",
+        "Angles in any triangle add up to 180 degrees"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m5_v4",
+      "videoId": "gr4_m5_v4",
+      "content": "This video explores quadrilaterals, which are shapes with 4 sides and 4 angles. A rectangle has 4 right angles and opposite sides that are equal. A square is a special rectangle with all 4 sides equal. A parallelogram has opposite sides that are equal and parallel. A rhombus has all 4 sides equal but its angles are not always 90 degrees. Students learn to tell these shapes apart.",
+      "keyPoints": [
+        "A quadrilateral has 4 sides and 4 angles",
+        "A rectangle has 4 right angles and equal opposite sides",
+        "A square has 4 equal sides and 4 right angles",
+        "A parallelogram has opposite sides that are parallel and equal",
+        "A rhombus has 4 equal sides like a tilted square"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m5_v5",
+      "videoId": "gr4_m5_v5",
+      "content": "This video brings geometry to life by showing how shapes appear in the real world. Students explore how buildings use rectangles and squares for strength, how bridges use triangles for stability, and how road signs use different shapes to communicate. Understanding geometry helps us notice patterns and design all around us.",
+      "keyPoints": [
+        "Buildings use rectangles and squares for walls, windows, and doors",
+        "Triangles are strong shapes used in bridges and roofs",
+        "Road signs use different shapes: stop signs, yield signs, speed limit signs",
+        "Geometry is everywhere in nature and in things people build"
+      ],
+      "source": "manual"
+    }
+  ]
+}

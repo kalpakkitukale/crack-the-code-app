@@ -1,0 +1,289 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch13",
+  "topicId": "gr4_mn_13_1",
+  "topicName": "Distance Calculations",
+  "chapterId": "gr4_math_ncert_ch13",
+  "chapterName": "The Transport Museum",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about distance, time, and money calculations in a transport museum context",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "money_basics",
+      "conceptName": "Understanding Indian money (rupees and paise)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq13_1", "rq13_2", "rq13_3"],
+      "remedialVideoIds": ["prereq_ch13_money_v1"]
+    },
+    {
+      "conceptId": "multi_digit_addition",
+      "conceptName": "Adding 3-digit and 4-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq13_4", "rq13_5", "rq13_6"],
+      "remedialVideoIds": ["prereq_ch13_addition_v1"]
+    },
+    {
+      "conceptId": "time_basics",
+      "conceptName": "Telling time in hours and minutes",
+      "importance": "important",
+      "questionsTestingThis": ["rq13_7", "rq13_8"],
+      "remedialVideoIds": ["prereq_ch13_time_v1"]
+    },
+    {
+      "conceptId": "distance_concept",
+      "conceptName": "Basic understanding of distance and measurement",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq13_9", "rq13_10"],
+      "remedialVideoIds": ["prereq_ch13_addition_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq13_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "money_basics",
+      "question": "How many paise make 1 rupee?",
+      "options": ["10 paise", "50 paise", "100 paise", "1000 paise"],
+      "correctAnswer": 2,
+      "correctAnswerText": "100 paise",
+      "explanation": "There are 100 paise in 1 rupee. Just like 100 centimetres make 1 metre!",
+      "tags": ["money", "rupees", "paise"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused with 10 paise",
+          "conceptGap": "Does not know the conversion between rupees and paise",
+          "remediation": "Review coin denominations and rupee-paise relationship"
+        }
+      ]
+    },
+    {
+      "id": "rq13_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "money_basics",
+      "question": "Anu has a 10 rupee note and a 5 rupee coin. How much money does she have in total?",
+      "options": ["5 rupees", "10 rupees", "15 rupees", "50 rupees"],
+      "correctAnswer": 2,
+      "correctAnswerText": "15 rupees",
+      "explanation": "10 rupees + 5 rupees = 15 rupees. We add the values of the note and the coin together.",
+      "tags": ["money", "addition", "counting money"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq13_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "money_basics",
+      "question": "A pencil costs 8 rupees. Ravi pays with a 20 rupee note. How much change should he get back?",
+      "options": ["8 rupees", "10 rupees", "12 rupees", "28 rupees"],
+      "correctAnswer": 2,
+      "correctAnswerText": "12 rupees",
+      "explanation": "Change = amount paid - cost = 20 - 8 = 12 rupees. Ravi gets 12 rupees back.",
+      "tags": ["money", "subtraction", "change"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added instead of subtracting",
+          "conceptGap": "Does not understand that change means subtracting the cost from the amount paid",
+          "remediation": "Practice change-giving problems with real coins"
+        }
+      ]
+    },
+    {
+      "id": "rq13_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "multi_digit_addition",
+      "question": "What is 235 + 142?",
+      "options": ["277", "367", "377", "477"],
+      "correctAnswer": 2,
+      "correctAnswerText": "377",
+      "explanation": "Add ones: 5 + 2 = 7. Add tens: 3 + 4 = 7. Add hundreds: 2 + 1 = 3. The answer is 377.",
+      "tags": ["addition", "3-digit", "no carrying"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq13_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "multi_digit_addition",
+      "question": "What is 486 + 257?",
+      "options": ["633", "643", "733", "743"],
+      "correctAnswer": 3,
+      "correctAnswerText": "743",
+      "explanation": "Add ones: 6 + 7 = 13, write 3 carry 1. Add tens: 8 + 5 + 1 = 14, write 4 carry 1. Add hundreds: 4 + 2 + 1 = 7. The answer is 743.",
+      "tags": ["addition", "3-digit", "carrying"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Forgot to carry over",
+          "conceptGap": "Regrouping / carrying in addition",
+          "remediation": "Practice 3-digit addition with carrying step by step"
+        }
+      ]
+    },
+    {
+      "id": "rq13_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "multi_digit_addition",
+      "question": "A bus travels 1250 km on Monday and 1375 km on Tuesday. What is the total distance?",
+      "options": ["2525 km", "2625 km", "2635 km", "2725 km"],
+      "correctAnswer": 1,
+      "correctAnswerText": "2625 km",
+      "explanation": "1250 + 1375 = 2625 km. Add ones: 0 + 5 = 5. Add tens: 5 + 7 = 12, write 2 carry 1. Add hundreds: 2 + 3 + 1 = 6. Add thousands: 1 + 1 = 2. Total is 2625 km.",
+      "tags": ["addition", "4-digit", "distance", "word problem"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 60,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq13_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "time_basics",
+      "question": "How many minutes are there in 1 hour?",
+      "options": ["30 minutes", "45 minutes", "60 minutes", "100 minutes"],
+      "correctAnswer": 2,
+      "correctAnswerText": "60 minutes",
+      "explanation": "There are 60 minutes in 1 hour. The minute hand goes all the way around the clock once in 60 minutes.",
+      "tags": ["time", "hours", "minutes"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq13_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "time_basics",
+      "question": "The clock shows 3:30. What time will it be after 1 hour?",
+      "options": ["3:30", "4:00", "4:30", "5:30"],
+      "correctAnswer": 2,
+      "correctAnswerText": "4:30",
+      "explanation": "3:30 plus 1 hour = 4:30. When we add 1 hour, the hour goes from 3 to 4, and the minutes stay at 30.",
+      "tags": ["time", "adding hours", "clock"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Changed minutes to 00 instead of keeping 30",
+          "conceptGap": "When adding whole hours, only the hour changes, not the minutes",
+          "remediation": "Practice adding whole hours to different times on a clock"
+        }
+      ]
+    },
+    {
+      "id": "rq13_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "distance_concept",
+      "question": "Which unit do we use to measure the distance between two cities?",
+      "options": ["Centimetres", "Metres", "Kilometres", "Grams"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Kilometres",
+      "explanation": "We use kilometres (km) to measure long distances like the distance between two cities. Centimetres and metres are for shorter distances.",
+      "tags": ["distance", "kilometres", "units"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq13_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "distance_concept",
+      "question": "Delhi is 200 km from Agra. Priya has already travelled 75 km from Delhi towards Agra. How much farther does she need to go?",
+      "options": ["75 km", "100 km", "125 km", "275 km"],
+      "correctAnswer": 2,
+      "correctAnswerText": "125 km",
+      "explanation": "Distance remaining = Total distance - Distance already travelled = 200 - 75 = 125 km.",
+      "tags": ["distance", "subtraction", "word problem"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 50,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added instead of subtracting",
+          "conceptGap": "Finding remaining distance requires subtraction, not addition",
+          "remediation": "Practice 'how much more' and 'how much left' word problems"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You know your money, addition, and time really well. You're ready to explore the Transport Museum!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding. Let's go on a fun trip to the Transport Museum!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some understanding but need to review a few things first. Watch the review videos and then we'll visit the museum together!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review money, addition, and time. We'll watch some fun videos to get you ready for the Transport Museum adventure!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We'll show you some fun videos about money, addition, and time first.",
+    "high_score_praise": "Awesome! You're all set to explore the Transport Museum and solve exciting math problems!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "videoSetId": "prereq_gr4_round",
+  "purpose": "Prerequisite videos for Grade 4 Rounding 4-digit Numbers",
+  "targetTopicId": "gr4_m_4_3",
+  "description": "Videos covering prerequisite concepts: 4-digit place value, basic rounding, number line, rounding rules",
+
+  "videos": [
+    {
+      "id": "prereq_pv4_v1",
+      "conceptId": "pv_4digit",
+      "type": "concept_review",
+
+      "title": "Place Value in 4-Digit Numbers - Quick Review",
+      "description": "Review place value in thousands, hundreds, tens, and ones",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["place value", "4-digit numbers", "thousands", "review"],
+
+      "learningObjectives": [
+        "Recall place value in 4-digit numbers",
+        "Identify thousands, hundreds, tens, ones",
+        "Quick refresher for rounding context"
+      ],
+
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Rounding to different place values"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_pv4_v2",
+      "conceptId": "pv_4digit",
+      "type": "worked_examples",
+
+      "title": "Identifying Place Value Positions",
+      "description": "Practice identifying which digit is in which place",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["place value", "positions", "practice"],
+
+      "learningObjectives": [
+        "Identify tens, hundreds, thousands places",
+        "Essential for knowing which place to round to",
+        "Practice with multiple examples"
+      ],
+
+      "prerequisites": ["Basic place value concept"],
+      "followUpTopics": ["Rounding to nearest ten, hundred, thousand"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_round_v1",
+      "conceptId": "rounding_basics",
+      "type": "concept_introduction",
+
+      "title": "Rounding to the Nearest Ten | Introduction",
+      "description": "Learn what rounding means and how to round 2-digit numbers to nearest ten",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+
+      "tags": ["rounding", "nearest ten", "introduction", "2-digit"],
+
+      "learningObjectives": [
+        "Understand what rounding means",
+        "Round 2-digit numbers to nearest ten",
+        "Learn the basic rounding rule"
+      ],
+
+      "prerequisites": ["Place value understanding"],
+      "followUpTopics": ["Rounding to nearest hundred"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_round_v2",
+      "conceptId": "rounding_basics",
+      "type": "worked_examples",
+
+      "title": "Rounding Numbers | Practice with 2-Digit and 3-Digit",
+      "description": "Practice rounding with multiple examples including nearest ten and nearest hundred",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 850000,
+
+      "tags": ["rounding", "practice", "examples", "2-digit", "3-digit"],
+
+      "learningObjectives": [
+        "Practice rounding to nearest ten",
+        "Practice rounding to nearest hundred",
+        "See multiple examples with explanations"
+      ],
+
+      "prerequisites": ["Basic rounding concept"],
+      "followUpTopics": ["Rounding 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_round_v3",
+      "conceptId": "rounding_rules",
+      "type": "concept_deepening",
+
+      "title": "Rounding Rules | 5 or Above, Below 5",
+      "description": "Master the rounding rules: when to round up and when to round down",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1600000,
+
+      "tags": ["rounding rules", "round up", "round down", "5 or above"],
+
+      "learningObjectives": [
+        "Learn the key rounding rule: 5 or above rounds up",
+        "Understand: below 5 rounds down",
+        "Apply the rule consistently"
+      ],
+
+      "prerequisites": ["Basic number understanding"],
+      "followUpTopics": ["Applying rules to larger numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_round_v4",
+      "conceptId": "rounding_basics",
+      "type": "practice",
+
+      "title": "Rounding to Nearest Hundred | Step by Step",
+      "description": "Focus on rounding 3-digit numbers to the nearest hundred with clear steps",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 330,
+      "durationDisplay": "5:30",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 720000,
+
+      "tags": ["rounding", "nearest hundred", "3-digit", "step by step"],
+
+      "learningObjectives": [
+        "Round 3-digit numbers to nearest hundred",
+        "Identify which digit determines the rounding",
+        "Build confidence with practice"
+      ],
+
+      "prerequisites": ["Rounding to nearest ten"],
+      "followUpTopics": ["Rounding to nearest thousand"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_nline_v1",
+      "conceptId": "number_line",
+      "type": "concept_introduction",
+
+      "title": "Number Line Basics | Understanding Position and Distance",
+      "description": "Learn how to use a number line to visualize numbers and understand which numbers are closer",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 300,
+      "durationDisplay": "5:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 950000,
+
+      "tags": ["number line", "position", "distance", "visual learning"],
+
+      "learningObjectives": [
+        "Understand how number lines work",
+        "Find which number is closer on a number line",
+        "Visualize rounding using number line"
+      ],
+
+      "prerequisites": ["Basic number knowledge"],
+      "followUpTopics": ["Using number line for rounding"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_nline_v2",
+      "conceptId": "number_line",
+      "type": "application",
+
+      "title": "Rounding on a Number Line | Visual Method",
+      "description": "See how rounding works using a number line - visual approach to understanding rounding",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1100000,
+
+      "tags": ["number line", "rounding", "visual method", "understanding"],
+
+      "learningObjectives": [
+        "Use number line to decide which way to round",
+        "Visualize the rounding process",
+        "Understand why rounding works"
+      ],
+
+      "prerequisites": ["Basic number line understanding", "Rounding basics"],
+      "followUpTopics": ["Rounding larger numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "These videos should be recommended when students show gaps in prerequisite knowledge during readiness assessment",
+    "recommendationStrategy": "Select videos based on specific concepts where student struggled",
+    "sequencing": "Present in order of importance: critical concepts first (place value, rounding basics), then important (number line), then reinforcement"
+  }
+}

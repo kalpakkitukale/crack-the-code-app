@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch4",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "पापा जब बच्चे थे",
+      "description": "A story about a father sharing his childhood memories with his children",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_characters",
+      "label": "पात्र (Characters)",
+      "description": "The main characters in the story - Papa and his children",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_papa",
+      "label": "पापा (Papa)",
+      "description": "The father who shares his childhood memories and stories of mischief",
+      "parentId": "node_characters",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_children",
+      "label": "बच्चे (Children)",
+      "description": "Papa's children who listen to his stories with surprise and joy",
+      "parentId": "node_characters",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_memories",
+      "label": "बचपन की यादें (Childhood Memories)",
+      "description": "The collection of fun experiences Papa shares from his childhood days",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_shararat",
+      "label": "शरारतें (Pranks)",
+      "description": "The mischievous acts Papa did - climbing trees, playing pranks on friends",
+      "parentId": "node_memories",
+      "positionX": -80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_khel",
+      "label": "खेल-कूद (Games & Play)",
+      "description": "Outdoor games, running around, and playing with friends in the neighborhood",
+      "parentId": "node_memories",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_daant",
+      "label": "डाँट (Scolding)",
+      "description": "Getting scolded by elders for being naughty - a common childhood experience",
+      "parentId": "node_memories",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_themes",
+      "label": "मुख्य विषय (Themes)",
+      "description": "The main themes and messages of the story",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_bond",
+      "label": "परिवार का बंधन (Family Bond)",
+      "description": "Sharing memories brings families closer together",
+      "parentId": "node_themes",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_understanding",
+      "label": "समझ (Understanding)",
+      "description": "Parents understand children because they were once children too",
+      "parentId": "node_themes",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_language",
+      "label": "भाषा सीखना (Language Learning)",
+      "description": "New Hindi words: बचपन, शरारत, याद, नटखट, डाँटना",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_past_tense",
+      "label": "भूतकाल (Past Tense)",
+      "description": "The story uses past tense: था, थे, थी - to talk about things that happened before",
+      "parentId": "node_language",
+      "positionX": -300,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_moral",
+      "label": "सीख (Moral)",
+      "description": "Every adult was once a child - sharing stories builds love and understanding",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 300,
+      "color": "#00BCD4",
+      "orderIndex": 13
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "evs_gr4",
+  "name": "EVS",
+  "icon": "nature",
+  "color": "#AABB77",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["evs", "environmental studies", "grade 4", "environment"],
+  "chapters": [
+    {
+      "id": "gr4_evs_ch1",
+      "number": 1,
+      "name": "Our Environment",
+      "description": "Living and non-living things, ecosystems",
+      "keywords": ["environment", "living", "non-living"],
+      "topics": [
+        {"id": "gr4_ev_1_1", "name": "Living and Non-living", "difficulty": "basic", "videoCount": 4, "keywords": ["living"]},
+        {"id": "gr4_ev_1_2", "name": "Ecosystems", "difficulty": "basic", "videoCount": 4, "keywords": ["ecosystems"]}
+      ]
+    },
+    {
+      "id": "gr4_evs_ch2",
+      "number": 2,
+      "name": "Water",
+      "description": "Water cycle and conservation",
+      "keywords": ["water", "cycle", "conservation"],
+      "topics": [
+        {"id": "gr4_ev_2_1", "name": "Water Cycle", "difficulty": "basic", "videoCount": 4, "keywords": ["water cycle"]},
+        {"id": "gr4_ev_2_2", "name": "Conservation", "difficulty": "basic", "videoCount": 4, "keywords": ["conservation"]}
+      ]
+    },
+    {
+      "id": "gr4_evs_ch3",
+      "number": 3,
+      "name": "Plants Around Us",
+      "description": "Types and uses of plants",
+      "keywords": ["plants", "types", "uses"],
+      "topics": [
+        {"id": "gr4_ev_3_1", "name": "Types of Plants", "difficulty": "basic", "videoCount": 4, "keywords": ["plant types"]},
+        {"id": "gr4_ev_3_2", "name": "Uses of Plants", "difficulty": "basic", "videoCount": 4, "keywords": ["plant uses"]}
+      ]
+    }
+  ]
+}

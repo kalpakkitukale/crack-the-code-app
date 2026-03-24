@@ -1,0 +1,210 @@
+{
+  "videoSetId": "playlist_gr4_mn10_t1",
+  "topicId": "gr4_mn_10_1",
+  "topicName": "Reading Wildlife Data Tables",
+  "chapterId": "gr4_math_ncert_ch10",
+  "chapterName": "Elephants, Tigers, and Leopards",
+  "description": "Main learning videos for reading and understanding data presented in tables, using wildlife examples from Indian forests",
+
+  "videos": [
+    {
+      "id": "gr4_mn10_t1_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "What is a Data Table? | Organising Wildlife Information",
+      "description": "Learn what a data table is and why we use them. See how forest officers use tables to record the number of elephants, tigers, and leopards in different national parks.",
+
+      "youtubeId": "yZJR2MzkBrU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yZJR2MzkBrU",
+      "thumbnailUrl": "https://img.youtube.com/vi/yZJR2MzkBrU/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+
+      "tags": ["data tables", "introduction", "rows columns", "wildlife data", "organising"],
+
+      "learningObjectives": [
+        "Understand what a data table is",
+        "Identify rows and columns",
+        "Read titles and headings in a table"
+      ],
+
+      "prerequisites": ["Basic reading and counting"],
+      "followUpTopics": ["Finding specific data in tables"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "In a table, information going across is called a:",
+            "options": ["Column", "Row", "Title"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t1_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Reading Data Tables Step by Step | Finding Animal Numbers",
+      "description": "Learn how to find specific information in a data table. How many tigers are in Ranthambore? How many elephants are in Kerala? Use rows and columns to find the answer!",
+
+      "youtubeId": "mAvuom42NyY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mAvuom42NyY",
+      "thumbnailUrl": "https://img.youtube.com/vi/mAvuom42NyY/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3200000,
+
+      "tags": ["reading tables", "finding data", "step by step", "animal census", "national parks"],
+
+      "learningObjectives": [
+        "Find a specific value by matching row and column",
+        "Answer questions using data from a table",
+        "Understand what each number in a table represents"
+      ],
+
+      "prerequisites": ["Understanding rows and columns"],
+      "followUpTopics": ["Comparing numbers from tables"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "To find how many tigers are in Park B, you look at the 'Tigers' row and the 'Park B' column. True or False?",
+            "options": ["True", "False"],
+            "correctAnswer": 0
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t1_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Practice Reading Tables | Wildlife Data Questions",
+      "description": "Work through practice questions using wildlife data tables. Answer questions like: Which state has the most elephants? How many leopards are there in total?",
+
+      "youtubeId": "7J1OkxuyLD0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7J1OkxuyLD0",
+      "thumbnailUrl": "https://img.youtube.com/vi/7J1OkxuyLD0/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCkiSMoFsOHbQCRbTasb5oNQ",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+
+      "tags": ["practice", "worked examples", "table questions", "wildlife", "totals"],
+
+      "learningObjectives": [
+        "Answer questions from a data table independently",
+        "Find totals by adding numbers from a table",
+        "Identify which category has the most or least"
+      ],
+
+      "prerequisites": ["Reading data from tables"],
+      "followUpTopics": ["Comparing numbers from data"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t1_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Data Table Challenge | Can You Find the Answer?",
+      "description": "Challenge yourself with trickier table-reading questions! Use wildlife census data to answer multi-step questions about animals in Indian forests.",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Jack Hartmann",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 2000000,
+
+      "tags": ["challenge", "practice problems", "multi-step", "census data"],
+
+      "learningObjectives": [
+        "Solve multi-step problems using table data",
+        "Extract and combine information from different parts of a table",
+        "Build confidence with data interpretation"
+      ],
+
+      "prerequisites": ["Basic table reading"],
+      "followUpTopics": ["Comparing numbers from data"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn10_t1_v1", "gr4_mn10_t1_v2", "gr4_mn10_t1_v3", "gr4_mn10_t1_v4"],
+      "estimatedTime": 1710
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn10_t1_v1", "gr4_mn10_t1_v2", "gr4_mn10_t1_v4"],
+      "estimatedTime": 1260
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn10_t1_v1", "gr4_mn10_t1_v2", "gr4_mn10_t1_v3"],
+      "estimatedTime": 1350
+    }
+  }
+}

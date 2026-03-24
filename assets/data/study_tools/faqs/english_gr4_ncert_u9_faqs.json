@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ncert_u9",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en9_001",
+      "videoId": "gr4_en9_v1",
+      "question": "Who wrote the poem 'The Naughty Boy'?",
+      "answer": "The poem 'The Naughty Boy' was written by John Keats, one of the most famous English poets. He lived from 1795 to 1821. Even though he is known for serious poetry, this poem is fun and playful, telling the story of a curious boy who runs away to Scotland!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en9_002",
+      "videoId": "gr4_en9_v1",
+      "question": "Why is the boy in the poem called 'naughty'?",
+      "answer": "The boy is called naughty because he runs away from home without permission. He leaves England and goes all the way to Scotland on his own, which is not something a child should do. He is not mean or bad -- just very curious and a bit disobedient. His naughtiness comes from wanting adventure!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en9_003",
+      "videoId": "gr4_en9_v1",
+      "question": "What lesson does the poem 'The Naughty Boy' teach?",
+      "answer": "The poem teaches us an important lesson: be happy with what you have. The boy thought Scotland would be completely different and better than England, but he found that things were mostly the same. This is like the saying 'the grass is always greener on the other side' -- we often think other places or things are better, but they may not be!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en9_004",
+      "videoId": "gr4_en9_v2",
+      "question": "Who is Pinocchio and who created him?",
+      "answer": "Pinocchio is a wooden puppet who can walk, talk, and think like a real boy. He was created by Geppetto, a kind old carpenter who lived alone and wished for a son. Geppetto carved Pinocchio from a special piece of wood, and magically, the puppet came to life! The story of Pinocchio was written by Carlo Collodi, an Italian author.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en9_005",
+      "videoId": "gr4_en9_v2",
+      "question": "Why does Pinocchio's nose grow?",
+      "answer": "Pinocchio's nose grows longer every time he tells a lie! This is a magical punishment to teach him that lying is wrong. The more lies he tells, the longer his nose gets, and everyone can see that he is not telling the truth. This teaches us that lies are hard to hide and honesty is always the best choice.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en9_006",
+      "videoId": "gr4_en9_v3",
+      "question": "How does Pinocchio become a real boy?",
+      "answer": "Pinocchio becomes a real boy by proving that he has become a good person. He learns to be honest (no more lying), hardworking (going to school), kind (helping others), and brave (protecting Geppetto). When the fairy sees that Pinocchio has truly changed, she rewards him by turning him from a wooden puppet into a real, living boy!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en9_007",
+      "videoId": "gr4_en9_v4",
+      "question": "What is punctuation and why is it important?",
+      "answer": "Punctuation is the set of special marks we use in writing to make our sentences clear. Without punctuation, writing would be very confusing! Imagine reading: 'lets eat grandma' vs 'Let's eat, Grandma!' The comma completely changes the meaning. Punctuation tells the reader where to pause, when a question is being asked, and when someone is feeling excited or surprised.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en9_008",
+      "videoId": "gr4_en9_v4",
+      "question": "What is the difference between a full stop and a comma?",
+      "answer": "A full stop (.) comes at the end of a complete sentence. It is a long pause, like stopping. A comma (,) comes in the middle of a sentence. It is a short pause, like slowing down. Example: 'I like apples, oranges, and bananas.' (commas in the middle) 'I ate all the fruits.' (full stop at the end). Think of it this way: a comma is a speed bump, a full stop is a red light!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en9_009",
+      "videoId": "gr4_en9_v4",
+      "question": "When do I use a question mark vs an exclamation mark?",
+      "answer": "Use a question mark (?) when you are asking something: 'What is your name?' 'Where did Pinocchio go?' Use an exclamation mark (!) when you have strong feelings or want to show excitement, surprise, or a command: 'What a beautiful puppet!' 'Stop lying!' 'Hurray, he is a real boy!' If you are asking, use (?). If you are feeling strongly, use (!).",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en9_010",
+      "videoId": "gr4_en9_v2",
+      "question": "What values does the story of Pinocchio teach us?",
+      "answer": "The story of Pinocchio teaches many important values: (1) Honesty -- always tell the truth. (2) Obedience -- listen to your parents and teachers. (3) Hard work -- go to school and study well. (4) Kindness -- be good to others. (5) Courage -- be brave when facing difficulties. (6) Gratitude -- be thankful for the people who love and care for you. These values help us become good human beings!",
+      "status": "answered",
+      "upvotes": 26
+    }
+  ]
+}

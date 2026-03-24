@@ -1,0 +1,137 @@
+{
+  "chapterId": "gr4_eng_ch3",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Adjectives",
+      "description": "Describing words that tell us more about nouns",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_what",
+      "label": "What Are Adjectives?",
+      "description": "Words that describe nouns — people, places, animals, things",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_size",
+      "label": "Size",
+      "description": "big, small, tiny, huge, tall, short",
+      "parentId": "node_what",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_colour",
+      "label": "Colour",
+      "description": "red, blue, green, yellow, golden, dark",
+      "parentId": "node_what",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_feeling",
+      "label": "Feeling",
+      "description": "happy, sad, angry, excited, brave, scared",
+      "parentId": "node_what",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_shape_touch",
+      "label": "Shape & Touch",
+      "description": "round, flat, smooth, rough, soft, hard",
+      "parentId": "node_what",
+      "positionX": -200,
+      "positionY": 280,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_position",
+      "label": "Where They Go",
+      "description": "Before a noun or after is/was/are",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_before",
+      "label": "Before a Noun",
+      "description": "Example: 'a clever fox'",
+      "parentId": "node_position",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_after",
+      "label": "After is/was/are",
+      "description": "Example: 'The fox is clever'",
+      "parentId": "node_position",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_comparison",
+      "label": "Comparing with Adjectives",
+      "description": "Using adjectives to compare things",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_comparative",
+      "label": "Comparative (-er / more)",
+      "description": "Comparing two things: taller, more beautiful",
+      "parentId": "node_comparison",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_superlative",
+      "label": "Superlative (-est / most)",
+      "description": "Comparing three or more: tallest, most beautiful",
+      "parentId": "node_comparison",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_irregular",
+      "label": "Irregular Adjectives",
+      "description": "good-better-best, bad-worse-worst",
+      "parentId": "node_comparison",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    }
+  ]
+}

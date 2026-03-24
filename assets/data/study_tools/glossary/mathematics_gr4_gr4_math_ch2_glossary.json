@@ -1,0 +1,103 @@
+{
+  "chapterId": "gr4_math_ch2",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_m2_001",
+      "term": "Addition",
+      "definition": "The process of combining two or more numbers to find their total. The answer is called the sum.",
+      "pronunciation": "uh-DISH-un",
+      "exampleUsage": "The addition of 250 and 350 gives us 600.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m2_002",
+      "term": "Subtraction",
+      "definition": "The process of taking one number away from another to find the difference.",
+      "pronunciation": "sub-TRAK-shun",
+      "exampleUsage": "The subtraction of 200 from 500 gives us 300.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m2_003",
+      "term": "Sum",
+      "definition": "The answer you get when you add two or more numbers together.",
+      "pronunciation": "SUM",
+      "exampleUsage": "The sum of 15 and 20 is 35.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m2_004",
+      "term": "Difference",
+      "definition": "The answer you get when you subtract one number from another.",
+      "pronunciation": "DIF-er-ens",
+      "exampleUsage": "The difference between 50 and 30 is 20.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m2_005",
+      "term": "Regrouping",
+      "definition": "Rearranging numbers by place value when adding or subtracting. In addition it is called carrying, and in subtraction it is called borrowing.",
+      "pronunciation": "ree-GROO-ping",
+      "exampleUsage": "When adding 47 + 35, we use regrouping because 7 + 5 = 12, which is more than 9.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m2_006",
+      "term": "Carrying",
+      "definition": "In addition, when the sum of a column is 10 or more, you write the ones digit and move (carry) the tens digit to the next column on the left.",
+      "pronunciation": "KAIR-ee-ing",
+      "exampleUsage": "In 28 + 15, we carry 1 to the tens column because 8 + 5 = 13.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m2_007",
+      "term": "Borrowing",
+      "definition": "In subtraction, when a digit on top is smaller than the digit below, you take 1 from the next column on the left to make the top digit bigger.",
+      "pronunciation": "BOR-oh-ing",
+      "exampleUsage": "In 42 - 17, we borrow 1 ten to make the ones column 12 - 7 instead of 2 - 7.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m2_008",
+      "term": "Addend",
+      "definition": "A number that is being added to another number. In an addition problem, each number being added is an addend.",
+      "pronunciation": "AD-end",
+      "exampleUsage": "In 3 + 5 = 8, both 3 and 5 are addends.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m2_009",
+      "term": "Minuend",
+      "definition": "The first number in a subtraction problem. It is the number from which another number is subtracted.",
+      "pronunciation": "MIN-yoo-end",
+      "exampleUsage": "In 50 - 20 = 30, the number 50 is the minuend.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m2_010",
+      "term": "Subtrahend",
+      "definition": "The second number in a subtraction problem. It is the number being taken away.",
+      "pronunciation": "SUB-truh-hend",
+      "exampleUsage": "In 50 - 20 = 30, the number 20 is the subtrahend.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m2_011",
+      "term": "Word Problem",
+      "definition": "A math question written as a short story or real-life situation. You have to figure out which operation (addition or subtraction) to use.",
+      "pronunciation": "WERD PROB-lem",
+      "exampleUsage": "If you have 25 apples and get 10 more, how many do you have? This is a word problem that uses addition.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m2_012",
+      "term": "Estimate",
+      "definition": "A close guess of the answer, usually found by rounding numbers before adding or subtracting. It helps you check if your exact answer makes sense.",
+      "pronunciation": "ES-tih-mayt",
+      "exampleUsage": "To estimate 198 + 305, round to 200 + 300 = 500. The exact answer 503 is close to 500, so it makes sense!",
+      "difficulty": "medium"
+    }
+  ]
+}

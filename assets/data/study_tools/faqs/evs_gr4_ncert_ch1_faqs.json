@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch1",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en1_001",
+      "videoId": "gr4_en1_v1",
+      "question": "What are the different ways children go to school in India?",
+      "answer": "Children in India go to school by walking, cycling, bus, auto-rickshaw, car, boat, cycle-rickshaw, and even by trolley or ropeway in hilly areas. The way they travel depends on where they live and what transport is available.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en1_002",
+      "videoId": "gr4_en1_v1",
+      "question": "Why do some children use boats to go to school?",
+      "answer": "Children who live near rivers, lakes, or backwaters use boats because there are no roads or bridges to cross the water. In places like Kerala's backwaters or river areas in Assam and Bihar, boats are the only way to travel!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en1_003",
+      "videoId": "gr4_en1_v1",
+      "question": "What is a trolley or ropeway?",
+      "answer": "A trolley or ropeway is a cart that hangs from a thick rope or cable stretched between two high points across a valley or river. People sit in the cart and it slides along the rope to the other side. In some hilly areas, children use this to cross valleys to reach school.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en1_004",
+      "videoId": "gr4_en1_v2",
+      "question": "What problems do children face while going to school during monsoon?",
+      "answer": "During monsoon, heavy rains cause rivers and streams to overflow, flooding the roads and paths. Bamboo bridges may get washed away. Muddy roads become slippery and dangerous. Some children cannot go to school at all during heavy rains.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en1_005",
+      "videoId": "gr4_en1_v2",
+      "question": "What is a bamboo bridge?",
+      "answer": "A bamboo bridge is a simple bridge made by tying bamboo poles together. People in villages build these over small rivers and streams. They are not very strong and may break or wash away during heavy rains, so crossing them can be risky.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_en1_006",
+      "videoId": "gr4_en1_v3",
+      "question": "Do all schools in India look the same?",
+      "answer": "Not at all! Schools in India are very different. City schools may be big buildings with many rooms, playgrounds, and computers. Village schools may be small rooms, thatched huts, or even classes held under a tree. Some schools have hundreds of students, while others have just a few.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en1_007",
+      "videoId": "gr4_en1_v3",
+      "question": "What is a single-teacher school?",
+      "answer": "A single-teacher school is a school where one teacher teaches children of all ages and classes together in one room. These are common in small villages where there are not enough students or resources for multiple teachers.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_en1_008",
+      "videoId": "gr4_en1_v1",
+      "question": "How far do some children walk to reach school?",
+      "answer": "Some children in rural and hilly areas walk 3 to 5 kilometres or even more to reach school every day! They may have to cross fields, forests, and streams. They wake up very early and walk together in groups for safety.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en1_009",
+      "videoId": "gr4_en1_v2",
+      "question": "Why is it important that every child goes to school?",
+      "answer": "Education helps children learn to read, write, and think. It helps them understand the world, get good jobs when they grow up, and make better decisions. The Indian government says every child between 6 and 14 years has the right to free education.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en1_010",
+      "videoId": "gr4_en1_v3",
+      "question": "How does geography affect the way children go to school?",
+      "answer": "Geography plays a big role! Children in plains may walk or cycle on flat roads. Children near rivers need boats. Children in mountains use steep paths or ropeways. Children in deserts may walk on sandy tracks. The landscape decides what transport is possible.",
+      "status": "answered",
+      "upvotes": 17
+    }
+  ]
+}

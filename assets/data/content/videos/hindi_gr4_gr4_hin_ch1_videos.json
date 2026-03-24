@@ -1,0 +1,49 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "chapterName": "Varnamala",
+  "subjectId": "hindi_gr4",
+  "videos": [
+    {
+      "id": "gr4_h1_v1",
+      "title": "Hindi Varnamala | Hindi Alphabet for Kids",
+      "description": "Learn Hindi alphabets with fun animations.",
+      "youtubeId": "DQ0yQOmFhXA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DQ0yQOmFhXA",
+      "thumbnailUrl": "https://img.youtube.com/vi/DQ0yQOmFhXA/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Pebbles Hindi",
+      "channelId": "",
+      "language": "Hindi",
+      "topicId": "gr4_h_1_1",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE"],
+      "rating": 4.7,
+      "viewCount": 400000,
+      "tags": ["varnamala", "hindi", "alphabet"],
+      "dateAdded": "2024-01-15T00:00:00.000Z",
+      "lastUpdated": "2024-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_h1_v2",
+      "title": "Hindi Swar and Vyanjan | Vowels and Consonants",
+      "description": "Learn Hindi vowels and consonants with pronunciation.",
+      "youtubeId": "k5u32NJ_gyM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k5u32NJ_gyM",
+      "thumbnailUrl": "https://img.youtube.com/vi/k5u32NJ_gyM/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Pebbles Hindi",
+      "channelId": "",
+      "language": "Hindi",
+      "topicId": "gr4_h_1_2",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE"],
+      "rating": 4.6,
+      "viewCount": 350000,
+      "tags": ["swar", "vyanjan", "hindi"],
+      "dateAdded": "2024-02-01T00:00:00.000Z",
+      "lastUpdated": "2024-02-01T00:00:00.000Z"
+    }
+  ]
+}

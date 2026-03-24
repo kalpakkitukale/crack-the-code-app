@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u8",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_8_001",
+      "term": "Article",
+      "definition": "A small word used before a noun to tell whether we mean something specific or something general. The articles in English are 'a', 'an', and 'the'.",
+      "pronunciation": "AR-tih-kul",
+      "exampleUsage": "In the sentence 'I read a book', the word 'a' is an article.",
+      "difficulty": "easy",
+      "relatedTerms": ["a", "an", "the", "noun"]
+    },
+    {
+      "id": "gls_eng_8_002",
+      "term": "Vowel",
+      "definition": "The letters A, E, I, O, U are called vowels. They make open sounds when you say them. We use 'an' before words that start with a vowel sound.",
+      "pronunciation": "VOW-ul",
+      "exampleUsage": "The word 'apple' starts with the vowel 'a', so we say 'an apple'.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "sound", "letter"]
+    },
+    {
+      "id": "gls_eng_8_003",
+      "term": "Consonant",
+      "definition": "All the letters of the alphabet except A, E, I, O, U are consonants. Examples: B, C, D, F, G. We use 'a' before words that start with a consonant sound.",
+      "pronunciation": "KON-suh-nunt",
+      "exampleUsage": "The word 'book' starts with the consonant 'b', so we say 'a book'.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel", "sound", "letter"]
+    },
+    {
+      "id": "gls_eng_8_004",
+      "term": "Bookshop",
+      "definition": "A shop where books are sold. You can visit a bookshop to choose and buy books that you want to read.",
+      "pronunciation": "BOOK-shop",
+      "exampleUsage": "We went to the bookshop to buy a new storybook.",
+      "difficulty": "easy",
+      "relatedTerms": ["library", "book", "shop"]
+    },
+    {
+      "id": "gls_eng_8_005",
+      "term": "Imagination",
+      "definition": "The ability to form pictures, ideas, and stories in your mind. Books help us use our imagination to see things that are not in front of us.",
+      "pronunciation": "ih-MAJ-ih-NAY-shun",
+      "exampleUsage": "Reading books filled her imagination with wonderful adventures.",
+      "difficulty": "medium",
+      "relatedTerms": ["creative", "dream", "picture"]
+    },
+    {
+      "id": "gls_eng_8_006",
+      "term": "Treasure",
+      "definition": "Something very valuable and precious. Books are called treasures because the knowledge and stories inside them are very valuable.",
+      "pronunciation": "TREZH-ur",
+      "exampleUsage": "The old library was a treasure full of wonderful books.",
+      "difficulty": "easy",
+      "relatedTerms": ["valuable", "precious", "wealth"]
+    },
+    {
+      "id": "gls_eng_8_007",
+      "term": "Adventure",
+      "definition": "An exciting or unusual experience. When you read a book, you go on an adventure in your mind.",
+      "pronunciation": "ad-VEN-chur",
+      "exampleUsage": "The storybook was full of adventure and excitement.",
+      "difficulty": "easy",
+      "relatedTerms": ["journey", "exciting", "explore"]
+    },
+    {
+      "id": "gls_eng_8_008",
+      "term": "Library",
+      "definition": "A place where many books are kept for people to borrow and read. A library is different from a bookshop because you borrow books for free instead of buying them.",
+      "pronunciation": "LY-bruh-ree",
+      "exampleUsage": "She borrowed a fairy tale from the school library.",
+      "difficulty": "easy",
+      "relatedTerms": ["bookshop", "borrow", "books"]
+    },
+    {
+      "id": "gls_eng_8_009",
+      "term": "Author",
+      "definition": "A person who writes a book. The author creates the stories, characters, and ideas you find in a book.",
+      "pronunciation": "AW-thur",
+      "exampleUsage": "The author of this storybook has written many books for children.",
+      "difficulty": "easy",
+      "relatedTerms": ["writer", "poet", "book"]
+    },
+    {
+      "id": "gls_eng_8_010",
+      "term": "Specific",
+      "definition": "Clearly defined or particular; one certain thing. We use 'the' before a noun when talking about something specific.",
+      "pronunciation": "spuh-SIF-ik",
+      "exampleUsage": "Please give me the red book -- I want that specific one.",
+      "difficulty": "medium",
+      "relatedTerms": ["particular", "definite", "the"]
+    }
+  ]
+}

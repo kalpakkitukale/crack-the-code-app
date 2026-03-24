@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_math_ncert_ch4",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn4",
+    "title": "Thousands Around Us",
+    "content": "This chapter introduces students to the world of large numbers -- from thousands to ten-thousands. Students learn about place value for numbers up to 5 digits and understand that the value of a digit depends on its position. They practise reading and writing numbers in standard form, expanded form, and number names. The chapter also covers comparing and ordering numbers using the symbols >, <, and =. Finally, students learn to estimate and round numbers, connecting maths to real-life situations like populations, distances, and prices.",
+    "keyPoints": [
+      "Place values from right to left: Ones, Tens, Hundreds, Thousands, Ten-Thousands",
+      "The smallest 4-digit number is 1,000 and the largest is 9,999",
+      "Numbers can be written in standard form, expanded form, and number names",
+      "To compare numbers, first count the digits, then compare from the left",
+      "Ascending order goes from smallest to largest; descending order goes from largest to smallest",
+      "Rounding rule: 5 or more round up, less than 5 round down"
+    ],
+    "learningObjectives": [
+      "Understand place value for numbers up to 5 digits",
+      "Read and write 4-digit and 5-digit numbers in words and numerals",
+      "Write numbers in expanded form and convert back to standard form",
+      "Compare two large numbers using >, <, and =",
+      "Arrange numbers in ascending and descending order",
+      "Estimate and round numbers to the nearest thousand"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn4_001",
+      "title": "Place Value Chart for 5-Digit Numbers",
+      "content": "Use this chart to understand any number up to 5 digits:\n\nTen-Thousands | Thousands | Hundreds | Tens | Ones\n\nExample: 47,835\n4 = 40,000 (Ten-Thousands)\n7 = 7,000 (Thousands)\n8 = 800 (Hundreds)\n3 = 30 (Tens)\n5 = 5 (Ones)\n\nThe value gets 10 times bigger as you move one place to the left!",
+      "tags": ["key-concept", "place-value"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn4_002",
+      "title": "How to Compare Big Numbers",
+      "content": "Step 1: Count the digits. The number with more digits is always bigger. A 5-digit number is always greater than a 4-digit number.\n\nStep 2: If both numbers have the same number of digits, start comparing from the leftmost digit. The first digit that is different tells you which number is bigger.\n\nExample: 45,231 vs 45,198. First two digits (4,5) are the same. Third digit: 2 vs 1. Since 2 > 1, we know 45,231 > 45,198.",
+      "tags": ["study-tip", "comparing-numbers"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn4_003",
+      "title": "Rounding Made Easy",
+      "content": "To round a number, look at the digit just to the right of the place you are rounding to.\n\nRounding 6,743 to the nearest thousand: Look at the hundreds digit (7). Since 7 is 5 or more, round up: 7,000.\n\nRounding 6,743 to the nearest hundred: Look at the tens digit (4). Since 4 is less than 5, round down: 6,700.\n\nRemember: 5 or more -- go up! Less than 5 -- stay down!",
+      "tags": ["study-tip", "rounding"],
+      "isPinned": false
+    }
+  ]
+}

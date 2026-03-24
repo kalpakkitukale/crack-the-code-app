@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ncert_ch23",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_evn23_v1",
+      "videoId": "gr4_evn23_v1",
+      "content": "This lesson introduces students to Pochampalli, a small village in Telangana that is famous for its handloom weaving. Students learn that weavers in Pochampalli have been creating beautiful sarees and fabrics for generations using a special technique called Ikat, where threads are tied and dyed before being woven on a loom.",
+      "keyPoints": [
+        "Pochampalli is a village in Telangana known for handloom weaving",
+        "Weavers use the Ikat tie-and-dye technique to create patterns",
+        "This craft has been passed down through many generations",
+        "Pochampalli sarees are famous for their geometric designs"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn23_v2",
+      "videoId": "gr4_evn23_v2",
+      "content": "This lesson explains the process of weaving. Students learn about the loom, warp threads, weft threads, and the shuttle. They understand how the weaver carefully crosses the weft through the warp to create fabric. The lesson compares handlooms, which are operated manually, with power looms that use electricity.",
+      "keyPoints": [
+        "Weaving involves crossing warp (vertical) and weft (horizontal) threads",
+        "A loom is the frame on which cloth is woven",
+        "A shuttle carries the weft thread across the warp",
+        "Handlooms are manual while power looms use electricity"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn23_v3",
+      "videoId": "gr4_evn23_v3",
+      "content": "This lesson explores the life of weavers and their families. Students learn that weaving is a family craft where everyone helps - some wind thread, some prepare dyes, and some operate the loom. The lesson discusses the challenges weavers face, including low income and competition from machine-made cloth, and why supporting handloom products is important.",
+      "keyPoints": [
+        "Weaving is a family craft involving all members",
+        "Weavers work long hours, often 10-12 hours a day",
+        "Handloom weavers face competition from cheaper machine-made cloth",
+        "Supporting handloom products helps keep traditional crafts alive"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn23_v4",
+      "videoId": "gr4_evn23_v4",
+      "content": "This lesson takes students on a tour of India's rich weaving heritage. Students discover famous fabrics from different states - Banarasi silk from Varanasi, Kanjeevaram from Tamil Nadu, Patola from Gujarat, Chanderi from Madhya Pradesh, and Muga silk from Assam. They learn about different materials like cotton, silk, wool, and jute, and how the Swadeshi Movement promoted Indian handloom products.",
+      "keyPoints": [
+        "India has many famous weaving traditions across different states",
+        "Cotton, silk, wool, and jute are common materials for making cloth",
+        "The Swadeshi Movement encouraged buying Indian-made cloth",
+        "National Handloom Day is celebrated on 7th August every year"
+      ],
+      "source": "manual"
+    }
+  ]
+}

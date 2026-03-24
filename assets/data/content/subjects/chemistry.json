@@ -1,0 +1,476 @@
+{
+  "id": "chemistry",
+  "name": "Chemistry",
+  "icon": "assets/icons/chemistry.png",
+  "color": "#FF9800",
+  "boardId": "cbse",
+  "classId": "class_12",
+  "streamId": "science_pcm",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "id": "ch1_solid_state",
+      "number": 1,
+      "name": "The Solid State",
+      "description": "Study of crystalline and amorphous solids, unit cells, and crystal defects",
+      "topics": [
+        {
+          "id": "topic_1_1",
+          "name": "Classification of Solids",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_1_2",
+          "name": "Crystal Lattices and Unit Cells",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_1_3",
+          "name": "Packing in Solids",
+          "difficulty": "advanced",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_1_4",
+          "name": "Imperfections in Solids",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch2_solutions",
+      "number": 2,
+      "name": "Solutions",
+      "description": "Types of solutions, concentration terms, solubility, and colligative properties",
+      "topics": [
+        {
+          "id": "topic_2_1",
+          "name": "Types of Solutions",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_2_2",
+          "name": "Expressing Concentration",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_2_3",
+          "name": "Solubility and Henry's Law",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_2_4",
+          "name": "Colligative Properties",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ch3_electrochemistry",
+      "number": 3,
+      "name": "Electrochemistry",
+      "description": "Electrochemical cells, Nernst equation, and batteries",
+      "topics": [
+        {
+          "id": "topic_3_1",
+          "name": "Electrochemical Cells",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_3_2",
+          "name": "Nernst Equation",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_3_3",
+          "name": "Conductance",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_3_4",
+          "name": "Batteries and Fuel Cells",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch4_chemical_kinetics",
+      "number": 4,
+      "name": "Chemical Kinetics",
+      "description": "Rate of reactions, order and molecularity, and integrated rate equations",
+      "topics": [
+        {
+          "id": "topic_4_1",
+          "name": "Rate of Chemical Reactions",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_4_2",
+          "name": "Factors Affecting Rate",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_4_3",
+          "name": "Integrated Rate Equations",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_4_4",
+          "name": "Collision Theory",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch5_surface_chemistry",
+      "number": 5,
+      "name": "Surface Chemistry",
+      "description": "Adsorption, catalysis, colloids, and emulsions",
+      "topics": [
+        {
+          "id": "topic_5_1",
+          "name": "Adsorption",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_5_2",
+          "name": "Catalysis",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_5_3",
+          "name": "Colloids",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch6_p_block_elements",
+      "number": 6,
+      "name": "General Principles and Processes of Isolation of Elements",
+      "description": "Occurrence, concentration, extraction and refining of metals",
+      "topics": [
+        {
+          "id": "topic_6_1",
+          "name": "Occurrence of Metals",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_6_2",
+          "name": "Concentration of Ores",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_6_3",
+          "name": "Extraction of Metals",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_6_4",
+          "name": "Refining of Metals",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch7_p_block_group_15",
+      "number": 7,
+      "name": "The p-Block Elements (Group 15-18)",
+      "description": "Study of nitrogen, phosphorus, oxygen, sulfur families and noble gases",
+      "topics": [
+        {
+          "id": "topic_7_1",
+          "name": "Group 15 Elements",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_7_2",
+          "name": "Group 16 Elements",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_7_3",
+          "name": "Group 17 Elements",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_7_4",
+          "name": "Group 18 Elements",
+          "difficulty": "basic",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch8_d_f_block_elements",
+      "number": 8,
+      "name": "The d and f Block Elements",
+      "description": "Transition and inner transition elements, their properties and compounds",
+      "topics": [
+        {
+          "id": "topic_8_1",
+          "name": "Transition Elements",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_8_2",
+          "name": "Properties of d-Block Elements",
+          "difficulty": "advanced",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_8_3",
+          "name": "Inner Transition Elements",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch9_coordination_compounds",
+      "number": 9,
+      "name": "Coordination Compounds",
+      "description": "Werner's theory, IUPAC nomenclature, isomerism, and bonding",
+      "topics": [
+        {
+          "id": "topic_9_1",
+          "name": "Werner's Theory",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_9_2",
+          "name": "Nomenclature",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_9_3",
+          "name": "Isomerism",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_9_4",
+          "name": "Bonding Theories",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch10_haloalkanes",
+      "number": 10,
+      "name": "Haloalkanes and Haloarenes",
+      "description": "Nomenclature, preparation, properties and reactions",
+      "topics": [
+        {
+          "id": "topic_10_1",
+          "name": "Classification and Nomenclature",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_10_2",
+          "name": "Preparation Methods",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_10_3",
+          "name": "Reactions and Mechanisms",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ch11_alcohols_phenols",
+      "number": 11,
+      "name": "Alcohols, Phenols and Ethers",
+      "description": "Structure, preparation, properties and reactions",
+      "topics": [
+        {
+          "id": "topic_11_1",
+          "name": "Alcohols",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_11_2",
+          "name": "Phenols",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_11_3",
+          "name": "Ethers",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch12_aldehydes_ketones",
+      "number": 12,
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "description": "Carbonyl compounds, their preparation and reactions",
+      "topics": [
+        {
+          "id": "topic_12_1",
+          "name": "Aldehydes and Ketones",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_12_2",
+          "name": "Carboxylic Acids",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_12_3",
+          "name": "Reactions and Mechanisms",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch13_amines",
+      "number": 13,
+      "name": "Amines",
+      "description": "Classification, nomenclature, preparation and properties of amines",
+      "topics": [
+        {
+          "id": "topic_13_1",
+          "name": "Structure and Classification",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_13_2",
+          "name": "Preparation of Amines",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_13_3",
+          "name": "Chemical Reactions",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch14_biomolecules",
+      "number": 14,
+      "name": "Biomolecules",
+      "description": "Carbohydrates, proteins, nucleic acids, and vitamins",
+      "topics": [
+        {
+          "id": "topic_14_1",
+          "name": "Carbohydrates",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_14_2",
+          "name": "Proteins and Enzymes",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_14_3",
+          "name": "Nucleic Acids",
+          "difficulty": "advanced",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_14_4",
+          "name": "Vitamins and Hormones",
+          "difficulty": "basic",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch15_polymers",
+      "number": 15,
+      "name": "Polymers",
+      "description": "Classification, polymerization and important polymers",
+      "topics": [
+        {
+          "id": "topic_15_1",
+          "name": "Classification of Polymers",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_15_2",
+          "name": "Polymerization",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_15_3",
+          "name": "Important Polymers",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch16_chemistry_everyday",
+      "number": 16,
+      "name": "Chemistry in Everyday Life",
+      "description": "Drugs, medicines, and chemicals in food and cleansing agents",
+      "topics": [
+        {
+          "id": "topic_16_1",
+          "name": "Drugs and Medicines",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_16_2",
+          "name": "Chemicals in Food",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_16_3",
+          "name": "Cleansing Agents",
+          "difficulty": "basic",
+          "videoCount": 6
+        }
+      ]
+    }
+  ]
+}

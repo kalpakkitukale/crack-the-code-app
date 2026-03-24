@@ -1,0 +1,137 @@
+{
+  "chapterId": "gr4_evs_ch3",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Plants Around Us",
+      "description": "Types and uses of plants in our daily life",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_types",
+      "label": "Types of Plants",
+      "description": "Plants are grouped by size, stem, and how they grow",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_trees",
+      "label": "Trees",
+      "description": "Tall plants with thick, woody trunks (mango, neem, banyan)",
+      "parentId": "node_types",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_shrubs",
+      "label": "Shrubs",
+      "description": "Medium plants with many thin branches (rose, tulsi, hibiscus)",
+      "parentId": "node_types",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_herbs",
+      "label": "Herbs",
+      "description": "Small plants with soft green stems (mint, coriander, wheat)",
+      "parentId": "node_types",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_climbers_creepers",
+      "label": "Climbers & Creepers",
+      "description": "Climbers grow upward on support; creepers spread on ground",
+      "parentId": "node_types",
+      "positionX": -250,
+      "positionY": 280,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_uses",
+      "label": "Uses of Plants",
+      "description": "The many ways plants help people and the environment",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_food",
+      "label": "Food",
+      "description": "Fruits, vegetables, grains, spices from different plant parts",
+      "parentId": "node_uses",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_oxygen",
+      "label": "Clean Air",
+      "description": "Plants release oxygen and take in carbon dioxide",
+      "parentId": "node_uses",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_wood",
+      "label": "Wood & Paper",
+      "description": "Furniture, houses, paper, and rubber come from trees",
+      "parentId": "node_uses",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_medicine",
+      "label": "Medicine",
+      "description": "Tulsi, neem, aloe vera used for healing and health",
+      "parentId": "node_uses",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_soil",
+      "label": "Protect Soil",
+      "description": "Roots hold soil and prevent erosion by rain and wind",
+      "parentId": "node_uses",
+      "positionX": 250,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_plant_parts",
+      "label": "Plant Parts We Eat",
+      "description": "Roots (carrot), stems (sugarcane), leaves (spinach), seeds (rice)",
+      "parentId": "node_food",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#FFC107",
+      "orderIndex": 12
+    }
+  ]
+}

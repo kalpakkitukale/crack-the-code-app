@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch4",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn4_001",
+      "term": "बचपन (Bachpan)",
+      "definition": "Childhood - the period of time when a person is a child. It refers to the early years of life filled with play, learning, and innocence.",
+      "pronunciation": "BACH-pan",
+      "exampleUsage": "पापा का बचपन बहुत मज़ेदार था। (Papa's childhood was very fun.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बच्चा", "छोटा", "उम्र"]
+    },
+    {
+      "id": "gls_gr4_hn4_002",
+      "term": "शरारत (Shararat)",
+      "definition": "Mischief or prank - a playful, naughty act done for fun without meaning to harm anyone. Children often do shararat while playing.",
+      "pronunciation": "sha-RAA-rat",
+      "exampleUsage": "पापा बचपन में बहुत शरारत करते थे। (Papa used to do a lot of mischief in his childhood.)",
+      "difficulty": "easy",
+      "relatedTerms": ["शरारती", "नटखट", "मस्ती"]
+    },
+    {
+      "id": "gls_gr4_hn4_003",
+      "term": "याद (Yaad)",
+      "definition": "Memory or remembrance - something from the past that is stored in the mind. Yaad can also mean 'to remember'.",
+      "pronunciation": "YAAD",
+      "exampleUsage": "मुझे बचपन की यह याद अभी भी है। (I still have this memory from childhood.)",
+      "difficulty": "easy",
+      "relatedTerms": ["यादें", "स्मृति", "याद करना"]
+    },
+    {
+      "id": "gls_gr4_hn4_004",
+      "term": "शरारती (Sharaati)",
+      "definition": "Mischievous or naughty - an adjective used to describe someone who loves to play pranks and do fun, playful things.",
+      "pronunciation": "sha-raa-TEE",
+      "exampleUsage": "पापा बहुत शरारती बच्चे थे। (Papa was a very mischievous child.)",
+      "difficulty": "easy",
+      "relatedTerms": ["शरारत", "नटखट", "चंचल"]
+    },
+    {
+      "id": "gls_gr4_hn4_005",
+      "term": "नटखट (Natkhat)",
+      "definition": "Naughty or playful - another word for mischievous, often used lovingly for children who are full of energy and pranks.",
+      "pronunciation": "NAT-khat",
+      "exampleUsage": "वह बहुत नटखट बच्चा है। (He is a very naughty child.)",
+      "difficulty": "easy",
+      "relatedTerms": ["शरारती", "चंचल", "मस्ती"]
+    },
+    {
+      "id": "gls_gr4_hn4_006",
+      "term": "कहानी (Kahani)",
+      "definition": "A story - a narrative that tells about events, characters, and experiences. Stories can be real or imaginary and are used to teach, entertain, or share memories.",
+      "pronunciation": "ka-HAA-nee",
+      "exampleUsage": "पापा ने अपने बचपन की कहानी सुनाई। (Papa told the story of his childhood.)",
+      "difficulty": "easy",
+      "relatedTerms": ["किस्सा", "कथा", "सुनाना"]
+    },
+    {
+      "id": "gls_gr4_hn4_007",
+      "term": "मस्ती (Masti)",
+      "definition": "Fun or frolic - the state of being playful, cheerful, and enjoying oneself. It describes carefree enjoyment.",
+      "pronunciation": "MAS-tee",
+      "exampleUsage": "बच्चे बारिश में मस्ती कर रहे थे। (The children were having fun in the rain.)",
+      "difficulty": "easy",
+      "relatedTerms": ["मज़ा", "आनंद", "खेल"]
+    },
+    {
+      "id": "gls_gr4_hn4_008",
+      "term": "डाँटना (Daantna)",
+      "definition": "To scold - when an elder tells off a child for doing something wrong, usually in a stern voice. Parents daant children to teach them right from wrong.",
+      "pronunciation": "DAANT-naa",
+      "exampleUsage": "शरारत करने पर दादी ने पापा को डाँटा। (Grandmother scolded Papa for being naughty.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सज़ा", "समझाना", "गुस्सा"]
+    },
+    {
+      "id": "gls_gr4_hn4_009",
+      "term": "बचपन की यादें (Bachpan ki Yaadein)",
+      "definition": "Childhood memories - the collection of experiences and moments from one's early years that are remembered fondly.",
+      "pronunciation": "BACH-pan kee YAA-dein",
+      "exampleUsage": "बचपन की यादें हमेशा दिल में रहती हैं। (Childhood memories always remain in the heart.)",
+      "difficulty": "easy",
+      "relatedTerms": ["याद", "बचपन", "अनुभव"]
+    },
+    {
+      "id": "gls_gr4_hn4_010",
+      "term": "पेड़ पर चढ़ना (Ped par Chadhna)",
+      "definition": "To climb a tree - a common childhood activity where children climb up trees for fun, to pick fruits, or as an adventure.",
+      "pronunciation": "PED par CHADH-naa",
+      "exampleUsage": "पापा बचपन में पेड़ पर चढ़ा करते थे। (Papa used to climb trees in his childhood.)",
+      "difficulty": "easy",
+      "relatedTerms": ["खेलना", "शरारत", "बाहर"]
+    }
+  ]
+}

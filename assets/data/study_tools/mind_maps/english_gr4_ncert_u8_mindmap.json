@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u8",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 8: Books",
+      "description": "The joy of reading books and understanding articles",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "Books (Poem)",
+      "description": "A poem celebrating the magic and wonder of reading books",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_theme",
+      "label": "Theme: Love for Books",
+      "description": "Books are our best friends and greatest treasures",
+      "parentId": "node_poem",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_imagination",
+      "label": "Imagination & Travel",
+      "description": "Books take us to faraway lands without leaving our chair",
+      "parentId": "node_poem",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_poem_message",
+      "label": "Message: Read More!",
+      "description": "Children should develop the habit of reading every day",
+      "parentId": "node_poem",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_story",
+      "label": "Going to Buy a Book",
+      "description": "A story about a child's exciting visit to a bookshop",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_story_bookshop",
+      "label": "At the Bookshop",
+      "description": "Many types of books: stories, pictures, science, fairy tales",
+      "parentId": "node_story",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_story_choosing",
+      "label": "Choosing a Book",
+      "description": "The joy of selecting a book of your own choice",
+      "parentId": "node_story",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_story_values",
+      "label": "Valuing Books",
+      "description": "Taking care of books and treating them like treasures",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Articles",
+      "description": "Learning to use a, an, and the correctly",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_a_an",
+      "label": "'A' and 'An'",
+      "description": "'A' before consonant sounds, 'An' before vowel sounds",
+      "parentId": "node_grammar",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_the",
+      "label": "'The'",
+      "description": "Used for specific things that we already know about",
+      "parentId": "node_grammar",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_sound_rule",
+      "label": "Sound Rule",
+      "description": "Articles depend on the sound, not the spelling of the next word",
+      "parentId": "node_grammar",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_examples",
+      "label": "Examples",
+      "description": "a book, an apple, the sun, an hour, a university",
+      "parentId": "node_grammar",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#CE93D8",
+      "orderIndex": 13
+    }
+  ]
+}

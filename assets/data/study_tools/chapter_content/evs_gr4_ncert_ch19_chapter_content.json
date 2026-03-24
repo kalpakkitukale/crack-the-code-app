@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch19",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn19",
+    "title": "Abdul in the Garden",
+    "content": "This chapter from the NCERT Looking Around textbook follows a boy named Abdul who discovers the joy of gardening. Abdul learns how plants grow from tiny seeds, what they need to survive (sunlight, water, air, soil, and space), and how to take care of them. The chapter teaches children about germination (how seeds sprout), the importance of composting kitchen waste, and how garden creatures like earthworms and bees help plants grow. Students learn practical skills like when to water plants, why to remove weeds, and how to start a kitchen garden at home. The chapter encourages children to appreciate nature and develop patience by caring for living things.",
+    "keyPoints": [
+      "Plants need sunlight, water, air, soil, and space to grow well",
+      "A seed contains a baby plant and stored food that helps it germinate",
+      "Compost made from kitchen waste and dry leaves enriches the soil",
+      "Earthworms are called farmer's friends because they make soil healthy",
+      "Bees and butterflies help pollination, turning flowers into fruits",
+      "A kitchen garden at home provides fresh, healthy vegetables"
+    ],
+    "learningObjectives": [
+      "List the five things plants need to grow",
+      "Describe the process of germination from seed to sapling",
+      "Explain how compost is made and why it is good for plants",
+      "Identify creatures that help in a garden and describe their roles",
+      "Understand the benefits of having a kitchen garden at home"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn19_001",
+      "title": "Grow a Seed Activity",
+      "content": "Try this at home! Take a few moong (green gram) or rajma (kidney bean) seeds. Place them on a wet cotton pad in a small bowl. Keep the cotton moist every day and place the bowl near a window with sunlight. In 3-5 days, you will see the seeds sprout! Draw what you see each day in a notebook. This is a great way to observe germination with your own eyes.",
+      "tags": ["activity", "experiment"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn19_002",
+      "title": "Garden Helpers Chart",
+      "content": "Make a chart with three columns: Helper, What It Does, How It Helps Plants. Fill in: Earthworms - dig tunnels in soil - let air and water reach roots. Bees - carry pollen between flowers - help plants make fruits and seeds. Butterflies - drink nectar and spread pollen - help in pollination. Ladybugs - eat harmful insects - protect plants from pests. This chart helps you remember all the garden helpers!",
+      "tags": ["activity", "study-tip"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn19_003",
+      "title": "Exam Tip: Plant Needs vs Plant Care",
+      "content": "In exams, you may get questions about either what plants need or how to care for them. These are different! What plants need: sunlight, water, air, soil, space (nature provides these). How to care: water at the right time, remove weeds, add compost, protect from pests (humans do these). Always mention at least three points with examples for full marks.",
+      "tags": ["study-tip", "exam-preparation"],
+      "isPinned": false
+    }
+  ]
+}

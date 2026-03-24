@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch6",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en6",
+    "title": "Omana's Journey",
+    "content": "This chapter from the NCERT Looking Around textbook takes students on a journey through the backwaters of Kerala with a girl named Omana. As Omana travels by boat, students discover how people live, travel, and work near the backwaters. They learn about houseboats (kettuvallam), coconut trees and their many uses, fishing as a way of life, and the coir industry. The chapter helps students understand that geography shapes the way people live - those near water have a very different lifestyle from those in cities or deserts. It encourages students to compare their own surroundings with Omana's world.",
+    "keyPoints": [
+      "Backwaters are connected lakes, canals, and rivers along the coast of Kerala",
+      "People use boats for daily travel instead of cars and buses",
+      "Houseboats (kettuvallam) are traditional boats made with coir rope and no nails",
+      "Coconut trees provide food, oil, coir, thatching material, and more",
+      "Fishing and coir making are important livelihoods in backwater areas",
+      "The geography of a place decides how people live, travel, and earn"
+    ],
+    "learningObjectives": [
+      "Identify the backwaters of Kerala on a map and describe their features",
+      "Explain how people travel and live near the backwaters",
+      "Describe the many uses of the coconut tree",
+      "Understand how geography and climate affect the way people live",
+      "Compare life in the backwater region with life in their own area"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en6_001",
+      "title": "Draw Your Own Journey Map",
+      "content": "Just like Omana travelled through the backwaters, draw a map of a journey you have taken. Mark the things you saw along the way - trees, buildings, rivers, or animals. Compare your journey with Omana's. How is your area different from Kerala? This activity helps you understand how every place in India is unique.",
+      "tags": ["activity", "creative-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en6_002",
+      "title": "Coconut Tree - The Kalpavriksha",
+      "content": "The coconut tree is sometimes called 'Kalpavriksha' meaning the tree that gives everything you wish for! Try listing all the uses: coconut water to drink, coconut meat to eat, oil for cooking and hair, coir for ropes, shell for fuel and crafts, leaves for thatching, trunk for building. Can you think of another tree near your home that has many uses?",
+      "tags": ["study-tip", "real-world"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en6_003",
+      "title": "Compare Two Places Activity",
+      "content": "Make a table with two columns - 'Backwater Area' and 'My Area'. Write down how people travel, what food they eat, what jobs they do, and what houses look like in each place. This helps you see how geography shapes daily life. Discuss your findings with a friend!",
+      "tags": ["activity", "comparison"],
+      "isPinned": false
+    }
+  ]
+}

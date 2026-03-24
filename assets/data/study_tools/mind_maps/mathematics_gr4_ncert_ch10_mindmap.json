@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_math_ncert_ch10",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Elephants, Tigers, and Leopards",
+      "description": "Using data about wildlife to learn tables, charts, and comparison",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_data_tables",
+      "label": "Data Tables",
+      "description": "Organised information in rows and columns",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_reading_tables",
+      "label": "Reading Tables",
+      "description": "Title → Column headings → Row by row",
+      "parentId": "node_data_tables",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_finding_totals",
+      "label": "Finding Totals",
+      "description": "Add all values in a column to get the total",
+      "parentId": "node_data_tables",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_wildlife_data",
+      "label": "Wildlife Data",
+      "description": "Tigers, elephants, leopards across parks and states",
+      "parentId": "node_data_tables",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_comparing",
+      "label": "Comparing Numbers",
+      "description": "Finding the most, least, and differences",
+      "parentId": "node_root",
+      "positionX": 50,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_most_least",
+      "label": "Most and Least",
+      "description": "Find the largest and smallest values in data",
+      "parentId": "node_comparing",
+      "positionX": -20,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_difference",
+      "label": "Finding Differences",
+      "description": "Subtract to find how much more or less",
+      "parentId": "node_comparing",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_ordering",
+      "label": "Ordering Numbers",
+      "description": "Arranging from smallest to largest or vice versa",
+      "parentId": "node_comparing",
+      "positionX": 180,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_charts",
+      "label": "Charts and Graphs",
+      "description": "Visual ways to show data",
+      "parentId": "node_root",
+      "positionX": 280,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_bar_chart",
+      "label": "Bar Charts",
+      "description": "Bars of different heights - taller = bigger number",
+      "parentId": "node_charts",
+      "positionX": 230,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_pictograph",
+      "label": "Pictographs",
+      "description": "Pictures represent fixed numbers - count and multiply",
+      "parentId": "node_charts",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_conservation",
+      "label": "Conservation Math",
+      "description": "How math helps protect wildlife",
+      "parentId": "node_root",
+      "positionX": 50,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_census",
+      "label": "Wildlife Census",
+      "description": "Counting animals to track populations",
+      "parentId": "node_conservation",
+      "positionX": -50,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_project_tiger",
+      "label": "Project Tiger",
+      "description": "Government programme that helped tigers grow from 1,706 to 3,167",
+      "parentId": "node_conservation",
+      "positionX": 80,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_tracking",
+      "label": "Tracking Changes",
+      "description": "Compare data over years to see increase or decrease",
+      "parentId": "node_conservation",
+      "positionX": 210,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 15
+    }
+  ]
+}

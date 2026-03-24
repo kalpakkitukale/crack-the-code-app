@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_h1_swar",
+      "name": "Swar (स्वर) - Vowels",
+      "description": "Learn the Hindi vowels (Swar) and their sounds in the Devanagari script",
+      "topicId": "gr4_h_1_1",
+      "chapterId": "gr4_hin_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_h1_001",
+          "front": "What are Swar (स्वर) in Hindi?",
+          "back": "Swar are the vowels of the Hindi alphabet. They are sounds that can be spoken on their own without the help of any other letter. There are 11 Swar in Hindi: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ.",
+          "hint": "These letters can be said by themselves without any help",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_h1_002",
+          "front": "Say the first five Swar in order: अ, आ, इ, ई, उ. What are their sounds?",
+          "back": "अ sounds like 'a' in 'about'. आ sounds like 'aa' in 'car'. इ sounds like 'i' in 'sit'. ई sounds like 'ee' in 'see'. उ sounds like 'u' in 'put'. Notice how each pair has a short and a long sound!",
+          "hint": "Each vowel pair has a short sound and a long sound",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_h1_003",
+          "front": "What is the difference between इ (Chhoti Ee) and ई (Badi Ee)?",
+          "back": "इ (Chhoti Ee) is the short 'i' sound, like in the word दिन (din - day). ई (Badi Ee) is the long 'ee' sound, like in the word नदी (nadee - river). 'Chhoti' means small and 'Badi' means big, referring to the length of the sound.",
+          "hint": "One is short (chhoti) and one is long (badi)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_h1_004",
+          "front": "What is a Matra (मात्रा)?",
+          "back": "A Matra is the symbol form of a Swar that is attached to a Vyanjan (consonant). For example, the Matra of आ is ा, the Matra of इ is ि, and the Matra of ई is ी. When we write क + आ, it becomes का using the Matra.",
+          "hint": "It is the sign of a vowel that joins with a consonant",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_h1_005",
+          "front": "Name the last four Swar: ए, ऐ, ओ, औ. Can you give a word for each?",
+          "back": "ए (e) - एक (ek - one). ऐ (ai) - ऐनक (ainak - spectacles). ओ (o) - ओखली (okhli - mortar). औ (au) - औरत (aurat - woman). These four Swar are formed by combining two basic vowel sounds.",
+          "hint": "Think of simple Hindi words that start with these letters",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_h1_vyanjan",
+      "name": "Vyanjan (व्यंजन) - Consonants",
+      "description": "Learn the Hindi consonants (Vyanjan) and their groups in the Devanagari script",
+      "topicId": "gr4_h_1_2",
+      "chapterId": "gr4_hin_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_h1_006",
+          "front": "What are Vyanjan (व्यंजन) in Hindi?",
+          "back": "Vyanjan are the consonants of the Hindi alphabet. Unlike Swar, they cannot be spoken on their own and need the help of a Swar. There are 33 main Vyanjan in Hindi, starting from क and ending at ह. For example, क is actually pronounced 'ka' because it has the sound of अ with it.",
+          "hint": "These letters need a vowel sound to be spoken",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_h1_007",
+          "front": "What are the Varg (groups) of Vyanjan? Name the first Varg.",
+          "back": "Vyanjan are divided into groups called Varg. Each Varg has 5 consonants. The first group is 'Ka-Varg': क, ख, ग, घ, ङ. These sounds are made using the throat (Kanth). Each Varg is named after its first letter.",
+          "hint": "The first group starts with क",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_h1_008",
+          "front": "Name all five Varg of Vyanjan with their first letter.",
+          "back": "The five Varg are: 1) Ka-Varg: क, ख, ग, घ, ङ (throat sounds). 2) Cha-Varg: च, छ, ज, झ, ञ (palate sounds). 3) Ta-Varg: ट, ठ, ड, ढ, ण (tongue-tip sounds). 4) Ta-Varg: त, थ, द, ध, न (teeth sounds). 5) Pa-Varg: प, फ, ब, भ, म (lip sounds).",
+          "hint": "There are 5 groups of 5 consonants each, making 25",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_h1_009",
+          "front": "Apart from the 25 Varg consonants, which other Vyanjan are there?",
+          "back": "After the 25 Varg consonants, there are 8 more Vyanjan: य, र, ल, व (called Antastha Vyanjan) and श, ष, स, ह (called Ushma Vyanjan). So the total is 25 + 8 = 33 Vyanjan.",
+          "hint": "Think of the letters that come after म in the alphabet",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_h1_010",
+          "front": "How do you form a word by combining Vyanjan and Swar? Show with an example.",
+          "back": "When a Vyanjan joins with a Swar, it forms a syllable. For example: क + अ = क (ka), क + आ = का (kaa), क + इ = कि (ki), क + ई = की (kee). The word कमल (kamal - lotus) is made of क + अ + म + अ + ल + अ.",
+          "hint": "Add the Matra of a vowel to a consonant",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

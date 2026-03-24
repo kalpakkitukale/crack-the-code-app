@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch14",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_14_001",
+      "term": "Farming",
+      "definition": "The practice of growing crops and raising animals for food and other useful products.",
+      "pronunciation": "FARM-ing",
+      "exampleUsage": "Farming is the main occupation of people in Indian villages.",
+      "difficulty": "easy",
+      "relatedTerms": ["agriculture", "crops", "farmer"]
+    },
+    {
+      "id": "gls_evs_14_002",
+      "term": "Ploughing",
+      "definition": "The process of digging and turning over the soil before planting seeds. It loosens the soil and lets air and water reach the roots.",
+      "pronunciation": "PLOW-ing",
+      "exampleUsage": "The farmer used a tractor for ploughing his field before sowing wheat.",
+      "difficulty": "easy",
+      "relatedTerms": ["soil", "sowing", "farming"]
+    },
+    {
+      "id": "gls_evs_14_003",
+      "term": "Sowing",
+      "definition": "The act of planting seeds in the soil so that new plants can grow.",
+      "pronunciation": "SOH-ing",
+      "exampleUsage": "After ploughing, the farmer began sowing rice seeds in the wet field.",
+      "difficulty": "easy",
+      "relatedTerms": ["seeds", "planting", "farming"]
+    },
+    {
+      "id": "gls_evs_14_004",
+      "term": "Irrigation",
+      "definition": "The method of supplying water to crops through canals, pipes, sprinklers, or wells, especially when there is not enough rain.",
+      "pronunciation": "ih-rih-GAY-shun",
+      "exampleUsage": "The farmer used a tube well for irrigation of his wheat field.",
+      "difficulty": "medium",
+      "relatedTerms": ["water", "canal", "farming"]
+    },
+    {
+      "id": "gls_evs_14_005",
+      "term": "Harvest",
+      "definition": "The time when crops are fully grown and ready to be cut and collected from the fields.",
+      "pronunciation": "HAR-vest",
+      "exampleUsage": "The harvest season is a busy and happy time for farmers.",
+      "difficulty": "easy",
+      "relatedTerms": ["crops", "farming", "reaping"]
+    },
+    {
+      "id": "gls_evs_14_006",
+      "term": "Kharif",
+      "definition": "Crops that are sown at the beginning of the monsoon (rainy) season and harvested in autumn. Examples: rice, maize, cotton.",
+      "pronunciation": "kha-REEF",
+      "exampleUsage": "Rice is an important Kharif crop grown during the monsoon season.",
+      "difficulty": "medium",
+      "relatedTerms": ["monsoon", "rice", "Rabi"]
+    },
+    {
+      "id": "gls_evs_14_007",
+      "term": "Rabi",
+      "definition": "Crops that are sown in winter and harvested in spring. Examples: wheat, mustard, gram (chana).",
+      "pronunciation": "RAH-bee",
+      "exampleUsage": "Wheat is a major Rabi crop sown after the monsoon ends.",
+      "difficulty": "medium",
+      "relatedTerms": ["winter", "wheat", "Kharif"]
+    },
+    {
+      "id": "gls_evs_14_008",
+      "term": "Manure",
+      "definition": "A natural fertiliser made from animal dung and decomposed plant material. It makes the soil rich in nutrients for plants.",
+      "pronunciation": "muh-NOOR",
+      "exampleUsage": "Basva's family uses cow dung manure to keep their farm soil healthy.",
+      "difficulty": "easy",
+      "relatedTerms": ["fertiliser", "soil", "compost"]
+    },
+    {
+      "id": "gls_evs_14_009",
+      "term": "Weeding",
+      "definition": "Removing unwanted plants (weeds) that grow alongside crops and compete with them for water, sunlight, and nutrients.",
+      "pronunciation": "WEED-ing",
+      "exampleUsage": "Weeding is important so that the crop plants get enough water and food.",
+      "difficulty": "easy",
+      "relatedTerms": ["crops", "farming", "plants"]
+    },
+    {
+      "id": "gls_evs_14_010",
+      "term": "Pesticide",
+      "definition": "A chemical used to kill insects and pests that damage crops. Using too many pesticides can harm the soil and water.",
+      "pronunciation": "PES-tih-side",
+      "exampleUsage": "Some farmers use natural methods instead of pesticides to protect their crops.",
+      "difficulty": "medium",
+      "relatedTerms": ["chemicals", "crops", "pests"]
+    }
+  ]
+}

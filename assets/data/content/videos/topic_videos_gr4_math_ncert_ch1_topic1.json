@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn1_t1",
+  "topicId": "gr4_mn_1_1",
+  "topicName": "3D Shapes in Daily Life",
+  "chapterId": "gr4_math_ncert_ch1",
+  "chapterName": "Shapes Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1578,
+    "totalDurationDisplay": "26:18",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-35 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_1_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn1_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "3D Shapes for Kids | Sphere, Cube, Cylinder, Cone & Pyramid",
+      "description": "Learn about the most common 3D shapes you see every day! Discover spheres (like balls), cubes (like dice), cylinders (like cans), cones (like ice cream cones), and pyramids. See real-life examples of each shape.",
+      "youtubeId": "REjfX9cDavw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=REjfX9cDavw",
+      "thumbnailUrl": "https://img.youtube.com/vi/REjfX9cDavw/hqdefault.jpg",
+      "duration": 378,
+      "durationDisplay": "6:18",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["3D shapes", "sphere", "cube", "cylinder", "cone", "pyramid", "solid shapes", "daily life"],
+      "learningObjectives": ["Name 5 common 3D shapes", "Identify real-life examples of each 3D shape"],
+      "keyConceptsCovered": ["Sphere = ball shape", "Cube = box with equal sides", "Cylinder = can shape", "Cone = ice cream cone shape", "Pyramid = triangle-sided shape"],
+      "prerequisites": ["Basic 2D shape knowledge"],
+      "followUpTopics": ["Properties of 3D shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "3D Shapes Song | Fun Shape Song for Kids | Jack Hartmann",
+      "description": "Sing along and learn the five most common 3D shapes: sphere, cylinder, pyramid, cube, and cone! This catchy song shows real-life examples of 3D shapes you can find around your house and school.",
+      "youtubeId": "G79xAbas6Os",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G79xAbas6Os",
+      "thumbnailUrl": "https://img.youtube.com/vi/G79xAbas6Os/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 3500000,
+      "tags": ["3D shapes", "song", "sphere", "cylinder", "pyramid", "cube", "cone", "kids song"],
+      "learningObjectives": ["Reinforce 3D shape names through music", "Associate shapes with everyday objects"],
+      "keyConceptsCovered": ["Sphere, cube, cylinder, cone, pyramid review", "Real-life shape examples in a song"],
+      "prerequisites": ["Introduction to 3D shapes"],
+      "followUpTopics": ["Faces, edges, and vertices"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t1_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "3D Shapes in Real Life | Shape Hunt Around the House",
+      "description": "Go on a shape hunt! Find 3D shapes all around your house and school. See how a basketball is a sphere, a cereal box is a rectangular prism, and a party hat is a cone.",
+      "youtubeId": "gqhGSbXFQ5E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gqhGSbXFQ5E",
+      "thumbnailUrl": "https://img.youtube.com/vi/gqhGSbXFQ5E/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["3D shapes", "real life", "shape hunt", "everyday objects"],
+      "learningObjectives": ["Spot 3D shapes in everyday surroundings", "Match objects to their 3D shape names"],
+      "keyConceptsCovered": ["Basketball = sphere", "Cereal box = rectangular prism", "Party hat = cone", "Tin can = cylinder"],
+      "prerequisites": ["3D shape names"],
+      "followUpTopics": ["Faces, edges, and vertices"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t1_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Guess the 3D Shape! | Fun Quiz for Kids",
+      "description": "Test your 3D shape knowledge! Look at real-life objects and guess which 3D shape they are. Can you get them all right?",
+      "youtubeId": "WTeqUejf3D0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WTeqUejf3D0",
+      "thumbnailUrl": "https://img.youtube.com/vi/WTeqUejf3D0/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2000000,
+      "tags": ["quiz", "3D shapes", "guess the shape", "practice"],
+      "learningObjectives": ["Identify 3D shapes quickly and accurately", "Consolidate 3D shape recognition"],
+      "keyConceptsCovered": ["Matching objects to 3D shapes", "Multiple examples practice"],
+      "prerequisites": ["3D shapes in real life"],
+      "followUpTopics": ["Faces, edges, and vertices"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn1_t1_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "2D vs 3D Shapes | How Are They Different?",
+      "description": "Compare 2D and 3D shapes side by side. See how a circle becomes a sphere, a square becomes a cube, and a triangle becomes a cone or pyramid. Understand the key differences!",
+      "youtubeId": "8v4JMFOmBKA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8v4JMFOmBKA",
+      "thumbnailUrl": "https://img.youtube.com/vi/8v4JMFOmBKA/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 800000,
+      "tags": ["2D vs 3D", "shapes comparison", "flat vs solid"],
+      "learningObjectives": ["Compare 2D and 3D shape pairs", "Understand how flat shapes relate to solid shapes"],
+      "keyConceptsCovered": ["Circle → Sphere", "Square → Cube", "Rectangle → Rectangular Prism", "Triangle → Cone/Pyramid"],
+      "prerequisites": ["2D shapes", "3D shapes"],
+      "followUpTopics": ["Faces, edges, and vertices"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn1_v1", "gr4_mn1_t1_v3", "gr4_mn1_t1_v4", "gr4_mn1_t1_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1338,
+      "estimatedTimeDisplay": "22:18",
+      "rationale": "Fast-track through 3D shapes with real-life application and comparison"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn1_v1", "gr4_mn1_v2", "gr4_mn1_t1_v3", "gr4_mn1_t1_v4", "gr4_mn1_t1_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1578,
+      "estimatedTimeDisplay": "26:18",
+      "rationale": "Complete coverage of 3D shapes with song, application, and comparison"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn1_v1", "gr4_mn1_v2", "gr4_mn1_t1_v3", "gr4_mn1_t1_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1248,
+      "estimatedTimeDisplay": "20:48",
+      "rationale": "Core 3D shape concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn1_v1", "gr4_mn1_v2", "gr4_mn1_t1_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 948,
+      "estimatedTimeDisplay": "15:48",
+      "rationale": "Essential 3D shape content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn1_v2",
+      "checkpointName": "3D Shapes Names Check",
+      "questions": [
+        {
+          "question": "Which 3D shape looks like a tin can?",
+          "options": ["Sphere", "Cube", "Cylinder", "Cone"],
+          "correctAnswer": 2,
+          "explanation": "A cylinder is the 3D shape that looks like a tin can. It has two circular faces at the top and bottom and a curved surface."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Bring real objects to class: a ball (sphere), a dice (cube), a tin can (cylinder), a party hat (cone), and a pyramid toy. Let students touch and compare them.",
+    "parentGuidance": "Go on a shape hunt at home! Ask your child to find objects that match each 3D shape. Kitchen items work great - cans, boxes, balls.",
+    "studentGuidance": "Look around your room and try to find at least one sphere, one cube, one cylinder, and one cone. Can you find a pyramid too?"
+  }
+}

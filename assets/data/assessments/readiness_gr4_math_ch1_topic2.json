@@ -1,0 +1,405 @@
+{
+  "assessmentId": "readiness_gr4_m1_t2",
+  "topicId": "gr4_m_1_2",
+  "topicName": "Reading and Writing Large Numbers",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning to read and write 5-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "reading_4digit",
+      "conceptName": "Reading 4-digit numbers aloud",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_read4_v1", "prereq_read4_v2"]
+    },
+    {
+      "conceptId": "writing_4digit",
+      "conceptName": "Writing 4-digit numbers from words",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_write4_v1"]
+    },
+    {
+      "conceptId": "number_names",
+      "conceptName": "Understanding number names and place notation",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_names_v1"]
+    },
+    {
+      "conceptId": "pv_5digit",
+      "conceptName": "Understanding 5-digit place value",
+      "importance": "critical",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_pv5_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_4digit",
+
+      "question": "How do you read the number 3,456 aloud?",
+
+      "options": [
+        "Three hundred forty-five six",
+        "Thirty-four fifty-six",
+        "Three thousand four hundred fifty-six",
+        "Three four five six"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Three thousand four hundred fifty-six",
+
+      "explanation": "We read 3,456 as 'Three thousand four hundred fifty-six.' First say the thousands part (three thousand), then the rest (four hundred fifty-six).",
+
+      "tags": ["reading numbers", "4-digit", "number names"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Read each digit separately",
+          "conceptGap": "Understanding place value while reading",
+          "remediation": "Review how to read numbers by place value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_4digit",
+
+      "question": "Which number is read as 'Seven thousand two hundred nine'?",
+
+      "options": ["7,290", "7,209", "7,029", "7,219"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "7,209",
+
+      "explanation": "Seven thousand = 7,000; two hundred = 200; nine = 9. Total: 7,000 + 200 + 9 = 7,209.",
+
+      "tags": ["reading numbers", "4-digit", "word to number"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused 'nine' with 'ninety'",
+          "conceptGap": "Distinguishing between place values in words",
+          "remediation": "Practice converting word form to numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "reading_4digit",
+
+      "question": "True or False: The number 5,007 is read as 'Five thousand seven.'",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! When there are zeros in the middle, we don't say them. 5,007 is read as 'Five thousand seven.'",
+
+      "tags": ["reading numbers", "zeros", "4-digit"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Thought zeros must be mentioned",
+          "conceptGap": "Handling zeros when reading numbers",
+          "remediation": "Practice reading numbers with zeros"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "writing_4digit",
+
+      "question": "Write this number in digits: Eight thousand three hundred twenty-five",
+
+      "options": ["8,325", "8,235", "80,325", "8,352"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "8,325",
+
+      "explanation": "Eight thousand = 8,000; three hundred = 300; twenty-five = 25. Total: 8,000 + 300 + 25 = 8,325.",
+
+      "tags": ["writing numbers", "word to digit", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Wrote digits in wrong order",
+          "conceptGap": "Place value sequence",
+          "remediation": "Review place value positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "writing_4digit",
+
+      "question": "Write in digits: Six thousand forty",
+
+      "options": ["6,040", "6,400", "6,004", "640"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "6,040",
+
+      "explanation": "Six thousand = 6,000; forty = 40. Total: 6,000 + 40 = 6,040. Note the zero in hundreds place.",
+
+      "tags": ["writing numbers", "zeros", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Put the 4 in wrong place",
+          "conceptGap": "Understanding where to place digits when there are zeros",
+          "remediation": "Practice with numbers containing zeros"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "fill_blank",
+      "difficulty": "intermediate",
+      "conceptTested": "writing_4digit",
+
+      "question": "Write in digits: Four thousand five hundred _____ (fill with the number only).",
+
+      "correctAnswer": "4500",
+      "acceptedAnswers": ["4500", "4,500"],
+
+      "explanation": "Four thousand = 4,000; five hundred = 500. Total: 4,000 + 500 = 4,500.",
+
+      "tags": ["writing numbers", "word to digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": "4050",
+          "mistake": "Confused hundreds with tens",
+          "conceptGap": "Place value understanding",
+          "remediation": "Review place value chart"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_names",
+
+      "question": "What does the comma (,) in 5,234 help us do?",
+
+      "options": [
+        "Make the number look pretty",
+        "Separate thousands from hundreds for easier reading",
+        "Show decimals",
+        "Indicate addition"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Separate thousands from hundreds for easier reading",
+
+      "explanation": "The comma separates the thousands place from the hundreds place, making large numbers easier to read. In 5,234, it separates 5 (thousands) from 234 (hundreds, tens, ones).",
+
+      "tags": ["number notation", "comma", "reading"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Confused comma with decimal point",
+          "conceptGap": "Understanding number notation",
+          "remediation": "Review comma vs decimal point"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "number_names",
+
+      "question": "True or False: In Indian number system, commas are placed after every three digits from the right.",
+
+      "correctAnswer": false,
+      "correctAnswerText": "False",
+
+      "explanation": "False! In Indian system, the first comma is after 3 digits (thousands), but then every 2 digits (lakhs, crores). Example: 12,34,567. In International system, commas are every 3 digits.",
+
+      "tags": ["number system", "comma placement", "Indian system"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": true,
+          "mistake": "Confused Indian and International systems",
+          "conceptGap": "Understanding Indian vs International number notation",
+          "remediation": "Review Indian number system"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "pv_5digit",
+
+      "question": "In a 5-digit number like 45,678, which part do we say first when reading aloud?",
+
+      "options": [
+        "The ones digit (8)",
+        "The thousands part (45 thousand)",
+        "The hundreds part (6)",
+        "The tens part (7)"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "The thousands part (45 thousand)",
+
+      "explanation": "When reading 5-digit numbers, we read from left to right: first the thousands part (45 thousand), then the remaining part (six hundred seventy-eight).",
+
+      "tags": ["reading 5-digit", "place value", "sequence"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Read from right to left",
+          "conceptGap": "Reading direction for numbers",
+          "remediation": "Practice reading numbers left to right"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "pv_5digit",
+
+      "question": "How would you read 30,050?",
+
+      "options": [
+        "Three thousand fifty",
+        "Thirty thousand five hundred",
+        "Thirty thousand fifty",
+        "Three hundred thousand fifty"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Thirty thousand fifty",
+
+      "explanation": "30,050 = 30 thousand + 50. We read it as 'Thirty thousand fifty.' The zeros in hundreds and tens places are not mentioned.",
+
+      "tags": ["reading 5-digit", "zeros", "number names"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Misread 30 thousand as 3 thousand",
+          "conceptGap": "Understanding tens of thousands",
+          "remediation": "Review ten thousands place value"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You can read and write 4-digit numbers confidently. You're ready to learn about reading and writing 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand reading and writing numbers. Let's extend this to 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in reading or writing numbers. Watch review videos before learning 5-digit number reading and writing.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review how to read and write 4-digit numbers first. We'll start with basics, then move to 5-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you learn to read and write numbers correctly.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about reading and writing 5-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

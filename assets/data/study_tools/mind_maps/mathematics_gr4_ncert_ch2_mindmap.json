@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_math_ncert_ch2",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Hide and Seek",
+      "description": "Views of objects, grid positions, maps, and spatial reasoning",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_views",
+      "label": "Views of Objects",
+      "description": "How objects look from different directions",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_top_view",
+      "label": "Top View",
+      "description": "Looking from above, like a bird - glass looks like a circle",
+      "parentId": "node_views",
+      "positionX": -280,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_front_view",
+      "label": "Front View",
+      "description": "Looking straight from the front - book looks like a rectangle",
+      "parentId": "node_views",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_side_view",
+      "label": "Side View",
+      "description": "Looking from the left or right side",
+      "parentId": "node_views",
+      "positionX": -120,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_grids",
+      "label": "Grid Positions",
+      "description": "Using rows and columns to describe locations",
+      "parentId": "node_root",
+      "positionX": 50,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_rows",
+      "label": "Rows",
+      "description": "Horizontal lines going left to right (numbered 1, 2, 3...)",
+      "parentId": "node_grids",
+      "positionX": -20,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_columns",
+      "label": "Columns",
+      "description": "Vertical lines going top to bottom (labelled A, B, C...)",
+      "parentId": "node_grids",
+      "positionX": 60,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_position",
+      "label": "Describing Position",
+      "description": "Use column letter + row number, like B3 or D5",
+      "parentId": "node_grids",
+      "positionX": 140,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_maps",
+      "label": "Reading Maps",
+      "description": "Maps show places from a bird's-eye view",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_birds_eye",
+      "label": "Bird's-Eye View",
+      "description": "Map shows things as seen from above",
+      "parentId": "node_maps",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_directions",
+      "label": "Directions (N-E-S-W)",
+      "description": "North (up), South (down), East (right), West (left)",
+      "parentId": "node_maps",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_spatial",
+      "label": "Spatial Reasoning",
+      "description": "Thinking about shapes and positions in your mind",
+      "parentId": "node_root",
+      "positionX": 50,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_imagine",
+      "label": "Imagine Different Views",
+      "description": "Picture what an object looks like from behind or below",
+      "parentId": "node_spatial",
+      "positionX": -30,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_navigate",
+      "label": "Navigate with Maps",
+      "description": "Plan routes and find directions using maps",
+      "parentId": "node_spatial",
+      "positionX": 130,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 14
+    }
+  ]
+}

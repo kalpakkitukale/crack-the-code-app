@@ -1,0 +1,452 @@
+{
+  "algorithmId": "rec_gr4_m2_t3",
+  "topicId": "gr4_m_2_3",
+  "topicName": "Subtraction of 4-5 Digit Numbers (Basic)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for basic subtraction of 4-5 digit numbers (without regrouping/borrowing)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent 3-digit subtraction skills, can fast-track to 4-5 digit with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1740,
+      "videoSequence": [
+        {
+          "videoId": "gr4_sub_v1",
+          "reason": "Introduction to 4-digit subtraction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v2",
+          "reason": "Worked examples for practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v4",
+          "reason": "Extend to 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v5",
+          "reason": "Mixed practice for fluency",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v6",
+          "reason": "Challenge: Mental math strategies",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of 4-5 digit subtraction",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1860,
+      "videoSequence": [
+        {
+          "videoId": "gr4_sub_v1",
+          "reason": "4-digit subtraction introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v2",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v3",
+          "reason": "Handling zeros - important skill",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v4",
+          "reason": "5-digit subtraction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v5",
+          "reason": "Mixed practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in 3-digit subtraction or place value, needs targeted review",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 9
+      },
+      "estimatedTime": 2580,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "subtraction_3digit_weak": {
+            "addVideos": ["prereq_sub3_v1", "prereq_sub3_v2"],
+            "priority": "high"
+          },
+          "place_value_alignment_sub_weak": {
+            "addVideos": ["prereq_align_sub_v1"],
+            "priority": "high"
+          },
+          "subtraction_facts_weak": {
+            "addVideos": ["prereq_subfacts_v1"],
+            "priority": "medium"
+          },
+          "place_value_understanding_sub_weak": {
+            "addVideos": ["prereq_pv_sub_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_sub3_v1",
+          "reason": "Review: 3-digit subtraction basics",
+          "skippable": false,
+          "condition": "if subtraction_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_sub3_v2",
+          "reason": "Review: 3-digit practice examples",
+          "skippable": false,
+          "condition": "if subtraction_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_align_sub_v1",
+          "reason": "Review: Place value alignment",
+          "skippable": false,
+          "condition": "if place_value_alignment_sub concept is weak"
+        },
+        {
+          "videoId": "prereq_subfacts_v1",
+          "reason": "Review: Subtraction facts",
+          "skippable": false,
+          "condition": "if subtraction_facts concept is weak"
+        },
+        {
+          "videoId": "prereq_pv_sub_v1",
+          "reason": "Review: Place value in large numbers",
+          "skippable": false,
+          "condition": "if place_value_understanding_sub concept is weak"
+        },
+        {
+          "videoId": "gr4_sub_v1",
+          "reason": "Start main topic: 4-digit subtraction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v2",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v3",
+          "reason": "Subtracting with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v4",
+          "reason": "5-digit subtraction",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of 3-digit subtraction and place value before 4-5 digit subtraction",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2340,
+      "videoSequence": [
+        {
+          "videoId": "prereq_sub3_v1",
+          "reason": "Foundation: 3-digit subtraction review",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_sub3_v2",
+          "reason": "Essential: 3-digit subtraction practice",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_align_sub_v1",
+          "reason": "Critical: Alignment for subtraction",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_subfacts_v1",
+          "reason": "Important: Subtraction facts fluency",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv_sub_v1",
+          "reason": "Prepare: Place value understanding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v1",
+          "reason": "Gentle intro to 4-digit subtraction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_sub_v2",
+          "reason": "Begin practice with examples",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with 4-5 digit subtraction."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "subtraction_3digit": {
+        "conceptName": "Subtracting 3-digit numbers without regrouping",
+        "importance": "critical",
+        "videoIds": ["prereq_sub3_v1", "prereq_sub3_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "place_value_alignment_sub": {
+        "conceptName": "Aligning numbers by place value for subtraction",
+        "importance": "critical",
+        "videoIds": ["prereq_align_sub_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "subtraction_facts": {
+        "conceptName": "Basic subtraction facts (0-20)",
+        "importance": "important",
+        "videoIds": ["prereq_subfacts_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "place_value_understanding_sub": {
+        "conceptName": "Understanding place value in large numbers for subtraction",
+        "importance": "important",
+        "videoIds": ["prereq_pv_sub_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_sub_v2",
+        "checkpointName": "4-Digit Subtraction Mastery",
+        "questions": [
+          {
+            "question": "What is 8,769 - 3,425?",
+            "options": ["5,344", "5,244", "5,444", "5,334"],
+            "correctAnswer": 0,
+            "explanation": "Subtract place by place: 9-5=4, 6-2=4, 7-4=3, 8-3=5 → 5,344."
+          },
+          {
+            "question": "What is 6,000 - 3,000?",
+            "options": ["3,000", "2,000", "4,000", "30,000"],
+            "correctAnswer": 0,
+            "explanation": "Subtract thousands: 6-3=3 thousands → 3,000."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand 4-digit subtraction well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_sub3_v1",
+          "reason": "Student struggling with column subtraction"
+        }
+      },
+      {
+        "afterVideoId": "gr4_sub_v4",
+        "checkpointName": "5-Digit Subtraction Check",
+        "questions": [
+          {
+            "question": "What is 78,956 - 23,412?",
+            "options": ["55,544", "55,444", "56,544", "54,544"],
+            "correctAnswer": 0,
+            "explanation": "Work right to left: 6-2=4, 5-1=4, 9-4=5, 8-3=5, 7-2=5 → 55,544."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_sub_v6",
+          "reason": "Student ready for mental math strategies"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice more 5-digit subtraction before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip mixed practice, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on 3-digit subtraction"
+    },
+    "suggest_break": {
+      "trigger": "After 3 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing 10-15 problems with parent/teacher"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong 3-digit subtraction skills. You're ready to learn 4-5 digit subtraction. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand subtraction basics. Let's extend your skills to 4-5 digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in 3-digit subtraction or place value. Don't worry! We'll start with targeted review videos on the concepts you need."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review 3-digit subtraction and place value basics first. We've created a playlist focused on building strong foundation."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how subtraction skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic subtraction facts", "2-digit subtraction", "Place value basics"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["3-digit subtraction", "Column subtraction", "Place value alignment"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["4-digit subtraction", "Subtracting with zeros", "Estimation"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["5-digit subtraction", "Mixed practice", "Fluency building"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Mental math strategies", "Quick subtraction", "Advanced techniques"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 35,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "subtractionAccuracy": {
+      "target": 90,
+      "description": "% of students who can correctly subtract 4-5 digit numbers"
+    },
+    "speedFluency": {
+      "target": 80,
+      "description": "% of students who complete 10 problems in < 10 minutes with 80%+ accuracy"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 29-32 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 31-35 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 43-48 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (39 min) + retake + main content (19 min) = 58-65 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students not aligning numbers properly by place value",
+      "solution1": "Emphasize writing numbers in columns with ones under ones, tens under tens, etc. Use graph paper for practice",
+      "challenge2": "Students subtracting smaller from larger regardless of position",
+      "solution2": "Teach systematic approach: always subtract bottom from top. If bottom is larger, need regrouping (taught in next topic)",
+      "challenge3": "Students making careless errors with subtraction facts",
+      "solution3": "Review subtraction facts, practice mental math, encourage checking work using addition (answer + bottom = top)"
+    }
+  }
+}

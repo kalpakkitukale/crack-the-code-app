@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn11_t1",
+  "topicId": "gr4_mn_11_1",
+  "topicName": "Line of Symmetry",
+  "chapterId": "gr4_math_ncert_ch11",
+  "chapterName": "Fun with Symmetry",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1230,
+    "totalDurationDisplay": "20:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "25-35 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_11_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn11_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "What is Symmetry? | Line of Symmetry for Kids",
+      "description": "Learn what symmetry means and how to find lines of symmetry in shapes and objects around you.",
+      "youtubeId": "YFnEFMPFmKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YFnEFMPFmKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/YFnEFMPFmKo/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["symmetry", "line of symmetry", "math"],
+      "learningObjectives": ["Understand what symmetry means", "Find the line of symmetry in a shape", "Identify symmetry in everyday objects"],
+      "keyConceptsCovered": ["Symmetry means both halves match", "A line of symmetry divides a shape into matching halves", "Many objects around us have symmetry"],
+      "prerequisites": ["Basic shape recognition", "Understanding of equal halves"],
+      "followUpTopics": ["Mirror images", "Symmetrical shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn11_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Symmetry Song | Fun Symmetry for Kids",
+      "description": "Sing along and learn about symmetry with real-life examples.",
+      "youtubeId": "3osPC2MfkHQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3osPC2MfkHQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/3osPC2MfkHQ/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 800000,
+      "tags": ["symmetry", "song", "fun"],
+      "learningObjectives": ["Reinforce symmetry concept through song", "Identify symmetry in real-life examples", "Build enthusiasm for learning symmetry"],
+      "keyConceptsCovered": ["Symmetry in butterflies and leaves", "Symmetry in letters and numbers", "Everyday objects with symmetry"],
+      "prerequisites": ["Basic understanding of symmetry"],
+      "followUpTopics": ["Finding lines of symmetry in shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch11_halves_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Equal Halves and Parts | Folding Shapes in Half",
+      "description": "Learn what it means to divide a shape into two equal halves. When both halves match perfectly, that is symmetry!",
+      "youtubeId": "pVa8fGLBVNM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pVa8fGLBVNM",
+      "thumbnailUrl": "https://img.youtube.com/vi/pVa8fGLBVNM/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["equal halves", "halves", "parts", "folding"],
+      "learningObjectives": ["Fold shapes to find lines of symmetry", "Verify symmetry by checking both halves match", "Connect equal halves to line of symmetry"],
+      "keyConceptsCovered": ["Folding shows the line of symmetry", "Both halves are mirror images of each other", "Not every line through a shape is a line of symmetry"],
+      "prerequisites": ["Basic shape recognition"],
+      "followUpTopics": ["Mirror images"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch11_shapes_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Basic Shapes Review | Identifying Shapes for Kids",
+      "description": "Review basic shapes like squares, rectangles, triangles, and circles. Knowing your shapes helps you find symmetry!",
+      "youtubeId": "WnTmSFYKfbE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WnTmSFYKfbE",
+      "thumbnailUrl": "https://img.youtube.com/vi/WnTmSFYKfbE/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["shapes", "basic shapes", "geometry", "review"],
+      "learningObjectives": ["Review basic 2D shapes", "Identify shapes that have lines of symmetry", "Connect shape properties to symmetry"],
+      "keyConceptsCovered": ["Squares, rectangles, triangles, circles", "Properties of common shapes", "Which shapes are symmetrical"],
+      "prerequisites": ["Basic observation skills"],
+      "followUpTopics": ["Symmetrical shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn11_v1", "gr4_mn11_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 600,
+      "estimatedTimeDisplay": "10:00",
+      "rationale": "Quick introduction and reinforcement for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn11_v1", "gr4_mn11_v2", "prereq_ch11_halves_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Complete coverage of line of symmetry with folding practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch11_shapes_v1", "gr4_mn11_v1", "gr4_mn11_v2", "prereq_ch11_halves_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1260,
+      "estimatedTimeDisplay": "21:00",
+      "rationale": "Shape review first, then line of symmetry concepts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn11_v1", "gr4_mn11_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 600,
+      "estimatedTimeDisplay": "10:00",
+      "rationale": "Essential line of symmetry introduction only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn11_v1",
+      "checkpointName": "Line of Symmetry Understanding Check",
+      "questions": [
+        {
+          "question": "A butterfly has a line of symmetry down the middle. What does this mean?",
+          "options": ["One wing is bigger", "Both wings look the same", "The butterfly has no wings", "The wings are different colours"],
+          "correctAnswer": 1,
+          "explanation": "A line of symmetry means both sides match. So both wings of the butterfly look the same!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Start with the introduction video and let students fold paper shapes to discover lines of symmetry. Use the song to make the concept memorable.",
+    "parentGuidance": "Help your child find symmetrical objects at home like doors, windows, and plates. Fold paper shapes together to see the matching halves.",
+    "studentGuidance": "Symmetry is all around you! Look at your face in the mirror. Both sides look almost the same. That is symmetry!"
+  }
+}

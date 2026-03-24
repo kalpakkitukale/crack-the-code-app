@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u2",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_2_001",
+      "term": "Fir Tree",
+      "definition": "A type of evergreen tree that has needle-like leaves instead of broad flat leaves. The little fir tree in the story is unhappy with its needles.",
+      "pronunciation": "FUR TREE",
+      "exampleUsage": "The little fir tree stood alone in the forest.",
+      "difficulty": "easy",
+      "relatedTerms": ["evergreen", "needles", "forest"]
+    },
+    {
+      "id": "gls_eng_2_002",
+      "term": "Needle-like Leaves",
+      "definition": "Thin, pointed leaves shaped like needles, found on fir trees and pine trees. They do not fall off easily.",
+      "pronunciation": "NEE-dul LYKE LEEVZ",
+      "exampleUsage": "The fir tree had needle-like leaves that stayed green all year.",
+      "difficulty": "easy",
+      "relatedTerms": ["fir tree", "pine", "evergreen"]
+    },
+    {
+      "id": "gls_eng_2_003",
+      "term": "Snub",
+      "definition": "Short and slightly turned up at the tip. Used in the poem to describe a type of nose.",
+      "pronunciation": "SNUB",
+      "exampleUsage": "Some people have a snub nose that turns up at the tip.",
+      "difficulty": "medium",
+      "relatedTerms": ["short", "turned-up", "nose"]
+    },
+    {
+      "id": "gls_eng_2_004",
+      "term": "Wish",
+      "definition": "A strong feeling of wanting something to happen or wanting to have something.",
+      "pronunciation": "WISH",
+      "exampleUsage": "The fir tree made a wish for golden leaves.",
+      "difficulty": "easy",
+      "relatedTerms": ["desire", "hope", "want"]
+    },
+    {
+      "id": "gls_eng_2_005",
+      "term": "Bare",
+      "definition": "Without any covering; empty. When a tree has no leaves, it is called bare.",
+      "pronunciation": "BAIR",
+      "exampleUsage": "After the man took the gold leaves, the tree was left bare.",
+      "difficulty": "easy",
+      "relatedTerms": ["empty", "naked", "uncovered"]
+    },
+    {
+      "id": "gls_eng_2_006",
+      "term": "Noun",
+      "definition": "A word that names a person, place, animal, or thing. It is also called a naming word.",
+      "pronunciation": "NOUN",
+      "exampleUsage": "In the sentence 'The goat ate the leaves', the nouns are goat and leaves.",
+      "difficulty": "easy",
+      "relatedTerms": ["naming word", "proper noun", "common noun"]
+    },
+    {
+      "id": "gls_eng_2_007",
+      "term": "Content",
+      "definition": "Happy and satisfied with what you have. The fir tree was finally content with its own leaves.",
+      "pronunciation": "kun-TENT",
+      "exampleUsage": "At last, the fir tree was content with its needle-like leaves.",
+      "difficulty": "medium",
+      "relatedTerms": ["happy", "satisfied", "pleased"]
+    },
+    {
+      "id": "gls_eng_2_008",
+      "term": "Fragile",
+      "definition": "Easy to break or damage. The glass leaves on the fir tree were fragile.",
+      "pronunciation": "FRAJ-ul",
+      "exampleUsage": "The glass leaves were fragile and broke when the wind blew.",
+      "difficulty": "medium",
+      "relatedTerms": ["delicate", "breakable", "weak"]
+    },
+    {
+      "id": "gls_eng_2_009",
+      "term": "Pointed",
+      "definition": "Having a sharp or narrow tip. Used to describe a type of nose in the poem and needle-like leaves.",
+      "pronunciation": "POIN-tid",
+      "exampleUsage": "The fir tree's needles were thin and pointed.",
+      "difficulty": "easy",
+      "relatedTerms": ["sharp", "tip", "narrow"]
+    },
+    {
+      "id": "gls_eng_2_010",
+      "term": "Unique",
+      "definition": "Being the only one of its kind; special and different from everything else.",
+      "pronunciation": "yoo-NEEK",
+      "exampleUsage": "Every person's nose is unique and special.",
+      "difficulty": "medium",
+      "relatedTerms": ["special", "different", "one-of-a-kind"]
+    }
+  ]
+}

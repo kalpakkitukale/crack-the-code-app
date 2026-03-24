@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch21",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Food and Fun",
+      "description": "Nutrition and healthy eating for a happy life",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_why_food",
+      "label": "Why We Eat",
+      "description": "Food gives us energy, helps us grow, and keeps us healthy",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_energy",
+      "label": "Energy",
+      "description": "To run, play, study, and do daily activities",
+      "parentId": "node_why_food",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_growth",
+      "label": "Growth",
+      "description": "To grow taller and stronger every year",
+      "parentId": "node_why_food",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_food_groups",
+      "label": "Food Groups",
+      "description": "Different types of food and their roles",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_energy_foods",
+      "label": "Energy-Giving",
+      "description": "Rice, roti, bread, potatoes (carbohydrates)",
+      "parentId": "node_food_groups",
+      "positionX": -80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_body_building",
+      "label": "Body-Building",
+      "description": "Dal, milk, paneer, eggs (proteins)",
+      "parentId": "node_food_groups",
+      "positionX": 0,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_protective",
+      "label": "Protective",
+      "description": "Fruits, vegetables (vitamins & minerals)",
+      "parentId": "node_food_groups",
+      "positionX": 80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_balanced",
+      "label": "Balanced Diet",
+      "description": "Eating the right amount from all food groups",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_thali",
+      "label": "Indian Thali",
+      "description": "Roti, dal, sabzi, rice, curd - a complete meal",
+      "parentId": "node_balanced",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_water",
+      "label": "Water",
+      "description": "6-8 glasses daily for digestion and cooling",
+      "parentId": "node_balanced",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_unhealthy",
+      "label": "Unhealthy Habits",
+      "description": "Foods and habits to avoid",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_junk",
+      "label": "Junk Food",
+      "description": "Chips, cold drinks, candy - too much oil and sugar",
+      "parentId": "node_unhealthy",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_hygiene",
+      "label": "Food Hygiene",
+      "description": "Wash hands, eat fresh food, cover food properly",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 13
+    }
+  ]
+}

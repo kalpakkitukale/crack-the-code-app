@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u9",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 9: Naughty Boy & Pinocchio",
+      "description": "Adventures, honesty, and punctuation",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "The Naughty Boy (Poem)",
+      "description": "A poem by John Keats about a boy who runs away to Scotland",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_boy",
+      "label": "The Boy's Journey",
+      "description": "Runs from England to Scotland expecting everything to be different",
+      "parentId": "node_poem",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_discovery",
+      "label": "His Discovery",
+      "description": "Scotland is not so different -- ground is hard, sun is hot, just like home",
+      "parentId": "node_poem",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_poem_message",
+      "label": "Message: Be Content",
+      "description": "Be happy with what you have; the grass is not always greener elsewhere",
+      "parentId": "node_poem",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_story",
+      "label": "Pinocchio (Story)",
+      "description": "The tale of a wooden puppet who wants to become a real boy",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_story_geppetto",
+      "label": "Geppetto the Carpenter",
+      "description": "A kind old man who carves Pinocchio from wood",
+      "parentId": "node_story",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_story_nose",
+      "label": "The Growing Nose",
+      "description": "Pinocchio's nose grows longer every time he tells a lie",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_story_lessons",
+      "label": "Lessons Learned",
+      "description": "Be honest, go to school, listen to elders, be kind",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_story_realboy",
+      "label": "Becoming a Real Boy",
+      "description": "Good behaviour and honesty help Pinocchio become real",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Punctuation",
+      "description": "Using marks to make writing clear and meaningful",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_fullstop",
+      "label": "Full Stop (.)",
+      "description": "Ends a statement: 'Pinocchio is a puppet.'",
+      "parentId": "node_grammar",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_question",
+      "label": "Question Mark (?)",
+      "description": "Ends a question: 'Where is Geppetto?'",
+      "parentId": "node_grammar",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_exclamation_comma",
+      "label": "Exclamation (!) & Comma (,)",
+      "description": "! for strong feelings: 'How wonderful!' Comma for pauses and lists",
+      "parentId": "node_grammar",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 13
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "flashcards": [
+    {
+      "id": "fc_lcm_1",
+      "conceptId": "math_5_lcm",
+      "front": "What is LCM?",
+      "back": "LCM stands for Least Common Multiple. It is the smallest number that is a multiple of two or more given numbers.",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_lcm_2",
+      "conceptId": "math_5_lcm",
+      "front": "How to find LCM?",
+      "back": "Method 1: List multiples of each number and find the smallest common one.\n\nMethod 2: Prime factorization - take highest power of each prime factor.",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_lcm_3",
+      "conceptId": "math_5_lcm",
+      "front": "LCM of 4 and 6",
+      "back": "Multiples of 4: 4, 8, 12, 16...\nMultiples of 6: 6, 12, 18...\n\nLCM = 12",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_hcf_1",
+      "conceptId": "math_5_hcf",
+      "front": "What is HCF?",
+      "back": "HCF stands for Highest Common Factor (also called GCD - Greatest Common Divisor). It is the largest number that divides two or more numbers evenly.",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_hcf_2",
+      "conceptId": "math_5_hcf",
+      "front": "HCF of 12 and 18",
+      "back": "Factors of 12: 1, 2, 3, 4, 6, 12\nFactors of 18: 1, 2, 3, 6, 9, 18\n\nCommon factors: 1, 2, 3, 6\nHCF = 6",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_frac_add_1",
+      "conceptId": "math_6_fractions_addition",
+      "front": "How to add fractions with different denominators?",
+      "back": "Step 1: Find the LCM of the denominators\nStep 2: Convert each fraction to equivalent fractions with LCM as denominator\nStep 3: Add the numerators\nStep 4: Simplify if needed",
+      "formula": "\\frac{a}{b} + \\frac{c}{d} = \\frac{ad + bc}{bd}",
+      "imageUrl": null
+    },
+    {
+      "id": "fc_motion_1",
+      "conceptId": "physics_8_motion_basics",
+      "front": "What is motion?",
+      "back": "Motion is the change in position of an object with respect to time and a reference point.",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_speed_1",
+      "conceptId": "physics_8_speed_velocity",
+      "front": "What is Speed?",
+      "back": "Speed is the rate of change of distance with time. It is a scalar quantity (has only magnitude).",
+      "formula": "Speed = \\frac{Distance}{Time}",
+      "imageUrl": null
+    },
+    {
+      "id": "fc_speed_2",
+      "conceptId": "physics_8_speed_velocity",
+      "front": "What is Velocity?",
+      "back": "Velocity is the rate of change of displacement with time. It is a vector quantity (has both magnitude and direction).",
+      "formula": "Velocity = \\frac{Displacement}{Time}",
+      "imageUrl": null
+    },
+    {
+      "id": "fc_speed_3",
+      "conceptId": "physics_8_speed_velocity",
+      "front": "Speed vs Velocity - Key Difference",
+      "back": "Speed: Scalar, always positive, uses distance\nVelocity: Vector, can be negative, uses displacement\n\nSpeed = |Velocity| only for straight-line motion in one direction",
+      "formula": null,
+      "imageUrl": null
+    },
+    {
+      "id": "fc_accel_1",
+      "conceptId": "physics_8_acceleration",
+      "front": "What is Acceleration?",
+      "back": "Acceleration is the rate of change of velocity with time. It is a vector quantity.",
+      "formula": "a = \\frac{v - u}{t}",
+      "imageUrl": null
+    },
+    {
+      "id": "fc_eom_1",
+      "conceptId": "physics_9_equations_motion",
+      "front": "First Equation of Motion",
+      "back": "Relates final velocity to initial velocity, acceleration, and time.",
+      "formula": "v = u + at",
+      "imageUrl": null
+    },
+    {
+      "id": "fc_eom_2",
+      "conceptId": "physics_9_equations_motion",
+      "front": "Second Equation of Motion",
+      "back": "Relates displacement to initial velocity, acceleration, and time.",
+      "formula": "s = ut + \\frac{1}{2}at^2",
+      "imageUrl": null
+    },
+    {
+      "id": "fc_eom_3",
+      "conceptId": "physics_9_equations_motion",
+      "front": "Third Equation of Motion",
+      "back": "Relates final velocity to initial velocity, acceleration, and displacement.",
+      "formula": "v^2 = u^2 + 2as",
+      "imageUrl": null
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_sci_ch3",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_s3_solids",
+      "name": "Solids",
+      "description": "Learn about solid materials and their special properties",
+      "topicId": "gr4_s_3_1",
+      "chapterId": "gr4_sci_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_s3_001",
+          "front": "What is a solid?",
+          "back": "A solid is a form of matter that has a fixed shape and a fixed size. You can hold a solid in your hand. Examples include a book, a stone, and an ice cube.",
+          "hint": "Think of things you can pick up and hold",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_s3_002",
+          "front": "Why do solids keep their shape?",
+          "back": "Solids keep their shape because the tiny particles inside them are packed very closely together and cannot move around freely. The particles only vibrate in their place.",
+          "hint": "Imagine people standing very close together in a crowd",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_s3_003",
+          "front": "Can you change the shape of a solid?",
+          "back": "Some solids can change shape if you push, pull, bend, or break them. For example, you can bend a wire, break a biscuit, or flatten a ball of clay. But they do not change shape on their own.",
+          "hint": "Think about what happens when you press play dough",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_s3_004",
+          "front": "What happens to an ice cube when you leave it outside on a hot day?",
+          "back": "The ice cube melts and turns into water. This happens because heat changes the solid ice into liquid water. This change is called melting.",
+          "hint": "Think about what happens to your ice cream in the sun",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_s3_005",
+          "front": "Name five solids you can find in your classroom.",
+          "back": "Pencil, eraser, desk, chair, and book are all solids. They have a fixed shape, you can touch and hold them, and they do not flow like water.",
+          "hint": "Look around your classroom and pick things you can hold",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_s3_liquids",
+      "name": "Liquids",
+      "description": "Explore how liquids behave and their unique properties",
+      "topicId": "gr4_s_3_2",
+      "chapterId": "gr4_sci_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_s3_006",
+          "front": "What is a liquid?",
+          "back": "A liquid is a form of matter that can flow and takes the shape of whatever container it is poured into. It has a fixed volume but no fixed shape. Water, milk, and juice are liquids.",
+          "hint": "Think of things you can pour",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_s3_007",
+          "front": "Why do liquids take the shape of their container?",
+          "back": "The tiny particles in a liquid are not packed as tightly as in a solid. They can slide over each other and move around, so the liquid flows and fills the shape of any container.",
+          "hint": "Imagine people walking around in a room - they spread out",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_s3_008",
+          "front": "What happens when you pour water from a bottle into a glass?",
+          "back": "The water flows out of the bottle and takes the shape of the glass. The amount of water stays the same, but its shape changes to match the new container.",
+          "hint": "Does the water stay in the bottle shape? Or does it change?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_s3_009",
+          "front": "What happens when you heat water in a pot on the stove?",
+          "back": "When water gets very hot, it starts to boil and turns into steam, which is a gas. This change from liquid to gas is called evaporation or boiling.",
+          "hint": "Watch what comes out of a boiling kettle",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_s3_010",
+          "front": "Can you hold a liquid in your open hand?",
+          "back": "No, a liquid will flow through your fingers and fall down because liquids do not have a fixed shape. You need a container like a cup or a bowl to hold a liquid.",
+          "hint": "Try holding water in your hand - what happens?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_s3_gases",
+      "name": "Gases",
+      "description": "Understand gases and how they are all around us",
+      "topicId": "gr4_s_3_3",
+      "chapterId": "gr4_sci_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_s3_011",
+          "front": "What is a gas?",
+          "back": "A gas is a form of matter that has no fixed shape and no fixed size. Gas spreads out to fill all the space available. The air we breathe is a mixture of gases.",
+          "hint": "Think about the air all around you",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_s3_012",
+          "front": "Can you see most gases?",
+          "back": "No, most gases are invisible. We cannot see the air around us, but we can feel it when the wind blows. We know gases are there even though we cannot see them.",
+          "hint": "Can you see the air? But can you feel the wind?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_s3_013",
+          "front": "What happens when you blow air into a balloon?",
+          "back": "The air (gas) fills up the balloon and makes it bigger. The gas spreads out inside the balloon and pushes on its walls, giving it a round shape. This shows that gas takes up space.",
+          "hint": "Think about what makes the balloon get bigger",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_s3_014",
+          "front": "How are the particles in a gas different from those in a solid or liquid?",
+          "back": "In a gas, the tiny particles are very far apart and move around very fast in all directions. In a solid, particles are tightly packed. In a liquid, they are close but can slide around.",
+          "hint": "Imagine children running freely in a big playground",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_s3_015",
+          "front": "Name some gases you know about.",
+          "back": "Oxygen is the gas we breathe in. Carbon dioxide is the gas we breathe out. Nitrogen makes up most of the air. Helium is the gas that makes balloons float. Water vapour is water in gas form.",
+          "hint": "Think about breathing and floating balloons",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

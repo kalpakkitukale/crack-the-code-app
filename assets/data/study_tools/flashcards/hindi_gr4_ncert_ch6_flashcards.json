@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch6",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn6_kavita",
+      "name": "कविता पाठ - नाव बनाओ नाव बनाओ",
+      "description": "Learn about the poem 'Naav Banao Naav Banao' - a playful poem about making paper boats and imaginative play",
+      "topicId": "gr4_hi_6_1",
+      "chapterId": "gr4_hin_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_hn6_001",
+          "front": "कविता 'नाव बनाओ नाव बनाओ' किसके बारे में है?",
+          "back": "This poem is about the joy of making paper boats (कागज़ की नाव) and floating them in water during the rainy season. It celebrates the simple, imaginative play of children who create boats from paper and send them on a journey through streams and puddles.\n\nयह कविता कागज़ की नाव बनाकर पानी में तैराने की खुशी के बारे में है।",
+          "hint": "Think about what children do with paper and water during rains",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn6_002",
+          "front": "बच्चे कागज़ की नाव कब बनाते हैं?",
+          "back": "Children make paper boats especially during the rainy season (बारिश का मौसम). When rain fills the streets with puddles and small streams, children fold paper into boats and float them in the flowing water. It is one of the most loved childhood activities in India.\n\nबारिश के मौसम में जब पानी भरता है, तब बच्चे कागज़ की नाव बनाकर तैराते हैं।",
+          "hint": "Which season brings lots of water for floating boats?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn6_003",
+          "front": "कविता में नाव कहाँ-कहाँ जाती है?",
+          "back": "In the poem, the paper boat travels on its own little adventure! It floats through rainwater streams (बारिश की धारा), over puddles (गड्ढे), and the poet imagines it going far away - perhaps to distant lands, across rivers, and even to the sea. The boat's journey represents a child's imagination and dreams.\n\nनाव बारिश के पानी में बहती हुई दूर-दूर तक जाती है।",
+          "hint": "Imagine where a small paper boat might travel in flowing water",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn6_004",
+          "front": "कविता में किन-किन चीज़ों का ज़िक्र है?",
+          "back": "The poem mentions several things related to the activity: कागज़ (paper) for making the boat, पानी (water) where the boat floats, बारिश (rain) that brings the water, नाव (boat) that the children create, and हवा (wind) that pushes the boat along. Together they create a picture of a rainy day adventure.\n\nकागज़, पानी, बारिश, नाव, और हवा - ये सब कविता में आते हैं।",
+          "hint": "What do you need to make a paper boat and float it?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn6_005",
+          "front": "इस कविता का भाव (mood) कैसा है?",
+          "back": "The poem has a playful, joyful, and imaginative mood (खुशी और कल्पना का भाव). It captures the excitement children feel when they make something with their own hands and watch it sail away. The repetition of 'नाव बनाओ, नाव बनाओ' creates a rhythmic, song-like feeling that makes you want to join in!\n\nकविता का भाव खुशी, उत्साह और कल्पना से भरा है।",
+          "hint": "How do you feel when you play in the rain?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn6_prashnottar",
+      "name": "प्रश्न उत्तर - नाव बनाओ नाव बनाओ",
+      "description": "Practice questions and answers to build comprehension of the poem and its language",
+      "topicId": "gr4_hi_6_2",
+      "chapterId": "gr4_hin_ncert_ch6",
+      "cards": [
+        {
+          "id": "card_gr4_hn6_006",
+          "front": "'नाव' और 'नौका' में क्या अंतर है?",
+          "back": "Both words mean 'boat', but they are used differently. नाव (naav) is the common, everyday Hindi word for boat. नौका (nauka) is the more formal or literary (साहित्यिक) word. In poems and formal writing, you may see नौका, while in daily speech, नाव is more common. The poem uses नाव because it sounds simple and child-friendly.\n\nनाव = boat (common), नौका = boat (formal)।",
+          "hint": "One is everyday language, one is more formal",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn6_007",
+          "front": "'बनाओ' किस प्रकार का शब्द है? इसका मतलब क्या है?",
+          "back": "बनाओ (banao) is a command or instruction word (आदेश/आज्ञा वाचक). It means 'make!' or 'create!' It is the imperative form of the verb बनाना (to make). When the poet says 'नाव बनाओ', he is playfully telling children: 'Come on, make a boat!' Other examples: खाओ (eat!), जाओ (go!), पढ़ो (read!).\n\nबनाओ = make! (आज्ञा वाचक क्रिया)।",
+          "hint": "It is telling you to do something - what kind of verb is that?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn6_008",
+          "front": "कविता में 'तुकबंदी' (rhyming) कहाँ-कहाँ दिखती है?",
+          "back": "Tukbandi (तुकबंदी) means rhyming - when the ending sounds of lines match. In this poem, words at the end of lines rhyme with each other, creating a musical, song-like feel. For example, words ending in similar sounds like -ाओ (banao, chalaao) create rhythm. This makes the poem easy to remember and fun to recite aloud.\n\nतुकबंदी = rhyming; same ending sounds make the poem musical।",
+          "hint": "Listen to the end of each line - do any sounds match?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn6_009",
+          "front": "कविता में 'कल्पना' (imagination) की क्या भूमिका है?",
+          "back": "Imagination (कल्पना) plays a big role in this poem! The paper boat is just a small folded paper, but in the child's mind, it becomes a real boat on a grand journey. The child imagines it sailing to faraway places, crossing rivers and seas. This shows how children use simple things to create wonderful adventures in their minds.\n\nकल्पना = imagination; बच्चे कागज़ की नाव को असली यात्रा पर भेजते हैं!",
+          "hint": "Is the paper boat really going on a big journey, or is it in the child's mind?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn6_010",
+          "front": "अपनी पसंदीदा बारिश की गतिविधि के बारे में दो पंक्तियाँ लिखो।",
+          "back": "Here is an example of two lines about a favourite rainy-day activity:\n\nबारिश आई, छम-छम-छम,\nमैंने बनाई नाव, बहा दी हम!\n\n(Rain came, pitter-patter,\nI made a boat and set it afloat!)\n\nTry writing your own! Use words like बारिश, पानी, खेलना, मज़ा, भीगना।",
+          "hint": "Use rhyming words and describe what you love doing in the rain",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

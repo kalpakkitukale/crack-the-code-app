@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch2",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "जैसा सवाल वैसा जवाब",
+      "description": "Chapter 2 - A clever story about wit and humor from Rimjhim textbook",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_kahani",
+      "label": "कहानी परिचय (Story Introduction)",
+      "description": "Overview of the humorous story about clever questions and answers",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_vishay",
+      "label": "विषय: चतुराई और हास्य",
+      "description": "The story's subject is cleverness, wit, and humor",
+      "parentId": "node_kahani",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_paatra",
+      "label": "मुख्य पात्र (Main Characters)",
+      "description": "The key characters including the clever protagonist",
+      "parentId": "node_kahani",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_sandesh",
+      "label": "संदेश: बुद्धि बल से बड़ी",
+      "description": "Message: Intelligence is greater than physical strength",
+      "parentId": "node_kahani",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_sawal_jawab",
+      "label": "सवाल-जवाब शैली (Q&A Style)",
+      "description": "The story uses a question-and-answer format to create humor",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_mushkil_sawal",
+      "label": "मुश्किल सवाल (Difficult Questions)",
+      "description": "Tricky and challenging questions asked to test the protagonist",
+      "parentId": "node_sawal_jawab",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_chatur_jawab",
+      "label": "चतुर जवाब (Clever Answers)",
+      "description": "Witty and unexpected answers that create humor",
+      "parentId": "node_sawal_jawab",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_hasya",
+      "label": "हास्य (Humor)",
+      "description": "Comedy arising from unexpected and clever responses",
+      "parentId": "node_sawal_jawab",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_bhasha",
+      "label": "भाषा कौशल (Language Skills)",
+      "description": "Vocabulary, idioms, and language concepts from the chapter",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_muhavare",
+      "label": "मुहावरे और कहावतें",
+      "description": "Idioms and proverbs used in the story like 'जैसे को तैसा'",
+      "parentId": "node_bhasha",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_samvad",
+      "label": "संवाद लेखन (Dialogue Writing)",
+      "description": "Learning to write conversations and dialogues in Hindi",
+      "parentId": "node_bhasha",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_shabdarth",
+      "label": "शब्दार्थ (Vocabulary)",
+      "description": "Key vocabulary words and their meanings from the story",
+      "parentId": "node_bhasha",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_seekh",
+      "label": "जीवन की सीख (Life Lessons)",
+      "description": "The story teaches that intelligence, calm thinking, and wit are valuable",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 360,
+      "color": "#E91E63",
+      "orderIndex": 13
+    }
+  ]
+}

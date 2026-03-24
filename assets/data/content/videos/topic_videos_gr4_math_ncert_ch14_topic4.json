@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn14_t4",
+  "topicId": "gr4_mn_14_4",
+  "topicName": "Bar Graphs",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2340,
+    "totalDurationDisplay": "39:00",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_14_1", "gr4_mn_14_2", "gr4_mn_14_3"],
+    "followUpTopics": ["gr4_mn_14_5"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn14_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Bar Graphs for Kids | How to Read and Draw Bar Graphs",
+      "description": "Learn how to read and make bar graphs step by step. See how bars show data about favourite sports, ice cream flavours, and more. Understand the x-axis and y-axis!",
+      "youtubeId": "HpMXRpXJhlo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HpMXRpXJhlo",
+      "thumbnailUrl": "https://img.youtube.com/vi/HpMXRpXJhlo/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3100000,
+      "tags": ["bar graph", "bar chart", "data representation", "x-axis", "y-axis", "drawing graphs"],
+      "learningObjectives": ["Understand what a bar graph is", "Identify the x-axis and y-axis", "Read data values from bars"],
+      "keyConceptsCovered": ["Bar graph structure", "X-axis (categories) and Y-axis (values)", "Reading bar heights"],
+      "prerequisites": ["Counting", "Comparison vocabulary", "Reading numbers"],
+      "followUpTopics": ["Drawing bar graphs", "Choosing scales"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v5",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Making Bar Graphs from Data Tables | Step by Step",
+      "description": "Learn how to turn a data table into a bar graph! Choose a scale, label the axes, and draw bars for each category. Practice with real classroom data.",
+      "youtubeId": "vuxTnBqMbC0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vuxTnBqMbC0",
+      "thumbnailUrl": "https://img.youtube.com/vi/vuxTnBqMbC0/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1400000,
+      "tags": ["bar graph", "data table", "drawing bar graph", "scale", "axes labels"],
+      "learningObjectives": ["Convert a data table into a bar graph", "Choose an appropriate scale", "Label axes and draw bars correctly"],
+      "keyConceptsCovered": ["Data table to bar graph", "Choosing scale (1, 2, 5, or 10)", "Labelling axes", "Drawing bars to correct height"],
+      "prerequisites": ["Reading bar graphs"],
+      "followUpTopics": ["Interpreting bar graphs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Pictographs for Kids | Reading and Making Picture Graphs",
+      "description": "Compare pictographs and bar graphs. See the same data shown as a pictograph and as a bar graph. Understand when each type of graph is useful!",
+      "youtubeId": "Gn2pdkvdbGQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gn2pdkvdbGQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/Gn2pdkvdbGQ/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2200000,
+      "tags": ["pictograph", "bar graph comparison", "graph types", "data representation"],
+      "learningObjectives": ["Compare pictographs and bar graphs", "Understand advantages of bar graphs", "Choose the right graph for different data"],
+      "keyConceptsCovered": ["Pictograph vs bar graph", "When to use each type", "Same data in different formats"],
+      "prerequisites": ["Pictographs basics"],
+      "followUpTopics": ["Complex bar graphs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch14_numbers_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Reading Numbers on a Number Line | Numbers Up to 100",
+      "description": "Practice reading scales on bar graphs. The y-axis of a bar graph is like a number line. Learn to read values accurately when the scale goes by 2s, 5s, or 10s.",
+      "youtubeId": "5G8RqmHbELg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5G8RqmHbELg",
+      "thumbnailUrl": "https://img.youtube.com/vi/5G8RqmHbELg/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["number line", "reading scale", "bar graph scale", "skip counting"],
+      "learningObjectives": ["Read the y-axis scale on bar graphs", "Find values between scale marks", "Understand different scale intervals"],
+      "keyConceptsCovered": ["Bar graph scales", "Reading between marks", "Skip counting on scales"],
+      "prerequisites": ["Number recognition"],
+      "followUpTopics": ["Interpreting bar graph data"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v6",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Reading and Interpreting Data | Answering Questions from Graphs",
+      "description": "Challenge yourself with bar graph questions! Find totals, compare categories, calculate differences, and draw conclusions from bar graph data.",
+      "youtubeId": "R7dPHFmIxCE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R7dPHFmIxCE",
+      "thumbnailUrl": "https://img.youtube.com/vi/R7dPHFmIxCE/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["bar graph interpretation", "data analysis", "graph questions", "challenge"],
+      "learningObjectives": ["Answer multi-step questions from bar graphs", "Compare multiple categories", "Calculate totals and differences"],
+      "keyConceptsCovered": ["Bar graph interpretation", "Multi-step graph questions", "Data comparison and analysis"],
+      "prerequisites": ["Drawing bar graphs", "Reading scales"],
+      "followUpTopics": ["Advanced data interpretation"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn14_v4", "gr4_mn14_v5", "gr4_mn14_v3", "prereq_ch14_numbers_v1", "gr4_mn14_v6"],
+      "totalVideos": 5,
+      "estimatedTime": 2400,
+      "estimatedTimeDisplay": "40:00",
+      "rationale": "Complete bar graph coverage with challenge for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn14_v4", "gr4_mn14_v5", "gr4_mn14_v3", "prereq_ch14_numbers_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1860,
+      "estimatedTimeDisplay": "31:00",
+      "rationale": "Complete bar graph coverage with scale reading practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch14_numbers_v1", "gr4_mn14_v4", "gr4_mn14_v5"],
+      "totalVideos": 3,
+      "estimatedTime": 1380,
+      "estimatedTimeDisplay": "23:00",
+      "rationale": "Number line review first, then core bar graph concepts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn14_v4", "gr4_mn14_v5"],
+      "totalVideos": 2,
+      "estimatedTime": 960,
+      "estimatedTimeDisplay": "16:00",
+      "rationale": "Essential bar graph reading and drawing only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn14_v5",
+      "checkpointName": "Bar Graph Drawing Check",
+      "questions": [
+        {
+          "question": "When drawing a bar graph, if the scale goes 0, 5, 10, 15, 20, and a category has 10 items, how high should the bar go?",
+          "options": ["To the line marked 5", "To the line marked 10", "To the line marked 15", "To the line marked 20"],
+          "correctAnswer": 1,
+          "explanation": "If the category has 10 items, the bar should reach up to the line marked 10 on the y-axis."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use grid paper for drawing bar graphs in class. Start with a scale of 1, then progress to scales of 2 and 5. Let students collect their own data to graph.",
+    "parentGuidance": "Help your child draw bar graphs at home using squared paper. They can graph things like the number of each type of toy, or how many pages they read each day.",
+    "studentGuidance": "A bar graph uses bars to show data. Taller bars mean bigger numbers! Always read the scale on the side to know what each line means."
+  }
+}

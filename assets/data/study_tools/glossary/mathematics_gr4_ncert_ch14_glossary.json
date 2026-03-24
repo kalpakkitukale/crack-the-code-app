@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_math_ncert_ch14",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn14_001",
+      "term": "Data",
+      "definition": "Information collected by counting, observing, or asking questions. Data is made up of numbers or facts that help us answer questions.",
+      "pronunciation": "DAY-tuh",
+      "exampleUsage": "We collected data about the favourite sports of students in our class by asking each student.",
+      "difficulty": "easy",
+      "relatedTerms": ["information", "survey", "observation"]
+    },
+    {
+      "id": "gls_gr4_mn14_002",
+      "term": "Tally Marks",
+      "definition": "Short lines used to count and record data one item at a time. Every 5th mark is drawn across the first 4 to make a bundle of 5 for easy counting.",
+      "pronunciation": "TAL-ee marks",
+      "exampleUsage": "We used tally marks to count how many red, blue, green, and yellow cars passed our school gate.",
+      "difficulty": "easy",
+      "relatedTerms": ["counting", "data", "frequency"]
+    },
+    {
+      "id": "gls_gr4_mn14_003",
+      "term": "Frequency",
+      "definition": "How many times something happens or appears. The number you get after counting all the items in a group.",
+      "pronunciation": "FREE-kwen-see",
+      "exampleUsage": "The frequency of students who chose mango as their favourite fruit was 14.",
+      "difficulty": "medium",
+      "relatedTerms": ["count", "tally marks", "data"]
+    },
+    {
+      "id": "gls_gr4_mn14_004",
+      "term": "Frequency Table",
+      "definition": "A table that shows different groups or items along with their tally marks and total counts. It organises raw data neatly.",
+      "pronunciation": "FREE-kwen-see TAY-bul",
+      "exampleUsage": "Our frequency table showed that 8 students walk to school, 12 come by bus, and 5 cycle.",
+      "difficulty": "medium",
+      "relatedTerms": ["tally marks", "data", "organise"]
+    },
+    {
+      "id": "gls_gr4_mn14_005",
+      "term": "Pictograph",
+      "definition": "A chart that uses small pictures or symbols to represent data. Each picture stands for a certain number of items.",
+      "pronunciation": "PIK-toh-graf",
+      "exampleUsage": "In our pictograph, one book symbol stands for 5 books read by a student.",
+      "difficulty": "easy",
+      "relatedTerms": ["chart", "key", "symbol"]
+    },
+    {
+      "id": "gls_gr4_mn14_006",
+      "term": "Key (Legend)",
+      "definition": "A small note on a pictograph that tells you how many items each picture represents.",
+      "pronunciation": "kee (LEJ-end)",
+      "exampleUsage": "The key on the pictograph said that one ball picture equals 3 balls.",
+      "difficulty": "easy",
+      "relatedTerms": ["pictograph", "symbol", "value"]
+    },
+    {
+      "id": "gls_gr4_mn14_007",
+      "term": "Bar Graph",
+      "definition": "A chart that uses rectangular bars of different heights or lengths to show and compare data. The taller the bar, the larger the value.",
+      "pronunciation": "bar graf",
+      "exampleUsage": "The bar graph showed that cricket had the tallest bar, meaning it was the most popular sport.",
+      "difficulty": "easy",
+      "relatedTerms": ["chart", "axis", "scale"]
+    },
+    {
+      "id": "gls_gr4_mn14_008",
+      "term": "Axis",
+      "definition": "A straight line on a graph used to show information. A bar graph has two axes: the horizontal x-axis (going across) and the vertical y-axis (going up).",
+      "pronunciation": "AK-sis",
+      "exampleUsage": "The names of fruits were written along the x-axis, and the number of students was on the y-axis.",
+      "difficulty": "medium",
+      "relatedTerms": ["bar graph", "scale", "label"]
+    },
+    {
+      "id": "gls_gr4_mn14_009",
+      "term": "Scale",
+      "definition": "The set of numbers placed along an axis of a graph. The numbers go up by equal steps like 2, 4, 6 or 5, 10, 15.",
+      "pronunciation": "skayl",
+      "exampleUsage": "The scale on the bar graph went from 0 to 25, with marks at every 5.",
+      "difficulty": "medium",
+      "relatedTerms": ["axis", "bar graph", "numbers"]
+    },
+    {
+      "id": "gls_gr4_mn14_010",
+      "term": "Survey",
+      "definition": "A way of collecting data by asking people questions. You record each person's answer to find patterns.",
+      "pronunciation": "SUR-vay",
+      "exampleUsage": "We did a survey in our class to find out which animal each student likes the most.",
+      "difficulty": "easy",
+      "relatedTerms": ["data", "question", "collect"]
+    },
+    {
+      "id": "gls_gr4_mn14_011",
+      "term": "Title",
+      "definition": "The name given to a chart or graph that tells you what the data is about.",
+      "pronunciation": "TY-tul",
+      "exampleUsage": "The title of the bar graph was 'Favourite Colours of Class 4 Students'.",
+      "difficulty": "easy",
+      "relatedTerms": ["chart", "graph", "label"]
+    },
+    {
+      "id": "gls_gr4_mn14_012",
+      "term": "Category",
+      "definition": "A group or type that data is sorted into. Each bar or row in a chart represents one category.",
+      "pronunciation": "KAT-uh-gor-ee",
+      "exampleUsage": "In our favourite fruit survey, mango, apple, banana, and orange were the four categories.",
+      "difficulty": "medium",
+      "relatedTerms": ["group", "data", "chart"]
+    }
+  ]
+}

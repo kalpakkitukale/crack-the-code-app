@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ch4",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_m4_what",
+      "name": "What are Fractions?",
+      "description": "Learn the basics of fractions and what they mean",
+      "topicId": "gr4_m_4_1",
+      "chapterId": "gr4_math_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_m4_001",
+          "front": "What is a fraction?",
+          "back": "A fraction is a part of a whole. It tells us how many equal parts we have out of the total number of parts.",
+          "hint": "Think of cutting a pizza into slices",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m4_002",
+          "front": "What is the top number in a fraction called?",
+          "back": "The numerator. It tells us how many parts we have.",
+          "hint": "It's the number above the line",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m4_003",
+          "front": "What is the bottom number in a fraction called?",
+          "back": "The denominator. It tells us how many equal parts the whole is divided into.",
+          "hint": "It's the number below the line",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m4_004",
+          "front": "If you eat 3 slices of a pizza cut into 8 slices, what fraction did you eat?",
+          "back": "3/8 (three-eighths). The numerator is 3 (slices eaten) and the denominator is 8 (total slices).",
+          "hint": "Put the slices you ate on top and total slices on the bottom",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m4_005",
+          "front": "What does it mean when the numerator and denominator are the same, like 4/4?",
+          "back": "It means one whole! You have all the parts. 4/4 = 1.",
+          "hint": "If you have all the slices, you have the full pizza",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m4_equiv",
+      "name": "Equivalent Fractions",
+      "description": "Discover fractions that look different but have the same value",
+      "topicId": "gr4_m_4_2",
+      "chapterId": "gr4_math_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_m4_006",
+          "front": "What are equivalent fractions?",
+          "back": "Fractions that look different but represent the same amount. For example, 1/2 and 2/4 are equal.",
+          "hint": "Think of half a chocolate bar - it's the same whether you cut it into 2 or 4 pieces",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m4_007",
+          "front": "How do you find an equivalent fraction?",
+          "back": "Multiply or divide both the numerator and denominator by the same number. Example: 1/3 = 2/6 (both multiplied by 2).",
+          "hint": "Whatever you do to the top, you must also do to the bottom",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m4_008",
+          "front": "Is 2/4 the same as 1/2?",
+          "back": "Yes! 2/4 and 1/2 are equivalent fractions. If you divide both 2 and 4 by 2, you get 1/2.",
+          "hint": "Try dividing the top and bottom by the same number",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m4_009",
+          "front": "What does it mean to simplify a fraction?",
+          "back": "To make the fraction smaller by dividing both the numerator and denominator by the same number until you can't anymore. Example: 4/8 simplifies to 1/2.",
+          "hint": "Find a number that divides evenly into both top and bottom",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m4_010",
+          "front": "Name a fraction equivalent to 3/6.",
+          "back": "1/2 (divide both by 3). You could also say 6/12 (multiply both by 2).",
+          "hint": "What number goes into both 3 and 6?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m4_add",
+      "name": "Adding Fractions",
+      "description": "Learn how to add fractions with the same denominator",
+      "topicId": "gr4_m_4_3",
+      "chapterId": "gr4_math_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_m4_011",
+          "front": "How do you add fractions with the same denominator?",
+          "back": "Add the numerators (top numbers) and keep the denominator (bottom number) the same. Example: 1/5 + 2/5 = 3/5.",
+          "hint": "Only the top numbers change when you add",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m4_012",
+          "front": "What is 2/7 + 3/7?",
+          "back": "5/7. Add the numerators: 2 + 3 = 5. The denominator stays 7.",
+          "hint": "The bottom number stays the same",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m4_013",
+          "front": "Why must the denominators be the same before adding?",
+          "back": "The denominator tells us the size of each piece. You can only add pieces that are the same size! Just like you can't add apples and oranges directly.",
+          "hint": "Think about adding slices from pizzas cut into different numbers of pieces",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m4_014",
+          "front": "What is 3/8 + 4/8?",
+          "back": "7/8. Add the numerators: 3 + 4 = 7. The denominator stays 8.",
+          "hint": "Add the top numbers, keep the bottom the same",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m4_015",
+          "front": "What happens if the answer is like 6/6 or 4/4?",
+          "back": "That equals 1 whole! Whenever the numerator equals the denominator, the fraction equals 1.",
+          "hint": "All the pieces together make a whole",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

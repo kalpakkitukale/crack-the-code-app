@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_evs_ncert_ch13",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en13",
+    "title": "A River's Tale",
+    "content": "This chapter from the NCERT Looking Around textbook tells the story of rivers - from their birth in the mountains to their journey through plains and cities, and finally to the sea. Students learn about major Indian rivers like the Ganga, Yamuna, Brahmaputra, and Godavari, and discover why rivers are lifelines that provide water for drinking, farming, and industry. The chapter takes a serious turn as it describes how rivers get polluted by factory waste, sewage, garbage, and chemicals. Students learn about the harmful effects of water pollution on aquatic life and human health, and discover what individuals and the government (through programmes like Namami Gange) can do to keep our rivers clean.",
+    "keyPoints": [
+      "Most Indian rivers start from Himalayan glaciers or hills",
+      "Rivers provide drinking water, irrigation, fish, transport, and electricity",
+      "Major rivers include Ganga, Yamuna, Brahmaputra, Godavari, and Narmada",
+      "Rivers get polluted by factory waste, sewage, garbage, and farm chemicals",
+      "Pollution kills aquatic life and causes diseases in people",
+      "Namami Gange and personal responsibility can help keep rivers clean"
+    ],
+    "learningObjectives": [
+      "Trace the journey of a river from its source to the sea",
+      "Name at least five major rivers of India and explain their importance",
+      "Explain what tributaries are and give an example",
+      "Identify the main causes of river pollution in India",
+      "Describe how water pollution affects aquatic life and human health",
+      "List actions individuals can take to help keep rivers clean"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en13_001",
+      "title": "River Map Activity",
+      "content": "Take a blank map of India and mark the major rivers: Ganga, Yamuna, Brahmaputra, Godavari, Krishna, Narmada, Kaveri, and Tapi. Use blue colour for the rivers. Mark where each river starts (source) and where it meets the sea (mouth). Also mark where two rivers join - like the Yamuna joining the Ganga at Prayagraj. This activity helps you remember the rivers and their locations easily.",
+      "tags": ["activity", "geography"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en13_002",
+      "title": "Write a River's Diary",
+      "content": "Imagine you are a river writing a diary! Start from when you were born as a clean stream in the snowy mountains. Describe how you felt flowing through beautiful forests, then how sad you became when people started throwing garbage and factory waste into you. End with a message to humans about what they can do to help. This creative writing activity helps you understand the chapter deeply while practising your writing skills.",
+      "tags": ["activity", "creative"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en13_003",
+      "title": "Water Conservation at Home",
+      "content": "Here are easy ways to save water at home: (1) Turn off the tap while brushing teeth - saves 6 litres each time! (2) Take shorter showers. (3) Fix any leaking taps immediately. (4) Reuse water from washing vegetables to water plants. (5) Use a bucket instead of a hose to wash the car. Every drop of water we save means less dirty water going into our rivers. Challenge your family to save water for one week and see the difference!",
+      "tags": ["study-tip", "conservation"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_eng_ncert_u9",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en9",
+    "title": "The Naughty Boy / Pinocchio",
+    "content": "Unit 9 of the NCERT Marigold textbook brings together two delightful stories about naughty but lovable characters. The unit opens with the poem 'The Naughty Boy' by John Keats, in which a curious boy runs away from England to Scotland, only to discover that things are much the same everywhere -- teaching us to appreciate what we have. The story section features Pinocchio, the famous wooden puppet made by Geppetto who dreams of becoming a real boy. Through his adventures, Pinocchio learns that honesty, hard work, and kindness are the qualities that truly matter. The grammar section introduces punctuation marks -- the full stop, question mark, exclamation mark, and comma -- helping students make their writing clear and expressive.",
+    "keyPoints": [
+      "The poem 'The Naughty Boy' by John Keats teaches contentment and appreciation",
+      "The boy discovers that Scotland is not very different from England",
+      "Pinocchio is a wooden puppet made by carpenter Geppetto",
+      "Pinocchio's nose grows when he lies, teaching the importance of honesty",
+      "Good values like honesty, hard work, and kindness help Pinocchio become a real boy",
+      "Punctuation marks (. ? ! ,) make writing clear and meaningful"
+    ],
+    "learningObjectives": [
+      "Read and understand the poem 'The Naughty Boy' and explain its message",
+      "Retell the story of Pinocchio and identify the lessons he learns",
+      "Use the full stop, question mark, exclamation mark, and comma correctly",
+      "Identify the type of sentence (statement, question, exclamation) and punctuate it",
+      "Build vocabulary with new words from the poem and story"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en9_001",
+      "title": "Punctuation Quick Guide",
+      "content": "Remember these four punctuation marks: (1) Full stop (.) -- for statements: 'Pinocchio is a puppet.' (2) Question mark (?) -- for questions: 'Who made Pinocchio?' (3) Exclamation mark (!) -- for strong feelings: 'His nose is growing!' (4) Comma (,) -- for lists and pauses: 'He learned honesty, kindness, and bravery.' Try adding the correct punctuation to five sentences every day!",
+      "tags": ["study-tip", "punctuation", "grammar-rule"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en9_002",
+      "title": "Act Out the Story!",
+      "content": "Get together with friends or family and act out the story of Pinocchio! One person can be Geppetto, one can be Pinocchio, and one can be the fairy. Make a long paper nose for Pinocchio that gets longer when he lies. Acting out the story helps you remember the characters, events, and lessons much better than just reading it.",
+      "tags": ["activity", "drama", "story-telling"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en9_003",
+      "title": "The Naughty Boy and Contentment",
+      "content": "The poem 'The Naughty Boy' reminds us of the saying 'the grass is always greener on the other side'. Write in your notebook: one thing you wish was different and three things you are grateful for about your home, school, or life. You will realise that what you already have is pretty wonderful! This is the message John Keats wanted us to learn.",
+      "tags": ["reflection", "values", "poem-analysis"],
+      "isPinned": false
+    }
+  ]
+}

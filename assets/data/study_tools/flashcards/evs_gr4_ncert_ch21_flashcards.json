@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch21",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_evn21_healthy_food",
+      "name": "Healthy Food",
+      "description": "Learn about nutritious foods and why they are important for our body",
+      "topicId": "gr4_evn_21_1",
+      "chapterId": "gr4_evs_ncert_ch21",
+      "cards": [
+        {
+          "id": "card_gr4_evn21_001",
+          "front": "Why do we need to eat food?",
+          "back": "We need food to get energy, to grow, to repair our body, and to stay healthy.\n\nFood gives us the strength to study, play, and do all our daily activities.",
+          "hint": "Think about what happens when you skip a meal",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_evn21_002",
+          "front": "What is a balanced diet?",
+          "back": "A balanced diet is a meal that has the right amount of all the nutrients our body needs.\n\nIt includes cereals, pulses, vegetables, fruits, milk, and a little oil and sugar.",
+          "hint": "Think of a thali with different types of food",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_evn21_003",
+          "front": "Why should we eat fruits and vegetables every day?",
+          "back": "Fruits and vegetables give us vitamins and minerals that protect us from diseases.\n\nThey also have fibre that helps our stomach digest food properly.",
+          "hint": "They are called protective foods",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_evn21_004",
+          "front": "Why is drinking water important?",
+          "back": "Water helps our body digest food, carry nutrients, remove waste, and keep our body cool.\n\nWe should drink 6-8 glasses of clean water every day.",
+          "hint": "Our body is mostly made up of this",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_evn21_005",
+          "front": "What happens if we eat too much junk food?",
+          "back": "Eating too much junk food can make us unhealthy. It can cause tooth decay, weight gain, tiredness, and weakness.\n\nJunk food has lots of oil, sugar, and salt but very few nutrients.",
+          "hint": "Think of chips, samosa, and cold drinks",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_evn21_food_groups",
+      "name": "Food Groups",
+      "description": "Understand the different groups of food and what they do for our body",
+      "topicId": "gr4_evn_21_2",
+      "chapterId": "gr4_evs_ncert_ch21",
+      "cards": [
+        {
+          "id": "card_gr4_evn21_006",
+          "front": "What are energy-giving foods? Give examples.",
+          "back": "Energy-giving foods are rich in carbohydrates and fats. They give us energy to work, play, and study.\n\nExamples: rice, roti, bread, potatoes, ghee, butter, and oil.",
+          "hint": "Foods that give us the power to run and play",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_evn21_007",
+          "front": "What are body-building foods? Give examples.",
+          "back": "Body-building foods are rich in proteins. They help our body grow and repair damaged parts.\n\nExamples: dal, paneer, milk, eggs, fish, soybean, and nuts.",
+          "hint": "Foods that help us grow taller and stronger",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_evn21_008",
+          "front": "What are protective foods? Give examples.",
+          "back": "Protective foods are rich in vitamins and minerals. They protect us from getting sick.\n\nExamples: green leafy vegetables, carrots, oranges, amla, papaya, and tomatoes.",
+          "hint": "Foods that act like a shield against diseases",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_evn21_009",
+          "front": "Name two foods that are commonly eaten together in India to make a complete meal.",
+          "back": "Dal and rice (or dal and roti) are commonly eaten together.\n\nDal gives us proteins (body-building) and rice gives us carbohydrates (energy). Together they make a nutritious meal!",
+          "hint": "A very popular combination in Indian households",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_evn21_010",
+          "front": "Why do different people eat different kinds of food?",
+          "back": "Food habits depend on where people live, what grows in their area, their culture, religion, and family traditions.\n\nFor example, people in South India eat more rice, while people in North India eat more roti.",
+          "hint": "Think about what your family eats compared to friends from other states",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

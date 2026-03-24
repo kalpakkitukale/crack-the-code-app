@@ -1,0 +1,59 @@
+{
+  "chapterId": "gr4_eng_ncert_u1",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en1_v1",
+      "videoId": "gr4_en1_v1",
+      "content": "This video introduces the poem 'Wake Up!' from the NCERT Marigold textbook. The poem is a cheerful call to children to wake up early in the morning. It paints a picture of nature coming alive at dawn -- birds are singing, flowers are blooming, the sun is shining, and a gentle breeze is blowing. The poet encourages children not to waste the beautiful morning by staying in bed. Students learn to read the poem aloud with proper rhythm and identify rhyming words.",
+      "keyPoints": [
+        "The poem 'Wake Up!' encourages children to wake up early",
+        "It describes birds singing, flowers blooming, and the sun rising",
+        "The morning is shown as a beautiful and happy time",
+        "The poem uses rhyming words to create a musical feel",
+        "Waking up early is presented as a good and healthy habit"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en1_v2",
+      "videoId": "gr4_en1_v2",
+      "content": "This video covers the story 'Neha's Alarm Clock' from the NCERT Marigold textbook. Neha is a young girl who loves sleeping and finds it very hard to wake up in the morning. Because of this, she is always late for school. Her family tries different ways to wake her up. Finally, she gets an alarm clock that rings loudly every morning at the right time. The alarm clock helps Neha wake up on time, and she learns the importance of being punctual. The story teaches children about responsibility and good habits.",
+      "keyPoints": [
+        "Neha loves sleeping and cannot wake up early on her own",
+        "She is always late for school because of oversleeping",
+        "An alarm clock is introduced as the solution to her problem",
+        "The alarm clock helps Neha develop a regular morning routine",
+        "The story teaches punctuality, discipline, and responsibility"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en1_v3",
+      "videoId": "gr4_en1_v3",
+      "content": "This video teaches the grammar topic of sentences from Unit 1. Students learn what a sentence is -- a group of words arranged in order that makes complete sense. Every sentence has two parts: a subject (who or what the sentence is about) and a predicate (what the subject does or is). Students practise identifying subjects and predicates, understand the difference between a sentence and a phrase, and learn the rules of starting with a capital letter and ending with proper punctuation.",
+      "keyPoints": [
+        "A sentence is a group of words that makes complete sense",
+        "Every sentence has a subject (who/what) and a predicate (what happens)",
+        "Sentences begin with a capital letter",
+        "Sentences end with a full stop, question mark, or exclamation mark",
+        "A phrase is not a sentence because it does not give a complete idea"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en1_v4",
+      "videoId": "gr4_en1_v4",
+      "content": "This video brings together the poem and the story from Unit 1 and helps students practise vocabulary, comprehension, and language skills. Students answer questions about the poem and the story, learn new words from the chapter, and practise forming correct sentences using the vocabulary from the unit. Activities include finding rhyming words, matching words with meanings, rearranging jumbled words to make sentences, and writing short answers about the characters and events.",
+      "keyPoints": [
+        "Comprehension questions help check understanding of the poem and story",
+        "New vocabulary words from the unit are explained with examples",
+        "Students practise forming complete sentences",
+        "Rhyming word activities build phonics and reading skills",
+        "Writing exercises develop expression and sentence construction"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "chapterId": "gr4_math_ncert_ch11",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn11_v1",
+      "videoId": "gr4_mn11_v1",
+      "content": "This lesson introduces the concept of symmetry. Students learn that symmetry means one half of a shape is the exact mirror image of the other half. The line that divides the shape into two matching halves is called the line of symmetry, also known as the fold line or mirror line. Students explore symmetry by folding paper shapes and checking if both halves overlap perfectly. They discover that some shapes like circles and squares have many lines of symmetry, while others like a heart have only one. The lesson uses real-life examples like butterflies, leaves, and rangoli designs to help children see symmetry in the world around them.",
+      "keyPoints": [
+        "Symmetry means both halves of a shape are matching mirror images",
+        "The line of symmetry divides a shape into two equal matching halves",
+        "Folding along the line of symmetry makes both halves overlap exactly",
+        "Some shapes have one, two, or even many lines of symmetry"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn11_v2",
+      "videoId": "gr4_mn11_v2",
+      "content": "This lesson focuses on mirror images and reflections. Students learn what happens when you place a mirror along the line of symmetry - the reflection in the mirror completes the shape. They explore how mirror images flip left and right. When you look in a mirror, your right hand appears as the left hand in the reflection. Students use mirrors to check symmetry in different shapes, letters, and numbers. They also learn that some English letters like A, M, and O have lines of symmetry, while letters like F, G, and J do not.",
+      "keyPoints": [
+        "A mirror placed on the line of symmetry shows the complete shape",
+        "In a mirror image, left and right sides are swapped",
+        "Letters like A, H, M, O, T have lines of symmetry",
+        "Letters like F, G, J, L, N do not have any line of symmetry"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn11_v3",
+      "videoId": "gr4_mn11_v3",
+      "content": "This lesson teaches students about symmetry in different shapes. Students examine common shapes and count their lines of symmetry. A square has 4 lines of symmetry (two diagonal and two through the middle). A rectangle has 2 lines of symmetry (horizontal and vertical). An equilateral triangle has 3, and a circle has unlimited lines of symmetry. Students also look at everyday objects like kites, traffic signs, and the Taj Mahal to find symmetry. They learn that an object with no line of symmetry is called asymmetrical.",
+      "keyPoints": [
+        "A square has 4 lines of symmetry, a rectangle has 2",
+        "An equilateral triangle has 3 lines of symmetry",
+        "A circle has unlimited lines of symmetry",
+        "Objects with no line of symmetry are called asymmetrical"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn11_v4",
+      "videoId": "gr4_mn11_v4",
+      "content": "This lesson explores folding and cutting to create symmetrical shapes. Students fold a piece of paper in half, draw half a shape along the fold, cut it out, and unfold to reveal a perfectly symmetric figure. The fold becomes the line of symmetry. Students experiment with different folds - folding once gives one line of symmetry, folding twice can create shapes with two lines of symmetry. They also make paper chains, decorations, and simple rangoli patterns using this technique. This hands-on activity helps them understand that the fold line is always the line of symmetry.",
+      "keyPoints": [
+        "Fold paper, draw half a shape on the fold, cut and open for a symmetric figure",
+        "The fold line becomes the line of symmetry",
+        "More folds create more lines of symmetry",
+        "Paper cutting is a fun way to create symmetrical designs and decorations"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn11_v5",
+      "videoId": "gr4_mn11_v5",
+      "content": "This lesson teaches students to complete symmetric figures. Given half a shape and a line of symmetry, students draw the matching other half. For each point on the given half, they mark a point at the same distance on the other side of the line of symmetry. By connecting these points, they complete the figure. Students practise on grid paper, which makes it easier to count squares and place points accurately. They also explore symmetry in nature - butterfly wings, flower petals, leaf patterns, and even the human face. The lesson ends with students creating their own symmetric designs using colours and patterns.",
+      "keyPoints": [
+        "To complete a symmetric figure, draw the mirror image of the given half",
+        "Each point should be the same distance from the line of symmetry on both sides",
+        "Grid paper helps in drawing symmetric figures accurately",
+        "Nature is full of symmetry - butterflies, flowers, leaves, and faces"
+      ],
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch11",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn11_kahani",
+      "name": "कहानी पाठ - पढ़क्कू की सूझ",
+      "description": "Learn about the humorous story of a bookworm and his practical wisdom from Rimjhim Chapter 11",
+      "topicId": "gr4_hi_11_1",
+      "chapterId": "gr4_hin_ncert_ch11",
+      "cards": [
+        {
+          "id": "card_gr4_hn11_001",
+          "front": "पढ़क्कू कौन है और उसकी क्या खासियत है?",
+          "back": "पढ़क्कू एक ऐसा व्यक्ति है जो हर समय किताबें पढ़ता रहता है। वह बहुत पढ़ा-लिखा है लेकिन उसमें व्यावहारिक समझ (practical wisdom) की कमी है। उसका नाम 'पढ़क्कू' इसलिए पड़ा क्योंकि वह बस पढ़ता ही रहता है। Padhakku is a person who reads books all the time but lacks common sense.",
+          "hint": "His name itself tells you what he does all day",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn11_002",
+          "front": "इस कहानी में 'सूझ' शब्द का क्या अर्थ है?",
+          "back": "'सूझ' का अर्थ है बुद्धि, समझ या अक्ल (wisdom/understanding)। कहानी का शीर्षक 'पढ़क्कू की सूझ' का मतलब है - किताबी कीड़े की समझ। कहानी बताती है कि सिर्फ किताबी ज्ञान काफी नहीं, व्यावहारिक समझ भी ज़रूरी है। 'Soojh' means practical wisdom or common sense.",
+          "hint": "Think about what kind of intelligence is needed in daily life",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn11_003",
+          "front": "कहानी में पढ़क्कू किस मुश्किल में फँसता है?",
+          "back": "पढ़क्कू को रोज़मर्रा की ज़िंदगी में एक आम समस्या का सामना करना पड़ता है। किताबों में पढ़ी बातों के आधार पर वह उसे सुलझाने की कोशिश करता है, लेकिन उसका किताबी तरीका काम नहीं आता और हास्यपूर्ण स्थिति बन जाती है। His bookish approach to a simple everyday problem creates a funny situation.",
+          "hint": "Books cannot always solve real-life problems",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn11_004",
+          "front": "कहानी से हमें क्या सीख मिलती है?",
+          "back": "कहानी से हमें यह सीख मिलती है कि सिर्फ किताबी ज्ञान काफी नहीं होता। हमें व्यावहारिक समझ (practical wisdom) भी चाहिए। किताबें पढ़ना अच्छी बात है, लेकिन आसपास की दुनिया से भी सीखना ज़रूरी है। The moral is that bookish knowledge alone is not enough - we also need practical common sense.",
+          "hint": "Think about the balance between reading and real-world experience",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn11_005",
+          "front": "यह कहानी हास्यपूर्ण (humorous) क्यों है?",
+          "back": "यह कहानी हास्यपूर्ण है क्योंकि पढ़क्कू बहुत पढ़ा-लिखा होने के बावजूद सामान्य-सी बात नहीं समझ पाता। जो बात एक साधारण इंसान आसानी से समझ लेता, वहाँ पढ़क्कू किताबी ज्ञान लगाकर उलझ जाता है। This irony - a learned person failing at simple tasks - creates the humor.",
+          "hint": "The comedy comes from the gap between his knowledge and his actions",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn11_qa",
+      "name": "प्रश्न उत्तर - पढ़क्कू की सूझ",
+      "description": "Practice questions and answers from the Rimjhim Chapter 11 exercises",
+      "topicId": "gr4_hi_11_2",
+      "chapterId": "gr4_hin_ncert_ch11",
+      "cards": [
+        {
+          "id": "card_gr4_hn11_006",
+          "front": "पढ़क्कू को यह नाम क्यों दिया गया?",
+          "back": "पढ़क्कू को यह नाम इसलिए दिया गया क्योंकि वह दिन-रात बस किताबें पढ़ता रहता था। 'पढ़क्कू' शब्द 'पढ़ना' से बना है जिसका मतलब है - जो बहुत ज़्यादा पढ़े। He got this name because he would read books all the time - 'Padhakku' comes from 'padhna' (to read).",
+          "hint": "The name is made from the Hindi word for reading",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn11_007",
+          "front": "'किताबी कीड़ा' मुहावरे का क्या अर्थ है?",
+          "back": "'किताबी कीड़ा' का अर्थ है वह व्यक्ति जो हमेशा किताबों में डूबा रहे। जैसे कीड़ा किताबों में रहता है, वैसे ही ऐसा व्यक्ति भी हमेशा किताबों में लगा रहता है। अंग्रेज़ी में इसे 'bookworm' कहते हैं। It is an idiom meaning a person who always has their nose in a book.",
+          "hint": "Think of the English word 'bookworm'",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn11_008",
+          "front": "क्या सिर्फ किताबें पढ़ना काफी है? अपने विचार लिखो।",
+          "back": "नहीं, सिर्फ किताबें पढ़ना काफी नहीं है। किताबों से हमें ज्ञान मिलता है, लेकिन उस ज्ञान को ज़िंदगी में इस्तेमाल करना भी आना चाहिए। अनुभव और व्यावहारिक समझ भी उतनी ही ज़रूरी है। No, only reading books is not enough. We must also learn from experience and develop practical understanding.",
+          "hint": "Think about what you learn from doing things, not just reading about them",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn11_009",
+          "front": "कहानी में हास्य (humor) कहाँ-कहाँ दिखता है?",
+          "back": "कहानी में हास्य तब दिखता है जब पढ़क्कू सामान्य काम के लिए भी किताबों का सहारा लेता है। उसकी उलटी-सीधी हरकतें और गंभीर चेहरे से मज़ाकिया बातें करना - ये सब हास्य पैदा करते हैं। The humor appears when Padhakku tries to solve simple problems using complicated bookish methods.",
+          "hint": "Look for moments where the simple becomes unnecessarily complicated",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn11_010",
+          "front": "'सूझ-बूझ' और 'किताबी ज्ञान' में क्या अंतर है?",
+          "back": "'किताबी ज्ञान' वह है जो हम पढ़कर सीखते हैं - जैसे तथ्य, नियम, और सिद्धांत। 'सूझ-बूझ' वह समझ है जो अनुभव से आती है - सही समय पर सही फैसला लेने की क्षमता। दोनों ज़रूरी हैं, लेकिन सूझ-बूझ के बिना किताबी ज्ञान अधूरा है। Bookish knowledge is learned from reading; practical wisdom comes from experience.",
+          "hint": "One comes from books, the other from life experience",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

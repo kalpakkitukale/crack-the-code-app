@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_sci_ch2",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_sc2_001",
+      "videoId": "gr4_sc2_v1",
+      "question": "Why do we need to eat food from all food groups?",
+      "answer": "Each food group does a different job for our body. Carbohydrates and fats give us energy to run and play. Proteins help us grow taller and repair cuts. Vitamins and minerals protect us from getting sick. If we eat only one type of food, our body will not get everything it needs and we may become weak or fall ill.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_sc2_002",
+      "videoId": "gr4_sc2_v1",
+      "question": "Is dal a carbohydrate or a protein?",
+      "answer": "Dal is mainly a protein food. It helps our body grow and build muscles. That is why dal is called a body-building food. However, dal also has some carbohydrates in it. Most foods contain more than one nutrient, but we classify them by the nutrient they have the most of.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_sc2_003",
+      "videoId": "gr4_sc2_v1",
+      "question": "Why is milk called a complete food?",
+      "answer": "Milk is often called a complete food because it contains almost all the nutrients our body needs: proteins for growth, carbohydrates and fats for energy, calcium for strong bones and teeth, and several vitamins. However, milk does not have enough iron and Vitamin C, so we still need to eat fruits and vegetables along with it.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_sc2_004",
+      "videoId": "gr4_sc2_v2",
+      "question": "What happens if we do not eat enough fruits and vegetables?",
+      "answer": "If we skip fruits and vegetables, our body does not get enough vitamins and minerals. This can cause many problems: without Vitamin A, our eyesight becomes weak; without Vitamin C, we catch colds easily and our gums may bleed; without iron, we feel tired all the time. That is why eating fresh fruits and sabzi every day is so important.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_sc2_005",
+      "videoId": "gr4_sc2_v2",
+      "question": "Can vegetarian food give us all the nutrients we need?",
+      "answer": "Yes! Vegetarian food can give us all the nutrients. We get proteins from dal, rajma, chole, paneer, milk, curd, and soybean. Iron comes from spinach and jaggery. Calcium comes from milk and sesame seeds. Eating a variety of vegetarian foods ensures we get everything our body needs.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_sc2_006",
+      "videoId": "gr4_sc2_v3",
+      "question": "Why is breakfast the most important meal of the day?",
+      "answer": "When we sleep at night, our body uses up energy. Breakfast gives us fresh energy to start the day. Children who eat a good breakfast can concentrate better in class, remember things more easily, and have more energy to play. Skipping breakfast can make us feel tired, dizzy, and unable to focus.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_sc2_007",
+      "videoId": "gr4_sc2_v3",
+      "question": "Why should we wash our hands before eating?",
+      "answer": "Our hands touch many things during the day like desks, door handles, and playground equipment. Germs from these places stick to our hands. If we eat without washing our hands, these germs enter our body along with food and can cause stomach ache, loose motions, and other illnesses. Washing hands with soap and water removes these germs.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_sc2_008",
+      "videoId": "gr4_sc2_v4",
+      "question": "Why should we chew our food properly?",
+      "answer": "Chewing breaks food into smaller pieces, making it easier for the stomach to digest. Saliva in our mouth also mixes with the food during chewing and starts the digestion process. If we swallow big pieces without chewing, our stomach has to work much harder, which can cause stomach ache and indigestion.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_sc2_009",
+      "videoId": "gr4_sc2_v4",
+      "question": "How long does it take to digest food completely?",
+      "answer": "It takes about 24 to 72 hours for food to be fully digested and for waste to leave our body. Food stays in the stomach for about 2 to 4 hours. Then it spends several hours in the small intestine where nutrients are absorbed, and finally moves through the large intestine. Different foods take different amounts of time to digest.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_sc2_010",
+      "videoId": "gr4_sc2_v4",
+      "question": "What is the difference between the small intestine and the large intestine?",
+      "answer": "The small intestine is actually longer but thinner. Its main job is to absorb nutrients from digested food into the blood. The large intestine is shorter but wider. Its job is to absorb water from the leftover food and form solid waste that leaves the body. Both are important parts of the digestive system.",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

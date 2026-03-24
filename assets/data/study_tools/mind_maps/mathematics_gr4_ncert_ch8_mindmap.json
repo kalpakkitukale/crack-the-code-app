@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_math_ncert_ch8",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Weigh it, Pour it",
+      "description": "Learning about weight (grams/kilograms) and capacity (millilitres/litres)",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_weight",
+      "label": "Measuring Weight",
+      "description": "How heavy is an object? We measure weight in grams and kilograms",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_gram",
+      "label": "Gram (g)",
+      "description": "Used for light objects like a pencil, biscuit packet, or small fruit",
+      "parentId": "node_weight",
+      "positionX": -280,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_kilogram",
+      "label": "Kilogram (kg)",
+      "description": "Used for heavy objects like a bag of rice, school bag, or watermelon",
+      "parentId": "node_weight",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_kg_g_relation",
+      "label": "1 kg = 1000 g",
+      "description": "Key conversion: multiply kg by 1000 to get grams",
+      "parentId": "node_weight",
+      "positionX": -120,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_capacity",
+      "label": "Measuring Capacity",
+      "description": "How much liquid can a container hold?",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_millilitre",
+      "label": "Millilitre (mL)",
+      "description": "Used for small amounts like medicine, a spoon of oil, or a small cup",
+      "parentId": "node_capacity",
+      "positionX": 120,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_litre",
+      "label": "Litre (L)",
+      "description": "Used for large amounts like a bottle of water, bucket, or tank",
+      "parentId": "node_capacity",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_l_ml_relation",
+      "label": "1 L = 1000 mL",
+      "description": "Key conversion: multiply litres by 1000 to get millilitres",
+      "parentId": "node_capacity",
+      "positionX": 280,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_tools",
+      "label": "Measuring Tools",
+      "description": "Tools we use for weighing and measuring liquids",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_balance",
+      "label": "Weighing Balance",
+      "description": "Two-pan balance used by shopkeepers with standard weights",
+      "parentId": "node_tools",
+      "positionX": -40,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_measuring_cup",
+      "label": "Measuring Cup / Jug",
+      "description": "Cup with markings to measure mL or L of liquid",
+      "parentId": "node_tools",
+      "positionX": 40,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_word_problems",
+      "label": "Word Problems",
+      "description": "Adding, subtracting, and comparing weights and capacities",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#E91E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_add_sub",
+      "label": "Add and Subtract",
+      "description": "Add or subtract weights/capacities after converting to the same unit",
+      "parentId": "node_word_problems",
+      "positionX": -80,
+      "positionY": 360,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_compare",
+      "label": "Compare",
+      "description": "Convert to the same unit to compare which is heavier or holds more",
+      "parentId": "node_word_problems",
+      "positionX": 80,
+      "positionY": 360,
+      "color": "#F48FB1",
+      "orderIndex": 14
+    }
+  ]
+}

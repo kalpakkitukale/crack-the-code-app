@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_hin_ncert_ch14",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "मुफ्त ही मुफ्त (Free Free)",
+      "description": "Chapter 14 - A humorous story about what happens when people hear the word 'free'",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_story",
+      "label": "कहानी (Story)",
+      "description": "A funny story about people getting excited over free things and what happens next",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_characters",
+      "label": "पात्र (Characters)",
+      "description": "The ordinary people in the story who lose control when they hear things are free",
+      "parentId": "node_story",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_events",
+      "label": "घटनाएँ (Events)",
+      "description": "The funny chain of events - hearing 'free', rushing, grabbing, fighting, and the final twist",
+      "parentId": "node_story",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_humour",
+      "label": "हास्य (Humour)",
+      "description": "The comedy in the story - people's crazy behaviour and funny dialogues",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_funny_scenes",
+      "label": "मज़ेदार दृश्य (Funny Scenes)",
+      "description": "People running madly, stuffing pockets, grabbing from each other, and the surprise ending",
+      "parentId": "node_humour",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_dialogues",
+      "label": "मज़ेदार संवाद (Funny Dialogues)",
+      "description": "Humorous conversations between characters that make readers laugh",
+      "parentId": "node_humour",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_themes",
+      "label": "मुख्य विषय (Main Themes)",
+      "description": "The important lessons and values taught by this humorous story",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_greed",
+      "label": "लालच (Greed)",
+      "description": "The danger of wanting more than you need - 'लालच बुरी बला' (greed is evil)",
+      "parentId": "node_themes",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_value",
+      "label": "मूल्य (Value)",
+      "description": "Everything has a value - nothing in the world is truly free",
+      "parentId": "node_themes",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_selfcontrol",
+      "label": "संयम (Self-Control)",
+      "description": "The importance of thinking before acting and not losing control over temptation",
+      "parentId": "node_themes",
+      "positionX": 450,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_moral",
+      "label": "सीख (Moral)",
+      "description": "Do not be greedy, think before you grab, and remember that nothing is truly free",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_language",
+      "label": "भाषा कार्य (Language Skills)",
+      "description": "Hindi vocabulary, idioms, and comprehension skills from this chapter",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#795548",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_vocab",
+      "label": "नए शब्द (New Words)",
+      "description": "मुफ्त, लालच, संतोष, मूल्य, बटोरना, उत्साह, संयम, हास्य, मुहावरा, सीख",
+      "parentId": "node_language",
+      "positionX": 100,
+      "positionY": 400,
+      "color": "#8D6E63",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_idioms",
+      "label": "मुहावरे (Idioms)",
+      "description": "लालच बुरी बला, मुफ्त का चंदन घिस मेरे नंदन - Hindi idioms related to this chapter",
+      "parentId": "node_language",
+      "positionX": 200,
+      "positionY": 400,
+      "color": "#8D6E63",
+      "orderIndex": 14
+    }
+  ]
+}

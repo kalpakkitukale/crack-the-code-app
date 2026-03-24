@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_h1_001",
+      "videoId": "gr4_h1_v1",
+      "question": "What is Varnamala and why is it important?",
+      "answer": "Varnamala (वर्णमाला) means 'garland of letters'. It is the Hindi alphabet - the complete set of all letters used to write Hindi. Just like you need to know A, B, C to read English, you need to know the Varnamala to read and write Hindi. It has two parts: Swar (vowels) and Vyanjan (consonants).",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_h1_002",
+      "videoId": "gr4_h1_v1",
+      "question": "How many letters are there in the Hindi alphabet?",
+      "answer": "The Hindi Varnamala has 11 Swar (vowels) and 33 Vyanjan (consonants), making a total of 44 main letters. Some books also count additional letters like अं (Anusvara) and अः (Visarga), which brings the count to 46 or more. But the main ones to learn first are the 11 Swar and 33 Vyanjan!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_h1_003",
+      "videoId": "gr4_h1_v2",
+      "question": "What is the difference between Swar and Vyanjan?",
+      "answer": "Swar (vowels) are sounds that can be spoken on their own without any help. For example, you can say अ or आ by themselves. Vyanjan (consonants) need the support of a Swar to be spoken. For example, क is actually said as 'ka' because it has the अ sound built in. Without a vowel, a consonant cannot be properly pronounced!",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_h1_004",
+      "videoId": "gr4_h1_v2",
+      "question": "What are Hrasva Swar and Deergha Swar?",
+      "answer": "Hrasva Swar (ह्रस्व स्वर) are short vowels - they take less time to say: अ, इ, उ, ऋ. Deergha Swar (दीर्घ स्वर) are long vowels - they take more time to say: आ, ई, ऊ, ए, ऐ, ओ, औ. Think of it like this: अ is a quick sound, but आ stretches out longer. That is the difference between short and long!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_h1_005",
+      "videoId": "gr4_h1_v2",
+      "question": "What is a Matra and how do I use it?",
+      "answer": "A Matra (मात्रा) is the sign or symbol of a Swar that attaches to a Vyanjan. When a consonant and vowel combine, we use the Matra instead of writing the full Swar. For example: क + आ = का (the ा is the Matra of आ). क + इ = कि (the ि is the Matra of इ). Learning Matras is very important for reading and writing Hindi words!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_h1_006",
+      "videoId": "gr4_h1_v3",
+      "question": "What are Varg in Vyanjan? Why are they grouped?",
+      "answer": "Varg (वर्ग) means group. The first 25 Vyanjan are divided into 5 groups of 5 letters each. Each group is made using the same part of your mouth: Ka-varg (क ख ग घ ङ) uses the throat, Cha-varg (च छ ज झ ञ) uses the palate, Ta-varg (ट ठ ड ढ ण) uses the tip of the tongue curled back, Ta-varg (त थ द ध न) uses the teeth, and Pa-varg (प फ ब भ म) uses the lips. Grouping helps you remember them easily!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_h1_007",
+      "videoId": "gr4_h1_v3",
+      "question": "What are Antastha and Ushma Vyanjan?",
+      "answer": "After the 25 Varg consonants, there are 8 more special consonants. Antastha Vyanjan (अन्तस्थ व्यंजन) are य, र, ल, व - they are called 'semi-vowels' because their sound is between a vowel and a consonant. Ushma Vyanjan (ऊष्म व्यंजन) are श, ष, स, ह - they are called 'fricatives' because they make a hissing or breathy sound.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_h1_008",
+      "videoId": "gr4_h1_v4",
+      "question": "How do I write a Hindi word using Swar and Vyanjan together?",
+      "answer": "To write a Hindi word, you combine Vyanjan with Swar using Matra. Let us take the word कमल (kamal - lotus): क (ka) = क + अ, म (ma) = म + अ, ल (la) = ल + अ. For नदी (nadee - river): न (na) = न + अ, द (da) = द + अ, ई Matra (ी) is added to द to make दी. Practice by breaking words into their Vyanjan and Swar parts!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_h1_009",
+      "videoId": "gr4_h1_v4",
+      "question": "What is the line on top of Hindi letters called?",
+      "answer": "The horizontal line on top of Hindi letters is called Shirorekha (शिरोरेखा). 'Shiro' means head and 'Rekha' means line, so it is the 'headline'. All Hindi letters in the Devanagari script have this line on top. When you write Hindi words, the Shirorekha of each letter joins together to form one continuous line over the word!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_h1_010",
+      "videoId": "gr4_h1_v4",
+      "question": "What is a Halant and when is it used?",
+      "answer": "A Halant (हलन्त) is a small slanting line (्) placed below a consonant. It removes the built-in अ sound from that consonant. For example, क is normally 'ka', but क् (with Halant) becomes just 'k' with no vowel. We use Halant when two consonants join directly, like in विद्या (vidya) where द् joins with य. It is also called Virama.",
+      "status": "answered",
+      "upvotes": 14
+    }
+  ]
+}

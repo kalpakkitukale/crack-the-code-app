@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ch2",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_ev2_001",
+      "term": "Water Cycle",
+      "definition": "The never-ending journey of water on Earth. Water evaporates from oceans, forms clouds, falls as rain, and flows back to oceans again.",
+      "pronunciation": "WAW-ter SY-kul",
+      "exampleUsage": "The water cycle keeps water moving between the sky and the Earth.",
+      "difficulty": "easy",
+      "relatedTerms": ["evaporation", "condensation", "precipitation"]
+    },
+    {
+      "id": "gls_gr4_ev2_002",
+      "term": "Evaporation",
+      "definition": "The process by which water changes from a liquid to a gas (water vapour) when heated by the sun.",
+      "pronunciation": "ee-VAP-oh-RAY-shun",
+      "exampleUsage": "On a hot day, puddles disappear because of evaporation.",
+      "difficulty": "medium",
+      "relatedTerms": ["water vapour", "sun", "heat"]
+    },
+    {
+      "id": "gls_gr4_ev2_003",
+      "term": "Condensation",
+      "definition": "The process by which water vapour cools down and turns back into tiny water droplets that form clouds.",
+      "pronunciation": "kon-den-SAY-shun",
+      "exampleUsage": "The water drops you see on a cold glass of water are formed by condensation.",
+      "difficulty": "medium",
+      "relatedTerms": ["clouds", "water droplets", "cooling"]
+    },
+    {
+      "id": "gls_gr4_ev2_004",
+      "term": "Precipitation",
+      "definition": "Water that falls from clouds to the Earth. It can be rain, snow, sleet, or hail.",
+      "pronunciation": "preh-SIP-ih-TAY-shun",
+      "exampleUsage": "Rain is the most common form of precipitation in India.",
+      "difficulty": "medium",
+      "relatedTerms": ["rain", "snow", "clouds"]
+    },
+    {
+      "id": "gls_gr4_ev2_005",
+      "term": "Water Vapour",
+      "definition": "Water in the form of an invisible gas. When water is heated, it turns into water vapour and rises into the air.",
+      "pronunciation": "WAW-ter VAY-per",
+      "exampleUsage": "Steam from a boiling kettle is water vapour becoming visible.",
+      "difficulty": "easy",
+      "relatedTerms": ["gas", "evaporation", "steam"]
+    },
+    {
+      "id": "gls_gr4_ev2_006",
+      "term": "Groundwater",
+      "definition": "Water found under the surface of the Earth in spaces between soil and rocks. It is reached by digging wells.",
+      "pronunciation": "GROUND-waw-ter",
+      "exampleUsage": "Many villages in India depend on groundwater from wells for drinking.",
+      "difficulty": "easy",
+      "relatedTerms": ["well", "soil", "underground"]
+    },
+    {
+      "id": "gls_gr4_ev2_007",
+      "term": "Conservation",
+      "definition": "The careful use and protection of natural resources like water so they are not wasted or used up.",
+      "pronunciation": "kon-ser-VAY-shun",
+      "exampleUsage": "Water conservation means using only as much water as we need.",
+      "difficulty": "medium",
+      "relatedTerms": ["saving", "protection", "resources"]
+    },
+    {
+      "id": "gls_gr4_ev2_008",
+      "term": "Rainwater Harvesting",
+      "definition": "The practice of collecting and storing rainwater from rooftops or open areas for later use.",
+      "pronunciation": "RAYN-waw-ter HAR-vest-ing",
+      "exampleUsage": "Our school has a rainwater harvesting system on the roof.",
+      "difficulty": "medium",
+      "relatedTerms": ["rain", "storage", "conservation"]
+    },
+    {
+      "id": "gls_gr4_ev2_009",
+      "term": "Drought",
+      "definition": "A long period with very little or no rain, causing water shortage for people, animals, and crops.",
+      "pronunciation": "DROWT",
+      "exampleUsage": "During the drought, farmers did not have enough water for their fields.",
+      "difficulty": "medium",
+      "relatedTerms": ["dry", "water shortage", "no rain"]
+    },
+    {
+      "id": "gls_gr4_ev2_010",
+      "term": "Fresh Water",
+      "definition": "Water that is not salty and is safe for drinking, cooking, and farming. It is found in rivers, lakes, and underground.",
+      "pronunciation": "FRESH WAW-ter",
+      "exampleUsage": "Only a small part of Earth's water is fresh water that we can use.",
+      "difficulty": "easy",
+      "relatedTerms": ["drinking water", "rivers", "lakes"]
+    }
+  ]
+}

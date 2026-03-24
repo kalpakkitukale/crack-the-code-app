@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch18",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_18_001",
+      "term": "Flood",
+      "definition": "When water overflows from rivers, lakes, or the sea and covers land that is normally dry, causing damage to homes and crops.",
+      "pronunciation": "FLUD",
+      "exampleUsage": "The heavy rain caused a flood that covered the village roads with water.",
+      "difficulty": "easy",
+      "relatedTerms": ["overflow", "deluge", "inundation"]
+    },
+    {
+      "id": "gls_evs_18_002",
+      "term": "Drought",
+      "definition": "A long period without rain when the land becomes very dry and there is not enough water for people, animals, and crops.",
+      "pronunciation": "DROWT",
+      "exampleUsage": "The drought lasted for months and the river dried up completely.",
+      "difficulty": "medium",
+      "relatedTerms": ["dry spell", "water shortage", "famine"]
+    },
+    {
+      "id": "gls_evs_18_003",
+      "term": "Monsoon",
+      "definition": "The rainy season in India, usually from June to September, when winds bring heavy rainfall from the sea.",
+      "pronunciation": "mon-SOON",
+      "exampleUsage": "Farmers wait for the monsoon to plant their crops.",
+      "difficulty": "easy",
+      "relatedTerms": ["rainy season", "rainfall", "clouds"]
+    },
+    {
+      "id": "gls_evs_18_004",
+      "term": "Rainwater Harvesting",
+      "definition": "Collecting and storing rainwater from rooftops and the ground so it can be used later.",
+      "pronunciation": "RAYN-waw-ter HAR-vuh-sting",
+      "exampleUsage": "Our school has a rainwater harvesting system on the roof.",
+      "difficulty": "medium",
+      "relatedTerms": ["water conservation", "storage", "rooftop"]
+    },
+    {
+      "id": "gls_evs_18_005",
+      "term": "Dam",
+      "definition": "A strong wall built across a river to hold back water. Dams store water and can also produce electricity.",
+      "pronunciation": "DAM",
+      "exampleUsage": "The Bhakra Nangal Dam stores water from the Sutlej River.",
+      "difficulty": "easy",
+      "relatedTerms": ["reservoir", "river", "water storage"]
+    },
+    {
+      "id": "gls_evs_18_006",
+      "term": "Water Conservation",
+      "definition": "The careful use of water to avoid wasting it, so there is enough water for everyone now and in the future.",
+      "pronunciation": "WAW-ter kon-ser-VAY-shun",
+      "exampleUsage": "Turning off taps when not in use is an example of water conservation.",
+      "difficulty": "medium",
+      "relatedTerms": ["saving water", "reduce waste", "preservation"]
+    },
+    {
+      "id": "gls_evs_18_007",
+      "term": "Step Well (Baoli)",
+      "definition": "An ancient Indian structure with steps leading down to the water level, used to collect and store water underground.",
+      "pronunciation": "BAO-lee",
+      "exampleUsage": "The old baoli in Rajasthan has hundreds of steps going deep into the ground.",
+      "difficulty": "medium",
+      "relatedTerms": ["well", "water storage", "heritage"]
+    },
+    {
+      "id": "gls_evs_18_008",
+      "term": "Relief Camp",
+      "definition": "A temporary shelter set up to help people who have been affected by a flood, drought, or other disaster.",
+      "pronunciation": "reh-LEEF kamp",
+      "exampleUsage": "Families moved to the relief camp after the flood destroyed their homes.",
+      "difficulty": "medium",
+      "relatedTerms": ["shelter", "rescue", "disaster"]
+    },
+    {
+      "id": "gls_evs_18_009",
+      "term": "Groundwater",
+      "definition": "Water found underground in the gaps between soil and rock. Wells and tube wells bring this water up for use.",
+      "pronunciation": "GROWND-waw-ter",
+      "exampleUsage": "Farmers use groundwater from tube wells to irrigate their fields.",
+      "difficulty": "medium",
+      "relatedTerms": ["well", "underground", "water table"]
+    },
+    {
+      "id": "gls_evs_18_010",
+      "term": "Evaporation",
+      "definition": "When water turns into vapour (gas) because of heat from the sun. Wet clothes dry because of evaporation.",
+      "pronunciation": "ee-vap-oh-RAY-shun",
+      "exampleUsage": "Water from the puddle disappeared by evaporation when the sun came out.",
+      "difficulty": "medium",
+      "relatedTerms": ["vapour", "heat", "drying"]
+    }
+  ]
+}

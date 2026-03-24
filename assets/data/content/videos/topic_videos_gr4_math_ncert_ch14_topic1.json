@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn14_t1",
+  "topicId": "gr4_mn_14_1",
+  "topicName": "Collecting and Organising Data",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1590,
+    "totalDurationDisplay": "26:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_14_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn14_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Collecting and Organising Data | Data Handling for Kids",
+      "description": "Learn how to collect information and organise it neatly. See how asking questions and recording answers helps us understand things around us, like favourite fruits or colours!",
+      "youtubeId": "TXslGErFmJE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TXslGErFmJE",
+      "thumbnailUrl": "https://img.youtube.com/vi/TXslGErFmJE/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["data collection", "organising data", "sorting", "information", "data handling"],
+      "learningObjectives": ["Understand what data means", "Learn how to collect data by asking questions", "Organise data into simple tables"],
+      "keyConceptsCovered": ["What is data", "Collecting data through surveys", "Recording data in a table"],
+      "prerequisites": ["Basic counting", "Sorting objects into groups"],
+      "followUpTopics": ["Tally marks", "Frequency tables"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch14_counting_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "recommended",
+      "title": "Counting and Sorting Objects | Sorting into Groups",
+      "description": "Learn how to count objects and sort them into groups by colour, shape, or size. Sorting is the first step to organising data!",
+      "youtubeId": "408bLnzcYuQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=408bLnzcYuQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/408bLnzcYuQ/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+      "tags": ["counting", "sorting", "grouping", "classifying", "data preparation"],
+      "learningObjectives": ["Count objects in each category", "Sort objects by their properties", "Record counts neatly"],
+      "keyConceptsCovered": ["Sorting by colour, shape, and size", "Counting items in each group", "Preparing data for tables"],
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Making data tables"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch14_comparison_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "More, Less, Most, Least | Comparison Words for Kids",
+      "description": "Learn the words we use to compare groups: more, fewer, most, least, equal. These words help us describe and compare data!",
+      "youtubeId": "DnEqMEoGz50",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DnEqMEoGz50",
+      "thumbnailUrl": "https://img.youtube.com/vi/DnEqMEoGz50/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 980000,
+      "tags": ["more", "less", "most", "least", "comparison", "vocabulary"],
+      "learningObjectives": ["Use comparison words correctly", "Compare data from two or more groups", "Describe which group has more or fewer"],
+      "keyConceptsCovered": ["More and fewer", "Most and least", "Equal groups"],
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Interpreting data tables"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v2",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Tally Marks | How to Count Using Tally Marks",
+      "description": "Learn how to use tally marks to count and record data quickly. Every 5th mark goes across to make counting easy. Practice tally marks with fun examples!",
+      "youtubeId": "YBbUKx0x5fU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YBbUKx0x5fU",
+      "thumbnailUrl": "https://img.youtube.com/vi/YBbUKx0x5fU/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+      "tags": ["tally marks", "counting", "data recording", "tally chart", "frequency"],
+      "learningObjectives": ["Use tally marks to record data", "Count tally marks in groups of 5", "Create a simple tally chart"],
+      "keyConceptsCovered": ["Tally mark notation", "Grouping by 5s", "Tally charts for data"],
+      "prerequisites": ["Data collection basics"],
+      "followUpTopics": ["Pictographs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn14_v1", "gr4_mn14_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 780,
+      "estimatedTimeDisplay": "13:00",
+      "rationale": "Quick introduction to data collection and tally marks for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn14_v1", "prereq_ch14_counting_v1", "prereq_ch14_comparison_v1", "gr4_mn14_v2"],
+      "totalVideos": 4,
+      "estimatedTime": 1530,
+      "estimatedTimeDisplay": "25:30",
+      "rationale": "Complete coverage of data collection and organising"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch14_counting_v1", "prereq_ch14_comparison_v1", "gr4_mn14_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1170,
+      "estimatedTimeDisplay": "19:30",
+      "rationale": "Start with sorting and comparison review, then data collection"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn14_v1", "prereq_ch14_counting_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 810,
+      "estimatedTimeDisplay": "13:30",
+      "rationale": "Essential data collection concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn14_v1",
+      "checkpointName": "Data Collection Understanding Check",
+      "questions": [
+        {
+          "question": "You want to find out the favourite game of your classmates. What should you do first?",
+          "options": ["Draw a graph", "Ask each classmate their favourite game", "Write numbers", "Count the desks"],
+          "correctAnswer": 1,
+          "explanation": "To collect data, you first need to ask questions. Ask each classmate their favourite game and write down their answers."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Start with a real classroom survey. Ask students their favourite fruit or colour and record the answers together on the board. This makes data collection tangible.",
+    "parentGuidance": "Help your child collect data at home. Count different types of shoes, sort laundry by colour, or ask family members their favourite food.",
+    "studentGuidance": "Data is just information! When you ask your friends their favourite game and write down the answers, you are collecting data. It is easy and fun!"
+  }
+}

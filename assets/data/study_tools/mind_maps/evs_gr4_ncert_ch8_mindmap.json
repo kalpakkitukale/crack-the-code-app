@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch8",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Reaching Grandmother's House",
+      "description": "Family relationships and the joy of visiting relatives",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_family_types",
+      "label": "Types of Families",
+      "description": "Different ways families are organised",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_joint",
+      "label": "Joint Family",
+      "description": "Grandparents, parents, uncles, aunts, cousins together",
+      "parentId": "node_family_types",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_nuclear",
+      "label": "Nuclear Family",
+      "description": "Parents and children living together",
+      "parentId": "node_family_types",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_relations",
+      "label": "Family Relationships",
+      "description": "How family members are connected",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_maternal",
+      "label": "Maternal Side",
+      "description": "Mother's family - Nana, Nani, Mama, Mausi",
+      "parentId": "node_relations",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_paternal",
+      "label": "Paternal Side",
+      "description": "Father's family - Dada, Dadi, Chacha, Bua",
+      "parentId": "node_relations",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_travel",
+      "label": "Travelling to Family",
+      "description": "Different ways to reach grandparents' house",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_train_bus",
+      "label": "Train & Bus",
+      "description": "Common ways to travel long distances",
+      "parentId": "node_travel",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_local",
+      "label": "Auto & Bullock Cart",
+      "description": "Local transport in towns and villages",
+      "parentId": "node_travel",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_learning",
+      "label": "Learning from Elders",
+      "description": "What grandparents teach us",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#FF9800",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_stories",
+      "label": "Stories & History",
+      "description": "Folk tales and family stories from grandparents",
+      "parentId": "node_learning",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#FFC107",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_traditions",
+      "label": "Traditions & Recipes",
+      "description": "Customs, festivals, and cooking passed down",
+      "parentId": "node_learning",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#FFC107",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_village_city",
+      "label": "Village vs City",
+      "description": "Comparing life in village and city",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#4CAF50",
+      "orderIndex": 13
+    }
+  ]
+}

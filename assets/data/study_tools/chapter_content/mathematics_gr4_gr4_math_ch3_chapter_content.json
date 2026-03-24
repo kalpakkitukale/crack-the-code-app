@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_math_ch3",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_m3",
+    "title": "Multiplication and Division",
+    "content": "This chapter teaches students how to multiply and divide numbers confidently. Starting with multiplication tables, students learn that multiplication is a quick way of adding the same number many times. They then move on to long multiplication, which helps multiply bigger numbers by breaking them into smaller, easier parts. Finally, students explore division and learn what happens when things don't split evenly — the leftover is called a remainder. Understanding these two operations is essential because they are used everywhere in daily life, from shopping to sharing treats with friends.",
+    "keyPoints": [
+      "Multiplication is repeated addition and makes counting equal groups fast",
+      "Knowing times tables from 2 to 12 is the foundation for all multiplication",
+      "Long multiplication breaks big problems into smaller steps",
+      "Division is the opposite of multiplication — it means sharing equally",
+      "A remainder is what is left over when things can't be split evenly",
+      "You can check division answers using multiplication"
+    ],
+    "learningObjectives": [
+      "Recall multiplication tables from 2 to 12",
+      "Multiply two-digit and three-digit numbers using long multiplication",
+      "Understand the meaning of division as equal sharing",
+      "Perform division with and without remainders",
+      "Use multiplication to check division answers",
+      "Solve real-life word problems using multiplication and division"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_m3_001",
+      "title": "Master Your Times Tables",
+      "content": "The best way to learn multiplication tables is to practise a little every day. Start with the easier tables (2, 5, 10) and work your way up. Use tricks to help: all multiples of 2 are even numbers, all multiples of 5 end in 0 or 5, and the digits of every multiple of 9 add up to 9. Try saying the tables out loud, writing them down, or quizzing yourself with flashcards!",
+      "tags": ["study-tip", "practice"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_m3_002",
+      "title": "Common Mistakes in Long Multiplication",
+      "content": "Watch out for these common mistakes: (1) Forgetting to carry over — if the product is 10 or more, always carry the tens digit. (2) Not adding a zero when multiplying by the tens digit in two-digit multiplication. (3) Forgetting to add the partial products at the end. Always double-check each step before moving on!",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_m3_003",
+      "title": "Division Checklist",
+      "content": "When solving a division problem, follow these steps: (1) Find the biggest multiple of the divisor that fits into the dividend. (2) Write the quotient (how many times it fits). (3) Subtract to find the remainder. (4) Make sure the remainder is smaller than the divisor. (5) Check your work by multiplying the quotient by the divisor and adding the remainder — you should get the dividend back!",
+      "tags": ["study-tip", "step-by-step"],
+      "isPinned": false
+    }
+  ]
+}

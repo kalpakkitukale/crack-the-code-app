@@ -1,0 +1,129 @@
+{
+  "videoSetId": "playlist_gr4_mn12_t1",
+  "topicId": "gr4_mn_12_1",
+  "topicName": "Reading Time",
+  "chapterId": "gr4_math_ncert_ch12",
+  "chapterName": "Ticking Clocks and Turning Calendar",
+  "description": "Main learning videos for reading time on an analog clock: hour hand, minute hand, o'clock, quarter past, half past, and quarter to",
+
+  "videos": [
+    {
+      "id": "gr4_mn12_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Telling Time For Children - Learning the Clock",
+      "description": "Learn how to read an analog clock step by step! Discover how the short hand shows hours and the long hand shows minutes. By the end, you will be able to tell the time like a pro!",
+
+      "youtubeId": "HrxZWNu72WI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HrxZWNu72WI",
+      "thumbnailUrl": "https://img.youtube.com/vi/HrxZWNu72WI/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 6500000,
+
+      "tags": ["telling time", "analog clock", "hours", "minutes", "reading clock"],
+
+      "learningObjectives": [
+        "Identify the hour hand (short) and minute hand (long)",
+        "Read time to the exact hour (o'clock)",
+        "Understand how the minute hand moves around the clock"
+      ],
+
+      "prerequisites": ["Number recognition 1-12"],
+      "followUpTopics": ["Quarter past, half past, quarter to"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "If the short hand is on 9 and the long hand is on 12, what time is it?",
+            "options": ["12:09", "9:12", "9:00"],
+            "correctAnswer": 2
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn12_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Math Antics - Telling Time",
+      "description": "A clear and fun explanation of how clocks work, including hours, minutes, and how the two hands move together. Great for understanding the basics of telling time on any clock!",
+
+      "youtubeId": "QU-XUmujbuM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QU-XUmujbuM",
+      "thumbnailUrl": "https://img.youtube.com/vi/QU-XUmujbuM/hqdefault.jpg",
+
+      "duration": 540,
+      "durationDisplay": "9:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 8500000,
+
+      "tags": ["telling time", "math antics", "clock", "analog", "hours and minutes"],
+
+      "learningObjectives": [
+        "Read time including minutes past the hour",
+        "Understand quarter past, half past, and quarter to",
+        "Connect skip counting by 5s to minute marks on the clock"
+      ],
+
+      "prerequisites": ["Basic clock introduction"],
+      "followUpTopics": ["AM and PM"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "What does 'half past 3' mean?",
+            "options": ["3:15", "3:30", "3:45"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn12_v1", "gr4_mn12_v2"],
+      "estimatedTime": 960
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn12_v1"],
+      "estimatedTime": 420
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn12_v1"],
+      "estimatedTime": 420
+    }
+  }
+}

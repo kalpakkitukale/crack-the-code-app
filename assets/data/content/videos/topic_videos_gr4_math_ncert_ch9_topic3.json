@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn9_t3",
+  "topicId": "gr4_mn_9_3",
+  "topicName": "Times Tables Practice",
+  "chapterId": "gr4_math_ncert_ch9",
+  "chapterName": "Equal Groups",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1830,
+    "totalDurationDisplay": "30:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_9_1", "gr4_mn_9_2"],
+    "followUpTopics": ["gr4_mn_9_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn9_v5",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Times Tables Made Easy | Learn Multiplication Tables",
+      "description": "Master your times tables from 2 to 10 with tips, tricks, and patterns. Practise multiplication facts to build speed and confidence!",
+      "youtubeId": "xO_1bYgoQvA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xO_1bYgoQvA",
+      "thumbnailUrl": "https://img.youtube.com/vi/xO_1bYgoQvA/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3800000,
+      "tags": ["times tables", "multiplication tables", "multiplication facts", "memorisation"],
+      "learningObjectives": ["Learn times tables from 2 to 10", "Discover patterns in multiplication tables", "Build speed with multiplication facts"],
+      "keyConceptsCovered": ["Times tables 2 to 10", "Patterns in multiplication", "Tips and tricks for remembering"],
+      "prerequisites": ["Equal groups", "Skip counting", "Arrays"],
+      "followUpTopics": ["Multiplication word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v3",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Arrays in Multiplication | Rows and Columns",
+      "description": "Use arrays to understand and practise times tables. See how 3 x 4 looks as 3 rows of 4 dots, helping you remember multiplication facts!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["arrays", "times tables", "visual multiplication", "practice"],
+      "learningObjectives": ["Use arrays to verify times tables", "See commutative property (3x4 = 4x3)", "Practise multiplication facts with visuals"],
+      "keyConceptsCovered": ["Arrays for times tables", "Commutative property of multiplication", "Visual verification of facts"],
+      "prerequisites": ["Arrays concept"],
+      "followUpTopics": ["Multiplication fluency"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v4",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Skip Counting for Multiplication | Count by 2s, 3s, 5s, 10s",
+      "description": "Use skip counting as a strategy to practise and check your times tables. If you forget 7 x 3, just skip count by 3s seven times!",
+      "youtubeId": "GvTcpfSnOMQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GvTcpfSnOMQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/GvTcpfSnOMQ/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["skip counting", "times tables strategy", "multiplication practice"],
+      "learningObjectives": ["Use skip counting to check times tables", "Build a backup strategy for forgotten facts", "Practise skip counting for all tables"],
+      "keyConceptsCovered": ["Skip counting as a checking strategy", "Times tables through skip counting", "Building multiplication fluency"],
+      "prerequisites": ["Skip counting", "Basic times tables"],
+      "followUpTopics": ["Multiplication fluency", "Word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v2",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Making Equal Groups | Multiplication as Repeated Addition",
+      "description": "Practise times tables by going back to equal groups. Use groups of objects to check your multiplication answers and build confidence!",
+      "youtubeId": "dFpVMGjYfI4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dFpVMGjYfI4",
+      "thumbnailUrl": "https://img.youtube.com/vi/dFpVMGjYfI4/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2200000,
+      "tags": ["equal groups", "times tables practice", "repeated addition", "verification"],
+      "learningObjectives": ["Verify times tables using equal groups", "Build confidence with multiplication facts", "Connect all multiplication strategies"],
+      "keyConceptsCovered": ["Equal groups for verification", "Multiple strategies for multiplication", "Building multiplication fact fluency"],
+      "prerequisites": ["Equal groups", "Times tables"],
+      "followUpTopics": ["Word problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn9_v5", "gr4_mn9_v3", "gr4_mn9_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1380,
+      "estimatedTimeDisplay": "23:00",
+      "rationale": "Times tables with array and skip counting strategies"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn9_v5", "gr4_mn9_v3", "gr4_mn9_v4", "gr4_mn9_v2"],
+      "totalVideos": 4,
+      "estimatedTime": 1830,
+      "estimatedTimeDisplay": "30:30",
+      "rationale": "Complete times tables coverage with all strategies"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn9_v4", "gr4_mn9_v5", "gr4_mn9_v2"],
+      "totalVideos": 3,
+      "estimatedTime": 1410,
+      "estimatedTimeDisplay": "23:30",
+      "rationale": "Skip counting strategy first, then times tables"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn9_v5", "gr4_mn9_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 930,
+      "estimatedTimeDisplay": "15:30",
+      "rationale": "Essential times tables with skip counting support"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn9_v5",
+      "checkpointName": "Times Tables Check",
+      "questions": [
+        {
+          "question": "What is 4 x 5?",
+          "options": ["9", "15", "20", "25"],
+          "correctAnswer": 2,
+          "explanation": "4 x 5 = 20. You can skip count by 5s four times: 5, 10, 15, 20!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Encourage students to use skip counting as a fallback when they forget a times table fact. Practise times tables daily for 5 minutes using flashcards or oral quizzes.",
+    "parentGuidance": "Make times tables fun! Use songs, games, or daily quizzes. Ask your child multiplication questions during car rides or meal times.",
+    "studentGuidance": "Don't worry if you can't remember every times table right away! Use skip counting or equal groups to figure out the answer. With practice, you'll get faster!"
+  }
+}

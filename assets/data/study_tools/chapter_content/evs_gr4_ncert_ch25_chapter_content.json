@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch25",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en25",
+    "title": "Spicy Riddles",
+    "content": "This chapter takes students on a flavourful journey through the world of Indian spices and regional cuisines. Through fun riddles, students learn to identify common spices like turmeric, red chilli, cumin, and cardamom, and discover which part of the plant each spice comes from. The chapter explores why food tastes different in different parts of India, connecting regional cuisines to local climate, crops, and traditions. Students also learn about the historical significance of the spice trade that brought traders from around the world to India, and how spices are stored and used for both cooking and traditional medicine.",
+    "keyPoints": [
+      "Spices come from different parts of plants - seeds, roots, bark, leaves, and flower buds",
+      "Black pepper is the King of Spices and cardamom is the Queen of Spices",
+      "India's diverse regional cuisines are shaped by local climate, crops, and available spices",
+      "The spice trade brought traders from Europe, Arabia, and China to India and changed world history",
+      "Many Indian spices like turmeric and ginger have medicinal properties",
+      "A masala dabba is a traditional Indian spice box used in kitchens across the country"
+    ],
+    "learningObjectives": [
+      "Identify common Indian spices and the plant parts they come from",
+      "Understand why food tastes different in different regions of India",
+      "Learn about the historical importance of the Indian spice trade",
+      "Recognise the medicinal uses of everyday spices",
+      "Appreciate India's rich culinary diversity and cultural heritage"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en25_001",
+      "title": "Kitchen Spice Detective Activity",
+      "content": "Go to your kitchen with a notebook. Open the masala dabba or spice shelf and list every spice you can find. For each spice, write down its colour, smell, and whether it is whole or ground. Try to find out which part of the plant it comes from - is it a seed, a root, bark, or a leaf? Ask an adult at home to help you identify each one!",
+      "tags": ["activity", "hands-on-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en25_002",
+      "title": "Spice Map of India",
+      "content": "Draw a simple map of India and mark where different spices are grown. Kerala grows pepper, cardamom, and cloves. Kashmir grows saffron. Rajasthan grows cumin and coriander. Andhra Pradesh grows chillies. This will help you remember which spices come from which regions and why climate matters for growing them.",
+      "tags": ["visual-learning", "geography"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en25_003",
+      "title": "Remember: Spice Parts of Plants",
+      "content": "Use this memory trick to remember which plant part different spices come from: Root - Turmeric, Ginger; Bark - Cinnamon; Seed - Cumin, Mustard, Black Pepper; Flower bud - Cloves; Leaf - Curry leaves, Bay leaf; Stigma - Saffron. Try making your own flashcards with a picture of the spice on one side and the plant part on the other!",
+      "tags": ["study-tip", "memory-aid"],
+      "isPinned": false
+    }
+  ]
+}

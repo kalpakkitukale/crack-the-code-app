@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch18",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_evn18_001",
+      "videoId": "gr4_evn18_v1",
+      "question": "What is a flood and why does it happen?",
+      "answer": "A flood happens when there is too much water in a place and the land cannot absorb it all. Heavy rain for many days, overflowing rivers, or blocked drains can cause floods. The water spreads over roads, fields, and homes. In India, floods are common during the monsoon season in states like Assam, Bihar, and Kerala.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_evn18_002",
+      "videoId": "gr4_evn18_v1",
+      "question": "What problems do floods cause for people?",
+      "answer": "Floods cause many problems. Houses get filled with water and people have to leave their homes. Roads get blocked so people cannot travel. Crops in fields get destroyed, which means farmers lose their food and money. Dirty flood water can spread diseases. Schools and shops have to close. People may lose their clothes, books, and belongings too.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_evn18_003",
+      "videoId": "gr4_evn18_v1",
+      "question": "What is a drought and how is it different from a flood?",
+      "answer": "A drought happens when there is very little or no rain for a long time. The land becomes dry and cracked, wells and ponds dry up, and crops die because there is no water. A drought is the opposite of a flood - in a flood there is too much water, but in a drought there is too little water. Both cause a lot of suffering for people, animals, and plants.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_evn18_004",
+      "videoId": "gr4_evn18_v2",
+      "question": "Why do some areas in India get too much rain while others get too little?",
+      "answer": "India is a very large country with different types of land and weather. Places near the sea and mountains like Cherrapunji get very heavy rain. Desert areas like Rajasthan get very little rain because rain clouds do not reach there easily. The direction of monsoon winds, mountains, and distance from the sea all decide how much rain a place gets.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_evn18_005",
+      "videoId": "gr4_evn18_v2",
+      "question": "What happens to animals during floods and droughts?",
+      "answer": "During floods, animals lose their homes too. Snakes, rats, and insects come out of the ground and into people's houses. Stray dogs and cows can get stuck in water. During droughts, animals struggle to find drinking water and food. Birds, cattle, and wild animals may die of thirst. People should try to keep water and food out for animals during such times.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_evn18_006",
+      "videoId": "gr4_evn18_v2",
+      "question": "What is water conservation and why is it important?",
+      "answer": "Water conservation means using water carefully and not wasting it. It is important because fresh water is limited on Earth. If we waste water, there may not be enough for everyone. Simple ways to save water include turning off the tap while brushing teeth, fixing leaking taps, using a bucket instead of a shower, and reusing water from washing vegetables to water plants.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_evn18_007",
+      "videoId": "gr4_evn18_v3",
+      "question": "What is rainwater harvesting?",
+      "answer": "Rainwater harvesting means collecting rainwater and storing it for later use instead of letting it flow away. Rain falling on rooftops is collected through pipes and stored in tanks or sent underground to recharge wells. This stored water can be used during dry months. Many schools and houses in India now have rainwater harvesting systems. It is one of the best ways to save water!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_evn18_008",
+      "videoId": "gr4_evn18_v3",
+      "question": "How can children help save water at home and school?",
+      "answer": "Children can help save water in many ways! Turn off the tap while soaping hands or brushing teeth. Take short baths with a bucket instead of a long shower. Tell an adult if you see a leaking tap. Do not play with the water hose. Use leftover drinking water for plants. At school, do not waste water at the drinking fountain. Every drop saved helps!",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_evn18_009",
+      "videoId": "gr4_evn18_v3",
+      "question": "What are dams and how do they help with water problems?",
+      "answer": "A dam is a big wall built across a river to hold back water and create a large lake called a reservoir. Dams help in two ways: they stop floods by controlling how much water flows down the river, and they store water that can be used during dry months for drinking, farming, and making electricity. Famous dams in India include Bhakra Nangal Dam and Hirakud Dam.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_evn18_010",
+      "videoId": "gr4_evn18_v1",
+      "question": "What did people do long ago to save water in dry areas?",
+      "answer": "People in dry areas of India have been saving water for hundreds of years using clever methods. In Rajasthan, people built stepwells (baoli) and johads (small check dams) to collect rainwater. In some villages, people stored rainwater in underground tanks called tankas. These old methods are still used today and teach us that saving every drop of rain is very important!",
+      "status": "answered",
+      "upvotes": 17
+    }
+  ]
+}

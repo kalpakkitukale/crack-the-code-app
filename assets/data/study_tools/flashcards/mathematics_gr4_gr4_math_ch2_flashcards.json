@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ch2",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_m2_add",
+      "name": "Addition of Large Numbers",
+      "description": "Practice adding 4-digit and 5-digit numbers step by step",
+      "topicId": "gr4_m_2_1",
+      "chapterId": "gr4_math_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_m2_001",
+          "front": "What does addition mean?",
+          "back": "Addition means putting two or more numbers together to find the total. The answer is called the sum.",
+          "hint": "Think of combining groups of things",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m2_002",
+          "front": "What is the first step when adding 4-digit numbers like 2,341 + 1,235?",
+          "back": "Start from the ones place (rightmost column) and add each column from right to left. 1+5=6, 4+3=7, 3+2=5, 2+1=3. Answer: 3,576.",
+          "hint": "Always begin adding from the right side",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m2_003",
+          "front": "What is 1,200 + 3,400?",
+          "back": "4,600. Add thousands: 1+3=4. Add hundreds: 2+4=6. The tens and ones are both 0.",
+          "hint": "Add each place value column separately",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m2_004",
+          "front": "What do we call the numbers we are adding together?",
+          "back": "The numbers being added are called addends. In 5 + 3 = 8, both 5 and 3 are addends.",
+          "hint": "They are the numbers before the equal sign",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m2_005",
+          "front": "What is 10,000 + 25,000?",
+          "back": "35,000. When adding 5-digit numbers with zeros, just add the non-zero digits in each place.",
+          "hint": "Add the ten-thousands digits: 1+2=3",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m2_regroup",
+      "name": "Addition with Regrouping",
+      "description": "Learn what to do when digits add up to more than 9",
+      "topicId": "gr4_m_2_2",
+      "chapterId": "gr4_math_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_m2_006",
+          "front": "What is regrouping (carrying) in addition?",
+          "back": "When the sum of digits in a column is 10 or more, we write the ones digit below and carry the tens digit to the next column on the left.",
+          "hint": "It happens when a column adds up to more than 9",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m2_007",
+          "front": "In 47 + 35, what happens in the ones column?",
+          "back": "7 + 5 = 12. Write 2 in the ones place and carry 1 to the tens column. Then 4 + 3 + 1 = 8. Answer: 82.",
+          "hint": "12 is more than 9, so you need to carry",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m2_008",
+          "front": "What is 2,876 + 4,567?",
+          "back": "7,443. Ones: 6+7=13 (write 3, carry 1). Tens: 7+6+1=14 (write 4, carry 1). Hundreds: 8+5+1=14 (write 4, carry 1). Thousands: 2+4+1=7.",
+          "hint": "You may need to carry in more than one column",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m2_009",
+          "front": "Can you carry more than 1 to the next column?",
+          "back": "When adding just two numbers, you only carry 1. But when adding three or more numbers, the carry could be 2 or more!",
+          "hint": "Think about the biggest sum two single digits can make: 9+9=18",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m2_010",
+          "front": "How can you check if your addition answer is correct?",
+          "back": "Switch the order of the numbers and add again. If 2,876 + 4,567 = 7,443, then 4,567 + 2,876 should also equal 7,443.",
+          "hint": "Addition can be done in any order and the answer stays the same",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m2_sub",
+      "name": "Subtraction of Large Numbers",
+      "description": "Practice subtracting 4-digit and 5-digit numbers",
+      "topicId": "gr4_m_2_3",
+      "chapterId": "gr4_math_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_m2_011",
+          "front": "What does subtraction mean?",
+          "back": "Subtraction means taking one number away from another to find the difference. It is the opposite of addition.",
+          "hint": "Think of removing objects from a group",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m2_012",
+          "front": "What is 5,897 - 2,341?",
+          "back": "3,556. Subtract each column from right to left: 7-1=6, 9-4=5, 8-3=5, 5-2=3.",
+          "hint": "Subtract ones first, then tens, hundreds, thousands",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m2_013",
+          "front": "In a subtraction problem, what is the top number called?",
+          "back": "The top number (the number you start with) is called the minuend. In 8 - 3 = 5, the number 8 is the minuend.",
+          "hint": "It is the larger number from which we subtract",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m2_014",
+          "front": "What is the bottom number in subtraction called?",
+          "back": "The bottom number (the number being taken away) is called the subtrahend. In 8 - 3 = 5, the number 3 is the subtrahend.",
+          "hint": "It is the number we are removing",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m2_015",
+          "front": "What is 40,000 - 15,000?",
+          "back": "25,000. Subtract the ten-thousands and thousands: 40 - 15 = 25, then add back the zeros.",
+          "hint": "Ignore the trailing zeros and subtract the front digits",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_math_ncert_ch8",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn8",
+    "title": "Weigh it, Pour it",
+    "content": "This chapter teaches students how to measure weight and capacity using standard units. Students learn that weight is measured in grams (g) for light objects and kilograms (kg) for heavy objects, with the key conversion being 1 kg = 1000 g. For liquids, capacity is measured in millilitres (mL) for small amounts and litres (L) for large amounts, with 1 L = 1000 mL. The chapter introduces measuring tools like the weighing balance (tarazu) and measuring cups. Students practise converting between units, adding and subtracting measurements, comparing weights and capacities, and solving real-life word problems involving shopping, cooking, and everyday situations.",
+    "keyPoints": [
+      "Weight is measured in grams (g) and kilograms (kg)",
+      "1 kilogram (kg) = 1000 grams (g)",
+      "Capacity is measured in millilitres (mL) and litres (L)",
+      "1 litre (L) = 1000 millilitres (mL)",
+      "To convert bigger units to smaller units, multiply by 1000",
+      "Always convert to the same unit before adding, subtracting, or comparing"
+    ],
+    "learningObjectives": [
+      "Understand and use grams and kilograms to measure weight",
+      "Understand and use millilitres and litres to measure capacity",
+      "Convert between kg and g, and between L and mL",
+      "Add and subtract measurements with mixed units",
+      "Compare weights and capacities by converting to the same unit",
+      "Solve real-life word problems involving weight and capacity"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn8_001",
+      "title": "The Magic Number: 1000",
+      "content": "Both weight and capacity use the same magic number for conversion - 1000! Remember: 1 kg = 1000 g and 1 L = 1000 mL. To go from a bigger unit to a smaller unit, multiply by 1000. To go from a smaller unit to a bigger unit, divide by 1000. For example: 5 kg = 5000 g, and 3000 mL = 3 L.",
+      "tags": ["key-concept", "formula"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn8_002",
+      "title": "Everyday Weight and Capacity Guide",
+      "content": "It helps to know the approximate weight and capacity of everyday things! Weight: a pencil is about 10 g, an apple is about 200 g, a textbook is about 500 g, a bag of atta is 1 kg or 5 kg. Capacity: a teaspoon is about 5 mL, a glass of water is about 250 mL, a water bottle is 500 mL or 1 L, a bucket is about 15-20 L. Use these to check if your answers make sense!",
+      "tags": ["study-tip", "practical"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn8_003",
+      "title": "Steps for Adding Mixed Units",
+      "content": "When adding weights like 3 kg 400 g + 2 kg 800 g, follow these steps: (1) Add the smaller units first: 400 g + 800 g = 1200 g. (2) If the total is 1000 or more, convert: 1200 g = 1 kg 200 g. (3) Add the bigger units: 3 kg + 2 kg = 5 kg. (4) Combine: 5 kg + 1 kg 200 g = 6 kg 200 g. The same steps work for adding litres and millilitres!",
+      "tags": ["study-tip", "formula"],
+      "isPinned": false
+    }
+  ]
+}

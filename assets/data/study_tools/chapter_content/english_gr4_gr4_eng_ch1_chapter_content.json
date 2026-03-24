@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_eng_ch1",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_e1",
+    "title": "Nouns and Pronouns",
+    "content": "This chapter teaches you about two important parts of speech: nouns and pronouns. Nouns are naming words. They give names to people, places, animals, and things. You will learn about different types of nouns such as common nouns, proper nouns, collective nouns, and abstract nouns. You will also learn about pronouns, which are words used in place of nouns to make our sentences smoother and less repetitive. By the end of this chapter, you will be able to identify nouns and pronouns in sentences and use them correctly in your own writing.",
+    "keyPoints": [
+      "A noun is a word that names a person, place, animal, or thing",
+      "Common nouns are general names; proper nouns are specific names with capital letters",
+      "Collective nouns name groups; abstract nouns name feelings and ideas",
+      "A pronoun replaces a noun to avoid repetition",
+      "Subject pronouns (I, he, she, we, they) do the action; object pronouns (me, him, her, us, them) receive the action"
+    ],
+    "learningObjectives": [
+      "Identify nouns in sentences and classify them as common, proper, collective, or abstract",
+      "Understand the difference between common nouns and proper nouns",
+      "Use capital letters correctly for proper nouns",
+      "Replace nouns with the correct pronouns in sentences",
+      "Use subject and object pronouns correctly in speaking and writing"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_e1_001",
+      "title": "Quick Noun Spotting Trick",
+      "content": "To find nouns in a sentence, ask two questions: 'Who is doing something?' and 'What is being talked about?' The answers are usually nouns. For example, in 'The teacher gave a book to Rina,' the nouns are teacher, book, and Rina. Try this with any sentence you read!",
+      "tags": ["study-tip", "nouns"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_e1_002",
+      "title": "Capital Letter Rule for Proper Nouns",
+      "content": "Always remember: proper nouns start with a capital letter. Names of people (Asha, Ravi), places (India, Delhi), days (Monday, Friday), months (January, March), and festivals (Diwali, Christmas) are all proper nouns. If you are not sure whether to use a capital letter, ask: Is this the special name of something specific?",
+      "tags": ["important", "proper-nouns", "grammar-rule"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_e1_003",
+      "title": "Pronoun Practice Activity",
+      "content": "Pick any paragraph from your favourite storybook. Circle all the nouns and underline all the pronouns. Then draw an arrow from each pronoun to the noun it replaces. This simple activity helps you see how nouns and pronouns work together. Try it with at least one paragraph every day!",
+      "tags": ["practice", "activity", "pronouns"],
+      "isPinned": false
+    }
+  ]
+}

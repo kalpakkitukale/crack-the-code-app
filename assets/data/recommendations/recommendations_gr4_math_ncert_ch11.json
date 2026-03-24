@@ -1,0 +1,432 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch11",
+  "topicId": "gr4_mn_11_1",
+  "topicName": "Line of Symmetry",
+  "chapterId": "gr4_math_ncert_ch11",
+  "chapterName": "Fun with Symmetry",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 11: Fun with Symmetry",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of shapes and equal halves, can fast-track to symmetry concepts with challenge content",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2160,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn11_v1",
+          "reason": "Introduction to line of symmetry",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v2",
+          "reason": "Fun symmetry song to reinforce concepts",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn11_v3",
+          "reason": "Mirror images and reflections",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v4",
+          "reason": "Find lines of symmetry in different shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v5",
+          "reason": "Challenge: Paper folding and completing figures",
+          "skippable": false
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of symmetry concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1740,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn11_v1",
+          "reason": "Introduction to line of symmetry",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v2",
+          "reason": "Symmetry song for reinforcement",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v3",
+          "reason": "Mirror images and reflections",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v4",
+          "reason": "Lines of symmetry in shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v5",
+          "reason": "Folding, cutting, and completing figures",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in shape recognition or equal halves, needs targeted review before symmetry concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2670,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "shape_recognition_weak": {
+            "addVideos": ["prereq_ch11_shapes_v1"],
+            "priority": "high"
+          },
+          "equal_halves_weak": {
+            "addVideos": ["prereq_ch11_halves_v1"],
+            "priority": "high"
+          },
+          "matching_shapes_weak": {
+            "addVideos": ["prereq_ch11_matching_v1"],
+            "priority": "medium"
+          },
+          "spatial_awareness_weak": {
+            "addVideos": ["prereq_ch11_matching_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch11_shapes_v1",
+          "reason": "Review: Basic shape recognition",
+          "skippable": false,
+          "condition": "if shape_recognition concept is weak"
+        },
+        {
+          "videoId": "prereq_ch11_halves_v1",
+          "reason": "Review: Equal halves and folding",
+          "skippable": false,
+          "condition": "if equal_halves concept is weak"
+        },
+        {
+          "videoId": "prereq_ch11_matching_v1",
+          "reason": "Review: Matching shapes and same-different",
+          "skippable": false,
+          "condition": "if matching_shapes concept is weak"
+        },
+        {
+          "videoId": "gr4_mn11_v1",
+          "reason": "Start main topic: Line of symmetry",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v3",
+          "reason": "Mirror images and reflections",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v4",
+          "reason": "Symmetrical shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v5",
+          "reason": "Folding and completing figures",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in shapes and equal halves before attempting symmetry",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1530,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch11_shapes_v1",
+          "reason": "Foundation: Review basic shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch11_halves_v1",
+          "reason": "Essential: Learn about equal halves",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch11_matching_v1",
+          "reason": "Critical: Matching shapes and patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v1",
+          "reason": "Gentle intro to line of symmetry",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn11_v2",
+          "reason": "Fun symmetry song to build interest",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with symmetry."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "shape_recognition": {
+        "conceptName": "Recognising and naming basic 2D shapes",
+        "importance": "critical",
+        "videoIds": ["prereq_ch11_shapes_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq11_1", "rq11_2", "rq11_3"]
+      },
+      "equal_halves": {
+        "conceptName": "Understanding equal halves and matching parts",
+        "importance": "critical",
+        "videoIds": ["prereq_ch11_halves_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq11_4", "rq11_5", "rq11_6"]
+      },
+      "matching_shapes": {
+        "conceptName": "Matching identical shapes and spotting same-different",
+        "importance": "important",
+        "videoIds": ["prereq_ch11_matching_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq11_7", "rq11_8"]
+      },
+      "spatial_awareness": {
+        "conceptName": "Left-right and mirror concept awareness",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch11_matching_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq11_9", "rq11_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn11_v1",
+        "checkpointName": "Line of Symmetry Basics Check",
+        "questions": [
+          {
+            "question": "A shape has a line of symmetry when you can fold it and both halves ___.",
+            "options": ["look different", "match perfectly", "are unequal", "disappear"],
+            "correctAnswer": 1,
+            "explanation": "A line of symmetry divides a shape into two halves that match perfectly when folded."
+          },
+          {
+            "question": "How many lines of symmetry does a square have?",
+            "options": ["1", "2", "4", "0"],
+            "correctAnswer": 2,
+            "explanation": "A square has 4 lines of symmetry: two through opposite corners and two through the middle of opposite sides."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand lines of symmetry well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch11_halves_v1",
+          "reason": "Student struggling with symmetry concept, review equal halves"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn11_v4",
+        "checkpointName": "Symmetrical Shapes Check",
+        "questions": [
+          {
+            "question": "Which of these shapes is NOT symmetrical?",
+            "options": ["Circle", "Square", "A shape with all unequal sides", "Rectangle"],
+            "correctAnswer": 2,
+            "explanation": "A shape with all unequal sides (a scalene figure) is not symmetrical. Circles, squares, and rectangles all have lines of symmetry."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn11_v5",
+          "reason": "Student ready for folding and completing figures challenge"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the symmetrical shapes video again, then try spotting symmetry in objects around your room."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip song/reinforcement video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on shapes and halves"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising symmetry with paper folding activities at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your shapes and halves really well. You are ready to learn about symmetry. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand shapes and equal halves well. Let's explore the fun world of symmetry with complete coverage of all the topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in shapes or equal halves. Don't worry! We will start with targeted review videos on the concepts you need, then move to symmetry."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review shapes and equal halves first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn symmetry."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how symmetry concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Shape recognition", "Identifying basic 2D shapes", "Counting sides and corners"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Equal halves", "Folding into matching parts", "Matching identical shapes"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Line of symmetry", "Finding symmetry by folding", "Symmetry in everyday objects"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Mirror images", "Reflections", "Symmetrical shapes and their lines of symmetry"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Paper folding and cutting", "Completing symmetrical figures", "Creating symmetrical designs"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "symmetryIdentification": {
+      "target": 85,
+      "description": "% of students who can correctly identify lines of symmetry in basic shapes"
+    },
+    "mirrorImageAccuracy": {
+      "target": 80,
+      "description": "% of students who can draw a correct mirror image of a simple figure"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 30-35 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (20 min) + retake + main content (20 min) = 40-50 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing line of symmetry with any line drawn on a shape",
+      "solution1": "Emphasise that both halves must match exactly when folded along the line. Use paper folding to demonstrate.",
+      "challenge2": "Students thinking mirror images are identical copies rather than reflections",
+      "solution2": "Use a real mirror to show how left and right flip. Let students hold up letters and objects.",
+      "challenge3": "Students struggling to complete a symmetrical figure on a grid",
+      "solution3": "Start with simple shapes on large grids. Count squares from the line of symmetry to place dots correctly."
+    }
+  }
+}

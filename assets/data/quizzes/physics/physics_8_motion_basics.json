@@ -1,0 +1,152 @@
+{
+  "quiz": {
+    "id": "quiz_physics_8_motion_basics",
+    "level": "concept",
+    "entityId": "physics_8_motion_basics",
+    "title": "Motion - Basics Quiz",
+    "questionIds": [
+      "q_mb_001",
+      "q_mb_002",
+      "q_mb_003",
+      "q_mb_004",
+      "q_mb_005"
+    ],
+    "timeLimit": 300,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_mb_001",
+      "questionText": "What is the difference between distance and displacement?",
+      "questionType": "mcq",
+      "options": [
+        "Distance is a vector, displacement is a scalar",
+        "Distance is total path length, displacement is shortest distance with direction",
+        "They are the same thing",
+        "Displacement is always greater than distance"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Distance is a scalar quantity representing the total path length traveled, while displacement is a vector quantity representing the shortest distance from initial to final position with direction. Displacement can be zero even when distance is not.",
+      "hints": [
+        "One considers the entire path, the other considers only start and end points",
+        "One is a scalar, the other is a vector"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_motion_basics",
+        "physics_8_speed_velocity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_mb_002",
+      "questionText": "What does it mean when we say an object is in motion?",
+      "questionType": "mcq",
+      "options": [
+        "The object is changing its shape",
+        "The object is changing its position with respect to time",
+        "The object is at rest",
+        "The object has high speed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "An object is said to be in motion when it changes its position with respect to time and a reference point. Motion is relative and depends on the observer's frame of reference.",
+      "hints": [
+        "Think about what changes when something moves",
+        "Motion involves change in position over time"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_motion_basics"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_mb_003",
+      "questionText": "If a car travels 100 km north and then 60 km south, what is its displacement?",
+      "questionType": "mcq",
+      "options": [
+        "160 km",
+        "40 km north",
+        "40 km south",
+        "100 km"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Displacement is the shortest distance from the starting point to the final position with direction. The car travels 100 km north then 60 km south, so the net displacement is 100 - 60 = 40 km north.",
+      "hints": [
+        "Displacement is the net change in position",
+        "Consider the direction - north is positive, south is negative"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "physics_8_motion_basics",
+        "physics_8_speed_velocity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_mb_004",
+      "questionText": "Which of the following is a vector quantity?",
+      "questionType": "mcq",
+      "options": [
+        "Distance",
+        "Speed",
+        "Velocity",
+        "Time"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Velocity is a vector quantity because it has both magnitude (speed) and direction. Distance and speed are scalar quantities with only magnitude, and time is also a scalar.",
+      "hints": [
+        "Vector quantities have both magnitude and direction",
+        "Think about which quantity includes direction"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_motion_basics",
+        "physics_8_speed_velocity"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_mb_005",
+      "questionText": "What is a reference point?",
+      "questionType": "mcq",
+      "options": [
+        "A point where motion begins",
+        "A fixed point used to determine if an object is in motion",
+        "The fastest point in motion",
+        "A point where motion ends"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A reference point (or frame of reference) is a fixed point or object used to determine whether another object is in motion or at rest. Motion is always described relative to a reference point.",
+      "hints": [
+        "Motion is relative to some fixed point",
+        "We need a reference to determine if something is moving"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "physics_8_motion_basics"
+      ],
+      "topicIds": [
+        "topic_kinematics"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

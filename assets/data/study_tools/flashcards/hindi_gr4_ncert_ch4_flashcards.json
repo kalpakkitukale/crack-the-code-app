@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch4",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn4_kahani",
+      "name": "कहानी पाठ - पापा जब बच्चे थे",
+      "description": "Learn about the story 'Papa Jab Bachche The' - key events, characters, and childhood memories",
+      "topicId": "gr4_hi_4_1",
+      "chapterId": "gr4_hin_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_hn4_001",
+          "front": "कहानी 'पापा जब बच्चे थे' किसके बारे में है?",
+          "back": "This story is about a father sharing memories of his childhood with his children. He tells them about the naughty and fun things he used to do when he was a little boy, just like them.\n\nयह कहानी एक पिता की बचपन की यादों के बारे में है।",
+          "hint": "Think about what the title 'When Papa Was a Child' suggests",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn4_002",
+          "front": "पापा बचपन में कैसे बच्चे थे? क्या वे शरारती थे?",
+          "back": "Yes! Papa was a mischievous (शरारती) child. He used to play pranks, climb trees, and get into trouble, just like children today. The story shows that parents were once children too.\n\nपापा भी बचपन में शरारती बच्चे थे।",
+          "hint": "Parents were also children once - think about what they might have done",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn4_003",
+          "front": "कहानी में पापा की कौन-कौन सी शरारतें बताई गई हैं?",
+          "back": "Papa shares stories of climbing trees (पेड़ पर चढ़ना), playing in the rain (बारिश में भीगना), stealing fruits from the neighbour's garden, and not wanting to study. These are common childhood adventures.\n\nपापा पेड़ पर चढ़ते थे, बारिश में भीगते थे, और पढ़ाई से बचते थे।",
+          "hint": "Think about fun outdoor activities children enjoy",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn4_004",
+          "front": "इस कहानी से हमें क्या सीख मिलती है?",
+          "back": "The story teaches us that every adult was once a child. Parents understand children because they too went through the same experiences. It brings families closer through shared memories.\n\nहर बड़ा इंसान कभी बच्चा था - माता-पिता बच्चों को इसीलिए समझ सकते हैं।",
+          "hint": "What connects parents and children together?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn4_005",
+          "front": "कहानी सुनकर बच्चों ने क्या महसूस किया?",
+          "back": "The children were surprised and happy to hear that their papa was also naughty as a child. They felt closer to their father and laughed together. It helped them see their papa in a new, more relatable way.\n\nबच्चे हैरान और खुश हुए कि पापा भी उनकी तरह शरारती थे।",
+          "hint": "How would you feel if your parents told you about their childhood pranks?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn4_prashnottar",
+      "name": "प्रश्न उत्तर - पापा जब बच्चे थे",
+      "description": "Practice questions and answers based on the chapter to strengthen comprehension",
+      "topicId": "gr4_hi_4_2",
+      "chapterId": "gr4_hin_ncert_ch4",
+      "cards": [
+        {
+          "id": "card_gr4_hn4_006",
+          "front": "'बचपन' शब्द का क्या अर्थ है?",
+          "back": "Bachpan (बचपन) means childhood - the time when someone is a child. It comes from 'bachcha' (बच्चा) meaning child, with the suffix 'pan' (पन) meaning the state of being.\n\nबचपन = बच्चा होने का समय।",
+          "hint": "It is related to the word 'bachcha' (child)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn4_007",
+          "front": "'शरारत' और 'शरारती' में क्या अंतर है?",
+          "back": "Shararat (शरारत) is the noun meaning 'mischief' or 'prank'. Sharaati (शरारती) is the adjective meaning 'mischievous' or 'naughty'. Adding ई to the end of many Hindi nouns turns them into adjectives.\n\nशरारत = mischief (संज्ञा), शरारती = mischievous (विशेषण)।",
+          "hint": "One is a thing (noun) and one describes a person (adjective)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn4_008",
+          "front": "कहानी में 'याद' शब्द का क्या महत्व है?",
+          "back": "Yaad (याद) means memory or remembrance. The whole story is built around Papa's memories (यादें) of his childhood. Memories connect the past to the present and help families bond.\n\nयाद = memory; कहानी पापा की बचपन की यादों पर आधारित है।",
+          "hint": "The story is all about looking back in time",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn4_009",
+          "front": "वाक्य बनाओ: 'जब मैं छोटा/छोटी था/थी...'",
+          "back": "This sentence pattern means 'When I was small/young...' and is used to talk about past events.\n\nExamples: जब मैं छोटा था, मैं बहुत शरारती था। (When I was small, I was very naughty.)\nजब मैं छोटी थी, मुझे खेलना बहुत पसंद था। (When I was small, I loved to play.)",
+          "hint": "Use this pattern to describe something from your childhood",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn4_010",
+          "front": "अपने बचपन की एक याद बताओ - इसे हिंदी में कैसे कहेंगे?",
+          "back": "You can say: मेरे बचपन की एक याद यह है कि... (One memory of my childhood is that...)\n\nExample: मेरे बचपन की एक याद यह है कि मैं दादी के साथ कहानियाँ सुनता/सुनती था/थी।\n(One childhood memory is that I used to listen to stories with my grandmother.)",
+          "hint": "Start with 'Mere bachpan ki ek yaad yeh hai ki...'",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

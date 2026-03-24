@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch23",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_evn23",
+    "title": "Pochampalli",
+    "content": "This chapter takes students to the village of Pochampalli in Telangana, famous for its handloom weaving tradition. Students learn about the art of weaving - how warp and weft threads are crossed on a loom to create cloth. They discover the special Ikat technique where threads are tie-dyed before weaving to create beautiful geometric patterns. The chapter explores the life of weaver families, the challenges they face, and why supporting handloom products matters. Students also learn about India's rich weaving heritage across states, the materials used for making cloth, and the historical connection between handloom and India's freedom movement.",
+    "keyPoints": [
+      "Pochampalli in Telangana is famous for its Ikat handloom sarees",
+      "Weaving involves crossing warp and weft threads on a loom",
+      "The Ikat technique involves dyeing threads before weaving them",
+      "Handloom weaving is a family craft requiring great skill and patience",
+      "India has many famous weaving traditions like Banarasi, Kanjeevaram, and Patola",
+      "Cotton, silk, wool, and jute are the main materials for making cloth"
+    ],
+    "learningObjectives": [
+      "Describe the process of weaving and name the parts of a loom",
+      "Explain what makes Pochampalli Ikat weaving special",
+      "Understand the life and challenges of handloom weavers",
+      "Identify different weaving traditions from various Indian states",
+      "Know the difference between handloom and power loom products"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_evn23_001",
+      "title": "Paper Weaving Activity",
+      "content": "Try weaving with paper! Cut a coloured sheet into thin strips (weft). Take another sheet and cut slits in it without cutting to the edge (warp). Weave the strips through the slits, going over-under-over-under. This is exactly how real weaving works! You can use different colours to create patterns.",
+      "tags": ["activity", "hands-on"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_evn23_002",
+      "title": "India's Weaving Map",
+      "content": "Draw a map of India and mark these famous weaving centres: Pochampalli (Telangana), Varanasi (UP - Banarasi silk), Kanchipuram (Tamil Nadu - Kanjeevaram), Patan (Gujarat - Patola), Chanderi (MP), Sualkuchi (Assam - Muga silk), Srinagar (Kashmir - Pashmina). This shows how weaving is spread across the whole country!",
+      "tags": ["project", "visual-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_evn23_003",
+      "title": "Common Mistake to Avoid",
+      "content": "Many students confuse warp and weft. Remember: WARP = the threads that go up and down (think 'W' for 'Wall' - vertical). WEFT = the threads that go left to right (think 'WE' go 'left to right' when we read). The weft is carried by the shuttle across the warp.",
+      "tags": ["common-mistake", "memory-trick"],
+      "isPinned": false
+    }
+  ]
+}

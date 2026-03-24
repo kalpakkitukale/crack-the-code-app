@@ -1,0 +1,452 @@
+{
+  "algorithmId": "rec_gr4_m2_t1",
+  "topicId": "gr4_m_2_1",
+  "topicName": "Addition of 4-5 Digit Numbers (Basic)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for basic addition of 4-5 digit numbers (without regrouping)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent 3-digit addition skills, can fast-track to 4-5 digit with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1800,
+      "videoSequence": [
+        {
+          "videoId": "gr4_add_v1",
+          "reason": "Introduction to 4-digit addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v2",
+          "reason": "Worked examples for practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v4",
+          "reason": "Extend to 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v5",
+          "reason": "Mixed practice for fluency",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v6",
+          "reason": "Challenge: Mental math strategies",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of 4-5 digit addition",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1800,
+      "videoSequence": [
+        {
+          "videoId": "gr4_add_v1",
+          "reason": "4-digit addition introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v2",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v3",
+          "reason": "Handling zeros - important skill",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v4",
+          "reason": "5-digit addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v5",
+          "reason": "Mixed practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in 3-digit addition or place value, needs targeted review",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 9
+      },
+      "estimatedTime": 2580,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "addition_3digit_weak": {
+            "addVideos": ["prereq_add3_v1", "prereq_add3_v2"],
+            "priority": "high"
+          },
+          "place_value_alignment_weak": {
+            "addVideos": ["prereq_align_v1"],
+            "priority": "high"
+          },
+          "addition_facts_weak": {
+            "addVideos": ["prereq_facts_v1"],
+            "priority": "medium"
+          },
+          "place_value_understanding_weak": {
+            "addVideos": ["prereq_pv_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_add3_v1",
+          "reason": "Review: 3-digit addition basics",
+          "skippable": false,
+          "condition": "if addition_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_add3_v2",
+          "reason": "Review: 3-digit practice examples",
+          "skippable": false,
+          "condition": "if addition_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_align_v1",
+          "reason": "Review: Place value alignment",
+          "skippable": false,
+          "condition": "if place_value_alignment concept is weak"
+        },
+        {
+          "videoId": "prereq_facts_v1",
+          "reason": "Review: Addition facts",
+          "skippable": false,
+          "condition": "if addition_facts concept is weak"
+        },
+        {
+          "videoId": "prereq_pv_v1",
+          "reason": "Review: Place value in large numbers",
+          "skippable": false,
+          "condition": "if place_value_understanding concept is weak"
+        },
+        {
+          "videoId": "gr4_add_v1",
+          "reason": "Start main topic: 4-digit addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v2",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v3",
+          "reason": "Adding with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v4",
+          "reason": "5-digit addition",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of 3-digit addition and place value before 4-5 digit addition",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2280,
+      "videoSequence": [
+        {
+          "videoId": "prereq_add3_v1",
+          "reason": "Foundation: 3-digit addition review",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_add3_v2",
+          "reason": "Essential: 3-digit practice",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_align_v1",
+          "reason": "Critical: Alignment for addition",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_facts_v1",
+          "reason": "Important: Addition facts fluency",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv_v1",
+          "reason": "Prepare: Place value understanding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v1",
+          "reason": "Gentle intro to 4-digit addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_add_v2",
+          "reason": "Begin practice with examples",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with 4-5 digit addition."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "addition_3digit": {
+        "conceptName": "Adding 3-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_add3_v1", "prereq_add3_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "place_value_alignment": {
+        "conceptName": "Aligning numbers by place value for addition",
+        "importance": "critical",
+        "videoIds": ["prereq_align_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "addition_facts": {
+        "conceptName": "Basic addition facts and mental math",
+        "importance": "important",
+        "videoIds": ["prereq_facts_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "place_value_understanding": {
+        "conceptName": "Understanding place value in large numbers",
+        "importance": "important",
+        "videoIds": ["prereq_pv_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_add_v2",
+        "checkpointName": "4-Digit Addition Mastery",
+        "questions": [
+          {
+            "question": "What is 2,345 + 1,234?",
+            "options": ["3,579", "3,479", "3,679", "3,569"],
+            "correctAnswer": 0,
+            "explanation": "Add place by place: 5+4=9, 4+3=7, 3+2=5, 2+1=3 → 3,579."
+          },
+          {
+            "question": "What is 4,000 + 3,000?",
+            "options": ["7,000", "6,000", "8,000", "70,000"],
+            "correctAnswer": 0,
+            "explanation": "Add thousands: 4+3=7 thousands → 7,000."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand 4-digit addition well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_add3_v1",
+          "reason": "Student struggling with column addition"
+        }
+      },
+      {
+        "afterVideoId": "gr4_add_v4",
+        "checkpointName": "5-Digit Addition Check",
+        "questions": [
+          {
+            "question": "What is 23,000 + 12,000?",
+            "options": ["35,000", "25,000", "33,000", "45,000"],
+            "correctAnswer": 0,
+            "explanation": "Add the ten thousands: 2+1=3, thousands: 3+2=5 → 35,000."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_add_v6",
+          "reason": "Student ready for mental math strategies"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice more 5-digit addition before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip mixed practice, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on 3-digit addition"
+    },
+    "suggest_break": {
+      "trigger": "After 3 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing 10-15 problems with parent/teacher"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong 3-digit addition skills. You're ready to learn 4-5 digit addition. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand addition basics. Let's extend your skills to 4-5 digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in 3-digit addition or place value. Don't worry! We'll start with targeted review videos on the concepts you need."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review 3-digit addition and place value basics first. We've created a playlist focused on building strong foundation."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how addition skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic addition facts", "2-digit addition", "Place value basics"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["3-digit addition", "Column addition", "Place value alignment"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["4-digit addition", "Adding with zeros", "Estimation"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["5-digit addition", "Mixed practice", "Fluency building"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Mental math strategies", "Quick addition", "Advanced techniques"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 35,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "additionAccuracy": {
+      "target": 90,
+      "description": "% of students who can correctly add 4-5 digit numbers"
+    },
+    "speedFluency": {
+      "target": 80,
+      "description": "% of students who complete 10 problems in < 10 minutes with 80%+ accuracy"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 30-35 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (20 min) = 60-70 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students not aligning numbers properly by place value",
+      "solution1": "Emphasize writing numbers in columns with ones under ones, tens under tens, etc. Use graph paper for practice",
+      "challenge2": "Students forgetting to add from right to left",
+      "solution2": "Teach systematic approach: always start at ones place, mark off each column as completed",
+      "challenge3": "Students making careless errors with addition facts",
+      "solution3": "Review addition facts, practice mental math, encourage checking work using estimation"
+    }
+  }
+}

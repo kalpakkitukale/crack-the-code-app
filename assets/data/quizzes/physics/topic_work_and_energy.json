@@ -1,0 +1,301 @@
+{
+  "quiz": {
+    "id": "quiz_topic_work_and_energy",
+    "level": "topic",
+    "entityId": "topic_work_and_energy",
+    "title": "Work and Energy Quiz",
+    "questionIds": [
+      "q_we_001",
+      "q_we_002",
+      "q_we_003",
+      "q_we_004",
+      "q_we_005",
+      "q_we_006",
+      "q_we_007",
+      "q_we_008",
+      "q_we_009",
+      "q_we_010"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_we_001",
+      "questionText": "What is the definition of work in physics?",
+      "questionType": "mcq",
+      "options": [
+        "Work = Force × Distance in the direction of force",
+        "Work = Mass × Velocity",
+        "Work = Force × Time",
+        "Work = Energy × Distance"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In physics, work is defined as the product of force and displacement in the direction of the force. Mathematically, W = F × d × cos(θ), where θ is the angle between force and displacement.",
+      "hints": [
+        "Work involves both force and movement",
+        "The displacement must be in the direction of the applied force"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Work",
+        "Force",
+        "Displacement"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_002",
+      "questionText": "What is the SI unit of work and energy?",
+      "questionType": "mcq",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The SI unit of both work and energy is the Joule (J). One Joule is defined as the work done when a force of one Newton moves an object one meter in the direction of the force (1 J = 1 N⋅m).",
+      "hints": [
+        "The unit is named after a famous physicist",
+        "It's the same unit for both work and energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Units",
+        "Work",
+        "Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_003",
+      "questionText": "When you carry a heavy bag while walking horizontally, how much work does the upward force you apply do on the bag?",
+      "questionType": "mcq",
+      "options": [
+        "Maximum work",
+        "Zero work",
+        "Negative work",
+        "Work equal to the weight of the bag"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When carrying a bag horizontally, the force you apply is upward (to support the weight) but the displacement is horizontal. Since force and displacement are perpendicular (θ = 90°), and cos(90°) = 0, the work done is zero.",
+      "hints": [
+        "Consider the direction of force vs. direction of motion",
+        "Work depends on the angle between force and displacement"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Work",
+        "Force Direction",
+        "Displacement"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_004",
+      "questionText": "What is kinetic energy?",
+      "questionType": "mcq",
+      "options": [
+        "Energy due to position",
+        "Energy due to motion",
+        "Energy stored in springs",
+        "Energy from heat"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kinetic energy is the energy possessed by an object due to its motion. It is given by the formula KE = ½mv², where m is mass and v is velocity. Any moving object has kinetic energy.",
+      "hints": [
+        "The word 'kinetic' relates to movement",
+        "A moving car has this type of energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "Kinetic Energy",
+        "Energy Forms"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_005",
+      "questionText": "A 10 kg object is lifted vertically by 5 meters. Taking g = 10 m/s², how much work is done against gravity?",
+      "questionType": "mcq",
+      "options": [
+        "50 J",
+        "100 J",
+        "500 J",
+        "1000 J"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Work done against gravity = Force × Distance = (mg) × h = (10 kg × 10 m/s²) × 5 m = 100 N × 5 m = 500 J. This work is stored as gravitational potential energy.",
+      "hints": [
+        "Calculate the weight (force) first: F = mg",
+        "Then multiply force by the vertical distance"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Work",
+        "Gravity",
+        "Potential Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_006",
+      "questionText": "A 2 kg object moving at 4 m/s has its velocity increased to 6 m/s. What is the change in kinetic energy?",
+      "questionType": "mcq",
+      "options": [
+        "4 J",
+        "16 J",
+        "20 J",
+        "36 J"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Initial KE = ½(2)(4²) = 16 J. Final KE = ½(2)(6²) = 36 J. Change in KE = 36 - 16 = 20 J. This change in kinetic energy equals the work done on the object.",
+      "hints": [
+        "Calculate KE at both velocities using KE = ½mv²",
+        "Find the difference between final and initial KE"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Kinetic Energy",
+        "Work-Energy Theorem"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_007",
+      "questionText": "According to the work-energy theorem, the net work done on an object equals:",
+      "questionType": "mcq",
+      "options": [
+        "The change in potential energy",
+        "The change in kinetic energy",
+        "The total energy",
+        "The power delivered"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The work-energy theorem states that the net work done on an object equals the change in its kinetic energy: W_net = ΔKE = KE_final - KE_initial. This is a fundamental principle connecting work and energy.",
+      "hints": [
+        "The theorem relates work to a change in a specific type of energy",
+        "It involves the energy of motion"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Work-Energy Theorem",
+        "Kinetic Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_008",
+      "questionText": "A spring with spring constant k = 200 N/m is compressed by 0.1 m. What is the elastic potential energy stored?",
+      "questionType": "mcq",
+      "options": [
+        "1 J",
+        "2 J",
+        "10 J",
+        "20 J"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Elastic potential energy in a spring is given by PE = ½kx², where k is the spring constant and x is the compression/extension. PE = ½(200)(0.1)² = ½(200)(0.01) = 1 J.",
+      "hints": [
+        "Use the formula for elastic potential energy: PE = ½kx²",
+        "Square the displacement value carefully"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "Elastic Potential Energy",
+        "Spring Force",
+        "Hooke's Law"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_we_009",
+      "questionText": "A 5 kg block slides down a frictionless incline from height 10 m. What is its speed at the bottom? (g = 10 m/s²)",
+      "questionType": "mcq",
+      "options": [
+        "10 m/s",
+        "14.1 m/s",
+        "20 m/s",
+        "100 m/s"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using conservation of energy: Initial PE = Final KE. mgh = ½mv². The mass cancels: gh = ½v². Solving for v: v = √(2gh) = √(2 × 10 × 10) = √200 ≈ 14.1 m/s. Notice that the answer is independent of mass.",
+      "hints": [
+        "Use conservation of energy: PE at top = KE at bottom",
+        "The mass will cancel out from both sides"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Conservation of Energy",
+        "Potential Energy",
+        "Kinetic Energy"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_we_010",
+      "questionText": "A force F = 20 N is applied at an angle of 60° to the horizontal to move a box 5 m horizontally. What work is done by this force?",
+      "questionType": "mcq",
+      "options": [
+        "50 J",
+        "86.6 J",
+        "100 J",
+        "173.2 J"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Work done when force is at an angle: W = F × d × cos(θ) = 20 N × 5 m × cos(60°) = 100 × 0.5 = 50 J. Only the horizontal component of the force (F cos θ) does work in moving the box horizontally.",
+      "hints": [
+        "Use W = F × d × cos(θ) when force is at an angle",
+        "Remember that cos(60°) = 0.5"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "Work",
+        "Force Components",
+        "Trigonometry"
+      ],
+      "topicIds": [
+        "topic_work_and_energy"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

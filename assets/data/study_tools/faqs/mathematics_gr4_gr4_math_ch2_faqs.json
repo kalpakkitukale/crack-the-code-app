@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ch2",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_m2_001",
+      "videoId": "gr4_m2_v1",
+      "question": "Why do we start adding from the ones place instead of the thousands place?",
+      "answer": "We start from the ones place (the right side) because that is where carrying begins. If a column adds up to more than 9, we need to carry to the next column. If we started from the left, we would have to go back and fix earlier columns whenever there is a carry. Starting from the right makes sure each column is done correctly the first time!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_m2_002",
+      "videoId": "gr4_m2_v1",
+      "question": "Can I add numbers in any order?",
+      "answer": "Yes! Addition follows the commutative property, which means you can swap the numbers and the sum stays the same. So 2,345 + 1,234 gives the same answer as 1,234 + 2,345. This is a great way to double-check your work!",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_m2_003",
+      "videoId": "gr4_m2_v2",
+      "question": "What exactly happens when I carry a number?",
+      "answer": "When digits in a column add up to 10 or more, you split the result. For example, if the ones column gives you 14, the 4 stays in the ones place and the 1 goes to the tens column. Think of it like this: 14 ones is the same as 1 ten and 4 ones. You are just moving that extra ten to the tens column where it belongs!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_m2_004",
+      "videoId": "gr4_m2_v2",
+      "question": "I keep forgetting to add the carried number. Any tips?",
+      "answer": "Write the carried number in small handwriting above the next column so you can see it clearly. Some students circle it or use a different color. Before adding each column, look above it to check if there is a carried number to include. Practice makes it second nature!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_m2_005",
+      "videoId": "gr4_m2_v3",
+      "question": "Can I subtract a bigger number from a smaller number?",
+      "answer": "At your level, we always put the bigger number on top and subtract the smaller number from it. The answer (difference) tells you how far apart the two numbers are. Later in higher classes, you will learn about negative numbers, which is what happens when you subtract a bigger number from a smaller one!",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_m2_006",
+      "videoId": "gr4_m2_v4",
+      "question": "How does borrowing work when the next column has a zero?",
+      "answer": "This is a tricky situation! If you need to borrow from a column that has 0, you have to keep moving left until you find a column with a non-zero digit. Borrow from that column, and each zero in between becomes a 9. For example, in 5,003 - 1,246, you borrow from the 5 in the thousands place. The 0 in the hundreds becomes 9, the 0 in the tens becomes 9, and the 3 in the ones becomes 13.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_m2_007",
+      "videoId": "gr4_m2_v4",
+      "question": "How can I check if my subtraction answer is correct?",
+      "answer": "Add your answer (the difference) to the number you subtracted. If you get back the original number, your answer is correct! For example, if 850 - 320 = 530, check by adding: 530 + 320 = 850. It matches, so the answer is right!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_m2_008",
+      "videoId": "gr4_m2_v5",
+      "question": "How do I know if a word problem needs addition or subtraction?",
+      "answer": "Look for clue words! Words like 'total', 'altogether', 'combined', 'in all', and 'how many more were added' usually mean addition. Words like 'left', 'remaining', 'fewer', 'how many more', 'difference', and 'how much less' usually mean subtraction. But always read the full problem carefully, because clue words alone can sometimes be misleading.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_m2_009",
+      "videoId": "gr4_m2_v5",
+      "question": "What should I do if a word problem has both addition and subtraction?",
+      "answer": "Some problems need more than one step! Read the problem slowly and break it into parts. Solve one step at a time. For example: 'Riya had 500 rupees. She earned 200 more and then spent 150.' First add: 500 + 200 = 700. Then subtract: 700 - 150 = 550. Riya has 550 rupees left.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_m2_010",
+      "videoId": "gr4_m2_v1",
+      "question": "Why is estimation useful before solving an addition or subtraction problem?",
+      "answer": "Estimation gives you a rough idea of what the answer should be. If your exact answer is very different from your estimate, you probably made a mistake! For example, if you estimate 3,890 + 2,100 as about 4,000 + 2,000 = 6,000, and your exact answer comes out to 5,990, that is close to 6,000 so it makes sense. But if you got 59,900, you would know something went wrong!",
+      "status": "answered",
+      "upvotes": 13
+    }
+  ]
+}

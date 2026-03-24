@@ -1,0 +1,61 @@
+{
+  "id": "science_gr6",
+  "name": "Science",
+  "icon": "science",
+  "color": "#95E1D3",
+  "boardId": "cbse_elementary",
+  "classId": "class_6",
+  "streamId": "general",
+  "totalChapters": 4,
+  "keywords": ["science", "grade 6", "nature", "experiments"],
+  "chapters": [
+    {
+      "id": "gr6_sci_ch1",
+      "number": 1,
+      "name": "Food: Where Does It Come From?",
+      "description": "Sources of food and nutrition",
+      "keywords": ["food", "nutrition", "sources"],
+      "topics": [
+        {"id": "gr6_s_1_1", "name": "Food Sources", "difficulty": "basic", "videoCount": 4, "keywords": ["plants", "animals", "food"]},
+        {"id": "gr6_s_1_2", "name": "Food Varieties", "difficulty": "basic", "videoCount": 3, "keywords": ["varieties", "ingredients"]},
+        {"id": "gr6_s_1_3", "name": "Nutrition", "difficulty": "intermediate", "videoCount": 4, "keywords": ["nutrition", "health"]}
+      ]
+    },
+    {
+      "id": "gr6_sci_ch2",
+      "number": 2,
+      "name": "Components of Food",
+      "description": "Nutrients and balanced diet",
+      "keywords": ["nutrients", "carbohydrates", "proteins"],
+      "topics": [
+        {"id": "gr6_s_2_1", "name": "Nutrients", "difficulty": "intermediate", "videoCount": 4, "keywords": ["carbs", "proteins", "fats"]},
+        {"id": "gr6_s_2_2", "name": "Vitamins and Minerals", "difficulty": "intermediate", "videoCount": 4, "keywords": ["vitamins", "minerals"]},
+        {"id": "gr6_s_2_3", "name": "Balanced Diet", "difficulty": "basic", "videoCount": 3, "keywords": ["balanced diet", "health"]}
+      ]
+    },
+    {
+      "id": "gr6_sci_ch3",
+      "number": 3,
+      "name": "Fibre to Fabric",
+      "description": "Types of fibres and fabric making",
+      "keywords": ["fibre", "fabric", "clothing"],
+      "topics": [
+        {"id": "gr6_s_3_1", "name": "Plant Fibres", "difficulty": "basic", "videoCount": 4, "keywords": ["cotton", "jute", "plant"]},
+        {"id": "gr6_s_3_2", "name": "Animal Fibres", "difficulty": "basic", "videoCount": 3, "keywords": ["wool", "silk", "animal"]},
+        {"id": "gr6_s_3_3", "name": "Fabric Making", "difficulty": "intermediate", "videoCount": 4, "keywords": ["weaving", "knitting"]}
+      ]
+    },
+    {
+      "id": "gr6_sci_ch4",
+      "number": 4,
+      "name": "Sorting Materials",
+      "description": "Properties and classification of materials",
+      "keywords": ["materials", "properties", "classification"],
+      "topics": [
+        {"id": "gr6_s_4_1", "name": "Objects and Materials", "difficulty": "basic", "videoCount": 3, "keywords": ["objects", "materials"]},
+        {"id": "gr6_s_4_2", "name": "Properties", "difficulty": "intermediate", "videoCount": 4, "keywords": ["hard", "soft", "transparent"]},
+        {"id": "gr6_s_4_3", "name": "Classification", "difficulty": "intermediate", "videoCount": 4, "keywords": ["grouping", "sorting"]}
+      ]
+    }
+  ]
+}

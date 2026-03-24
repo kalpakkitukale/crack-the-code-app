@@ -1,0 +1,450 @@
+{
+  "algorithmId": "rec_gr4_m4_t5",
+  "topicId": "gr4_m_4_5",
+  "topicName": "Number Patterns with 4-digit Numbers",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for number patterns with 4-digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of sequences and skip counting, can focus on 4-digit patterns and challenges",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1950,
+      "videoSequence": [
+        {
+          "videoId": "gr4_pat_v1",
+          "reason": "Introduction to 4-digit patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v2",
+          "reason": "Increasing patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v4",
+          "reason": "Finding pattern rules",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v5",
+          "reason": "Extending patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v7",
+          "reason": "Challenge problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of all pattern types",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2250,
+      "videoSequence": [
+        {
+          "videoId": "gr4_pat_v1",
+          "reason": "Introduction to patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v2",
+          "reason": "Increasing patterns (add 10, 100, 1000)",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v3",
+          "reason": "Decreasing patterns (subtract 10, 100, 1000)",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v4",
+          "reason": "Finding pattern rules",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v5",
+          "reason": "Extending patterns and finding missing numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in sequences or skip counting, needs review before 4-digit patterns",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 2490,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "number_sequences_weak": {
+            "addVideos": ["prereq_seq_v1", "prereq_seq_v2"],
+            "priority": "high"
+          },
+          "skip_counting_weak": {
+            "addVideos": ["prereq_skip_v1", "prereq_skip_v2"],
+            "priority": "high"
+          },
+          "addition_subtraction_weak": {
+            "addVideos": ["prereq_add_sub_v1"],
+            "priority": "medium"
+          },
+          "pattern_recognition_weak": {
+            "addVideos": ["prereq_pattern_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_seq_v1",
+          "reason": "Review: Basic Number Sequences",
+          "skippable": false,
+          "condition": "if number_sequences concept is weak"
+        },
+        {
+          "videoId": "prereq_skip_v2",
+          "reason": "Review: Skip Counting by 100s and 1000s",
+          "skippable": false,
+          "condition": "if skip_counting concept is weak"
+        },
+        {
+          "videoId": "prereq_pattern_v1",
+          "reason": "Review: Pattern Recognition Basics",
+          "skippable": false,
+          "condition": "if pattern_recognition concept is weak"
+        },
+        {
+          "videoId": "gr4_pat_v1",
+          "reason": "Start main topic: 4-digit patterns intro",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v2",
+          "reason": "Increasing patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v3",
+          "reason": "Decreasing patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v4",
+          "reason": "Finding rules",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v5",
+          "reason": "Extending patterns",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in sequences and skip counting",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2430,
+      "videoSequence": [
+        {
+          "videoId": "prereq_seq_v1",
+          "reason": "Foundation: Number Sequences Introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_seq_v2",
+          "reason": "Practice: Finding Pattern Rules",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_skip_v1",
+          "reason": "Essential: Skip Counting by 2s, 5s, 10s",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_skip_v2",
+          "reason": "Critical: Skip Counting by 100s, 1000s",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_add_sub_v1",
+          "reason": "Important: Adding/Subtracting by Place Values",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v1",
+          "reason": "Gentle intro to 4-digit patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pat_v2",
+          "reason": "Begin main content: Increasing patterns",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with number patterns."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "number_sequences": {
+        "conceptName": "Basic number sequences and skip counting",
+        "importance": "critical",
+        "videoIds": ["prereq_seq_v1", "prereq_seq_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "skip_counting": {
+        "conceptName": "Skip counting by 10s, 100s, 1000s",
+        "importance": "critical",
+        "videoIds": ["prereq_skip_v1", "prereq_skip_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "addition_subtraction": {
+        "conceptName": "Basic addition and subtraction",
+        "importance": "important",
+        "videoIds": ["prereq_add_sub_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "pattern_recognition": {
+        "conceptName": "Identifying patterns and rules",
+        "importance": "important",
+        "videoIds": ["prereq_pattern_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_pat_v3",
+        "checkpointName": "Pattern Types Mastery Check",
+        "questions": [
+          {
+            "question": "What is the pattern rule for: 3,200, 3,300, 3,400, 3,500?",
+            "options": ["Add 10", "Add 100", "Add 1000", "Subtract 100"],
+            "correctAnswer": 1,
+            "explanation": "Each number increases by 100. The pattern rule is 'Add 100'."
+          },
+          {
+            "question": "What comes next: 5,800, 5,700, 5,600, ___?",
+            "options": ["5,500", "5,700", "5,900", "6,000"],
+            "correctAnswer": 0,
+            "explanation": "The pattern decreases by 100 each time. 5,600 - 100 = 5,500."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand both increasing and decreasing patterns."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_skip_v2",
+          "reason": "Student struggling with skip counting by 100s"
+        }
+      },
+      {
+        "afterVideoId": "gr4_pat_v5",
+        "checkpointName": "Pattern Extension Mastery",
+        "questions": [
+          {
+            "question": "Find the missing number: 2,300, ____, 2,500, 2,600",
+            "options": ["2,350", "2,400", "2,450", "2,200"],
+            "correctAnswer": 1,
+            "explanation": "The pattern increases by 100. So 2,300 + 100 = 2,400."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_pat_v7",
+          "reason": "Student ready for advanced pattern challenges"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice finding missing numbers in patterns before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip remaining basic videos, jump to applications or challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on skip counting"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend creating own patterns for practice before quiz"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You understand sequences and skip counting well. We've created a fast-track playlist focusing on 4-digit patterns with challenges."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You know basic patterns and counting. Let's extend this to 4-digit number patterns with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in prerequisite knowledge. Don't worry! We'll start with review videos on sequences and skip counting, then move to 4-digit patterns."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review prerequisite concepts first. We've created a playlist focused on building strong foundation in sequences and skip counting. After watching, you can retake the quiz."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how pattern concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic number sequences", "Skip counting by small numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Skip counting by 100s and 1000s", "Pattern recognition"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Increasing patterns with 4-digit numbers", "Decreasing patterns"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Finding pattern rules", "Extending patterns"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Real-world applications", "Complex pattern challenges"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 80,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 75,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.0,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "ruleIdentification": {
+      "target": 85,
+      "description": "% of students who can correctly identify pattern rules"
+    },
+    "patternExtension": {
+      "target": 80,
+      "description": "% of students who can extend patterns correctly"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 85-95% practice quiz score",
+      "ready_students": "Complete in 40-45 minutes with 75-85% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 65-75% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (25 min) = 65-75 total minutes, expected 55-70% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing pattern rule with current number value",
+      "solution1": "Emphasize finding difference between consecutive numbers",
+      "challenge2": "Students not recognizing which place value is changing",
+      "solution2": "Highlight place value changes in pattern examples",
+      "challenge3": "Students struggling with decreasing patterns",
+      "solution3": "More practice with subtraction patterns, connect to counting backward"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch12",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn12_kahani",
+      "name": "कहानी पाठ - सुनीता की पहिया कुर्सी",
+      "description": "Learn about the inspiring story of Sunita and her wheelchair from Rimjhim Chapter 12",
+      "topicId": "gr4_hi_12_1",
+      "chapterId": "gr4_hin_ncert_ch12",
+      "cards": [
+        {
+          "id": "card_gr4_hn12_001",
+          "front": "सुनीता कौन है और उसकी क्या विशेषता है?",
+          "back": "सुनीता एक बहादुर लड़की है जो पहिया कुर्सी (wheelchair) पर बैठकर चलती है। किसी शारीरिक अक्षमता (physical disability) के कारण वह चल नहीं सकती, लेकिन वह बहुत हिम्मतवाली और उत्साही है। वह दिखाती है कि शारीरिक अक्षमता किसी को रोक नहीं सकती। Sunita is a brave girl who uses a wheelchair but doesn't let her disability stop her.",
+          "hint": "Think about what makes her special despite her physical challenge",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn12_002",
+          "front": "पहिया कुर्सी (wheelchair) क्या है?",
+          "back": "पहिया कुर्सी एक विशेष कुर्सी है जिसमें पहिये लगे होते हैं। जो लोग चल नहीं सकते या जिनके पैरों में कोई तकलीफ होती है, वे इस कुर्सी पर बैठकर एक जगह से दूसरी जगह जा सकते हैं। सुनीता अपनी पहिया कुर्सी को अपने हाथों से चलाती है। A wheelchair is a special chair with wheels for people who cannot walk.",
+          "hint": "It is a chair that helps people move around",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn12_003",
+          "front": "सुनीता अपनी पहिया कुर्सी के बावजूद क्या-क्या करती है?",
+          "back": "सुनीता पहिया कुर्सी पर होने के बावजूद स्कूल जाती है, पढ़ाई करती है, दोस्तों के साथ खेलती है और हर काम में भाग लेती है। वह दिखाती है कि शारीरिक अक्षमता जीवन में आगे बढ़ने से नहीं रोक सकती। Despite her wheelchair, Sunita goes to school, studies, plays with friends, and participates in activities.",
+          "hint": "She does everything that other children do",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn12_004",
+          "front": "कहानी से हमें क्या संदेश मिलता है?",
+          "back": "कहानी से हमें यह संदेश मिलता है कि शारीरिक अक्षमता (disability) किसी इंसान की असली ताकत नहीं छीन सकती। हिम्मत, लगन और आत्मविश्वास (courage, dedication and confidence) से कोई भी कठिनाई पार की जा सकती है। हमें विकलांग लोगों के साथ समानता और सम्मान से पेश आना चाहिए। The message is that disability does not define a person - courage and confidence can overcome any challenge.",
+          "hint": "Think about what true strength means",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn12_005",
+          "front": "सुनीता की कहानी बच्चों को क्या सिखाती है?",
+          "back": "सुनीता की कहानी बच्चों को सिखाती है कि हमें हर किसी का सम्मान करना चाहिए। शारीरिक रूप से भिन्न (differently-abled) लोग भी बहुत कुछ कर सकते हैं। हमें उनकी मदद करनी चाहिए लेकिन उन पर तरस नहीं खाना चाहिए। सबसे ज़रूरी बात - हमें कभी हार नहीं माननी चाहिए। The story teaches children to respect everyone and never give up, regardless of challenges.",
+          "hint": "Think about how we should treat people who are different from us",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn12_qa",
+      "name": "प्रश्न उत्तर - सुनीता की पहिया कुर्सी",
+      "description": "Practice questions and answers from the Rimjhim Chapter 12 exercises",
+      "topicId": "gr4_hi_12_2",
+      "chapterId": "gr4_hin_ncert_ch12",
+      "cards": [
+        {
+          "id": "card_gr4_hn12_006",
+          "front": "सुनीता को पहिया कुर्सी की ज़रूरत क्यों है?",
+          "back": "सुनीता को पहिया कुर्सी की ज़रूरत इसलिए है क्योंकि वह अपने पैरों से चल नहीं सकती। उसे शारीरिक अक्षमता (physical disability) है। पहिया कुर्सी उसकी मदद करती है कि वह एक जगह से दूसरी जगह जा सके और अपने सभी काम कर सके। Sunita needs a wheelchair because she cannot walk due to a physical disability.",
+          "hint": "The wheelchair helps her move from place to place",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn12_007",
+          "front": "सुनीता को बहादुर क्यों कहा जा सकता है?",
+          "back": "सुनीता को बहादुर इसलिए कहा जा सकता है क्योंकि शारीरिक कठिनाई के बावजूद वह कभी हार नहीं मानती। वह अपना हर काम खुद करने की कोशिश करती है, स्कूल जाती है, और दूसरे बच्चों की तरह जीवन जीती है। उसका आत्मविश्वास (self-confidence) उसकी सबसे बड़ी ताकत है। Sunita is brave because she never gives up despite her disability and lives life with full confidence.",
+          "hint": "Bravery is not about physical strength - it is about attitude",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn12_008",
+          "front": "हम विकलांग (differently-abled) लोगों की मदद कैसे कर सकते हैं?",
+          "back": "हम विकलांग लोगों की मदद इन तरीकों से कर सकते हैं: (1) उनके साथ सम्मान से बात करें (2) उन पर तरस न खाएँ बल्कि उन्हें बराबर समझें (3) रैंप (ramp) और लिफ्ट जैसी सुविधाओं की माँग करें (4) उनकी ज़रूरत पड़ने पर मदद करें (5) उनका मज़ाक कभी न उड़ाएँ। We can help by showing respect, treating them equally, and supporting accessible facilities.",
+          "hint": "Think about respect, equality, and practical help",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn12_009",
+          "front": "'विकलांगता' और 'अक्षमता' में क्या अंतर है?",
+          "back": "'विकलांगता' (disability) का मतलब है शरीर के किसी अंग का ठीक से काम न करना - जैसे चलने, देखने, या सुनने में कठिनाई। 'अक्षमता' (inability) का मतलब है कुछ न कर पाना। लेकिन विकलांगता का मतलब अक्षमता नहीं! सुनीता विकलांग है पर अक्षम नहीं - वह बहुत कुछ कर सकती है। Disability means a body part not working well; but disability does NOT mean inability.",
+          "hint": "Sunita proves that having a disability does not mean being unable",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn12_010",
+          "front": "तुम सुनीता की तरह किसी बहादुर व्यक्ति के बारे में बताओ।",
+          "back": "भारत में कई बहादुर लोग हैं जिन्होंने विकलांगता को पार किया: सुधा चंद्रन (Sudha Chandran) ने नकली पैर के साथ नृत्य किया, अरुणिमा सिन्हा (Arunima Sinha) एक पैर से एवरेस्ट पर चढ़ीं, और लुइस ब्रेल (Louis Braille) ने अंधे होकर भी लिखने की पद्धति बनाई। ये सब सुनीता की तरह बहादुर हैं! Examples include Sudha Chandran who danced with a prosthetic leg, and Arunima Sinha who climbed Everest with one leg.",
+          "hint": "Think of famous people who achieved great things despite physical challenges",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

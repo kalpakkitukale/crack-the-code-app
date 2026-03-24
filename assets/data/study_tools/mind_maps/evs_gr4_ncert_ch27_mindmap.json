@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch27",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Chuskit Goes to School",
+      "description": "Disability, inclusion, and life in Ladakh",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#673AB7",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_chuskit",
+      "label": "Chuskit's Story",
+      "description": "A girl in Ladakh who wants to go to school",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_wheelchair",
+      "label": "Uses a Wheelchair",
+      "description": "Chuskit cannot walk and uses a wheelchair to move",
+      "parentId": "node_chuskit",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_challenge",
+      "label": "Rocky Path to School",
+      "description": "Hilly and rough terrain makes travel very hard",
+      "parentId": "node_chuskit",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_inclusion",
+      "label": "What is Inclusion?",
+      "description": "Including everyone in activities regardless of ability",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_rte",
+      "label": "Right to Education",
+      "description": "Every child aged 6-14 has the right to free schooling",
+      "parentId": "node_inclusion",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_accessible",
+      "label": "Making Places Accessible",
+      "description": "Ramps, wide doors, and smooth paths for all",
+      "parentId": "node_inclusion",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_ladakh",
+      "label": "Life in Ladakh",
+      "description": "A cold, mountainous region in northern India",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_geography",
+      "label": "High Mountains",
+      "description": "Surrounded by Himalayas and Karakoram ranges",
+      "parentId": "node_ladakh",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#42A5F5",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_food",
+      "label": "Local Food",
+      "description": "Thukpa, momos, butter tea, tsampa",
+      "parentId": "node_ladakh",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#42A5F5",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_community",
+      "label": "Community Support",
+      "description": "People working together to help everyone",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#FF9800",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_empathy",
+      "label": "Empathy & Kindness",
+      "description": "Understanding others' feelings and helping them",
+      "parentId": "node_community",
+      "positionX": -200,
+      "positionY": 380,
+      "color": "#FFB74D",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_teamwork",
+      "label": "Working Together",
+      "description": "Villagers built a path so Chuskit could reach school",
+      "parentId": "node_community",
+      "positionX": -100,
+      "positionY": 380,
+      "color": "#FFB74D",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_abilities",
+      "label": "Different Abilities",
+      "description": "Everyone has unique strengths and talents",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#009688",
+      "orderIndex": 13
+    }
+  ]
+}

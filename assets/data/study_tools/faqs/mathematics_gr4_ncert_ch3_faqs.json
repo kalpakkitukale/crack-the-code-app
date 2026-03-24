@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch3",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn3_001",
+      "videoId": "gr4_mn3_v1",
+      "question": "What is the difference between a repeating pattern and a growing pattern?",
+      "answer": "A repeating pattern has the same group coming back again and again, like red-blue-red-blue. A growing pattern changes at each step and usually gets bigger, like 2, 4, 6, 8 where you add 2 each time. In a repeating pattern, the core stays the same. In a growing pattern, each step is different from the last.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn3_002",
+      "videoId": "gr4_mn3_v1",
+      "question": "How do I find the core of a repeating pattern?",
+      "answer": "Look at the pattern carefully and find the smallest group that keeps coming back. For example, in the pattern circle, star, star, circle, star, star, circle, star, star... the core is 'circle, star, star' because this group repeats over and over. Cover one group with your hand and check if the remaining parts look the same.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn3_003",
+      "videoId": "gr4_mn3_v2",
+      "question": "Where can I see patterns in everyday life?",
+      "answer": "Patterns are everywhere! Look at the tiles on your floor, the border of a rangoli, the design on a saree or kurta, the stripes on a zebra crossing, the petals of a flower, or the bricks in a wall. Even the days of the week (Monday, Tuesday... Sunday, Monday, Tuesday...) form a repeating pattern!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn3_004",
+      "videoId": "gr4_mn3_v2",
+      "question": "How do I find the rule of a number pattern?",
+      "answer": "Look at the difference between each pair of numbers. If the pattern is 4, 8, 12, 16, subtract: 8-4=4, 12-8=4, 16-12=4. The difference is always 4, so the rule is 'add 4'. If the numbers get smaller, like 30, 25, 20, 15, then the rule is 'subtract 5'.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn3_005",
+      "videoId": "gr4_mn3_v3",
+      "question": "What is a number sequence?",
+      "answer": "A number sequence is a list of numbers that follow a certain rule. For example, 10, 20, 30, 40, 50 is a sequence where you add 10 each time. The rule helps you find the next number. Sequences can go up (increasing) or come down (decreasing).",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn3_006",
+      "videoId": "gr4_mn3_v3",
+      "question": "Can a pattern have a subtraction rule?",
+      "answer": "Yes! Not all patterns go up. Some patterns decrease. For example, 50, 45, 40, 35, 30 has the rule 'subtract 5'. The numbers keep getting smaller by the same amount. A countdown like 10, 9, 8, 7, 6... is also a pattern with the rule 'subtract 1'.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_mn3_007",
+      "videoId": "gr4_mn3_v4",
+      "question": "How are multiplication tables connected to patterns?",
+      "answer": "Every multiplication table is a number pattern! The table of 3 is 3, 6, 9, 12, 15... which follows the rule 'add 3'. The table of 5 is 5, 10, 15, 20, 25... which follows the rule 'add 5'. So when you learn your tables, you are actually learning number patterns!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn3_008",
+      "videoId": "gr4_mn3_v4",
+      "question": "How do I predict what comes next in a pattern?",
+      "answer": "First, find the rule. For a repeating pattern, find the core and continue it. For a number pattern, find the difference between consecutive numbers. Then apply the rule to the last term. For example, in 7, 14, 21, 28... the rule is 'add 7', so the next number is 28 + 7 = 35.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn3_009",
+      "videoId": "gr4_mn3_v1",
+      "question": "What is an odd-even pattern?",
+      "answer": "Odd numbers (1, 3, 5, 7, 9, 11...) and even numbers (2, 4, 6, 8, 10, 12...) form patterns. Odd numbers always end with 1, 3, 5, 7, or 9. Even numbers always end with 0, 2, 4, 6, or 8. Both patterns follow the rule 'add 2'.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn3_010",
+      "videoId": "gr4_mn3_v4",
+      "question": "Can I create my own pattern?",
+      "answer": "Of course! Pick a starting number and a rule. For example, start at 7 and add 4: you get 7, 11, 15, 19, 23. You can also create shape patterns using colours or objects. Try making a pattern with your lunch boxes, crayons, or stickers. Just make sure you follow the same rule every time!",
+      "status": "answered",
+      "upvotes": 19
+    }
+  ]
+}

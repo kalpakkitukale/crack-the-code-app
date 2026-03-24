@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn3_t2",
+  "topicId": "gr4_mn_3_2",
+  "topicName": "Growing Patterns",
+  "chapterId": "gr4_math_ncert_ch3",
+  "chapterName": "Pattern Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_3_1"],
+    "followUpTopics": ["gr4_mn_3_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn3_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Growing Patterns | How Patterns Grow Step by Step",
+      "description": "Understand how growing patterns work. See how each step adds more and learn the rule behind growing patterns with shapes and numbers.",
+      "youtubeId": "1WJcYwSu0-U",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1WJcYwSu0-U",
+      "thumbnailUrl": "https://img.youtube.com/vi/1WJcYwSu0-U/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 920000,
+      "tags": ["growing patterns", "increasing patterns", "pattern rule", "step by step"],
+      "learningObjectives": ["Understand the difference between repeating and growing patterns", "Identify how each step in a growing pattern adds more"],
+      "keyConceptsCovered": ["Growing patterns increase or decrease at each step", "Each step follows a rule", "Growing patterns are different from repeating patterns"],
+      "prerequisites": ["Repeating patterns", "Basic counting"],
+      "followUpTopics": ["Number sequences", "Finding pattern rules"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t2_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Growing Patterns with Shapes | Building Staircase Patterns",
+      "description": "Watch growing patterns come to life with blocks and shapes. Build staircase patterns, pyramid patterns, and see how each step adds more than the last.",
+      "youtubeId": "fJ2pKLNj4lg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fJ2pKLNj4lg",
+      "thumbnailUrl": "https://img.youtube.com/vi/fJ2pKLNj4lg/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 710000,
+      "tags": ["growing patterns", "staircase pattern", "blocks", "shapes", "building patterns"],
+      "learningObjectives": ["Build growing patterns with concrete objects", "Count items at each step to find the growth rule"],
+      "keyConceptsCovered": ["Staircase pattern: 1, 2, 3, 4 blocks at each step", "Pyramid pattern: adds one more row each time", "Counting items at each step reveals the rule"],
+      "prerequisites": ["Concept of growing patterns"],
+      "followUpTopics": ["Number sequences from growing patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t2_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Growing Patterns in Nature | Spirals, Flowers, and Trees",
+      "description": "Discover how growing patterns appear in nature! See spirals in seashells, petals on flowers, and branches on trees. Nature is full of growing patterns.",
+      "youtubeId": "Hb9RF0WMHK4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hb9RF0WMHK4",
+      "thumbnailUrl": "https://img.youtube.com/vi/Hb9RF0WMHK4/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "SciShow Kids",
+      "channelId": "UCddiUEpeqJcYeBxX1IVBKvQ",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1350000,
+      "tags": ["nature patterns", "spirals", "flowers", "trees", "growing patterns in nature"],
+      "learningObjectives": ["Recognize growing patterns in the natural world", "Connect mathematical patterns to nature"],
+      "keyConceptsCovered": ["Spiral shells follow a growing pattern", "Flower petals often follow number patterns", "Tree branches grow in patterns"],
+      "prerequisites": ["Growing pattern concept"],
+      "followUpTopics": ["Number sequences"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t2_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Growing Pattern Problems | Draw the Next Step",
+      "description": "Practice growing patterns by drawing what comes next. Each problem shows a pattern with steps, and you need to figure out the rule and draw the next step.",
+      "youtubeId": "qF9wZ3PdW7c",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qF9wZ3PdW7c",
+      "thumbnailUrl": "https://img.youtube.com/vi/qF9wZ3PdW7c/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 530000,
+      "tags": ["growing patterns", "practice", "draw next step", "pattern problems"],
+      "learningObjectives": ["Extend growing patterns by drawing the next step", "Explain the growth rule in words"],
+      "keyConceptsCovered": ["Identifying the amount added at each step", "Drawing the next step accurately", "Verifying the rule works for all steps"],
+      "prerequisites": ["All growing pattern concepts"],
+      "followUpTopics": ["Number sequences"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t2_v5",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Repeating vs Growing Patterns | Can You Tell the Difference?",
+      "description": "Challenge yourself! Look at different patterns and decide: is it repeating or growing? A fun comparison activity that tests your understanding of both pattern types.",
+      "youtubeId": "Lp2PcYN0dwk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Lp2PcYN0dwk",
+      "thumbnailUrl": "https://img.youtube.com/vi/Lp2PcYN0dwk/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 890000,
+      "tags": ["repeating vs growing", "pattern comparison", "challenge", "pattern types"],
+      "learningObjectives": ["Distinguish between repeating and growing patterns", "Explain why a pattern is repeating or growing"],
+      "keyConceptsCovered": ["Repeating = same group over and over", "Growing = each step adds or changes", "Both types have rules"],
+      "prerequisites": ["Repeating patterns", "Growing patterns"],
+      "followUpTopics": ["Number sequences"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn3_v3", "gr4_mn3_t2_v2", "gr4_mn3_t2_v3", "gr4_mn3_t2_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1350,
+      "estimatedTimeDisplay": "22:30",
+      "rationale": "Fast-track through growing patterns with nature application and comparison challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn3_v3", "gr4_mn3_t2_v2", "gr4_mn3_t2_v3", "gr4_mn3_t2_v4", "gr4_mn3_t2_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1710,
+      "estimatedTimeDisplay": "28:30",
+      "rationale": "Complete coverage of growing patterns with practice and challenge"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn3_v3", "gr4_mn3_t2_v2", "gr4_mn3_t2_v3", "gr4_mn3_t2_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1440,
+      "estimatedTimeDisplay": "24:00",
+      "rationale": "Core growing pattern concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn3_v3", "gr4_mn3_t2_v2", "gr4_mn3_t2_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1080,
+      "estimatedTimeDisplay": "18:00",
+      "rationale": "Essential growing pattern content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn3_t2_v2",
+      "checkpointName": "Growing Patterns Basics Check",
+      "questions": [
+        {
+          "question": "A staircase pattern has 1 block in step 1, 2 blocks in step 2, 3 blocks in step 3. How many blocks in step 5?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": 2,
+          "explanation": "The pattern adds 1 block at each step. Step 4 has 4 blocks and step 5 has 5 blocks."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use building blocks or stacking cubes to create growing patterns physically. Have students count items at each step and record in a table. Videos 1-3 are essential for all students.",
+    "parentGuidance": "Help your child build growing patterns with household items: stack coins (1, 2, 3, 4), arrange buttons in growing rows. Ask 'How many more did we add each time?'",
+    "studentGuidance": "Try building your own growing patterns with blocks or coins. Count how many you have at each step. Can you guess how many you will need for the next step?"
+  }
+}

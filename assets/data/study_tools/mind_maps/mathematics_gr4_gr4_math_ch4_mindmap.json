@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_math_ch4",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Fractions",
+      "description": "Understanding parts of a whole",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_what",
+      "label": "What are Fractions?",
+      "description": "A fraction shows a part of a whole",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_numerator",
+      "label": "Numerator",
+      "description": "Top number - how many parts you have",
+      "parentId": "node_what",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_denominator",
+      "label": "Denominator",
+      "description": "Bottom number - total equal parts",
+      "parentId": "node_what",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_unit_fraction",
+      "label": "Unit Fractions",
+      "description": "Fractions with 1 on top: 1/2, 1/3, 1/4",
+      "parentId": "node_what",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_equal_parts",
+      "label": "Equal Parts",
+      "description": "Parts must be the same size",
+      "parentId": "node_what",
+      "positionX": -250,
+      "positionY": 280,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_equiv",
+      "label": "Equivalent Fractions",
+      "description": "Different fractions that show the same amount",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_multiply",
+      "label": "Multiply Top & Bottom",
+      "description": "Multiply both by the same number to find equivalents",
+      "parentId": "node_equiv",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_simplify",
+      "label": "Simplify",
+      "description": "Divide both by the same number to reduce",
+      "parentId": "node_equiv",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_example_equiv",
+      "label": "Example: 1/2 = 2/4 = 3/6",
+      "description": "All these fractions show the same amount",
+      "parentId": "node_equiv",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_add",
+      "label": "Adding Fractions",
+      "description": "Combining fractions with the same denominator",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_same_denom",
+      "label": "Same Denominator",
+      "description": "Denominators must match before adding",
+      "parentId": "node_add",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_add_nums",
+      "label": "Add Numerators",
+      "description": "Only add the top numbers",
+      "parentId": "node_add",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_keep_denom",
+      "label": "Keep Denominator",
+      "description": "The bottom number stays the same",
+      "parentId": "node_add",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_example_add",
+      "label": "Example: 2/5 + 1/5 = 3/5",
+      "description": "Add top numbers, keep bottom the same",
+      "parentId": "node_add",
+      "positionX": 300,
+      "positionY": 280,
+      "color": "#BA68C8",
+      "orderIndex": 14
+    }
+  ]
+}

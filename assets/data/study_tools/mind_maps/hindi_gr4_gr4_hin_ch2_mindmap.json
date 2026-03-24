@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ch2",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "संज्ञा और सर्वनाम",
+      "description": "Sangya aur Sarvanam - Nouns and Pronouns in Hindi",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#FF6B9D",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_sangya",
+      "label": "संज्ञा (Sangya)",
+      "description": "किसी व्यक्ति, वस्तु, स्थान या भाव का नाम - Naming words (Nouns)",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_vyakti_vachak",
+      "label": "व्यक्तिवाचक संज्ञा",
+      "description": "Proper Noun - किसी विशेष का नाम: राम, गंगा, भारत",
+      "parentId": "node_sangya",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_jativachak",
+      "label": "जातिवाचक संज्ञा",
+      "description": "Common Noun - पूरी जाति का नाम: लड़का, नदी, शहर",
+      "parentId": "node_sangya",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_bhav_vachak",
+      "label": "भाववाचक संज्ञा",
+      "description": "Abstract Noun - भाव या गुण का नाम: सुंदरता, ईमानदारी, बचपन",
+      "parentId": "node_sangya",
+      "positionX": -350,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_samuh_vachak",
+      "label": "समूहवाचक संज्ञा",
+      "description": "Collective Noun - समूह का नाम: झुंड, सेना, कक्षा",
+      "parentId": "node_sangya",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_dravya_vachak",
+      "label": "द्रव्यवाचक संज्ञा",
+      "description": "Material Noun - पदार्थ का नाम: सोना, दूध, पानी",
+      "parentId": "node_sangya",
+      "positionX": -50,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_sarvanam",
+      "label": "सर्वनाम (Sarvanam)",
+      "description": "संज्ञा के स्थान पर प्रयोग होने वाले शब्द - Pronouns",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_purushvachak",
+      "label": "पुरुषवाचक सर्वनाम",
+      "description": "Personal Pronoun: मैं, तुम, वह, हम, वे",
+      "parentId": "node_sarvanam",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_nishchay",
+      "label": "निश्चयवाचक सर्वनाम",
+      "description": "Demonstrative Pronoun: यह, वह, ये, वे",
+      "parentId": "node_sarvanam",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_anishchay",
+      "label": "अनिश्चयवाचक सर्वनाम",
+      "description": "Indefinite Pronoun: कोई, कुछ",
+      "parentId": "node_sarvanam",
+      "positionX": 100,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_prashnavachak",
+      "label": "प्रश्नवाचक सर्वनाम",
+      "description": "Interrogative Pronoun: कौन, क्या, किसका",
+      "parentId": "node_sarvanam",
+      "positionX": 300,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_connection",
+      "label": "संज्ञा और सर्वनाम का संबंध",
+      "description": "सर्वनाम हमेशा किसी संज्ञा की जगह प्रयोग होता है - Pronouns always replace nouns",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_example",
+      "label": "उदाहरण",
+      "description": "राम अच्छा लड़का है। वह रोज़ पढ़ता है। (राम = संज्ञा, वह = सर्वनाम)",
+      "parentId": "node_connection",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

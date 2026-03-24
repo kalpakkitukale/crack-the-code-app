@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch25",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Spicy Riddles",
+      "description": "Spices of India and regional cuisines",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#FF9800",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_common_spices",
+      "label": "Common Indian Spices",
+      "description": "Spices used every day in Indian kitchens",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_turmeric",
+      "label": "Turmeric (Haldi)",
+      "description": "Yellow spice from a root, used in cooking and medicine",
+      "parentId": "node_common_spices",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#FFEB3B",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_chilli",
+      "label": "Red Chilli (Mirch)",
+      "description": "Makes food spicy and red, used across India",
+      "parentId": "node_common_spices",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_cumin",
+      "label": "Cumin (Jeera)",
+      "description": "Small brown seeds used for tempering and flavour",
+      "parentId": "node_common_spices",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#FF7043",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_special_spices",
+      "label": "Special Spices",
+      "description": "Prized spices with royal titles",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_pepper",
+      "label": "Black Pepper (King)",
+      "description": "King of Spices, grown in Kerala",
+      "parentId": "node_special_spices",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_cardamom",
+      "label": "Cardamom (Queen)",
+      "description": "Queen of Spices, used in sweets and chai",
+      "parentId": "node_special_spices",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_saffron",
+      "label": "Saffron (Kesar)",
+      "description": "Most expensive spice, grown in Kashmir",
+      "parentId": "node_special_spices",
+      "positionX": 0,
+      "positionY": 260,
+      "color": "#CE93D8",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_regional_food",
+      "label": "Regional Cuisines",
+      "description": "Different foods across India based on local spices",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_south",
+      "label": "South India",
+      "description": "Coconut, curry leaves, mustard seeds, sambhar",
+      "parentId": "node_regional_food",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_north",
+      "label": "North India",
+      "description": "Garam masala, cumin, coriander, dairy-based dishes",
+      "parentId": "node_regional_food",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#66BB6A",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_spice_trade",
+      "label": "Spice Trade History",
+      "description": "Traders came from Europe and Arabia for Indian spices",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#2196F3",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_plant_parts",
+      "label": "Spices from Plant Parts",
+      "description": "Seeds, roots, bark, leaves, and flower buds",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#009688",
+      "orderIndex": 13
+    }
+  ]
+}

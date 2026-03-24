@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch3",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hi3",
+    "title": "किरमिच की गेंद (The Leather Ball)",
+    "content": "यह कक्षा 4 की NCERT रिमझिम पुस्तक का तीसरा अध्याय है। यह एक मनमोहक कहानी है जो बचपन की दोस्ती, साझेदारी (sharing), और मिलकर खेलने की खुशी के बारे में है। गली-मोहल्ले के बच्चे एक किरमिच (चमड़े जैसे कपड़े) की गेंद से खेलते हैं। पहले वे गेंद को लेकर झगड़ते हैं, लेकिन जल्दी ही सीखते हैं कि मिलकर खेलने में ज़्यादा मज़ा आता है। कहानी सिखाती है कि बाँटने से खुशी बढ़ती है, दोस्ती किसी खिलौने से कीमती है, और सहयोग (cooperation) ज़िंदगी को सुंदर बनाता है। बच्चे नए शब्द जैसे किरमिच, साझेदारी, सहयोग, बारी सीखते हैं। (This is Chapter 3 of NCERT Rimjhim Class 4. A heartwarming story about childhood friendship, sharing, and the joy of playing together. Neighbourhood children play with a leather ball. They first quarrel but learn that playing together is more fun. The story teaches that sharing increases happiness, friendship is more precious than any toy, and cooperation makes life beautiful.)",
+    "keyPoints": [
+      "कहानी बचपन की दोस्ती और साझेदारी के बारे में है (Story about childhood friendship and sharing)",
+      "किरमिच की गेंद बच्चों को एक साथ लाती है (The leather ball brings children together)",
+      "बच्चे झगड़े से सहयोग की ओर बढ़ते हैं (Children move from fighting to cooperation)",
+      "बाँटने से खुशी बढ़ती है (Sharing increases happiness)",
+      "दोस्ती किसी भी खिलौने से कीमती है (Friendship is more precious than any toy)",
+      "पुराने ज़माने के खेलों और आज के खेलों की तुलना (Comparison of old and modern games)"
+    ],
+    "learningObjectives": [
+      "कहानी को समझकर पढ़ना और सुनाना (Read and narrate the story with understanding)",
+      "नए शब्दों के अर्थ जानना: किरमिच, साझेदारी, सहयोग (Learn new words: kirmich, sharing, cooperation)",
+      "दोस्ती और बाँटने का महत्व समझना (Understand the importance of friendship and sharing)",
+      "कहानी के प्रश्न-उत्तर लिखना (Write answers to story-based questions)",
+      "पुराने और नए खेलों की तुलना करना (Compare old and new games)",
+      "अपने अनुभव लिखना और सुनाना (Write and share personal experiences)"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hi3_001",
+      "title": "कहानी पढ़ने की टिप (Story Reading Tip)",
+      "content": "कहानी को पढ़ते समय पात्रों (characters) की आवाज़ बदल-बदलकर बोलो - जब बच्चे ख़ुश हों तो ख़ुशी से बोलो, जब झगड़ा हो तो ज़ोर से बोलो। इससे कहानी ज़िंदा हो जाएगी! पहले पूरी कहानी एक बार पढ़ो, फिर हर हिस्से को समझो: शुरुआत (बच्चों का मिलना), बीच (झगड़ा), और अंत (मिलकर खेलना)। (While reading, change your voice for different characters. Read happily when children are happy, loudly during fights. This brings the story alive! Read the whole story once, then understand each part: beginning, middle, and end.)",
+      "tags": ["study-tip", "story-reading"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hi3_002",
+      "title": "बाँटने का खेल खेलो! (Play the Sharing Game!)",
+      "content": "कहानी को बेहतर समझने के लिए एक खेल खेलो: अपने दोस्तों के साथ एक खिलौना लो और बारी-बारी से खेलो। देखो - क्या मिलकर खेलने में ज़्यादा मज़ा आता है या अकेले? अपने अनुभव एक कॉपी में लिखो। यह गतिविधि तुम्हें कहानी का संदेश सच में समझने में मदद करेगी। याद रखो: बाँटने से खुशी बढ़ती है! (To understand the story better, play a game: take one toy with friends and take turns. See - is playing together more fun or alone? Write your experience. This activity helps you truly understand the story's message.)",
+      "tags": ["activity", "friendship"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hi3_003",
+      "title": "शब्दार्थ याद करने का तरीका (Vocabulary Tips)",
+      "content": "इस पाठ के ज़रूरी शब्द याद करो: किरमिच = चमड़े जैसा कपड़ा (leather cloth), साझेदारी = मिल-बाँटकर उपयोग करना (sharing), सहयोग = मिलकर काम करना (cooperation), बारी = एक-एक का मौका (turn), मोहल्ला = पड़ोस (neighbourhood)। हर शब्द के लिए एक वाक्य बनाओ और ज़ोर से बोलो। शब्दों को अपनी कॉपी में लिखो और चित्र बनाओ - इससे याद रखना आसान होगा! (Important words to remember with meanings. Make a sentence for each word and say it aloud. Write words and draw pictures to remember easily!)",
+      "tags": ["vocabulary", "study-tip"],
+      "isPinned": false
+    }
+  ]
+}

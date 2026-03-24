@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch22",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_evn22_cultural_diversity",
+      "name": "Cultural Diversity",
+      "description": "Learn about how families and communities have different cultures and traditions",
+      "topicId": "gr4_evn_22_1",
+      "chapterId": "gr4_evs_ncert_ch22",
+      "cards": [
+        {
+          "id": "card_gr4_evn22_001",
+          "front": "What does cultural diversity mean?",
+          "back": "Cultural diversity means that people in our country follow different customs, speak different languages, eat different foods, wear different clothes, and celebrate different festivals.\n\nIndia is one of the most culturally diverse countries in the world!",
+          "hint": "Think about how your neighbours or classmates may do things differently from your family",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_evn22_002",
+          "front": "Why do people in India speak so many different languages?",
+          "back": "India has hundreds of languages because different groups of people have lived in different regions for thousands of years.\n\nEach group developed their own language. Hindi, Tamil, Bengali, Marathi, Telugu, and Kannada are just a few of the many languages spoken in India.",
+          "hint": "Think about how many states India has and how each state has its own language",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_evn22_003",
+          "front": "How can different cultures exist within one family?",
+          "back": "In many Indian families, parents may come from different states, religions, or communities. Grandparents may speak a different language than the children.\n\nFor example, a family might celebrate both Diwali and Eid, or eat both South Indian and North Indian food at home.",
+          "hint": "Think about inter-state or inter-community marriages",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_evn22_004",
+          "front": "What can we learn from people who are different from us?",
+          "back": "From people with different cultures, we can learn new languages, taste new foods, hear new stories and songs, learn new games, and understand different ways of thinking.\n\nThis makes our life richer and more interesting!",
+          "hint": "Think about a time you learned something from a friend who was different from you",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_evn22_005",
+          "front": "What is the meaning of 'Unity in Diversity'?",
+          "back": "Unity in Diversity means that even though people in India have different languages, religions, foods, and customs, they all live together as one nation.\n\nWe respect each other's differences and work together for the good of our country.",
+          "hint": "A very famous phrase used to describe India",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_evn22_family_traditions",
+      "name": "Family and Traditions",
+      "description": "Explore how families pass on their culture and traditions across generations",
+      "topicId": "gr4_evn_22_1",
+      "chapterId": "gr4_evs_ncert_ch22",
+      "cards": [
+        {
+          "id": "card_gr4_evn22_006",
+          "front": "How do families pass on their culture to children?",
+          "back": "Families teach culture through stories, songs, festivals, food, language, and daily habits.\n\nGrandparents telling folk tales, mothers teaching recipes, and fathers sharing traditions are all ways culture is passed on from one generation to the next.",
+          "hint": "Think about what your grandparents have taught you",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_evn22_007",
+          "front": "Name some festivals celebrated by different communities in India.",
+          "back": "Diwali (Hindus), Eid (Muslims), Christmas (Christians), Baisakhi (Sikhs), Pongal (Tamil Nadu), Bihu (Assam), Onam (Kerala), Navroze (Parsis), Buddha Purnima (Buddhists), and Mahavir Jayanti (Jains).\n\nIndia celebrates many more festivals throughout the year!",
+          "hint": "Different religions and regions have their own special celebrations",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_evn22_008",
+          "front": "Why do people in different states wear different types of clothes?",
+          "back": "Clothing depends on the climate, culture, and traditions of each region.\n\nPeople in Rajasthan wear colourful clothes to reflect their vibrant culture. In Kerala, people wear white mundu because of the hot climate. In the Northeast, people wear beautiful handwoven shawls.",
+          "hint": "Climate and tradition both play a role",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_evn22_009",
+          "front": "What does it mean to respect someone's culture?",
+          "back": "Respecting someone's culture means not making fun of their food, clothes, language, or customs. It means being curious and open to learning about their traditions.\n\nEven if something seems different or strange to us, we should treat it with kindness and understanding.",
+          "hint": "How would you feel if someone made fun of your family's traditions?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_evn22_010",
+          "front": "How does the Indian Constitution protect cultural diversity?",
+          "back": "The Indian Constitution gives every citizen the right to follow their own religion, speak their own language, and preserve their culture.\n\nIt says that all people are equal regardless of their religion, caste, language, or where they come from.",
+          "hint": "Our Constitution has special rights for all citizens",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

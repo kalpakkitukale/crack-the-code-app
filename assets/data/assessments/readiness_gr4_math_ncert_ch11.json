@@ -1,0 +1,281 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch11",
+  "topicId": "gr4_mn_11_1",
+  "topicName": "Line of Symmetry",
+  "chapterId": "gr4_math_ncert_ch11",
+  "chapterName": "Fun with Symmetry",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about symmetry (lines of symmetry, mirror images, and completing figures)",
+    "totalQuestions": 10,
+    "estimatedTime": 420,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "shape_recognition",
+      "conceptName": "Recognising and naming basic 2D shapes",
+      "importance": "critical",
+      "questionsTestingThis": ["rq11_1", "rq11_2", "rq11_3"],
+      "remedialVideoIds": ["prereq_ch11_shapes_v1"]
+    },
+    {
+      "conceptId": "equal_halves",
+      "conceptName": "Understanding equal halves and matching parts",
+      "importance": "critical",
+      "questionsTestingThis": ["rq11_4", "rq11_5", "rq11_6"],
+      "remedialVideoIds": ["prereq_ch11_halves_v1"]
+    },
+    {
+      "conceptId": "matching_shapes",
+      "conceptName": "Matching identical shapes and spotting same-different",
+      "importance": "important",
+      "questionsTestingThis": ["rq11_7", "rq11_8"],
+      "remedialVideoIds": ["prereq_ch11_matching_v1"]
+    },
+    {
+      "conceptId": "spatial_awareness",
+      "conceptName": "Left-right and mirror concept awareness",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq11_9", "rq11_10"],
+      "remedialVideoIds": ["prereq_ch11_matching_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq11_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "Which of these shapes has 4 equal sides and 4 corners?",
+      "options": ["Triangle", "Circle", "Square", "Rectangle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Square",
+      "explanation": "A square has 4 equal sides and 4 corners. Knowing shapes well will help you find their lines of symmetry!",
+      "tags": ["shapes", "square", "properties"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Confused square with rectangle",
+          "conceptGap": "Does not know that a square has all 4 sides equal while a rectangle has only opposite sides equal",
+          "remediation": "Review the difference between a square and a rectangle"
+        }
+      ]
+    },
+    {
+      "id": "rq11_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "How many sides does a triangle have?",
+      "options": ["2 sides", "3 sides", "4 sides", "5 sides"],
+      "correctAnswer": 1,
+      "correctAnswerText": "3 sides",
+      "explanation": "A triangle has 3 sides and 3 corners. The word 'tri' means three!",
+      "tags": ["shapes", "triangle", "sides"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq11_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "shape_recognition",
+      "question": "Which shape has no corners and no straight sides?",
+      "options": ["Square", "Triangle", "Rectangle", "Circle"],
+      "correctAnswer": 3,
+      "correctAnswerText": "Circle",
+      "explanation": "A circle has no corners and no straight sides. It is perfectly round! A circle has a special kind of symmetry.",
+      "tags": ["shapes", "circle", "properties"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq11_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "equal_halves",
+      "question": "Neha folds a square piece of paper exactly in half. What do the two parts look like?",
+      "options": ["One part is bigger than the other", "Both parts are exactly the same size and shape", "The paper becomes a circle", "The parts are different shapes"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Both parts are exactly the same size and shape",
+      "explanation": "When you fold a square exactly in half, both parts match perfectly. They are equal halves! This is the idea behind symmetry.",
+      "tags": ["equal halves", "folding", "matching parts"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thinks folding always makes unequal parts",
+          "conceptGap": "Does not understand what folding in half means",
+          "remediation": "Practice folding paper shapes in half and comparing the two parts"
+        }
+      ]
+    },
+    {
+      "id": "rq11_5",
+      "questionNumber": 5,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "equal_halves",
+      "question": "True or False: When you cut a circle through the middle, both halves are the same.",
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+      "explanation": "True! When you cut a circle exactly through the middle, both halves are equal. Each half is a semicircle.",
+      "tags": ["equal halves", "circle", "cutting"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq11_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "equal_halves",
+      "question": "Ravi drew a line down the middle of a rectangle. He says both sides are equal halves. Is he correct?",
+      "options": ["Yes, both sides are always equal", "Only if the line goes through the exact centre", "No, rectangles cannot be split into halves", "Only if the rectangle is coloured"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Only if the line goes through the exact centre",
+      "explanation": "Ravi is correct only if the line goes exactly through the centre of the rectangle. Then both halves match perfectly!",
+      "tags": ["equal halves", "rectangle", "centre line"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thinks any line creates equal halves",
+          "conceptGap": "Does not understand that the line must be placed precisely",
+          "remediation": "Draw lines in different positions on a rectangle and check if both parts are equal"
+        }
+      ]
+    },
+    {
+      "id": "rq11_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "matching_shapes",
+      "question": "Which of these pairs shows two shapes that are exactly the same?",
+      "options": ["A big circle and a small circle", "Two squares of the same size", "A triangle and a square", "A big rectangle and a small rectangle"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Two squares of the same size",
+      "explanation": "Two squares of the same size are exactly the same shape and size. They match perfectly! This matching skill helps you check symmetry.",
+      "tags": ["matching", "identical shapes", "comparison"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq11_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "matching_shapes",
+      "question": "Priya cut a heart shape in half. She placed one half on top of the other. What did she notice?",
+      "options": ["They did not match at all", "One half was bigger", "Both halves matched perfectly", "The halves made a circle"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Both halves matched perfectly",
+      "explanation": "A heart shape has two halves that match perfectly when placed on top of each other. This means a heart is symmetrical!",
+      "tags": ["matching", "heart shape", "symmetry preview"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq11_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "spatial_awareness",
+      "question": "When you look in a mirror and raise your right hand, which hand appears to go up in the mirror?",
+      "options": ["Your right hand", "Your left hand", "Both hands", "Neither hand"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Your left hand",
+      "explanation": "In a mirror, left and right are flipped! When you raise your right hand, it looks like the left hand is going up in the mirror. This is how mirror images work.",
+      "tags": ["mirror", "left right", "reflection"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thinks the mirror shows the same side",
+          "conceptGap": "Does not understand that mirrors flip left and right",
+          "remediation": "Stand in front of a mirror and try raising different hands to see the flip"
+        }
+      ]
+    },
+    {
+      "id": "rq11_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "spatial_awareness",
+      "question": "A butterfly has the same pattern on both its wings. If you draw a line down the middle of the butterfly, what can you say?",
+      "options": ["The left wing is bigger", "The right wing is different", "Both sides look the same", "The wings do not match"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Both sides look the same",
+      "explanation": "A butterfly has matching patterns on both wings. If you draw a line down the middle, both sides look the same. This is symmetry in nature!",
+      "tags": ["spatial awareness", "butterfly", "symmetry in nature"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": []
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You know your shapes and equal halves really well. You are ready to learn about symmetry!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding of shapes and halves. Let's explore the fun world of symmetry!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things but need to review shapes and equal halves. Watch the review videos first, then we will start symmetry.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review shapes and equal halves. We will watch some fun videos about these topics before starting symmetry.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We will show you some fun videos about shapes and halves first.",
+    "high_score_praise": "Awesome! You are all set to learn about symmetry - fun with shapes and mirrors!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

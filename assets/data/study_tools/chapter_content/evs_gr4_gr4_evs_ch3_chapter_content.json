@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ch3",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_ev3",
+    "title": "Plants Around Us",
+    "content": "This chapter teaches students about the different types of plants found around us and the many ways plants are useful in our daily life. Students will learn to tell apart trees, shrubs, herbs, climbers, and creepers by looking at their size, stem, and how they grow. The chapter also covers the important uses of plants, including food, clean air, wood, medicine, and soil protection.",
+    "keyPoints": [
+      "Plants are grouped into trees, shrubs, herbs, climbers, and creepers",
+      "Trees have thick woody trunks and are the tallest plants",
+      "Shrubs have many thin branches near the ground",
+      "Herbs have soft green stems and are small in size",
+      "Climbers grow upward on support while creepers spread on the ground",
+      "Plants give us food, oxygen, wood, paper, and medicine"
+    ],
+    "learningObjectives": [
+      "Identify and classify plants as trees, shrubs, herbs, climbers, or creepers",
+      "Describe the features that make each type of plant different",
+      "List the various uses of plants in everyday life",
+      "Name common medicinal plants and their uses",
+      "Understand how plants help protect the soil and environment"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_ev3_001",
+      "title": "Easy Way to Remember Plant Types",
+      "content": "Remember this simple trick: Trees are TALL with THICK trunks, Shrubs are SHORTER with SEVERAL stems, and Herbs are HUMBLE and have soft green stems. For climbers and creepers, think: Climbers CLIMB UP, Creepers CRAWL on the ground!",
+      "tags": ["study-tip", "memory-aid"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_ev3_002",
+      "title": "Plant Parts We Eat - Quick List",
+      "content": "Root: carrot, radish, beetroot. Stem: sugarcane, potato, ginger. Leaf: spinach, cabbage, lettuce. Flower: cauliflower, broccoli. Fruit: mango, apple, banana. Seed: rice, wheat, dal. Try to add more examples to each group!",
+      "tags": ["key-concept", "practice"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_ev3_003",
+      "title": "Medicinal Plants to Know",
+      "content": "Tulsi: helps with cough and cold. Neem: good for skin and keeps insects away. Aloe Vera: heals burns and is good for skin. Haldi (Turmeric): fights germs and heals wounds. Amla: full of Vitamin C and keeps you healthy. Many of these plants may be growing near your home!",
+      "tags": ["important", "real-world"],
+      "isPinned": false
+    }
+  ]
+}

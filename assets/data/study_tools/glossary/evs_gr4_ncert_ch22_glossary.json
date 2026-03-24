@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch22",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evn_22_001",
+      "term": "Culture",
+      "definition": "The customs, traditions, language, food, clothing, festivals, and way of life shared by a group of people.",
+      "pronunciation": "KUL-chur",
+      "exampleUsage": "Every state in India has its own unique culture.",
+      "difficulty": "easy",
+      "relatedTerms": ["tradition", "customs", "heritage"]
+    },
+    {
+      "id": "gls_evn_22_002",
+      "term": "Diversity",
+      "definition": "The presence of many different types of people, cultures, languages, and traditions in one place.",
+      "pronunciation": "dy-VER-sih-tee",
+      "exampleUsage": "India's diversity can be seen in its many languages and festivals.",
+      "difficulty": "medium",
+      "relatedTerms": ["variety", "differences", "multicultural"]
+    },
+    {
+      "id": "gls_evn_22_003",
+      "term": "Tradition",
+      "definition": "A belief, custom, or way of doing something that has been passed down from parents and grandparents over many years.",
+      "pronunciation": "truh-DIH-shun",
+      "exampleUsage": "It is a tradition in many families to light a diya during Diwali.",
+      "difficulty": "easy",
+      "relatedTerms": ["custom", "practice", "heritage"]
+    },
+    {
+      "id": "gls_evn_22_004",
+      "term": "Festival",
+      "definition": "A special time of celebration marked by activities like prayers, feasts, music, dance, and gatherings.",
+      "pronunciation": "FES-tih-val",
+      "exampleUsage": "Holi is a festival of colours celebrated with great joy across India.",
+      "difficulty": "easy",
+      "relatedTerms": ["celebration", "holiday", "mela"]
+    },
+    {
+      "id": "gls_evn_22_005",
+      "term": "Community",
+      "definition": "A group of people who live together or share common interests, beliefs, or backgrounds.",
+      "pronunciation": "kuh-MYOO-nih-tee",
+      "exampleUsage": "People in our community come together to celebrate Republic Day.",
+      "difficulty": "easy",
+      "relatedTerms": ["society", "neighbourhood", "group"]
+    },
+    {
+      "id": "gls_evn_22_006",
+      "term": "Heritage",
+      "definition": "The valuable things like buildings, art, traditions, and practices that are passed down from earlier generations.",
+      "pronunciation": "HEH-rih-tij",
+      "exampleUsage": "The Taj Mahal is part of India's rich cultural heritage.",
+      "difficulty": "medium",
+      "relatedTerms": ["legacy", "tradition", "history"]
+    },
+    {
+      "id": "gls_evn_22_007",
+      "term": "Mother Tongue",
+      "definition": "The first language a child learns at home from their parents and family.",
+      "pronunciation": "MUH-ther TUNG",
+      "exampleUsage": "My mother tongue is Marathi, but I also speak Hindi and English at school.",
+      "difficulty": "easy",
+      "relatedTerms": ["first language", "home language", "native language"]
+    },
+    {
+      "id": "gls_evn_22_008",
+      "term": "Inclusivity",
+      "definition": "Including everyone and making sure no one is left out because of their differences.",
+      "pronunciation": "in-kloo-SIV-ih-tee",
+      "exampleUsage": "Our school practises inclusivity by welcoming children from all backgrounds.",
+      "difficulty": "medium",
+      "relatedTerms": ["belonging", "acceptance", "equality"]
+    },
+    {
+      "id": "gls_evn_22_009",
+      "term": "Custom",
+      "definition": "A regular practice or way of behaving that is special to a particular group or community.",
+      "pronunciation": "KUS-tum",
+      "exampleUsage": "It is a custom to touch the feet of elders as a sign of respect in many Indian families.",
+      "difficulty": "easy",
+      "relatedTerms": ["tradition", "practice", "ritual"]
+    },
+    {
+      "id": "gls_evn_22_010",
+      "term": "Unity in Diversity",
+      "definition": "The idea that people with different cultures, languages, and religions can still live together in peace and harmony as one nation.",
+      "pronunciation": "YOO-nih-tee in dy-VER-sih-tee",
+      "exampleUsage": "India shows unity in diversity when people of all religions celebrate each other's festivals.",
+      "difficulty": "medium",
+      "relatedTerms": ["harmony", "togetherness", "coexistence"]
+    }
+  ]
+}

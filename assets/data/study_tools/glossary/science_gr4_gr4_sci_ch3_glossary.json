@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_sci_ch3",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_s3_001",
+      "term": "Matter",
+      "definition": "Anything that takes up space and has weight. Everything around us, including air, water, and rocks, is made of matter.",
+      "pronunciation": "MAT-er",
+      "exampleUsage": "Your desk, the water you drink, and the air you breathe are all made of matter.",
+      "difficulty": "easy",
+      "relatedTerms": ["solid", "liquid", "gas"]
+    },
+    {
+      "id": "gls_gr4_s3_002",
+      "term": "Solid",
+      "definition": "A form of matter that has a fixed shape and a fixed size. Solids do not flow and you can hold them in your hand.",
+      "pronunciation": "SOL-id",
+      "exampleUsage": "A wooden block is a solid because it keeps its shape no matter where you put it.",
+      "difficulty": "easy",
+      "relatedTerms": ["matter", "liquid", "gas", "shape"]
+    },
+    {
+      "id": "gls_gr4_s3_003",
+      "term": "Liquid",
+      "definition": "A form of matter that can flow and takes the shape of the container it is kept in. Liquids have a fixed volume but no fixed shape.",
+      "pronunciation": "LIK-wid",
+      "exampleUsage": "When you pour milk into a glass, it takes the shape of the glass because milk is a liquid.",
+      "difficulty": "easy",
+      "relatedTerms": ["matter", "solid", "gas", "flow"]
+    },
+    {
+      "id": "gls_gr4_s3_004",
+      "term": "Gas",
+      "definition": "A form of matter that has no fixed shape and no fixed size. Gases spread out to fill any space they are in.",
+      "pronunciation": "GAS",
+      "exampleUsage": "The air inside a balloon is a gas that spreads out and fills the whole balloon.",
+      "difficulty": "easy",
+      "relatedTerms": ["matter", "solid", "liquid", "air"]
+    },
+    {
+      "id": "gls_gr4_s3_005",
+      "term": "Melting",
+      "definition": "The change of a solid into a liquid when it is heated. The solid gets warm and its particles start moving more freely.",
+      "pronunciation": "MEL-ting",
+      "exampleUsage": "An ice cream cone starts melting on a hot day and turns into a sticky liquid.",
+      "difficulty": "easy",
+      "relatedTerms": ["freezing", "solid", "liquid", "heat"]
+    },
+    {
+      "id": "gls_gr4_s3_006",
+      "term": "Freezing",
+      "definition": "The change of a liquid into a solid when it is cooled down enough. The liquid becomes hard and gets a fixed shape.",
+      "pronunciation": "FREE-zing",
+      "exampleUsage": "When you put water in the freezer, it freezes and turns into ice cubes.",
+      "difficulty": "easy",
+      "relatedTerms": ["melting", "solid", "liquid", "cold"]
+    },
+    {
+      "id": "gls_gr4_s3_007",
+      "term": "Evaporation",
+      "definition": "The change of a liquid into a gas. When a liquid gets heated, its particles move faster and escape into the air as gas.",
+      "pronunciation": "ee-VAP-oh-RAY-shun",
+      "exampleUsage": "After rain, the puddles on the ground dry up because the water evaporates into the air.",
+      "difficulty": "medium",
+      "relatedTerms": ["condensation", "liquid", "gas", "boiling"]
+    },
+    {
+      "id": "gls_gr4_s3_008",
+      "term": "Condensation",
+      "definition": "The change of a gas (water vapour) into a liquid when it cools down. Tiny water drops form on cool surfaces.",
+      "pronunciation": "KON-den-SAY-shun",
+      "exampleUsage": "Cold water drops form on the outside of a chilled glass because water vapour in the air condenses on the cool surface.",
+      "difficulty": "medium",
+      "relatedTerms": ["evaporation", "gas", "liquid", "water vapour"]
+    },
+    {
+      "id": "gls_gr4_s3_009",
+      "term": "Water Vapour",
+      "definition": "Water in its gas form. Water vapour is invisible and is found in the air around us.",
+      "pronunciation": "WAW-ter VAY-per",
+      "exampleUsage": "The steam that rises from a cup of hot tea is actually tiny water drops formed from water vapour.",
+      "difficulty": "medium",
+      "relatedTerms": ["gas", "evaporation", "condensation", "steam"]
+    },
+    {
+      "id": "gls_gr4_s3_010",
+      "term": "Volume",
+      "definition": "The amount of space that something takes up. Solids and liquids have a fixed volume, but gases can expand or shrink.",
+      "pronunciation": "VOL-yoom",
+      "exampleUsage": "A bottle holds a fixed volume of water, like 500 millilitres.",
+      "difficulty": "medium",
+      "relatedTerms": ["space", "matter", "container"]
+    },
+    {
+      "id": "gls_gr4_s3_011",
+      "term": "Particles",
+      "definition": "The very tiny pieces that make up all matter. Particles are so small that we cannot see them with our eyes.",
+      "pronunciation": "PAR-tih-kulz",
+      "exampleUsage": "Even a drop of water is made up of millions and millions of tiny particles.",
+      "difficulty": "medium",
+      "relatedTerms": ["matter", "solid", "liquid", "gas"]
+    },
+    {
+      "id": "gls_gr4_s3_012",
+      "term": "Boiling",
+      "definition": "When a liquid gets very hot and starts turning into gas with lots of bubbles. Water boils at 100 degrees Celsius.",
+      "pronunciation": "BOY-ling",
+      "exampleUsage": "When your mother boils water for tea, you can see bubbles forming and steam rising from the pot.",
+      "difficulty": "easy",
+      "relatedTerms": ["evaporation", "liquid", "gas", "heat"]
+    }
+  ]
+}

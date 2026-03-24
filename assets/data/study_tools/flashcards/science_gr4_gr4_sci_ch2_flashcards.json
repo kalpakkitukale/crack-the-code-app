@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_sci_ch2",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_sc2_food_groups",
+      "name": "Food Groups",
+      "description": "Learn about the different food groups and what nutrients they give us",
+      "topicId": "gr4_s_2_1",
+      "chapterId": "gr4_sci_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_sc2_001",
+          "front": "What are the main food groups we need to stay healthy?",
+          "back": "The main food groups are: energy-giving foods (carbohydrates and fats), body-building foods (proteins), and protective foods (vitamins and minerals). We need food from all groups every day.",
+          "hint": "Think of three jobs that food does for your body",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_sc2_002",
+          "front": "Which foods are called energy-giving foods?",
+          "back": "Foods rich in carbohydrates like rice, roti, bread, potatoes, and sugar give us energy to run, play, and study. Fats in ghee, oil, and butter also give us energy.",
+          "hint": "Think about what you eat before going out to play",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_sc2_003",
+          "front": "Which foods are called body-building foods?",
+          "back": "Foods rich in proteins like dal, paneer, milk, eggs, fish, and soybean help our body grow taller and stronger. Proteins also repair our body when we get hurt.",
+          "hint": "Think about what helps you grow tall and strong",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_sc2_004",
+          "front": "Which foods are called protective foods?",
+          "back": "Fruits and vegetables are protective foods. They are rich in vitamins and minerals that protect us from diseases and keep us healthy. Examples include oranges, carrots, spinach, and amla.",
+          "hint": "Think about the colourful fruits and sabzi on your plate",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_sc2_005",
+          "front": "Why is water important even though it is not a food group?",
+          "back": "Water helps our body digest food, carry nutrients to all parts of the body, remove waste, and keep our body temperature normal. We should drink 6 to 8 glasses of water every day.",
+          "hint": "Think about what you feel like drinking after running around",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_sc2_healthy_eating",
+      "name": "Healthy Eating",
+      "description": "Understand what makes a balanced diet and good eating habits",
+      "topicId": "gr4_s_2_2",
+      "chapterId": "gr4_sci_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_sc2_006",
+          "front": "What is a balanced diet?",
+          "back": "A balanced diet is a meal that has the right amounts of food from all food groups: carbohydrates, proteins, fats, vitamins, and minerals. A thali with roti, dal, sabzi, rice, salad, and curd is a good example of a balanced meal.",
+          "hint": "Think of an Indian thali with many different dishes",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_sc2_007",
+          "front": "Why should we eat fruits and vegetables every day?",
+          "back": "Fruits and vegetables give us vitamins and minerals that protect us from getting sick. Vitamin A in carrots keeps our eyes healthy, Vitamin C in amla and oranges fights infections, and iron in spinach keeps our blood healthy.",
+          "hint": "Think about what your parents say when you skip your sabzi",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_sc2_008",
+          "front": "Why is eating too much junk food bad for health?",
+          "back": "Junk food like chips, samosa, cold drinks, and sweets have too much oil, sugar, and salt but very few vitamins and minerals. Eating too much junk food can make us overweight, give us tooth problems, and make us fall sick often.",
+          "hint": "Think about how you feel after eating a lot of chips versus eating fruits",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_sc2_009",
+          "front": "What are some good eating habits we should follow?",
+          "back": "Wash hands before eating, eat meals at regular times, chew food slowly, eat fresh and home-cooked food, drink enough water, and do not skip breakfast. These habits help us stay healthy and strong.",
+          "hint": "What does your teacher remind you before mid-day meal?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_sc2_010",
+          "front": "What are roughage and dietary fibre, and why do we need them?",
+          "back": "Roughage or dietary fibre is the part of plant food that our body cannot digest, found in whole grains, fruits, and vegetables. It helps food move through our stomach and intestines and prevents constipation.",
+          "hint": "Think about why we eat whole wheat roti instead of maida roti",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_sc2_digestion",
+      "name": "Digestion",
+      "description": "Learn how our body breaks down food and uses it",
+      "topicId": "gr4_s_2_3",
+      "chapterId": "gr4_sci_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_sc2_011",
+          "front": "What is digestion?",
+          "back": "Digestion is the process by which our body breaks down the food we eat into tiny pieces so that our body can use the nutrients for energy, growth, and repair.",
+          "hint": "Think about what happens to the roti after you swallow it",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_sc2_012",
+          "front": "Where does digestion begin?",
+          "back": "Digestion begins in the mouth. Our teeth chew and break food into smaller pieces, and saliva (the watery liquid in our mouth) mixes with the food and starts breaking it down.",
+          "hint": "What is the first thing you do when you put food in your mouth?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_sc2_013",
+          "front": "What is the role of the stomach in digestion?",
+          "back": "The stomach is like a mixing bag. It produces special juices that break down food further into a thick paste. Food stays in the stomach for a few hours while it is mixed and broken down.",
+          "hint": "Think of a churning machine that mixes everything together",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_sc2_014",
+          "front": "What happens to food in the small intestine?",
+          "back": "In the small intestine, food is broken down completely and the useful nutrients pass through the walls into the blood. The blood then carries these nutrients to every part of the body.",
+          "hint": "Think about how nutrients travel to your muscles and bones",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_sc2_015",
+          "front": "What happens to the food our body cannot use?",
+          "back": "The food that our body cannot digest moves to the large intestine, where water is absorbed. The leftover waste is then removed from the body when we go to the toilet.",
+          "hint": "Not everything we eat is useful to the body",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

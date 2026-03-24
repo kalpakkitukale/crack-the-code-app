@@ -1,0 +1,129 @@
+{
+  "videoSetId": "playlist_gr4_mn13_t4",
+  "topicId": "gr4_mn_13_4",
+  "topicName": "Practical Math at the Museum",
+  "chapterId": "gr4_math_ncert_ch13",
+  "chapterName": "The Transport Museum",
+  "description": "Main learning videos for applying multiplication and combined operations to real-life museum problems including word problems with transport",
+
+  "videos": [
+    {
+      "id": "gr4_mn13_v4",
+      "type": "concept_deep_dive",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Multiplication in Real Life | Times Tables at the Museum",
+      "description": "See how multiplication helps in real life! If each bus carries 10 children and there are 3 buses, how many children are there? Solve fun museum problems!",
+
+      "youtubeId": "iiR8hqJeQsw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iiR8hqJeQsw",
+      "thumbnailUrl": "https://img.youtube.com/vi/iiR8hqJeQsw/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+
+      "tags": ["multiplication", "times tables", "real life math", "museum math", "word problems"],
+
+      "learningObjectives": [
+        "Apply multiplication to solve real-life museum problems",
+        "Calculate totals for groups of people or items",
+        "Use times tables in practical transport contexts"
+      ],
+
+      "prerequisites": ["Basic multiplication facts", "Understanding word problems"],
+      "followUpTopics": ["Multi-step word problems", "Division as reverse of multiplication"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "Each auto-rickshaw can carry 3 passengers. How many passengers can 5 auto-rickshaws carry?",
+            "options": ["8 passengers", "12 passengers", "15 passengers"],
+            "correctAnswer": 2
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn13_v5",
+      "type": "worked_examples",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Word problems to solve - estimation and adding up - 4th grade math",
+      "description": "Practice solving word problems using estimation and addition! Work through real-life problems step by step, choosing the right operation and checking answers. Perfect for applying all Transport Museum math skills.",
+
+      "youtubeId": "m5Xk6ikqThA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=m5Xk6ikqThA",
+      "thumbnailUrl": "https://img.youtube.com/vi/m5Xk6ikqThA/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math Mammoth",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 95000,
+
+      "tags": ["word problems", "estimation", "adding up", "problem solving", "real life math"],
+
+      "learningObjectives": [
+        "Solve multi-step word problems involving transport museum scenarios",
+        "Choose the correct operation (addition, subtraction, multiplication) for each problem",
+        "Apply estimation to check if answers are reasonable"
+      ],
+
+      "prerequisites": ["Basic operations", "Multiplication facts", "Estimation skills"],
+      "followUpTopics": ["More complex word problems", "Planning a trip using math"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "A family pays 120 rupees for museum tickets and 80 rupees for snacks. They started with 300 rupees. How much money is left?",
+            "options": ["100 rupees", "120 rupees", "200 rupees"],
+            "correctAnswer": 0
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn13_v4", "gr4_mn13_v5"],
+      "estimatedTime": 840
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn13_v4", "gr4_mn13_v5"],
+      "estimatedTime": 840
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn13_v4"],
+      "estimatedTime": 360
+    }
+  }
+}

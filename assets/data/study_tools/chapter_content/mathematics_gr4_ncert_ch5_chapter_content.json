@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_math_ncert_ch5",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn5",
+    "title": "Sharing and Measuring",
+    "content": "This chapter introduces division as the process of equal sharing and grouping. Students learn to divide objects, lengths, weights, and quantities fairly among people or into equal groups. The chapter builds a strong connection between multiplication and division, showing that every multiplication fact gives two division facts. Students also learn about remainders — what is left over when things cannot be shared perfectly. Through real-life problems like sharing food, cutting ribbon, packing items, and distributing things, students see how division is used every day.",
+    "keyPoints": [
+      "Division means splitting a total into equal groups or sharing equally",
+      "The parts of division are: dividend ÷ divisor = quotient (with possible remainder)",
+      "Every multiplication fact gives two division facts (e.g., 5 x 6 = 30 gives 30 ÷ 5 = 6 and 30 ÷ 6 = 5)",
+      "A remainder is what is left over when things cannot be divided equally",
+      "You can check division by multiplying the quotient by the divisor",
+      "Special rules: n ÷ 1 = n, n ÷ n = 1, 0 ÷ n = 0"
+    ],
+    "learningObjectives": [
+      "Understand division as equal sharing and grouping",
+      "Know the terms dividend, divisor, quotient, and remainder",
+      "Use multiplication facts to solve division problems",
+      "Solve division word problems involving measurement and sharing",
+      "Check division answers using multiplication"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn5_001",
+      "title": "Fun Activity: Share the Sweets",
+      "content": "Take 24 small objects (like coins, buttons, or stones). Try sharing them equally among 2, 3, 4, 6, and 8 groups. Write the division sentence for each one. For example, 24 ÷ 2 = 12, 24 ÷ 3 = 8, and so on. Now try 24 ÷ 5. You will find a remainder! How much is left over?",
+      "tags": ["activity", "hands-on", "equal sharing"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn5_002",
+      "title": "Quick Trick: Use Multiplication Tables Backwards",
+      "content": "Division becomes super easy when you know your multiplication tables! For any division like 48 ÷ 6, just think: 'What number times 6 gives 48?' Look through the 6 times table: 6 x 8 = 48. So 48 ÷ 6 = 8! This trick works for all division facts. The better you know your tables, the faster you can divide.",
+      "tags": ["study-tip", "multiplication", "division-trick"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn5_003",
+      "title": "Sharing vs Grouping: Two Ways to Think About Division",
+      "content": "Division can tell two different stories. Sharing: 'I have 20 toffees and 4 friends. How many does each friend get?' (20 ÷ 4 = 5 each). Grouping: 'I have 20 toffees and want to make packets of 5. How many packets can I make?' (20 ÷ 5 = 4 packets). Both use division but ask different questions. Practice spotting which type each word problem is!",
+      "tags": ["concept", "word-problems", "sharing-grouping"],
+      "isPinned": false
+    }
+  ]
+}

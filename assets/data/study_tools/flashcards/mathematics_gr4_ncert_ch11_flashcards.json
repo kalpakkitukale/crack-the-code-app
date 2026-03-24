@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch11",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn11_line_symmetry",
+      "name": "Line Symmetry and Mirror Images",
+      "description": "Learn what symmetry means and how mirror images work",
+      "topicId": "gr4_mn_11_1",
+      "chapterId": "gr4_math_ncert_ch11",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn11_001",
+          "front": "What is symmetry?",
+          "back": "Symmetry means that one half of a shape is the exact mirror image of the other half.\n\nIf you fold a butterfly along the middle, both wings match perfectly. That is symmetry!",
+          "hint": "Think of a butterfly with both wings looking the same",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn11_002",
+          "front": "What is a line of symmetry?",
+          "back": "A line of symmetry is an imaginary line that divides a shape into two equal halves that are mirror images of each other.\n\nIt is like a fold line - if you fold the shape along this line, both halves overlap perfectly.",
+          "hint": "Think of folding a paper so both halves match exactly",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn11_003",
+          "front": "What is a mirror image?",
+          "back": "A mirror image is what you see when you look at something in a mirror. The left side appears on the right and the right side appears on the left.\n\nIf you raise your right hand, your mirror image raises its left hand!",
+          "hint": "Stand in front of a mirror and wave your right hand",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn11_004",
+          "front": "How can you check if a shape has a line of symmetry?",
+          "back": "Fold the shape along the line. If both halves match exactly when folded, the line is a line of symmetry.\n\nYou can also place a mirror along the line. If the reflection completes the shape perfectly, it is symmetric.",
+          "hint": "Try the folding test - fold and see if both halves overlap",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn11_005",
+          "front": "Can a shape have more than one line of symmetry?",
+          "back": "Yes! Some shapes have many lines of symmetry.\n\nA square has 4 lines of symmetry.\nA circle has unlimited lines of symmetry.\nA rectangle has 2 lines of symmetry.\nA heart shape has only 1 line of symmetry.",
+          "hint": "Think about a square - you can fold it in several ways and both halves match",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn11_symmetric_shapes",
+      "name": "Symmetrical Shapes Around Us",
+      "description": "Discover symmetry in everyday objects and nature",
+      "topicId": "gr4_mn_11_2",
+      "chapterId": "gr4_math_ncert_ch11",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn11_006",
+          "front": "Name 3 things in nature that have symmetry.",
+          "back": "1. A butterfly - both wings are mirror images\n2. A leaf - the left and right halves match along the midrib\n3. A human face - the left side roughly mirrors the right side\n\nNature is full of symmetry!",
+          "hint": "Look at insects, plants, and even your own body",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn11_007",
+          "front": "Which English letters have a line of symmetry?",
+          "back": "Letters with a vertical line of symmetry: A, M, T, U, V, W, Y\nLetters with a horizontal line of symmetry: B, C, D, E, K\nLetters with both: H, I, O, X\n\nLetters like F, G, J, L, N have no line of symmetry.",
+          "hint": "Write the letter and try folding it in half",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn11_008",
+          "front": "Does a rangoli design have symmetry?",
+          "back": "Yes! Most rangoli designs are symmetrical. They often have many lines of symmetry.\n\nWhen you draw a rangoli, you usually make the same pattern on all sides. This makes it look beautiful and balanced.",
+          "hint": "Think of the rangoli patterns you see during Diwali",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn11_009",
+          "front": "Is a triangle always symmetrical?",
+          "back": "Not always! An equilateral triangle (all sides equal) has 3 lines of symmetry. An isosceles triangle (two sides equal) has 1 line of symmetry. But a scalene triangle (all sides different) has no line of symmetry at all.",
+          "hint": "It depends on the type of triangle",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn11_010",
+          "front": "Name some everyday objects that are symmetrical.",
+          "back": "Symmetrical objects around us:\n- A cricket bat (front view)\n- Taj Mahal (from the front)\n- A kite\n- Spectacles\n- A flower like a sunflower\n- Traffic signs like the red octagon (stop sign)",
+          "hint": "Look at objects that have matching left and right sides",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn11_fold_complete",
+      "name": "Folding, Cutting, and Completing Figures",
+      "description": "Learn how to use folding and cutting to create symmetric shapes and complete figures",
+      "topicId": "gr4_mn_11_3",
+      "chapterId": "gr4_math_ncert_ch11",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn11_011",
+          "front": "How can you make a symmetrical shape by folding and cutting?",
+          "back": "1. Take a piece of paper and fold it in half.\n2. Draw half of a shape along the fold line.\n3. Cut along the line you drew.\n4. Open the paper - you get a perfectly symmetrical shape!\n\nThe fold line becomes the line of symmetry.",
+          "hint": "This is how we make paper decorations and snowflakes",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn11_012",
+          "front": "How do you complete a symmetric figure?",
+          "back": "If you have half a shape and a line of symmetry, draw the mirror image on the other side.\n\nFor each point on the given half, mark a matching point at the same distance on the other side of the line. Connect the points to complete the shape.",
+          "hint": "Each point should be the same distance from the line of symmetry on both sides",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn11_013",
+          "front": "If you fold a paper twice and cut a small triangle, how many triangles will you see when you open it?",
+          "back": "You will see 4 triangles! Each fold doubles the number of cut shapes.\n\n1 fold and cut = 2 shapes\n2 folds and cut = 4 shapes\n\nThis is why paper snowflakes look so beautiful - many folds create many symmetric patterns!",
+          "hint": "Each fold doubles the cuts you make",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn11_014",
+          "front": "What happens when you place a mirror on the line of symmetry of half a shape?",
+          "back": "The mirror shows the reflection of the half shape. Together with the original half, it looks like the complete symmetrical shape!\n\nThis is why a line of symmetry is also called a mirror line.",
+          "hint": "The mirror creates the missing half",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn11_015",
+          "front": "How is symmetry used in real life?",
+          "back": "Symmetry is used in many ways:\n- Architects use it to design buildings like the Taj Mahal\n- Artists use it in rangoli and mehndi designs\n- Tailors use it to cut cloth for shirts (left and right sides match)\n- Engineers use it to build bridges and vehicles\n- Nature uses it in flowers, leaves, and butterflies",
+          "hint": "Think about designs, buildings, and nature",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

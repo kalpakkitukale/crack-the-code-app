@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch5",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn5",
+    "title": "दोस्त की पोशाक (Friend's Costume)",
+    "content": "This chapter from the Rimjhim textbook tells a thought-provoking story about friendship, appearance, and true respect. A man goes to a feast at a friend's house wearing simple, old clothes. The people at the feast treat him poorly and show him no respect. When he returns wearing expensive, fine clothes, the same people shower him with honour and attention. To teach them a lesson, the man starts putting food on his clothes, saying 'You are honouring my clothes, not me - so let my clothes eat the food!' The story powerfully teaches that a person's true value lies in their character and qualities (गुण), not in their outward appearance. It introduces students to important Hindi vocabulary about respect, appearance, and values.",
+    "keyPoints": [
+      "A friend is treated differently based on his clothes - disrespected in simple clothes, honoured in fine clothes",
+      "The friend teaches a lesson by putting food on his clothes: 'You respect my clothes, not me!'",
+      "True respect (सम्मान) should be for a person's character, not their appearance",
+      "Key vocabulary: पोशाक, सम्मान, अपमान, दिखावा, गुण, सादगी",
+      "Opposite words: सम्मान ↔ अपमान, सादा ↔ भड़कीला, सच्चा ↔ नकली",
+      "Cultural value: अतिथि देवो भव - every guest deserves equal respect"
+    ],
+    "learningObjectives": [
+      "Read and understand a moral story in Hindi about judging people by appearances",
+      "Learn vocabulary related to respect, appearance, and friendship",
+      "Understand and use opposite words (विलोम शब्द) in Hindi",
+      "Express opinions about the story using Hindi phrases like 'मेरे विचार में...'",
+      "Identify the moral of the story and relate it to real-life situations",
+      "Appreciate the Indian cultural value of treating all guests with equal respect"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn5_001",
+      "title": "Opposites Make Learning Fun (विलोम शब्द)",
+      "content": "This chapter is great for learning opposite words! Here are the key pairs: सम्मान (respect) ↔ अपमान (disrespect), सादा (simple) ↔ भड़कीला (flashy), सच्चा (true) ↔ नकली (fake), अंदर (inside) ↔ बाहर (outside), अमीर (rich) ↔ गरीब (poor). A helpful trick: many Hindi opposites are formed by changing the prefix. सम (good) becomes अप (bad): सम्मान → अपमान. Try making sentences using each pair to remember them better!",
+      "tags": ["vocabulary", "विलोम-शब्द", "opposites"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn5_002",
+      "title": "Express Your Opinion in Hindi",
+      "content": "After reading this story, practice sharing your thoughts using these Hindi phrases: मेरे विचार में... (In my opinion...), मुझे लगता है कि... (I think that...), मैं मानता/मानती हूँ कि... (I believe that...), यह कहानी सिखाती है कि... (This story teaches that...). Example: मेरे विचार में सच्ची दोस्ती कपड़ों पर नहीं, दिल पर निर्भर करती है। (In my opinion, true friendship depends on the heart, not on clothes.)",
+      "tags": ["speaking", "opinion", "expression"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn5_003",
+      "title": "Connect the Story to Real Life",
+      "content": "This story's lesson applies everywhere! Think about these questions: Have you ever seen someone treated differently because of how they looked? Have you ever judged someone before getting to know them? How do you feel when someone does not treat you fairly? Remember the Hindi saying: 'सूरत से नहीं, सीरत से पहचानो' (Know people by their character, not their face). Try to see the good in everyone, regardless of their appearance!",
+      "tags": ["values", "real-life", "reflection"],
+      "isPinned": false
+    }
+  ]
+}

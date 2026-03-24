@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn11_t4",
+  "topicId": "gr4_mn_11_4",
+  "topicName": "Folding, Cutting and Completing Figures",
+  "chapterId": "gr4_math_ncert_ch11",
+  "chapterName": "Fun with Symmetry",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1350,
+    "totalDurationDisplay": "22:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_11_1", "gr4_mn_11_2", "gr4_mn_11_3"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn11_v5",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Paper Folding and Symmetry | Completing Figures",
+      "description": "Learn to fold paper to find symmetry and complete symmetrical figures.",
+      "youtubeId": "RZp7BvQJnU8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RZp7BvQJnU8",
+      "thumbnailUrl": "https://img.youtube.com/vi/RZp7BvQJnU8/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 450000,
+      "tags": ["paper folding", "cutting", "completing figures", "symmetry"],
+      "learningObjectives": ["Fold paper and cut shapes to create symmetrical figures", "Predict what a folded-and-cut shape will look like when opened", "Complete half-drawn figures using symmetry"],
+      "keyConceptsCovered": ["Folding paper along the line of symmetry", "Cutting folded paper creates symmetrical shapes", "Completing the other half of a figure"],
+      "prerequisites": ["Line of symmetry", "Mirror images", "Symmetrical shapes"],
+      "followUpTopics": ["Advanced symmetry patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn11_v4",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Symmetrical Shapes | How Many Lines of Symmetry?",
+      "description": "Find lines of symmetry in different shapes like squares, rectangles, circles, and triangles.",
+      "youtubeId": "hFQi2m_4gww",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hFQi2m_4gww",
+      "thumbnailUrl": "https://img.youtube.com/vi/hFQi2m_4gww/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 700000,
+      "tags": ["symmetrical shapes", "lines of symmetry", "geometry"],
+      "learningObjectives": ["Use knowledge of symmetrical shapes to fold and cut correctly", "Predict outcomes of folding and cutting regular shapes", "Apply lines of symmetry to complete figures"],
+      "keyConceptsCovered": ["Using shape symmetry to plan folds and cuts", "Predicting cut-out shapes from folds", "Completing figures based on shape properties"],
+      "prerequisites": ["Understanding of symmetrical shapes"],
+      "followUpTopics": ["Creating symmetrical designs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn11_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Mirror Images and Reflections | Geometry",
+      "description": "Understand how mirror images work and how to draw reflections of shapes.",
+      "youtubeId": "Kf9KhwryQNE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kf9KhwryQNE",
+      "thumbnailUrl": "https://img.youtube.com/vi/Kf9KhwryQNE/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 600000,
+      "tags": ["mirror images", "reflection", "symmetry"],
+      "learningObjectives": ["Use mirror image concept to complete figures", "Draw the missing half of a symmetrical figure", "Verify completed figures using reflection"],
+      "keyConceptsCovered": ["The missing half is the mirror image of the given half", "Using the line of symmetry as the mirror line", "Checking completed figures with a mirror"],
+      "prerequisites": ["Understanding of mirror images"],
+      "followUpTopics": ["Advanced symmetry patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch11_halves_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Equal Halves and Parts | Folding Shapes in Half",
+      "description": "Learn what it means to divide a shape into two equal halves. When both halves match perfectly, that is symmetry!",
+      "youtubeId": "pVa8fGLBVNM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pVa8fGLBVNM",
+      "thumbnailUrl": "https://img.youtube.com/vi/pVa8fGLBVNM/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["equal halves", "halves", "parts", "folding"],
+      "learningObjectives": ["Practise folding to verify completed figures", "Use equal halves concept in paper cutting activities", "Build confidence with hands-on symmetry tasks"],
+      "keyConceptsCovered": ["Folding verifies if the figure is completed correctly", "Equal halves from folding and cutting", "Hands-on symmetry practice"],
+      "prerequisites": ["Basic shape recognition"],
+      "followUpTopics": ["Creating your own symmetrical designs"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn11_v5", "gr4_mn11_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 810,
+      "estimatedTimeDisplay": "13:30",
+      "rationale": "Core folding and completing concepts for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn11_v5", "gr4_mn11_v4", "gr4_mn11_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1140,
+      "estimatedTimeDisplay": "19:00",
+      "rationale": "Complete coverage of folding, cutting, and completing with mirror image support"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch11_halves_v1", "gr4_mn11_v5", "gr4_mn11_v4", "gr4_mn11_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1440,
+      "estimatedTimeDisplay": "24:00",
+      "rationale": "Halves review first, then all folding and completing content"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn11_v5", "gr4_mn11_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 810,
+      "estimatedTimeDisplay": "13:30",
+      "rationale": "Essential folding and completing concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn11_v5",
+      "checkpointName": "Folding and Completing Figures Check",
+      "questions": [
+        {
+          "question": "Sita folds a piece of paper in half and cuts out a half-heart shape along the fold. When she opens the paper, what will she see?",
+          "options": ["A half-heart", "A full heart shape", "A circle", "A square"],
+          "correctAnswer": 1,
+          "explanation": "When you fold paper, cut a half-shape along the fold, and open it, you get the full symmetrical shape. A half-heart becomes a full heart!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "This is a hands-on topic! Have students fold paper and cut shapes. Ask them to predict what the opened shape will look like before they unfold. Give grid paper for completing half-drawn figures.",
+    "parentGuidance": "Do paper folding and cutting activities with your child. Fold paper in half, cut out shapes, and open to see the symmetrical result. Try drawing half a butterfly and asking your child to complete the other half.",
+    "studentGuidance": "This is the most fun part! Fold paper, cut shapes, and open them up to see beautiful symmetrical designs. Try making snowflakes by folding paper into quarters and cutting!"
+  }
+}

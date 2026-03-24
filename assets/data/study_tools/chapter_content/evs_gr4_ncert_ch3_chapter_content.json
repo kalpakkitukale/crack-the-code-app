@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch3",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en3",
+    "title": "A Day with Nandu",
+    "content": "This chapter from the NCERT Looking Around textbook follows Nandu, a baby elephant, through a day in the forest. Students learn fascinating facts about elephants - the largest land animals on Earth. The chapter covers their body features (trunk, tusks, big ears), their behaviour (living in herds led by a matriarch), their diet (herbivores eating 150-200 kg of food daily), and their habitat (forests and grasslands). It also addresses the serious issue of habitat loss and why we must protect elephants and their forest homes.",
+    "keyPoints": [
+      "Elephants are the largest land animals, weighing up to 6,000 kg",
+      "Baby elephants are called calves and stay close to their mothers for years",
+      "Elephants live in herds led by the oldest female called the matriarch",
+      "Their trunk has 40,000 muscles and is used for breathing, eating, and drinking",
+      "Elephants are herbivores eating 150-200 kg of food daily",
+      "Elephants are endangered due to deforestation and poaching"
+    ],
+    "learningObjectives": [
+      "Describe the key body features of an elephant and their functions",
+      "Explain how elephants live in herds and communicate",
+      "Understand what elephants eat and how much food and water they need",
+      "Identify threats to elephants and their forest habitat",
+      "Appreciate the importance of wildlife conservation"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en3_001",
+      "title": "Elephant Body Comparison",
+      "content": "Compare the elephant's features with your own body. An elephant drinks 200 litres of water daily - how much do you drink? An elephant eats 200 kg of food - how much do you eat? An elephant's skin is 2.5 cm thick - feel your own skin. Making these comparisons helps you understand just how amazing elephants are!",
+      "tags": ["activity", "comparison"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en3_002",
+      "title": "Draw Nandu's Day",
+      "content": "Draw a comic strip showing a day in Nandu's life. Panel 1: Nandu wakes up with the herd. Panel 2: Nandu eats leaves and grass. Panel 3: Nandu plays in the river. Panel 4: Nandu walks with the matriarch. Panel 5: Nandu sleeps near his mother. Add speech bubbles showing elephant sounds!",
+      "tags": ["creative", "drawing"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en3_003",
+      "title": "Protecting Elephants",
+      "content": "India has many elephant reserves and national parks where elephants are protected. Some famous ones are Jim Corbett National Park (Uttarakhand), Periyar National Park (Kerala), and Kaziranga National Park (Assam). Learn about Project Elephant, started by the Indian government in 1992 to protect elephants and their habitats.",
+      "tags": ["conservation", "real-world"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "assessmentId": "readiness_gr4_m2_t4",
+  "topicId": "gr4_m_2_4",
+  "topicName": "Subtraction with Regrouping (Borrowing)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning subtraction with regrouping/borrowing for 4-5 digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "regrouping_2digit_sub",
+      "conceptName": "Subtraction with regrouping in 2-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_subregroup2_v1", "prereq_subregroup2_v2"]
+    },
+    {
+      "conceptId": "place_value_trades_sub",
+      "conceptName": "Understanding trading 1 ten for 10 ones, etc.",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_trades_sub_v1"]
+    },
+    {
+      "conceptId": "subtraction_facts_from_teens",
+      "conceptName": "Subtraction from teen numbers (11-20)",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_subfacts_teens_v1"]
+    },
+    {
+      "conceptId": "basic_4digit_sub",
+      "conceptName": "Basic 4-digit subtraction without regrouping",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_4digit_sub_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "regrouping_2digit_sub",
+
+      "question": "What is 52 - 28?",
+
+      "options": ["24", "34", "26", "224"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "24",
+
+      "explanation": "Can't subtract 8 from 2, so regroup: borrow 1 ten from 5 tens → 4 tens and 12 ones. Now: 12-8=4, 4-2=2 → 24.",
+
+      "tags": ["subtraction", "regrouping", "2-digit", "borrowing"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Subtracted 2 from 8 instead of regrouping",
+          "conceptGap": "Understanding regrouping/borrowing",
+          "remediation": "Review borrowing in subtraction"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "regrouping_2digit_sub",
+
+      "question": "What is 73 - 48?",
+
+      "options": ["25", "35", "24", "715"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "25",
+
+      "explanation": "Ones: Can't do 3-8, so borrow: 13-8=5. Tens: 6-4=2 → 25.",
+
+      "tags": ["subtraction", "regrouping", "2-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Wrote both digits instead of borrowing",
+          "conceptGap": "Regrouping procedure",
+          "remediation": "Practice proper borrowing method"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "regrouping_2digit_sub",
+
+      "question": "True or False: When subtracting 5 from 13, we get 8. If we need to subtract 8 from 3, we must first borrow (regroup) to make the 3 larger.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Can't subtract 8 from 3. Must borrow 1 ten to make it 13, then 13-8=8.",
+
+      "tags": ["regrouping", "borrowing", "procedure"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't understand borrowing mechanism",
+          "conceptGap": "Regrouping concept",
+          "remediation": "Review what borrowing means"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_trades_sub",
+
+      "question": "1 ten = ? ones",
+
+      "options": ["10 ones", "1 one", "100 ones", "2 ones"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "10 ones",
+
+      "explanation": "1 ten = 10 ones. This is the basis of regrouping in subtraction: we trade 1 of a higher place for 10 of the next lower place.",
+
+      "tags": ["place value", "regrouping", "trading", "equivalence"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Confused the place value relationship",
+          "conceptGap": "Place value equivalence",
+          "remediation": "Review place value trading"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_trades_sub",
+
+      "question": "If you have 3 tens and 4 ones, and you borrow 1 ten, what do you have now?",
+
+      "options": ["2 tens and 14 ones", "2 tens and 4 ones", "3 tens and 14 ones", "4 tens and 14 ones"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "2 tens and 14 ones",
+
+      "explanation": "Borrowing 1 ten from 3 tens leaves 2 tens. That 1 ten = 10 ones, so 4 ones + 10 ones = 14 ones.",
+
+      "tags": ["regrouping", "borrowing", "place value"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Forgot to subtract the borrowed ten",
+          "conceptGap": "Understanding borrowing process",
+          "remediation": "Practice with base-10 blocks"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "true_false",
+      "difficulty": "intermediate",
+      "conceptTested": "place_value_trades_sub",
+
+      "question": "True or False: 1 hundred = 10 tens.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! 1 hundred = 100 = 10 tens. When borrowing, 1 hundred becomes 10 tens.",
+
+      "tags": ["place value", "equivalence", "regrouping"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't know place value relationships",
+          "conceptGap": "Place value system understanding",
+          "remediation": "Review place value equivalences"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_facts_from_teens",
+
+      "question": "What is 16 - 9?",
+
+      "options": ["6", "7", "8", "5"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "7",
+
+      "explanation": "16 - 9 = 7. Knowing these facts is essential for regrouping in subtraction.",
+
+      "tags": ["subtraction facts", "teen numbers", "mental math"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Calculation error",
+          "conceptGap": "Subtraction fact fluency",
+          "remediation": "Practice subtraction from teen numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_facts_from_teens",
+
+      "question": "What is 14 - 6?",
+
+      "options": ["7", "8", "9", "6"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "8",
+
+      "explanation": "14 - 6 = 8. These facts are used frequently in column subtraction with regrouping.",
+
+      "tags": ["subtraction facts", "mental math"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Off by 1",
+          "conceptGap": "Subtraction fact accuracy",
+          "remediation": "Review and practice subtraction facts"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "basic_4digit_sub",
+
+      "question": "What is 7,000 - 2,000?",
+
+      "options": ["5,000", "6,000", "4,000", "50,000"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "5,000",
+
+      "explanation": "Subtract thousands: 7-2=5 thousands = 5,000.",
+
+      "tags": ["subtraction", "4-digit", "thousands"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Added extra zero",
+          "conceptGap": "Place value in subtraction",
+          "remediation": "Review place value subtraction"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "basic_4digit_sub",
+
+      "question": "What is 6,789 - 2,345 (without regrouping)?",
+
+      "options": ["4,444", "4,344", "4,544", "4,434"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "4,444",
+
+      "explanation": "Subtract place by place: 9-5=4, 8-4=4, 7-3=4, 6-2=4 → 4,444.",
+
+      "tags": ["subtraction", "4-digit", "column subtraction"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Error in hundreds place",
+          "conceptGap": "Column subtraction accuracy",
+          "remediation": "Practice 4-digit subtraction carefully"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You understand regrouping with 2-digit numbers. You're ready to learn regrouping with 4-5 digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand regrouping basics. Let's extend to larger numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in regrouping or place value trades. Watch review videos before learning larger number regrouping.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review regrouping basics and place value trades first. We'll build your foundation.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you master regrouping in subtraction.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn regrouping with 4-5 digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

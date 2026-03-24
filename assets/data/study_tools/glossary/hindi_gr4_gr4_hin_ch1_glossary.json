@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_h1_001",
+      "term": "Varnamala (वर्णमाला)",
+      "definition": "The Hindi alphabet system. 'Varna' means letter and 'Mala' means garland or chain. So Varnamala is the complete chain of all Hindi letters, including both Swar and Vyanjan.",
+      "pronunciation": "VAR-na-MAA-laa",
+      "exampleUsage": "Hindi ki Varnamala mein Swar aur Vyanjan dono hote hain (The Hindi Varnamala has both vowels and consonants).",
+      "difficulty": "easy",
+      "relatedTerms": ["Swar", "Vyanjan", "Varna"]
+    },
+    {
+      "id": "gls_gr4_h1_002",
+      "term": "Swar (स्वर)",
+      "definition": "The vowels of Hindi. These are sounds that can be spoken freely on their own without the help of any consonant. There are 11 Swar in Hindi: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ.",
+      "pronunciation": "SVAR",
+      "exampleUsage": "अ, आ, इ, ई, उ, ऊ yeh sab Swar hain (These are all vowels).",
+      "difficulty": "easy",
+      "relatedTerms": ["Varnamala", "Matra", "vowel"]
+    },
+    {
+      "id": "gls_gr4_h1_003",
+      "term": "Vyanjan (व्यंजन)",
+      "definition": "The consonants of Hindi. These are letters that need the support of a Swar to be spoken. There are 33 main Vyanjan in Hindi, from क to ह.",
+      "pronunciation": "VYAN-jan",
+      "exampleUsage": "क, ख, ग, घ yeh sab Vyanjan hain (These are all consonants).",
+      "difficulty": "easy",
+      "relatedTerms": ["Varnamala", "Swar", "Varg", "consonant"]
+    },
+    {
+      "id": "gls_gr4_h1_004",
+      "term": "Matra (मात्रा)",
+      "definition": "The symbol or sign of a Swar that is attached to a Vyanjan when they combine. Each Swar has its own Matra sign. For example, the Matra of आ is ा, of इ is ि, and of उ is ु.",
+      "pronunciation": "MAA-traa",
+      "exampleUsage": "का mein आ ki Matra lagi hai (In का, the Matra of आ is used).",
+      "difficulty": "medium",
+      "relatedTerms": ["Swar", "Vyanjan", "vowel sign"]
+    },
+    {
+      "id": "gls_gr4_h1_005",
+      "term": "Varg (वर्ग)",
+      "definition": "A group of five consonants in Hindi that are produced from the same part of the mouth. There are five Varg: Ka-varg, Cha-varg, Ta-varg (retroflex), Ta-varg (dental), and Pa-varg.",
+      "pronunciation": "VARG",
+      "exampleUsage": "Ka-varg mein क, ख, ग, घ, ङ aate hain (Ka-varg contains the letters Ka, Kha, Ga, Gha, Nga).",
+      "difficulty": "medium",
+      "relatedTerms": ["Vyanjan", "Ka-varg", "consonant group"]
+    },
+    {
+      "id": "gls_gr4_h1_006",
+      "term": "Hrasva Swar (ह्रस्व स्वर)",
+      "definition": "Short vowels in Hindi. These are Swar that take less time to say. The Hrasva Swar are: अ, इ, उ, ऋ. They are also called Chhote Swar.",
+      "pronunciation": "HRAS-va SVAR",
+      "exampleUsage": "अ ek Hrasva Swar hai kyunki ise bolne mein kam samay lagta hai (अ is a short vowel because it takes less time to say).",
+      "difficulty": "medium",
+      "relatedTerms": ["Deergha Swar", "Swar", "short vowel"]
+    },
+    {
+      "id": "gls_gr4_h1_007",
+      "term": "Deergha Swar (दीर्घ स्वर)",
+      "definition": "Long vowels in Hindi. These are Swar that take more time to say compared to Hrasva Swar. The Deergha Swar are: आ, ई, ऊ, ए, ऐ, ओ, औ. They are also called Bade Swar.",
+      "pronunciation": "DEER-gha SVAR",
+      "exampleUsage": "आ ek Deergha Swar hai kyunki ise bolne mein zyada samay lagta hai (आ is a long vowel because it takes more time to say).",
+      "difficulty": "medium",
+      "relatedTerms": ["Hrasva Swar", "Swar", "long vowel"]
+    },
+    {
+      "id": "gls_gr4_h1_008",
+      "term": "Anunasik (अनुनासिक)",
+      "definition": "A nasal sound mark in Hindi, shown by the Chandrabindu (ँ) symbol placed above a letter. It means the sound comes partly from the nose. For example, आँख (eye), चाँद (moon).",
+      "pronunciation": "ANU-naa-sik",
+      "exampleUsage": "चाँद mein Anunasik ka chinha (ँ) laga hai (The word Chaand has the Anunasik mark).",
+      "difficulty": "medium",
+      "relatedTerms": ["Chandrabindu", "Anusvara", "nasal sound"]
+    },
+    {
+      "id": "gls_gr4_h1_009",
+      "term": "Halant (हलन्त)",
+      "definition": "A small slanting line (्) placed below a consonant to show that the consonant has no vowel sound with it. For example, in the word विद्या, the द has a Halant showing it joins directly with य without any vowel in between.",
+      "pronunciation": "HA-lant",
+      "exampleUsage": "क् mein Halant laga hai, iska matlab क ka Swar hat gaya hai (क् has a Halant, meaning the vowel sound of क is removed).",
+      "difficulty": "hard",
+      "relatedTerms": ["Vyanjan", "Sanyukt Akshar", "pure consonant"]
+    },
+    {
+      "id": "gls_gr4_h1_010",
+      "term": "Devanagari (देवनागरी)",
+      "definition": "The script (writing system) used to write Hindi. It is written from left to right and has a horizontal line (Shirorekha) on top of each letter. Hindi, Sanskrit, and Marathi all use the Devanagari script.",
+      "pronunciation": "DEV-naa-ga-ree",
+      "exampleUsage": "Hindi Devanagari lipi mein likhi jaati hai (Hindi is written in the Devanagari script).",
+      "difficulty": "easy",
+      "relatedTerms": ["Lipi", "Shirorekha", "script"]
+    }
+  ]
+}

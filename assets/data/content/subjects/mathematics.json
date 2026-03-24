@@ -1,0 +1,422 @@
+{
+  "id": "mathematics",
+  "name": "Mathematics",
+  "icon": "assets/icons/mathematics.png",
+  "color": "#2196F3",
+  "boardId": "cbse",
+  "classId": "class_12",
+  "streamId": "science_pcm",
+  "totalChapters": 13,
+  "chapters": [
+    {
+      "id": "ch1_relations_functions",
+      "number": 1,
+      "name": "Relations and Functions",
+      "description": "Types of relations, types of functions, composition and invertible functions",
+      "topics": [
+        {
+          "id": "topic_1_1",
+          "name": "Types of Relations",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_1_2",
+          "name": "Types of Functions",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_1_3",
+          "name": "Composition of Functions",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_1_4",
+          "name": "Inverse Functions",
+          "difficulty": "advanced",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_1_5",
+          "name": "Binary Operations",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch2_inverse_trig",
+      "number": 2,
+      "name": "Inverse Trigonometric Functions",
+      "description": "Domain, range, properties and graphs of inverse trigonometric functions",
+      "topics": [
+        {
+          "id": "topic_2_1",
+          "name": "Basic Concepts",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_2_2",
+          "name": "Properties",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_2_3",
+          "name": "Graphs and Applications",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch3_matrices",
+      "number": 3,
+      "name": "Matrices",
+      "description": "Types, operations, transpose, symmetric matrices, elementary operations, and inverses",
+      "topics": [
+        {
+          "id": "topic_3_1",
+          "name": "Introduction to Matrices",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_3_2",
+          "name": "Operations on Matrices",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_3_3",
+          "name": "Transpose and Symmetric Matrices",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_3_4",
+          "name": "Invertible Matrices",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch4_determinants",
+      "number": 4,
+      "name": "Determinants",
+      "description": "Determinants of square matrices, properties, cofactors, and applications",
+      "topics": [
+        {
+          "id": "topic_4_1",
+          "name": "Introduction to Determinants",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_4_2",
+          "name": "Properties of Determinants",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_4_3",
+          "name": "Cofactors and Adjoint",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_4_4",
+          "name": "Applications",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch5_continuity",
+      "number": 5,
+      "name": "Continuity and Differentiability",
+      "description": "Continuity, differentiability, derivatives, chain rule, and mean value theorem",
+      "topics": [
+        {
+          "id": "topic_5_1",
+          "name": "Continuity",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_5_2",
+          "name": "Differentiability",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_5_3",
+          "name": "Chain Rule and Derivatives",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_5_4",
+          "name": "Rolle's and Mean Value Theorem",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch6_applications_derivatives",
+      "number": 6,
+      "name": "Applications of Derivatives",
+      "description": "Rate of change, tangent and normal, increasing and decreasing functions, maxima and minima",
+      "topics": [
+        {
+          "id": "topic_6_1",
+          "name": "Rate of Change",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_6_2",
+          "name": "Tangent and Normal",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_6_3",
+          "name": "Increasing and Decreasing Functions",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_6_4",
+          "name": "Maxima and Minima",
+          "difficulty": "advanced",
+          "videoCount": 16
+        }
+      ]
+    },
+    {
+      "id": "ch7_integrals",
+      "number": 7,
+      "name": "Integrals",
+      "description": "Integration as anti-derivative, methods of integration, and definite integrals",
+      "topics": [
+        {
+          "id": "topic_7_1",
+          "name": "Introduction to Integration",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_7_2",
+          "name": "Methods of Integration",
+          "difficulty": "intermediate",
+          "videoCount": 18
+        },
+        {
+          "id": "topic_7_3",
+          "name": "Integration by Parts",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_7_4",
+          "name": "Definite Integrals",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ch8_applications_integrals",
+      "number": 8,
+      "name": "Applications of Integrals",
+      "description": "Area under curves, area between curves, and applications",
+      "topics": [
+        {
+          "id": "topic_8_1",
+          "name": "Area Under Curves",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_8_2",
+          "name": "Area Between Curves",
+          "difficulty": "advanced",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_8_3",
+          "name": "Applications",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch9_differential_equations",
+      "number": 9,
+      "name": "Differential Equations",
+      "description": "Basic concepts, general and particular solutions, formation and solutions of differential equations",
+      "topics": [
+        {
+          "id": "topic_9_1",
+          "name": "Introduction",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_9_2",
+          "name": "Formation of Differential Equations",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_9_3",
+          "name": "Variable Separable",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_9_4",
+          "name": "Linear Differential Equations",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ch10_vectors",
+      "number": 10,
+      "name": "Vector Algebra",
+      "description": "Vectors and scalars, direction cosines, scalar and vector products",
+      "topics": [
+        {
+          "id": "topic_10_1",
+          "name": "Introduction to Vectors",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_10_2",
+          "name": "Direction Cosines",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_10_3",
+          "name": "Scalar Product",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_10_4",
+          "name": "Vector Product",
+          "difficulty": "advanced",
+          "videoCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ch11_3d_geometry",
+      "number": 11,
+      "name": "Three Dimensional Geometry",
+      "description": "Direction cosines and ratios, equations of lines and planes",
+      "topics": [
+        {
+          "id": "topic_11_1",
+          "name": "Direction Cosines and Ratios",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_11_2",
+          "name": "Equation of Line in Space",
+          "difficulty": "intermediate",
+          "videoCount": 14
+        },
+        {
+          "id": "topic_11_3",
+          "name": "Equation of Plane",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_11_4",
+          "name": "Distance and Angle",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch12_linear_programming",
+      "number": 12,
+      "name": "Linear Programming",
+      "description": "Introduction, related terminology, graphical method of solution",
+      "topics": [
+        {
+          "id": "topic_12_1",
+          "name": "Introduction to LPP",
+          "difficulty": "basic",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_12_2",
+          "name": "Graphical Method",
+          "difficulty": "intermediate",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_12_3",
+          "name": "Mathematical Formulation",
+          "difficulty": "advanced",
+          "videoCount": 10
+        }
+      ]
+    },
+    {
+      "id": "ch13_probability",
+      "number": 13,
+      "name": "Probability",
+      "description": "Conditional probability, multiplication theorem, independent events, Bayes' theorem",
+      "topics": [
+        {
+          "id": "topic_13_1",
+          "name": "Conditional Probability",
+          "difficulty": "basic",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_13_2",
+          "name": "Multiplication Theorem",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_13_3",
+          "name": "Independent Events",
+          "difficulty": "intermediate",
+          "videoCount": 10
+        },
+        {
+          "id": "topic_13_4",
+          "name": "Bayes' Theorem",
+          "difficulty": "advanced",
+          "videoCount": 12
+        },
+        {
+          "id": "topic_13_5",
+          "name": "Random Variables",
+          "difficulty": "advanced",
+          "videoCount": 14
+        }
+      ]
+    }
+  ]
+}

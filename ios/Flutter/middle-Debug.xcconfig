@@ -1,0 +1,13 @@
+// Middle flavor Debug configuration
+#include "Debug.xcconfig"
+
+// App Identity
+PRODUCT_BUNDLE_IDENTIFIER=com.streamshaala.streamshaala.middle
+PRODUCT_NAME=StreamShaala
+DISPLAY_NAME=StreamShaala
+
+// App Icon
+ASSETCATALOG_COMPILER_APPICON_NAME=AppIcon-middle
+
+// Dart entry point
+FLUTTER_TARGET=lib/main_middle.dart

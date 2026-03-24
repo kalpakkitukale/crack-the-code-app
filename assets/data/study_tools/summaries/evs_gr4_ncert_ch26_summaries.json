@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch26",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en26_v1",
+      "videoId": "gr4_en26_v1",
+      "content": "This lesson introduces the Indian Armed Forces and the important role they play in protecting the country. Students learn about the three branches - Army (land), Navy (sea), and Air Force (sky) - and how each works to keep India safe. The lesson also covers what soldiers do every day, from guarding borders to training and staying physically fit.",
+      "keyPoints": [
+        "India has three armed forces: Army, Navy, and Air Force",
+        "The Army protects on land, Navy at sea, and Air Force in the sky",
+        "Soldiers guard borders, train daily, and stay ready for emergencies",
+        "The armed forces work together to keep India safe"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en26_v2",
+      "videoId": "gr4_en26_v2",
+      "content": "This lesson tells the inspiring story of Wahida and other women who have joined India's armed forces. Students learn how women broke stereotypes to become officers, pilots, and leaders in the military. The lesson highlights the qualities needed to serve - courage, discipline, teamwork, and patriotism - and shows that these qualities belong to everyone regardless of gender.",
+      "keyPoints": [
+        "Wahida was among the first women officers in the Indian Army",
+        "Women have broken stereotypes by excelling in the armed forces",
+        "Courage, discipline, and patriotism are needed to serve in defence",
+        "Gender does not determine a person's ability to serve the nation"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en26_v3",
+      "videoId": "gr4_en26_v3",
+      "content": "This lesson explores the many roles the armed forces play beyond fighting wars. Students learn how the military helps during natural disasters like floods, earthquakes, and cyclones by rescuing people, delivering food and medicines, and setting up relief camps. The lesson also covers how the armed forces participate in Republic Day parades and international peacekeeping missions.",
+      "keyPoints": [
+        "Armed forces rescue people during floods, earthquakes, and cyclones",
+        "They deliver food, water, and medicines to disaster-affected areas",
+        "Republic Day parade showcases India's defence strength on 26th January",
+        "Indian forces also serve in UN peacekeeping missions around the world"
+      ],
+      "source": "manual"
+    }
+  ]
+}

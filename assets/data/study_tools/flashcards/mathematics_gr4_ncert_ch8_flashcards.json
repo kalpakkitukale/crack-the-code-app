@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch8",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn8_weight",
+      "name": "Measuring Weight",
+      "description": "Learn about grams, kilograms, and how we weigh things",
+      "topicId": "gr4_mn_8_1",
+      "chapterId": "gr4_math_ncert_ch8",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn8_001",
+          "front": "What units do we use to measure the weight of objects?",
+          "back": "We use grams (g) for light objects and kilograms (kg) for heavy objects.\n\nA small packet of chips is measured in grams. A bag of rice is measured in kilograms.",
+          "hint": "Think about what is written on packets of food at a shop",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn8_002",
+          "front": "How many grams make 1 kilogram?",
+          "back": "1 kilogram = 1000 grams\n\n'Kilo' means 1000, so a kilogram is 1000 grams.",
+          "hint": "It is a big number - think of 'kilo' meaning thousand",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn8_003",
+          "front": "Which is heavier: 1 kg of cotton or 1 kg of iron?",
+          "back": "They weigh the same! Both are 1 kg. The cotton will take up much more space, but the weight is equal.",
+          "hint": "Focus on the number before 'kg', not what the object is",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn8_004",
+          "front": "What tool do we use to weigh things?",
+          "back": "We use a weighing balance (tarazu) or a weighing scale. Shopkeepers use balances to weigh vegetables and fruits. Digital scales show the weight in numbers.",
+          "hint": "Think of what the vegetable seller uses at the market",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn8_005",
+          "front": "A watermelon weighs 3 kg 500 g. How many grams is that in total?",
+          "back": "3500 grams\n\n3 kg = 3000 g\n3000 g + 500 g = 3500 g",
+          "hint": "First convert the kilograms to grams, then add",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn8_capacity",
+      "name": "Measuring Capacity",
+      "description": "Learn about millilitres, litres, and how we measure liquids",
+      "topicId": "gr4_mn_8_2",
+      "chapterId": "gr4_math_ncert_ch8",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn8_006",
+          "front": "What is capacity?",
+          "back": "Capacity is the amount of liquid a container can hold.\n\nFor example, a bucket can hold more water than a glass. The bucket has a greater capacity.",
+          "hint": "Think about how much water fits inside a container",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn8_007",
+          "front": "What units do we use to measure capacity?",
+          "back": "We use millilitres (mL) for small amounts and litres (L) for large amounts.\n\nA spoon of medicine is in mL. A bottle of water is in L.",
+          "hint": "Look at a water bottle label - what unit does it show?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn8_008",
+          "front": "How many millilitres make 1 litre?",
+          "back": "1 litre = 1000 millilitres\n\nSo a 1-litre water bottle holds 1000 mL of water.",
+          "hint": "It is the same number as grams in a kilogram",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn8_009",
+          "front": "A juice box holds 200 mL. How many juice boxes fill a 1-litre jug?",
+          "back": "5 juice boxes\n\n1 litre = 1000 mL\n1000 ÷ 200 = 5",
+          "hint": "How many times does 200 fit into 1000?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn8_010",
+          "front": "Which holds more: a teaspoon or a bucket?",
+          "back": "A bucket holds much more! A teaspoon holds about 5 mL. A bucket holds about 15 to 20 litres. That is thousands of times more!",
+          "hint": "Compare the sizes of the two containers",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn8_conversions",
+      "name": "Converting and Comparing",
+      "description": "Learn to convert between units and solve word problems on weight and capacity",
+      "topicId": "gr4_mn_8_3",
+      "chapterId": "gr4_math_ncert_ch8",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn8_011",
+          "front": "How do you convert kilograms to grams?",
+          "back": "Multiply by 1000.\n\n2 kg = 2 x 1000 = 2000 g\n5 kg = 5 x 1000 = 5000 g",
+          "hint": "Each kilogram has 1000 grams inside it",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn8_012",
+          "front": "How do you convert litres to millilitres?",
+          "back": "Multiply by 1000.\n\n3 L = 3 x 1000 = 3000 mL\n7 L = 7 x 1000 = 7000 mL",
+          "hint": "Same rule as kg to g - multiply by 1000",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn8_013",
+          "front": "Rani bought 2 kg 250 g of apples and 1 kg 750 g of oranges. What is the total weight?",
+          "back": "4 kg\n\n2 kg 250 g + 1 kg 750 g\n= 3 kg + 1000 g\n= 3 kg + 1 kg\n= 4 kg",
+          "hint": "Add the kg parts together and the g parts together. If grams reach 1000, convert to 1 kg",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn8_014",
+          "front": "A bottle has 1 L 500 mL of milk. You pour out 750 mL. How much is left?",
+          "back": "750 mL\n\n1 L 500 mL = 1500 mL\n1500 mL - 750 mL = 750 mL",
+          "hint": "First convert everything to millilitres, then subtract",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn8_015",
+          "front": "Which is heavier: 2500 g or 2 kg?",
+          "back": "2500 g is heavier.\n\n2 kg = 2000 g\n2500 g > 2000 g\n\nSo 2500 g is 500 g more than 2 kg.",
+          "hint": "Convert to the same unit before comparing",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch5",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en5_001",
+      "videoId": "gr4_en5_v1",
+      "question": "How many bees live in one beehive?",
+      "answer": "A single beehive can have 20,000 to 60,000 bees! Most of them are worker bees (females). There is only one queen bee, and a few hundred drone bees (males). All these bees work together like a big, busy family.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en5_002",
+      "videoId": "gr4_en5_v1",
+      "question": "What is the difference between a queen bee, worker bee, and drone?",
+      "answer": "The Queen Bee is the largest bee and her only job is to lay eggs (up to 2,000 per day). Worker Bees are smaller females who do everything - collect nectar, make honey, build the comb, feed babies, and guard the hive. Drone Bees are males who do not collect food or make honey; their job is to help the queen.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en5_003",
+      "videoId": "gr4_en5_v2",
+      "question": "How do bees make honey?",
+      "answer": "Bees visit flowers and suck up nectar (a sweet liquid) with their long tongue. They carry it in a special stomach to the hive. Other bees chew the nectar and store it in wax cells. Then they fan it with their wings to remove water, turning it into thick, golden honey. The cells are sealed with a wax cap to keep the honey fresh!",
+      "status": "answered",
+      "upvotes": 28
+    },
+    {
+      "id": "faq_gr4_en5_004",
+      "videoId": "gr4_en5_v2",
+      "question": "How many flowers does a bee visit to make honey?",
+      "answer": "To make just 1 kilogram of honey, bees must visit about 40 lakh (4 million) flowers! A single bee visits 50 to 100 flowers during one trip. In its entire lifetime (about 6 weeks), one worker bee makes only about one-twelfth of a teaspoon of honey. That is why honey is so precious!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en5_005",
+      "videoId": "gr4_en5_v3",
+      "question": "What is pollination and why are bees important for it?",
+      "answer": "Pollination is when pollen (yellow powder) is carried from one flower to another, helping plants make fruits and seeds. When bees land on flowers to drink nectar, pollen sticks to their hairy bodies and gets carried to the next flower. About one-third of the food we eat depends on bee pollination!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en5_006",
+      "videoId": "gr4_en5_v3",
+      "question": "What is the waggle dance?",
+      "answer": "The waggle dance is a special figure-eight dance that a worker bee does inside the hive to tell other bees where she found good flowers. The direction of the dance shows which way to fly, and the length of the waggle part tells how far away the flowers are. It is like a bee's way of giving map directions!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en5_007",
+      "videoId": "gr4_en5_v1",
+      "question": "Why do bees sting and does the bee die after stinging?",
+      "answer": "Bees sting only to protect themselves or their hive from danger. Yes, a honeybee dies after stinging because its stinger has tiny hooks that get stuck in the skin, and when the bee pulls away, it loses part of its body. That is why bees sting only as a last resort. If you stay calm near bees, they usually will not sting you.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en5_008",
+      "videoId": "gr4_en5_v4",
+      "question": "What is beekeeping and how is it done?",
+      "answer": "Beekeeping (also called apiculture) is raising bees to collect honey and beeswax. Beekeepers set up special wooden boxes with frames inside where bees build their honeycomb. The beekeeper wears protective clothing and uses a smoker to calm the bees before carefully removing frames full of honey. Many families in rural India earn good income through beekeeping.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en5_009",
+      "videoId": "gr4_en5_v4",
+      "question": "What are the health benefits of honey?",
+      "answer": "Honey is a natural sweetener that is healthier than sugar. It gives quick energy, soothes sore throats and coughs (mix with warm water and lemon), helps heal small cuts and burns (it fights germs), and contains vitamins and minerals. Honey never spoils - scientists have found edible honey in ancient Egyptian tombs that is thousands of years old!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en5_010",
+      "videoId": "gr4_en5_v3",
+      "question": "What would happen if there were no bees?",
+      "answer": "Without bees, many plants would not get pollinated and could not produce fruits or seeds. We would lose foods like apples, almonds, mangoes, cucumbers, watermelons, and many others. Animals that eat these fruits would also be affected. The whole food chain would be disrupted! That is why protecting bees is so important for everyone.",
+      "status": "answered",
+      "upvotes": 26
+    }
+  ]
+}

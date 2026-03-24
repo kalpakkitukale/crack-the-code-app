@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch24",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_evn24_v1",
+      "videoId": "gr4_evn24_v1",
+      "content": "This lesson introduces students to the concept of working abroad. Students learn that many Indians leave their homes and families to work in other countries to earn better wages and support their families. The lesson discusses common reasons for going abroad, including lack of local jobs and the desire to provide better education and living conditions for their children.",
+      "keyPoints": [
+        "Many Indians go abroad to find better job opportunities",
+        "Workers send money (remittances) back to support their families",
+        "Going abroad requires a passport and visa",
+        "Workers go to Gulf countries, USA, UK, and other nations"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn24_v2",
+      "videoId": "gr4_evn24_v2",
+      "content": "This lesson explores the challenges workers face when living and working abroad. Students learn about homesickness, language barriers, different food and weather, long working hours, and being away during festivals and family occasions. The lesson helps students develop empathy for people who sacrifice personal comfort for their family's wellbeing.",
+      "keyPoints": [
+        "Workers miss their families and feel homesick abroad",
+        "Language and cultural differences make life challenging",
+        "Workers often work long hours in difficult conditions",
+        "Being away during festivals and family events is very hard"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn24_v3",
+      "videoId": "gr4_evn24_v3",
+      "content": "This lesson focuses on the families left behind when a member goes abroad for work. Students understand how the family dynamics change, with remaining members taking on more responsibilities. The lesson discusses how technology like phone calls and video calls helps families stay connected, compared to earlier times when people relied on letters.",
+      "keyPoints": [
+        "Families take on extra responsibilities when a member is abroad",
+        "Children may miss their parent during important milestones",
+        "Technology helps families stay connected across distances",
+        "Earlier, families could only communicate through letters"
+      ],
+      "source": "manual"
+    }
+  ]
+}

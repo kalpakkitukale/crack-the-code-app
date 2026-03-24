@@ -1,0 +1,290 @@
+{
+  "quiz": {
+    "id": "quiz_english_gr5",
+    "level": "subject",
+    "entityId": "english_gr5",
+    "title": "English Grade 5 - Complete Assessment",
+    "questionIds": [
+      "q_eng5_001",
+      "q_eng5_002",
+      "q_eng5_003",
+      "q_eng5_004",
+      "q_eng5_005",
+      "q_eng5_006",
+      "q_eng5_007",
+      "q_eng5_008",
+      "q_eng5_009",
+      "q_eng5_010",
+      "q_eng5_011",
+      "q_eng5_012"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_eng5_001",
+      "questionText": "Choose the sentence in past tense:",
+      "questionType": "mcq",
+      "options": [
+        "I play cricket.",
+        "I played cricket.",
+        "I will play cricket.",
+        "I am playing cricket."
+      ],
+      "correctAnswer": "B",
+      "explanation": "I played cricket is in past tense. It describes an action that already happened.",
+      "hints": [
+        "Something that already happened",
+        "Look for -ed ending"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["tenses", "past_tense"],
+      "topicIds": ["gr5_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_002",
+      "questionText": "Choose the sentence in future tense:",
+      "questionType": "mcq",
+      "options": [
+        "She writes a letter.",
+        "She wrote a letter.",
+        "She will write a letter.",
+        "She is writing a letter."
+      ],
+      "correctAnswer": "C",
+      "explanation": "She will write a letter is in future tense, using 'will' to show future action.",
+      "hints": [
+        "Something that hasn't happened yet",
+        "Uses 'will'"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["tenses", "future_tense"],
+      "topicIds": ["gr5_e_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_003",
+      "questionText": "Which is a preposition: 'The cat is _____ the table.'",
+      "questionType": "mcq",
+      "options": [
+        "under",
+        "run",
+        "quick",
+        "meow"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Under is a preposition showing the position of the cat relative to the table.",
+      "hints": [
+        "Shows position",
+        "Where the cat is"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["prepositions"],
+      "topicIds": ["gr5_e_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_004",
+      "questionText": "Which is a declarative sentence?",
+      "questionType": "mcq",
+      "options": [
+        "What is your name?",
+        "Go to your room!",
+        "The sky is blue.",
+        "How beautiful!"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The sky is blue is a declarative sentence. It makes a statement and ends with a period.",
+      "hints": [
+        "Makes a statement",
+        "Ends with period"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["sentences", "types"],
+      "topicIds": ["gr5_e_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_005",
+      "questionText": "Which punctuation mark ends a question?",
+      "questionType": "mcq",
+      "options": [
+        "Period (.)",
+        "Question mark (?)",
+        "Exclamation mark (!)",
+        "Comma (,)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A question mark (?) is used at the end of a sentence that asks a question.",
+      "hints": [
+        "For questions",
+        "Looks like a hook"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["punctuation"],
+      "topicIds": ["gr5_e_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_006",
+      "questionText": "Choose the adverb: 'She runs quickly.'",
+      "questionType": "mcq",
+      "options": [
+        "She",
+        "runs",
+        "quickly",
+        "None"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Quickly is an adverb. It describes how she runs. Adverbs often end in -ly.",
+      "hints": [
+        "Describes the verb",
+        "Ends in -ly"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["adverbs"],
+      "topicIds": ["gr5_e_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_007",
+      "questionText": "Which conjunction joins: 'I like tea _____ coffee.'",
+      "questionType": "mcq",
+      "options": [
+        "and",
+        "under",
+        "quickly",
+        "because"
+      ],
+      "correctAnswer": "A",
+      "explanation": "And is a conjunction that connects two similar ideas or items.",
+      "hints": [
+        "Joins two things",
+        "Simple joining word"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["conjunctions"],
+      "topicIds": ["gr5_e_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_008",
+      "questionText": "Change to past tense: 'She eats breakfast.'",
+      "questionType": "mcq",
+      "options": [
+        "She eating breakfast.",
+        "She will eat breakfast.",
+        "She ate breakfast.",
+        "She eats breakfast."
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ate is the past tense of eat. She ate breakfast describes a past action.",
+      "hints": [
+        "Already happened",
+        "Past form of eat"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["tenses", "past_tense"],
+      "topicIds": ["gr5_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_009",
+      "questionText": "What type of sentence is this: 'Stop!'",
+      "questionType": "mcq",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Stop! is an imperative sentence. It gives a command or instruction.",
+      "hints": [
+        "Gives a command",
+        "Telling someone what to do"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["sentences", "imperative"],
+      "topicIds": ["gr5_e_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_010",
+      "questionText": "Which shows possession correctly?",
+      "questionType": "mcq",
+      "options": [
+        "The dog's bone",
+        "The dogs bone",
+        "The dog bone's",
+        "The dogs' bone"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The dog's bone is correct. The apostrophe before 's' shows the bone belongs to one dog.",
+      "hints": [
+        "Apostrophe shows ownership",
+        "One dog"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["punctuation", "possession"],
+      "topicIds": ["gr5_e_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_011",
+      "questionText": "Complete with correct preposition: 'The book is _____ the shelf.'",
+      "questionType": "mcq",
+      "options": [
+        "run",
+        "on",
+        "and",
+        "very"
+      ],
+      "correctAnswer": "B",
+      "explanation": "On is the correct preposition showing the book's location on the shelf.",
+      "hints": [
+        "Shows position",
+        "Where is the book?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["prepositions"],
+      "topicIds": ["gr5_e_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_eng5_012",
+      "questionText": "Choose the sentence with correct punctuation:",
+      "questionType": "mcq",
+      "options": [
+        "How are you",
+        "How are you.",
+        "How are you?",
+        "How are you!"
+      ],
+      "correctAnswer": "C",
+      "explanation": "How are you? is correct. Questions should end with a question mark.",
+      "hints": [
+        "It's a question",
+        "Needs question mark"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["punctuation"],
+      "topicIds": ["gr5_e_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "hindi_gr5",
+  "name": "Hindi",
+  "icon": "translate",
+  "color": "#FF6B9D",
+  "boardId": "cbse_elementary",
+  "classId": "class_5",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["hindi", "grade 5", "grammar", "language"],
+  "chapters": [
+    {
+      "id": "gr5_hin_ch1",
+      "number": 1,
+      "name": "Kriya aur Kaal",
+      "description": "Verbs and tenses in Hindi",
+      "keywords": ["kriya", "kaal", "tenses"],
+      "topics": [
+        {"id": "gr5_h_1_1", "name": "Kriya", "difficulty": "basic", "videoCount": 4, "keywords": ["kriya", "verbs"]},
+        {"id": "gr5_h_1_2", "name": "Bhoot Kaal", "difficulty": "intermediate", "videoCount": 4, "keywords": ["bhoot kaal", "past"]},
+        {"id": "gr5_h_1_3", "name": "Bhavishya Kaal", "difficulty": "intermediate", "videoCount": 4, "keywords": ["bhavishya kaal", "future"]}
+      ]
+    },
+    {
+      "id": "gr5_hin_ch2",
+      "number": 2,
+      "name": "Visheshan aur Kriya Visheshan",
+      "description": "Adjectives and adverbs in Hindi",
+      "keywords": ["visheshan", "kriya visheshan"],
+      "topics": [
+        {"id": "gr5_h_2_1", "name": "Visheshan", "difficulty": "basic", "videoCount": 4, "keywords": ["visheshan", "adjectives"]},
+        {"id": "gr5_h_2_2", "name": "Kriya Visheshan", "difficulty": "intermediate", "videoCount": 4, "keywords": ["kriya visheshan", "adverbs"]}
+      ]
+    },
+    {
+      "id": "gr5_hin_ch3",
+      "number": 3,
+      "name": "Vakya Rachna",
+      "description": "Sentence formation and structure",
+      "keywords": ["vakya", "sentence"],
+      "topics": [
+        {"id": "gr5_h_3_1", "name": "Vakya ke Bhed", "difficulty": "basic", "videoCount": 4, "keywords": ["vakya bhed"]},
+        {"id": "gr5_h_3_2", "name": "Viram Chinh", "difficulty": "basic", "videoCount": 3, "keywords": ["punctuation"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch14",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn14_001",
+      "videoId": "gr4_mn14_v1",
+      "question": "What does 'data' mean in simple words?",
+      "answer": "Data is just information! When you count how many students like cricket, or note the weather every day for a week, or ask your friends which colour they like best - all the numbers and answers you collect are called data. Data is like raw material. Once you organise it using tables and charts, it becomes easy to understand and very useful.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn14_002",
+      "videoId": "gr4_mn14_v1",
+      "question": "Why do we bundle tally marks in groups of 5?",
+      "answer": "Grouping by 5 makes counting much faster! Imagine you have 23 tally marks. If they were all separate lines, you would have to count each one. But with bundles of 5, you just count: 5, 10, 15, 20 and then add 3 more = 23. It is like skip counting by 5s. The 5th line goes across the first 4 so you can easily see where each bundle starts and ends.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn14_003",
+      "videoId": "gr4_mn14_v2",
+      "question": "What is a frequency table and why do we use it?",
+      "answer": "A frequency table is a table with three columns: the item or category, the tally marks, and the total count (called frequency). We use it to organise messy data into a neat format. For example, if 30 students told you their favourite fruit, writing each answer one by one is confusing. But a frequency table with rows for Mango, Apple, Banana, and Orange, with tallies and totals, shows you everything clearly!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn14_004",
+      "videoId": "gr4_mn14_v3",
+      "question": "How do I choose what one picture should stand for in a pictograph?",
+      "answer": "Look at the numbers in your data. If the numbers are small (like 2, 4, 6), let one picture stand for 1 or 2. If the numbers are bigger (like 10, 20, 30), let one picture stand for 5 or 10. The goal is to keep the number of pictures manageable - not too many and not too few. Pick a key value that divides evenly into most of your data numbers. If it does not divide evenly, use a half picture.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn14_005",
+      "videoId": "gr4_mn14_v3",
+      "question": "What does a half picture mean in a pictograph?",
+      "answer": "A half picture represents half the value of one full picture. If the key says 1 picture = 10, then half a picture = 5. If the key says 1 picture = 4, then half a picture = 2. You use a half picture when your data number does not fit perfectly with full pictures. For example, to show 15 with a key of 10, draw 1 full picture and 1 half picture: 10 + 5 = 15.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_mn14_006",
+      "videoId": "gr4_mn14_v4",
+      "question": "How do I choose the right scale for a bar graph?",
+      "answer": "First, look at the largest number in your data. Then pick a scale that goes up to or just past that number. The scale should go up by equal steps. If your biggest number is 20, try steps of 2 or 5 (so 0, 5, 10, 15, 20). If your biggest number is 50, try steps of 5 or 10. The key rule is: equal steps that make the bars easy to read and the graph not too tall to draw.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn14_007",
+      "videoId": "gr4_mn14_v4",
+      "question": "How do I find which category has the most or the least in a bar graph?",
+      "answer": "Look at the bars! The tallest bar shows the category with the most (the highest value). The shortest bar shows the category with the least (the lowest value). If two bars are the same height, those categories have equal values. That is one of the best things about bar graphs - you can compare just by looking!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn14_008",
+      "videoId": "gr4_mn14_v4",
+      "question": "How do I find the difference between two values in a chart?",
+      "answer": "Read the value of each bar (or count the pictures in a pictograph). Then subtract the smaller number from the larger number. For example, if the Cricket bar shows 18 and the Football bar shows 12, the difference is 18 - 12 = 6. This tells you that 6 more students chose Cricket than Football.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn14_009",
+      "videoId": "gr4_mn14_v5",
+      "question": "Which is better for showing data - a pictograph or a bar graph?",
+      "answer": "It depends on what you need! Pictographs are colourful and fun, making them great for simple data and younger readers. Bar graphs are better for larger numbers and when you need exact values - you can read them precisely from the scale. If you want a quick visual comparison, use a pictograph. If you want accurate numbers and have many categories, use a bar graph. Both are useful in different situations!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn14_010",
+      "videoId": "gr4_mn14_v5",
+      "question": "Why is it important to give every chart a title and labels?",
+      "answer": "Without a title, nobody knows what your chart is about! A title like 'Favourite Fruits of Class 4A' tells the reader right away. Labels on the axes tell what each bar or row represents. Without labels, a bar graph is just a bunch of rectangles with no meaning. Think of the title as the name of your chart and labels as name tags for each part. Always add them first before drawing your bars or pictures!",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

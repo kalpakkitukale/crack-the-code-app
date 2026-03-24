@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch7",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en7_train_travel",
+      "name": "Train Journey Observations",
+      "description": "Learn about what you can observe during a train journey across India",
+      "topicId": "gr4_evn_7_1",
+      "chapterId": "gr4_evs_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_en7_001",
+          "front": "What different things can you see from a train window?",
+          "back": "From a train window you can see fields, trees, rivers, bridges, villages, cities, railway stations, animals, hills, tunnels, and many different types of landscapes changing as the train moves from one area to another.",
+          "hint": "Think of the scenery that keeps changing",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en7_002",
+          "front": "Why do things outside the train seem to move backwards?",
+          "back": "When you sit in a moving train, the train is going forward but you stay in your seat. So the trees, buildings, and fields outside seem to move backwards past your window. This is because of relative motion - things seem to move compared to where you are.",
+          "hint": "It is about how we see movement",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en7_003",
+          "front": "What different types of land can you see during a long train journey?",
+          "back": "During a long train journey in India, you can see flat plains with farms, hilly areas with forests, dry areas with sandy soil, river valleys, coastal areas near the sea, and even mountainous terrain. The landscape keeps changing!",
+          "hint": "India has many different types of land",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en7_004",
+          "front": "What is a railway platform?",
+          "back": "A railway platform is the raised area at a station where passengers stand to wait for and board the train. It is built higher than the tracks so people can easily step into the train. Platforms have numbers and signs to help passengers find the right train.",
+          "hint": "You stand here to wait for a train",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en7_005",
+          "front": "What sounds can you hear during a train journey?",
+          "back": "During a train journey you can hear the rhythmic chugging of the engine, the clickety-clack of wheels on the tracks, the horn or whistle of the train, announcements at stations, and the sound of vendors calling out what they are selling.",
+          "hint": "Trains make many regular sounds",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en7_station_life",
+      "name": "Railway Station Life",
+      "description": "Discover what happens at railway stations and how trains connect India",
+      "topicId": "gr4_evn_7_1",
+      "chapterId": "gr4_evs_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_en7_006",
+          "front": "Who are the different people you see at a railway station?",
+          "back": "At a railway station you see passengers with luggage, porters (coolies) who help carry bags, ticket collectors, station masters, tea and snack vendors, cleaners, and sometimes people selling books, toys, and other items on the platform.",
+          "hint": "Many people work and travel here",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en7_007",
+          "front": "What is a railway signal?",
+          "back": "A railway signal is a device that tells the train driver whether it is safe to go ahead or whether the train must stop. A green signal means the track ahead is clear, a yellow signal means slow down, and a red signal means stop.",
+          "hint": "Like traffic lights but for trains",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en7_008",
+          "front": "What is a railway bridge?",
+          "back": "A railway bridge is a special bridge built for trains to cross over rivers, valleys, or roads. Some famous railway bridges in India include the Pamban Bridge over the sea in Tamil Nadu and the Chenab Bridge in Jammu & Kashmir, which is one of the highest in the world.",
+          "hint": "It helps trains cross over water or valleys",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en7_009",
+          "front": "How does the landscape change as a train travels from north to south India?",
+          "back": "Travelling from north to south, you might see the snowy Himalayan mountains, then wide flat plains of wheat and sugarcane in the Gangetic plains, then dry rocky land in central India, and finally green coconut trees and paddy fields near the southern coast.",
+          "hint": "India's geography changes a lot from top to bottom",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en7_010",
+          "front": "Why are trains important for connecting people in India?",
+          "back": "India is a very large country and trains help people travel long distances at affordable prices. Indian Railways is one of the largest railway networks in the world. Trains carry millions of passengers every day and also transport goods, food, and mail across the country.",
+          "hint": "India has one of the biggest railway systems",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

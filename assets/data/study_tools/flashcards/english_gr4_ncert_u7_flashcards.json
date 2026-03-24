@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_eng_ncert_u7",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_watering_rhyme",
+      "name": "A Watering Rhyme (Poem)",
+      "description": "Learn about the poem that tells us when and how to water plants",
+      "topicId": "gr4_en_7_1",
+      "chapterId": "gr4_eng_ncert_u7",
+      "cards": [
+        {
+          "id": "fc_u7_wr_001",
+          "front": "What is the poem 'A Watering Rhyme' about?",
+          "back": "The poem is about the right way and the right time to water plants. It tells us that early morning and evening are the best times to water plants, not during the hot afternoon sun.",
+          "hint": "It is about caring for plants",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_u7_wr_002",
+          "front": "When is the best time to water plants according to the poem?",
+          "back": "The best time to water plants is early in the morning or in the evening when the sun has gone down. Watering during the hot afternoon can harm the plants.",
+          "hint": "Avoid the hot sun",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_u7_wr_003",
+          "front": "Why should we not water plants in the afternoon?",
+          "back": "In the hot afternoon sun, water on the leaves can heat up and burn them. The water also dries up quickly and does not reach the roots properly.",
+          "hint": "The sun is too strong",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_u7_wr_004",
+          "front": "What does the poem teach us about caring for plants?",
+          "back": "The poem teaches us that plants need our love and care. Just like we need food and water at the right time, plants also need to be watered at the proper time to grow healthy and strong.",
+          "hint": "Plants need care like we do",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_u7_wr_005",
+          "front": "What is a rhyme?",
+          "back": "A rhyme is when words have the same ending sound, like 'sun' and 'done', or 'day' and 'play'. A rhyming poem uses such words at the end of lines to make it fun and musical.",
+          "hint": "Words that sound alike at the end",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_giving_tree",
+      "name": "The Giving Tree (Story)",
+      "description": "Learn about a tree that loved a boy and gave him everything",
+      "topicId": "gr4_en_7_2",
+      "chapterId": "gr4_eng_ncert_u7",
+      "cards": [
+        {
+          "id": "fc_u7_gt_001",
+          "front": "What is the story 'The Giving Tree' about?",
+          "back": "The story is about a tree that loved a little boy very much. As the boy grew older, the tree kept giving him everything - its leaves, branches, fruit, and even its trunk - to make him happy.",
+          "hint": "A tree that gave everything",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_u7_gt_002",
+          "front": "What did the boy do when he was young?",
+          "back": "When the boy was young, he would come to the tree every day. He would climb its trunk, swing from its branches, eat its apples, and rest in its shade. The tree was very happy.",
+          "hint": "He played with the tree",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_u7_gt_003",
+          "front": "What did the tree give the boy as he grew older?",
+          "back": "As the boy grew older, the tree gave him its apples to sell for money, its branches to build a house, and its trunk to make a boat. Each time, the tree was happy to give.",
+          "hint": "Apples, branches, and trunk",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_u7_gt_004",
+          "front": "What was left of the tree at the end of the story?",
+          "back": "At the end, only an old stump was left. When the boy, now an old man, came back tired, the stump offered itself as a place for him to sit and rest. And the tree was happy.",
+          "hint": "Just a stump remained",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_u7_gt_005",
+          "front": "What lesson does 'The Giving Tree' teach us?",
+          "back": "The story teaches us about selfless love and giving. The tree is like our parents and nature - always giving without expecting anything in return. It also reminds us to be grateful and care for those who give us so much.",
+          "hint": "About selfless love and gratitude",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_tenses",
+      "name": "Grammar: Tenses",
+      "description": "Learn about past, present, and future tenses",
+      "topicId": "gr4_en_7_3",
+      "chapterId": "gr4_eng_ncert_u7",
+      "cards": [
+        {
+          "id": "fc_u7_tn_001",
+          "front": "What is a tense?",
+          "back": "A tense tells us when an action happens. There are three main tenses: Past (already happened), Present (happening now), and Future (will happen later).",
+          "hint": "It tells us about time",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_u7_tn_002",
+          "front": "What is the past tense? Give an example.",
+          "back": "The past tense tells us about actions that already happened. We often add '-ed' to the verb. Example: 'The boy climbed the tree.' (Climbed tells us it already happened.)",
+          "hint": "Actions that already happened",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_u7_tn_003",
+          "front": "What is the present tense? Give an example.",
+          "back": "The present tense tells us about actions happening right now or that happen regularly. Example: 'The tree gives shade.' (Gives tells us it happens now.)",
+          "hint": "Actions happening now",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_u7_tn_004",
+          "front": "What is the future tense? Give an example.",
+          "back": "The future tense tells us about actions that will happen later. We use 'will' or 'shall' before the verb. Example: 'I will water the plants tomorrow.'",
+          "hint": "Actions that will happen later",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_u7_tn_005",
+          "front": "Change to past tense: 'The boy plays under the tree.'",
+          "back": "'The boy played under the tree.' We changed 'plays' to 'played' by adding '-ed' to make it past tense. This shows the action already happened.",
+          "hint": "Add -ed to the verb",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

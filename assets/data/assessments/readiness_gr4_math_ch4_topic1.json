@@ -1,0 +1,434 @@
+{
+  "assessmentId": "readiness_gr4_m4_t1",
+  "topicId": "gr4_m_4_1",
+  "topicName": "Place Value (4-digit numbers)",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning 4-digit place value",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_3digit",
+      "conceptName": "Place value in 3-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq5"],
+      "remedialVideoIds": ["prereq_pv_v1", "prereq_pv_v2", "prereq_pv_v3"]
+    },
+    {
+      "conceptId": "mult_by_10_100",
+      "conceptName": "Multiplication by 10 and 100",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq6"],
+      "remedialVideoIds": ["prereq_mult_v1", "prereq_mult_v2"]
+    },
+    {
+      "conceptId": "number_comparison",
+      "conceptName": "Comparing 3-digit numbers",
+      "importance": "important",
+      "questionsTestingThis": ["rq3", "rq7"],
+      "remedialVideoIds": ["prereq_comp_v1"]
+    },
+    {
+      "conceptId": "number_sequence",
+      "conceptName": "Number sequence and patterns",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq8", "rq9", "rq10"],
+      "remedialVideoIds": ["prereq_seq_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_3digit",
+
+      "question": "What is the place value of 5 in the number 253?",
+
+      "options": [
+        "5",
+        "50",
+        "500",
+        "Tens place"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "50",
+
+      "explanation": "The digit 5 is in the tens place. To find place value, multiply the digit by its place: 5 × 10 = 50.",
+
+      "tags": ["place value", "tens place", "3-digit numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused face value (5) with place value (50)",
+          "conceptGap": "Understanding difference between face value and place value",
+          "remediation": "Watch video on Face Value vs Place Value"
+        },
+        {
+          "wrongAnswer": 3,
+          "mistake": "Gave place name instead of numerical value",
+          "conceptGap": "Place value is a number, not a position name",
+          "remediation": "Review how to calculate place value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_3digit",
+
+      "question": "What is the place value of 8 in the number 687?",
+
+      "options": [
+        "8",
+        "80",
+        "800",
+        "Hundreds place"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "80",
+
+      "explanation": "The digit 8 is in the tens place, so its place value is 8 × 10 = 80.",
+
+      "tags": ["place value", "tens place", "3-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Selected face value instead of place value",
+          "conceptGap": "Face value vs place value",
+          "remediation": "Review place value fundamentals"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_comparison",
+
+      "question": "Which number is greater: 456 or 465?",
+
+      "options": [
+        "456",
+        "465",
+        "Both are equal",
+        "Cannot determine"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "465",
+
+      "explanation": "Compare digit by digit from left. Hundreds: both have 4. Tens: 6 vs 5. Since 6 > 5, we know 465 > 456.",
+
+      "tags": ["number comparison", "greater than", "3-digit numbers"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Compared digits in wrong order",
+          "conceptGap": "Always compare from left to right (highest place first)",
+          "remediation": "Watch video on comparing numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "mult_by_10_100",
+
+      "question": "What is 7 × 100?",
+
+      "options": [
+        "70",
+        "700",
+        "7000",
+        "17"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "700",
+
+      "explanation": "When you multiply by 100, add two zeros to the number. 7 × 100 = 700.",
+
+      "tags": ["multiplication", "multiply by 100", "mental math"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Multiplied by 10 instead of 100 (added one zero instead of two)",
+          "conceptGap": "Difference between multiplying by 10 vs 100",
+          "remediation": "Review multiplication by powers of 10"
+        },
+        {
+          "wrongAnswer": 2,
+          "mistake": "Added three zeros instead of two",
+          "conceptGap": "Confusing 100 (two zeros) with 1000 (three zeros)",
+          "remediation": "Practice multiplication by 10, 100, 1000"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "fill_blank",
+      "difficulty": "basic",
+      "conceptTested": "pv_3digit",
+
+      "question": "In the number 834, which digit is in the hundreds place?",
+
+      "correctAnswer": "8",
+      "acceptedAnswers": ["8", "eight"],
+
+      "explanation": "In a 3-digit number, the first digit (from left) is in the hundreds place. So in 834, the digit 8 is in the hundreds place.",
+
+      "tags": ["place value", "hundreds place", "digit position"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": "4",
+          "mistake": "Counted from right instead of left",
+          "conceptGap": "Place positions are read from left to right",
+          "remediation": "Review place value positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "mult_by_10_100",
+
+      "question": "What is 10 × 10?",
+
+      "options": [
+        "20",
+        "100",
+        "110",
+        "1010"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "100",
+
+      "explanation": "10 × 10 = 100. When you multiply 10 by itself, you get 100.",
+
+      "tags": ["multiplication", "square numbers", "basic facts"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 10 + 10 instead of multiplying",
+          "conceptGap": "Confusing addition with multiplication",
+          "remediation": "Review difference between + and ×"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "fill_blank",
+      "difficulty": "intermediate",
+      "conceptTested": "number_comparison",
+
+      "question": "Fill in the blank with > or <: 789 ___ 798",
+
+      "correctAnswer": "<",
+      "acceptedAnswers": ["<", "less than", "is less than"],
+
+      "explanation": "Compare hundreds: 7 = 7. Compare tens: 8 < 9. Since 8 is less than 9 in the tens place, 789 < 798.",
+
+      "tags": ["comparison symbols", "greater than", "less than"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": ">",
+          "mistake": "Reversed the comparison symbol",
+          "conceptGap": "Remember: smaller number goes on the smaller side of the symbol",
+          "remediation": "Review greater than/less than symbols"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_sequence",
+
+      "question": "What number comes after 999?",
+
+      "options": [
+        "998",
+        "1000",
+        "9999",
+        "1001"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "1000",
+
+      "explanation": "After 999 (nine hundred ninety-nine) comes 1000 (one thousand). This is the first 4-digit number.",
+
+      "tags": ["number sequence", "counting", "1000"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Thought you add another 9 instead of rolling over to 1000",
+          "conceptGap": "Understanding how place value rolls over when counting",
+          "remediation": "Watch video on counting past 999"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "number_sequence",
+
+      "question": "True or False: In the number 642, the digit 6 represents 600.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The digit 6 is in the hundreds place, so it represents 6 × 100 = 600.",
+
+      "tags": ["place value", "expanded form", "hundreds"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't calculate place value correctly",
+          "conceptGap": "Place value calculation",
+          "remediation": "Review place value basics"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "number_sequence",
+
+      "question": "If you count by hundreds from 200, which number will you say: 200, 300, 400, ?",
+
+      "options": [
+        "401",
+        "500",
+        "450",
+        "1000"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "500",
+
+      "explanation": "When counting by hundreds, you add 100 each time. 200 + 100 = 300, 300 + 100 = 400, 400 + 100 = 500.",
+
+      "tags": ["skip counting", "counting by 100", "number patterns"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 100",
+          "conceptGap": "Understanding 'counting by hundreds'",
+          "remediation": "Practice skip counting"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong prerequisite knowledge. You're ready to learn about 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You have the necessary prerequisite knowledge to proceed.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in prerequisite knowledge. Watch review videos before learning new content.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review prerequisite concepts before learning 4-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you review the concepts you need.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about 4-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

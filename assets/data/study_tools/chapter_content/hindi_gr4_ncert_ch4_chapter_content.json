@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_hin_ncert_ch4",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn4",
+    "title": "पापा जब बच्चे थे (When Papa Was a Child)",
+    "content": "This chapter from the Rimjhim textbook tells the heartwarming story of a father sharing his childhood memories with his children. Papa narrates how he was a mischievous (शरारती) child who loved climbing trees, playing in the rain, and doing pranks. He recalls getting scolded (डाँट) by his mother and teachers for being naughty. The children are surprised and delighted to learn that their papa was once just like them. The story is written in simple Hindi using past tense (भूतकाल) and introduces students to vocabulary related to childhood, memories, and family relationships. Through this story, students learn that every adult was once a child and that sharing memories brings families closer together.",
+    "keyPoints": [
+      "Papa shares his childhood memories (बचपन की यादें) with his children",
+      "He was a mischievous child who loved outdoor play and pranks (शरारतें)",
+      "The children are surprised that Papa was once naughty like them",
+      "The story uses past tense: था (was-masculine), थी (was-feminine), थे (were/respectful)",
+      "Sharing family stories builds understanding and strengthens bonds",
+      "New vocabulary: बचपन, शरारत, नटखट, डाँटना, याद, मस्ती"
+    ],
+    "learningObjectives": [
+      "Read and understand a narrative story in Hindi about childhood memories",
+      "Learn new vocabulary words related to childhood and family",
+      "Understand and use past tense forms: था, थी, थे in sentences",
+      "Describe personal childhood memories using appropriate Hindi vocabulary",
+      "Identify the main characters, events, and moral of the story",
+      "Practise the sentence pattern: जब मैं छोटा/छोटी था/थी..."
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn4_001",
+      "title": "Past Tense Made Easy (भूतकाल)",
+      "content": "This story is a great way to learn past tense in Hindi! Remember these rules: Use था for masculine singular (पापा शरारती था when speaking casually). Use थे for masculine plural or to show respect (पापा शरारती थे - respectful). Use थी for feminine singular (माँ गुस्सा होती थी). Practice by making sentences about your own past: जब मैं छोटा था, मैं बहुत खेलता था। (When I was small, I used to play a lot.)",
+      "tags": ["grammar", "past-tense", "भूतकाल"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn4_002",
+      "title": "Word Family: बच्चा → बचपन",
+      "content": "Notice how Hindi creates new words by adding suffixes! बच्चा (child) + पन = बचपन (childhood). The suffix 'पन' turns a noun into a state or condition. More examples: पागल (mad) → पागलपन (madness), अकेला (alone) → अकेलापन (loneliness), लड़का (boy) → लड़कपन (boyhood). Try to spot this pattern in other Hindi words you read!",
+      "tags": ["vocabulary", "word-formation", "suffix"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn4_003",
+      "title": "Activity: Interview Your Family!",
+      "content": "After reading this chapter, try this fun activity at home! Ask your parents, grandparents, or older relatives: आप जब छोटे थे तब क्या करते थे? (What did you used to do when you were small?). Write down their answers in Hindi. You can ask about their favourite games (खेल), foods (खाना), friends (दोस्त), and school memories (स्कूल की यादें). This will help you practise Hindi while learning about your family history!",
+      "tags": ["activity", "family", "speaking-practice"],
+      "isPinned": false
+    }
+  ]
+}

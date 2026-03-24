@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch7",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn7_kahani",
+      "name": "कहानी पाठ - दान का हिसाब",
+      "description": "Learn about the story 'Daan Ka Hisaab' (Account of Charity) - its characters, events, and the values of giving",
+      "topicId": "gr4_hi_7_1",
+      "chapterId": "gr4_hin_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_hn7_001",
+          "front": "'दान का हिसाब' कहानी किसके बारे में है? (What is the story 'Daan Ka Hisaab' about?)",
+          "back": "यह कहानी दान देने और उसका हिसाब रखने के बारे में है। इसमें बताया गया है कि सच्चा दान वह होता है जो बिना हिसाब-किताब के दिल से दिया जाए। (This story is about giving charity and keeping accounts of it. It teaches that true charity is given from the heart without keeping score.)",
+          "hint": "Think about what 'daan' (charity) and 'hisaab' (account) mean together",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn7_002",
+          "front": "'दान' का क्या अर्थ है? (What does 'Daan' mean?)",
+          "back": "दान का अर्थ है किसी ज़रूरतमंद को बिना कुछ वापस लिए कुछ देना। यह पैसे, खाना, कपड़े या अपना समय भी हो सकता है। (Daan means giving something to someone in need without expecting anything in return. It can be money, food, clothes, or even your time.)",
+          "hint": "It is about giving freely to those who need help",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn7_003",
+          "front": "कहानी में हिसाब रखने वाले व्यक्ति की क्या गलती थी? (What was the mistake of the person who kept accounts in the story?)",
+          "back": "वह हर दान का हिसाब रखता था और सबको बताता था कि उसने कितना दान दिया। सच्चा दान चुपचाप किया जाता है, दिखावे के लिए नहीं। (He kept count of every charity and told everyone how much he had given. True charity is done quietly, not for show.)",
+          "hint": "Was he giving from the heart or for showing off?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn7_004",
+          "front": "कहानी से हमें क्या सीख मिलती है? (What lesson do we learn from this story?)",
+          "back": "हमें यह सीख मिलती है कि दान दिल से देना चाहिए, हिसाब लगाकर नहीं। जो दूसरों की मदद बिना दिखावे के करता है, वही सच्चा दानी है। (We learn that charity should be given from the heart, not by keeping accounts. The one who helps others without showing off is the true giver.)",
+          "hint": "Think about what makes charity truly meaningful",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn7_005",
+          "front": "दान करने के कौन-कौन से तरीके हो सकते हैं? (What are the different ways of giving charity?)",
+          "back": "दान कई तरीकों से किया जा सकता है: खाना खिलाना, कपड़े देना, पढ़ाई में मदद करना, बीमारों की सेवा करना, और किसी के काम में हाथ बँटाना। (Charity can be done in many ways: feeding the hungry, giving clothes, helping with studies, serving the sick, and lending a helping hand in someone's work.)",
+          "hint": "Charity is not just about money",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn7_prashnottar",
+      "name": "प्रश्न उत्तर - दान का हिसाब",
+      "description": "Practice comprehension questions and answers from Chapter 7 to strengthen your understanding",
+      "topicId": "gr4_hi_7_2",
+      "chapterId": "gr4_hin_ncert_ch7",
+      "cards": [
+        {
+          "id": "card_gr4_hn7_006",
+          "front": "'हिसाब' शब्द का क्या मतलब है? (What does the word 'Hisaab' mean?)",
+          "back": "हिसाब का मतलब है गिनती या लेखा-जोखा। जब हम किसी चीज़ का हिसाब रखते हैं तो उसे गिनते हैं या लिखकर याद रखते हैं। (Hisaab means counting or keeping accounts. When we keep 'hisaab' of something, we count it or write it down to remember.)",
+          "hint": "Think about what you do in maths class",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn7_007",
+          "front": "क्या दान का हिसाब रखना सही है? कहानी के अनुसार बताओ। (Is it right to keep account of charity? Answer according to the story.)",
+          "back": "कहानी के अनुसार दान का हिसाब रखना सही नहीं है। दान तो दिल की भावना से दिया जाता है। जब हम हिसाब रखते हैं तो दान का असली मतलब खो जाता है। (According to the story, keeping account of charity is not right. Charity is given from the feeling of the heart. When we keep accounts, the true meaning of charity is lost.)",
+          "hint": "What happens to the spirit of giving when you keep score?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn7_008",
+          "front": "'दिखावा' और 'सच्चा दान' में क्या अंतर है? (What is the difference between 'showing off' and 'true charity'?)",
+          "back": "दिखावे का दान दूसरों को बताने के लिए किया जाता है ताकि लोग तारीफ करें। सच्चा दान चुपचाप किया जाता है, बिना किसी को बताए, सिर्फ मदद करने की भावना से। (Charity done for show is done to tell others so people will praise you. True charity is done quietly, without telling anyone, just with the feeling of helping.)",
+          "hint": "One is for praise, the other is from the heart",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn7_009",
+          "front": "कहानी के मुख्य पात्रों के बारे में बताओ। (Tell about the main characters of the story.)",
+          "back": "कहानी में एक व्यक्ति है जो दान देता है लेकिन हर बार उसका हिसाब रखता है और सबको बताता है। दूसरी ओर ऐसे लोग भी हैं जो चुपचाप दूसरों की मदद करते हैं। (The story has a person who gives charity but keeps account every time and tells everyone. On the other hand, there are also people who quietly help others.)",
+          "hint": "Compare the two types of givers in the story",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn7_010",
+          "front": "इस कहानी का संदेश अपने शब्दों में बताओ। (Tell the message of this story in your own words.)",
+          "back": "इस कहानी का संदेश है कि मदद करना बहुत अच्छी बात है, लेकिन उसका हिसाब रखना और दिखावा करना गलत है। सच्ची मदद वह है जो दिल से की जाए। दान देने में खुशी मिलनी चाहिए, तारीफ नहीं। (The message is that helping others is very good, but keeping accounts and showing off is wrong. True help is that which comes from the heart. Giving should bring happiness, not praise.)",
+          "hint": "Focus on the true meaning of generosity",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

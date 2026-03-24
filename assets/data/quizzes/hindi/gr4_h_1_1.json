@@ -1,0 +1,198 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_h_1_1",
+    "level": "topic",
+    "entityId": "gr4_h_1_1",
+    "title": "Swar - Practice Quiz",
+    "questionIds": [
+      "q_swar_001",
+      "q_swar_002",
+      "q_swar_003",
+      "q_swar_004",
+      "q_swar_005",
+      "q_swar_006",
+      "q_swar_007",
+      "q_swar_008"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_swar_001",
+      "questionText": "हिंदी वर्णमाला में कुल कितने स्वर होते हैं? (How many vowels are there in Hindi alphabet?)",
+      "questionType": "mcq",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": "B",
+      "explanation": "हिंदी वर्णमाला में कुल 11 स्वर होते हैं: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ। (There are 11 vowels in Hindi: a, aa, i, ii, u, uu, ri, e, ai, o, au)",
+      "hints": [
+        "अ से ऋ तक गिनें (Count from a to ri)",
+        "11 होते हैं"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["swar", "varnamala"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_002",
+      "questionText": "निम्नलिखित में से कौन सा स्वर है? (Which of these is a vowel?)",
+      "questionType": "mcq",
+      "options": [
+        "क",
+        "ख",
+        "आ",
+        "च"
+      ],
+      "correctAnswer": "C",
+      "explanation": "आ एक स्वर है। स्वरों का उच्चारण स्वतंत्र रूप से होता है। (Aa is a vowel. Vowels are pronounced independently.)",
+      "hints": [
+        "स्वर बिना किसी सहायता के बोले जाते हैं",
+        "क, ख, च व्यंजन हैं"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["swar"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_003",
+      "questionText": "'इ' की मात्रा क्या है? (What is the matra of 'i'?)",
+      "questionType": "mcq",
+      "options": [
+        "ि",
+        "ी",
+        "ु",
+        "े"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'इ' की मात्रा 'ि' है। जैसे: कि, जि, मिल। (The matra of 'i' is 'ि'. Like: ki, ji, mil)",
+      "hints": [
+        "छोटी 'इ' की मात्रा",
+        "व्यंजन के बाईं ओर लगती है"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["swar", "matra"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_004",
+      "questionText": "निम्नलिखित में से दीर्घ स्वर कौन सा है? (Which is a long vowel?)",
+      "questionType": "mcq",
+      "options": [
+        "अ",
+        "इ",
+        "उ",
+        "ई"
+      ],
+      "correctAnswer": "D",
+      "explanation": "ई एक दीर्घ स्वर है। दीर्घ स्वरों का उच्चारण ह्रस्व स्वरों से अधिक समय तक होता है। (Ii is a long vowel. Long vowels take longer to pronounce.)",
+      "hints": [
+        "लंबे उच्चारण वाला स्वर",
+        "'ई' दीर्घ है"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["swar", "hrasva_dirgha"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_005",
+      "questionText": "'आम' शब्द में कौन सा स्वर है? (Which vowel is in the word 'aam'?)",
+      "questionType": "mcq",
+      "options": [
+        "अ",
+        "आ",
+        "इ",
+        "ए"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'आम' शब्द में 'आ' स्वर है। (The word 'aam' has the vowel 'aa'.)",
+      "hints": [
+        "पहला अक्षर देखें",
+        "आ + म"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["swar"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_006",
+      "questionText": "'ऊ' की मात्रा किस शब्द में है? (Which word has the matra of 'uu'?)",
+      "questionType": "mcq",
+      "options": [
+        "कम",
+        "सुन",
+        "भूल",
+        "पढ़"
+      ],
+      "correctAnswer": "C",
+      "explanation": "'भूल' में 'ऊ' की मात्रा है (ू)। (The word 'bhool' has the matra of 'uu'.)",
+      "hints": [
+        "'ू' मात्रा खोजें",
+        "भ + ू + ल"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["swar", "matra"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_007",
+      "questionText": "कौन सा युग्म सही है? (Which pair is correct?)",
+      "questionType": "mcq",
+      "options": [
+        "इ - ि",
+        "अ - ा",
+        "उ - े",
+        "ए - ु"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'इ' स्वर की मात्रा 'ि' है। यह युग्म सही है। (The vowel 'i' has the matra 'ि'. This pair is correct.)",
+      "hints": [
+        "स्वर और उनकी मात्रा मिलानी है",
+        "'इ' की मात्रा 'ि'"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["swar", "matra"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_swar_008",
+      "questionText": "हिंदी की पहली वर्ण कौन सी है? (What is the first letter of Hindi?)",
+      "questionType": "mcq",
+      "options": [
+        "क",
+        "अ",
+        "आ",
+        "ए"
+      ],
+      "correctAnswer": "B",
+      "explanation": "हिंदी वर्णमाला का पहला वर्ण 'अ' है। (The first letter of Hindi alphabet is 'a'.)",
+      "hints": [
+        "वर्णमाला की शुरुआत",
+        "अ, आ, इ..."
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["varnamala"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

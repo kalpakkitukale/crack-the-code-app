@@ -1,0 +1,210 @@
+{
+  "videoSetId": "playlist_gr4_mn10_t2",
+  "topicId": "gr4_mn_10_2",
+  "topicName": "Comparing Numbers from Data",
+  "chapterId": "gr4_math_ncert_ch10",
+  "chapterName": "Elephants, Tigers, and Leopards",
+  "description": "Main learning videos for comparing numbers found in wildlife data tables, using greater than, less than, finding differences, and ordering",
+
+  "videos": [
+    {
+      "id": "gr4_mn10_t2_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Comparing Numbers from Tables | Which Has More?",
+      "description": "Learn how to compare numbers you find in data tables. Which forest has more tigers? Are there more elephants in Karnataka or Kerala? Use comparison to answer questions about wildlife!",
+
+      "youtubeId": "Y6M89-6106I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y6M89-6106I",
+      "thumbnailUrl": "https://img.youtube.com/vi/Y6M89-6106I/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["comparing numbers", "greater than", "less than", "most least", "wildlife data"],
+
+      "learningObjectives": [
+        "Compare two numbers from a data table",
+        "Use greater than, less than, and equal to",
+        "Find which category has the most or least"
+      ],
+
+      "prerequisites": ["Reading data from tables"],
+      "followUpTopics": ["Finding differences between numbers"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "If Park A has 320 elephants and Park B has 280 elephants, which park has more?",
+            "options": ["Park A", "Park B", "Both are equal"],
+            "correctAnswer": 0
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t2_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Finding the Difference | How Many More or Fewer?",
+      "description": "Learn to find the difference between numbers in data. How many more elephants are there than tigers? Use subtraction to find the answer and understand wildlife populations.",
+
+      "youtubeId": "KGMf314LUc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KGMf314LUc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/KGMf314LUc0/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3500000,
+
+      "tags": ["difference", "how many more", "subtraction", "comparing data", "populations"],
+
+      "learningObjectives": [
+        "Find the difference between two numbers from data",
+        "Understand 'how many more' and 'how many fewer'",
+        "Use subtraction to compare quantities"
+      ],
+
+      "prerequisites": ["Comparing numbers", "Basic subtraction"],
+      "followUpTopics": ["Ordering numbers from data"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "There are 1,500 elephants and 900 leopards. How many more elephants are there?",
+            "options": ["500", "600", "700"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t2_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Ordering and Ranking Data | From Smallest to Largest",
+      "description": "Practice putting wildlife numbers in order. Which animal has the most? Which state has the fewest? Learn to rank data from smallest to largest and largest to smallest.",
+
+      "youtubeId": "EvmAIpWTNMc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvmAIpWTNMc",
+      "thumbnailUrl": "https://img.youtube.com/vi/EvmAIpWTNMc/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+
+      "tags": ["ordering numbers", "ranking", "smallest to largest", "data sorting"],
+
+      "learningObjectives": [
+        "Arrange data values from smallest to largest",
+        "Rank items based on their data values",
+        "Identify highest and lowest values"
+      ],
+
+      "prerequisites": ["Comparing two numbers"],
+      "followUpTopics": ["Reading charts and graphs"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t2_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Data Comparison Practice | Wildlife Number Challenges",
+      "description": "Test your skills with comparison challenges using real wildlife data. Can you find which state has the most tigers? Can you rank the animals from most to fewest?",
+
+      "youtubeId": "rGMecZ_aERo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rGMecZ_aERo",
+      "thumbnailUrl": "https://img.youtube.com/vi/rGMecZ_aERo/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+
+      "tags": ["practice", "comparison challenge", "wildlife numbers", "test yourself"],
+
+      "learningObjectives": [
+        "Apply comparison skills independently",
+        "Solve multi-step comparison problems",
+        "Build confidence with data interpretation"
+      ],
+
+      "prerequisites": ["Comparing and ordering data"],
+      "followUpTopics": ["Reading charts and graphs"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn10_t2_v1", "gr4_mn10_t2_v2", "gr4_mn10_t2_v3", "gr4_mn10_t2_v4"],
+      "estimatedTime": 1740
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn10_t2_v1", "gr4_mn10_t2_v2", "gr4_mn10_t2_v4"],
+      "estimatedTime": 1320
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn10_t2_v1", "gr4_mn10_t2_v2", "gr4_mn10_t2_v3"],
+      "estimatedTime": 1350
+    }
+  }
+}

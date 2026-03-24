@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch7",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn7_001",
+      "term": "Survey",
+      "definition": "A way of collecting information by asking people questions or counting things. Surveys help us understand what people need or how things are in a community.",
+      "pronunciation": "SUR-vay",
+      "exampleUsage": "The panchayat did a survey to find out how many families in the village have clean drinking water.",
+      "difficulty": "easy",
+      "relatedTerms": ["Data", "Data Collection", "Community"]
+    },
+    {
+      "id": "gls_gr4_mn7_002",
+      "term": "Data",
+      "definition": "Information collected by counting, measuring, or asking questions. Data is usually written as numbers that tell us facts about something.",
+      "pronunciation": "DAY-tuh",
+      "exampleUsage": "The data showed that Street B had the most dustbins with 12.",
+      "difficulty": "easy",
+      "relatedTerms": ["Survey", "Data Collection", "Table"]
+    },
+    {
+      "id": "gls_gr4_mn7_003",
+      "term": "Data Collection",
+      "definition": "The process of gathering information by observing, counting, or asking questions. It is the first step in understanding any situation using mathematics.",
+      "pronunciation": "DAY-tuh kuh-LEK-shun",
+      "exampleUsage": "Data collection about trees in the village helped the panchayat plan a tree-planting drive.",
+      "difficulty": "medium",
+      "relatedTerms": ["Survey", "Data", "Table"]
+    },
+    {
+      "id": "gls_gr4_mn7_004",
+      "term": "Panchayat",
+      "definition": "The local village government or council that makes decisions for the village. The panchayat uses data and math to plan improvements like roads, water supply, and cleanliness.",
+      "pronunciation": "PUN-chaa-yut",
+      "exampleUsage": "The panchayat decided to build 10 new dustbins after looking at the survey data.",
+      "difficulty": "easy",
+      "relatedTerms": ["Community", "Village", "Planning"]
+    },
+    {
+      "id": "gls_gr4_mn7_005",
+      "term": "Community",
+      "definition": "A group of people living together in a place like a village or a town. A community works together to solve problems and make their area a better place.",
+      "pronunciation": "kuh-MYOO-nih-tee",
+      "exampleUsage": "The whole community of Mawlynnong village works together to keep it the cleanest in Asia.",
+      "difficulty": "easy",
+      "relatedTerms": ["Village", "Panchayat", "Survey"]
+    },
+    {
+      "id": "gls_gr4_mn7_006",
+      "term": "Total",
+      "definition": "The answer you get when you add all the numbers together. Finding the total tells you the complete amount of something.",
+      "pronunciation": "TOH-tul",
+      "exampleUsage": "The total number of houses in 4 streets was 80, found by adding 15 + 22 + 18 + 25.",
+      "difficulty": "easy",
+      "relatedTerms": ["Addition", "Sum", "Data"]
+    },
+    {
+      "id": "gls_gr4_mn7_007",
+      "term": "Difference",
+      "definition": "The answer you get when you subtract one number from another. It tells you how much more or how much less one number is compared to another.",
+      "pronunciation": "DIF-er-ens",
+      "exampleUsage": "The difference between 450 families and 275 families with toilets is 175 families.",
+      "difficulty": "easy",
+      "relatedTerms": ["Subtraction", "Comparison", "Less"]
+    },
+    {
+      "id": "gls_gr4_mn7_008",
+      "term": "Table",
+      "definition": "An organised way of showing data using rows and columns. Tables make it easy to read, compare, and understand information.",
+      "pronunciation": "TAY-bul",
+      "exampleUsage": "We made a table showing the number of trees on each street to compare them easily.",
+      "difficulty": "easy",
+      "relatedTerms": ["Data", "Rows", "Columns"]
+    },
+    {
+      "id": "gls_gr4_mn7_009",
+      "term": "Word Problem",
+      "definition": "A maths problem written as a story or real-life situation using words instead of just numbers. You need to read carefully and figure out which operation to use.",
+      "pronunciation": "WURD PROB-lum",
+      "exampleUsage": "The word problem said: 'A village has 520 trees and plants 85 more. How many trees are there now?'",
+      "difficulty": "easy",
+      "relatedTerms": ["Addition", "Subtraction", "Multiplication"]
+    },
+    {
+      "id": "gls_gr4_mn7_010",
+      "term": "Budget",
+      "definition": "The total amount of money available to spend on something. A village panchayat makes a budget to decide how to spend money on roads, water, and cleanliness.",
+      "pronunciation": "BUJ-it",
+      "exampleUsage": "The village had a budget of ₹10,000 and had to decide how to spend it wisely.",
+      "difficulty": "medium",
+      "relatedTerms": ["Money", "Panchayat", "Planning"]
+    }
+  ]
+}

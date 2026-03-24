@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ncert_ch25",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en25_v1",
+      "videoId": "gr4_en25_v1",
+      "content": "This lesson introduces the world of Indian spices through fun riddles. Students learn to identify common spices like turmeric (haldi), red chilli (lal mirch), cumin (jeera), and coriander (dhaniya) by their colour, smell, taste, and the part of the plant they come from. The lesson highlights how spices grow in different regions of India depending on the climate and soil.",
+      "keyPoints": [
+        "Spices come from different parts of plants - seeds, roots, bark, leaves, and flower buds",
+        "Turmeric is a root, cinnamon is bark, cloves are flower buds, cumin and mustard are seeds",
+        "Different spices grow in different parts of India based on climate",
+        "Spices add flavour, colour, and aroma to food"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en25_v2",
+      "videoId": "gr4_en25_v2",
+      "content": "This lesson explores why food tastes different in different parts of India. Students learn about regional cuisines and how the local climate, crops, and traditions influence what people eat. South Indian food uses coconut and curry leaves, while North Indian food uses dairy and garam masala. The lesson also covers how the same vegetable can be cooked in many different ways across regions.",
+      "keyPoints": [
+        "India has diverse regional cuisines shaped by local climate and crops",
+        "South India uses coconut, curry leaves, and rice as staples",
+        "North India uses wheat, dairy, and spice blends like garam masala",
+        "The same ingredients can taste very different depending on the spices used"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en25_v3",
+      "videoId": "gr4_en25_v3",
+      "content": "This lesson looks at the history of the Indian spice trade and why spices were so important. Long ago, traders from Europe, Arabia, and China travelled thousands of kilometres to buy Indian spices like black pepper, cardamom, and cloves. Black pepper was called the 'King of Spices' and was sometimes worth more than gold. This trade brought people from many cultures to India.",
+      "keyPoints": [
+        "Black pepper is called the King of Spices and cardamom the Queen of Spices",
+        "Traders from Europe and Arabia came to India for spices",
+        "Kerala was a major centre of the spice trade",
+        "The spice trade connected India to the rest of the world"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en25_v4",
+      "videoId": "gr4_en25_v4",
+      "content": "This lesson teaches how spices are stored, used, and valued in Indian households. Students learn about the masala dabba (spice box), how to keep spices fresh, and the medicinal uses of common spices. Turmeric is used as an antiseptic, ginger helps with colds, and cloves ease toothaches. Spices are not just for taste - they are part of India's traditional health practices.",
+      "keyPoints": [
+        "A masala dabba is a round spice box used in Indian kitchens",
+        "Whole spices stay fresh longer than ground spices",
+        "Many spices have medicinal properties - turmeric heals, ginger warms, cloves soothe",
+        "Spices are an important part of both Indian food and traditional medicine"
+      ],
+      "source": "manual"
+    }
+  ]
+}

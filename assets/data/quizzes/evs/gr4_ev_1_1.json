@@ -1,0 +1,198 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_ev_1_1",
+    "level": "topic",
+    "entityId": "gr4_ev_1_1",
+    "title": "Living and Non-living - Practice Quiz",
+    "questionIds": [
+      "q_living_001",
+      "q_living_002",
+      "q_living_003",
+      "q_living_004",
+      "q_living_005",
+      "q_living_006",
+      "q_living_007",
+      "q_living_008"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_living_001",
+      "questionText": "Which of these is a living thing?",
+      "questionType": "mcq",
+      "options": [
+        "Stone",
+        "Plant",
+        "Chair",
+        "Book"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A plant is a living thing. Living things grow, breathe, need food and water, reproduce, and respond to their surroundings.",
+      "hints": [
+        "Living things can grow",
+        "Which one needs water?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["living_things"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_002",
+      "questionText": "What do all living things need to survive?",
+      "questionType": "mcq",
+      "options": [
+        "Only food",
+        "Only water",
+        "Food, water, and air",
+        "Only shelter"
+      ],
+      "correctAnswer": "C",
+      "explanation": "All living things need food, water, and air to survive. They also need a suitable place to live.",
+      "hints": [
+        "Think about what we need",
+        "More than one thing"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["living_things", "needs"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_003",
+      "questionText": "Which is NOT a characteristic of living things?",
+      "questionType": "mcq",
+      "options": [
+        "They grow",
+        "They breathe",
+        "They remain the same size forever",
+        "They reproduce"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Living things grow and change over time. They don't remain the same size forever.",
+      "hints": [
+        "Living things change",
+        "Which is impossible for living things?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["living_things", "characteristics"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_004",
+      "questionText": "Which of these is a non-living thing?",
+      "questionType": "mcq",
+      "options": [
+        "Bird",
+        "Tree",
+        "Rock",
+        "Fish"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A rock is a non-living thing. It doesn't grow, breathe, eat, or reproduce.",
+      "hints": [
+        "Non-living things don't grow",
+        "Which cannot move on its own?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["non_living"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_005",
+      "questionText": "Can non-living things grow?",
+      "questionType": "mcq",
+      "options": [
+        "Yes, all non-living things grow",
+        "No, they cannot grow",
+        "Only some can grow",
+        "They grow very slowly"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Non-living things do not grow. They may change shape or size due to external factors, but they don't grow like living things do.",
+      "hints": [
+        "Think about a stone",
+        "Can it grow bigger by itself?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["non_living", "characteristics"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_006",
+      "questionText": "What do living things produce to create more of their kind?",
+      "questionType": "mcq",
+      "options": [
+        "Food",
+        "Water",
+        "Offspring",
+        "Air"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Living things produce offspring (babies or young ones) to create more of their kind. This is called reproduction.",
+      "hints": [
+        "Babies or young ones",
+        "Like a cat having kittens"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["living_things", "reproduction"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_007",
+      "questionText": "Which of these can respond to its surroundings?",
+      "questionType": "mcq",
+      "options": [
+        "A toy car",
+        "A dog",
+        "A table",
+        "A cup"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A dog is a living thing and can respond to its surroundings. It reacts to sound, light, touch, and other stimuli.",
+      "hints": [
+        "Living things react to changes",
+        "Can it hear and see?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["living_things", "response"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_living_008",
+      "questionText": "Why do living things need air?",
+      "questionType": "mcq",
+      "options": [
+        "To play",
+        "To breathe",
+        "To swim",
+        "To run"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Living things need air to breathe. Breathing helps them get oxygen, which they need to stay alive.",
+      "hints": [
+        "We breathe air",
+        "Oxygen is important"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["living_things", "breathing"],
+      "topicIds": ["gr4_ev_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

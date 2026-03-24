@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u5",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 5: Courage & Inspiration",
+      "description": "Don't Be Afraid of the Dark, Helen Keller, and Adjectives",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "Don't Be Afraid of the Dark",
+      "description": "A poem about being brave and not fearing the darkness",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_message",
+      "label": "Poem's Message",
+      "description": "Darkness is natural and there is nothing to fear about it",
+      "parentId": "node_poem",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_imagery",
+      "label": "Nature at Night",
+      "description": "The poem shows that animals, stars, and the moon make the night beautiful",
+      "parentId": "node_poem",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_poem_courage",
+      "label": "Being Brave",
+      "description": "The poem encourages children to face fears and be courageous",
+      "parentId": "node_poem",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_helen",
+      "label": "Helen Keller",
+      "description": "The inspiring true story of a deaf-blind girl who changed the world",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_helen_early",
+      "label": "Early Life",
+      "description": "Helen lost her sight and hearing at 19 months due to illness",
+      "parentId": "node_helen",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_helen_teacher",
+      "label": "Anne Sullivan",
+      "description": "Her devoted teacher who spelled words into Helen's palm to communicate",
+      "parentId": "node_helen",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_helen_water",
+      "label": "The Water Moment",
+      "description": "Helen's breakthrough: she understood 'W-A-T-E-R' when water flowed on her hand",
+      "parentId": "node_helen_teacher",
+      "positionX": 50,
+      "positionY": 300,
+      "color": "#FFE0B2",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_helen_achieve",
+      "label": "Achievements",
+      "description": "Graduated college, wrote 12 books, gave speeches worldwide, inspired millions",
+      "parentId": "node_helen",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_adjectives",
+      "label": "Adjectives",
+      "description": "Describing words that tell us more about a noun",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_adj_types",
+      "label": "Types of Adjectives",
+      "description": "Adjectives describe colour (red), size (big), shape (round), quality (brave), number (three)",
+      "parentId": "node_adjectives",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_adj_position",
+      "label": "Position in a Sentence",
+      "description": "Adjectives usually come before the noun: 'a brave girl', 'the dark night'",
+      "parentId": "node_adjectives",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_adj_examples",
+      "label": "Adjectives from the Unit",
+      "description": "brave, dark, blind, deaf, determined, inspiring, beautiful, kind, tall, little",
+      "parentId": "node_adjectives",
+      "positionX": 250,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

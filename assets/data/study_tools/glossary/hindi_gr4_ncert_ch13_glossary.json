@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch13",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn13_001",
+      "term": "हुदहुद (Hudhud)",
+      "definition": "The Hoopoe bird - a beautiful bird known for its fan-shaped crest on its head, striped black-and-white wings, and its distinctive 'hoop-hoop-hoop' call. It is found in India and many parts of Asia, Europe, and Africa. The name comes from its call sound.",
+      "pronunciation": "HUD-hud",
+      "exampleUsage": "हुदहुद अपनी कलगी के लिए जाना जाता है। (The hoopoe is known for its crest.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कलगी", "पक्षी", "चोंच"]
+    },
+    {
+      "id": "gls_gr4_hn13_002",
+      "term": "कलगी (Kalgi)",
+      "definition": "A crest or tuft of feathers on the head of a bird. The hoopoe's kalgi is its most distinctive feature - it can be opened like a fan when the bird is excited or alarmed, and folded flat when resting. It is brownish-orange with black tips.",
+      "pronunciation": "KAL-gee",
+      "exampleUsage": "हुदहुद की कलगी पंखे की तरह खुलती है। (The hoopoe's crest opens like a fan.)",
+      "difficulty": "easy",
+      "relatedTerms": ["हुदहुद", "पंख", "सिर"]
+    },
+    {
+      "id": "gls_gr4_hn13_003",
+      "term": "चोंच (Chonch)",
+      "definition": "Beak or bill of a bird. The hoopoe has a long, thin, slightly curved beak that it uses to dig into the ground and pull out insects and worms. Different birds have different shaped beaks depending on what they eat.",
+      "pronunciation": "CHONCH",
+      "exampleUsage": "हुदहुद की चोंच लंबी और पतली होती है। (The hoopoe's beak is long and thin.)",
+      "difficulty": "easy",
+      "relatedTerms": ["हुदहुद", "कीड़े", "भोजन"]
+    },
+    {
+      "id": "gls_gr4_hn13_004",
+      "term": "कीड़े-मकोड़े (Keede-Makode)",
+      "definition": "Insects and bugs - small creatures that crawl or fly. The hoopoe's main food is keede-makode. It finds them by poking its long beak into the soil. By eating insects that harm crops, the hoopoe helps farmers.",
+      "pronunciation": "KEE-de ma-KO-de",
+      "exampleUsage": "हुदहुद ज़मीन से कीड़े-मकोड़े निकालकर खाता है। (The hoopoe digs out insects from the ground to eat.)",
+      "difficulty": "easy",
+      "relatedTerms": ["भोजन", "फसल", "किसान"]
+    },
+    {
+      "id": "gls_gr4_hn13_005",
+      "term": "घोंसला (Ghonsla)",
+      "definition": "A nest - the home that a bird builds for laying eggs and raising its babies. The hoopoe does not build a typical nest. It makes its ghonsla in tree hollows, holes in walls, or crevices in old buildings.",
+      "pronunciation": "GHON-slaa",
+      "exampleUsage": "हुदहुद पेड़ के खोखले में अपना घोंसला बनाता है। (The hoopoe makes its nest in a tree hollow.)",
+      "difficulty": "easy",
+      "relatedTerms": ["पेड़", "अंडे", "बच्चे"]
+    },
+    {
+      "id": "gls_gr4_hn13_006",
+      "term": "पंख (Pankh)",
+      "definition": "Feathers or wings of a bird. The hoopoe's wings have a beautiful pattern of black and white stripes. Its body feathers are brownish-orange. Birds use pankh for flying, keeping warm, and displaying during courtship.",
+      "pronunciation": "PANKH",
+      "exampleUsage": "हुदहुद के पंखों पर काली-सफ़ेद धारियाँ होती हैं। (The hoopoe's wings have black and white stripes.)",
+      "difficulty": "easy",
+      "relatedTerms": ["उड़ान", "कलगी", "धारियाँ"]
+    },
+    {
+      "id": "gls_gr4_hn13_007",
+      "term": "धारियाँ (Dhariyan)",
+      "definition": "Stripes - lines of alternating colours. The hoopoe has distinctive black and white stripes on its wings and back. These dhariyan help identify the bird and also serve as camouflage in certain environments.",
+      "pronunciation": "DHAA-ri-yaan",
+      "exampleUsage": "हुदहुद के शरीर पर सुंदर धारियाँ होती हैं। (The hoopoe has beautiful stripes on its body.)",
+      "difficulty": "easy",
+      "relatedTerms": ["पंख", "रंग", "पहचान"]
+    },
+    {
+      "id": "gls_gr4_hn13_008",
+      "term": "प्रवासी पक्षी (Pravasi Pakshi)",
+      "definition": "Migratory birds - birds that travel long distances from one place to another based on seasons. Some hoopoes are pravasi pakshi that move to warmer areas during winter. Many birds migrate thousands of kilometres every year.",
+      "pronunciation": "pra-VAA-see PAK-shee",
+      "exampleUsage": "कुछ हुदहुद सर्दियों में गर्म देशों में चले जाते हैं। (Some hoopoes migrate to warmer countries in winter.)",
+      "difficulty": "medium",
+      "relatedTerms": ["मौसम", "यात्रा", "स्थानीय पक्षी"]
+    },
+    {
+      "id": "gls_gr4_hn13_009",
+      "term": "पर्यावरण (Paryavaran)",
+      "definition": "Environment - everything around us including air, water, trees, animals, and birds. Birds like the hoopoe are an important part of the paryavaran. They help maintain the balance of nature by eating insects and spreading seeds.",
+      "pronunciation": "PAR-yaa-VA-ran",
+      "exampleUsage": "पक्षी हमारे पर्यावरण का ज़रूरी हिस्सा हैं। (Birds are an essential part of our environment.)",
+      "difficulty": "medium",
+      "relatedTerms": ["प्रकृति", "संतुलन", "जीव-जंतु"]
+    },
+    {
+      "id": "gls_gr4_hn13_010",
+      "term": "संरक्षण (Sanrakshan)",
+      "definition": "Conservation or protection - the act of keeping something safe from harm or destruction. Pakshi sanrakshan (bird conservation) means protecting birds and their habitats. We should protect birds like the hoopoe by not cutting trees and not polluting.",
+      "pronunciation": "SAN-rak-shan",
+      "exampleUsage": "पक्षियों का संरक्षण बहुत ज़रूरी है। (Conservation of birds is very important.)",
+      "difficulty": "medium",
+      "relatedTerms": ["रक्षा", "पर्यावरण", "सुरक्षा"]
+    }
+  ]
+}

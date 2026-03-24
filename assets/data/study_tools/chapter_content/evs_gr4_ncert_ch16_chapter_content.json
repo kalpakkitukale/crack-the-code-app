@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch16",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en16",
+    "title": "A Busy Month",
+    "content": "This chapter from the NCERT Looking Around textbook explores how different months are filled with festivals, celebrations, and seasonal activities. It focuses on January as a particularly busy month in India, with Makar Sankranti, Pongal, Lohri, and Republic Day all happening. Students learn about the calendar, how to track months and dates, and discover the rich diversity of Indian festivals. The chapter also connects festivals to seasons, showing how weather influences what we wear, eat, and celebrate. Children are encouraged to learn about their own family traditions and appreciate the festivals of others.",
+    "keyPoints": [
+      "January is a busy month with Makar Sankranti, Pongal, Lohri, and Republic Day",
+      "India celebrates many different festivals throughout the year",
+      "Harvest festivals celebrate when crops are ready to be gathered",
+      "Festivals bring families and communities together",
+      "Activities, food, and clothing change with the seasons",
+      "A calendar helps us keep track of months, dates, and special days"
+    ],
+    "learningObjectives": [
+      "Name festivals celebrated in different months of the year",
+      "Understand the significance of national holidays like Republic Day and Independence Day",
+      "Connect festivals to seasons and weather changes",
+      "Appreciate the diversity of celebrations across India",
+      "Use a calendar to find dates and plan for events"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en16_001",
+      "title": "My Festival Diary Activity",
+      "content": "Make a 'Festival Diary' for the whole year! Take 12 pages, one for each month. Write down the festivals your family celebrates in each month. Draw pictures of the special food, clothes, and activities for each festival. Ask your grandparents or parents about why they celebrate each festival. Share your diary with friends to learn about their festivals too!",
+      "tags": ["activity", "creative-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en16_002",
+      "title": "Festival Food Connection",
+      "content": "Did you notice that festival foods often match the season? In winter festivals like Lohri and Sankranti, we eat warming foods like rewri, gajak, and til laddu made with sesame and jaggery. In summer, we enjoy cooling drinks during festivals. During harvest festivals, we eat dishes made from freshly harvested crops like rice pongal or wheat rotis. Seasons and food are closely connected!",
+      "tags": ["study-tip", "food-and-seasons"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en16_003",
+      "title": "Calendar Reading Practice",
+      "content": "Pick up a calendar and try these activities: (1) Find your birthday - what day does it fall on this year? (2) Count how many Sundays are in January. (3) Find Republic Day and Independence Day. (4) Look for festival dates marked in red. (5) Count the number of days in each month - some have 30, some have 31, and February is special! This will make you a calendar expert.",
+      "tags": ["study-tip", "practice"],
+      "isPinned": false
+    }
+  ]
+}

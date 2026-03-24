@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch5",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Honeybees",
+      "description": "Learning about bees and honey production",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_types",
+      "label": "Types of Bees",
+      "description": "Three types of bees in a hive",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_queen",
+      "label": "Queen Bee",
+      "description": "Lays up to 2,000 eggs per day",
+      "parentId": "node_types",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_worker",
+      "label": "Worker Bees",
+      "description": "Collect nectar, make honey, guard hive",
+      "parentId": "node_types",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_drone",
+      "label": "Drone Bees",
+      "description": "Male bees that help the queen",
+      "parentId": "node_types",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_honey",
+      "label": "Making Honey",
+      "description": "The process from flower to honey",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_nectar",
+      "label": "Collecting Nectar",
+      "description": "Bees suck sweet liquid from flowers",
+      "parentId": "node_honey",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_process",
+      "label": "Processing",
+      "description": "Chewing and fanning to make thick honey",
+      "parentId": "node_honey",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_hive",
+      "label": "The Beehive",
+      "description": "Home of the bee colony",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_honeycomb",
+      "label": "Honeycomb",
+      "description": "Hexagonal wax cells for honey and eggs",
+      "parentId": "node_hive",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_colony",
+      "label": "Colony",
+      "description": "20,000 to 60,000 bees living together",
+      "parentId": "node_hive",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_importance",
+      "label": "Why Bees Matter",
+      "description": "Bees are essential for nature and humans",
+      "parentId": "node_root",
+      "positionX": -100,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_pollination",
+      "label": "Pollination",
+      "description": "Bees help plants grow fruits and seeds",
+      "parentId": "node_importance",
+      "positionX": -150,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_beekeeping",
+      "label": "Beekeeping",
+      "description": "People raise bees for honey (apiculture)",
+      "parentId": "node_importance",
+      "positionX": -50,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

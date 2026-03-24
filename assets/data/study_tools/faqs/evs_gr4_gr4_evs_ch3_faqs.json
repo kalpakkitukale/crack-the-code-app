@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ch3",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_ev3_001",
+      "videoId": "gr4_ev3_v1",
+      "question": "What is the difference between a tree and a shrub?",
+      "answer": "A tree is very tall and has one thick, strong, woody trunk. A shrub is shorter and has many thin, woody stems that branch out near the ground. For example, a mango tree is a tree, while a rose plant is a shrub.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_ev3_002",
+      "videoId": "gr4_ev3_v1",
+      "question": "Is tulsi a herb or a shrub?",
+      "answer": "Tulsi is actually a shrub! Even though it is small, its stem is woody and it has many branches growing near the ground. Many people think it is a herb because it is small, but the type of stem decides the group.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_ev3_003",
+      "videoId": "gr4_ev3_v1",
+      "question": "What is the difference between a climber and a creeper?",
+      "answer": "Both have weak stems that cannot stand on their own. A climber grows upward by holding onto a support like a wall or a pole (for example, money plant). A creeper spreads along the ground (for example, pumpkin plant).",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_ev3_004",
+      "videoId": "gr4_ev3_v2",
+      "question": "Which parts of plants do we eat?",
+      "answer": "We eat many different parts! Roots (carrot, radish), stems (sugarcane, potato), leaves (spinach, cabbage), flowers (cauliflower, broccoli), fruits (mango, apple), and seeds (rice, wheat, dal). Almost every part of a plant can be food!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_ev3_005",
+      "videoId": "gr4_ev3_v2",
+      "question": "Why do plants release oxygen?",
+      "answer": "Plants make their food using sunlight, water, and carbon dioxide from the air. This process is called photosynthesis. When plants make food this way, oxygen is released as an extra product. This oxygen goes into the air for us to breathe!",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_ev3_006",
+      "videoId": "gr4_ev3_v2",
+      "question": "What things do we get from trees?",
+      "answer": "We get many useful things from trees! Wood is used to make furniture, doors, and houses. Paper is made from wood pulp. Rubber comes from rubber trees. We also get fruits, shade, gum, and medicines from different trees.",
+      "status": "answered",
+      "upvotes": 14
+    },
+    {
+      "id": "faq_gr4_ev3_007",
+      "videoId": "gr4_ev3_v2",
+      "question": "How do plant roots protect the soil?",
+      "answer": "Plant roots spread deep into the soil and hold it together tightly. When rain falls or wind blows, the roots stop the soil from being washed or blown away. This is why areas with lots of trees have healthy soil, while bare land often loses its topsoil.",
+      "status": "answered",
+      "upvotes": 12
+    },
+    {
+      "id": "faq_gr4_ev3_008",
+      "videoId": "gr4_ev3_v2",
+      "question": "What are some common medicinal plants found in India?",
+      "answer": "India has many medicinal plants! Tulsi helps with cough and cold. Neem is used for skin problems and keeping insects away. Aloe vera heals burns and cares for skin. Amla (Indian gooseberry) is rich in Vitamin C. Haldi (turmeric) helps heal wounds and fights germs.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_ev3_009",
+      "videoId": "gr4_ev3_v1",
+      "question": "Can you give examples of herbs, shrubs, and trees?",
+      "answer": "Herbs: mint, coriander, wheat, rice, tomato. Shrubs: rose, hibiscus, tulsi, lemon, jasmine. Trees: mango, neem, banyan, peepal, coconut. Remember: herbs are small with soft stems, shrubs are medium with woody stems, and trees are tall with thick trunks.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_ev3_010",
+      "videoId": "gr4_ev3_v2",
+      "question": "Why should we plant more trees?",
+      "answer": "Trees give us clean air by releasing oxygen, provide shade, give food and wood, stop soil from washing away, and are home to many birds and animals. Cutting too many trees causes pollution and floods. Planting more trees keeps our planet healthy and beautiful!",
+      "status": "answered",
+      "upvotes": 24
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch8",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hn8_kavita",
+      "name": "कविता पाठ - कौन?",
+      "description": "Learn about the poem 'Kaun?' (Who?) - its meaning, imagery, and the sense of wonder about nature",
+      "topicId": "gr4_hi_8_1",
+      "chapterId": "gr4_hin_ncert_ch8",
+      "cards": [
+        {
+          "id": "card_gr4_hn8_001",
+          "front": "'कौन?' कविता किसके बारे में है? (What is the poem 'Kaun?' about?)",
+          "back": "यह कविता प्रकृति के रहस्यों के बारे में है। कवि कई सवाल पूछता है जैसे - फूलों में रंग कौन भरता है? पक्षी गाना कैसे गाते हैं? हवा कौन चलाता है? ये सवाल बच्चों में जिज्ञासा (curiosity) जगाते हैं। (This poem is about the mysteries of nature. The poet asks many questions like who fills colours in flowers, how birds sing, who makes the wind blow. These questions spark curiosity in children.)",
+          "hint": "The poem asks questions about the wonders of nature",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn8_002",
+          "front": "कविता में कवि क्या-क्या सवाल पूछता है? (What questions does the poet ask in the poem?)",
+          "back": "कवि पूछता है: फूलों को रंग कौन देता है? तारों को चमक कौन देता है? नदियों को बहना कौन सिखाता है? बादलों को बरसना कौन सिखाता है? ये सवाल प्रकृति की सुंदरता और उसके पीछे छिपे रहस्य के बारे में हैं। (The poet asks: Who gives colour to flowers? Who gives shine to stars? Who teaches rivers to flow? Who teaches clouds to rain? These questions are about the beauty and mystery of nature.)",
+          "hint": "Think about all the amazing things in nature that seem magical",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn8_003",
+          "front": "कविता में 'कौन?' शब्द बार-बार क्यों आता है? (Why does the word 'Kaun?' repeat in the poem?)",
+          "back": "'कौन?' शब्द बार-बार इसलिए आता है क्योंकि कवि प्रकृति के हर चमत्कार के बारे में सवाल पूछ रहा है। यह दोहराव (repetition) कविता को लय (rhythm) देता है और पाठक के मन में उत्सुकता बढ़ाता है। (The word 'Kaun?' repeats because the poet questions every wonder of nature. This repetition gives the poem rhythm and builds curiosity in the reader's mind.)",
+          "hint": "Repetition is a poetic device that creates rhythm and emphasis",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn8_004",
+          "front": "इस कविता में कौन-सी काव्य विशेषता (poetic device) है? (What poetic device is used in this poem?)",
+          "back": "इस कविता में 'प्रश्न शैली' (question style) का उपयोग है - पूरी कविता सवालों में लिखी गई है। 'पुनरुक्ति' (repetition) भी है क्योंकि 'कौन' शब्द बार-बार आता है। इसके अलावा 'अनुप्रास अलंकार' (alliteration) और तुकबंदी (rhyming) भी है। (The poem uses question style - it is written entirely in questions. It also uses repetition of 'Kaun', alliteration, and rhyming.)",
+          "hint": "Look at how the whole poem is structured as questions",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn8_005",
+          "front": "कविता पढ़कर आपको कैसा लगता है? (How does the poem make you feel?)",
+          "back": "यह कविता पढ़कर मन में जिज्ञासा (curiosity) और आश्चर्य (wonder) का भाव आता है। प्रकृति कितनी सुंदर और रहस्यमयी है, यह सोचकर अच्छा लगता है। कविता हमें अपने चारों ओर की दुनिया को ध्यान से देखने और सवाल पूछने के लिए प्रेरित करती है। (The poem creates feelings of curiosity and wonder. It feels good thinking about how beautiful and mysterious nature is. The poem inspires us to observe the world around us and ask questions.)",
+          "hint": "Think about the emotions of curiosity and wonder",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hn8_prashnottar",
+      "name": "प्रश्न उत्तर - कौन?",
+      "description": "Practice comprehension questions and answers from the poem 'Kaun?' to build understanding",
+      "topicId": "gr4_hi_8_2",
+      "chapterId": "gr4_hin_ncert_ch8",
+      "cards": [
+        {
+          "id": "card_gr4_hn8_006",
+          "front": "'रहस्य' शब्द का क्या अर्थ है? (What does the word 'Rahasya' mean?)",
+          "back": "रहस्य का अर्थ है ऐसी बात जो छिपी हो और जिसे समझना मुश्किल हो। प्रकृति में बहुत सारे रहस्य हैं जैसे फूलों में रंग कहाँ से आते हैं, बारिश कैसे होती है। ये सब प्रकृति के रहस्य हैं जिनके बारे में कविता में पूछा गया है। (Rahasya means a secret or mystery - something hidden that is difficult to understand. Nature has many mysteries like where colours come from in flowers and how rain happens.)",
+          "hint": "Think of something hidden or secret in nature",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hn8_007",
+          "front": "कविता में प्रकृति के कौन-कौन से तत्व (elements) का ज़िक्र है? (Which elements of nature are mentioned in the poem?)",
+          "back": "कविता में फूल, तारे, नदी, बादल, हवा, पक्षी, सूरज, चाँद जैसे प्रकृति के तत्वों का ज़िक्र है। कवि इन सब के बारे में सवाल पूछकर बच्चों को प्रकृति के बारे में सोचने के लिए प्रेरित करता है। (The poem mentions flowers, stars, rivers, clouds, wind, birds, sun, and moon. The poet asks questions about all of these to inspire children to think about nature.)",
+          "hint": "List all the natural things the poet asks about",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hn8_008",
+          "front": "'जिज्ञासा' का क्या मतलब है और यह कविता में कैसे दिखती है? (What does 'Jigyaasa' mean and how is it shown in the poem?)",
+          "back": "जिज्ञासा का मतलब है कुछ जानने की इच्छा या उत्सुकता (curiosity)। इस कविता में हर पंक्ति में एक सवाल है जो जिज्ञासा को दर्शाता है। कवि प्रकृति के बारे में सवाल पूछकर बच्चों में भी जिज्ञासा जगाता है। (Jigyaasa means the desire to know or curiosity. Every line of the poem has a question showing curiosity. The poet sparks curiosity in children by asking about nature.)",
+          "hint": "It is the desire to learn and ask questions",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hn8_009",
+          "front": "कविता में तुकबंदी (rhyming) के उदाहरण दो। (Give examples of rhyming from the poem.)",
+          "back": "कविता में पंक्तियों के अंत में तुकबंदी मिलती है जो कविता को गेय (musical) बनाती है। तुकबंदी से कविता याद करना आसान हो जाता है और पढ़ने में मज़ा आता है। हिंदी कविताओं में तुकबंदी एक प्रमुख विशेषता है। (The poem has rhyming at the end of lines which makes it musical. Rhyming makes the poem easier to remember and fun to read. Rhyming is a key feature of Hindi poems.)",
+          "hint": "Look at the last words of each pair of lines",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hn8_010",
+          "front": "इस कविता से हमें क्या प्रेरणा मिलती है? (What inspiration do we get from this poem?)",
+          "back": "यह कविता हमें प्रकृति से प्यार करना और उसकी सुंदरता की कदर करना सिखाती है। यह हमें सवाल पूछने और जिज्ञासु बने रहने के लिए प्रेरित करती है। जो बच्चे सवाल पूछते हैं, वे ज़्यादा सीखते हैं। प्रकृति हमारी सबसे बड़ी शिक्षक है! (The poem teaches us to love nature and appreciate its beauty. It inspires us to ask questions and stay curious. Children who ask questions learn more. Nature is our greatest teacher!)",
+          "hint": "Think about what curiosity and observation teach us",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

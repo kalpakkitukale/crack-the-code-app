@@ -1,0 +1,124 @@
+{
+  "patterns": [
+    {
+      "id": "short_a_cvc",
+      "name": "Short A (CVC)",
+      "pattern": "short_a",
+      "description": "Consonant-Vowel-Consonant words with short 'a' sound",
+      "rule": "When 'a' is between two consonants, it usually makes the short /æ/ sound",
+      "exampleWords": ["cat", "bat", "hat", "man", "fan"],
+      "exceptions": ["was", "want"],
+      "gradeLevel": 1,
+      "difficulty": "easy",
+      "tip": "Short 'a' says /æ/ like in 'apple'"
+    },
+    {
+      "id": "short_e_cvc",
+      "name": "Short E (CVC)",
+      "pattern": "short_e",
+      "description": "CVC words with short 'e' sound",
+      "rule": "When 'e' is between two consonants, it usually makes the short /ɛ/ sound",
+      "exampleWords": ["bed", "red", "pet", "hen", "pen"],
+      "exceptions": [],
+      "gradeLevel": 1,
+      "difficulty": "easy",
+      "tip": "Short 'e' says /ɛ/ like in 'egg'"
+    },
+    {
+      "id": "short_i_cvc",
+      "name": "Short I (CVC)",
+      "pattern": "short_i",
+      "description": "CVC words with short 'i' sound",
+      "rule": "When 'i' is between two consonants, it usually makes the short /ɪ/ sound",
+      "exampleWords": ["sit", "big", "pig", "dig", "hit"],
+      "exceptions": [],
+      "gradeLevel": 1,
+      "difficulty": "easy",
+      "tip": "Short 'i' says /ɪ/ like in 'igloo'"
+    },
+    {
+      "id": "magic_e",
+      "name": "Magic E (Silent E)",
+      "pattern": "magic_e",
+      "description": "Adding 'e' at the end makes the vowel say its name",
+      "rule": "When a word ends in consonant + e, the vowel before the consonant says its long sound (its name)",
+      "exampleWords": ["cake", "bike", "home", "cute", "name"],
+      "exceptions": ["have", "give", "love"],
+      "gradeLevel": 2,
+      "difficulty": "easy",
+      "tip": "Magic E jumps over one consonant to make the vowel say its name!"
+    },
+    {
+      "id": "consonant_blends",
+      "name": "Consonant Blends",
+      "pattern": "consonant_blends",
+      "description": "Two or three consonants blended together at the beginning or end",
+      "rule": "When consonants are next to each other, blend their sounds together smoothly",
+      "exampleWords": ["black", "crush", "string", "jump", "best"],
+      "exceptions": [],
+      "gradeLevel": 2,
+      "difficulty": "medium",
+      "tip": "Say both consonant sounds quickly together"
+    },
+    {
+      "id": "double_consonants",
+      "name": "Double Consonants",
+      "pattern": "double_consonants",
+      "description": "Words with doubled consonant letters",
+      "rule": "Double consonants often appear after a short vowel sound in the middle of a word",
+      "exampleWords": ["running", "happy", "kitten", "butter", "rabbit"],
+      "exceptions": [],
+      "gradeLevel": 3,
+      "difficulty": "medium",
+      "tip": "After a short vowel, double the consonant before adding -ing or -ed"
+    },
+    {
+      "id": "silent_letters",
+      "name": "Silent Letters",
+      "pattern": "silent_letters",
+      "description": "Words with letters that are written but not pronounced",
+      "rule": "Some letters in English words are silent - you write them but don't say them",
+      "exampleWords": ["knife", "write", "knight", "know", "climb"],
+      "exceptions": [],
+      "gradeLevel": 4,
+      "difficulty": "medium",
+      "tip": "Silent 'k' before 'n' (know), silent 'w' before 'r' (write), silent 'b' after 'm' (climb)"
+    },
+    {
+      "id": "ie_ei_rule",
+      "name": "I before E",
+      "pattern": "ie_ei",
+      "description": "The famous 'i before e except after c' rule",
+      "rule": "Usually 'i' comes before 'e' (believe), except after 'c' where 'e' comes before 'i' (receive)",
+      "exampleWords": ["believe", "receive", "field", "ceiling", "piece"],
+      "exceptions": ["weird", "their", "height", "neither", "seize"],
+      "gradeLevel": 5,
+      "difficulty": "hard",
+      "tip": "I before E, except after C, or when sounding like A as in neighbor and weigh"
+    },
+    {
+      "id": "prefix_un",
+      "name": "Prefix un-",
+      "pattern": "prefix_un",
+      "description": "Adding 'un-' to the beginning of a word to mean 'not'",
+      "rule": "The prefix 'un-' means 'not' or 'opposite of'. Just add it to the beginning without changing the base word",
+      "exampleWords": ["unhappy", "unkind", "unfair", "unlock", "unable"],
+      "exceptions": [],
+      "gradeLevel": 3,
+      "difficulty": "easy",
+      "tip": "un + happy = unhappy. The base word stays the same!"
+    },
+    {
+      "id": "suffix_tion",
+      "name": "Suffix -tion",
+      "pattern": "suffix_tion",
+      "description": "Words ending in -tion (pronounced 'shun')",
+      "rule": "The suffix '-tion' is pronounced 'shun' and turns verbs into nouns",
+      "exampleWords": ["action", "nation", "station", "education", "question"],
+      "exceptions": [],
+      "gradeLevel": 5,
+      "difficulty": "medium",
+      "tip": "-tion says 'shun'. Use -tion after most consonants and long vowels"
+    }
+  ]
+}

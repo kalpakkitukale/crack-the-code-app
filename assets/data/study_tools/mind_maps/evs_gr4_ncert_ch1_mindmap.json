@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch1",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Going to School",
+      "description": "Different ways children travel to school across India",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_land",
+      "label": "By Land",
+      "description": "Travelling on roads and paths",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_walking",
+      "label": "Walking",
+      "description": "Most common in villages, children walk in groups",
+      "parentId": "node_land",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_cycle",
+      "label": "Bicycle / Rickshaw",
+      "description": "Cycling or cycle-rickshaw for short distances",
+      "parentId": "node_land",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_bus",
+      "label": "Bus / Auto",
+      "description": "School bus or auto-rickshaw in towns and cities",
+      "parentId": "node_land",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_water",
+      "label": "By Water",
+      "description": "Crossing rivers and backwaters",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_boat",
+      "label": "Boat",
+      "description": "Used near rivers, lakes, and backwaters",
+      "parentId": "node_water",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_bamboo",
+      "label": "Bamboo Bridge",
+      "description": "Simple bridges over streams in villages",
+      "parentId": "node_water",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_hills",
+      "label": "In Hilly Areas",
+      "description": "Special ways to travel in mountains",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_trolley",
+      "label": "Trolley / Ropeway",
+      "description": "Cart on rope to cross valleys",
+      "parentId": "node_hills",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_steep",
+      "label": "Steep Paths",
+      "description": "Walking up and down mountain trails",
+      "parentId": "node_hills",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_challenges",
+      "label": "Challenges",
+      "description": "Difficulties children face getting to school",
+      "parentId": "node_root",
+      "positionX": -100,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_weather",
+      "label": "Weather Problems",
+      "description": "Rain, floods, and snow block paths",
+      "parentId": "node_challenges",
+      "positionX": -150,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_distance",
+      "label": "Long Distances",
+      "description": "Some children walk many kilometres daily",
+      "parentId": "node_challenges",
+      "positionX": -50,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 13
+    }
+  ]
+}

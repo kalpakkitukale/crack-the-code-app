@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ncert_ch4",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en4_v1",
+      "videoId": "gr4_en4_v1",
+      "content": "This lesson tells the inspiring story of Amrita Devi, a brave woman from the Bishnoi community in Rajasthan. When the king's soldiers came to cut down the khejri trees in her village, Amrita Devi hugged a tree and refused to let them cut it. She said she would rather give her life than let the trees be harmed. Her three daughters and 363 other Bishnoi villagers also sacrificed their lives. The king was so moved that he ordered that no trees should ever be cut in Bishnoi villages again.",
+      "keyPoints": [
+        "Amrita Devi was a Bishnoi woman from Rajasthan",
+        "She gave her life to protect khejri trees from being cut",
+        "363 other Bishnois also sacrificed their lives for trees",
+        "The king ordered that trees in Bishnoi villages must be protected"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en4_v2",
+      "videoId": "gr4_en4_v2",
+      "content": "This lesson explains why trees are so important for all living things. Trees produce oxygen that we breathe, give us fruits, wood, and medicines. Their roots hold the soil together and prevent erosion. Trees release water vapour through transpiration, helping form clouds and bring rain. They provide homes for birds, squirrels, and insects. Without trees, life on Earth would become very difficult for both humans and animals.",
+      "keyPoints": [
+        "Trees produce oxygen and absorb carbon dioxide",
+        "Tree roots prevent soil erosion",
+        "Transpiration from trees helps bring rainfall",
+        "Trees provide food, shelter, and homes for wildlife"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en4_v3",
+      "videoId": "gr4_en4_v3",
+      "content": "This lesson introduces important conservation efforts in India. The Chipko Movement started in 1973 when women in Uttarakhand hugged trees to prevent them from being cut. 'Chipko' means 'to hug'. The lesson also covers Van Mahotsav, a tree planting festival held every July when people across India plant new trees. Students learn that everyone can help protect trees by planting saplings, not wasting paper, and spreading awareness.",
+      "keyPoints": [
+        "The Chipko Movement started in 1973 in Uttarakhand",
+        "Village women hugged trees to stop them from being cut",
+        "Van Mahotsav is celebrated every July for tree planting",
+        "Everyone can help by planting trees and not wasting paper"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en4_v4",
+      "videoId": "gr4_en4_v4",
+      "content": "This lesson explains the problems caused by deforestation - cutting down large numbers of trees. When forests are destroyed, animals lose their homes, soil gets washed away by rain, there is less oxygen, temperatures rise, and rainfall decreases. Deforestation also contributes to climate change. The lesson emphasises that we need to plant more trees than we cut and protect existing forests for the sake of future generations.",
+      "keyPoints": [
+        "Deforestation causes animals to lose their homes",
+        "Without trees, soil erosion increases and rainfall decreases",
+        "Cutting forests contributes to climate change",
+        "We must plant more trees and protect existing forests"
+      ],
+      "source": "manual"
+    }
+  ]
+}

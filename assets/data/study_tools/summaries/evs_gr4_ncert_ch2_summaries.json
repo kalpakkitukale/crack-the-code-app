@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch2",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en2_v1",
+      "videoId": "gr4_en2_v1",
+      "content": "This lesson introduces facial features and helps students observe the differences in how people look. Everyone has eyes, a nose, ears, a mouth, and eyebrows, but each person's features are shaped differently. Students learn to observe carefully and notice details like eye shape, nose size, and ear shape. The lesson emphasises that these differences are natural and make each person unique.",
+      "keyPoints": [
+        "Every person has the same basic facial features",
+        "Each person's features are shaped differently",
+        "Careful observation helps us notice details",
+        "Our differences make us unique and special"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en2_v2",
+      "videoId": "gr4_en2_v2",
+      "content": "This lesson explores how we get our features from our parents. Children often look like their mother, father, or grandparents because traits like eye colour, hair type, and nose shape are inherited. The lesson also discusses how brothers and sisters may look similar but are never exactly the same, even identical twins have tiny differences.",
+      "keyPoints": [
+        "Children inherit features from their parents",
+        "Siblings can look similar but never identical",
+        "Even identical twins have tiny differences",
+        "Family resemblance connects us to our relatives"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en2_v3",
+      "videoId": "gr4_en2_v3",
+      "content": "This lesson encourages students to appreciate the diversity of human appearances. People from different parts of India and the world may have different skin tones, hair types, and facial features. The lesson teaches that all these differences are beautiful and that we should never judge or make fun of how someone looks. It promotes respect and acceptance of everyone's appearance.",
+      "keyPoints": [
+        "People across India and the world look different",
+        "Skin tones, hair types, and features vary by region",
+        "All differences in appearance are natural and beautiful",
+        "We should respect and accept how everyone looks"
+      ],
+      "source": "manual"
+    }
+  ]
+}

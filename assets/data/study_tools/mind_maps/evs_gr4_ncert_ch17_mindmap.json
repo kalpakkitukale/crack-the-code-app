@@ -1,0 +1,187 @@
+{
+  "chapterId": "gr4_evs_ncert_ch17",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Nandita in Mumbai",
+      "description": "City life and urban living",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_housing",
+      "label": "City Housing",
+      "description": "Different types of homes in a city",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_flats",
+      "label": "Flats / Apartments",
+      "description": "Homes in tall buildings with many floors",
+      "parentId": "node_housing",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_chawls",
+      "label": "Chawls",
+      "description": "Old shared buildings with common areas",
+      "parentId": "node_housing",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_slums",
+      "label": "Slums",
+      "description": "Crowded areas with small, temporary homes",
+      "parentId": "node_housing",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_transport",
+      "label": "City Transport",
+      "description": "Ways people travel in a city",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_trains",
+      "label": "Local Trains",
+      "description": "Lifeline of Mumbai - 75 lakh daily passengers",
+      "parentId": "node_transport",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_buses",
+      "label": "Buses & Autos",
+      "description": "BEST buses and auto-rickshaws",
+      "parentId": "node_transport",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_metro",
+      "label": "Metro Trains",
+      "description": "Fast trains underground or on elevated tracks",
+      "parentId": "node_transport",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_people",
+      "label": "People & Work",
+      "description": "People who make the city run",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_dabbawalas",
+      "label": "Dabbawalas",
+      "description": "Deliver lunch boxes across the city",
+      "parentId": "node_people",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_workers",
+      "label": "City Workers",
+      "description": "Diverse jobs - offices, shops, factories",
+      "parentId": "node_people",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_landmarks",
+      "label": "Famous Places",
+      "description": "Landmarks and attractions of Mumbai",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_gateway",
+      "label": "Gateway of India",
+      "description": "Historic monument near the sea",
+      "parentId": "node_landmarks",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_marine",
+      "label": "Marine Drive",
+      "description": "Beautiful seaside road called Queen's Necklace",
+      "parentId": "node_landmarks",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_problems",
+      "label": "City Challenges",
+      "description": "Problems that cities face",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_pollution",
+      "label": "Pollution",
+      "description": "Dirty air and water from vehicles and waste",
+      "parentId": "node_problems",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 16
+    },
+    {
+      "id": "node_crowding",
+      "label": "Overcrowding",
+      "description": "Too many people, traffic jams, long queues",
+      "parentId": "node_problems",
+      "positionX": 200,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 17
+    }
+  ]
+}

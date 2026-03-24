@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Varnamala (वर्णमाला)",
+      "description": "The Hindi Alphabet - the complete set of letters used in Hindi",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_swar",
+      "label": "Swar (स्वर)",
+      "description": "Vowels - 11 letters that can be spoken on their own: अ आ इ ई उ ऊ ऋ ए ऐ ओ औ",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_hrasva",
+      "label": "Hrasva Swar (ह्रस्व स्वर)",
+      "description": "Short vowels: अ, इ, उ, ऋ - take less time to say",
+      "parentId": "node_swar",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_deergha",
+      "label": "Deergha Swar (दीर्घ स्वर)",
+      "description": "Long vowels: आ, ई, ऊ, ए, ऐ, ओ, औ - take more time to say",
+      "parentId": "node_swar",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_matra",
+      "label": "Matra (मात्रा)",
+      "description": "Vowel signs that attach to consonants: ा ि ी ु ू े ै ो ौ",
+      "parentId": "node_swar",
+      "positionX": -250,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_vyanjan",
+      "label": "Vyanjan (व्यंजन)",
+      "description": "Consonants - 33 letters that need a vowel to be spoken: क to ह",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_kavarg",
+      "label": "Ka-Varg (क वर्ग)",
+      "description": "Throat sounds: क, ख, ग, घ, ङ",
+      "parentId": "node_vyanjan",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_chavarg",
+      "label": "Cha-Varg (च वर्ग)",
+      "description": "Palate sounds: च, छ, ज, झ, ञ",
+      "parentId": "node_vyanjan",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_tavarg1",
+      "label": "Ta-Varg (ट वर्ग)",
+      "description": "Retroflex tongue-tip sounds: ट, ठ, ड, ढ, ण",
+      "parentId": "node_vyanjan",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_tavarg2",
+      "label": "Ta-Varg (त वर्ग)",
+      "description": "Dental teeth sounds: त, थ, द, ध, न",
+      "parentId": "node_vyanjan",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_pavarg",
+      "label": "Pa-Varg (प वर्ग)",
+      "description": "Lip sounds: प, फ, ब, भ, म",
+      "parentId": "node_vyanjan",
+      "positionX": 250,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_antastha",
+      "label": "Antastha Vyanjan",
+      "description": "Semi-vowel consonants: य, र, ल, व",
+      "parentId": "node_vyanjan",
+      "positionX": 350,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_ushma",
+      "label": "Ushma Vyanjan",
+      "description": "Sibilant/fricative consonants: श, ष, स, ह",
+      "parentId": "node_vyanjan",
+      "positionX": 450,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_script",
+      "label": "Devanagari Lipi",
+      "description": "Hindi is written in the Devanagari script, from left to right with a line (Shirorekha) on top",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 13
+    }
+  ]
+}

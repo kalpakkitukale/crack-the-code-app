@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u4",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 4: Why? / Alice in Wonderland",
+      "description": "Curiosity, imagination, and asking questions",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_poem",
+      "label": "Why? (Poem)",
+      "description": "A poem about a child asking questions about the world",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_poem_theme",
+      "label": "Theme: Curiosity",
+      "description": "The poem celebrates the habit of asking questions",
+      "parentId": "node_poem",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_poem_questions",
+      "label": "Questions in the Poem",
+      "description": "Why is the sky blue? Why does the wind blow? Why does it rain?",
+      "parentId": "node_poem",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_poem_message",
+      "label": "Message",
+      "description": "Never stop asking questions -- it is how we learn and grow",
+      "parentId": "node_poem",
+      "positionX": -275,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_story",
+      "label": "Alice in Wonderland (Story)",
+      "description": "A story about a curious girl who enters a magical land",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_alice_char",
+      "label": "Alice",
+      "description": "A curious young girl who follows a white rabbit",
+      "parentId": "node_story",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_rabbit",
+      "label": "The White Rabbit",
+      "description": "A rabbit in a coat with a pocket watch, always in a hurry",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_events",
+      "label": "Key Events",
+      "description": "Alice falls down the rabbit hole, grows big and shrinks small",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Question Words",
+      "description": "Words used to ask questions: Who, What, Where, When, Why, Which, How",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_wh_words",
+      "label": "Wh-Words",
+      "description": "What (things), Where (place), When (time), Who (person), Why (reason), Which (choice)",
+      "parentId": "node_grammar",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_how",
+      "label": "How",
+      "description": "Asks about manner, amount, or degree: How far? How many? How old?",
+      "parentId": "node_grammar",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_question_mark",
+      "label": "Question Mark (?)",
+      "description": "Every question sentence must end with a question mark",
+      "parentId": "node_grammar",
+      "positionX": 275,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_connection",
+      "label": "Connecting Theme",
+      "description": "The poem, story, and grammar all connect through the idea of asking questions and being curious",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 400,
+      "color": "#E91E63",
+      "orderIndex": 13
+    }
+  ]
+}

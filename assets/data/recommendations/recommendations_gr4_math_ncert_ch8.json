@@ -1,0 +1,437 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch8",
+  "topicId": "gr4_mn_8_1",
+  "topicName": "Weighing in Grams and Kilograms",
+  "chapterId": "gr4_math_ncert_ch8",
+  "chapterName": "Weigh it, Pour it",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 8: Weigh it, Pour it (Weight and Capacity)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of heavy/light, full/empty, and multiplication. Can fast-track to measurement concepts with challenge content",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2900,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn8_v1",
+          "reason": "Introduction to weighing and using a balance",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v2",
+          "reason": "Learn grams and kilograms as units of weight",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v3",
+          "reason": "Learn millilitres and litres for capacity",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v4",
+          "reason": "Convert between g-kg and mL-L",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v5",
+          "reason": "Practice conversion with mixed units",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn8_v6",
+          "reason": "Challenge: Solve real-life weight and capacity word problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of weight and capacity concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2450,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn8_v1",
+          "reason": "Introduction to weighing basics",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v2",
+          "reason": "Learn grams and kilograms",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v3",
+          "reason": "Learn millilitres and litres",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v4",
+          "reason": "Conversion between units",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v6",
+          "reason": "Word problems for practice",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in heavy/light, full/empty, or multiplication. Needs targeted review before measurement concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 3210,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "heavy_light_weak": {
+            "addVideos": ["prereq_ch8_heavylight_v1"],
+            "priority": "high"
+          },
+          "full_empty_weak": {
+            "addVideos": ["prereq_ch8_fullempty_v1"],
+            "priority": "high"
+          },
+          "multiplication_basics_weak": {
+            "addVideos": ["prereq_ch8_multiply_v1"],
+            "priority": "medium"
+          },
+          "comparing_quantities_weak": {
+            "addVideos": ["prereq_ch8_multiply_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch8_heavylight_v1",
+          "reason": "Review: Comparing heavy and light objects",
+          "skippable": false,
+          "condition": "if heavy_light concept is weak"
+        },
+        {
+          "videoId": "prereq_ch8_fullempty_v1",
+          "reason": "Review: Full, empty, and half-full containers",
+          "skippable": false,
+          "condition": "if full_empty concept is weak"
+        },
+        {
+          "videoId": "prereq_ch8_multiply_v1",
+          "reason": "Review: Multiplication by 1000 for conversions",
+          "skippable": false,
+          "condition": "if multiplication_basics concept is weak"
+        },
+        {
+          "videoId": "gr4_mn8_v1",
+          "reason": "Start main topic: Introduction to weighing",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v2",
+          "reason": "Learn grams and kilograms",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v3",
+          "reason": "Learn millilitres and litres",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v6",
+          "reason": "Practice with word problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in comparing weight, capacity concepts, and multiplication before attempting measurement",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2190,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch8_heavylight_v1",
+          "reason": "Foundation: Review comparing heavy and light objects",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch8_fullempty_v1",
+          "reason": "Essential: Learn full, empty, and comparing containers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch8_multiply_v1",
+          "reason": "Critical: Multiplication by 1000 for unit conversions",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v1",
+          "reason": "Gentle intro to weighing things",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn8_v2",
+          "reason": "Begin main content: Grams and kilograms",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with weight and capacity."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "heavy_light": {
+        "conceptName": "Comparing objects as heavy or light",
+        "importance": "critical",
+        "videoIds": ["prereq_ch8_heavylight_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq8_1", "rq8_2", "rq8_3"]
+      },
+      "full_empty": {
+        "conceptName": "Understanding full, empty, and half-full containers",
+        "importance": "critical",
+        "videoIds": ["prereq_ch8_fullempty_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq8_4", "rq8_5", "rq8_6"]
+      },
+      "multiplication_basics": {
+        "conceptName": "Multiplication by 10, 100, and 1000",
+        "importance": "important",
+        "videoIds": ["prereq_ch8_multiply_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq8_7", "rq8_8"]
+      },
+      "comparing_quantities": {
+        "conceptName": "Comparing numbers and quantities using greater than, less than",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch8_multiply_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq8_9", "rq8_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn8_v2",
+        "checkpointName": "Grams and Kilograms Understanding Check",
+        "questions": [
+          {
+            "question": "Which unit would you use to weigh a mango?",
+            "options": ["Kilograms", "Grams", "Litres", "Millilitres"],
+            "correctAnswer": 1,
+            "explanation": "A mango is a small fruit, so we measure its weight in grams. A mango weighs about 200 grams."
+          },
+          {
+            "question": "How many grams are there in 1 kilogram?",
+            "options": ["10 grams", "100 grams", "1000 grams", "10000 grams"],
+            "correctAnswer": 2,
+            "explanation": "1 kilogram = 1000 grams. 'Kilo' means thousand, so kilogram means thousand grams!"
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand grams and kilograms well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch8_heavylight_v1",
+          "reason": "Student struggling with weight units, review heavy and light basics"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn8_v4",
+        "checkpointName": "Conversion Understanding Check",
+        "questions": [
+          {
+            "question": "How many millilitres are there in 2 litres?",
+            "options": ["200 mL", "2000 mL", "20 mL", "20000 mL"],
+            "correctAnswer": 1,
+            "explanation": "1 litre = 1000 mL, so 2 litres = 2 x 1000 = 2000 mL."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn8_v6",
+          "reason": "Student ready for word problem challenges"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the conversion video again and practise converting with the rule: 1 kg = 1000 g and 1 L = 1000 mL."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on heavy/light and full/empty"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising weighing and pouring with real objects at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You understand heavy and light, full and empty, and your multiplication is strong. You are ready to learn about grams, kilograms, millilitres, and litres. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand weight and capacity basics well. Let's learn about measuring with proper units like grams, kilograms, millilitres, and litres."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in comparing weight or capacity. Don't worry! We will start with targeted review videos on the concepts you need, then move to measurement."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review heavy/light, full/empty, and multiplication first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn measurement."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how weight and capacity concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Heavy and light comparison", "Full and empty containers", "Multiplication by 1000"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Comparing weights", "Comparing capacities", "Ordering objects by weight or capacity"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Grams and kilograms", "Millilitres and litres", "Choosing the right unit"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Converting kg to g", "Converting L to mL", "Adding and subtracting with mixed units"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Weight word problems", "Capacity word problems", "Real-life measurement applications"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "unitRecognition": {
+      "target": 90,
+      "description": "% of students who can correctly identify whether to use g/kg or mL/L for a given object"
+    },
+    "conversionAccuracy": {
+      "target": 80,
+      "description": "% of students who can correctly convert between kg-g and L-mL"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (25 min) + retake + main content (25 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing weight units (g/kg) with capacity units (mL/L)",
+      "solution1": "Use colour coding: weight in blue, capacity in green. Weight is for solid things, capacity is for liquids.",
+      "challenge2": "Students forgetting the conversion factor of 1000",
+      "solution2": "Use the memory trick: 'kilo means thousand' - so 1 kilogram = 1000 grams and 1 litre = 1000 millilitres.",
+      "challenge3": "Students struggling with mixed unit addition (e.g., 2 kg 300 g + 1 kg 700 g)",
+      "solution3": "Convert everything to the smaller unit first (grams or mL), add, then convert back to mixed units if needed."
+    }
+  }
+}

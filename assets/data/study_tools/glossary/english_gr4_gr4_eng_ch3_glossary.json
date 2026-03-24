@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ch3",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_e3_001",
+      "term": "Adjective",
+      "definition": "A word that describes a noun. It tells us about the size, colour, shape, number, or quality of something.",
+      "pronunciation": "AJ-ik-tiv",
+      "exampleUsage": "In 'The red ball is big', both 'red' and 'big' are adjectives.",
+      "difficulty": "easy",
+      "relatedTerms": ["describing word", "noun", "modifier"]
+    },
+    {
+      "id": "gls_gr4_e3_002",
+      "term": "Describing Word",
+      "definition": "Another name for an adjective. A word that gives more information about a noun by telling us what it looks, feels, sounds, tastes, or smells like.",
+      "pronunciation": "dih-SKRY-bing WURD",
+      "exampleUsage": "In 'a soft pillow', 'soft' is the describing word.",
+      "difficulty": "easy",
+      "relatedTerms": ["adjective", "noun"]
+    },
+    {
+      "id": "gls_gr4_e3_003",
+      "term": "Comparative",
+      "definition": "The form of an adjective used to compare two things. We usually add '-er' to short adjectives or use 'more' before longer ones.",
+      "pronunciation": "kum-PAR-uh-tiv",
+      "exampleUsage": "'Taller' is the comparative form of 'tall'. Riya is taller than Aman.",
+      "difficulty": "medium",
+      "relatedTerms": ["superlative", "adjective", "comparison"]
+    },
+    {
+      "id": "gls_gr4_e3_004",
+      "term": "Superlative",
+      "definition": "The form of an adjective used to show the most or the least among three or more things. We usually add '-est' or use 'most'.",
+      "pronunciation": "soo-PUR-luh-tiv",
+      "exampleUsage": "'Tallest' is the superlative form of 'tall'. She is the tallest girl in class.",
+      "difficulty": "medium",
+      "relatedTerms": ["comparative", "adjective", "comparison"]
+    },
+    {
+      "id": "gls_gr4_e3_005",
+      "term": "Noun",
+      "definition": "A naming word for a person, place, animal, or thing. Adjectives describe nouns.",
+      "pronunciation": "NOWN",
+      "exampleUsage": "In 'a clever fox', 'fox' is the noun and 'clever' is the adjective.",
+      "difficulty": "easy",
+      "relatedTerms": ["adjective", "pronoun"]
+    },
+    {
+      "id": "gls_gr4_e3_006",
+      "term": "Irregular Adjective",
+      "definition": "An adjective that does not follow the normal -er/-est rule when comparing. It changes to a completely different word.",
+      "pronunciation": "ih-REG-yoo-lar AJ-ik-tiv",
+      "exampleUsage": "'Good' changes to 'better' and 'best' instead of 'gooder' or 'goodest'.",
+      "difficulty": "medium",
+      "relatedTerms": ["comparative", "superlative", "adjective"]
+    },
+    {
+      "id": "gls_gr4_e3_007",
+      "term": "Quality",
+      "definition": "A feature or characteristic of something. Adjectives of quality describe what a thing is like.",
+      "pronunciation": "KWOL-uh-tee",
+      "exampleUsage": "In 'a kind teacher', the word 'kind' describes the quality of the teacher.",
+      "difficulty": "easy",
+      "relatedTerms": ["adjective", "describing word"]
+    },
+    {
+      "id": "gls_gr4_e3_008",
+      "term": "Degree",
+      "definition": "The level or extent to which an adjective applies. Adjectives have three degrees: positive, comparative, and superlative.",
+      "pronunciation": "dih-GREE",
+      "exampleUsage": "The three degrees of 'fast' are: fast (positive), faster (comparative), fastest (superlative).",
+      "difficulty": "medium",
+      "relatedTerms": ["comparative", "superlative", "positive"]
+    },
+    {
+      "id": "gls_gr4_e3_009",
+      "term": "Positive Degree",
+      "definition": "The simple, base form of an adjective when no comparison is being made. It just describes the noun on its own.",
+      "pronunciation": "POZ-uh-tiv dih-GREE",
+      "exampleUsage": "In 'The cat is small', the word 'small' is in the positive degree.",
+      "difficulty": "easy",
+      "relatedTerms": ["degree", "comparative", "superlative"]
+    },
+    {
+      "id": "gls_gr4_e3_010",
+      "term": "Modifier",
+      "definition": "A word that changes or adds detail to another word. Adjectives are modifiers because they add detail to nouns.",
+      "pronunciation": "MOD-ih-fy-er",
+      "exampleUsage": "In 'a shiny coin', the modifier 'shiny' adds detail to the noun 'coin'.",
+      "difficulty": "medium",
+      "relatedTerms": ["adjective", "describing word", "noun"]
+    }
+  ]
+}

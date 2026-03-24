@@ -1,0 +1,296 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch12",
+  "topicId": "gr4_mn_12_1",
+  "topicName": "Reading Time",
+  "chapterId": "gr4_math_ncert_ch12",
+  "chapterName": "Ticking Clocks and Turning Calendar",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about telling time and reading calendars",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "hour_hand",
+      "conceptName": "Reading the hour hand on a clock",
+      "importance": "critical",
+      "questionsTestingThis": ["rq12_1", "rq12_2", "rq12_3"],
+      "remedialVideoIds": ["prereq_ch12_clock_v1"]
+    },
+    {
+      "conceptId": "counting_fives",
+      "conceptName": "Skip counting by 5s (for reading minutes)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq12_4", "rq12_5", "rq12_6"],
+      "remedialVideoIds": ["prereq_ch12_counting5_v1"]
+    },
+    {
+      "conceptId": "days_months",
+      "conceptName": "Days of the week and months of the year",
+      "importance": "important",
+      "questionsTestingThis": ["rq12_7", "rq12_8"],
+      "remedialVideoIds": ["prereq_ch12_days_v1"]
+    },
+    {
+      "conceptId": "number_sequence",
+      "conceptName": "Number sequence and ordering",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq12_9", "rq12_10"],
+      "remedialVideoIds": ["prereq_ch12_counting5_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq12_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "hour_hand",
+      "question": "On a clock, the short hand is also called the:",
+      "options": ["Minute hand", "Hour hand", "Second hand", "Counting hand"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Hour hand",
+      "explanation": "The short hand on a clock is the hour hand. It moves slowly and tells us which hour it is.",
+      "tags": ["clock", "hour hand", "basic understanding"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused short hand with long hand",
+          "conceptGap": "Knowing which hand is which on a clock",
+          "remediation": "Remember: short hand = hour, long hand = minute"
+        }
+      ]
+    },
+    {
+      "id": "rq12_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "hour_hand",
+      "question": "If the short hand points to the number 3, what hour is it?",
+      "options": ["1 o'clock", "2 o'clock", "3 o'clock", "12 o'clock"],
+      "correctAnswer": 2,
+      "correctAnswerText": "3 o'clock",
+      "explanation": "When the short (hour) hand points to 3, it means it is 3 o'clock. The short hand always tells us the hour.",
+      "tags": ["clock", "hour hand", "reading time"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq12_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "hour_hand",
+      "question": "How many numbers are there on a clock face?",
+      "options": ["6", "10", "12", "24"],
+      "correctAnswer": 2,
+      "correctAnswerText": "12",
+      "explanation": "A clock face has 12 numbers, from 1 to 12. The short hand goes around the clock twice in one full day (24 hours).",
+      "tags": ["clock face", "numbers on clock"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Confused 24 hours in a day with numbers on the clock",
+          "conceptGap": "Difference between clock face numbers and hours in a day",
+          "remediation": "Count the numbers on a real clock face"
+        }
+      ]
+    },
+    {
+      "id": "rq12_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_fives",
+      "question": "What comes next when counting by 5s? 5, 10, 15, 20, __",
+      "options": ["21", "22", "25", "30"],
+      "correctAnswer": 2,
+      "correctAnswerText": "25",
+      "explanation": "When counting by 5s, you add 5 each time. After 20, the next number is 20 + 5 = 25.",
+      "tags": ["skip counting", "counting by 5s"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted by 1 instead of by 5",
+          "conceptGap": "Understanding skip counting pattern",
+          "remediation": "Practice counting by 5s using your fingers"
+        }
+      ]
+    },
+    {
+      "id": "rq12_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "counting_fives",
+      "question": "Count by 5s: 30, 35, 40, __, 50. What number is missing?",
+      "options": ["41", "42", "44", "45"],
+      "correctAnswer": 3,
+      "correctAnswerText": "45",
+      "explanation": "Counting by 5s: 30, 35, 40, 45, 50. The missing number is 45 because 40 + 5 = 45.",
+      "tags": ["skip counting", "missing number"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq12_6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "counting_fives",
+      "question": "On a clock, each number stands for 5 minutes. If the long hand points to 6, how many minutes is that?",
+      "options": ["6 minutes", "12 minutes", "25 minutes", "30 minutes"],
+      "correctAnswer": 3,
+      "correctAnswerText": "30 minutes",
+      "explanation": "Each number on the clock = 5 minutes. The number 6 means 6 x 5 = 30 minutes. So the long hand at 6 means 30 minutes past the hour.",
+      "tags": ["skip counting", "clock", "minutes"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Read the number directly without multiplying by 5",
+          "conceptGap": "Each clock number represents 5 minutes, not 1 minute",
+          "remediation": "Count by 5s around the clock: 5, 10, 15, 20, 25, 30"
+        }
+      ]
+    },
+    {
+      "id": "rq12_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "days_months",
+      "question": "How many days are there in one week?",
+      "options": ["5 days", "6 days", "7 days", "10 days"],
+      "correctAnswer": 2,
+      "correctAnswerText": "7 days",
+      "explanation": "There are 7 days in one week: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday.",
+      "tags": ["days of the week", "calendar basics"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 25,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted only school days (weekdays)",
+          "conceptGap": "A week includes weekends too",
+          "remediation": "Count all 7 days including Saturday and Sunday"
+        }
+      ]
+    },
+    {
+      "id": "rq12_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "days_months",
+      "question": "Which of these is the correct order of months?",
+      "options": ["January, March, February", "January, February, March", "February, January, March", "March, January, February"],
+      "correctAnswer": 1,
+      "correctAnswerText": "January, February, March",
+      "explanation": "The first three months of the year in order are: January (1st), February (2nd), March (3rd).",
+      "tags": ["months", "sequence", "calendar"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq12_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_sequence",
+      "question": "What number comes between 11 and 1 when you go around a clock?",
+      "options": ["10", "12", "2", "0"],
+      "correctAnswer": 1,
+      "correctAnswerText": "12",
+      "explanation": "On a clock, the numbers go 10, 11, 12, 1, 2... So 12 comes between 11 and 1.",
+      "tags": ["number sequence", "clock numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq12_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "number_sequence",
+      "question": "If today is Wednesday, what day will it be after 2 days?",
+      "options": ["Thursday", "Friday", "Saturday", "Monday"],
+      "correctAnswer": 1,
+      "correctAnswerText": "Friday",
+      "explanation": "Wednesday + 1 day = Thursday, Thursday + 1 day = Friday. So 2 days after Wednesday is Friday.",
+      "tags": ["sequence", "days", "counting forward"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Counted only 1 day forward instead of 2",
+          "conceptGap": "Counting days forward accurately",
+          "remediation": "Use fingers to count each day forward one at a time"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You know your clock basics and calendar vocabulary very well. You are ready to learn about telling time and reading calendars!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding of clocks and calendars. Let's start learning about telling time and calendars!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things about clocks and calendars but need to review a few basics. Watch the review videos first and then we will learn together!",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review how to read the clock hands, count by 5s, and learn the days and months. We have some fun videos to help you get ready!",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We'll show you some fun videos about clocks, counting by 5s, and the calendar first.",
+    "high_score_praise": "Awesome! You're all set to learn about telling time and reading calendars!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_hin_ncert_ch14",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn14",
+    "title": "मुफ्त ही मुफ्त (Free Free)",
+    "content": "This chapter from the NCERT Rimjhim textbook for Class 4 is a humorous story (हास्य कहानी) about what happens when people discover something is being given away for free (मुफ्त). The word 'free' creates tremendous excitement (उत्साह) and people rush to grab as much as they can. They push, shove, stuff their pockets, and fight over the free items - all without thinking whether they actually need them. The story uses comedy and satire to teach children about the dangers of greed (लालच). Through funny situations and dialogues, it delivers the important message that nothing in the world is truly free, that greed leads to foolish behaviour, and that self-control (संयम) and contentment (संतोष) are valuable qualities. The Hindi proverb 'लालच बुरी बला' (greed is an evil thing) captures the chapter's message perfectly. Students also learn new vocabulary and idioms (मुहावरे) while enjoying this entertaining story.",
+    "keyPoints": [
+      "A humorous story (हास्य कहानी) about people going crazy over free things",
+      "The word 'मुफ्त' (free) makes people lose their self-control and common sense",
+      "Greed (लालच) makes people take more than they need and act foolishly",
+      "The moral: nothing is truly free, and 'लालच बुरी बला' (greed is evil)",
+      "Self-control (संयम) and contentment (संतोष) are important qualities",
+      "Students learn Hindi idioms (मुहावरे) and everyday vocabulary"
+    ],
+    "learningObjectives": [
+      "Read and enjoy a humorous Hindi story with an important message",
+      "Understand the dangers of greed (लालच) and the value of contentment (संतोष)",
+      "Learn new Hindi vocabulary like मुफ्त, लालच, संयम, मूल्य, and बटोरना",
+      "Understand Hindi idioms (मुहावरे) like 'लालच बुरी बला'",
+      "Practise writing about personal experiences and expressing opinions in Hindi"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn14_001",
+      "title": "मुफ्त बनाम ज़रूरत - सोचो और लिखो (Free vs Need - Think and Write)",
+      "content": "Think about this: If a shop is giving away everything for free for one hour, what would you take? Make two lists in Hindi - (1) things you really NEED (ज़रूरत) and (2) things you only WANT (इच्छा). Are the two lists different? This activity helps you understand the difference between need and want. Remember the story's lesson - just because something is free does not mean you should take it! Write 5 sentences about what you would do differently from the greedy characters in the story.",
+      "tags": ["activity", "values-education"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn14_002",
+      "title": "लालच पर मुहावरे इकट्ठे करो (Collect Idioms About Greed)",
+      "content": "Hindi is rich in proverbs and idioms (मुहावरे और कहावतें) about greed. Find and write at least 5 Hindi proverbs related to greed or getting things for free. Start with: (1) लालच बुरी बला (greed is evil) (2) मुफ्त का चंदन घिस मेरे नंदन (if free, everyone wants it). Ask your parents, grandparents, or teachers for more. Write each proverb with its meaning in simple Hindi and English. Share your collection with your class!",
+      "tags": ["activity", "language-enrichment"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn14_003",
+      "title": "हास्य कहानी लिखो (Write a Funny Story)",
+      "content": "Now it is your turn to write! Create a short funny story (छोटी हास्य कहानी) in Hindi about someone who gets into trouble because of greed or because they wanted free things. Your story should be 8-10 sentences long. Give your characters funny names. Include at least one Hindi muhavara (idiom). Make sure your story has a beginning (शुरुआत), middle (बीच), and end (अंत) with a moral (सीख). Read your story to your family and see if they laugh!",
+      "tags": ["activity", "creative-writing"],
+      "isPinned": false
+    }
+  ]
+}

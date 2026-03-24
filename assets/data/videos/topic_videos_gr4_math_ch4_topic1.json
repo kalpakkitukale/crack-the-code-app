@@ -1,0 +1,330 @@
+{
+  "videoSetId": "gr4_m4_t1_videos",
+  "topicId": "gr4_m_4_1",
+  "topicName": "Place Value (4-digit numbers)",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "description": "Main learning videos for understanding place value in 4-digit numbers (thousands, hundreds, tens, ones)",
+
+  "videos": [
+    {
+      "id": "gr4_pv_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Introduction to 4-Digit Numbers | What are Thousands?",
+      "description": "First introduction to 4-digit numbers and the thousands place",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["4-digit numbers", "thousands", "introduction", "place value"],
+
+      "learningObjectives": [
+        "Understand what 4-digit numbers are",
+        "Recognize the thousands place",
+        "Count from 999 to 1000 and beyond"
+      ],
+
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Place value calculation in 4-digit numbers"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "How many digits does the number 'one thousand' have?",
+            "options": ["3", "4", "5"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_pv_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Place Value in Thousands | Understanding Each Digit",
+      "description": "Deep dive into place value: thousands, hundreds, tens, ones",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 510,
+      "durationDisplay": "8:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["place value", "thousands place", "4-digit", "detailed explanation"],
+
+      "learningObjectives": [
+        "Identify each place in 4-digit numbers",
+        "Calculate place value for each digit",
+        "Write numbers in expanded form"
+      ],
+
+      "prerequisites": ["Introduction to 4-digit numbers"],
+      "followUpTopics": ["Comparing 4-digit numbers"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "What is the place value of 5 in 5,234?",
+            "options": ["5", "50", "500", "5000"],
+            "correctAnswer": 3
+          }
+        ]
+      },
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_pv_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Finding Place Value in 4-Digit Numbers | Worked Examples",
+      "description": "Step-by-step examples showing how to find place value in any 4-digit number",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 405,
+      "durationDisplay": "6:45",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+
+      "tags": ["worked examples", "practice problems", "step by step"],
+
+      "learningObjectives": [
+        "Practice finding place value",
+        "See multiple examples",
+        "Learn problem-solving strategies"
+      ],
+
+      "prerequisites": ["Understanding place value concept"],
+      "followUpTopics": ["Word problems with place value"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_pv_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Practice Problems | Place Value Challenge",
+      "description": "Practice problems to test your understanding of 4-digit place value",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 320,
+      "durationDisplay": "5:20",
+
+      "channelName": "Jack Hartmann",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 2000000,
+
+      "tags": ["practice", "challenge", "test yourself"],
+
+      "learningObjectives": [
+        "Apply place value knowledge",
+        "Solve problems independently",
+        "Build confidence"
+      ],
+
+      "prerequisites": ["Understanding place value"],
+      "followUpTopics": ["Place value in 5-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_pv_v5",
+      "type": "word_problems",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "Word Problems with Large Numbers",
+      "description": "Real-world word problems using 4-digit numbers and place value",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 435,
+      "durationDisplay": "7:15",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.6,
+      "viewCount": 1500000,
+
+      "tags": ["word problems", "real world", "application"],
+
+      "learningObjectives": [
+        "Apply place value to word problems",
+        "Connect math to real life",
+        "Develop problem-solving skills"
+      ],
+
+      "prerequisites": ["Basic place value understanding"],
+      "followUpTopics": ["Addition and subtraction of large numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_pv_v6",
+      "type": "real_world_application",
+      "order": 6,
+      "mustWatch": false,
+
+      "title": "Place Value in Real Life | When Do We Use It?",
+      "description": "See how place value is used in everyday life: money, population, distances",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 350,
+      "durationDisplay": "5:50",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 5000000,
+
+      "tags": ["real world", "application", "everyday math"],
+
+      "learningObjectives": [
+        "See place value in real contexts",
+        "Understand why we learn this",
+        "Connect to daily life"
+      ],
+
+      "prerequisites": ["Basic place value"],
+      "followUpTopics": ["Large number operations"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_pv_v7",
+      "type": "challenge_advanced",
+      "order": 7,
+      "mustWatch": false,
+
+      "title": "Challenge: 5-Digit Numbers Preview",
+      "description": "For advanced students: a sneak peek at 5-digit numbers and ten thousands",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["challenge", "advanced", "5-digit numbers", "enrichment"],
+
+      "learningObjectives": [
+        "Preview next level concepts",
+        "Challenge advanced learners",
+        "Extend place value thinking"
+      ],
+
+      "prerequisites": ["Mastery of 4-digit place value"],
+      "followUpTopics": ["5-digit and 6-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_pv_v1", "gr4_pv_v2", "gr4_pv_v3", "gr4_pv_v4", "gr4_pv_v5", "gr4_pv_v6", "gr4_pv_v7"],
+      "estimatedTime": 2880
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_pv_v1", "gr4_pv_v2", "gr4_pv_v3", "gr4_pv_v6", "gr4_pv_v7"],
+      "estimatedTime": 1905
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_pv_v1", "gr4_pv_v2", "gr4_pv_v3"],
+      "estimatedTime": 1335
+    }
+  }
+}

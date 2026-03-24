@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ncert_ch19",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_evn19_gardening",
+      "name": "Gardening",
+      "description": "Learn about gardening and how to grow and care for plants",
+      "topicId": "gr4_evn_19_1",
+      "chapterId": "gr4_evs_ncert_ch19",
+      "cards": [
+        {
+          "id": "fc_gr4_evn19_001",
+          "front": "What do plants need to grow?",
+          "back": "Plants need five things to grow well: sunlight, water, air, soil (with nutrients), and enough space. Without any one of these, a plant cannot grow properly.",
+          "hint": "Think about what you see near plants",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_gr4_evn19_002",
+          "front": "How do you grow a plant from a seed?",
+          "back": "To grow a plant from a seed: (1) Fill a pot with soft soil. (2) Make a small hole and place the seed inside. (3) Cover it lightly with soil. (4) Water it gently every day. (5) Keep it in a sunny spot. In a few days, a small shoot will come out!",
+          "hint": "Start with soil and a seed",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_gr4_evn19_003",
+          "front": "What is germination?",
+          "back": "Germination is when a seed breaks open and a small root grows downward into the soil while a shoot grows upward towards the light. It happens when the seed gets water and warmth. This is how a new plant begins its life!",
+          "hint": "The seed breaks open and starts growing",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_gr4_evn19_004",
+          "front": "Why are earthworms called a farmer's friend?",
+          "back": "Earthworms are called a farmer's friend because they dig tunnels in the soil that let air and water reach plant roots. Their waste (called castings) is rich in nutrients that help plants grow. They make the soil soft and healthy!",
+          "hint": "They make the soil better for plants",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_gr4_evn19_005",
+          "front": "What is a kitchen garden?",
+          "back": "A kitchen garden is a small garden near your house where you grow vegetables and herbs for cooking. Many Indian families grow tulsi, curry leaves, chillies, coriander, and mint. It gives you fresh, healthy food right at your doorstep!",
+          "hint": "A small garden for growing food at home",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

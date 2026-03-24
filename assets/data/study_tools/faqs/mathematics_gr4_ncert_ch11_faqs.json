@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch11",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn11_001",
+      "videoId": "gr4_mn11_v1",
+      "question": "What is the easiest way to understand symmetry?",
+      "answer": "Think of a butterfly! Both wings of a butterfly look exactly the same. If you could fold the butterfly along its body, both wings would match perfectly. That fold line is the line of symmetry. You can also try this: fold a piece of paper in half, draw a shape on one side, cut it out, and open it. Both halves will match - that is symmetry!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn11_002",
+      "videoId": "gr4_mn11_v1",
+      "question": "How do I find the line of symmetry of a shape?",
+      "answer": "Try the folding test! Imagine folding the shape along a straight line. If both halves overlap and match exactly, that line is a line of symmetry. For paper shapes, actually fold them. For drawings, you can place a small mirror along the line - if the reflection completes the shape perfectly, you have found a line of symmetry. You can also check if every point on one side has a matching point on the other side at the same distance from the line.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn11_003",
+      "videoId": "gr4_mn11_v2",
+      "question": "What is a mirror image? Is it the same as a copy?",
+      "answer": "A mirror image is not the same as a copy! In a copy, everything stays in the same position. In a mirror image, left and right are swapped. Try this: stand in front of a mirror and raise your right hand. Your mirror image raises its left hand! When we write the word 'AMBULANCE' on the front of an ambulance, it is written in mirror image so that it reads correctly in a car's rear-view mirror.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn11_004",
+      "videoId": "gr4_mn11_v3",
+      "question": "How many lines of symmetry does a square have?",
+      "answer": "A square has 4 lines of symmetry! Two lines go through the middles of opposite sides (one horizontal, one vertical). Two more lines go through opposite corners (the diagonals). If you fold a square along any of these 4 lines, both halves will match perfectly. A rectangle has only 2 lines of symmetry - the horizontal and vertical ones. The diagonals of a rectangle are NOT lines of symmetry.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn11_005",
+      "videoId": "gr4_mn11_v3",
+      "question": "Does a circle have a line of symmetry?",
+      "answer": "Yes, a circle has unlimited lines of symmetry! Any straight line that passes through the centre of the circle is a line of symmetry. You can draw a line through the centre at any angle - up-down, left-right, diagonal - and both halves will always match. This makes the circle the most symmetrical shape we know!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn11_006",
+      "videoId": "gr4_mn11_v4",
+      "question": "How do I make symmetrical shapes by folding and cutting paper?",
+      "answer": "It is easy and fun! Take a piece of paper and fold it in half. Draw half a shape (like half a heart, half a star, or half a flower) along the folded edge. Cut along the line you drew, keeping the paper folded. Now open the paper - you will have a perfectly symmetrical shape! The fold becomes the line of symmetry. Try folding the paper twice before cutting for even more interesting patterns.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn11_007",
+      "videoId": "gr4_mn11_v4",
+      "question": "What if a shape has no line of symmetry?",
+      "answer": "A shape with no line of symmetry is called asymmetrical. No matter how you try to fold it, the two halves will never match exactly. Examples of asymmetrical shapes include the letter J, the letter F, a hand print, and most natural objects like clouds or trees. Not everything in the world is symmetric, and that is perfectly fine!",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn11_008",
+      "videoId": "gr4_mn11_v5",
+      "question": "How do I complete a symmetric figure when only half is given?",
+      "answer": "Use the line of symmetry as your guide. For each point on the given half, count the distance from the line of symmetry (using grid squares if available). Then mark a matching point on the other side at the same distance. Connect all the new points in the same order as the original. The completed shape should look like a mirror reflection. Grid paper makes this much easier because you can count squares precisely.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn11_009",
+      "videoId": "gr4_mn11_v5",
+      "question": "Where do we see symmetry in nature?",
+      "answer": "Nature is full of symmetry! Butterfly wings are mirror images of each other. Most leaves have a line of symmetry along the midrib. Flower petals are often arranged symmetrically - a sunflower has many lines of symmetry. Starfish have 5 lines of symmetry. Even the human face is roughly symmetric - the left half is similar to the right half. Snowflakes have 6 lines of symmetry. Look around and you will find symmetry everywhere in nature!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn11_010",
+      "videoId": "gr4_mn11_v2",
+      "question": "Are all letters of the English alphabet symmetrical?",
+      "answer": "No! Only some letters have symmetry. Letters with a vertical line of symmetry include A, M, T, U, V, W, and Y. Letters with a horizontal line of symmetry include B, C, D, E, and K. Some special letters like H, I, O, and X have both horizontal and vertical lines of symmetry. But letters like F, G, J, L, N, P, Q, R, S, and Z have no line of symmetry at all. Try checking each letter by folding!",
+      "status": "answered",
+      "upvotes": 17
+    }
+  ]
+}

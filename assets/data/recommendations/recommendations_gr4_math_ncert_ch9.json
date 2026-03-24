@@ -1,0 +1,447 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch9",
+  "topicId": "gr4_mn_9_1",
+  "topicName": "Multiplication as Equal Groups",
+  "chapterId": "gr4_math_ncert_ch9",
+  "chapterName": "Equal Groups",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 9: Equal Groups (Multiplication)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of repeated addition, skip counting, and grouping. Can fast-track to multiplication concepts with challenge content",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2760,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn9_v1",
+          "reason": "Introduction to multiplication as equal groups",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v2",
+          "reason": "Making equal groups and repeated addition connection",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn9_v3",
+          "reason": "Arrays for visual multiplication",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v4",
+          "reason": "Skip counting as a multiplication strategy",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v5",
+          "reason": "Master the times tables",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v6",
+          "reason": "Challenge: Multiplication word problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of multiplication concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2760,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn9_v1",
+          "reason": "Introduction to multiplication as equal groups",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v2",
+          "reason": "Making equal groups with repeated addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v3",
+          "reason": "Arrays in multiplication",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v4",
+          "reason": "Skip counting for multiplication",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v5",
+          "reason": "Times tables practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v6",
+          "reason": "Multiplication word problems",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in repeated addition, skip counting, or grouping. Needs targeted review before multiplication concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 4020,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "repeated_addition_weak": {
+            "addVideos": ["prereq_ch9_addition_v1"],
+            "priority": "high"
+          },
+          "skip_counting_weak": {
+            "addVideos": ["prereq_ch9_skipcounting_v1"],
+            "priority": "high"
+          },
+          "grouping_objects_weak": {
+            "addVideos": ["prereq_ch9_grouping_v1"],
+            "priority": "medium"
+          },
+          "number_sense_weak": {
+            "addVideos": ["prereq_ch9_addition_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch9_addition_v1",
+          "reason": "Review: Repeated addition basics",
+          "skippable": false,
+          "condition": "if repeated_addition concept is weak"
+        },
+        {
+          "videoId": "prereq_ch9_skipcounting_v1",
+          "reason": "Review: Skip counting by 2s, 3s, 5s",
+          "skippable": false,
+          "condition": "if skip_counting concept is weak"
+        },
+        {
+          "videoId": "prereq_ch9_grouping_v1",
+          "reason": "Review: Grouping objects into equal groups",
+          "skippable": false,
+          "condition": "if grouping_objects concept is weak"
+        },
+        {
+          "videoId": "gr4_mn9_v1",
+          "reason": "Start main topic: Multiplication as equal groups",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v2",
+          "reason": "Making equal groups with repeated addition",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v3",
+          "reason": "Arrays in multiplication",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v5",
+          "reason": "Times tables practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v6",
+          "reason": "Multiplication word problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in repeated addition, skip counting, and grouping before attempting multiplication",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2160,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch9_addition_v1",
+          "reason": "Foundation: Review repeated addition",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch9_skipcounting_v1",
+          "reason": "Essential: Learn skip counting patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch9_grouping_v1",
+          "reason": "Critical: Understand grouping objects equally",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v1",
+          "reason": "Gentle intro to multiplication as equal groups",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn9_v2",
+          "reason": "Begin main content: Making equal groups",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with multiplication."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "repeated_addition": {
+        "conceptName": "Repeated addition (adding the same number)",
+        "importance": "critical",
+        "videoIds": ["prereq_ch9_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9_1", "rq9_2", "rq9_3"]
+      },
+      "skip_counting": {
+        "conceptName": "Skip counting by 2s, 3s, and 5s",
+        "importance": "critical",
+        "videoIds": ["prereq_ch9_skipcounting_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9_4", "rq9_5", "rq9_6"]
+      },
+      "grouping_objects": {
+        "conceptName": "Grouping objects into equal groups",
+        "importance": "important",
+        "videoIds": ["prereq_ch9_grouping_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9_7", "rq9_8"]
+      },
+      "number_sense": {
+        "conceptName": "Basic number sense and understanding of numbers",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch9_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9_9", "rq9_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn9_v2",
+        "checkpointName": "Equal Groups Understanding Check",
+        "questions": [
+          {
+            "question": "There are 4 plates with 3 cookies on each plate. How many cookies are there in total?",
+            "options": ["7", "9", "12", "15"],
+            "correctAnswer": 2,
+            "explanation": "4 plates with 3 cookies each: 3 + 3 + 3 + 3 = 12 cookies. That is 4 x 3 = 12!"
+          },
+          {
+            "question": "5 groups of 2 is the same as:",
+            "options": ["5 + 2", "2 + 2 + 2 + 2 + 2", "5 + 5", "2 + 5"],
+            "correctAnswer": 1,
+            "explanation": "5 groups of 2 means adding 2 five times: 2 + 2 + 2 + 2 + 2 = 10. That is 5 x 2 = 10!"
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand equal groups and multiplication very well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch9_addition_v1",
+          "reason": "Student struggling with equal groups concept, review repeated addition"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn9_v5",
+        "checkpointName": "Times Tables Check",
+        "questions": [
+          {
+            "question": "What is 6 x 3?",
+            "options": ["9", "15", "18", "21"],
+            "correctAnswer": 2,
+            "explanation": "6 x 3 = 18. You can skip count by 3s: 3, 6, 9, 12, 15, 18!"
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn9_v6",
+          "reason": "Student ready for multiplication word problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the times tables video again and practise skip counting to build your multiplication facts."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on repeated addition"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising multiplication with real objects at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your addition and skip counting really well. You are ready to learn about multiplication. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand grouping and counting well. Let's learn about multiplication with complete coverage of all the topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in repeated addition or skip counting. Don't worry! We will start with targeted review videos on the concepts you need, then move to multiplication."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review repeated addition, skip counting, and grouping first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn multiplication."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how multiplication concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Repeated addition", "Skip counting by 2s, 3s, 5s", "Basic number sense"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Grouping objects equally", "Understanding 'groups of'", "Counting groups"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Multiplication as equal groups", "Multiplication symbol (x)", "Making equal groups"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Arrays (rows and columns)", "Skip counting for multiplication", "Times tables 2-10"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Multiplication word problems", "Real-life multiplication", "Multi-step problems"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "multiplicationFactsFluency": {
+      "target": 85,
+      "description": "% of students who can solve basic multiplication facts within 10 seconds"
+    },
+    "equalGroupsUnderstanding": {
+      "target": 80,
+      "description": "% of students who can model multiplication as equal groups"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 45-50 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 55-65 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (20 min) + retake + main content (25 min) = 50-60 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing multiplication with addition",
+      "solution1": "Emphasise that multiplication is about 'groups of' the same number, not just adding two different numbers. Use visual grouping examples.",
+      "challenge2": "Students struggling to remember times tables",
+      "solution2": "Use skip counting as a strategy. For 4 x 3, skip count by 3s four times: 3, 6, 9, 12.",
+      "challenge3": "Students who can skip count but cannot connect it to multiplication",
+      "solution3": "Use arrays to show the connection. 3 rows of 4 is skip counting by 4 three times: 4, 8, 12. So 3 x 4 = 12."
+    }
+  }
+}

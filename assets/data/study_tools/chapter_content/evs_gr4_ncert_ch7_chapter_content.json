@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch7",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en7",
+    "title": "From the Window",
+    "content": "This chapter from the NCERT Looking Around textbook encourages students to observe the world from a train window. As the train moves, the landscape changes - from flat farms to hills, from rivers to bridges, from villages to bustling cities. Students learn about the different types of land in India (plains, plateaus, coasts, mountains), the crops grown in different regions, and the people who work at railway stations. The chapter builds observation skills and helps students appreciate India's geographical diversity, all through the simple act of looking out a window during a journey.",
+    "keyPoints": [
+      "A train journey shows India's diverse geography - plains, plateaus, coasts, and mountains",
+      "Different regions grow different crops depending on soil, climate, and rainfall",
+      "Railway stations have many workers - station master, porters, vendors, and cleaners",
+      "Signals and level crossings keep trains and people safe",
+      "Observation skills help us learn about the world around us",
+      "India's railway network is one of the largest in the world"
+    ],
+    "learningObjectives": [
+      "Observe and describe different types of landscapes seen during a train journey",
+      "Identify the different people who work at a railway station and their roles",
+      "Understand how geography affects the types of crops grown in different regions",
+      "Practise observation skills by noting what you see, hear, and feel during travel",
+      "Appreciate the diversity of India's landscape and the importance of railways"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en7_001",
+      "title": "My Travel Diary Activity",
+      "content": "Next time you travel - by train, bus, or car - keep a small diary. Write down the date, where you are going, and what you see from the window. Draw pictures of interesting things like a bridge, a river, or an unusual tree. Note the types of fields you pass. After your trip, share your diary with your class. You will be surprised how much you noticed!",
+      "tags": ["activity", "observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en7_002",
+      "title": "India's Geography from a Train",
+      "content": "India has incredible variety! The northern plains are flat with wheat and rice fields. The Western Ghats have thick forests and coffee plantations. The Thar Desert has sandy dunes with very few trees. The eastern coast has rice paddies and coconut groves. Try tracing a train route on a map of India and list the different types of land it passes through.",
+      "tags": ["study-tip", "geography"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en7_003",
+      "title": "Sounds of a Journey",
+      "content": "Observation is not just about seeing - it is also about hearing! Close your eyes during a journey and list all the sounds you hear: the train whistle, the vendor's call, the clickety-clack of wheels, announcements at stations, the whoosh of air when another train passes. Write down at least 5 sounds and describe each one. This exercise sharpens your listening skills.",
+      "tags": ["activity", "senses"],
+      "isPinned": false
+    }
+  ]
+}

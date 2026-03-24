@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ncert_ch10",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn10_tables",
+      "name": "Reading Wildlife Data Tables",
+      "description": "Learn to read and understand data tables about Indian wildlife",
+      "topicId": "gr4_mn_10_1",
+      "chapterId": "gr4_math_ncert_ch10",
+      "cards": [
+        {
+          "id": "card_gr4_mn10_001",
+          "front": "What is a data table?",
+          "back": "A data table organises information in rows and columns. Each row shows data about one item (like one animal or one park), and each column shows one type of information (like the name or the count). Tables make it easy to read and compare data!",
+          "hint": "Think of rows going across and columns going down",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn10_002",
+          "front": "A table shows: Elephants - 27,000, Tigers - 3,167, Leopards - 13,000. Which animal has the most population?",
+          "back": "Elephants have the most with 27,000. Compare: 27,000 > 13,000 > 3,167. Reading a table helps us quickly compare numbers about different animals.",
+          "hint": "Find the largest number among the three",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn10_003",
+          "front": "How do you find the total from a data table?",
+          "back": "Add all the numbers in the column you want to total. For example, if 3 parks have 65, 40, and 85 tigers: 65 + 40 + 85 = 190 tigers in total.",
+          "hint": "Add all the values in a column",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn10_004",
+          "front": "A wildlife table shows tigers in 4 states: MP - 526, Karnataka - 524, Uttarakhand - 442, Maharashtra - 444. Which state has the most?",
+          "back": "Madhya Pradesh (MP) has the most with 526 tigers. 526 > 524 > 444 > 442. When numbers are close, compare digit by digit!",
+          "hint": "Compare the hundreds digit first, then tens, then ones",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn10_005",
+          "front": "What is the first thing you should read in a data table?",
+          "back": "Always read the title first! The title tells you what the table is about. Then read the column headings to understand what each column represents. After that, read the data row by row.",
+          "hint": "Start from the top of the table",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn10_comparing",
+      "name": "Comparing Numbers from Data",
+      "description": "Compare wildlife numbers to find the most, least, and differences",
+      "topicId": "gr4_mn_10_2",
+      "chapterId": "gr4_math_ncert_ch10",
+      "cards": [
+        {
+          "id": "card_gr4_mn10_006",
+          "front": "How do you find which number is the greatest in a table?",
+          "back": "Compare all the numbers in the column. First compare the number of digits (more digits = bigger number). If digits are equal, compare from left to right. The largest number is the greatest. Example: 6,049 > 5,719 > 3,054.",
+          "hint": "Compare digits from left to right",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn10_007",
+          "front": "India had 1,706 tigers in 2010 and 3,167 in 2022. What is the increase?",
+          "back": "3,167 - 1,706 = 1,461 more tigers. Subtract the old number from the new number to find the increase.",
+          "hint": "New number minus old number = increase",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn10_008",
+          "front": "How do you arrange numbers in order from smallest to largest?",
+          "back": "Compare all numbers and put the smallest first. Example: 3,054, 5,719, 6,049 → Already in order from smallest to largest! This is called ascending order.",
+          "hint": "Start with the smallest and go up",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn10_009",
+          "front": "There are 27,000 elephants and 3,000 tigers in India. How many more elephants are there?",
+          "back": "27,000 - 3,000 = 24,000 more elephants. This is a big difference! Subtraction helps us understand how much bigger one number is than another.",
+          "hint": "Subtract the smaller from the larger",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn10_010",
+          "front": "What does 'least' and 'most' mean in data?",
+          "back": "'Most' means the largest number - the highest count. 'Least' means the smallest number - the lowest count. In a table of tigers: Park A (65), Park B (40), Park C (85) → Most: Park C, Least: Park B.",
+          "hint": "Most = biggest, Least = smallest",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn10_charts",
+      "name": "Charts, Graphs, and Conservation",
+      "description": "Read pictographs and bar charts, and explore how math helps save wildlife",
+      "topicId": "gr4_mn_10_3",
+      "chapterId": "gr4_math_ncert_ch10",
+      "cards": [
+        {
+          "id": "card_gr4_mn10_011",
+          "front": "What is a bar chart?",
+          "back": "A bar chart uses rectangular bars of different heights to show data. Taller bars mean bigger numbers. A bar chart has a title, labels on both axes, and a scale. It helps us compare different items at a glance!",
+          "hint": "Think of bars standing side by side, some taller and some shorter",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn10_012",
+          "front": "What is a pictograph?",
+          "back": "A pictograph uses picture symbols to represent data. Each symbol stands for a fixed number. For example, one tiger picture = 100 tigers. If a state has 5 tiger symbols, it means 5 × 100 = 500 tigers. Always check the key!",
+          "hint": "Count the pictures and multiply by the value",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn10_013",
+          "front": "In a pictograph, 1 elephant symbol = 500 elephants. A state shows 8 symbols. How many elephants?",
+          "back": "8 × 500 = 4,000 elephants. In a pictograph, always multiply the number of symbols by the value each symbol represents.",
+          "hint": "Multiply symbols × value per symbol",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn10_014",
+          "front": "What is Project Tiger?",
+          "back": "Project Tiger is a conservation programme started by the Indian government in 1973 to protect tigers. Thanks to this project, the tiger population in India has increased from about 1,700 in 2010 to over 3,100 in 2022! Math and data help track this progress.",
+          "hint": "It is a government programme to save tigers",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn10_015",
+          "front": "How does math help in wildlife conservation?",
+          "back": "Math helps by: 1) Counting animals through census surveys, 2) Comparing populations over years to check if they are increasing or decreasing, 3) Planning how much forest area to protect, 4) Tracking spending on conservation projects. Without math, we would not know if our efforts are working!",
+          "hint": "Think about counting, comparing, and tracking",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

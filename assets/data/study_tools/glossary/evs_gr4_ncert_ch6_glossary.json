@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch6",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_6_001",
+      "term": "Backwaters",
+      "definition": "A network of connected lakes, canals, and rivers along the coast of Kerala where the water is calm and partly salty.",
+      "pronunciation": "BAK-waw-ters",
+      "exampleUsage": "Omana travelled through the backwaters in a boat to reach her grandmother's house.",
+      "difficulty": "easy",
+      "relatedTerms": ["canal", "lagoon"]
+    },
+    {
+      "id": "gls_evs_6_002",
+      "term": "Houseboat",
+      "definition": "A large boat that has rooms like a house where people can live, cook, eat, and sleep while floating on water.",
+      "pronunciation": "HOWS-boht",
+      "exampleUsage": "Tourists enjoy staying in a houseboat on the Kerala backwaters.",
+      "difficulty": "easy",
+      "relatedTerms": ["kettuvallam", "boat"]
+    },
+    {
+      "id": "gls_evs_6_003",
+      "term": "Kettuvallam",
+      "definition": "A traditional Kerala houseboat made by tying wooden planks together with coir rope, without using any nails.",
+      "pronunciation": "KET-tu-val-lam",
+      "exampleUsage": "The kettuvallam glided smoothly over the quiet backwaters.",
+      "difficulty": "medium",
+      "relatedTerms": ["houseboat", "coir"]
+    },
+    {
+      "id": "gls_evs_6_004",
+      "term": "Coir",
+      "definition": "A strong natural fibre taken from the outer husk of a coconut, used for making ropes, mats, and brushes.",
+      "pronunciation": "KOY-er",
+      "exampleUsage": "The workers soaked coconut husks in water to make coir rope.",
+      "difficulty": "medium",
+      "relatedTerms": ["coconut", "fibre", "husk"]
+    },
+    {
+      "id": "gls_evs_6_005",
+      "term": "Lagoon",
+      "definition": "A shallow body of water separated from the sea by a narrow strip of land or sand.",
+      "pronunciation": "lah-GOON",
+      "exampleUsage": "The Vembanad lagoon is one of the largest in Kerala.",
+      "difficulty": "medium",
+      "relatedTerms": ["backwaters", "lake"]
+    },
+    {
+      "id": "gls_evs_6_006",
+      "term": "Canoe",
+      "definition": "A small, narrow boat that is pointed at both ends and moved through the water using a paddle.",
+      "pronunciation": "kah-NOO",
+      "exampleUsage": "The fisherman paddled his canoe through the narrow canal.",
+      "difficulty": "easy",
+      "relatedTerms": ["boat", "paddle"]
+    },
+    {
+      "id": "gls_evs_6_007",
+      "term": "Paddy field",
+      "definition": "A flooded field where rice is grown. Kerala has many paddy fields near the backwaters.",
+      "pronunciation": "PAD-ee feeld",
+      "exampleUsage": "Green paddy fields stretched along both sides of the backwater canal.",
+      "difficulty": "easy",
+      "relatedTerms": ["rice", "farming"]
+    },
+    {
+      "id": "gls_evs_6_008",
+      "term": "Coconut palm",
+      "definition": "A tall tropical tree that grows coconuts. Every part of this tree is useful - the fruit, leaves, trunk, and husk.",
+      "pronunciation": "KOH-kuh-nut pahm",
+      "exampleUsage": "Rows of coconut palms lined the banks of the backwater canal.",
+      "difficulty": "easy",
+      "relatedTerms": ["coir", "copra"]
+    },
+    {
+      "id": "gls_evs_6_009",
+      "term": "Canal",
+      "definition": "A narrow man-made or natural waterway used for boats to travel through. The backwaters have many canals.",
+      "pronunciation": "kah-NAL",
+      "exampleUsage": "The boat slowly moved through the narrow canal surrounded by trees.",
+      "difficulty": "easy",
+      "relatedTerms": ["waterway", "backwaters"]
+    },
+    {
+      "id": "gls_evs_6_010",
+      "term": "Karimeen",
+      "definition": "A type of pearl spot fish found in Kerala's backwaters. It is a popular and delicious local fish.",
+      "pronunciation": "KAH-ree-meen",
+      "exampleUsage": "Karimeen fry is a famous dish that people eat in Kerala.",
+      "difficulty": "medium",
+      "relatedTerms": ["fish", "backwaters"]
+    }
+  ]
+}

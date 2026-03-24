@@ -1,0 +1,72 @@
+{
+  "chapterId": "gr4_math_ncert_ch14",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn14_v1",
+      "videoId": "gr4_mn14_v1",
+      "content": "This lesson introduces the idea of data - information we collect to answer questions. Students learn that data can be collected in many ways: by counting things (like vehicles on a road), by observing (like weather each day), or by conducting a survey (asking classmates their favourite food). The lesson emphasises that raw data, like a long list of answers, is hard to read. That is why we need to organise it. Students are introduced to tally marks as a tool for recording data. Each item is counted with one short line, and every 5th line crosses the first 4 to make a bundle of 5. Counting by 5s makes it easy to find the total. Students practise collecting data from their own class and recording it with tally marks.",
+      "keyPoints": [
+        "Data is information we collect to answer questions",
+        "We can collect data by counting, observing, or doing a survey",
+        "Raw data needs to be organised to be useful",
+        "Tally marks help us count: every 5th line crosses the first 4",
+        "Count tally bundles by 5s and add any extra marks"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn14_v2",
+      "videoId": "gr4_mn14_v2",
+      "content": "This lesson teaches students how to organise data using a frequency table. A frequency table has three columns: the category (what we are counting), the tally marks, and the frequency (total count). Students learn to sort their collected data into categories first, then use tally marks to count how many items belong to each category. For example, if they surveyed favourite colours in the class, the categories might be Red, Blue, Green, and Yellow. They draw tally marks for each response and then count up the totals. The lesson shows that a well-made frequency table makes it very easy to see which category has the most and which has the least.",
+      "keyPoints": [
+        "A frequency table has columns for category, tally marks, and frequency (total)",
+        "First sort data into categories, then count with tallies",
+        "Frequency means the total count for each category",
+        "Frequency tables make it easy to compare groups",
+        "The category with the highest frequency is the most popular"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn14_v3",
+      "videoId": "gr4_mn14_v3",
+      "content": "This lesson introduces pictographs - charts that use pictures to show data in a fun and visual way. Each picture or symbol in a pictograph stands for a certain number of items, and the key tells you that number. Students learn to read a pictograph by counting the pictures in each row and multiplying by the key value. For example, if one smiley face equals 5 students and a row has 4 faces, that means 4 x 5 = 20 students. The lesson also explains half symbols, which represent half the key value. Students practise both reading pictographs to answer questions and drawing their own pictographs from data they collected.",
+      "keyPoints": [
+        "A pictograph uses pictures or symbols to represent data",
+        "The key tells how many items each picture stands for",
+        "To find the total, multiply the number of pictures by the key value",
+        "A half symbol represents half the key value",
+        "Pictographs make it easy to compare groups visually"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn14_v4",
+      "videoId": "gr4_mn14_v4",
+      "content": "This lesson teaches students about bar graphs - charts that use rectangular bars of different heights to display data. A bar graph has two axes: the x-axis (horizontal) usually shows the categories, and the y-axis (vertical) shows the numbers with a scale. The scale goes up by equal steps like 2, 4, 6 or 5, 10, 15. To read a bar, look at where its top meets the scale. Students learn that taller bars mean bigger values, and shorter bars mean smaller values. The lesson covers how to choose a good scale that fits all the data. Students practise reading bar graphs to find which category has the most, the least, the total of all values, and the difference between two categories.",
+      "keyPoints": [
+        "Bar graphs use bars of different heights to show data",
+        "The x-axis shows categories and the y-axis shows numbers (scale)",
+        "The scale goes up by equal steps (like 5, 10, 15, 20)",
+        "Taller bars mean larger values, shorter bars mean smaller values",
+        "Bar graphs are great for comparing data and finding exact values"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn14_v5",
+      "videoId": "gr4_mn14_v5",
+      "content": "This lesson brings all the data handling skills together. Students learn the complete process: first, choose a question to investigate and collect data through a survey or observation. Next, organise the data using tally marks in a frequency table. Then, decide whether to display the data as a pictograph or a bar graph. Finally, draw the chart with a clear title, proper labels, and a key (for pictographs) or scale (for bar graphs). The lesson also focuses on interpreting data - answering questions like 'Which has the most?', 'Which has the least?', 'What is the total?', and 'How much more is A than B?' Students discover that data helps us make good decisions in everyday life, such as a school deciding which games to buy based on a student survey.",
+      "keyPoints": [
+        "The data handling process: collect, organise, display, and interpret",
+        "Choose pictograph for a visual display or bar graph for exact numbers",
+        "Every chart needs a title, labels, and a key or scale",
+        "Interpret data by finding the most, least, total, and differences",
+        "Data helps us understand information and make smart decisions"
+      ],
+      "source": "manual"
+    }
+  ]
+}

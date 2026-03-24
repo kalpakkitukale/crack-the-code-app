@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn9_t2",
+  "topicId": "gr4_mn_9_2",
+  "topicName": "Arrays and Skip Counting",
+  "chapterId": "gr4_math_ncert_ch9",
+  "chapterName": "Equal Groups",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1740,
+    "totalDurationDisplay": "29:00",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_9_1"],
+    "followUpTopics": ["gr4_mn_9_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn9_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Arrays in Multiplication | Rows and Columns",
+      "description": "Learn how to arrange objects in rows and columns to make arrays. See how arrays help you understand and solve multiplication problems easily!",
+      "youtubeId": "K_tPbVPfHgk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K_tPbVPfHgk",
+      "thumbnailUrl": "https://img.youtube.com/vi/K_tPbVPfHgk/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["arrays", "rows and columns", "multiplication arrays", "visual multiplication"],
+      "learningObjectives": ["Understand what an array is", "Identify rows and columns in an array", "Write multiplication sentences from arrays"],
+      "keyConceptsCovered": ["Arrays as rows and columns", "Rows x Columns = Total", "Visual representation of multiplication"],
+      "prerequisites": ["Equal groups concept", "Basic multiplication"],
+      "followUpTopics": ["Skip counting for multiplication"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v4",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Skip Counting for Multiplication | Count by 2s, 3s, 5s, 10s",
+      "description": "Use skip counting to multiply quickly! Skip count by 2s, 3s, 5s, and 10s to find multiplication answers without memorising.",
+      "youtubeId": "GvTcpfSnOMQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GvTcpfSnOMQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/GvTcpfSnOMQ/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["skip counting", "count by 2s", "count by 5s", "multiplication strategy"],
+      "learningObjectives": ["Use skip counting to find multiplication answers", "Skip count by 2s, 3s, 5s, and 10s", "Connect skip counting to arrays"],
+      "keyConceptsCovered": ["Skip counting as a multiplication strategy", "Counting by 2s, 3s, 5s, 10s", "Number line skip counting"],
+      "prerequisites": ["Arrays", "Basic counting"],
+      "followUpTopics": ["Times tables"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch9_skipcounting_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Skip Counting by 2s, 3s, 5s, and 10s | Counting in Groups",
+      "description": "Learn to count by skipping numbers! Count by 2s (2, 4, 6, 8...), by 5s (5, 10, 15, 20...) and by 10s. Skip counting helps you multiply faster!",
+      "youtubeId": "GvTcpfSnOMQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GvTcpfSnOMQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/GvTcpfSnOMQ/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["skip counting", "patterns", "counting groups", "practice"],
+      "learningObjectives": ["Practice skip counting patterns", "Identify the pattern in skip counting", "Apply skip counting to find totals"],
+      "keyConceptsCovered": ["Skip counting patterns", "Applying skip counting to multiplication", "Number patterns"],
+      "prerequisites": ["Counting to 100"],
+      "followUpTopics": ["Times tables"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn9_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "What is Multiplication? | Equal Groups for Kids",
+      "description": "Review equal groups and practice using arrays and skip counting together. See how rows and columns connect to skip counting for fast multiplication!",
+      "youtubeId": "mvOkMYCygps",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mvOkMYCygps",
+      "thumbnailUrl": "https://img.youtube.com/vi/mvOkMYCygps/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["equal groups", "arrays", "skip counting", "practice"],
+      "learningObjectives": ["Combine arrays and skip counting", "Solve multiplication using multiple strategies", "Build multiplication fluency"],
+      "keyConceptsCovered": ["Arrays and skip counting connection", "Multiple strategies for multiplication", "Practice with equal groups"],
+      "prerequisites": ["Arrays concept"],
+      "followUpTopics": ["Times tables"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn9_v3", "gr4_mn9_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 840,
+      "estimatedTimeDisplay": "14:00",
+      "rationale": "Quick coverage of arrays and skip counting for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn9_v3", "gr4_mn9_v4", "prereq_ch9_skipcounting_v1", "gr4_mn9_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1740,
+      "estimatedTimeDisplay": "29:00",
+      "rationale": "Complete coverage of arrays and skip counting"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch9_skipcounting_v1", "gr4_mn9_v3", "gr4_mn9_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1230,
+      "estimatedTimeDisplay": "20:30",
+      "rationale": "Start with skip counting review, then arrays"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn9_v3", "gr4_mn9_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 840,
+      "estimatedTimeDisplay": "14:00",
+      "rationale": "Essential arrays and skip counting only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn9_v4",
+      "checkpointName": "Arrays and Skip Counting Check",
+      "questions": [
+        {
+          "question": "An array has 4 rows and 3 columns. How many objects are in the array?",
+          "options": ["7 objects", "10 objects", "12 objects", "15 objects"],
+          "correctAnswer": 2,
+          "explanation": "4 rows with 3 in each row: skip count by 3 four times: 3, 6, 9, 12. So 4 x 3 = 12 objects!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use grid paper to draw arrays. Let students colour rows and columns to see multiplication visually. Practice skip counting along the number line on the board.",
+    "parentGuidance": "Look for arrays at home! Egg cartons (2 rows of 6), window panes (2 rows of 3), and tiles on the floor are all arrays. Count them with your child.",
+    "studentGuidance": "Arrays are everywhere! Look at how things are arranged in rows and columns. Count the rows, count the columns, and multiply to find the total!"
+  }
+}

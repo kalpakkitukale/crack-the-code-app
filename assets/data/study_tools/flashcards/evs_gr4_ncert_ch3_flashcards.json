@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_evs_ncert_ch3",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_elephant_facts",
+      "name": "Elephant Facts",
+      "description": "Learn amazing facts about elephants",
+      "cards": [
+        {
+          "id": "fc_ef_001",
+          "front": "How much can an adult elephant weigh?",
+          "back": "An adult elephant can weigh up to 5,000-6,000 kg (5-6 tonnes)! That's as heavy as about 80 adult humans.",
+          "hints": ["Think of a really heavy animal"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ef_002",
+          "front": "What is a baby elephant called?",
+          "back": "A baby elephant is called a 'calf'. Elephant calves stay close to their mothers for many years.",
+          "hints": ["Same word used for baby cows"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ef_003",
+          "front": "What do elephants use their trunk for?",
+          "back": "Elephants use their trunk for: breathing, smelling, drinking water, grabbing food, making sounds, and even as a snorkel when swimming!",
+          "hints": ["The trunk has many uses"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ef_004",
+          "front": "How much water can an elephant drink in a day?",
+          "back": "An elephant can drink up to 200 liters of water in a day! That's about 100 large water bottles.",
+          "hints": ["It's a very large amount"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ef_005",
+          "front": "How long does a baby elephant stay inside its mother?",
+          "back": "Baby elephants stay inside their mother for 22 months (almost 2 years) - the longest pregnancy of any land animal!",
+          "hints": ["Much longer than humans"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_elephant_behavior",
+      "name": "Elephant Behavior",
+      "description": "How elephants live and behave",
+      "cards": [
+        {
+          "id": "fc_eb_001",
+          "front": "Do elephants live alone or in groups?",
+          "back": "Elephants live in groups called 'herds'. A herd is usually led by the oldest female elephant, called the matriarch.",
+          "hints": ["They are social animals"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_eb_002",
+          "front": "How do elephants communicate?",
+          "back": "Elephants communicate through: trumpeting sounds, rumbling (low sounds we can't hear), body language, and even vibrations through their feet!",
+          "hints": ["They have many ways"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_eb_003",
+          "front": "Are elephants good swimmers?",
+          "back": "Yes! Elephants are excellent swimmers. They use their trunk like a snorkel to breathe while swimming.",
+          "hints": ["Their trunk helps them"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_eb_004",
+          "front": "How much food does an elephant eat daily?",
+          "back": "An elephant eats about 150-200 kg of food every day! They spend 16-18 hours a day just eating.",
+          "hints": ["They eat a lot!"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_eb_005",
+          "front": "Do elephants have good memory?",
+          "back": "Yes! Elephants have excellent memory. They can remember places, other elephants, and events for many years. That's why we say 'elephants never forget'!",
+          "hints": ["There's a famous saying about this"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_elephant_body",
+      "name": "Elephant Body Parts",
+      "description": "Learn about elephant body features",
+      "cards": [
+        {
+          "id": "fc_ebp_001",
+          "front": "What are elephant tusks made of?",
+          "back": "Elephant tusks are made of ivory, which is a type of hard white material. Tusks are actually very long teeth!",
+          "hints": ["They're special teeth"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ebp_002",
+          "front": "Why do elephants have big ears?",
+          "back": "Big ears help elephants cool down in hot weather. Blood flows through the thin ears and cools down before going back to the body.",
+          "hints": ["It's about temperature"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ebp_003",
+          "front": "How thick is elephant skin?",
+          "back": "Elephant skin can be up to 2.5 cm thick! But it's sensitive - elephants can feel an insect land on them.",
+          "hints": ["Very thick but still sensitive"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_ebp_004",
+          "front": "How many bones are in an elephant's trunk?",
+          "back": "An elephant's trunk has ZERO bones! It's made of about 40,000 muscles, making it very flexible.",
+          "hints": ["It's not what you'd expect"],
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ]
+}

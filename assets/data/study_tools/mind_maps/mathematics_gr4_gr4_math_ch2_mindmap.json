@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_math_ch2",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Addition and Subtraction",
+      "description": "Working with 4-digit and 5-digit numbers",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_addition",
+      "label": "Addition",
+      "description": "Combining numbers to find the total (sum)",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_add_basic",
+      "label": "Basic Addition",
+      "description": "Adding without carrying, column by column",
+      "parentId": "node_addition",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_add_carry",
+      "label": "With Carrying",
+      "description": "When a column adds up to 10 or more, carry to the next",
+      "parentId": "node_addition",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_add_steps",
+      "label": "Steps to Add",
+      "description": "Line up numbers, add right to left, carry if needed",
+      "parentId": "node_addition",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_subtraction",
+      "label": "Subtraction",
+      "description": "Taking away a number to find the difference",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_sub_basic",
+      "label": "Basic Subtraction",
+      "description": "Subtracting without borrowing, column by column",
+      "parentId": "node_subtraction",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_sub_borrow",
+      "label": "With Borrowing",
+      "description": "When the top digit is smaller, borrow from the next column",
+      "parentId": "node_subtraction",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_sub_steps",
+      "label": "Steps to Subtract",
+      "description": "Line up numbers, subtract right to left, borrow if needed",
+      "parentId": "node_subtraction",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_word",
+      "label": "Word Problems",
+      "description": "Using addition and subtraction to solve real-life questions",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 120,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_word_clues",
+      "label": "Clue Words",
+      "description": "Words like 'total', 'more', 'left', 'remaining' tell you which operation to use",
+      "parentId": "node_word",
+      "positionX": -50,
+      "positionY": 220,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_word_steps",
+      "label": "Solving Steps",
+      "description": "Read carefully, find clue words, set up the problem, solve, and check",
+      "parentId": "node_word",
+      "positionX": 50,
+      "positionY": 220,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_check",
+      "label": "Checking Answers",
+      "description": "Use the opposite operation or estimation to verify",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#4CAF50",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_check_inverse",
+      "label": "Inverse Check",
+      "description": "Check addition with subtraction and subtraction with addition",
+      "parentId": "node_check",
+      "positionX": -80,
+      "positionY": 380,
+      "color": "#81C784",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_check_estimate",
+      "label": "Estimation Check",
+      "description": "Round numbers and see if your answer is close to the estimate",
+      "parentId": "node_check",
+      "positionX": 80,
+      "positionY": 380,
+      "color": "#81C784",
+      "orderIndex": 14
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-02-27",
+    "description": "Recommended YouTube videos for Class 4 NCERT curriculum",
+    "totalVideos": 0,
+    "note": "YouTube IDs need to be collected by searching the channels listed"
+  },
+  "channels": {
+    "magnetBrains": {
+      "name": "Magnet Brains",
+      "channelId": "UC3HS6gQ79jjn4xHxogw0HiA",
+      "handle": "@magnetbrainseducation",
+      "language": "Hindi",
+      "website": "https://www.magnetbrains.com",
+      "recommended": true,
+      "coverage": "Complete NCERT Class 4 syllabus"
+    },
+    "khanAcademyIndia": {
+      "name": "Khan Academy India",
+      "handle": "@KhanAcademyIndia",
+      "language": "Hindi/English",
+      "website": "https://india.khanacademy.org",
+      "recommended": true,
+      "coverage": "Mathematics concepts"
+    },
+    "scratchGarden": {
+      "name": "Scratch Garden",
+      "handle": "@ScratchGarden",
+      "language": "English",
+      "website": "https://scratchgarden.com",
+      "recommended": true,
+      "coverage": "Math songs and concepts"
+    },
+    "numberock": {
+      "name": "Numberock",
+      "handle": "@NUMBEROCK",
+      "language": "English",
+      "recommended": true,
+      "coverage": "Math songs"
+    },
+    "mathWithMrJ": {
+      "name": "Math with Mr. J",
+      "handle": "@MathwithMrJ",
+      "language": "English",
+      "recommended": true,
+      "coverage": "Math tutorials"
+    },
+    "peekabooKidz": {
+      "name": "Peekaboo Kidz",
+      "handle": "@PeekabooKidz",
+      "language": "English",
+      "recommended": true,
+      "coverage": "Science and EVS concepts"
+    },
+    "happyLearning": {
+      "name": "Happy Learning English",
+      "handle": "@HappyLearningTVEnglish",
+      "language": "English",
+      "website": "https://happylearning.tv",
+      "recommended": true,
+      "coverage": "Science concepts"
+    },
+    "generationGenius": {
+      "name": "Generation Genius",
+      "website": "https://www.generationgenius.com",
+      "language": "English",
+      "recommended": true,
+      "coverage": "Science and Math with experiments"
+    }
+  },
+  "searchQueries": {
+    "mathematics": {
+      "chapter1": [
+        "Class 4 Maths Chapter 1 Building with Bricks Hindi Magnet Brains",
+        "3D shapes for kids class 4",
+        "brick patterns math"
+      ],
+      "chapter2": [
+        "Class 4 Maths Chapter 2 Long and Short Hindi",
+        "measuring length for kids",
+        "meters centimeters class 4"
+      ],
+      "chapter3": [
+        "Class 4 Maths Chapter 3 A Trip to Bhopal Hindi",
+        "reading distances map class 4"
+      ],
+      "chapter4": [
+        "Class 4 Maths Chapter 4 Tick Tick Tick time Hindi",
+        "telling time for kids",
+        "reading clock grade 4"
+      ],
+      "chapter5": [
+        "Class 4 Maths Chapter 5 The Way The World Looks Hindi",
+        "maps and directions for kids"
+      ],
+      "chapter6": [
+        "Class 4 Maths Chapter 6 The Junk Seller multiplication Hindi",
+        "multiplication tables song kids"
+      ],
+      "chapter7": [
+        "Class 4 Maths Chapter 7 Jugs and Mugs capacity Hindi",
+        "liters milliliters for kids"
+      ],
+      "chapter8": [
+        "Class 4 Maths Chapter 8 Carts and Wheels circles Hindi",
+        "circles for kids class 4"
+      ],
+      "chapter9": [
+        "Class 4 Maths Chapter 9 Halves and Quarters fractions Hindi",
+        "fractions halves quarters kids Scratch Garden",
+        "fractions song kids Numberock"
+      ],
+      "chapter10": [
+        "Class 4 Maths Chapter 10 Play with Patterns Hindi",
+        "number patterns for kids"
+      ],
+      "chapter11": [
+        "Class 4 Maths Chapter 11 Tables and Shares division Hindi",
+        "division for kids grade 4"
+      ],
+      "chapter12": [
+        "Class 4 Maths Chapter 12 How Heavy How Light weight Hindi",
+        "weight measurement kids grams kilograms"
+      ],
+      "chapter13": [
+        "Class 4 Maths Chapter 13 Fields and Fences area perimeter Hindi",
+        "perimeter area for kids",
+        "area perimeter song"
+      ],
+      "chapter14": [
+        "Class 4 Maths Chapter 14 Smart Charts data handling Hindi",
+        "pictograph bar graph kids",
+        "data handling class 4"
+      ]
+    },
+    "evs": {
+      "chapter1": [
+        "Class 4 EVS Chapter 1 Going to School Hindi",
+        "transportation for kids India"
+      ],
+      "chapter3": [
+        "Class 4 EVS Chapter 3 A Day with Nandu Hindi",
+        "elephants documentary kids Peekaboo"
+      ],
+      "chapter4": [
+        "Class 4 EVS Chapter 4 Story of Amrita Hindi",
+        "save trees for kids"
+      ],
+      "chapter5": [
+        "Class 4 EVS Chapter 5 Anita Honeybees Hindi",
+        "how bees make honey kids Peekaboo"
+      ],
+      "chapter13": [
+        "Class 4 EVS Chapter 13 A River's Tale Hindi",
+        "water pollution for kids",
+        "rivers of India kids"
+      ],
+      "chapter14": [
+        "Class 4 EVS Chapter 14 Basva's Farm Hindi",
+        "farming agriculture kids India"
+      ],
+      "chapter18": [
+        "Class 4 EVS Chapter 18 Too Much Water Too Little Water Hindi",
+        "water cycle for kids animation",
+        "floods droughts kids"
+      ],
+      "chapter21": [
+        "Class 4 EVS Chapter 21 Food and Fun Hindi",
+        "healthy food nutrition kids"
+      ]
+    },
+    "english": {
+      "unit1": [
+        "Class 4 English Marigold Unit 1 Wake Up Hindi",
+        "Class 4 English Neha's Alarm Clock"
+      ],
+      "unit2": [
+        "Class 4 English Marigold Unit 2 Noses poem",
+        "Class 4 English Little Fir Tree story"
+      ],
+      "unit3": [
+        "Class 4 English Marigold Unit 3 Run poem",
+        "Class 4 English Nasruddin's Aim story"
+      ],
+      "unit4": [
+        "Class 4 English Marigold Unit 4 Why poem",
+        "Alice in Wonderland story kids"
+      ],
+      "unit5": [
+        "Class 4 English Marigold Helen Keller story",
+        "Helen Keller for kids"
+      ],
+      "unit6": [
+        "Class 4 English Marigold Hiawatha poem",
+        "Class 4 English Scholar's Mother Tongue"
+      ],
+      "unit7": [
+        "Class 4 English Marigold Giving Tree story",
+        "The Giving Tree animation kids"
+      ],
+      "unit8": [
+        "Class 4 English Marigold Books poem",
+        "Class 4 English Going to Buy a Book"
+      ],
+      "unit9": [
+        "Class 4 English Marigold Pinocchio story",
+        "Pinocchio story for kids"
+      ],
+      "grammar": [
+        "nouns for kids class 4",
+        "pronouns for kids class 4",
+        "verbs tenses kids",
+        "adjectives for kids"
+      ]
+    },
+    "hindi": {
+      "chapter1": [
+        "Class 4 Hindi Rimjhim Chapter 1 मन के भोले भाले बादल"
+      ],
+      "chapter2": [
+        "Class 4 Hindi Rimjhim Chapter 2 जैसा सवाल वैसा जवाब"
+      ],
+      "chapter3": [
+        "Class 4 Hindi Rimjhim Chapter 3 किरमिच की गेंद"
+      ],
+      "chapter4": [
+        "Class 4 Hindi Rimjhim Chapter 4 पापा जब बच्चे थे"
+      ],
+      "chapter5": [
+        "Class 4 Hindi Rimjhim Chapter 5 दोस्त की पोशाक"
+      ],
+      "chapter6": [
+        "Class 4 Hindi Rimjhim Chapter 6 नाव बनाओ नाव बनाओ"
+      ],
+      "chapter7": [
+        "Class 4 Hindi Rimjhim Chapter 7 दान का हिसाब"
+      ],
+      "chapter8": [
+        "Class 4 Hindi Rimjhim Chapter 8 कौन"
+      ],
+      "chapter9": [
+        "Class 4 Hindi Rimjhim Chapter 9 स्वतंत्रता की ओर"
+      ],
+      "chapter10": [
+        "Class 4 Hindi Rimjhim Chapter 10 थप्प रोटी थप्प दाल"
+      ],
+      "chapter11": [
+        "Class 4 Hindi Rimjhim Chapter 11 पढ़क्कू की सूझ"
+      ],
+      "chapter12": [
+        "Class 4 Hindi Rimjhim Chapter 12 सुनीता की पहिया कुर्सी"
+      ],
+      "chapter13": [
+        "Class 4 Hindi Rimjhim Chapter 13 हुदहुद"
+      ],
+      "chapter14": [
+        "Class 4 Hindi Rimjhim Chapter 14 मुफ्त ही मुफ्त"
+      ],
+      "grammar": [
+        "Class 4 Hindi Grammar संज्ञा",
+        "Class 4 Hindi Grammar सर्वनाम",
+        "Class 4 Hindi Grammar क्रिया",
+        "Class 4 Hindi Grammar विशेषण"
+      ]
+    }
+  },
+  "sampleVideos": {
+    "mathematics": {
+      "fractions": [
+        {
+          "title": "Fractions Song | Halves and Quarters",
+          "channel": "Scratch Garden",
+          "language": "English",
+          "searchQuery": "Scratch Garden fractions song halves quarters",
+          "topicId": "gr4_m_9_1",
+          "difficulty": "basic",
+          "estimatedDuration": "3-5 min"
+        },
+        {
+          "title": "Fractions for Kids | What are Fractions",
+          "channel": "Math with Mr. J",
+          "language": "English",
+          "searchQuery": "Math with Mr J fractions for kids",
+          "topicId": "gr4_m_9_1",
+          "difficulty": "basic",
+          "estimatedDuration": "8-12 min"
+        }
+      ],
+      "placeValue": [
+        {
+          "title": "Place Value Song",
+          "channel": "Scratch Garden",
+          "language": "English",
+          "searchQuery": "Scratch Garden place value song",
+          "topicId": "gr4_m_1_1",
+          "difficulty": "basic",
+          "estimatedDuration": "3-4 min"
+        },
+        {
+          "title": "Place Value to Millions",
+          "channel": "Math with Mr. J",
+          "language": "English",
+          "searchQuery": "Math with Mr J place value millions",
+          "topicId": "gr4_m_1_1",
+          "difficulty": "intermediate",
+          "estimatedDuration": "5-7 min"
+        }
+      ],
+      "time": [
+        {
+          "title": "Telling Time to the Minute",
+          "channel": "Math with Mr. J",
+          "language": "English",
+          "searchQuery": "Math with Mr J telling time minute",
+          "topicId": "gr4_m_4_1",
+          "difficulty": "basic",
+          "estimatedDuration": "8-10 min"
+        },
+        {
+          "title": "Tell Time (Nearest Minute)",
+          "channel": "Generation Genius",
+          "language": "English",
+          "searchQuery": "Generation Genius tell time nearest minute",
+          "topicId": "gr4_m_4_1",
+          "difficulty": "basic",
+          "estimatedDuration": "5-7 min"
+        }
+      ]
+    },
+    "evs": {
+      "waterCycle": [
+        {
+          "title": "Water Cycle for Kids",
+          "channel": "Happy Learning English",
+          "language": "English",
+          "searchQuery": "Happy Learning water cycle kids",
+          "topicId": "gr4_ev_18_1",
+          "difficulty": "basic",
+          "estimatedDuration": "4-6 min"
+        },
+        {
+          "title": "The Water Cycle | Dr. Binocs Show",
+          "channel": "Peekaboo Kidz",
+          "language": "English",
+          "searchQuery": "Peekaboo Kidz Dr Binocs water cycle",
+          "topicId": "gr4_ev_18_1",
+          "difficulty": "basic",
+          "estimatedDuration": "5-7 min"
+        },
+        {
+          "title": "Water Cycle (3-5 Version)",
+          "channel": "Generation Genius",
+          "language": "English",
+          "searchQuery": "Generation Genius water cycle 3-5",
+          "topicId": "gr4_ev_18_1",
+          "difficulty": "basic",
+          "estimatedDuration": "5-8 min"
+        }
+      ],
+      "animals": [
+        {
+          "title": "Elephants | Dr. Binocs Show",
+          "channel": "Peekaboo Kidz",
+          "language": "English",
+          "searchQuery": "Peekaboo Kidz Dr Binocs elephants",
+          "topicId": "gr4_ev_3_1",
+          "difficulty": "basic",
+          "estimatedDuration": "5-7 min"
+        },
+        {
+          "title": "How Do Bees Make Honey",
+          "channel": "Peekaboo Kidz",
+          "language": "English",
+          "searchQuery": "Peekaboo Kidz Dr Binocs bees honey",
+          "topicId": "gr4_ev_5_1",
+          "difficulty": "basic",
+          "estimatedDuration": "5-7 min"
+        }
+      ],
+      "plants": [
+        {
+          "title": "Parts of a Plant",
+          "channel": "Peekaboo Kidz",
+          "language": "English",
+          "searchQuery": "Peekaboo Kidz Dr Binocs parts plant",
+          "topicId": "gr4_ev_19_1",
+          "difficulty": "basic",
+          "estimatedDuration": "5-7 min"
+        }
+      ]
+    }
+  },
+  "courseLinks": {
+    "magnetBrains": {
+      "mathematics": "https://www.magnetbrains.com/course/class-4th-maths-math-magic-book-ncert-full-video-course/",
+      "evs": "https://www.magnetbrains.com/course/class-4th-evs-looking-around-book-ncert-full-video-course/",
+      "english": "https://www.magnetbrains.com/course/class-4th-english-marigold-book-ncert-full-video-course/",
+      "hindi": "https://www.magnetbrains.com/course/class-4th-hindi-rimjhim-book-ncert-full-video-course/",
+      "hindiGrammar": "https://www.magnetbrains.com/course/class-4th-hindi-grammar-full-video-course/"
+    },
+    "khanAcademy": {
+      "mathematics": "https://www.khanacademy.org/math/in-in-class-4th-math-cbse"
+    }
+  },
+  "instructions": {
+    "howToCollectVideos": [
+      "1. Use the search queries provided for each chapter/topic",
+      "2. Search on YouTube with the query",
+      "3. Find videos from recommended channels",
+      "4. Copy the video ID from the URL (youtube.com/watch?v=VIDEO_ID)",
+      "5. Note the duration, view count, and verify quality",
+      "6. Add to the appropriate chapter JSON file in assets/data/content/videos/"
+    ],
+    "videoQualityChecklist": [
+      "Video is publicly available",
+      "Minimum 720p resolution",
+      "Clear audio without distortion",
+      "Content matches NCERT chapter",
+      "No excessive ads (especially mid-roll)",
+      "Age-appropriate language and visuals",
+      "Duration between 3-15 minutes ideal"
+    ],
+    "priorityOrder": [
+      "1. Magnet Brains (Hindi) - Primary source for all chapters",
+      "2. Khan Academy India - Mathematics concepts",
+      "3. Scratch Garden / Numberock - Math songs (English)",
+      "4. Peekaboo Kidz - EVS science concepts (English)",
+      "5. Generation Genius - Science with experiments (English)",
+      "6. Happy Learning - EVS concepts (English)"
+    ]
+  }
+}

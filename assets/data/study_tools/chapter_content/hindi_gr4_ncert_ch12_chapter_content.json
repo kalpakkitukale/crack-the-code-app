@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_hin_ncert_ch12",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn12",
+    "title": "सुनीता की पहिया कुर्सी (Sunita's Wheelchair)",
+    "content": "This chapter from the NCERT Rimjhim textbook for Class 4 tells the inspiring story of Sunita, a girl who uses a wheelchair (पहिया कुर्सी) because she cannot walk. Despite her physical disability (विकलांगता), Sunita is full of courage (हिम्मत), self-confidence (आत्मविश्वास), and enthusiasm. She goes to school, participates in activities, plays with friends, and lives life to the fullest. The story teaches children that disability does not mean inability, and that true strength comes from the mind and heart. It builds important values of empathy (सहानुभूति), equality (समानता), and respect (सम्मान) for differently-abled people. Students also learn new Hindi vocabulary and practice expressing their feelings about courage and determination.",
+    "keyPoints": [
+      "Sunita uses a wheelchair (पहिया कुर्सी) but lives life with full courage",
+      "Disability (विकलांगता) does not mean inability (अक्षमता)",
+      "True strength comes from the mind and heart, not just the body",
+      "The chapter teaches empathy (सहानुभूति), not pity (तरस)",
+      "Respect (सम्मान) and equality (समानता) for all people is important",
+      "दिव्यांग (Divyang) is a respectful term for differently-abled people"
+    ],
+    "learningObjectives": [
+      "Read and understand an inspiring story about courage and disability",
+      "Learn the difference between empathy (सहानुभूति) and pity (तरस)",
+      "Build vocabulary with words like विकलांगता, हिम्मत, आत्मविश्वास, and प्रेरणा",
+      "Understand the importance of treating everyone with respect and equality",
+      "Write about brave people and express opinions about courage in Hindi"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn12_001",
+      "title": "सुनीता जैसे बहादुर लोगों की सूची बनाओ (List Brave People Like Sunita)",
+      "content": "Make a list of brave people you know who have overcome physical challenges. They could be famous people like Sudha Chandran (dancer with a prosthetic leg), Arunima Sinha (climbed Everest with one leg), or Stephen Hawking (scientist in a wheelchair). They could also be people in your own community - a neighbour, a relative, or a classmate who faces difficulties bravely. Write 3-4 lines about each person in Hindi. What makes them brave? What can you learn from them?",
+      "tags": ["activity", "values-education"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn12_002",
+      "title": "अपने स्कूल की सुगमता जाँचो (Check Your School's Accessibility)",
+      "content": "Walk around your school and check: Is there a ramp (ढलान) for wheelchair users? Are the doors wide enough for a wheelchair to pass? Are there accessible toilets? Can a wheelchair user reach the library, playground, and canteen? Make a list of what is accessible and what needs improvement. Share your findings with your teacher. This activity helps you understand the challenges that differently-abled people face every day.",
+      "tags": ["activity", "real-world"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn12_003",
+      "title": "सहानुभूति का अभ्यास (Practice Empathy)",
+      "content": "Try this empathy activity: Sit in a chair for 30 minutes and try to do your daily activities without standing up or walking. You can try eating, playing, or studying while sitting the whole time. How did it feel? Was it easy or hard? What challenges did you face? Write about your experience in Hindi. This will help you understand a little bit about what life is like for someone who uses a wheelchair. Remember, empathy means understanding, not pitying!",
+      "tags": ["activity", "empathy-building"],
+      "isPinned": false
+    }
+  ]
+}

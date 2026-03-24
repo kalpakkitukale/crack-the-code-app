@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_hin_ncert_ch8",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn8",
+    "title": "कौन? (Who?)",
+    "content": "This chapter from the NCERT Rimjhim textbook presents a beautiful poem called 'Kaun?' which is entirely composed of questions about the wonders of nature. The poet asks who fills colours in flowers, who gives sparkle to stars, who teaches rivers to flow, and who makes clouds pour rain. Through this unique question-based style (प्रश्न शैली), the poem awakens curiosity (जिज्ञासा) and wonder (आश्चर्य) in young minds. Children learn to appreciate the beauty and mystery of the natural world while also studying important poetic devices like repetition (पुनरुक्ति), rhyming (तुकबंदी), and rhythm (लय).",
+    "keyPoints": [
+      "The poem 'Kaun?' is written entirely as questions about nature's wonders",
+      "It mentions flowers, stars, rivers, clouds, wind, birds, sun, and moon",
+      "The repetition of 'Kaun?' creates rhythm and builds curiosity",
+      "Poetic devices include question style, repetition, rhyming, and rhythm",
+      "The poem inspires love for nature and the habit of asking questions",
+      "Children learn to observe and appreciate the beauty around them"
+    ],
+    "learningObjectives": [
+      "Read and recite the poem with proper rhythm and expression",
+      "Identify the elements of nature mentioned in the poem",
+      "Understand poetic devices like repetition, rhyming, and question style",
+      "Learn new Hindi vocabulary related to nature and poetry",
+      "Write original questions about nature inspired by the poem"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn8_001",
+      "title": "Nature Walk Observation Activity",
+      "content": "Go for a nature walk in a park or garden. Carry a notebook and write down everything you notice - the colour of flowers, the shape of clouds, the sound of birds, the feel of wind. For each observation, write a 'Kaun?' question like the poet: 'Chidiyon ko gaana kaun sikhaata hai?' (Who teaches birds to sing?). Share your questions in class!",
+      "tags": ["activity", "nature", "creative-writing"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn8_002",
+      "title": "Poem Recitation Tip",
+      "content": "When reciting this poem, pause slightly after each 'Kaun?' to create a sense of mystery. Use your voice to show wonder and curiosity. Raise your tone slightly at the end of each question. Practice in front of a mirror and add hand gestures pointing to nature. This will help you perform well in class recitation and poetry competitions!",
+      "tags": ["study-tip", "recitation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn8_003",
+      "title": "Write Your Own Poem",
+      "content": "Try writing your own 'Kaun?' poem! Follow these steps: (1) Choose 5-6 things from nature that amaze you. (2) For each, write a question starting with 'Kaun'. (3) Try to make the last words of every two lines rhyme. (4) Read it aloud to check the rhythm. Example: 'Titli ko udna kaun sikhaata? Koyal ko gaana kaun sunaata?' You are now a kavi (poet)!",
+      "tags": ["creative-writing", "activity"],
+      "isPinned": false
+    }
+  ]
+}

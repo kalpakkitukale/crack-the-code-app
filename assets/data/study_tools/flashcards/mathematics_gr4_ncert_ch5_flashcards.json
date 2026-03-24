@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch5",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn5_equal_sharing",
+      "name": "Equal Sharing",
+      "description": "Learn how division works by sharing things equally among friends",
+      "topicId": "gr4_mn_5_1",
+      "chapterId": "gr4_math_ncert_ch5",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn5_001",
+          "front": "What does 'equal sharing' mean?",
+          "back": "Equal sharing means dividing things so that everyone gets the same amount.\n\nFor example, if you share 12 sweets among 3 friends, each friend gets 4 sweets.",
+          "hint": "Think about giving the same number of items to each person",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn5_002",
+          "front": "What is division?",
+          "back": "Division is splitting a number into equal groups.\n\nThe symbol for division is the sign ÷. For example, 12 ÷ 3 = 4 means 12 split into 3 equal groups gives 4 in each group.",
+          "hint": "It is the opposite of multiplication",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn5_003",
+          "front": "What are the parts of a division problem?",
+          "back": "In 20 ÷ 4 = 5:\n- 20 is the dividend (the total being shared)\n- 4 is the divisor (how many groups)\n- 5 is the quotient (how many in each group)",
+          "hint": "Think: Total ÷ Groups = Amount in each group",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn5_004",
+          "front": "If you share 15 bananas equally among 5 children, how many does each child get?",
+          "back": "15 ÷ 5 = 3. Each child gets 3 bananas.\n\nYou can check: 5 x 3 = 15. Correct!",
+          "hint": "Divide the total bananas by the number of children",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn5_005",
+          "front": "What is a remainder in division?",
+          "back": "A remainder is what is left over when things cannot be shared equally.\n\nFor example, 13 ÷ 4 = 3 remainder 1. Each person gets 3, and 1 is left over.",
+          "hint": "Sometimes things do not divide perfectly!",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn5_division_facts",
+      "name": "Division Facts",
+      "description": "Learn important division facts and their connection to multiplication",
+      "topicId": "gr4_mn_5_2",
+      "chapterId": "gr4_math_ncert_ch5",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn5_006",
+          "front": "How are multiplication and division connected?",
+          "back": "They are opposite operations! If you know 4 x 6 = 24, then you also know:\n- 24 ÷ 4 = 6\n- 24 ÷ 6 = 4\n\nEvery multiplication fact gives you two division facts.",
+          "hint": "Multiplication and division are like a family",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn5_007",
+          "front": "What is 36 ÷ 9?",
+          "back": "36 ÷ 9 = 4.\n\nThink: What number times 9 gives 36? Since 9 x 4 = 36, the answer is 4.",
+          "hint": "Use the 9 times table to help you",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn5_008",
+          "front": "What happens when you divide a number by 1?",
+          "back": "Any number divided by 1 stays the same!\n\n8 ÷ 1 = 8, 25 ÷ 1 = 25, 100 ÷ 1 = 100.\n\nThis is because you are not really splitting it into groups.",
+          "hint": "If there is only 1 group, everything goes into that group",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn5_009",
+          "front": "What happens when you divide a number by itself?",
+          "back": "Any number divided by itself equals 1!\n\n7 ÷ 7 = 1, 50 ÷ 50 = 1.\n\nThis is because if you have 7 items and make 7 groups, each group gets exactly 1.",
+          "hint": "Think about sharing equally so each group gets just one",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn5_010",
+          "front": "What is 0 ÷ 5?",
+          "back": "0 divided by any number is always 0.\n\nIf you have 0 sweets to share among 5 friends, each friend gets 0 sweets because there is nothing to share!",
+          "hint": "If you have nothing, sharing gives everyone nothing",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn5_measurement_sharing",
+      "name": "Sharing and Measuring in Real Life",
+      "description": "Practice division through real-life measurement and sharing problems",
+      "topicId": "gr4_mn_5_3",
+      "chapterId": "gr4_math_ncert_ch5",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn5_011",
+          "front": "A rope is 24 metres long. If it is cut into 6 equal pieces, how long is each piece?",
+          "back": "24 ÷ 6 = 4 metres.\n\nEach piece of rope is 4 metres long. You can check: 6 x 4 = 24 metres. Correct!",
+          "hint": "Divide the total length by the number of pieces",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn5_012",
+          "front": "A shopkeeper has 45 kg of rice. He packs it into bags of 5 kg each. How many bags does he fill?",
+          "back": "45 ÷ 5 = 9 bags.\n\nHere we are finding how many groups of 5 are in 45. The answer is 9 bags.",
+          "hint": "Think: How many times does 5 go into 45?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn5_013",
+          "front": "What is the difference between sharing equally and grouping?",
+          "back": "Both use division!\n- Sharing equally: 12 sweets among 3 children = 4 each (we know the groups, find items per group)\n- Grouping: 12 sweets, 4 in each packet = 3 packets (we know items per group, find number of groups)",
+          "hint": "In sharing you know the number of people. In grouping you know the size of each group.",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn5_014",
+          "front": "A farmer shares 28 litres of milk equally among 7 families. How much does each family get?",
+          "back": "28 ÷ 7 = 4 litres.\n\nEach family gets 4 litres of milk. This is a measurement sharing problem!",
+          "hint": "Divide the total milk by the number of families",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn5_015",
+          "front": "How can you check if your division answer is correct?",
+          "back": "Multiply the quotient by the divisor. If you get back the dividend, your answer is correct!\n\nExample: 32 ÷ 8 = 4. Check: 4 x 8 = 32. Correct!\n\nIf there is a remainder: (quotient x divisor) + remainder = dividend.",
+          "hint": "Use multiplication to check your division",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

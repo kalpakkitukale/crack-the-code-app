@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch24",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Home and Abroad",
+      "description": "Workers who go to other countries for jobs",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_why",
+      "label": "Why People Go",
+      "description": "Reasons for working abroad",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_jobs",
+      "label": "Better Jobs",
+      "description": "More opportunities and higher wages abroad",
+      "parentId": "node_why",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_family_support",
+      "label": "Support Family",
+      "description": "Send money for education, home, and daily needs",
+      "parentId": "node_why",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_where",
+      "label": "Where They Go",
+      "description": "Common destinations for Indian workers",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_gulf",
+      "label": "Gulf Countries",
+      "description": "UAE, Saudi Arabia, Kuwait, Qatar, Oman",
+      "parentId": "node_where",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_other_countries",
+      "label": "Other Countries",
+      "description": "USA, UK, Canada, Australia, Singapore",
+      "parentId": "node_where",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_challenges",
+      "label": "Challenges",
+      "description": "Difficulties workers face abroad",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_homesick",
+      "label": "Homesickness",
+      "description": "Missing family, festivals, and home food",
+      "parentId": "node_challenges",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_language",
+      "label": "New Language",
+      "description": "Learning to communicate in a foreign language",
+      "parentId": "node_challenges",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_family_home",
+      "label": "Family at Home",
+      "description": "How families cope and stay connected",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_connect",
+      "label": "Staying Connected",
+      "description": "Phone calls, video calls, letters, messages",
+      "parentId": "node_family_home",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_documents",
+      "label": "Travel Documents",
+      "description": "What workers need to go abroad",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#2196F3",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_passport_visa",
+      "label": "Passport & Visa",
+      "description": "Official documents for identity and permission",
+      "parentId": "node_documents",
+      "positionX": 150,
+      "positionY": 360,
+      "color": "#03A9F4",
+      "orderIndex": 13
+    }
+  ]
+}

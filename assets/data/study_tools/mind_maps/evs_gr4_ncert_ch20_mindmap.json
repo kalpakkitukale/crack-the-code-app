@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_evs_ncert_ch20",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Eating Together",
+      "description": "Food traditions and meals across India",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_family_meals",
+      "label": "Family Meals",
+      "description": "Why families eat together and its importance",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_bonding",
+      "label": "Family Bonding",
+      "description": "Sharing stories, love, and togetherness over food",
+      "parentId": "node_family_meals",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_manners",
+      "label": "Table Manners",
+      "description": "Washing hands, not wasting food, sharing with others",
+      "parentId": "node_family_meals",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_regional_food",
+      "label": "Food Across India",
+      "description": "Different regions, different foods",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_north",
+      "label": "North India",
+      "description": "Roti, dal, paneer, lassi, paratha",
+      "parentId": "node_regional_food",
+      "positionX": -80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_south",
+      "label": "South India",
+      "description": "Rice, idli, dosa, sambar, rasam",
+      "parentId": "node_regional_food",
+      "positionX": 0,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_east_west",
+      "label": "East & West India",
+      "description": "Fish curry in Bengal, dal-baati in Rajasthan",
+      "parentId": "node_regional_food",
+      "positionX": 80,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_festival_food",
+      "label": "Festival Foods",
+      "description": "Special dishes for celebrations",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_diwali",
+      "label": "Diwali & Eid",
+      "description": "Laddoo, barfi, sewaiyan, biryani",
+      "parentId": "node_festival_food",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_harvest",
+      "label": "Harvest Festivals",
+      "description": "Pongal, Onam Sadhya, Baisakhi",
+      "parentId": "node_festival_food",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_community",
+      "label": "Community Meals",
+      "description": "Eating together as a community",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_langar",
+      "label": "Langar",
+      "description": "Free meals for all at gurudwaras",
+      "parentId": "node_community",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_wedding",
+      "label": "Wedding Feasts",
+      "description": "Grand meals at marriages and celebrations",
+      "parentId": "node_community",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_food_choices",
+      "label": "Food Choices",
+      "description": "Why different people eat different foods",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_reasons",
+      "label": "Religion & Culture",
+      "description": "Vegetarian, non-vegetarian, fasting traditions",
+      "parentId": "node_food_choices",
+      "positionX": 150,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 15
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch27",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en27",
+    "title": "Chuskit Goes to School",
+    "content": "This chapter tells the heartwarming story of Chuskit, a young girl from Ladakh who uses a wheelchair and dreams of going to school. Through her story, students learn about disability, inclusion, and the power of community. The chapter explores the challenges faced by people with disabilities, especially in regions with difficult terrain like Ladakh. Students discover what accessibility means and why it is important to make schools, buildings, and public spaces welcoming for everyone. The chapter also introduces students to the unique geography, climate, food, and culture of Ladakh, connecting the landscape to the challenges Chuskit faces.",
+    "keyPoints": [
+      "Chuskit is a girl from Ladakh who uses a wheelchair and wants to attend school",
+      "Inclusion means welcoming everyone and making sure no one is left out",
+      "Accessible spaces have ramps, wide doors, and smooth paths so everyone can use them",
+      "The Right to Education Act ensures every child aged 6-14 gets free schooling, including children with disabilities",
+      "Ladakh is a cold desert in northern India with high mountains and difficult terrain",
+      "Community support and empathy can help overcome the toughest challenges"
+    ],
+    "learningObjectives": [
+      "Understand what disability and inclusion mean",
+      "Identify features that make a place accessible for people with disabilities",
+      "Learn about the Right to Education Act and its importance",
+      "Describe the geography, climate, and culture of Ladakh",
+      "Develop empathy and understanding towards people with different abilities"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en27_001",
+      "title": "Accessibility Walk Activity",
+      "content": "Walk around your school or neighbourhood with a notebook. Look for features that help people with disabilities - ramps, handrails, Braille signs, wide doorways, accessible toilets. Also note what is missing. Make two lists: 'Accessible Features' and 'Improvements Needed'. Share your findings with your teacher or class to discuss how spaces can be made more inclusive.",
+      "tags": ["activity", "observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en27_002",
+      "title": "Empathy Exercise",
+      "content": "Try this exercise to understand different abilities: sit in a chair for 15 minutes and try to do everyday tasks without standing up. How does it feel? What things become difficult? Now imagine doing this every day. This helps build empathy for people who use wheelchairs. Remember, having a disability does not make someone less capable - they just experience the world differently.",
+      "tags": ["empathy", "understanding"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en27_003",
+      "title": "Important: Respectful Language",
+      "content": "When talking about people with disabilities, always use respectful language. Say 'a person with a disability' instead of 'disabled person' - the person comes first, not the disability. Never use words that make fun of someone's condition. Everyone deserves to be treated with dignity and respect. Being kind and thoughtful with our words is the first step towards true inclusion.",
+      "tags": ["values", "important"],
+      "isPinned": false
+    }
+  ]
+}

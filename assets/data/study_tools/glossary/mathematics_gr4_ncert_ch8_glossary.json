@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch8",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn8_001",
+      "term": "Weight",
+      "definition": "How heavy an object is. Weight tells us how much something pulls downwards because of gravity.",
+      "pronunciation": "WAYT",
+      "exampleUsage": "The weight of this mango is 250 grams.",
+      "difficulty": "easy",
+      "relatedTerms": ["gram", "kilogram", "weighing balance"]
+    },
+    {
+      "id": "gls_gr4_mn8_002",
+      "term": "Gram",
+      "definition": "A small unit used to measure the weight of light objects. We write it as 'g'.",
+      "pronunciation": "GRAM",
+      "exampleUsage": "A packet of biscuits weighs 100 grams.",
+      "difficulty": "easy",
+      "relatedTerms": ["weight", "kilogram"]
+    },
+    {
+      "id": "gls_gr4_mn8_003",
+      "term": "Kilogram",
+      "definition": "A bigger unit of weight. 1 kilogram equals 1000 grams. We write it as 'kg'.",
+      "pronunciation": "KIL-oh-gram",
+      "exampleUsage": "My school bag weighs about 3 kilograms.",
+      "difficulty": "easy",
+      "relatedTerms": ["gram", "weight"]
+    },
+    {
+      "id": "gls_gr4_mn8_004",
+      "term": "Capacity",
+      "definition": "The amount of liquid a container can hold. A bigger container has more capacity.",
+      "pronunciation": "kuh-PAS-ih-tee",
+      "exampleUsage": "The capacity of this water bottle is 1 litre.",
+      "difficulty": "easy",
+      "relatedTerms": ["litre", "millilitre"]
+    },
+    {
+      "id": "gls_gr4_mn8_005",
+      "term": "Litre",
+      "definition": "A unit used to measure the capacity of liquids. We write it as 'L'.",
+      "pronunciation": "LEE-ter",
+      "exampleUsage": "My mother bought a 2-litre bottle of cooking oil.",
+      "difficulty": "easy",
+      "relatedTerms": ["millilitre", "capacity"]
+    },
+    {
+      "id": "gls_gr4_mn8_006",
+      "term": "Millilitre",
+      "definition": "A very small unit used to measure liquids. 1000 millilitres make 1 litre. We write it as 'mL'.",
+      "pronunciation": "MIL-ee-lee-ter",
+      "exampleUsage": "A teaspoon of medicine is about 5 millilitres.",
+      "difficulty": "easy",
+      "relatedTerms": ["litre", "capacity"]
+    },
+    {
+      "id": "gls_gr4_mn8_007",
+      "term": "Weighing Balance",
+      "definition": "A tool used to measure the weight of objects. It has two pans - one for the object and one for standard weights.",
+      "pronunciation": "WAY-ing BAL-uns",
+      "exampleUsage": "The shopkeeper used a weighing balance to weigh 500 grams of dal.",
+      "difficulty": "easy",
+      "relatedTerms": ["weight", "gram", "kilogram"]
+    },
+    {
+      "id": "gls_gr4_mn8_008",
+      "term": "Standard Weights",
+      "definition": "Metal pieces of known weight (like 100 g, 200 g, 500 g, 1 kg) used with a balance to measure how heavy something is.",
+      "pronunciation": "STAN-dard WAYTS",
+      "exampleUsage": "The vegetable seller placed a 1 kg standard weight on one side of the balance.",
+      "difficulty": "medium",
+      "relatedTerms": ["weighing balance", "kilogram", "gram"]
+    },
+    {
+      "id": "gls_gr4_mn8_009",
+      "term": "Conversion",
+      "definition": "Changing a measurement from one unit to another. For example, changing kilograms to grams or litres to millilitres.",
+      "pronunciation": "kun-VER-shun",
+      "exampleUsage": "To convert 3 kg to grams, multiply by 1000: 3 kg = 3000 g.",
+      "difficulty": "medium",
+      "relatedTerms": ["gram", "kilogram", "litre", "millilitre"]
+    },
+    {
+      "id": "gls_gr4_mn8_010",
+      "term": "Measuring Cup",
+      "definition": "A cup with markings on the side that shows how much liquid is inside. Used to measure capacity.",
+      "pronunciation": "MEZH-er-ing KUP",
+      "exampleUsage": "Use a measuring cup to pour exactly 250 mL of milk for the recipe.",
+      "difficulty": "easy",
+      "relatedTerms": ["capacity", "millilitre", "litre"]
+    }
+  ]
+}

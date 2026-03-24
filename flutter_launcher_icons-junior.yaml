@@ -1,0 +1,30 @@
+# Junior segment app icon configuration
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon_junior.png"
+
+  # Android adaptive icon
+  adaptive_icon_foreground: "assets/icons/icon_junior.png"
+  adaptive_icon_background: "#2196F3"
+
+  # iOS icon
+  remove_alpha_ios: true
+
+  # Web icon
+  web:
+    generate: true
+    image_path: "assets/icons/icon_junior.png"
+    background_color: "#2196F3"
+    theme_color: "#2196F3"
+
+  # Windows icon
+  windows:
+    generate: true
+    image_path: "assets/icons/icon_junior.png"
+    icon_size: 48
+
+  # macOS icon
+  macos:
+    generate: true
+    image_path: "assets/icons/icon_junior.png"

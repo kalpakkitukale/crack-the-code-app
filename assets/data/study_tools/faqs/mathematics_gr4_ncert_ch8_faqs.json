@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch8",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn8_001",
+      "videoId": "gr4_mn8_v1",
+      "question": "Why do we need two units (grams and kilograms) for weight?",
+      "answer": "Because some things are very light and some are very heavy! It would be silly to say a watermelon weighs 3000 grams when we can just say 3 kg. And it would be confusing to say a biscuit weighs 0.01 kg when we can say 10 grams. Grams are for light things and kilograms are for heavy things, making numbers easier to understand.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn8_002",
+      "videoId": "gr4_mn8_v1",
+      "question": "How does a weighing balance work?",
+      "answer": "A weighing balance has two pans hanging from a bar. You put the object you want to weigh on one pan and standard weights (like 100 g, 500 g, 1 kg) on the other pan. When both sides are level (balanced), the total of the standard weights equals the weight of your object. If the object side goes down, you need to add more weights on the other side.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn8_003",
+      "videoId": "gr4_mn8_v1",
+      "question": "How do I convert kilograms to grams?",
+      "answer": "Multiply the number of kilograms by 1000. For example: 2 kg = 2 x 1000 = 2000 g. For mixed measurements like 3 kg 250 g, first convert the kg part (3 x 1000 = 3000 g) and then add the extra grams (3000 + 250 = 3250 g).",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn8_004",
+      "videoId": "gr4_mn8_v2",
+      "question": "What is the difference between weight and capacity?",
+      "answer": "Weight tells us how heavy something is, and we measure it in grams or kilograms. Capacity tells us how much liquid a container can hold, and we measure it in millilitres or litres. For example, a bottle has a capacity of 500 mL (how much water it holds), and the water inside might weigh 500 grams (how heavy it is).",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn8_005",
+      "videoId": "gr4_mn8_v2",
+      "question": "How do I convert litres to millilitres?",
+      "answer": "Multiply the number of litres by 1000. For example: 4 L = 4 x 1000 = 4000 mL. For mixed measurements like 2 L 500 mL, convert the litre part (2 x 1000 = 2000 mL) and add the extra mL (2000 + 500 = 2500 mL). It works exactly the same way as converting kg to g!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn8_006",
+      "videoId": "gr4_mn8_v2",
+      "question": "How much water does a common container hold?",
+      "answer": "Here are some everyday examples: A teaspoon holds about 5 mL. A cup holds about 200-250 mL. A water bottle holds about 500 mL to 1 L. A bucket holds about 15-20 litres. An overhead water tank can hold 500-1000 litres! Knowing these helps you estimate capacity in daily life.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn8_007",
+      "videoId": "gr4_mn8_v3",
+      "question": "How do I add weights that have both kg and g?",
+      "answer": "Step 1: Add the grams together. Step 2: Add the kilograms together. Step 3: If the grams total is 1000 or more, convert it. Example: 2 kg 600 g + 1 kg 700 g. Grams: 600 + 700 = 1300 g = 1 kg 300 g. Kilograms: 2 + 1 = 3 kg. Total: 3 + 1 = 4 kg 300 g.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn8_008",
+      "videoId": "gr4_mn8_v3",
+      "question": "Why is 1 kg of cotton bigger in size than 1 kg of iron?",
+      "answer": "Even though both weigh 1 kg (same weight), cotton is very light and fluffy, so you need a LOT of cotton to reach 1 kg. Iron is very dense (heavy for its size), so just a small piece weighs 1 kg. The weight is the same, but the space they take up (volume) is very different!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn8_009",
+      "videoId": "gr4_mn8_v3",
+      "question": "How do I compare weights that are in different units?",
+      "answer": "First, convert everything to the same unit. Then compare. Example: Which is heavier, 1500 g or 2 kg? Convert 2 kg to grams: 2 x 1000 = 2000 g. Now compare: 1500 g vs 2000 g. So 2 kg is heavier. Always make the units the same before comparing!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn8_010",
+      "videoId": "gr4_mn8_v1",
+      "question": "What are some things that weigh about 1 kilogram?",
+      "answer": "Here are some everyday examples of things that weigh about 1 kg: a 1-litre bottle of water, a packet of atta (flour), about 4-5 apples, a small pumpkin, or a thick textbook. Knowing these helps you estimate and guess weights in real life!",
+      "status": "answered",
+      "upvotes": 17
+    }
+  ]
+}

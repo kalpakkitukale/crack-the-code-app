@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_hin_ncert_ch1",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_hi1_kavita",
+      "name": "कविता पाठ और अर्थ (Poem Reading and Meaning)",
+      "description": "Learn about the beautiful poem on clouds and imagination from Rimjhim Chapter 1",
+      "topicId": "gr4_hi_1_1",
+      "chapterId": "gr4_hin_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_hi1_001",
+          "front": "कविता 'मन के भोले-भाले बादल' में बादलों को कैसा बताया गया है? (How are the clouds described in the poem?)",
+          "back": "कविता में बादलों को भोले-भाले (innocent) बताया गया है। कवि कहता है कि बादल बच्चों की तरह सरल और मासूम होते हैं जो आसमान में खेलते रहते हैं। (The clouds are described as innocent, like children playing in the sky.)",
+          "hint": "कविता के शीर्षक में ही उत्तर छिपा है (The answer is in the title itself)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi1_002",
+          "front": "कविता में बादल आसमान में क्या-क्या करते हैं? (What do the clouds do in the sky according to the poem?)",
+          "back": "कविता में बादल आसमान में इधर-उधर घूमते हैं, अलग-अलग आकार बनाते हैं, और बारिश लाते हैं। वे कभी हाथी, कभी घोड़े और कभी पहाड़ जैसे दिखते हैं। (The clouds roam around, form different shapes like elephants, horses, and mountains, and bring rain.)",
+          "hint": "सोचो बादल कौन-कौन सी आकृतियाँ बनाते हैं (Think about what shapes clouds make)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi1_003",
+          "front": "कवि ने बादलों की तुलना किनसे की है? (Whom does the poet compare the clouds to?)",
+          "back": "कवि ने बादलों की तुलना भोले-भाले बच्चों से की है जो बिना किसी चिंता के खेलते रहते हैं। जैसे बच्चे मन में कल्पना करते हैं, वैसे ही बादल आसमान में रूप बदलते हैं। (The poet compares clouds to innocent children who play without any worry, changing forms like children's imagination.)",
+          "hint": "बच्चे और बादल में क्या समानता है? (What is common between children and clouds?)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi1_004",
+          "front": "कविता में 'मन' शब्द का क्या महत्व है? (What is the significance of the word 'मन' (mind) in the poem?)",
+          "back": "'मन' शब्द कल्पना (imagination) को दर्शाता है। बादल असल में भोले-भाले नहीं होते - यह हमारा मन है जो उन्हें ऐसा देखता है। कवि बताना चाहता है कि कल्पना से दुनिया सुंदर लगती है। (The word 'मन' represents imagination. Clouds aren't really innocent - it is our mind that sees them this way.)",
+          "hint": "क्या बादल सचमुच भोले होते हैं या हम उन्हें ऐसा समझते हैं? (Are clouds really innocent or do we perceive them so?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi1_005",
+          "front": "कविता का मुख्य संदेश क्या है? (What is the main message of the poem?)",
+          "back": "कविता का मुख्य संदेश है कि प्रकृति (nature) बहुत सुंदर है और हमें कल्पना की आँखों से देखनी चाहिए। बादलों को देखकर खुश होना और उनमें अलग-अलग आकार खोजना बचपन की सबसे प्यारी बात है। (The main message is that nature is beautiful and we should see it with eyes of imagination.)",
+          "hint": "कविता प्रकृति और कल्पना दोनों के बारे में है (The poem is about both nature and imagination)",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_hi1_shabdarth",
+      "name": "शब्दार्थ और प्रश्न उत्तर (Word Meanings and Q&A)",
+      "description": "Master the vocabulary and key questions from the poem about clouds",
+      "topicId": "gr4_hi_1_2",
+      "chapterId": "gr4_hin_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_hi1_006",
+          "front": "'भोले-भाले' शब्द का क्या अर्थ है? (What is the meaning of 'भोले-भाले'?)",
+          "back": "'भोले-भाले' का अर्थ है सीधे-सादे, मासूम, बिना किसी चालाकी के। अंग्रेज़ी में इसे 'innocent' या 'simple and naive' कहते हैं। (It means innocent, simple, without any cleverness.)",
+          "hint": "एक छोटा बच्चा कैसा होता है? (How is a small child?)",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_hi1_007",
+          "front": "'कल्पना' का क्या अर्थ है? (What does 'कल्पना' mean?)",
+          "back": "'कल्पना' का अर्थ है मन में कुछ सोचना या बनाना जो सामने नहीं है। अंग्रेज़ी में इसे 'imagination' कहते हैं। जैसे बादलों में हाथी देखना कल्पना है। (Imagination - thinking of or creating something in the mind that is not actually there.)",
+          "hint": "जब तुम बादलों में जानवर देखते हो, तो वह क्या है? (When you see animals in clouds, what is that?)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_hi1_008",
+          "front": "'आसमान' और 'आकाश' में क्या अंतर है? (What is the difference between 'आसमान' and 'आकाश'?)",
+          "back": "दोनों का अर्थ एक ही है - sky। 'आकाश' शुद्ध हिंदी (संस्कृत) शब्द है और 'आसमान' उर्दू/फ़ारसी से आया है। कविता में दोनों शब्द मिल सकते हैं। (Both mean sky. 'आकाश' is from Sanskrit and 'आसमान' is from Urdu/Persian. Both may appear in poetry.)",
+          "hint": "ये दोनों पर्यायवाची (synonyms) हैं (These are synonyms)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_hi1_009",
+          "front": "बादल किस ऋतु में सबसे ज़्यादा दिखते हैं? (In which season are clouds seen the most?)",
+          "back": "बादल वर्षा ऋतु (rainy season / monsoon) में सबसे ज़्यादा दिखते हैं। भारत में यह जुलाई से सितंबर तक होती है। इस समय आसमान में काले-काले बादल छा जाते हैं और बारिश होती है। (Clouds are most visible during the rainy season / monsoon, from July to September in India.)",
+          "hint": "बारिश किस मौसम में होती है? (In which season does it rain?)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_hi1_010",
+          "front": "कविता में उपमा (simile) का उदाहरण दो। (Give an example of simile from the poem.)",
+          "back": "कविता में बादलों को भोले-भाले बच्चों जैसा बताया गया है - यह एक उपमा है। उपमा में दो अलग चीज़ों की तुलना 'जैसा', 'सा', 'की तरह' शब्दों से की जाती है। (Comparing clouds to innocent children is a simile. Simile compares two different things using words like 'जैसा', 'सा', 'की तरह'.)",
+          "hint": "जब हम कहते हैं 'बादल बच्चों जैसे हैं' तो यह कौन सा अलंकार है? (When we say clouds are like children, what figure of speech is it?)",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

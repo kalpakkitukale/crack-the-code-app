@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_eng_ch1",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_e1_nouns",
+      "name": "Types of Nouns",
+      "description": "Learn about common nouns, proper nouns, and other types of naming words",
+      "topicId": "gr4_e_1_1",
+      "chapterId": "gr4_eng_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_e1_001",
+          "front": "What is a noun?",
+          "back": "A noun is a naming word. It is the name of a person, place, animal, or thing. Examples: boy, school, cat, book.",
+          "hint": "It names something around you",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_e1_002",
+          "front": "What is a common noun?",
+          "back": "A common noun is a general name for a person, place, or thing. It does not start with a capital letter. Examples: city, dog, teacher, river.",
+          "hint": "It is a general name, not a specific one",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_e1_003",
+          "front": "What is a proper noun?",
+          "back": "A proper noun is the special name of a particular person, place, or thing. It always starts with a capital letter. Examples: India, Riya, Monday, Ganga.",
+          "hint": "It always begins with a capital letter",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_e1_004",
+          "front": "What is a collective noun?",
+          "back": "A collective noun names a group of people, animals, or things. Examples: a flock of birds, a bunch of grapes, a team of players.",
+          "hint": "Think of a word for a whole group",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_e1_005",
+          "front": "Is 'happiness' a noun? What type?",
+          "back": "Yes! 'Happiness' is an abstract noun. It names a feeling or idea that you cannot see or touch. Other examples: love, kindness, bravery.",
+          "hint": "Can you touch or see happiness?",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_e1_pronouns",
+      "name": "Pronouns",
+      "description": "Understand pronouns and how they replace nouns in sentences",
+      "topicId": "gr4_e_1_2",
+      "chapterId": "gr4_eng_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_e1_006",
+          "front": "What is a pronoun?",
+          "back": "A pronoun is a word used in place of a noun. Instead of saying 'Ravi is kind. Ravi helps everyone,' we say 'Ravi is kind. He helps everyone.' Here, 'He' is the pronoun.",
+          "hint": "It takes the place of a naming word",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_e1_007",
+          "front": "Name some common pronouns.",
+          "back": "Common pronouns are: I, you, he, she, it, we, they, me, him, her, us, them. Example: 'She likes to read books.'",
+          "hint": "Words like he, she, it...",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_e1_008",
+          "front": "Why do we use pronouns?",
+          "back": "We use pronouns so that we do not repeat the same noun again and again. They make our sentences shorter and smoother to read.",
+          "hint": "What happens if you say a name too many times?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_e1_009",
+          "front": "Pick the pronoun: 'Meera has a cat. She feeds it every day.'",
+          "back": "'She' is a pronoun (it replaces Meera) and 'it' is a pronoun (it replaces cat). Both are pronouns used in place of nouns.",
+          "hint": "Which words replaced Meera and cat?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_e1_010",
+          "front": "What is the difference between 'he' and 'him'?",
+          "back": "'He' is used when the person is doing the action (subject). 'Him' is used when the action is done to the person (object). Example: 'He threw the ball. I gave it to him.'",
+          "hint": "One does the action, the other receives it",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

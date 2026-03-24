@@ -1,0 +1,59 @@
+{
+  "chapterId": "gr4_sci_ch1",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_sc1",
+    "title": "Living Things",
+    "content": "This chapter helps students understand the wonderful world of living things. Students will learn what makes something alive by studying the six characteristics of living things: growth, breathing, eating, movement, feeling, and reproduction. The chapter explores two major groups of living things - plants and animals - and explains how each group is special. Plants make their own food using sunlight, while animals eat plants or other animals. Finally, students will discover habitats, the natural homes where living things find everything they need to survive, and learn how plants and animals develop special features called adaptations to thrive in their habitats.",
+    "keyPoints": [
+      "Living things grow, breathe, eat, move, feel, and reproduce",
+      "Plants make their own food through photosynthesis using sunlight, water, and carbon dioxide",
+      "Animals are grouped as herbivores, carnivores, and omnivores based on what they eat",
+      "A habitat is the natural home of a living thing that provides food, water, and shelter",
+      "Adaptations are special features that help living things survive in their habitats",
+      "India has many different habitats including forests, deserts, rivers, and mountains"
+    ],
+    "learningObjectives": [
+      "List and explain the six characteristics of living things",
+      "Describe how plants make their own food through photosynthesis",
+      "Classify animals as herbivores, carnivores, or omnivores",
+      "Explain what a habitat is and name different types of habitats in India",
+      "Give examples of how plants and animals adapt to their habitats"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_sc1_001",
+      "title": "Living or Non-living? Quick Test",
+      "content": "To check if something is living or non-living, ask these six questions: Can it grow? Can it breathe? Does it need food? Can it move on its own? Can it feel or respond? Can it reproduce? If the answer to ALL of these is yes, it is a living thing. Try this test on things around your house, like your pet, a table, a tulsi plant, and a glass of water.",
+      "tags": ["study-tip", "activity"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_sc1_002",
+      "title": "Remember Herbivore, Carnivore, Omnivore",
+      "content": "Here is an easy way to remember: Herbivore starts with 'H' like Herbs (plants) - they eat plants. Carnivore starts with 'C' like Chicken (meat) - they eat meat. Omnivore starts with 'O' like 'Oh, I eat everything!' - they eat both plants and meat. Think of Indian examples: cow (herbivore), tiger (carnivore), crow (omnivore).",
+      "tags": ["memory-trick", "important"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_sc1_003",
+      "title": "Habitat Match Activity",
+      "content": "Draw four boxes on a page and label them: Forest, Desert, Pond, Mountain. Now write the names of these living things in the correct box: lotus, camel, monkey, frog, cactus, snow leopard, tiger, fish, date palm tree, yak. Check your answers with a friend or your teacher!",
+      "tags": ["practice", "activity"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_sc1_004",
+      "title": "Common Mistake: Movement vs. Living",
+      "content": "Many students think anything that moves is alive. But a car moves and it is not living! A river flows but it is not alive either. Remember, living things move ON THEIR OWN because they are alive. Cars need petrol and a driver. Rivers flow because of gravity. Always check all six characteristics, not just movement.",
+      "tags": ["common-mistake", "important"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_eng_ncert_u1",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en1_wake_up",
+      "name": "Wake Up! (Poem)",
+      "description": "Learn about the poem that celebrates waking up early and enjoying nature",
+      "topicId": "gr4_en_1_1",
+      "chapterId": "gr4_eng_ncert_u1",
+      "cards": [
+        {
+          "id": "card_gr4_en1_001",
+          "front": "What is the poem 'Wake Up!' about?",
+          "back": "The poem 'Wake Up!' is about waking up early in the morning. It describes the beautiful things in nature that greet us when we get up -- birds singing, flowers blooming, and the bright morning sun.",
+          "hint": "Think about what you see and hear in the morning",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en1_002",
+          "front": "What does the poet ask the child to do in 'Wake Up!'?",
+          "back": "The poet asks the child to wake up early and not waste the beautiful morning by sleeping. The poet wants the child to enjoy the sights and sounds of nature.",
+          "hint": "The poet does not want the child to stay in bed",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en1_003",
+          "front": "Which things in nature are mentioned in the poem 'Wake Up!'?",
+          "back": "The poem mentions birds singing, bees buzzing, flowers blooming, the bright sun shining, and the fresh morning breeze. All these things welcome the child to a new day.",
+          "hint": "Think about animals, plants, and the sky",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en1_004",
+          "front": "What is the message of the poem 'Wake Up!'?",
+          "back": "The poem teaches us that waking up early is good. The morning is a beautiful time of the day, and we should not miss it by sleeping late. Nature is at its best in the early morning!",
+          "hint": "Why is waking up early a good habit?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en1_005",
+          "front": "What are rhyming words? Give examples from the poem.",
+          "back": "Rhyming words are words that end with the same sound. In poems, rhyming words make the poem sound musical and fun to read. Examples from the poem include words that sound alike at the end of lines.",
+          "hint": "Words that sound the same at the end",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en1_neha",
+      "name": "Neha's Alarm Clock (Story)",
+      "description": "Understand the story of Neha and how she learns to wake up on time",
+      "topicId": "gr4_en_1_2",
+      "chapterId": "gr4_eng_ncert_u1",
+      "cards": [
+        {
+          "id": "card_gr4_en1_006",
+          "front": "Who is Neha in the story?",
+          "back": "Neha is a young girl who finds it very difficult to wake up early in the morning. She loves sleeping and always wants to stay in bed longer.",
+          "hint": "She is the main character of the story",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en1_007",
+          "front": "What problem does Neha face in the story?",
+          "back": "Neha's problem is that she cannot wake up on time in the morning. She is always late for school because she keeps sleeping even after being called by her family.",
+          "hint": "What happens when she does not get up?",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en1_008",
+          "front": "How does the alarm clock help Neha?",
+          "back": "The alarm clock rings loudly every morning at the set time and wakes Neha up. With the help of the alarm clock, Neha starts waking up on time and is no longer late for school.",
+          "hint": "What does an alarm clock do?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en1_009",
+          "front": "What lesson does Neha learn from the story?",
+          "back": "Neha learns the importance of waking up early and being punctual. She understands that being on time is a good habit and that there are tools like alarm clocks to help us.",
+          "hint": "Think about why being on time matters",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en1_010",
+          "front": "What values does the story 'Neha's Alarm Clock' teach us?",
+          "back": "The story teaches us the values of punctuality (being on time), discipline (following a routine), and responsibility (taking charge of our own habits). It shows that small changes can make a big difference!",
+          "hint": "Think about good habits and time management",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en1_grammar",
+      "name": "Grammar: Sentences",
+      "description": "Learn what sentences are and how to form them correctly",
+      "topicId": "gr4_en_1_3",
+      "chapterId": "gr4_eng_ncert_u1",
+      "cards": [
+        {
+          "id": "card_gr4_en1_011",
+          "front": "What is a sentence?",
+          "back": "A sentence is a group of words that makes complete sense. It always begins with a capital letter and ends with a full stop (.), question mark (?), or exclamation mark (!). Example: 'Neha wakes up early.'",
+          "hint": "A group of words that gives a complete idea",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en1_012",
+          "front": "What are the two main parts of a sentence?",
+          "back": "Every sentence has two main parts: the Subject (who or what the sentence is about) and the Predicate (what the subject does or is). Example: 'The bird (subject) sings sweetly (predicate).'",
+          "hint": "One part tells who, the other tells what happens",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en1_013",
+          "front": "What is the difference between a sentence and a phrase?",
+          "back": "A sentence makes complete sense and has a subject and a predicate. A phrase is just a group of words that does not make complete sense on its own. 'On the table' is a phrase. 'The book is on the table' is a sentence.",
+          "hint": "One makes complete sense, the other does not",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en1_014",
+          "front": "How do we begin and end a sentence?",
+          "back": "A sentence always begins with a capital letter. It ends with a punctuation mark: a full stop (.) for statements, a question mark (?) for questions, or an exclamation mark (!) for exclamations. Example: 'Wake up!'",
+          "hint": "Think about capital letters and punctuation",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en1_015",
+          "front": "Rearrange to form a sentence: 'early / Neha / up / wakes'",
+          "back": "The correct sentence is: 'Neha wakes up early.' We arrange the words so that the sentence makes complete sense, starting with the subject (Neha) and followed by what she does (wakes up early).",
+          "hint": "Start with who is doing the action",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

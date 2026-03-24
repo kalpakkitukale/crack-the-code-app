@@ -1,0 +1,444 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch1",
+  "topicId": "gr4_mn_1_1",
+  "topicName": "Shapes Around Us - 3D Shapes, Faces, Edges, Vertices, Angles",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for geometry: 3D shapes in daily life, faces/edges/vertices, understanding angles, and identifying shapes around us",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent 2D shape knowledge and can fast-track to 3D shapes, properties, and angles with challenges",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2007,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn1_v1",
+          "reason": "Introduction to 3D shapes found in daily life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v3",
+          "reason": "Learn faces, edges, and vertices of 3D shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v4",
+          "reason": "Understand different types of angles",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v5",
+          "reason": "Angles song for reinforcement",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn1_v6",
+          "reason": "Recognize shapes in the real world",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v2",
+          "reason": "Fun 3D shapes song as a challenge review",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of 3D shapes, properties, angles, and real-world identification",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 2,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2007,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn1_v1",
+          "reason": "Learn common 3D shapes with real-life examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v2",
+          "reason": "Reinforce 3D shape names with a catchy song",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v3",
+          "reason": "Discover faces, edges, and vertices of solid shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v4",
+          "reason": "Understand angle basics: right, acute, obtuse, straight",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v5",
+          "reason": "Fun angles song with real-world examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v6",
+          "reason": "Identify shapes everywhere around you",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in 2D shapes or counting sides, needs targeted review before 3D shapes and angles",
+      "playlistComposition": {
+        "prerequisiteVideos": 2,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2577,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "basic_2d_shapes_weak": {
+            "addVideos": ["prereq_ch1_2dshapes_v1"],
+            "priority": "high"
+          },
+          "counting_sides_weak": {
+            "addVideos": ["prereq_ch1_sides_v1"],
+            "priority": "high"
+          },
+          "flat_vs_solid_weak": {
+            "addVideos": ["prereq_ch1_flat_solid_v1"],
+            "priority": "medium"
+          },
+          "real_world_shapes_weak": {
+            "addVideos": ["prereq_ch1_2dshapes_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch1_2dshapes_v1",
+          "reason": "Review: Basic 2D shapes - circles, triangles, rectangles, squares",
+          "skippable": false,
+          "condition": "if basic_2d_shapes concept is weak"
+        },
+        {
+          "videoId": "prereq_ch1_sides_v1",
+          "reason": "Review: Counting sides and corners of shapes",
+          "skippable": false,
+          "condition": "if counting_sides concept is weak"
+        },
+        {
+          "videoId": "gr4_mn1_v1",
+          "reason": "Start main topic: 3D shapes in daily life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v2",
+          "reason": "3D shapes song for reinforcement",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v3",
+          "reason": "Faces, edges, and vertices of 3D shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v4",
+          "reason": "Understanding angles",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v6",
+          "reason": "Recognizing shapes around us",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in 2D shapes, sides, and flat vs solid before attempting 3D shapes and angles",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1518,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch1_2dshapes_v1",
+          "reason": "Foundation: Learn to recognize and name 2D shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch1_sides_v1",
+          "reason": "Essential: Learn to count sides and corners",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch1_flat_solid_v1",
+          "reason": "Critical: Understand the difference between flat and solid shapes",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v1",
+          "reason": "Gentle intro to 3D shapes in daily life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn1_v2",
+          "reason": "Reinforce 3D shapes with a fun song",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these review videos, try the readiness quiz again to check if you are ready to continue with faces, edges, vertices, and angles."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "basic_2d_shapes": {
+        "conceptName": "Recognizing and naming basic 2D shapes",
+        "importance": "critical",
+        "videoIds": ["prereq_ch1_2dshapes_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1_1", "rq1_2", "rq1_3"]
+      },
+      "counting_sides": {
+        "conceptName": "Counting sides and corners of shapes",
+        "importance": "critical",
+        "videoIds": ["prereq_ch1_sides_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1_4", "rq1_5", "rq1_6"]
+      },
+      "flat_vs_solid": {
+        "conceptName": "Understanding flat (2D) vs solid (3D) shapes",
+        "importance": "important",
+        "videoIds": ["prereq_ch1_flat_solid_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1_7", "rq1_8"]
+      },
+      "real_world_shapes": {
+        "conceptName": "Recognizing shapes in everyday objects",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch1_2dshapes_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1_9", "rq1_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn1_v1",
+        "checkpointName": "3D Shapes Recognition Check",
+        "questions": [
+          {
+            "question": "Which 3D shape looks like a ball?",
+            "options": ["Cube", "Sphere", "Cylinder", "Cone"],
+            "correctAnswer": 1,
+            "explanation": "A sphere is the 3D shape that looks like a ball. It is perfectly round from every direction."
+          },
+          {
+            "question": "A dice is shaped like a:",
+            "options": ["Sphere", "Cone", "Cube", "Cylinder"],
+            "correctAnswer": 2,
+            "explanation": "A dice is a cube. It has 6 square faces, all the same size."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Great job! You understand 3D shapes really well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch1_flat_solid_v1",
+          "reason": "Student struggling with recognizing basic 3D shapes"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn1_v3",
+        "checkpointName": "Faces, Edges, and Vertices Check",
+        "questions": [
+          {
+            "question": "How many faces does a cube have?",
+            "options": ["4 faces", "5 faces", "6 faces", "8 faces"],
+            "correctAnswer": 2,
+            "explanation": "A cube has 6 faces. Think of a dice - it has numbers on 6 sides, so 6 faces!"
+          }
+        ],
+        "ifCorrect": {
+          "action": "continue_normally",
+          "message": "Well done! You understand faces of 3D shapes."
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Try counting the faces on a real box or dice before continuing to angles."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip to identifying shapes around us for enrichment challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on 2D shapes and counting sides"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend finding 3D shapes at home and counting their faces, edges, and corners"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You know your shapes very well. You are ready to explore 3D shapes, count faces and edges, learn about angles, and spot shapes everywhere around you. We have created a fast-track playlist with some fun challenges!"
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand basic shapes nicely. Let's explore 3D shapes in daily life, learn about faces, edges, vertices, discover angles, and identify shapes all around us."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in shape knowledge. Don't worry! We will start with targeted review videos on the concepts you need, then move on to 3D shapes and angles."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review basic shapes, sides, and corners first. We have created a playlist with fun videos to build a strong foundation. After watching, you can retake the quiz and then learn about 3D shapes and angles."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how geometry concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["2D shape names (circle, triangle, square, rectangle)", "Counting sides", "Counting corners"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Flat (2D) vs solid (3D) shapes", "Recognizing shapes in everyday objects"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["3D shape names (sphere, cube, cylinder, cone, pyramid)", "3D shapes in daily life"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Faces of 3D shapes", "Edges of 3D shapes", "Vertices (corners) of 3D shapes"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["What is an angle", "Right angles", "Acute and obtuse angles", "Straight angles"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 6,
+        "concepts": ["Identifying 2D and 3D shapes in the real world", "Shape scavenger hunt", "Geometry in art and architecture"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "shapeIdentification": {
+      "target": 90,
+      "description": "% of students who can correctly name common 3D shapes and identify them in daily life"
+    },
+    "faceEdgeVertexCounting": {
+      "target": 85,
+      "description": "% of students who can correctly count faces, edges, and vertices of basic 3D shapes"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (15 min) + retake + main content (25 min) = 45-55 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing 2D circle with 3D sphere",
+      "solution1": "Use real objects: hold a ball (sphere) and draw a circle on paper. Emphasize that a sphere takes up space, a circle is flat",
+      "challenge2": "Students struggling to count faces on 3D shapes",
+      "solution2": "Use physical models or nets (unfolded shapes) to count faces one by one",
+      "challenge3": "Students finding angles abstract",
+      "solution3": "Start with the corner of a book (right angle) and use hands to show bigger and smaller angles"
+    }
+  }
+}

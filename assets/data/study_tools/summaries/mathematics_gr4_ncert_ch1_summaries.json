@@ -1,0 +1,62 @@
+{
+  "chapterId": "gr4_math_ncert_ch1",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn1_v1",
+      "videoId": "gr4_mn1_v1",
+      "content": "This lesson introduces the five main 3D shapes: cube, cuboid, cylinder, cone, and sphere. Students learn that 3D shapes are solid and can be held in the hand, unlike 2D shapes that are flat. A cube is like a dice with 6 equal square faces. A cuboid is like a brick or book with 6 rectangular faces. A cylinder is like a tin can with 2 circular faces and 1 curved surface. A cone is like an ice cream cone with a circular base and a pointed tip. A sphere is like a ball, perfectly round with no flat face at all.",
+      "keyPoints": [
+        "3D shapes have length, width, and height - they are solid",
+        "A cube has 6 equal square faces (like a dice)",
+        "A cuboid has 6 rectangular faces (like a brick or book)",
+        "A cylinder has 2 circular flat faces and 1 curved surface (like a tin can)",
+        "A cone has 1 circular base and a pointed tip (like an ice cream cone)",
+        "A sphere is perfectly round with no edges or corners (like a ball)"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn1_v2",
+      "videoId": "gr4_mn1_v2",
+      "content": "This lesson teaches the important properties of 3D shapes: faces, edges, and vertices. A face is any flat or curved surface of a 3D shape. An edge is a line where two faces meet. A vertex (plural: vertices) is a corner where edges come together. Students count faces, edges, and vertices for each 3D shape. A cube has 6 faces, 12 edges, and 8 vertices. A sphere has just 1 curved face, 0 edges, and 0 vertices. Knowing these properties helps us compare and describe shapes clearly.",
+      "keyPoints": [
+        "A face is a flat or curved surface of a 3D shape",
+        "An edge is a line where two faces meet",
+        "A vertex is a corner where edges come together",
+        "Cube: 6 faces, 12 edges, 8 vertices",
+        "Cylinder: 3 faces (2 flat + 1 curved), 2 edges, 0 vertices",
+        "Cone: 2 faces (1 flat + 1 curved), 1 edge, 1 vertex",
+        "Sphere: 1 curved face, 0 edges, 0 vertices"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn1_v3",
+      "videoId": "gr4_mn1_v3",
+      "content": "This lesson introduces angles and right angles. An angle is formed when two straight lines meet at a point. The corner of a book or a notebook makes a right angle, which looks like the letter L. Students learn to spot right angles in squares and rectangles. They also learn that angles can be bigger or smaller than a right angle. A door that is slightly open makes a small angle, while a door that is wide open makes a big angle. The hands of a clock show different angles at different times.",
+      "keyPoints": [
+        "An angle is formed when two lines meet at a point",
+        "A right angle looks like the corner of a square or the letter L",
+        "Every corner of a square and rectangle is a right angle",
+        "Some angles are bigger and some are smaller than a right angle",
+        "Clock hands show different angles at different times"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn1_v4",
+      "videoId": "gr4_mn1_v4",
+      "content": "This lesson helps students find 3D shapes in their daily surroundings. In the kitchen, a steel tumbler is a cylinder, a ladoo is a sphere, and a matchbox is a cuboid. On the road, traffic cones are cone-shaped and pillars of buildings are cylinders. Students learn that when you trace the flat face of a 3D shape on paper, you get a 2D shape - tracing a cube gives a square, tracing a cylinder gives a circle. The chapter encourages observing shapes everywhere to build mathematical thinking.",
+      "keyPoints": [
+        "3D shapes are found everywhere in daily life",
+        "Kitchen examples: tumbler (cylinder), ladoo (sphere), matchbox (cuboid)",
+        "Outdoor examples: traffic cone (cone), pillar (cylinder), football (sphere)",
+        "Tracing a 3D shape's flat face gives a 2D shape",
+        "Observing shapes around us builds mathematical thinking"
+      ],
+      "source": "manual"
+    }
+  ]
+}

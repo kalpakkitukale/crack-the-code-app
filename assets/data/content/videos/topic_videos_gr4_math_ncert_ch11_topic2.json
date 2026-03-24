@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn11_t2",
+  "topicId": "gr4_mn_11_2",
+  "topicName": "Mirror Images",
+  "chapterId": "gr4_math_ncert_ch11",
+  "chapterName": "Fun with Symmetry",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1260,
+    "totalDurationDisplay": "21:00",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "25-35 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_11_1"],
+    "followUpTopics": ["gr4_mn_11_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn11_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Mirror Images and Reflections | Geometry",
+      "description": "Understand how mirror images work and how to draw reflections of shapes.",
+      "youtubeId": "Kf9KhwryQNE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kf9KhwryQNE",
+      "thumbnailUrl": "https://img.youtube.com/vi/Kf9KhwryQNE/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 600000,
+      "tags": ["mirror images", "reflection", "symmetry"],
+      "learningObjectives": ["Understand what a mirror image is", "See how left and right flip in a mirror", "Draw the mirror image of a simple shape"],
+      "keyConceptsCovered": ["Mirror images are reflections", "Left and right are swapped in a mirror", "The mirror line is the line of symmetry"],
+      "prerequisites": ["Understanding of line of symmetry"],
+      "followUpTopics": ["Symmetrical shapes", "Completing figures"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn11_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "What is Symmetry? | Line of Symmetry for Kids",
+      "description": "Learn what symmetry means and how to find lines of symmetry in shapes and objects around you.",
+      "youtubeId": "YFnEFMPFmKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YFnEFMPFmKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/YFnEFMPFmKo/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["symmetry", "line of symmetry", "math"],
+      "learningObjectives": ["Connect line of symmetry to mirror images", "See that each half is a mirror image of the other", "Identify mirror lines in shapes"],
+      "keyConceptsCovered": ["The line of symmetry acts like a mirror", "Each half reflects the other", "Symmetry and reflection are connected"],
+      "prerequisites": ["Basic understanding of symmetry"],
+      "followUpTopics": ["Drawing mirror images on grids"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch11_matching_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Matching and Same-Different | Comparing Shapes and Patterns",
+      "description": "Practise matching identical shapes and spotting what is the same and what is different. This skill helps you see symmetry!",
+      "youtubeId": "T8wfjkQKPsA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=T8wfjkQKPsA",
+      "thumbnailUrl": "https://img.youtube.com/vi/T8wfjkQKPsA/hqdefault.jpg",
+      "duration": 270,
+      "durationDisplay": "4:30",
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 720000,
+      "tags": ["matching", "same different", "comparing shapes", "patterns"],
+      "learningObjectives": ["Match shapes and their mirror images", "Spot differences between a shape and its reflection", "Practise visual comparison for mirror images"],
+      "keyConceptsCovered": ["Mirror images look the same but are flipped", "Matching shapes with their reflections", "Comparing original and reflected shapes"],
+      "prerequisites": ["Basic observation skills"],
+      "followUpTopics": ["Symmetrical shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch11_halves_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Equal Halves and Parts | Folding Shapes in Half",
+      "description": "Learn what it means to divide a shape into two equal halves. When both halves match perfectly, that is symmetry!",
+      "youtubeId": "pVa8fGLBVNM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pVa8fGLBVNM",
+      "thumbnailUrl": "https://img.youtube.com/vi/pVa8fGLBVNM/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["equal halves", "halves", "parts", "folding"],
+      "learningObjectives": ["Verify mirror images by folding", "See that folded halves are mirror images", "Practise identifying mirror lines"],
+      "keyConceptsCovered": ["Folding reveals mirror images", "Each half is a reflection of the other", "The fold line is the mirror line"],
+      "prerequisites": ["Basic shape recognition"],
+      "followUpTopics": ["Symmetrical shapes"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn11_v3", "gr4_mn11_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 690,
+      "estimatedTimeDisplay": "11:30",
+      "rationale": "Core mirror image concepts for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn11_v3", "gr4_mn11_v1", "prereq_ch11_matching_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 960,
+      "estimatedTimeDisplay": "16:00",
+      "rationale": "Complete mirror image coverage with matching practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch11_matching_v1", "gr4_mn11_v3", "gr4_mn11_v1", "prereq_ch11_halves_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1260,
+      "estimatedTimeDisplay": "21:00",
+      "rationale": "Matching review first, then mirror image concepts with folding practice"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn11_v3", "gr4_mn11_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 690,
+      "estimatedTimeDisplay": "11:30",
+      "rationale": "Essential mirror image concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn11_v3",
+      "checkpointName": "Mirror Image Understanding Check",
+      "questions": [
+        {
+          "question": "When you look at the letter 'b' in a mirror, it looks like which letter?",
+          "options": ["b", "d", "p", "q"],
+          "correctAnswer": 1,
+          "explanation": "In a mirror, left and right are flipped. So the letter 'b' looks like 'd' in a mirror!"
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use a real mirror in class to demonstrate reflections. Have students hold up letters, numbers, and shapes to see their mirror images.",
+    "parentGuidance": "Stand with your child in front of a mirror. Try waving different hands and writing letters to explore how reflections work.",
+    "studentGuidance": "Try holding a book in front of a mirror. Notice how the words look backwards! That is what a mirror image is."
+  }
+}

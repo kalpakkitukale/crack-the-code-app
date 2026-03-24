@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch3",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "किरमिच की गेंद",
+      "description": "Chapter 3 - A story about friendship and sharing from Rimjhim textbook",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_kahani_parichay",
+      "label": "कहानी परिचय (Story Introduction)",
+      "description": "Overview of the story about children, a leather ball, and the joy of playing together",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_paatra",
+      "label": "पात्र: गली के बच्चे",
+      "description": "The characters are children from the neighbourhood who play together",
+      "parentId": "node_kahani_parichay",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_sthaan",
+      "label": "स्थान: गली-मोहल्ला",
+      "description": "The story is set in the lanes and neighbourhood where children play",
+      "parentId": "node_kahani_parichay",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_vishay",
+      "label": "विषय: दोस्ती और साझेदारी",
+      "description": "The central theme is friendship, sharing, and playing together",
+      "parentId": "node_kahani_parichay",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_gend",
+      "label": "किरमिच की गेंद (The Ball)",
+      "description": "The leather ball that brings children together and is central to the story",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_kirmich",
+      "label": "किरमिच: चमड़े जैसा कपड़ा",
+      "description": "Rexine is a thick cloth resembling leather, used to make balls in old times",
+      "parentId": "node_gend",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_khel",
+      "label": "मिलकर खेलना (Playing Together)",
+      "description": "Children take turns and cooperate while playing with the ball",
+      "parentId": "node_gend",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_baari",
+      "label": "बारी-बारी से खेलना",
+      "description": "Taking turns is an important part of fair play and friendship",
+      "parentId": "node_gend",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_seekh",
+      "label": "जीवन की सीख (Life Lessons)",
+      "description": "Values and lessons learned through the story about the ball",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_dosti",
+      "label": "दोस्ती सबसे कीमती",
+      "description": "Friendship is more valuable than any toy or material thing",
+      "parentId": "node_seekh",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_baantna",
+      "label": "बाँटने से खुशी बढ़ती है",
+      "description": "Sharing increases happiness rather than decreasing it",
+      "parentId": "node_seekh",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_sahyog",
+      "label": "सहयोग और टीमवर्क",
+      "description": "Cooperation and teamwork make games and life more enjoyable",
+      "parentId": "node_seekh",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_bhasha",
+      "label": "भाषा कौशल (Language Skills)",
+      "description": "Vocabulary, expressions, and writing skills from the chapter",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 360,
+      "color": "#E91E63",
+      "orderIndex": 13
+    }
+  ]
+}

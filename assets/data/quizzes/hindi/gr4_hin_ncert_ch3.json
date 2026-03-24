@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_hin_ncert_ch3",
+    "level": "chapter",
+    "entityId": "gr4_hin_ncert_ch3",
+    "title": "किरमिच की गेंद - पाठ 3 प्रश्नोत्तरी",
+    "questionIds": ["q_kg_001", "q_kg_002", "q_kg_003", "q_kg_004", "q_kg_005", "q_kg_006", "q_kg_007", "q_kg_008", "q_kg_009", "q_kg_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_kg_001",
+      "questionText": "'किरमिच' का क्या अर्थ है?",
+      "questionType": "mcq",
+      "options": ["प्लास्टिक", "रबर", "चमड़ा", "कागज़"],
+      "correctAnswer": "C",
+      "explanation": "'किरमिच' का अर्थ है चमड़ा। किरमिच की गेंद चमड़े से बनी गेंद होती है।",
+      "hints": ["पुराने ज़माने में गेंद किससे बनती थी?"],
+      "difficulty": "basic",
+      "conceptTags": ["शब्दार्थ", "किरमिच"],
+      "topicIds": ["gr4_hi_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_002",
+      "questionText": "यह कहानी किसके बारे में है?",
+      "questionType": "mcq",
+      "options": ["पढ़ाई के बारे में", "दोस्ती और बाँटने के बारे में", "यात्रा के बारे में", "खाने के बारे में"],
+      "correctAnswer": "B",
+      "explanation": "यह कहानी दोस्ती और चीज़ों को बाँटने के बारे में है। गेंद को साझा करना दोस्ती का प्रतीक है।",
+      "hints": ["बच्चे गेंद से क्या करते हैं?"],
+      "difficulty": "basic",
+      "conceptTags": ["कहानी", "दोस्ती", "बाँटना"],
+      "topicIds": ["gr4_hi_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_003",
+      "questionText": "'गेंद' का बहुवचन क्या है?",
+      "questionType": "mcq",
+      "options": ["गेंदें", "गेंद", "गेंदी", "गेंदों"],
+      "correctAnswer": "A",
+      "explanation": "'गेंद' का बहुवचन 'गेंदें' होता है। एक गेंद, बहुत सारी गेंदें।",
+      "hints": ["इकारांत स्त्रीलिंग शब्दों में 'ें' जुड़ता है"],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "वचन"],
+      "topicIds": ["gr4_hi_3_2"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_004",
+      "questionText": "दोस्तों के साथ खेलने से क्या फायदा होता है?",
+      "questionType": "mcq",
+      "options": ["कुछ नहीं होता", "दोस्ती मज़बूत होती है और मज़ा आता है", "लड़ाई होती है", "थकान होती है"],
+      "correctAnswer": "B",
+      "explanation": "दोस्तों के साथ खेलने से दोस्ती मज़बूत होती है, टीमवर्क सीखते हैं, और खुशी मिलती है।",
+      "hints": ["खेलने के सकारात्मक प्रभाव"],
+      "difficulty": "basic",
+      "conceptTags": ["जीवन कौशल", "दोस्ती"],
+      "topicIds": ["gr4_hi_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_005",
+      "questionText": "सही या गलत: अपनी चीज़ें दोस्तों के साथ बाँटना अच्छी बात है।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "A",
+      "explanation": "सही! बाँटना एक अच्छा गुण है। इससे दोस्ती बढ़ती है और सबको खुशी मिलती है।",
+      "hints": ["कहानी क्या सिखाती है?"],
+      "difficulty": "basic",
+      "conceptTags": ["नैतिक शिक्षा", "बाँटना"],
+      "topicIds": ["gr4_hi_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_006",
+      "questionText": "'दोस्त' का पर्यायवाची क्या है?",
+      "questionType": "mcq",
+      "options": ["दुश्मन", "मित्र", "अजनबी", "पड़ोसी"],
+      "correctAnswer": "B",
+      "explanation": "'दोस्त' का पर्यायवाची 'मित्र' है। दोनों का एक ही अर्थ है - जिससे हमारा प्रेम हो।",
+      "hints": ["संस्कृत में दोस्त को क्या कहते हैं?"],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "पर्यायवाची"],
+      "topicIds": ["gr4_hi_3_2"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_007",
+      "questionText": "खेल से हमें क्या मिलता है?",
+      "questionType": "mcq",
+      "options": ["सिर्फ थकान", "स्वास्थ्य, खुशी और दोस्ती", "बीमारी", "कमज़ोरी"],
+      "correctAnswer": "B",
+      "explanation": "खेलने से हमारा शरीर स्वस्थ रहता है, मन खुश रहता है, और दोस्त बनते हैं।",
+      "hints": ["खेल के फायदे सोचो"],
+      "difficulty": "basic",
+      "conceptTags": ["स्वास्थ्य", "खेल"],
+      "topicIds": ["gr4_hi_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_008",
+      "questionText": "'खेलना' में मूल शब्द क्या है?",
+      "questionType": "mcq",
+      "options": ["खेल", "खेला", "खिलाड़ी", "खेलूँ"],
+      "correctAnswer": "A",
+      "explanation": "'खेलना' में मूल शब्द 'खेल' है। 'ना' प्रत्यय जुड़कर क्रिया बनाता है।",
+      "hints": ["प्रत्यय हटाओ"],
+      "difficulty": "intermediate",
+      "conceptTags": ["व्याकरण", "मूल शब्द", "प्रत्यय"],
+      "topicIds": ["gr4_hi_3_2"],
+      "points": 2
+    },
+    {
+      "id": "q_kg_009",
+      "questionText": "'दोस्त' का विलोम क्या है?",
+      "questionType": "mcq",
+      "options": ["मित्र", "सखा", "दुश्मन", "साथी"],
+      "correctAnswer": "C",
+      "explanation": "'दोस्त' का विलोम 'दुश्मन' है। दोस्त प्रेम करते हैं, दुश्मन नहीं।",
+      "hints": ["दोस्त के विपरीत कौन होता है?"],
+      "difficulty": "basic",
+      "conceptTags": ["व्याकरण", "विलोम शब्द"],
+      "topicIds": ["gr4_hi_3_2"],
+      "points": 1
+    },
+    {
+      "id": "q_kg_010",
+      "questionText": "सही या गलत: पुराने ज़माने में गेंदें प्लास्टिक की होती थीं।",
+      "questionType": "trueFalse",
+      "options": ["सही", "गलत"],
+      "correctAnswer": "B",
+      "explanation": "गलत! पुराने ज़माने में गेंदें चमड़े (किरमिच), कपड़े, या रबर की होती थीं। प्लास्टिक बाद में आया।",
+      "hints": ["किरमिच क्या होती है?"],
+      "difficulty": "basic",
+      "conceptTags": ["इतिहास", "खेल", "गेंद"],
+      "topicIds": ["gr4_hi_3_1"],
+      "points": 1
+    }
+  ]
+}

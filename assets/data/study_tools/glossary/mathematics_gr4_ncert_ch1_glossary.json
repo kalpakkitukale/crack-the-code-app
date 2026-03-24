@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_math_ncert_ch1",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn1_001",
+      "term": "Cube",
+      "definition": "A 3D shape with 6 equal square faces, 12 edges, and 8 vertices. All sides of a cube are the same length.",
+      "pronunciation": "KYOOB",
+      "exampleUsage": "A dice used to play ludo is shaped like a cube.",
+      "difficulty": "easy",
+      "relatedTerms": ["Cuboid", "Face", "3D Shape"]
+    },
+    {
+      "id": "gls_gr4_mn1_002",
+      "term": "Cuboid",
+      "definition": "A 3D shape with 6 rectangular faces, 12 edges, and 8 vertices. A cuboid looks like a box and its faces can be different sizes.",
+      "pronunciation": "KYOO-boyd",
+      "exampleUsage": "A brick and a tiffin box are shaped like cuboids.",
+      "difficulty": "easy",
+      "relatedTerms": ["Cube", "Face", "Edge"]
+    },
+    {
+      "id": "gls_gr4_mn1_003",
+      "term": "Cylinder",
+      "definition": "A 3D shape with 2 flat circular faces on top and bottom and 1 curved surface joining them. It looks like a pipe or a tin can.",
+      "pronunciation": "SIL-in-der",
+      "exampleUsage": "A glass of water and a steel tumbler are shaped like cylinders.",
+      "difficulty": "easy",
+      "relatedTerms": ["Circle", "Curved Surface", "3D Shape"]
+    },
+    {
+      "id": "gls_gr4_mn1_004",
+      "term": "Cone",
+      "definition": "A 3D shape with 1 flat circular face at the bottom and a pointed tip (vertex) at the top. It has 1 curved surface.",
+      "pronunciation": "KOHN",
+      "exampleUsage": "An ice cream cone and a birthday party cap are cone-shaped.",
+      "difficulty": "easy",
+      "relatedTerms": ["Circle", "Vertex", "Curved Surface"]
+    },
+    {
+      "id": "gls_gr4_mn1_005",
+      "term": "Sphere",
+      "definition": "A perfectly round 3D shape like a ball. It has no edges, no vertices, and only 1 curved surface.",
+      "pronunciation": "SFEER",
+      "exampleUsage": "A cricket ball, a marble, and a globe are all spheres.",
+      "difficulty": "easy",
+      "relatedTerms": ["Curved Surface", "3D Shape"]
+    },
+    {
+      "id": "gls_gr4_mn1_006",
+      "term": "Face",
+      "definition": "A flat or curved surface of a 3D shape. A cube has 6 flat faces. A cylinder has 2 flat faces and 1 curved face.",
+      "pronunciation": "FAYS",
+      "exampleUsage": "Each face of a dice has a different number of dots on it.",
+      "difficulty": "easy",
+      "relatedTerms": ["Edge", "Vertex", "3D Shape"]
+    },
+    {
+      "id": "gls_gr4_mn1_007",
+      "term": "Edge",
+      "definition": "A line where two faces of a 3D shape meet. A cube has 12 edges. A cylinder has 2 curved edges.",
+      "pronunciation": "EJ",
+      "exampleUsage": "If you run your finger along the side of a matchbox, you are tracing an edge.",
+      "difficulty": "easy",
+      "relatedTerms": ["Face", "Vertex", "Cube"]
+    },
+    {
+      "id": "gls_gr4_mn1_008",
+      "term": "Vertex",
+      "definition": "A corner point where edges meet on a 3D shape. The plural of vertex is vertices. A cube has 8 vertices.",
+      "pronunciation": "VER-teks",
+      "exampleUsage": "A cone has just one vertex at its pointed tip.",
+      "difficulty": "medium",
+      "relatedTerms": ["Edge", "Face", "Corner"]
+    },
+    {
+      "id": "gls_gr4_mn1_009",
+      "term": "3D Shape",
+      "definition": "A solid shape that has length, width, and height. You can hold it in your hand. Also called a three-dimensional shape.",
+      "pronunciation": "THREE-dee shayp",
+      "exampleUsage": "A ball, a box, and a can are all 3D shapes found in our homes.",
+      "difficulty": "easy",
+      "relatedTerms": ["Cube", "Cuboid", "Sphere", "2D Shape"]
+    },
+    {
+      "id": "gls_gr4_mn1_010",
+      "term": "Angle",
+      "definition": "The space formed when two straight lines meet at a point. Angles can be small or large depending on how open they are.",
+      "pronunciation": "ANG-ul",
+      "exampleUsage": "The corner of your notebook forms a right angle.",
+      "difficulty": "medium",
+      "relatedTerms": ["Right Angle", "Corner", "Vertex"]
+    },
+    {
+      "id": "gls_gr4_mn1_011",
+      "term": "Right Angle",
+      "definition": "An angle that looks like the corner of a square or the letter L. The corners of books, doors, and windows are right angles.",
+      "pronunciation": "RITE ANG-ul",
+      "exampleUsage": "Each corner of a rectangle has a right angle.",
+      "difficulty": "medium",
+      "relatedTerms": ["Angle", "Square", "Rectangle"]
+    },
+    {
+      "id": "gls_gr4_mn1_012",
+      "term": "Curved Surface",
+      "definition": "A surface that is not flat but rounded. Spheres, cylinders, and cones all have curved surfaces.",
+      "pronunciation": "KURVD SER-fis",
+      "exampleUsage": "The outside of a ball is one big curved surface.",
+      "difficulty": "easy",
+      "relatedTerms": ["Face", "Sphere", "Cylinder"]
+    }
+  ]
+}

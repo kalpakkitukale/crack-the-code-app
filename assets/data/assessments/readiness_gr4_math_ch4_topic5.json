@@ -1,0 +1,429 @@
+{
+  "assessmentId": "readiness_gr4_m4_t5",
+  "topicId": "gr4_m_4_5",
+  "topicName": "Number Patterns with 4-digit Numbers",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning number patterns with 4-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "number_sequences",
+      "conceptName": "Basic number sequences and skip counting",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_seq_v1", "prereq_seq_v2"]
+    },
+    {
+      "conceptId": "skip_counting",
+      "conceptName": "Skip counting by 10s, 100s, 1000s",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_skip_v1", "prereq_skip_v2"]
+    },
+    {
+      "conceptId": "addition_subtraction",
+      "conceptName": "Basic addition and subtraction",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_add_sub_v1"]
+    },
+    {
+      "conceptId": "pattern_recognition",
+      "conceptName": "Identifying patterns and rules",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_pattern_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_sequences",
+
+      "question": "What comes next in the sequence: 2, 4, 6, 8, ___?",
+
+      "options": [
+        "9",
+        "10",
+        "12",
+        "14"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "10",
+
+      "explanation": "This sequence increases by 2 each time (counting by 2s). So 8 + 2 = 10.",
+
+      "tags": ["sequences", "counting by 2s", "patterns"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 2",
+          "conceptGap": "Not identifying the pattern rule",
+          "remediation": "Review finding pattern rules in sequences"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_sequences",
+
+      "question": "What is the missing number: 5, 10, 15, ___, 25?",
+
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "20",
+
+      "explanation": "This sequence increases by 5 each time (counting by 5s). So 15 + 5 = 20.",
+
+      "tags": ["sequences", "counting by 5s", "missing number"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 to previous number",
+          "conceptGap": "Not recognizing skip counting pattern",
+          "remediation": "Practice skip counting by 5s"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "number_sequences",
+
+      "question": "True or False: In the sequence 3, 6, 9, 12, the pattern rule is 'add 3'.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Each number is 3 more than the previous one: 3→6 (+3), 6→9 (+3), 9→12 (+3).",
+
+      "tags": ["pattern rules", "sequences", "addition"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't calculate the difference correctly",
+          "conceptGap": "Finding pattern rules",
+          "remediation": "Practice identifying pattern rules"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "skip_counting",
+
+      "question": "Count by 10s: 230, 240, 250, ___?",
+
+      "options": [
+        "251",
+        "255",
+        "260",
+        "270"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "260",
+
+      "explanation": "Counting by 10s means adding 10 each time. 250 + 10 = 260.",
+
+      "tags": ["skip counting", "counting by 10s", "sequences"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Added 1 instead of 10",
+          "conceptGap": "Understanding skip counting by 10s",
+          "remediation": "Practice skip counting by 10s"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "skip_counting",
+
+      "question": "Count by 100s: 3,200, 3,300, 3,400, ___?",
+
+      "options": [
+        "3,500",
+        "3,410",
+        "3,450",
+        "4,000"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "3,500",
+
+      "explanation": "Counting by 100s means adding 100 each time. 3,400 + 100 = 3,500.",
+
+      "tags": ["skip counting", "counting by 100s", "4-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Added 10 instead of 100",
+          "conceptGap": "Understanding place value in skip counting",
+          "remediation": "Review skip counting by 100s"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "fill_blank",
+      "difficulty": "intermediate",
+      "conceptTested": "skip_counting",
+
+      "question": "Count by 1000s: 2,000, 3,000, ____, 5,000",
+
+      "correctAnswer": "4000",
+      "acceptedAnswers": ["4000", "4,000", "four thousand"],
+
+      "explanation": "Counting by 1000s: 2,000, 3,000, 4,000, 5,000. Each number increases by 1000.",
+
+      "tags": ["skip counting", "counting by 1000s", "thousands"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": "3500",
+          "mistake": "Found midpoint instead of next in sequence",
+          "conceptGap": "Understanding skip counting vs averaging",
+          "remediation": "Practice skip counting by 1000s"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_subtraction",
+
+      "question": "What is 245 + 100?",
+
+      "options": [
+        "246",
+        "255",
+        "345",
+        "1245"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "345",
+
+      "explanation": "245 + 100 = 345. When adding 100, the hundreds digit increases by 1.",
+
+      "tags": ["addition", "adding 100", "place value"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Added 10 instead of 100",
+          "conceptGap": "Place value in addition",
+          "remediation": "Review adding 10, 100, 1000"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_subtraction",
+
+      "question": "What is 5,600 - 1,000?",
+
+      "options": [
+        "5,500",
+        "4,600",
+        "5,590",
+        "4,500"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "4,600",
+
+      "explanation": "5,600 - 1,000 = 4,600. When subtracting 1000, the thousands digit decreases by 1.",
+
+      "tags": ["subtraction", "subtracting 1000", "place value"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Subtracted 100 instead of 1000",
+          "conceptGap": "Place value in subtraction",
+          "remediation": "Review subtracting by place values"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "pattern_recognition",
+
+      "question": "What is the pattern rule for: 100, 200, 300, 400?",
+
+      "options": [
+        "Add 10",
+        "Add 100",
+        "Multiply by 2",
+        "Add 1"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Add 100",
+
+      "explanation": "Each number is 100 more than the previous: 100→200 (+100), 200→300 (+100), 300→400 (+100).",
+
+      "tags": ["pattern rules", "identifying rules", "addition"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Thought it was multiplication pattern",
+          "conceptGap": "Distinguishing addition vs multiplication patterns",
+          "remediation": "Review different types of patterns"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "pattern_recognition",
+
+      "question": "Which statement about number patterns is TRUE?",
+
+      "options": [
+        "All patterns increase",
+        "Patterns can only use addition",
+        "A pattern has a rule that repeats",
+        "Patterns only work with small numbers"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "A pattern has a rule that repeats",
+
+      "explanation": "A pattern has a rule that repeats consistently. Patterns can increase or decrease, use various operations, and work with any size numbers.",
+
+      "tags": ["patterns", "understanding", "definition"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Didn't know patterns can decrease",
+          "conceptGap": "Understanding variety of patterns",
+          "remediation": "See examples of decreasing patterns"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You understand sequences and skip counting well. You're ready to learn about number patterns with 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You know basic patterns and counting. Let's extend this to 4-digit number patterns.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in prerequisite knowledge. Watch review videos on sequences and skip counting before learning new patterns.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review prerequisite concepts. We'll start with basic sequences and skip counting, then move to 4-digit patterns.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you review sequences and patterns.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about number patterns with 4-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

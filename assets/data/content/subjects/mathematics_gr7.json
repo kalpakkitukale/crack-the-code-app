@@ -1,0 +1,73 @@
+{
+  "id": "mathematics_gr7",
+  "name": "Mathematics",
+  "icon": "calculate",
+  "color": "#4ECDC4",
+  "boardId": "cbse_elementary",
+  "classId": "class_7",
+  "streamId": "general",
+  "totalChapters": 5,
+  "keywords": ["mathematics", "grade 7", "maths", "algebra", "integers"],
+  "chapters": [
+    {
+      "id": "gr7_math_ch1",
+      "number": 1,
+      "name": "Integers",
+      "description": "Operations with positive and negative numbers",
+      "keywords": ["integers", "negative", "operations"],
+      "topics": [
+        {"id": "gr7_m_1_1", "name": "Introduction to Integers", "difficulty": "basic", "videoCount": 4, "keywords": ["integers", "number line"]},
+        {"id": "gr7_m_1_2", "name": "Addition and Subtraction", "difficulty": "intermediate", "videoCount": 4, "keywords": ["addition", "subtraction"]},
+        {"id": "gr7_m_1_3", "name": "Multiplication and Division", "difficulty": "intermediate", "videoCount": 4, "keywords": ["multiplication", "division"]}
+      ]
+    },
+    {
+      "id": "gr7_math_ch2",
+      "number": 2,
+      "name": "Fractions and Decimals",
+      "description": "Advanced operations with fractions and decimals",
+      "keywords": ["fractions", "decimals", "operations"],
+      "topics": [
+        {"id": "gr7_m_2_1", "name": "Fraction Operations", "difficulty": "intermediate", "videoCount": 4, "keywords": ["fractions", "multiply", "divide"]},
+        {"id": "gr7_m_2_2", "name": "Decimal Operations", "difficulty": "intermediate", "videoCount": 4, "keywords": ["decimals", "operations"]},
+        {"id": "gr7_m_2_3", "name": "Converting Fractions", "difficulty": "intermediate", "videoCount": 3, "keywords": ["converting", "equivalent"]}
+      ]
+    },
+    {
+      "id": "gr7_math_ch3",
+      "number": 3,
+      "name": "Data Handling",
+      "description": "Collecting, organizing, and analyzing data",
+      "keywords": ["data", "graphs", "statistics"],
+      "topics": [
+        {"id": "gr7_m_3_1", "name": "Data Collection", "difficulty": "basic", "videoCount": 3, "keywords": ["data", "collection"]},
+        {"id": "gr7_m_3_2", "name": "Bar Graphs and Pie Charts", "difficulty": "intermediate", "videoCount": 4, "keywords": ["bar graph", "pie chart"]},
+        {"id": "gr7_m_3_3", "name": "Mean, Median, Mode", "difficulty": "intermediate", "videoCount": 4, "keywords": ["mean", "median", "mode"]}
+      ]
+    },
+    {
+      "id": "gr7_math_ch4",
+      "number": 4,
+      "name": "Simple Equations",
+      "description": "Introduction to algebraic equations",
+      "keywords": ["equations", "algebra", "variables"],
+      "topics": [
+        {"id": "gr7_m_4_1", "name": "Variables and Expressions", "difficulty": "basic", "videoCount": 4, "keywords": ["variables", "expressions"]},
+        {"id": "gr7_m_4_2", "name": "Solving Equations", "difficulty": "intermediate", "videoCount": 4, "keywords": ["solving", "equations"]},
+        {"id": "gr7_m_4_3", "name": "Word Problems", "difficulty": "intermediate", "videoCount": 4, "keywords": ["word problems", "applications"]}
+      ]
+    },
+    {
+      "id": "gr7_math_ch5",
+      "number": 5,
+      "name": "Lines and Angles",
+      "description": "Properties of lines and angles",
+      "keywords": ["lines", "angles", "geometry"],
+      "topics": [
+        {"id": "gr7_m_5_1", "name": "Types of Lines", "difficulty": "basic", "videoCount": 3, "keywords": ["parallel", "perpendicular"]},
+        {"id": "gr7_m_5_2", "name": "Types of Angles", "difficulty": "basic", "videoCount": 4, "keywords": ["acute", "obtuse", "right"]},
+        {"id": "gr7_m_5_3", "name": "Angle Relationships", "difficulty": "intermediate", "videoCount": 4, "keywords": ["complementary", "supplementary"]}
+      ]
+    }
+  ]
+}

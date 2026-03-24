@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_math_ch3",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Multiplication and Division",
+      "description": "Understanding how to multiply and divide numbers",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_tables",
+      "label": "Multiplication Tables",
+      "description": "Learning tables from 2 to 12",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_repeated_add",
+      "label": "Repeated Addition",
+      "description": "Multiplication is adding the same number many times",
+      "parentId": "node_tables",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_commutative",
+      "label": "Order Doesn't Matter",
+      "description": "3 x 5 = 5 x 3 (commutative property)",
+      "parentId": "node_tables",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_zero_one",
+      "label": "Multiply by 0 and 1",
+      "description": "x0 = 0 always, x1 = same number",
+      "parentId": "node_tables",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_longmult",
+      "label": "Long Multiplication",
+      "description": "Multiplying bigger numbers step by step",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_breakapart",
+      "label": "Break Apart Method",
+      "description": "Split numbers into tens and ones to multiply",
+      "parentId": "node_longmult",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_carrying",
+      "label": "Carrying Over",
+      "description": "Regroup when the product is 10 or more",
+      "parentId": "node_longmult",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_multiply10",
+      "label": "Multiply by 10",
+      "description": "Add a zero at the end to multiply by 10",
+      "parentId": "node_longmult",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_division",
+      "label": "Division with Remainder",
+      "description": "Sharing equally and what is left over",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_equal_groups",
+      "label": "Equal Groups",
+      "description": "Division splits things into same-sized groups",
+      "parentId": "node_division",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_remainder",
+      "label": "Remainder",
+      "description": "The leftover amount that can't fill another group",
+      "parentId": "node_division",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_div_parts",
+      "label": "Parts of Division",
+      "description": "Dividend ÷ Divisor = Quotient R Remainder",
+      "parentId": "node_division",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_inverse",
+      "label": "Inverse Operations",
+      "description": "Multiplication and division undo each other",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 350,
+      "color": "#4CAF50",
+      "orderIndex": 13
+    }
+  ]
+}

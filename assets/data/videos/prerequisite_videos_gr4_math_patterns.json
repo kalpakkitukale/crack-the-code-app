@@ -1,0 +1,252 @@
+{
+  "videoSetId": "prereq_gr4_patterns",
+  "purpose": "Prerequisite videos for Grade 4 Number Patterns",
+  "targetTopicId": "gr4_m_4_5",
+  "description": "Videos covering prerequisite concepts: sequences, skip counting, addition/subtraction, pattern recognition",
+
+  "videos": [
+    {
+      "id": "prereq_seq_v1",
+      "conceptId": "number_sequences",
+      "type": "concept_introduction",
+
+      "title": "Number Sequences and Patterns | Introduction",
+      "description": "Learn what number sequences are and how to find the next number",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 950000,
+
+      "tags": ["sequences", "patterns", "introduction", "next number"],
+
+      "learningObjectives": [
+        "Understand what a sequence is",
+        "Find the next number in simple sequences",
+        "Identify pattern rules"
+      ],
+
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Skip counting", "4-digit patterns"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_seq_v2",
+      "conceptId": "number_sequences",
+      "type": "worked_examples",
+
+      "title": "Finding Pattern Rules | Practice with Sequences",
+      "description": "Practice finding the pattern rule in number sequences",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+
+      "tags": ["pattern rules", "sequences", "practice"],
+
+      "learningObjectives": [
+        "Find the rule in a sequence",
+        "Apply the rule to find missing numbers",
+        "Practice with various sequences"
+      ],
+
+      "prerequisites": ["Basic sequences"],
+      "followUpTopics": ["Creating patterns"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_skip_v1",
+      "conceptId": "skip_counting",
+      "type": "concept_introduction",
+
+      "title": "Skip Counting by 2s, 5s, and 10s",
+      "description": "Learn to skip count by different numbers",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 330,
+      "durationDisplay": "5:30",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1800000,
+
+      "tags": ["skip counting", "counting by 2s", "counting by 5s", "counting by 10s"],
+
+      "learningObjectives": [
+        "Skip count by 2s",
+        "Skip count by 5s",
+        "Skip count by 10s",
+        "Understand skip counting pattern"
+      ],
+
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Skip counting by 100s and 1000s"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_skip_v2",
+      "conceptId": "skip_counting",
+      "type": "worked_examples",
+
+      "title": "Skip Counting by 10s, 100s, and 1000s",
+      "description": "Practice skip counting with larger numbers",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+
+      "tags": ["skip counting", "counting by 100s", "counting by 1000s", "large numbers"],
+
+      "learningObjectives": [
+        "Skip count by 100s",
+        "Skip count by 1000s",
+        "Apply to 4-digit numbers",
+        "Understand place value in skip counting"
+      ],
+
+      "prerequisites": ["Skip counting by 10s"],
+      "followUpTopics": ["4-digit number patterns"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_add_sub_v1",
+      "conceptId": "addition_subtraction",
+      "type": "concept_review",
+
+      "title": "Adding and Subtracting 10, 100, 1000",
+      "description": "Quick review of adding/subtracting by place values",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 300,
+      "durationDisplay": "5:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 820000,
+
+      "tags": ["addition", "subtraction", "place value", "10 100 1000"],
+
+      "learningObjectives": [
+        "Add 10, 100, 1000 to numbers",
+        "Subtract 10, 100, 1000 from numbers",
+        "Understand effect on place values",
+        "Apply to pattern creation"
+      ],
+
+      "prerequisites": ["Basic addition/subtraction"],
+      "followUpTopics": ["Using addition in patterns"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_pattern_v1",
+      "conceptId": "pattern_recognition",
+      "type": "concept_introduction",
+
+      "title": "Pattern Recognition | Finding Rules and Making Predictions",
+      "description": "Learn to identify pattern rules and predict future numbers",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1100000,
+
+      "tags": ["pattern recognition", "rules", "predictions", "logical thinking"],
+
+      "learningObjectives": [
+        "Identify pattern rules",
+        "Make predictions using rules",
+        "Understand increasing and decreasing patterns",
+        "Apply logical reasoning"
+      ],
+
+      "prerequisites": ["Basic sequences"],
+      "followUpTopics": ["Complex patterns with 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "These videos should be recommended when students show gaps in prerequisite knowledge during readiness assessment",
+    "recommendationStrategy": "Select videos based on specific concepts where student struggled",
+    "sequencing": "Present in order: sequences first (foundation), then skip counting (critical), then addition/subtraction (supportive), then pattern recognition (integration)"
+  }
+}

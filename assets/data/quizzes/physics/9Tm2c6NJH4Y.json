@@ -1,0 +1,138 @@
+{
+  "quiz": {
+    "id": "quiz_video_9Tm2c6NJH4Y",
+    "title": "Coulomb's Law",
+    "level": "video",
+    "entityId": "9Tm2c6NJH4Y",
+    "subjectId": "physics",
+    "subjectName": "Physics",
+    "chapterId": "ch1_electric_charges",
+    "chapterName": "Electric Charges and Fields",
+    "questionIds": [
+      "q_coulomb_law_001",
+      "q_coulomb_law_002",
+      "q_coulomb_law_003",
+      "q_coulomb_law_004",
+      "q_coulomb_law_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_coulomb_law_001",
+      "questionText": "Coulomb's Law describes the force between:",
+      "questionType": "mcq",
+      "options": [
+        "Two point charges",
+        "Two magnets",
+        "Two masses",
+        "Two conductors"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Coulomb's Law describes the electrostatic force between two point charges. It states that the force is directly proportional to the product of the charges and inversely proportional to the square of the distance between them.",
+      "hints": [
+        "Think about what type of objects have charge",
+        "Named after a French physicist",
+        "Similar structure to gravitational law"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["coulombs_law", "electrostatic_force"],
+      "videoTimestamp": "1:30",
+      "points": 3
+    },
+    {
+      "id": "q_coulomb_law_002",
+      "questionText": "The formula for Coulomb's Law is F = k(q1 × q2)/r². What does 'k' represent?",
+      "questionType": "mcq",
+      "options": [
+        "Coulomb's constant (electrostatic constant)",
+        "Kinetic energy",
+        "Spring constant",
+        "Boltzmann constant"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In Coulomb's Law, 'k' is Coulomb's constant (also called the electrostatic constant). Its value is approximately 9 × 10^9 N·m²/C². It determines the strength of the electrostatic force in a vacuum.",
+      "hints": [
+        "It's a proportionality constant",
+        "Has a very large value",
+        "Named after the same physicist as the law"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["coulombs_law", "coulombs_constant"],
+      "videoTimestamp": "4:00",
+      "points": 4
+    },
+    {
+      "id": "q_coulomb_law_003",
+      "questionText": "If the distance between two charges is doubled, the force between them becomes:",
+      "questionType": "mcq",
+      "options": [
+        "One-fourth of the original force",
+        "Half of the original force",
+        "Double the original force",
+        "Four times the original force"
+      ],
+      "correctAnswer": "A",
+      "explanation": "According to Coulomb's Law, force is inversely proportional to the square of the distance (F ∝ 1/r²). If distance doubles (r → 2r), then F → F/(2²) = F/4. The force becomes one-fourth.",
+      "hints": [
+        "Think about inverse square relationship",
+        "Distance is squared in the denominator",
+        "2 squared equals 4"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["coulombs_law", "inverse_square"],
+      "videoTimestamp": "7:15",
+      "points": 4
+    },
+    {
+      "id": "q_coulomb_law_004",
+      "questionText": "Two charges of the same sign will:",
+      "questionType": "mcq",
+      "options": [
+        "Repel each other",
+        "Attract each other",
+        "Have no force between them",
+        "Neutralize each other"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Like charges repel and unlike charges attract. Two positive charges or two negative charges will repel each other, while a positive and negative charge will attract. This is a fundamental property of electric charges.",
+      "hints": [
+        "Think about what 'like' charges do",
+        "Opposite of what unlike charges do",
+        "Basic principle of electrostatics"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["electrostatic_force", "charge_interaction"],
+      "videoTimestamp": "9:30",
+      "points": 3
+    },
+    {
+      "id": "q_coulomb_law_005",
+      "questionText": "The value of Coulomb's constant k is approximately:",
+      "questionType": "mcq",
+      "options": [
+        "9 × 10^9 N·m²/C²",
+        "6.67 × 10^-11 N·m²/kg²",
+        "1.6 × 10^-19 C",
+        "3 × 10^8 m/s"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Coulomb's constant k ≈ 9 × 10^9 N·m²/C² (more precisely 8.99 × 10^9). This large value indicates that electrostatic forces are very strong compared to gravitational forces at the atomic scale.",
+      "hints": [
+        "It's a very large number",
+        "Units involve Newton, meter, and Coulomb",
+        "Much larger than gravitational constant"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["coulombs_law", "constants"],
+      "videoTimestamp": "11:00",
+      "points": 4
+    }
+  ]
+}

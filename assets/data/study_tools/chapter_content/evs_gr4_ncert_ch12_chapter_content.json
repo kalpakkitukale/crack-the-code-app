@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_evs_ncert_ch12",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en12",
+    "title": "Changing Times",
+    "content": "This chapter from the NCERT Looking Around textbook explores how life has changed dramatically over the generations. By comparing the lives of grandparents, parents, and children, students discover how transport has evolved from bullock carts to aeroplanes, communication from handwritten letters to instant video calls, and daily life from chulhas and oil lamps to gas stoves and electric lights. The chapter also highlights what has remained unchanged - family love, traditions, festivals, and values. Students are encouraged to interview their grandparents, record their stories, and create family timelines, learning that understanding the past helps us appreciate the present.",
+    "keyPoints": [
+      "Life has changed enormously over two or three generations",
+      "Transport evolved from bullock carts to cars, buses, and aeroplanes",
+      "Communication changed from slow letters to instant phone and internet messages",
+      "Daily life changed with electricity, gas stoves, refrigerators, and computers",
+      "Some things remain the same - family love, festivals, values, and traditions",
+      "Talking to elders helps us understand and preserve our history"
+    ],
+    "learningObjectives": [
+      "Compare how people lived in the past with how they live today",
+      "Identify changes in transport, communication, cooking, lighting, and schooling",
+      "Explain what a generation is and the concept of change over time",
+      "Recognise that some values and traditions stay the same across generations",
+      "Interview an elder and record their memories of the past",
+      "Create a simple family timeline showing changes across three generations"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en12_001",
+      "title": "Interview Your Grandparents Activity",
+      "content": "Here is a fun weekend activity: Sit down with your grandparent (or any elder) and ask them these questions: (1) What games did you play as a child? (2) How did you travel to school? (3) What was your favourite food and how was it cooked? (4) How did you send messages to friends far away? (5) What is the biggest change you have seen in your lifetime? Write down their answers and share them with your class. You will be amazed at their stories!",
+      "tags": ["activity", "family"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en12_002",
+      "title": "Then and Now Comparison Chart",
+      "content": "Make a two-column chart with 'Then' and 'Now'. Compare these things: Transport (bullock cart vs car), Communication (letter vs phone), Cooking (chulha vs gas stove), Light (oil lamp vs electric bulb), School (slate vs notebook), Entertainment (folk stories vs TV/internet), Shopping (village haat vs online). This chart helps you see at a glance how much life has changed. Try adding more rows of your own!",
+      "tags": ["study-tip", "comparison"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en12_003",
+      "title": "Make a Family Scrapbook",
+      "content": "Collect old photographs of your grandparents and parents from when they were young. Ask them to describe what is happening in each photo - where they were, what they were doing, and what life was like then. Paste the photos in a notebook and write the stories next to them. Add your own recent photos too. This scrapbook becomes a treasure of family memories that you can keep forever!",
+      "tags": ["activity", "creative"],
+      "isPinned": false
+    }
+  ]
+}

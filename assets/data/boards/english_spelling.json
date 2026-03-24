@@ -1,0 +1,121 @@
+{
+  "id": "english_spelling",
+  "name": "English Spelling",
+  "fullName": "English Spelling Mastery",
+  "description": "Master English spelling through phonics patterns, word families, and interactive practice",
+  "icon": "spell_check",
+  "classes": [
+    {
+      "id": "spelling_gr1",
+      "name": "Grade 1",
+      "gradeNumber": 1,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr1_phonics"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr2",
+      "name": "Grade 2",
+      "gradeNumber": 2,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr2_phonics"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr3",
+      "name": "Grade 3",
+      "gradeNumber": 3,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr3_patterns"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr4",
+      "name": "Grade 4",
+      "gradeNumber": 4,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr4_patterns"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr5",
+      "name": "Grade 5",
+      "gradeNumber": 5,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr5_academic"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr6",
+      "name": "Grade 6",
+      "gradeNumber": 6,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr6_academic"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr7",
+      "name": "Grade 7",
+      "gradeNumber": 7,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr7_advanced"]
+        }
+      ]
+    },
+    {
+      "id": "spelling_gr8",
+      "name": "Grade 8",
+      "gradeNumber": 8,
+      "streams": [
+        {
+          "id": "general",
+          "name": "General",
+          "subjects": ["spelling_gr8_advanced"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-03-17",
+    "targetSegment": "spelling",
+    "gradeRange": "1-8",
+    "features": {
+      "wordOfTheDay": true,
+      "spellingBee": true,
+      "phonicsPatterns": true,
+      "dictation": true,
+      "flashcards": true,
+      "mindMaps": true,
+      "wordJournal": true,
+      "gamification": true
+    }
+  }
+}

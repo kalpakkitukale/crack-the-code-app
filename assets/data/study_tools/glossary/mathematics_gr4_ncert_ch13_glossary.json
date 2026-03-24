@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch13",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn13_001",
+      "term": "Distance",
+      "definition": "How far one place is from another. It is measured in metres (m) or kilometres (km).",
+      "pronunciation": "DIS-tuns",
+      "exampleUsage": "The distance from Riya's home to the Transport Museum is 15 kilometres.",
+      "difficulty": "easy",
+      "relatedTerms": ["kilometre", "metre", "travel"]
+    },
+    {
+      "id": "gls_gr4_mn13_002",
+      "term": "Kilometre",
+      "definition": "A unit used to measure long distances. 1 kilometre equals 1000 metres. Written as km.",
+      "pronunciation": "KIL-oh-mee-ter",
+      "exampleUsage": "The train travelled 120 kilometres from Delhi to Agra.",
+      "difficulty": "easy",
+      "relatedTerms": ["distance", "metre", "measurement"]
+    },
+    {
+      "id": "gls_gr4_mn13_003",
+      "term": "Fare",
+      "definition": "The money you pay to travel by bus, train, auto-rickshaw, or other transport.",
+      "pronunciation": "FAIR",
+      "exampleUsage": "The bus fare from the station to the museum was Rs 15.",
+      "difficulty": "easy",
+      "relatedTerms": ["ticket", "cost", "transport"]
+    },
+    {
+      "id": "gls_gr4_mn13_004",
+      "term": "Ticket",
+      "definition": "A small paper or card you buy to enter a place or travel on a bus or train.",
+      "pronunciation": "TIK-it",
+      "exampleUsage": "Each child's ticket to the museum costs Rs 30.",
+      "difficulty": "easy",
+      "relatedTerms": ["fare", "cost", "entry"]
+    },
+    {
+      "id": "gls_gr4_mn13_005",
+      "term": "Total Cost",
+      "definition": "The full amount of money spent on all items or tickets added together.",
+      "pronunciation": "TOH-tul kost",
+      "exampleUsage": "The total cost for 4 tickets at Rs 25 each is 4 x 25 = Rs 100.",
+      "difficulty": "easy",
+      "relatedTerms": ["addition", "multiplication", "money"]
+    },
+    {
+      "id": "gls_gr4_mn13_006",
+      "term": "Round Trip",
+      "definition": "A journey from one place to another and then back again. The total distance is double the one-way distance.",
+      "pronunciation": "rownd trip",
+      "exampleUsage": "The round trip from home to the museum and back is 20 + 20 = 40 km.",
+      "difficulty": "easy",
+      "relatedTerms": ["distance", "travel", "return"]
+    },
+    {
+      "id": "gls_gr4_mn13_007",
+      "term": "Schedule",
+      "definition": "A list or table that shows the times when buses, trains, or events start and end.",
+      "pronunciation": "SHED-yool",
+      "exampleUsage": "According to the bus schedule, the next bus to the museum leaves at 10:30 AM.",
+      "difficulty": "easy",
+      "relatedTerms": ["time", "timetable", "transport"]
+    },
+    {
+      "id": "gls_gr4_mn13_008",
+      "term": "Duration",
+      "definition": "How long something takes from start to finish. It is measured in hours and minutes.",
+      "pronunciation": "dyoo-RAY-shun",
+      "exampleUsage": "The duration of the train journey was 2 hours and 15 minutes.",
+      "difficulty": "medium",
+      "relatedTerms": ["time", "hours", "minutes"]
+    },
+    {
+      "id": "gls_gr4_mn13_009",
+      "term": "Change (Money)",
+      "definition": "The money you get back when you pay more than the cost of something.",
+      "pronunciation": "chaynj",
+      "exampleUsage": "The snack cost Rs 35 and Aman paid Rs 50, so he got Rs 15 as change.",
+      "difficulty": "easy",
+      "relatedTerms": ["subtraction", "money", "cost"]
+    },
+    {
+      "id": "gls_gr4_mn13_010",
+      "term": "Transport",
+      "definition": "Ways of moving people or things from one place to another, like buses, trains, cars, and bicycles.",
+      "pronunciation": "TRANS-port",
+      "exampleUsage": "The Transport Museum shows the history of different types of transport in India.",
+      "difficulty": "easy",
+      "relatedTerms": ["travel", "vehicle", "journey"]
+    }
+  ]
+}

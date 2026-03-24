@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ncert_ch2",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Ear to Ear",
+      "description": "Understanding our facial features and differences",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_eyes",
+      "label": "Eyes",
+      "description": "Different shapes, sizes, and colours of eyes",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_eye_shape",
+      "label": "Eye Shapes",
+      "description": "Round, almond-shaped, narrow",
+      "parentId": "node_eyes",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_eye_colour",
+      "label": "Eye Colours",
+      "description": "Brown, black, blue, green, hazel",
+      "parentId": "node_eyes",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_nose",
+      "label": "Nose",
+      "description": "Different nose shapes and sizes",
+      "parentId": "node_root",
+      "positionX": -50,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_nose_types",
+      "label": "Nose Types",
+      "description": "Pointed, flat, broad, narrow, button-like",
+      "parentId": "node_nose",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_ears",
+      "label": "Ears",
+      "description": "Ears come in many shapes and sizes",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_ear_types",
+      "label": "Ear Differences",
+      "description": "Small, big, round, attached or free earlobes",
+      "parentId": "node_ears",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_hair",
+      "label": "Hair",
+      "description": "Different hair types and colours",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_hair_type",
+      "label": "Hair Types",
+      "description": "Straight, wavy, curly, thick, thin",
+      "parentId": "node_hair",
+      "positionX": 250,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_hair_colour",
+      "label": "Hair Colours",
+      "description": "Black, brown, blonde, red, grey",
+      "parentId": "node_hair",
+      "positionX": 350,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_special",
+      "label": "Special Marks",
+      "description": "Features that make faces even more unique",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_dimples",
+      "label": "Dimples & Freckles",
+      "description": "Small dents or spots on the face",
+      "parentId": "node_special",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_family",
+      "label": "Family Resemblance",
+      "description": "We inherit features from our parents",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#00BCD4",
+      "orderIndex": 13
+    }
+  ]
+}

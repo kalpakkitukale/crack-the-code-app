@@ -1,0 +1,177 @@
+{
+  "chapterId": "gr4_evs_ncert_ch18",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Too Much Water, Too Little Water",
+      "description": "Floods, droughts, and water management",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_floods",
+      "label": "Floods (Too Much Water)",
+      "description": "When water overflows and covers dry land",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_flood_causes",
+      "label": "Causes of Floods",
+      "description": "Heavy rain, overflowing rivers, blocked drains",
+      "parentId": "node_floods",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_flood_effects",
+      "label": "Effects of Floods",
+      "description": "Damaged homes, crops destroyed, diseases",
+      "parentId": "node_floods",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_flood_areas",
+      "label": "Flood-Prone Areas",
+      "description": "Assam, Bihar, West Bengal, Kerala",
+      "parentId": "node_floods",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_droughts",
+      "label": "Droughts (Too Little Water)",
+      "description": "Long period with very little or no rain",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_drought_causes",
+      "label": "Causes of Droughts",
+      "description": "No rain, deforestation, overuse of groundwater",
+      "parentId": "node_droughts",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_drought_effects",
+      "label": "Effects of Droughts",
+      "description": "Crops fail, animals die, water shortage",
+      "parentId": "node_droughts",
+      "positionX": 250,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_drought_areas",
+      "label": "Drought-Prone Areas",
+      "description": "Rajasthan, Gujarat, Maharashtra, Karnataka",
+      "parentId": "node_droughts",
+      "positionX": 350,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_conservation",
+      "label": "Water Conservation",
+      "description": "Ways to save and manage water wisely",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#4CAF50",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_save_home",
+      "label": "Save Water at Home",
+      "description": "Close taps, short baths, fix leaks",
+      "parentId": "node_conservation",
+      "positionX": -150,
+      "positionY": 360,
+      "color": "#8BC34A",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_rainwater",
+      "label": "Rainwater Harvesting",
+      "description": "Collect and store rainwater for later use",
+      "parentId": "node_conservation",
+      "positionX": -50,
+      "positionY": 360,
+      "color": "#8BC34A",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_traditional",
+      "label": "Traditional Methods",
+      "description": "Step wells (baolis), johads, tanks",
+      "parentId": "node_conservation",
+      "positionX": 50,
+      "positionY": 360,
+      "color": "#8BC34A",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_dams",
+      "label": "Dams & Canals",
+      "description": "Store water and carry it to dry areas",
+      "parentId": "node_conservation",
+      "positionX": 150,
+      "positionY": 360,
+      "color": "#8BC34A",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_rescue",
+      "label": "Rescue & Relief",
+      "description": "Helping people during water disasters",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 420,
+      "color": "#F44336",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_ndrf",
+      "label": "NDRF & Army",
+      "description": "Rescue teams that save people during floods",
+      "parentId": "node_rescue",
+      "positionX": -200,
+      "positionY": 500,
+      "color": "#EF5350",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_relief",
+      "label": "Relief Camps",
+      "description": "Temporary shelters with food and water",
+      "parentId": "node_rescue",
+      "positionX": -100,
+      "positionY": 500,
+      "color": "#EF5350",
+      "orderIndex": 16
+    }
+  ]
+}

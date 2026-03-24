@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn5_t1",
+  "topicId": "gr4_mn_5_1",
+  "topicName": "Division as Equal Sharing",
+  "chapterId": "gr4_math_ncert_ch5",
+  "chapterName": "Sharing and Measuring",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1918,
+    "totalDurationDisplay": "31:58",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_5_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn5_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "What is Division? | Sharing Equally for Kids",
+      "description": "Learn what division means by sharing things equally among friends. See how dividing is just like fair sharing!",
+      "youtubeId": "rGMecZ_aERo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rGMecZ_aERo",
+      "thumbnailUrl": "https://img.youtube.com/vi/rGMecZ_aERo/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["division", "equal sharing", "sharing equally", "introduction"],
+      "learningObjectives": ["Understand what division means", "See division as equal sharing", "Solve simple sharing problems"],
+      "keyConceptsCovered": ["Division means sharing equally", "Equal groups", "Fair sharing among friends"],
+      "prerequisites": ["Basic counting", "Understanding of equal"],
+      "followUpTopics": ["Division facts", "Divisor and dividend"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v3",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Easy Division | Division Made Simple for Kids",
+      "description": "Division made easy! Learn how to solve division problems step by step with fun examples like sharing candies and toys.",
+      "youtubeId": "EvmAIpWTNMc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EvmAIpWTNMc",
+      "thumbnailUrl": "https://img.youtube.com/vi/EvmAIpWTNMc/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+      "tags": ["easy division", "division practice", "division for kids"],
+      "learningObjectives": ["Solve simple division problems", "Use objects to show division", "Build confidence with division"],
+      "keyConceptsCovered": ["Step-by-step division", "Sharing candies equally", "Division with small numbers"],
+      "prerequisites": ["Understanding of equal sharing"],
+      "followUpTopics": ["Division facts"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch5_sharing_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Sharing Equally | How to Share Things Fairly",
+      "description": "Learn how to share things equally among friends. If you have 12 cookies and 3 friends, how many does each person get?",
+      "youtubeId": "rGMecZ_aERo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rGMecZ_aERo",
+      "thumbnailUrl": "https://img.youtube.com/vi/rGMecZ_aERo/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["equal sharing", "fair sharing", "division concept"],
+      "learningObjectives": ["Share objects into equal groups", "Connect sharing to division", "Solve real-life sharing problems"],
+      "keyConceptsCovered": ["Equal groups in real life", "Sharing among friends", "Division as grouping"],
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Division facts"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn5_v2",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Basic Division | Understanding Division Facts",
+      "description": "Learn basic division facts and how to divide small numbers. Understand what the dividend, divisor, and quotient mean.",
+      "youtubeId": "KGMf314LUc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KGMf314LUc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/KGMf314LUc0/hqdefault.jpg",
+      "duration": 598,
+      "durationDisplay": "9:58",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3500000,
+      "tags": ["basic division", "division facts", "dividend", "divisor", "quotient"],
+      "learningObjectives": ["Learn division vocabulary", "Practice division facts", "Solve division problems confidently"],
+      "keyConceptsCovered": ["Dividend, divisor, quotient", "Division facts up to 10", "Using equal sharing to find answers"],
+      "prerequisites": ["Understanding of equal sharing"],
+      "followUpTopics": ["Division facts mastery", "Multiplication-division connection"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn5_v1", "gr4_mn5_v3", "gr4_mn5_v2"],
+      "totalVideos": 3,
+      "estimatedTime": 1498,
+      "estimatedTimeDisplay": "24:58",
+      "rationale": "Quick introduction and practice for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn5_v1", "gr4_mn5_v3", "prereq_ch5_sharing_v1", "gr4_mn5_v2"],
+      "totalVideos": 4,
+      "estimatedTime": 1918,
+      "estimatedTimeDisplay": "31:58",
+      "rationale": "Complete coverage of equal sharing and basic division"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch5_sharing_v1", "gr4_mn5_v1", "gr4_mn5_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1320,
+      "estimatedTimeDisplay": "22:00",
+      "rationale": "Start with sharing review, then core division concepts"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn5_v1", "gr4_mn5_v3"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Essential equal sharing division only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn5_v3",
+      "checkpointName": "Equal Sharing Understanding Check",
+      "questions": [
+        {
+          "question": "Meena has 15 flowers. She puts them equally into 5 vases. How many flowers are in each vase?",
+          "options": ["2 flowers", "3 flowers", "5 flowers", "10 flowers"],
+          "correctAnswer": 1,
+          "explanation": "15 flowers shared equally among 5 vases: 15 divided by 5 = 3 flowers in each vase."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Start with the sharing video to make division relatable. Use real objects (pencils, blocks) to demonstrate equal sharing before moving to number problems.",
+    "parentGuidance": "Help your child practice division at home by sharing snacks equally. For example, share 12 biscuits among 4 people.",
+    "studentGuidance": "Division is just sharing! Think about how you share things with your friends. That is division!"
+  }
+}

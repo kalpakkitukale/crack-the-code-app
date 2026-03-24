@@ -1,0 +1,62 @@
+{
+  "chapterId": "gr4_math_ncert_ch10",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn10_v1",
+      "videoId": "gr4_mn10_v1",
+      "content": "This lesson introduces students to reading data tables about Indian wildlife. Students learn that data tables organise information in rows and columns. They explore real data about elephants, tigers, and leopards in different national parks and states. The lesson teaches how to read a table step by step: first the title, then column headings, then data row by row. Students practise finding totals by adding values in a column, such as the total number of tigers across multiple parks.",
+      "keyPoints": [
+        "Data tables have rows (across) and columns (down)",
+        "Always read the title and column headings first",
+        "Each row gives information about one item (animal, park, or state)",
+        "Add values in a column to find the total",
+        "India has about 27,000 elephants, 3,167 tigers, and 13,000 leopards"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn10_v2",
+      "videoId": "gr4_mn10_v2",
+      "content": "This lesson focuses on comparing numbers from wildlife data. Students learn to find which value is the most (largest) and which is the least (smallest) by comparing numbers digit by digit. They practise finding the difference between two numbers using subtraction. For example, finding how many more elephants there are than tigers (27,000 - 3,000 = 24,000). Students also learn to arrange numbers in ascending (smallest to largest) and descending (largest to smallest) order.",
+      "keyPoints": [
+        "Compare numbers by looking at digits from left to right",
+        "The biggest number = the most, the smallest = the least",
+        "Subtract to find the difference between two numbers",
+        "Ascending order: smallest to largest",
+        "Descending order: largest to smallest",
+        "Close numbers need careful digit-by-digit comparison"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn10_v3",
+      "videoId": "gr4_mn10_v3",
+      "content": "This lesson teaches students how to read bar charts and pictographs. A bar chart uses bars of different heights where taller bars represent bigger numbers. Students learn to read the scale on the side to find exact values. A pictograph uses picture symbols where each picture represents a fixed number (e.g., 1 tiger picture = 100 tigers). Students count the pictures and multiply to find the actual number. Both charts are visual ways to make data easier to understand and compare.",
+      "keyPoints": [
+        "Bar charts use bars of different heights to show data",
+        "Taller bars mean bigger numbers",
+        "The scale on the side helps read exact values",
+        "Pictographs use picture symbols to represent data",
+        "Each symbol stands for a fixed number (check the key)",
+        "Count symbols and multiply to find the actual value"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn10_v4",
+      "videoId": "gr4_mn10_v4",
+      "content": "This lesson connects math to wildlife conservation. Students learn about the wildlife census - a big survey where experts count animals across India. They explore how India's tiger population increased from 1,706 in 2010 to 3,167 in 2022 thanks to Project Tiger. Students use subtraction to calculate the increase (1,461 more tigers). They understand that tracking population data helps conservationists know if protection efforts are working. The lesson shows that math is a vital tool for saving endangered animals.",
+      "keyPoints": [
+        "A wildlife census counts animals to track their populations",
+        "India's tiger count grew from 1,706 (2010) to 3,167 (2022)",
+        "Project Tiger, started in 1973, has helped increase tiger numbers",
+        "Subtraction finds the increase or decrease over time",
+        "Data helps conservationists know if protection is working",
+        "Math is essential for saving endangered animals"
+      ],
+      "source": "manual"
+    }
+  ]
+}

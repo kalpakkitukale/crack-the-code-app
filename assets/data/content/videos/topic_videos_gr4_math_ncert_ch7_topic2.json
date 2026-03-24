@@ -1,0 +1,293 @@
+{
+  "videoSetId": "playlist_gr4_mn7_t2",
+  "topicId": "gr4_mn_7_2",
+  "topicName": "Data Collection in Village Life",
+  "chapterId": "gr4_math_ncert_ch7",
+  "chapterName": "The Cleanest Village",
+  "description": "Main learning videos for understanding how to collect, organise, and read data in village and community contexts",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "estimatedTotalTime": 2220,
+    "difficulty": "basic to intermediate",
+    "targetAudience": "Grade 4 CBSE students",
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn7_t2_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "What Is Data? | Collecting Information in Your Village",
+      "description": "Learn what data means and how to collect it by counting, observing, and asking questions. A village uses data to know how many houses it has, how many bins are needed, and more!",
+
+      "youtubeId": "PkbV9MFbXwE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PkbV9MFbXwE",
+      "thumbnailUrl": "https://img.youtube.com/vi/PkbV9MFbXwE/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+
+      "tags": ["data", "data collection", "village", "counting", "introduction"],
+
+      "learningObjectives": [
+        "Understand what data is and why we collect it",
+        "Identify different ways to collect data",
+        "See how villages use data for planning"
+      ],
+
+      "prerequisites": ["Number recognition", "Basic counting"],
+      "followUpTopics": ["Organising data in tables"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "What is data?",
+            "options": ["A type of food", "Information we collect by counting or observing", "A game we play"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t2_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Organising Data in Tables | Making Sense of Village Information",
+      "description": "Learn how to put collected data into neat tables so it is easy to read and understand. See how a village organises information about cleaning, planting, and more!",
+
+      "youtubeId": "RjKN4a9kLXM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RjKN4a9kLXM",
+      "thumbnailUrl": "https://img.youtube.com/vi/RjKN4a9kLXM/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+
+      "tags": ["tables", "organising data", "rows", "columns", "village data"],
+
+      "learningObjectives": [
+        "Organise data into a table with rows and columns",
+        "Label tables correctly",
+        "Read information from organised tables"
+      ],
+
+      "prerequisites": ["Understanding what data is"],
+      "followUpTopics": ["Reading and interpreting data"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "Why do we put data into tables?",
+            "options": ["To make it look pretty", "To make it easy to read and understand", "Because we have to"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t2_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Reading Data from Tables | Answering Questions About Village Life",
+      "description": "Practice reading tables and answering questions: Which village collected the most rubbish? How many people helped on Wednesday? Learn to find answers from data!",
+
+      "youtubeId": "WmQJdrE5kLo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WmQJdrE5kLo",
+      "thumbnailUrl": "https://img.youtube.com/vi/WmQJdrE5kLo/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1300000,
+
+      "tags": ["reading tables", "interpreting data", "worked examples", "village questions"],
+
+      "learningObjectives": [
+        "Read data from tables accurately",
+        "Answer questions using information from tables",
+        "Compare data from different rows or columns"
+      ],
+
+      "prerequisites": ["Organising data in tables"],
+      "followUpTopics": ["Using data for calculations"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t2_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Data Collection Challenge | Gather and Organise Your Own Data",
+      "description": "Try collecting your own data! Count objects around you, organise them in a table, and answer questions about your data. A fun hands-on activity!",
+
+      "youtubeId": "KQ9f3G7pNjA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KQ9f3G7pNjA",
+      "thumbnailUrl": "https://img.youtube.com/vi/KQ9f3G7pNjA/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 890000,
+
+      "tags": ["practice", "hands-on", "data collection activity", "organising", "challenge"],
+
+      "learningObjectives": [
+        "Collect data independently",
+        "Organise collected data in a table",
+        "Answer questions about self-collected data"
+      ],
+
+      "prerequisites": ["Reading data from tables"],
+      "followUpTopics": ["Bar graphs and pictographs"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t2_v5",
+      "type": "real_world_application",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "How Villages Use Data to Stay Clean | Real-World Data Stories",
+      "description": "See how real villages collect and use data to keep their streets clean, plant more trees, and make their community a better place to live!",
+
+      "youtubeId": "L5d4RqZiUt0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=L5d4RqZiUt0",
+      "thumbnailUrl": "https://img.youtube.com/vi/L5d4RqZiUt0/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1100000,
+
+      "tags": ["real world", "data stories", "clean village", "application", "community"],
+
+      "learningObjectives": [
+        "See data collection in action in real communities",
+        "Understand how data drives decisions",
+        "Connect data skills to village improvement"
+      ],
+
+      "prerequisites": ["Basic data collection and reading"],
+      "followUpTopics": ["Calculations using village scenarios"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn7_t2_v1", "gr4_mn7_t2_v2", "gr4_mn7_t2_v3", "gr4_mn7_t2_v4", "gr4_mn7_t2_v5"],
+      "estimatedTime": 2220
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn7_t2_v1", "gr4_mn7_t2_v2", "gr4_mn7_t2_v3", "gr4_mn7_t2_v5"],
+      "estimatedTime": 1800
+    },
+    "with_prerequisites": {
+      "description": "For students who scored 50-79% on readiness",
+      "videos": ["prereq_ch7_data_v1", "gr4_mn7_t2_v1", "gr4_mn7_t2_v2", "gr4_mn7_t2_v3", "gr4_mn7_t2_v4"],
+      "estimatedTime": 2160
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn7_t2_v1", "gr4_mn7_t2_v2", "gr4_mn7_t2_v3"],
+      "estimatedTime": 1350
+    }
+  },
+
+  "comprehensionCheckpoints": [
+    {
+      "afterVideoId": "gr4_mn7_t2_v3",
+      "checkpointName": "Data Reading Check",
+      "questions": [
+        {
+          "question": "A table shows: Monday - 48 bags, Tuesday - 35 bags, Wednesday - 52 bags. On which day were the most bags of rubbish collected?",
+          "options": ["Monday", "Tuesday", "Wednesday"],
+          "correctAnswer": 2,
+          "explanation": "Wednesday had 52 bags, which is more than 48 (Monday) and 35 (Tuesday)."
+        }
+      ],
+      "ifCorrect": {
+        "action": "continue_normally",
+        "message": "Well done! You can read data from tables accurately."
+      },
+      "ifWrong": {
+        "action": "recommend_rewatch",
+        "message": "Try watching the table reading video again and practice comparing numbers from each row."
+      }
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "Teach students how to collect, organise, and read data using village life contexts",
+    "recommendationStrategy": "Select playlist path based on readiness assessment score",
+    "sequencing": "What is data → Organising in tables → Reading tables → Hands-on practice → Real-world stories"
+  }
+}

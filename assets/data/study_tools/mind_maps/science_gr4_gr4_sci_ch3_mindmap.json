@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_sci_ch3",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Matter and Materials",
+      "description": "Everything around us is made of matter in three states",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#9C27B0",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_solids",
+      "label": "Solids",
+      "description": "Matter with a fixed shape and fixed size",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_solid_shape",
+      "label": "Fixed Shape",
+      "description": "Solids keep their shape unless you push, bend, or break them",
+      "parentId": "node_solids",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_solid_particles",
+      "label": "Tightly Packed Particles",
+      "description": "Particles in solids are very close together and only vibrate in place",
+      "parentId": "node_solids",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_solid_examples",
+      "label": "Examples",
+      "description": "Ice cube, book, stone, chair, pencil, wooden block",
+      "parentId": "node_solids",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_liquids",
+      "label": "Liquids",
+      "description": "Matter that flows and takes the shape of its container",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_liquid_flow",
+      "label": "Can Flow",
+      "description": "Liquids pour and move from one place to another",
+      "parentId": "node_liquids",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#66BB6A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_liquid_shape",
+      "label": "No Fixed Shape",
+      "description": "Takes the shape of the glass, bowl, or bottle it is poured into",
+      "parentId": "node_liquids",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#66BB6A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_liquid_examples",
+      "label": "Examples",
+      "description": "Water, milk, juice, oil, honey, soup",
+      "parentId": "node_liquids",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#66BB6A",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_gases",
+      "label": "Gases",
+      "description": "Matter with no fixed shape and no fixed size, fills all available space",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_gas_invisible",
+      "label": "Usually Invisible",
+      "description": "Most gases cannot be seen but can sometimes be felt or smelled",
+      "parentId": "node_gases",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_gas_spread",
+      "label": "Spreads Everywhere",
+      "description": "Gas particles move fast and fill all the space in a room or container",
+      "parentId": "node_gases",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_gas_examples",
+      "label": "Examples",
+      "description": "Air, oxygen, carbon dioxide, helium in balloons, water vapour",
+      "parentId": "node_gases",
+      "positionX": 250,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_changes",
+      "label": "Changing States",
+      "description": "Matter can change from one state to another by heating or cooling",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 360,
+      "color": "#F44336",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_melt_freeze",
+      "label": "Melting & Freezing",
+      "description": "Heating melts solid to liquid (ice to water); cooling freezes liquid to solid (water to ice)",
+      "parentId": "node_changes",
+      "positionX": -100,
+      "positionY": 440,
+      "color": "#EF5350",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_evap_condense",
+      "label": "Evaporation & Condensation",
+      "description": "Heating turns liquid to gas (boiling water to steam); cooling turns gas to liquid (steam to water drops)",
+      "parentId": "node_changes",
+      "positionX": 100,
+      "positionY": 440,
+      "color": "#EF5350",
+      "orderIndex": 15
+    }
+  ]
+}

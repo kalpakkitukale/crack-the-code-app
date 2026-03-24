@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch1",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "मन के भोले-भाले बादल",
+      "description": "Chapter 1 - A poem about innocent clouds and imagination from Rimjhim textbook",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_kavita_parichay",
+      "label": "कविता परिचय (Poem Introduction)",
+      "description": "Overview of the poem about clouds, imagination, and childhood wonder",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_kavi",
+      "label": "कवि (Poet)",
+      "description": "The poet who wrote this beautiful poem about clouds and the mind",
+      "parentId": "node_kavita_parichay",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_vishay",
+      "label": "विषय: बादल और कल्पना",
+      "description": "The poem's subject is clouds seen through the lens of a child's imagination",
+      "parentId": "node_kavita_parichay",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_sandesh",
+      "label": "संदेश: प्रकृति की सुंदरता",
+      "description": "Message: Nature is beautiful when seen with imagination and wonder",
+      "parentId": "node_kavita_parichay",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_badal",
+      "label": "बादलों का वर्णन (Cloud Description)",
+      "description": "How clouds are described in the poem - their forms, movements, and qualities",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_aakaar",
+      "label": "आकार बदलना (Changing Shapes)",
+      "description": "Clouds change into shapes like elephants, horses, and mountains",
+      "parentId": "node_badal",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_bholapan",
+      "label": "भोलापन (Innocence)",
+      "description": "Clouds are portrayed as innocent and carefree, like children",
+      "parentId": "node_badal",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_varsha",
+      "label": "वर्षा लाना (Bringing Rain)",
+      "description": "Clouds gather and bring rain, connecting to the water cycle",
+      "parentId": "node_badal",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_bhasha",
+      "label": "भाषा कौशल (Language Skills)",
+      "description": "Vocabulary, poetic devices, and language concepts from the chapter",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_shabdarth",
+      "label": "शब्दार्थ (Word Meanings)",
+      "description": "Key Hindi vocabulary words and their meanings from the poem",
+      "parentId": "node_bhasha",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_upma",
+      "label": "उपमा अलंकार (Simile)",
+      "description": "Comparing clouds to children and other things using simile",
+      "parentId": "node_bhasha",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_paryayvachi",
+      "label": "पर्यायवाची शब्द (Synonyms)",
+      "description": "Synonyms like आकाश-आसमान, बादल-मेघ used in the poem",
+      "parentId": "node_bhasha",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_kalpana",
+      "label": "कल्पना शक्ति (Power of Imagination)",
+      "description": "The poem encourages children to use imagination to see beauty in nature",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 360,
+      "color": "#E91E63",
+      "orderIndex": 13
+    }
+  ]
+}

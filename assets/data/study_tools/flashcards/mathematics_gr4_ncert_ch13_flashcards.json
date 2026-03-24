@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch13",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn13_distance_time",
+      "name": "Distance and Time at the Museum",
+      "description": "Learn about calculating distances and travel time for a museum visit",
+      "topicId": "gr4_mn_13_1",
+      "chapterId": "gr4_math_ncert_ch13",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn13_001",
+          "front": "What does distance mean?",
+          "back": "Distance is how far one place is from another.\n\nFor example, the distance from your home to school might be 2 kilometres. It tells you how much you need to travel.",
+          "hint": "Think about how far you walk or ride to get somewhere",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn13_002",
+          "front": "A family drives 45 km to the Transport Museum and 45 km back home. How far do they travel in total?",
+          "back": "90 kilometres\n\n45 km going + 45 km coming back = 90 km\n\nThe total distance for a round trip is double the one-way distance.",
+          "hint": "They travel the same distance going and coming back",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn13_003",
+          "front": "A bus takes 1 hour 30 minutes to reach the museum. It leaves at 9:00 AM. What time does it arrive?",
+          "back": "10:30 AM\n\n9:00 AM + 1 hour = 10:00 AM\n10:00 AM + 30 minutes = 10:30 AM",
+          "hint": "Add the hours first, then the minutes",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn13_004",
+          "front": "What units do we use to measure distance?",
+          "back": "We use metres (m) for short distances and kilometres (km) for long distances.\n\n1 kilometre = 1000 metres\n\nExample: The length of a bus is about 12 metres. The distance between two cities can be 300 kilometres.",
+          "hint": "There is a small unit and a big unit for distance",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn13_005",
+          "front": "A train covers 60 km in 1 hour. How far will it go in 3 hours at the same speed?",
+          "back": "180 kilometres\n\n60 km in 1 hour\nIn 3 hours: 60 x 3 = 180 km",
+          "hint": "Multiply the distance per hour by the number of hours",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn13_money_tickets",
+      "name": "Money and Ticket Calculations",
+      "description": "Learn about ticket prices, totals, and money calculations at a museum",
+      "topicId": "gr4_mn_13_2",
+      "chapterId": "gr4_math_ncert_ch13",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn13_006",
+          "front": "A museum ticket costs Rs 30 for children and Rs 50 for adults. How much will a family of 2 adults and 2 children pay?",
+          "back": "Rs 160\n\n2 adults: 2 x 50 = Rs 100\n2 children: 2 x 30 = Rs 60\nTotal: 100 + 60 = Rs 160",
+          "hint": "Calculate adult tickets and child tickets separately, then add",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn13_007",
+          "front": "You have Rs 200 and you buy a museum ticket for Rs 50 and a guidebook for Rs 35. How much money is left?",
+          "back": "Rs 115\n\nTotal spent: 50 + 35 = Rs 85\nMoney left: 200 - 85 = Rs 115",
+          "hint": "First find the total you spent, then subtract from Rs 200",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn13_008",
+          "front": "A group of 25 students visits the museum. Each ticket costs Rs 20. What is the total cost?",
+          "back": "Rs 500\n\n25 x 20 = Rs 500\n\nMultiply the number of students by the price of one ticket.",
+          "hint": "Multiply number of tickets by price of each ticket",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn13_009",
+          "front": "What is the meaning of 'total cost'?",
+          "back": "Total cost is the full amount of money you need to pay for everything.\n\nYou find it by adding up the cost of each item or by multiplying if you are buying many of the same thing.",
+          "hint": "It is the complete bill amount",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn13_010",
+          "front": "If a toy bus at the museum shop costs Rs 85 and a toy train costs Rs 120, how much more does the train cost?",
+          "back": "Rs 35 more\n\n120 - 85 = Rs 35\n\nTo find how much more, subtract the smaller price from the bigger price.",
+          "hint": "Subtract to find the difference in price",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn13_everyday_math",
+      "name": "Everyday Maths at the Museum",
+      "description": "Practise real-world maths problems about transport, schedules, and planning",
+      "topicId": "gr4_mn_13_3",
+      "chapterId": "gr4_math_ncert_ch13",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn13_011",
+          "front": "A museum opens at 10:00 AM and closes at 5:00 PM. How many hours is it open?",
+          "back": "7 hours\n\nFrom 10:00 AM to 5:00 PM = 7 hours\n\nCount: 10 to 11, 11 to 12, 12 to 1, 1 to 2, 2 to 3, 3 to 4, 4 to 5 = 7 hours.",
+          "hint": "Count the hours from opening time to closing time",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn13_012",
+          "front": "A bus has 48 seats. 29 seats are taken. How many seats are empty?",
+          "back": "19 seats are empty\n\n48 - 29 = 19\n\nSubtract the occupied seats from the total seats.",
+          "hint": "Subtract the seats that are filled from the total",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn13_013",
+          "front": "An auto-rickshaw charges Rs 25 for the first kilometre and Rs 10 for each extra kilometre. What is the fare for a 4 km ride?",
+          "back": "Rs 55\n\nFirst km: Rs 25\nNext 3 km: 3 x 10 = Rs 30\nTotal: 25 + 30 = Rs 55",
+          "hint": "The first km has a different rate than the rest",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn13_014",
+          "front": "A train departs at 8:45 AM and arrives at 11:15 AM. How long is the journey?",
+          "back": "2 hours 30 minutes\n\n8:45 to 9:45 = 1 hour\n9:45 to 10:45 = 1 hour\n10:45 to 11:15 = 30 minutes\nTotal = 2 hours 30 minutes",
+          "hint": "Count the hours and minutes from departure to arrival",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn13_015",
+          "front": "The museum souvenir shop sells postcards at Rs 5 each. Priya wants to buy 12 postcards. How much will she spend?",
+          "back": "Rs 60\n\n12 x 5 = Rs 60\n\nMultiply the number of postcards by the price of each one.",
+          "hint": "Multiply quantity by price per item",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

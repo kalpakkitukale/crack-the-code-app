@@ -1,0 +1,198 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_e_1_1",
+    "level": "topic",
+    "entityId": "gr4_e_1_1",
+    "title": "Types of Nouns - Practice Quiz",
+    "questionIds": [
+      "q_nouns_001",
+      "q_nouns_002",
+      "q_nouns_003",
+      "q_nouns_004",
+      "q_nouns_005",
+      "q_nouns_006",
+      "q_nouns_007",
+      "q_nouns_008"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_nouns_001",
+      "questionText": "Which of these is a proper noun?",
+      "questionType": "mcq",
+      "options": [
+        "city",
+        "Delhi",
+        "school",
+        "teacher"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Delhi is a proper noun because it is the specific name of a city. Proper nouns always start with a capital letter.",
+      "hints": [
+        "Proper nouns are specific names",
+        "They start with capital letters"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["nouns", "proper_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_002",
+      "questionText": "What type of noun is 'team'?",
+      "questionType": "mcq",
+      "options": [
+        "Proper noun",
+        "Common noun",
+        "Collective noun",
+        "Abstract noun"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Team is a collective noun because it refers to a group of people working together.",
+      "hints": [
+        "Think about a group",
+        "Many people together"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nouns", "collective_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_003",
+      "questionText": "Which word is a common noun?",
+      "questionType": "mcq",
+      "options": [
+        "Monday",
+        "India",
+        "Ramesh",
+        "book"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Book is a common noun. It refers to any book in general, not a specific one. Common nouns don't start with capital letters unless at the beginning of a sentence.",
+      "hints": [
+        "Common nouns are general names",
+        "They don't need capital letters"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["nouns", "common_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_004",
+      "questionText": "What type of noun is 'happiness'?",
+      "questionType": "mcq",
+      "options": [
+        "Common noun",
+        "Proper noun",
+        "Abstract noun",
+        "Collective noun"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Happiness is an abstract noun because it names a feeling or idea that we cannot touch or see.",
+      "hints": [
+        "Can you touch or see happiness?",
+        "It's a feeling"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nouns", "abstract_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_005",
+      "questionText": "Choose the sentence with a proper noun:",
+      "questionType": "mcq",
+      "options": [
+        "The dog barked loudly.",
+        "I love reading books.",
+        "Priya is my best friend.",
+        "We played in the park."
+      ],
+      "correctAnswer": "C",
+      "explanation": "Priya is a proper noun (a person's name). Proper nouns are always capitalized.",
+      "hints": [
+        "Look for a name",
+        "Proper nouns start with capital letters"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["nouns", "proper_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_006",
+      "questionText": "Which is a collective noun for birds?",
+      "questionType": "mcq",
+      "options": [
+        "Group",
+        "Flock",
+        "Team",
+        "Bunch"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Flock is the collective noun used for a group of birds. Other examples: a herd of cattle, a school of fish.",
+      "hints": [
+        "Special word for birds together",
+        "Starts with 'F'"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nouns", "collective_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_007",
+      "questionText": "Identify the abstract noun: 'The soldier showed great courage.'",
+      "questionType": "mcq",
+      "options": [
+        "soldier",
+        "showed",
+        "great",
+        "courage"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Courage is an abstract noun because it is a quality that cannot be touched or seen but can be felt.",
+      "hints": [
+        "Which word names a quality?",
+        "Can you see or touch it?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nouns", "abstract_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nouns_008",
+      "questionText": "Which pair contains ONLY common nouns?",
+      "questionType": "mcq",
+      "options": [
+        "boy, India",
+        "chair, table",
+        "Sunday, morning",
+        "teacher, Ram"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chair and table are both common nouns. They are general names for objects, not specific names.",
+      "hints": [
+        "Look for general names",
+        "No capital letters needed"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["nouns", "common_nouns"],
+      "topicIds": ["gr4_e_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

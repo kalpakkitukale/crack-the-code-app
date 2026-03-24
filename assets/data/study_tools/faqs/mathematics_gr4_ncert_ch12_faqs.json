@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch12",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn12_001",
+      "videoId": "gr4_mn12_v1",
+      "question": "How do I read the time on a clock with hands?",
+      "answer": "A clock has two hands. The short hand (hour hand) tells the hour. The long hand (minute hand) tells the minutes. First, look at where the short hand points to find the hour. Then look at the long hand and count by 5s from 12 to find the minutes. For example, if the short hand is on 8 and the long hand is on 4 (which means 20 minutes), the time is 8:20.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn12_002",
+      "videoId": "gr4_mn12_v1",
+      "question": "Why does the minute hand move faster than the hour hand?",
+      "answer": "The minute hand needs to go all the way around the clock (one full circle) in just 1 hour to show all 60 minutes. The hour hand only needs to move from one number to the next in that same hour. So the minute hand must move 12 times faster than the hour hand. That is why you can see the minute hand moving if you watch carefully, but the hour hand seems to barely move!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn12_003",
+      "videoId": "gr4_mn12_v2",
+      "question": "What is the difference between AM and PM?",
+      "answer": "AM is the time from midnight (12:00 at night) to just before noon (12:00 in the afternoon). This includes early morning and morning hours. PM is from noon to just before midnight. This includes afternoon, evening, and night. An easy way to remember: AM = morning time when you go to school, PM = afternoon and evening time when you come back from school and have dinner.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn12_004",
+      "videoId": "gr4_mn12_v2",
+      "question": "What does 'quarter past' and 'quarter to' mean?",
+      "answer": "A clock face is like a circle divided into 4 quarters. Quarter past means one quarter of the hour has passed, which is 15 minutes. At quarter past 6, the time is 6:15. Quarter to means there are 15 minutes left before the next hour. At quarter to 6, the time is 5:45. Half past means half the hour is done, which is 30 minutes. At half past 6, the time is 6:30.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn12_005",
+      "videoId": "gr4_mn12_v3",
+      "question": "How do I calculate elapsed time?",
+      "answer": "Elapsed time is how much time passes between a start time and an end time. The easiest way is to count forward. If something starts at 3:20 PM and ends at 5:00 PM, first count from 3:20 to 4:00 (that is 40 minutes), then from 4:00 to 5:00 (that is 1 hour). Total elapsed time = 1 hour 40 minutes. You can also use a number line, writing the times and counting the jumps.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn12_006",
+      "videoId": "gr4_mn12_v3",
+      "question": "A train leaves at 9:15 AM and reaches at 1:45 PM. How long is the journey?",
+      "answer": "Count from 9:15 AM to 1:45 PM. From 9:15 to 10:15 = 1 hour. From 10:15 to 11:15 = 2 hours. From 11:15 to 12:15 = 3 hours. From 12:15 to 1:15 = 4 hours. From 1:15 to 1:45 = 30 minutes. So the journey is 4 hours and 30 minutes. You can also count: 9:15 to 1:15 = 4 hours, plus 30 more minutes = 4 hours 30 minutes.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn12_007",
+      "videoId": "gr4_mn12_v4",
+      "question": "How do I remember which months have 30 days and which have 31?",
+      "answer": "Use the knuckle trick! Make a fist and look at your knuckles. Starting from the first knuckle (January), each knuckle is a 31-day month and each dip between knuckles is a 30-day month (except February which has 28 or 29). Knuckle: Jan (31), dip: Feb (28/29), knuckle: Mar (31), dip: Apr (30), knuckle: May (31), dip: Jun (30), knuckle: Jul (31). Then start again: knuckle: Aug (31), dip: Sep (30), knuckle: Oct (31), dip: Nov (30), knuckle: Dec (31).",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn12_008",
+      "videoId": "gr4_mn12_v4",
+      "question": "What is a leap year and why does it happen?",
+      "answer": "A leap year is a year with 366 days instead of 365. In a leap year, February has 29 days instead of 28. Leap years come every 4 years (like 2020, 2024, 2028). This happens because the Earth actually takes about 365 and a quarter days to go around the Sun. After 4 years, those quarter days add up to 1 full day, which we add to February. To check if a year is a leap year, see if you can divide it by 4 with no remainder.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn12_009",
+      "videoId": "gr4_mn12_v5",
+      "question": "How do I count the number of days between two dates?",
+      "answer": "Count forward from the first date to the second date. For example, from March 10 to March 25: count from 10 to 25, which is 15 days. If the dates are in different months, count the remaining days in the first month, then add the days in the second month. From April 20 to May 5: April has 30 days, so April 20 to April 30 = 10 days, plus May 1 to May 5 = 5 days. Total = 15 days.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn12_010",
+      "videoId": "gr4_mn12_v5",
+      "question": "If today is Monday and my birthday is after 18 days, what day will my birthday be on?",
+      "answer": "Since a week has 7 days, divide 18 by 7. 18 divided by 7 gives 2 weeks and 4 extra days. After 2 complete weeks (14 days), it will still be Monday. Then count 4 more days: Tuesday (15), Wednesday (16), Thursday (17), Friday (18). So your birthday will be on Friday! This trick of dividing by 7 and counting the remainder works for any number of days.",
+      "status": "answered",
+      "upvotes": 22
+    }
+  ]
+}

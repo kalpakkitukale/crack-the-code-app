@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_evs_ncert_ch19",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Abdul in the Garden",
+      "description": "Gardening and plant care",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_needs",
+      "label": "What Plants Need",
+      "description": "Essential things for plant growth",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_sunlight",
+      "label": "Sunlight",
+      "description": "Energy source for making food (photosynthesis)",
+      "parentId": "node_needs",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_water",
+      "label": "Water",
+      "description": "Needed for growth and carrying nutrients",
+      "parentId": "node_needs",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_soil",
+      "label": "Soil & Nutrients",
+      "description": "Gives support and food to roots",
+      "parentId": "node_needs",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_growth",
+      "label": "Plant Growth Stages",
+      "description": "How a seed becomes a plant",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_seed",
+      "label": "Seed",
+      "description": "Contains baby plant and stored food",
+      "parentId": "node_growth",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_germination",
+      "label": "Germination",
+      "description": "Seed breaks open, root and shoot emerge",
+      "parentId": "node_growth",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_sapling",
+      "label": "Sapling to Plant",
+      "description": "Young plant grows leaves, stems, flowers",
+      "parentId": "node_growth",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_care",
+      "label": "Plant Care",
+      "description": "How to take care of plants",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_watering",
+      "label": "Watering",
+      "description": "Morning or evening, not too much",
+      "parentId": "node_care",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_weeding",
+      "label": "Removing Weeds",
+      "description": "Pull out unwanted plants",
+      "parentId": "node_care",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_helpers",
+      "label": "Garden Helpers",
+      "description": "Creatures that help plants grow",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_bees",
+      "label": "Bees & Butterflies",
+      "description": "Carry pollen for pollination",
+      "parentId": "node_helpers",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_earthworms",
+      "label": "Earthworms",
+      "description": "Make soil loose and nutritious",
+      "parentId": "node_helpers",
+      "positionX": -100,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_kitchen",
+      "label": "Kitchen Garden",
+      "description": "Growing vegetables and herbs at home",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 15
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_evs_ncert_ch12",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Changing Times",
+      "description": "How life has changed over generations",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_transport",
+      "label": "Transport",
+      "description": "How people travel from place to place",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_old_transport",
+      "label": "Past: Bullock Carts",
+      "description": "Bullock carts, horses, walking",
+      "parentId": "node_transport",
+      "positionX": -300,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_new_transport",
+      "label": "Now: Cars & Planes",
+      "description": "Cars, buses, trains, aeroplanes",
+      "parentId": "node_transport",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_communication",
+      "label": "Communication",
+      "description": "How people share messages",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_old_comm",
+      "label": "Past: Letters & Telegrams",
+      "description": "Took days or weeks to reach",
+      "parentId": "node_communication",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_new_comm",
+      "label": "Now: Phones & Internet",
+      "description": "Instant messages and video calls",
+      "parentId": "node_communication",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_daily_life",
+      "label": "Daily Life",
+      "description": "Cooking, lighting, and school",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_cooking",
+      "label": "Cooking Changes",
+      "description": "From chulha to gas stove and microwave",
+      "parentId": "node_daily_life",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_lighting",
+      "label": "Lighting Changes",
+      "description": "From oil lamps to electric lights",
+      "parentId": "node_daily_life",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_school",
+      "label": "School Changes",
+      "description": "From slate boards to smart boards",
+      "parentId": "node_daily_life",
+      "positionX": 250,
+      "positionY": 260,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_games",
+      "label": "Games & Play",
+      "description": "Changes in how children play",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#E91E63",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_old_games",
+      "label": "Traditional Games",
+      "description": "Gilli-danda, kho-kho, marbles",
+      "parentId": "node_games",
+      "positionX": -200,
+      "positionY": 360,
+      "color": "#F06292",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_unchanged",
+      "label": "Things That Stay Same",
+      "description": "Values and traditions that endure",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_family_love",
+      "label": "Family Love",
+      "description": "Care, festivals, and storytelling",
+      "parentId": "node_unchanged",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_traditions",
+      "label": "Traditions",
+      "description": "Customs passed through generations",
+      "parentId": "node_unchanged",
+      "positionX": 200,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 15
+    }
+  ]
+}

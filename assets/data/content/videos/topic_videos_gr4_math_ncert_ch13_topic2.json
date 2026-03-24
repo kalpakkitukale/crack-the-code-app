@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn13_t2",
+  "topicId": "gr4_mn_13_2",
+  "topicName": "Multiplying by 10, 20, 50 and 100",
+  "chapterId": "gr4_math_ncert_ch13",
+  "chapterName": "The Transport Museum",
+  "description": "Main learning videos for understanding multiplication patterns with multiples of 10, 100, and 1000, including strategies for quick mental calculation",
+
+  "videos": [
+    {
+      "id": "gr4_mn13_v2",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Multiplying by multiples of 10 | Multiplication and division | Arithmetic | Khan Academy",
+      "description": "Learn how to multiply numbers by 10, 20, 50, and 100. Discover the pattern: multiplying by multiples of 10 is just like multiplying by single digits and adding zeros. Great for transport and real-life calculations!",
+
+      "youtubeId": "jb8mFpA1YI8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jb8mFpA1YI8",
+      "thumbnailUrl": "https://img.youtube.com/vi/jb8mFpA1YI8/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Khan Academy",
+      "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+
+      "tags": ["multiplying by 10", "multiplying by 100", "multiples of 10", "multiplication patterns", "place value"],
+
+      "learningObjectives": [
+        "Multiply any number by 10, 20, 50, and 100 using place value patterns",
+        "Understand why multiplying by 10 shifts digits one place to the left",
+        "Apply the pattern to solve transport context problems quickly"
+      ],
+
+      "prerequisites": ["Place value understanding", "Basic multiplication facts"],
+      "followUpTopics": ["Multiplying by 3-digit numbers", "Long multiplication"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "A train travels 50 km in one hour. How far does it travel in 6 hours?",
+            "options": ["250 km", "300 km", "350 km"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn13_v2"],
+      "estimatedTime": 360
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn13_v2"],
+      "estimatedTime": 360
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn13_v2"],
+      "estimatedTime": 360
+    }
+  }
+}

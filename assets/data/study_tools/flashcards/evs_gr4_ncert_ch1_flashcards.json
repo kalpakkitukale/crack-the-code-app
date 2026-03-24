@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch1",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en1_ways",
+      "name": "Ways of Going to School",
+      "description": "Learn about different ways children travel to school",
+      "topicId": "gr4_evn_1_1",
+      "chapterId": "gr4_evs_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_en1_001",
+          "front": "Name three different ways children go to school.",
+          "back": "Children go to school by walking, cycling, or riding in a bus. Some also travel by auto-rickshaw, boat, or trolley depending on where they live.",
+          "hint": "Think about how you and your friends get to school",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en1_002",
+          "front": "Why do some children go to school by boat?",
+          "back": "Children who live near rivers, lakes, or backwaters may use boats because there are no roads or bridges to cross the water.",
+          "hint": "Think about places with lots of water",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en1_003",
+          "front": "What is a trolley used for in hilly areas?",
+          "back": "In some hilly areas, a trolley or ropeway is used to cross deep valleys or rivers. Children sit in a small cart that moves along a rope stretched across the valley.",
+          "hint": "Imagine crossing a valley high above the ground",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en1_004",
+          "front": "Why is walking to school common in villages?",
+          "back": "In many villages, schools are nearby and there are no buses or autos available. Children walk together in groups, sometimes crossing fields and streams to reach school.",
+          "hint": "Think about places without many vehicles",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en1_005",
+          "front": "What problems do children face while going to school?",
+          "back": "Some children have to cross rivers without bridges, walk long distances on rough paths, or travel through forests. During the rainy season, roads may get flooded and streams overflow.",
+          "hint": "Think about difficult weather and geography",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en1_schools",
+      "name": "Different Types of Schools",
+      "description": "Explore how schools differ across India",
+      "topicId": "gr4_evn_1_2",
+      "chapterId": "gr4_evs_ncert_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_en1_006",
+          "front": "Are all schools the same in India?",
+          "back": "No! Schools in India are very different. Some are big buildings in cities, while others may be under trees or in small huts in villages. Some schools have one teacher for all classes.",
+          "hint": "Think about schools in different parts of India",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en1_007",
+          "front": "What is a single-teacher school?",
+          "back": "A single-teacher school has only one teacher who teaches all subjects to children of different ages and classes together in one room.",
+          "hint": "Imagine only one teacher for the whole school",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en1_008",
+          "front": "Why do some children not go to school?",
+          "back": "Some children cannot go to school because the school is too far away, they need to help at home with chores, or their family cannot afford school supplies. Some areas do not have a school at all.",
+          "hint": "Think about challenges families face",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en1_009",
+          "front": "How does the weather affect going to school?",
+          "back": "Heavy rain can flood roads and make rivers overflow. In winter, snow may block mountain paths. Very hot summers can also make long walks difficult for children.",
+          "hint": "Think about different seasons",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en1_010",
+          "front": "What can we learn from how different children go to school?",
+          "back": "We learn that India has many different landscapes like mountains, rivers, and plains. The way children travel shows how geography and climate affect daily life.",
+          "hint": "Think about what travel tells us about a place",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

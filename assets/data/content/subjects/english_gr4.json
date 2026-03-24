@@ -1,0 +1,46 @@
+{
+  "id": "english_gr4",
+  "name": "English",
+  "icon": "menu_book",
+  "color": "#FFBE76",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["english", "grade 4", "grammar", "language"],
+  "chapters": [
+    {
+      "id": "gr4_eng_ch1",
+      "number": 1,
+      "name": "Nouns and Pronouns",
+      "description": "Understanding nouns and pronouns",
+      "keywords": ["nouns", "pronouns"],
+      "topics": [
+        {"id": "gr4_e_1_1", "name": "Types of Nouns", "difficulty": "basic", "videoCount": 4, "keywords": ["nouns"]},
+        {"id": "gr4_e_1_2", "name": "Pronouns", "difficulty": "basic", "videoCount": 4, "keywords": ["pronouns"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ch2",
+      "number": 2,
+      "name": "Verbs and Tenses",
+      "description": "Action words and simple tenses",
+      "keywords": ["verbs", "tenses"],
+      "topics": [
+        {"id": "gr4_e_2_1", "name": "Action Verbs", "difficulty": "basic", "videoCount": 4, "keywords": ["verbs"]},
+        {"id": "gr4_e_2_2", "name": "Present Tense", "difficulty": "basic", "videoCount": 4, "keywords": ["present tense"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ch3",
+      "number": 3,
+      "name": "Adjectives",
+      "description": "Describing words and comparisons",
+      "keywords": ["adjectives", "describing"],
+      "topics": [
+        {"id": "gr4_e_3_1", "name": "Describing Words", "difficulty": "basic", "videoCount": 4, "keywords": ["adjectives"]},
+        {"id": "gr4_e_3_2", "name": "Comparison", "difficulty": "basic", "videoCount": 4, "keywords": ["comparison"]}
+      ]
+    }
+  ]
+}

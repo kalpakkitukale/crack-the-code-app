@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch25",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_25_001",
+      "term": "Spice",
+      "definition": "A part of a plant (like seeds, bark, roots, or leaves) that is used to add flavour, colour, or smell to food.",
+      "pronunciation": "SPYS",
+      "exampleUsage": "Turmeric is a spice that gives curry its yellow colour.",
+      "difficulty": "easy",
+      "relatedTerms": ["flavour", "seasoning"]
+    },
+    {
+      "id": "gls_evs_25_002",
+      "term": "Turmeric",
+      "definition": "A bright yellow spice made from the root of the turmeric plant. Used in cooking and also as a traditional medicine in India.",
+      "pronunciation": "TUR-muh-rik",
+      "exampleUsage": "My grandmother adds turmeric to milk to make haldi doodh when I have a cold.",
+      "difficulty": "easy",
+      "relatedTerms": ["haldi", "root", "spice"]
+    },
+    {
+      "id": "gls_evs_25_003",
+      "term": "Black Pepper",
+      "definition": "A small, round, dark spice called the 'King of Spices'. It is grown mainly in Kerala and adds a sharp taste to food.",
+      "pronunciation": "BLAK PEP-er",
+      "exampleUsage": "Black pepper is sprinkled on salads and soups for extra flavour.",
+      "difficulty": "easy",
+      "relatedTerms": ["kali mirch", "Kerala", "spice trade"]
+    },
+    {
+      "id": "gls_evs_25_004",
+      "term": "Cardamom",
+      "definition": "A small green pod with tiny black seeds inside, known as the 'Queen of Spices'. It has a sweet, pleasant smell and is used in sweets and chai.",
+      "pronunciation": "KAR-duh-mum",
+      "exampleUsage": "Amma adds cardamom to kheer to make it smell lovely.",
+      "difficulty": "easy",
+      "relatedTerms": ["elaichi", "Kerala", "sweets"]
+    },
+    {
+      "id": "gls_evs_25_005",
+      "term": "Cuisine",
+      "definition": "A style of cooking that is special to a particular region or community. Different cuisines use different spices and ingredients.",
+      "pronunciation": "kwi-ZEEN",
+      "exampleUsage": "Rajasthani cuisine uses lots of red chilli, while Kerala cuisine uses coconut.",
+      "difficulty": "medium",
+      "relatedTerms": ["cooking", "regional food", "recipe"]
+    },
+    {
+      "id": "gls_evs_25_006",
+      "term": "Garam Masala",
+      "definition": "A blend of ground spices commonly used in Indian cooking. It usually contains cinnamon, cardamom, cloves, cumin, and black pepper.",
+      "pronunciation": "guh-RAHM muh-SAH-lah",
+      "exampleUsage": "A pinch of garam masala is added at the end to give the dish a warm, rich flavour.",
+      "difficulty": "easy",
+      "relatedTerms": ["spice blend", "masala", "cooking"]
+    },
+    {
+      "id": "gls_evs_25_007",
+      "term": "Clove",
+      "definition": "A small, dark brown, nail-shaped spice that comes from the flower bud of a tree. It has a strong smell and is used in cooking and as a remedy for toothache.",
+      "pronunciation": "KLOV",
+      "exampleUsage": "Cloves are added to biryani for a strong, warm flavour.",
+      "difficulty": "medium",
+      "relatedTerms": ["laung", "flower bud", "spice"]
+    },
+    {
+      "id": "gls_evs_25_008",
+      "term": "Spice Trade",
+      "definition": "The buying and selling of spices between countries. Long ago, traders from Europe, Arabia, and China came to India to buy spices, which changed world history.",
+      "pronunciation": "SPYS TRAYD",
+      "exampleUsage": "The spice trade brought many foreign traders to the coast of Kerala.",
+      "difficulty": "medium",
+      "relatedTerms": ["trade", "merchants", "Kerala"]
+    },
+    {
+      "id": "gls_evs_25_009",
+      "term": "Masala Dabba",
+      "definition": "A round, metal spice box with small cups inside, used in Indian kitchens to store everyday spices in one handy container.",
+      "pronunciation": "muh-SAH-lah DUB-bah",
+      "exampleUsage": "Every morning, Amma opens the masala dabba to take out spices for cooking.",
+      "difficulty": "easy",
+      "relatedTerms": ["spice box", "kitchen", "storage"]
+    },
+    {
+      "id": "gls_evs_25_010",
+      "term": "Saffron",
+      "definition": "The most expensive spice in the world, made from the tiny red threads (stigma) of the crocus flower. It is grown in Kashmir and gives food a golden colour.",
+      "pronunciation": "SAF-run",
+      "exampleUsage": "Saffron is added to biryani and sweets like gulab jamun for colour and flavour.",
+      "difficulty": "medium",
+      "relatedTerms": ["kesar", "Kashmir", "expensive"]
+    }
+  ]
+}

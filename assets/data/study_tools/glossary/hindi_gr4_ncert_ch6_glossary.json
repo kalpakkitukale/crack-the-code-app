@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch6",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn6_001",
+      "term": "नाव (Naav)",
+      "definition": "A boat - a small vessel that floats on water. In the poem, children make boats from paper (कागज़ की नाव) to float in rainwater.",
+      "pronunciation": "NAAV",
+      "exampleUsage": "बच्चों ने कागज़ की नाव बनाकर पानी में तैराई। (The children made a paper boat and floated it in water.)",
+      "difficulty": "easy",
+      "relatedTerms": ["नौका", "किश्ती", "तैरना"]
+    },
+    {
+      "id": "gls_gr4_hn6_002",
+      "term": "कागज़ (Kaagaz)",
+      "definition": "Paper - a thin material used for writing, drawing, and in this poem, for making boats. Children fold paper into boat shapes to float in water.",
+      "pronunciation": "KAA-gaz",
+      "exampleUsage": "इस कागज़ से नाव बनाओ। (Make a boat from this paper.)",
+      "difficulty": "easy",
+      "relatedTerms": ["नाव", "मोड़ना", "बनाना"]
+    },
+    {
+      "id": "gls_gr4_hn6_003",
+      "term": "बारिश (Baarish)",
+      "definition": "Rain - water falling from clouds. The rainy season brings puddles and streams where children float their paper boats. Also called वर्षा (varsha) in formal Hindi.",
+      "pronunciation": "BAA-rish",
+      "exampleUsage": "बारिश में कागज़ की नाव तैराना बहुत मज़ेदार है। (Floating paper boats in the rain is very fun.)",
+      "difficulty": "easy",
+      "relatedTerms": ["वर्षा", "पानी", "बादल", "बूँद"]
+    },
+    {
+      "id": "gls_gr4_hn6_004",
+      "term": "तैरना (Tairna)",
+      "definition": "To float or to swim. In the poem, the paper boat floats (तैरती है) on the water. Things that are light like paper can float on water.",
+      "pronunciation": "TAIR-naa",
+      "exampleUsage": "नाव पानी पर तैर रही है। (The boat is floating on water.)",
+      "difficulty": "easy",
+      "relatedTerms": ["पानी", "नाव", "डूबना"]
+    },
+    {
+      "id": "gls_gr4_hn6_005",
+      "term": "कविता (Kavita)",
+      "definition": "A poem - a piece of writing that uses rhythm, rhyme, and beautiful language to express feelings and ideas. This chapter is a kavita (poem), not a kahani (story).",
+      "pronunciation": "ka-VI-taa",
+      "exampleUsage": "यह कविता बारिश और नाव के बारे में है। (This poem is about rain and boats.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कवि", "पंक्ति", "तुकबंदी"]
+    },
+    {
+      "id": "gls_gr4_hn6_006",
+      "term": "तुकबंदी (Tukbandi)",
+      "definition": "Rhyming - when words at the end of lines in a poem have matching sounds. Tukbandi makes poems musical and easy to remember.",
+      "pronunciation": "TUK-ban-dee",
+      "exampleUsage": "इस कविता में बहुत अच्छी तुकबंदी है। (This poem has very good rhyming.)",
+      "difficulty": "medium",
+      "relatedTerms": ["कविता", "लय", "ताल"]
+    },
+    {
+      "id": "gls_gr4_hn6_007",
+      "term": "कल्पना (Kalpana)",
+      "definition": "Imagination - the ability to create pictures and ideas in your mind. In the poem, children imagine their paper boats going on grand adventures across rivers and seas.",
+      "pronunciation": "KAL-pa-naa",
+      "exampleUsage": "कल्पना से बच्चे कागज़ की नाव को दूर देशों में भेजते हैं। (With imagination, children send the paper boat to distant lands.)",
+      "difficulty": "medium",
+      "relatedTerms": ["सोचना", "सपना", "रचना"]
+    },
+    {
+      "id": "gls_gr4_hn6_008",
+      "term": "धारा (Dhaara)",
+      "definition": "A stream or flow of water. When it rains, water collects and flows in small streams (धारा) on the ground. Children float their boats in these streams.",
+      "pronunciation": "DHAA-raa",
+      "exampleUsage": "बारिश के पानी की धारा में नाव बह गई। (The boat floated away in the stream of rainwater.)",
+      "difficulty": "medium",
+      "relatedTerms": ["पानी", "नदी", "बहना"]
+    },
+    {
+      "id": "gls_gr4_hn6_009",
+      "term": "मौसम (Mausam)",
+      "definition": "Season or weather. India has different mausam including गर्मी (summer), बारिश/बरसात (rainy season), सर्दी (winter). Paper boats are a rainy season (बरसात) activity.",
+      "pronunciation": "MAU-sam",
+      "exampleUsage": "बारिश का मौसम नाव बनाने के लिए सबसे अच्छा है। (The rainy season is the best time for making boats.)",
+      "difficulty": "easy",
+      "relatedTerms": ["बारिश", "गर्मी", "सर्दी", "ऋतु"]
+    },
+    {
+      "id": "gls_gr4_hn6_010",
+      "term": "हवा (Hava)",
+      "definition": "Wind or breeze. In the poem, the wind (हवा) helps push the paper boat along the water, making it sail forward on its journey.",
+      "pronunciation": "HA-vaa",
+      "exampleUsage": "हवा ने नाव को आगे बढ़ाया। (The wind pushed the boat forward.)",
+      "difficulty": "easy",
+      "relatedTerms": ["तूफ़ान", "बहना", "चलना"]
+    }
+  ]
+}

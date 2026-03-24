@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_math_ncert_ch4",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_mn4_v1",
+      "videoId": "gr4_mn4_v1",
+      "content": "This lesson introduces place value for numbers up to 5 digits. Students learn that each digit in a number has a value depending on its position. From right to left, the places are: Ones, Tens, Hundreds, Thousands, and Ten-Thousands. For example, in 24,653, the 2 is in the ten-thousands place (worth 20,000), the 4 is in the thousands place (worth 4,000), and so on. Students understand that 10 ones make a ten, 10 tens make a hundred, 10 hundreds make a thousand, and 10 thousands make a ten-thousand.",
+      "keyPoints": [
+        "Place values from right to left: Ones, Tens, Hundreds, Thousands, Ten-Thousands",
+        "The value of a digit depends on its position in the number",
+        "10 of one place value make 1 of the next higher place value",
+        "The smallest 4-digit number is 1,000 and the largest is 9,999"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn4_v2",
+      "videoId": "gr4_mn4_v2",
+      "content": "This lesson teaches students how to read and write 4-digit and 5-digit numbers. Students learn to write numbers in three ways: standard form (using digits like 7,305), expanded form (7,000 + 300 + 0 + 5), and number names (seven thousand three hundred and five). The lesson also covers the Indian system of placing commas. Students practise converting between these different forms.",
+      "keyPoints": [
+        "Standard form uses digits: 7,305",
+        "Expanded form shows each digit's value: 7,000 + 300 + 5",
+        "Number name writes the number in words",
+        "In the Indian system, the first comma comes after the hundreds place"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn4_v3",
+      "videoId": "gr4_mn4_v3",
+      "content": "This lesson covers comparing and ordering large numbers. To compare two numbers, first check how many digits each has. A number with more digits is always greater. If both have the same number of digits, compare them from the leftmost digit. Students also learn to use the symbols > (greater than), < (less than), and = (equal to). They practise arranging numbers in ascending (smallest to largest) and descending (largest to smallest) order.",
+      "keyPoints": [
+        "A number with more digits is always greater",
+        "If digit count is the same, compare from the leftmost digit",
+        "> means greater than, < means less than, = means equal to",
+        "Ascending order goes up; descending order goes down"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_mn4_v4",
+      "videoId": "gr4_mn4_v4",
+      "content": "This lesson focuses on estimation and rounding with large numbers. Students learn that estimation means making a smart guess that is close to the exact answer. They learn the rounding rule: if the digit to the right of the rounding place is 5 or more, round up; if it is less than 5, round down. Students also explore large numbers in real life, such as the population of a town, distances between cities, and prices of things like bikes and TVs.",
+      "keyPoints": [
+        "Estimation gives a number that is close but not exact",
+        "Rounding rule: 5 or more = round up, less than 5 = round down",
+        "We can round to the nearest ten, hundred, or thousand",
+        "Large numbers are used for populations, distances, prices, and more"
+      ],
+      "source": "manual"
+    }
+  ]
+}

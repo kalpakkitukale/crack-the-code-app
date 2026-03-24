@@ -1,0 +1,187 @@
+{
+  "chapterId": "gr4_evs_ncert_ch14",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Basva's Farm",
+      "description": "Farming and agriculture in India",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_steps",
+      "label": "Steps of Farming",
+      "description": "From ploughing to harvesting",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_ploughing",
+      "label": "Ploughing",
+      "description": "Loosening the soil",
+      "parentId": "node_steps",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_sowing",
+      "label": "Sowing",
+      "description": "Planting the seeds",
+      "parentId": "node_steps",
+      "positionX": -275,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_watering",
+      "label": "Irrigation",
+      "description": "Watering the crops",
+      "parentId": "node_steps",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_weeding",
+      "label": "Weeding",
+      "description": "Removing unwanted plants",
+      "parentId": "node_steps",
+      "positionX": -325,
+      "positionY": 260,
+      "color": "#8BC34A",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_harvesting",
+      "label": "Harvesting",
+      "description": "Collecting the ripe crops",
+      "parentId": "node_steps",
+      "positionX": -225,
+      "positionY": 260,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_seasons",
+      "label": "Crop Seasons",
+      "description": "Different crops in different seasons",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_kharif",
+      "label": "Kharif (Monsoon)",
+      "description": "Rice, maize, cotton (June-November)",
+      "parentId": "node_seasons",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_rabi",
+      "label": "Rabi (Winter)",
+      "description": "Wheat, mustard, gram (October-April)",
+      "parentId": "node_seasons",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_tools",
+      "label": "Farming Tools",
+      "description": "Old and new tools",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_traditional",
+      "label": "Traditional Tools",
+      "description": "Plough, sickle, hoe, spade",
+      "parentId": "node_tools",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_modern",
+      "label": "Modern Tools",
+      "description": "Tractor, harvester, seed drill",
+      "parentId": "node_tools",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_animals",
+      "label": "Farm Animals",
+      "description": "Animals that help on the farm",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 320,
+      "color": "#E91E63",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_bullocks",
+      "label": "Bullocks & Cows",
+      "description": "Ploughing, milk, and manure",
+      "parentId": "node_animals",
+      "positionX": -200,
+      "positionY": 400,
+      "color": "#F06292",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_challenges",
+      "label": "Farmer Challenges",
+      "description": "Problems farmers face",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 320,
+      "color": "#F44336",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_rain_depend",
+      "label": "Dependence on Rain",
+      "description": "Less rain means crop failure",
+      "parentId": "node_challenges",
+      "positionX": 100,
+      "positionY": 400,
+      "color": "#EF5350",
+      "orderIndex": 16
+    },
+    {
+      "id": "node_pests",
+      "label": "Pests & Diseases",
+      "description": "Insects that damage crops",
+      "parentId": "node_challenges",
+      "positionX": 200,
+      "positionY": 400,
+      "color": "#EF5350",
+      "orderIndex": 17
+    }
+  ]
+}

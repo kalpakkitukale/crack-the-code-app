@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch13",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_13_001",
+      "term": "River",
+      "definition": "A large natural stream of water that flows from higher ground to the sea. Rivers provide water for drinking, farming, and many other uses.",
+      "pronunciation": "RIV-er",
+      "exampleUsage": "The Ganga is one of the longest and most sacred rivers in India.",
+      "difficulty": "easy",
+      "relatedTerms": ["water", "stream", "tributary"]
+    },
+    {
+      "id": "gls_evs_13_002",
+      "term": "Pollution",
+      "definition": "When harmful substances are added to the environment (air, water, or land), making it dirty and unsafe for living things.",
+      "pronunciation": "puh-LOO-shun",
+      "exampleUsage": "Pollution from factories has made the river water unsafe to drink.",
+      "difficulty": "easy",
+      "relatedTerms": ["waste", "dirty", "harmful"]
+    },
+    {
+      "id": "gls_evs_13_003",
+      "term": "Tributary",
+      "definition": "A smaller river or stream that flows into and joins a larger river.",
+      "pronunciation": "TRIB-yoo-teh-ree",
+      "exampleUsage": "The Yamuna is a tributary of the Ganga and joins it at Prayagraj.",
+      "difficulty": "medium",
+      "relatedTerms": ["river", "stream"]
+    },
+    {
+      "id": "gls_evs_13_004",
+      "term": "Sewage",
+      "definition": "Dirty water and waste from homes, toilets, and buildings that flows through underground pipes. It must be cleaned before it enters rivers.",
+      "pronunciation": "SOO-ij",
+      "exampleUsage": "Untreated sewage from cities is a major cause of river pollution.",
+      "difficulty": "medium",
+      "relatedTerms": ["waste", "pollution", "drainage"]
+    },
+    {
+      "id": "gls_evs_13_005",
+      "term": "Source",
+      "definition": "The starting point of a river, usually a glacier, spring, or lake in the mountains.",
+      "pronunciation": "SORS",
+      "exampleUsage": "The source of the Ganga is the Gangotri glacier in the Himalayas.",
+      "difficulty": "easy",
+      "relatedTerms": ["glacier", "origin", "river"]
+    },
+    {
+      "id": "gls_evs_13_006",
+      "term": "Mouth",
+      "definition": "The place where a river ends and flows into a sea, ocean, or large lake.",
+      "pronunciation": "MOWTH",
+      "exampleUsage": "The mouth of the Ganga is in the Bay of Bengal, where it forms a huge delta.",
+      "difficulty": "easy",
+      "relatedTerms": ["sea", "delta", "river"]
+    },
+    {
+      "id": "gls_evs_13_007",
+      "term": "Glacier",
+      "definition": "A huge mass of ice and snow found on high mountains. When glaciers melt slowly, they form rivers.",
+      "pronunciation": "GLAY-shur",
+      "exampleUsage": "The Gangotri glacier is the source of the river Ganga.",
+      "difficulty": "medium",
+      "relatedTerms": ["ice", "mountain", "source"]
+    },
+    {
+      "id": "gls_evs_13_008",
+      "term": "Factory Waste",
+      "definition": "Chemicals and dirty water released by factories during manufacturing. This waste can be very harmful to rivers and the creatures living in them.",
+      "pronunciation": "FAK-tuh-ree WAYST",
+      "exampleUsage": "Factory waste dumped into rivers kills fish and other aquatic animals.",
+      "difficulty": "easy",
+      "relatedTerms": ["pollution", "chemicals", "industry"]
+    },
+    {
+      "id": "gls_evs_13_009",
+      "term": "Aquatic",
+      "definition": "Relating to water. Aquatic animals are animals that live in water, like fish, frogs, and turtles.",
+      "pronunciation": "uh-KWAT-ik",
+      "exampleUsage": "Aquatic life in polluted rivers is in great danger.",
+      "difficulty": "medium",
+      "relatedTerms": ["water", "fish", "river"]
+    },
+    {
+      "id": "gls_evs_13_010",
+      "term": "Namami Gange",
+      "definition": "A programme started by the Indian government to clean and protect the river Ganga from pollution.",
+      "pronunciation": "nuh-MAH-mee GUN-gay",
+      "exampleUsage": "The Namami Gange programme is working to stop factories from dumping waste into the Ganga.",
+      "difficulty": "hard",
+      "relatedTerms": ["Ganga", "conservation", "pollution"]
+    }
+  ]
+}

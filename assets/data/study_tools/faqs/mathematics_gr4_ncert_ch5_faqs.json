@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch5",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn5_001",
+      "videoId": "gr4_mn5_v1",
+      "question": "What does it mean to share equally?",
+      "answer": "Sharing equally means dividing things so that every person gets the same amount. Imagine you have 12 biscuits and 4 friends. You give 1 biscuit to each friend, then another, and keep going until all biscuits are given out. Each friend gets 3 biscuits. That is equal sharing! In maths, we write this as 12 ÷ 4 = 3.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn5_002",
+      "videoId": "gr4_mn5_v1",
+      "question": "How is division different from subtraction?",
+      "answer": "Subtraction takes away a specific amount, but division splits a total into equal groups. However, division can be done by repeated subtraction! For example, 12 ÷ 3: start with 12, subtract 3 to get 9, subtract 3 to get 6, subtract 3 to get 3, subtract 3 to get 0. You subtracted 3 four times, so 12 ÷ 3 = 4!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn5_003",
+      "videoId": "gr4_mn5_v2",
+      "question": "How does knowing multiplication tables help with division?",
+      "answer": "Multiplication and division are like a family! If you know 7 x 8 = 56, you automatically know that 56 ÷ 7 = 8 and 56 ÷ 8 = 7. So when you see a division problem like 42 ÷ 6, just think: what number times 6 gives 42? Since 6 x 7 = 42, the answer is 7! That is why learning your tables makes division easy.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn5_004",
+      "videoId": "gr4_mn5_v2",
+      "question": "What is a remainder and when does it happen?",
+      "answer": "A remainder is the amount left over when you cannot share things perfectly equally. For example, if you share 14 sweets among 3 friends: each gets 4 sweets (3 x 4 = 12), and 2 sweets are left over. We write this as 14 ÷ 3 = 4 remainder 2. The remainder is always smaller than the divisor (the number you divide by).",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn5_005",
+      "videoId": "gr4_mn5_v2",
+      "question": "What are dividend, divisor, and quotient?",
+      "answer": "These are the names of the parts of a division problem. In 20 ÷ 5 = 4: the dividend (20) is the total amount being divided, the divisor (5) is the number you are dividing by (the number of groups), and the quotient (4) is the answer (how many in each group). An easy way to remember: Dividend is the big number, Divisor is what you divide by, Quotient is the result.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn5_006",
+      "videoId": "gr4_mn5_v3",
+      "question": "What is the difference between sharing and grouping in division?",
+      "answer": "Both use division, but the question is different! In sharing, you know how many groups and find how many in each group. Example: 12 mangoes shared among 3 friends = 4 each. In grouping, you know how many in each group and find how many groups. Example: 12 mangoes, 4 in each basket = 3 baskets. Same sum (12 ÷ 3 = 4 or 12 ÷ 4 = 3) but different stories!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn5_007",
+      "videoId": "gr4_mn5_v3",
+      "question": "How can I check if my division answer is correct?",
+      "answer": "Use multiplication to check! Multiply the quotient (answer) by the divisor (the number you divided by). If you get back the dividend (the original number), your answer is right. Example: 35 ÷ 7 = 5. Check: 5 x 7 = 35. Correct! If there is a remainder, multiply and then add the remainder: (quotient x divisor) + remainder = dividend.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn5_008",
+      "videoId": "gr4_mn5_v4",
+      "question": "Can you divide by zero?",
+      "answer": "No! Division by zero is not allowed in maths. Think about it: if you have 10 sweets and want to share them among 0 friends, there is no one to share with, so it does not make sense. However, 0 ÷ 5 = 0 is fine — if you have 0 sweets and share among 5 friends, everyone gets 0. Remember: you can divide zero, but you cannot divide by zero.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn5_009",
+      "videoId": "gr4_mn5_v3",
+      "question": "Where do we use division in real life?",
+      "answer": "We use division everywhere! Sharing food equally at a party, cutting cloth or ribbon into equal pieces, distributing books in class, dividing money among siblings, packing items into boxes, and measuring ingredients for cooking. Even when you figure out how many weeks are in 28 days (28 ÷ 7 = 4 weeks), you are using division!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn5_010",
+      "videoId": "gr4_mn5_v4",
+      "question": "What are the special rules of division?",
+      "answer": "There are three important special rules: (1) Any number divided by 1 equals itself — 15 ÷ 1 = 15, because putting everything in 1 group means nothing changes. (2) Any number divided by itself equals 1 — 8 ÷ 8 = 1, because if 8 items go into 8 groups, each group gets 1. (3) Zero divided by any number equals zero — 0 ÷ 6 = 0, because there is nothing to share.",
+      "status": "answered",
+      "upvotes": 15
+    }
+  ]
+}

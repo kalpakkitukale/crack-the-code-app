@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_eng_ncert_u6",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_hiawatha",
+      "name": "Hiawatha (Poem)",
+      "description": "Learn about the poem Hiawatha and the young Native American boy who loved nature",
+      "topicId": "gr4_en_6_1",
+      "chapterId": "gr4_eng_ncert_u6",
+      "cards": [
+        {
+          "id": "fc_u6_hw_001",
+          "front": "Who is Hiawatha?",
+          "back": "Hiawatha is a young Native American boy who grew up in a forest. He loved nature and learned the language of birds and animals.",
+          "hint": "He is a boy from a forest",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_u6_hw_002",
+          "front": "Who raised Hiawatha?",
+          "back": "Hiawatha was raised by his old grandmother, Nokomis, who taught him many things about the world around him.",
+          "hint": "An elderly family member",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_u6_hw_003",
+          "front": "What did Hiawatha learn about birds?",
+          "back": "Hiawatha learned the names of all the birds. He learned their language, their secrets, where they built their nests, and how they hid in summer.",
+          "hint": "He knew their names and secrets",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_u6_hw_004",
+          "front": "What did Hiawatha learn about animals?",
+          "back": "Hiawatha learned the names of all the beasts (animals). He learned where they hid and where the beavers built their lodges.",
+          "hint": "He knew where they lived",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_u6_hw_005",
+          "front": "What is the main message of the poem 'Hiawatha'?",
+          "back": "The poem teaches us to love and respect nature. Hiawatha lived in harmony with birds and animals, understanding their ways and learning from them.",
+          "hint": "It is about living with nature",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_scholars_mother_tongue",
+      "name": "The Scholar's Mother Tongue (Story)",
+      "description": "Learn about Birbal's cleverness and the importance of one's mother tongue",
+      "topicId": "gr4_en_6_2",
+      "chapterId": "gr4_eng_ncert_u6",
+      "cards": [
+        {
+          "id": "fc_u6_sm_001",
+          "front": "Who was Birbal?",
+          "back": "Birbal was one of the nine gems (navratnas) in Emperor Akbar's court. He was known for his great wisdom and cleverness.",
+          "hint": "He was in Akbar's court",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_u6_sm_002",
+          "front": "What challenge did Emperor Akbar give to his courtiers?",
+          "back": "Emperor Akbar asked his courtiers to find out the mother tongue of a learned scholar (pandit) who could speak many languages fluently.",
+          "hint": "It was about a scholar who knew many languages",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_u6_sm_003",
+          "front": "Why was it difficult to find the scholar's mother tongue?",
+          "back": "The scholar spoke every language so fluently that no one could tell which was his mother tongue. He spoke each language as if it were his own.",
+          "hint": "He spoke all languages perfectly",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_u6_sm_004",
+          "front": "How did Birbal discover the scholar's mother tongue?",
+          "back": "Birbal went to the scholar's room at night when he was asleep and gently tickled his ear. When startled from sleep, the scholar cried out in his mother tongue!",
+          "hint": "He surprised him while sleeping",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_u6_sm_005",
+          "front": "What lesson does the story teach us?",
+          "back": "The story teaches us that no matter how many languages a person learns, when taken by surprise, they always react in their mother tongue. It shows the deep connection we have with our first language.",
+          "hint": "About the bond with our first language",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_pronouns",
+      "name": "Grammar: Pronouns",
+      "description": "Learn about pronouns and how they replace nouns in sentences",
+      "topicId": "gr4_en_6_3",
+      "chapterId": "gr4_eng_ncert_u6",
+      "cards": [
+        {
+          "id": "fc_u6_pr_001",
+          "front": "What is a pronoun?",
+          "back": "A pronoun is a word that takes the place of a noun. Examples: he, she, it, they, we, I, you. Pronouns help us avoid repeating the same noun again and again.",
+          "hint": "It replaces a noun",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_u6_pr_002",
+          "front": "Replace the noun with a pronoun: 'Birbal was very clever. Birbal solved the puzzle.'",
+          "back": "'Birbal was very clever. He solved the puzzle.' Here, the pronoun 'He' replaces the noun 'Birbal'.",
+          "hint": "Use a pronoun for a boy or man",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_u6_pr_003",
+          "front": "Which pronoun would you use for Hiawatha's grandmother Nokomis?",
+          "back": "We would use 'she' or 'her' for Nokomis because she is a woman. Example: 'Nokomis told Hiawatha many stories. She loved him dearly.'",
+          "hint": "Pronoun for a woman",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_u6_pr_004",
+          "front": "What is the difference between 'he' and 'him'?",
+          "back": "'He' is used when the person is doing the action (subject). 'Him' is used when the action is done to the person (object). Example: 'He solved the puzzle.' vs. 'Akbar praised him.'",
+          "hint": "One does the action, one receives it",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_u6_pr_005",
+          "front": "Choose the correct pronoun: 'The birds sang sweetly. ___ built nests in the trees.'",
+          "back": "'They' is the correct pronoun. 'The birds sang sweetly. They built nests in the trees.' We use 'they' for more than one person, animal, or thing.",
+          "hint": "Pronoun for more than one",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

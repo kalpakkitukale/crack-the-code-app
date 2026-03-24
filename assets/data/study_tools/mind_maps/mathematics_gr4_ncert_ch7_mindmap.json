@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_math_ncert_ch7",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "The Cleanest Village",
+      "description": "Using math to solve real-world community problems",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_community_math",
+      "label": "Math in the Community",
+      "description": "How villages use math every day",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_counting_people",
+      "label": "Counting People",
+      "description": "Adding people from different areas to find the total population",
+      "parentId": "node_community_math",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_managing_money",
+      "label": "Managing Money",
+      "description": "Tracking how the panchayat spends money on roads, wells, dustbins",
+      "parentId": "node_community_math",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_planning_resources",
+      "label": "Planning Resources",
+      "description": "Deciding how many trees, dustbins, lights are needed",
+      "parentId": "node_community_math",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_data_collection",
+      "label": "Data Collection",
+      "description": "Gathering information about the village",
+      "parentId": "node_root",
+      "positionX": 50,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_surveys",
+      "label": "Surveys",
+      "description": "Asking people questions to gather information",
+      "parentId": "node_data_collection",
+      "positionX": -20,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_tables",
+      "label": "Organising in Tables",
+      "description": "Putting data in rows and columns for easy comparison",
+      "parentId": "node_data_collection",
+      "positionX": 80,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_comparing",
+      "label": "Comparing Data",
+      "description": "Finding the most, least, and differences",
+      "parentId": "node_data_collection",
+      "positionX": 180,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_calculations",
+      "label": "Village Calculations",
+      "description": "Using +, -, × to solve village problems",
+      "parentId": "node_root",
+      "positionX": 280,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_addition",
+      "label": "Addition",
+      "description": "Finding totals: houses, trees, people, money",
+      "parentId": "node_calculations",
+      "positionX": 220,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_subtraction",
+      "label": "Subtraction",
+      "description": "Finding what is left or how much more is needed",
+      "parentId": "node_calculations",
+      "positionX": 310,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_multiplication",
+      "label": "Multiplication",
+      "description": "Equal groups: teams of volunteers, trees per family",
+      "parentId": "node_calculations",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_problem_solving",
+      "label": "Problem Solving",
+      "description": "Using data to make decisions for the community",
+      "parentId": "node_root",
+      "positionX": 50,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_multi_step",
+      "label": "Multi-step Problems",
+      "description": "Problems needing more than one operation",
+      "parentId": "node_problem_solving",
+      "positionX": -30,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_real_decisions",
+      "label": "Real Decisions",
+      "description": "Using math to plan budgets, resources, and improvements",
+      "parentId": "node_problem_solving",
+      "positionX": 130,
+      "positionY": 380,
+      "color": "#F48FB1",
+      "orderIndex": 15
+    }
+  ]
+}

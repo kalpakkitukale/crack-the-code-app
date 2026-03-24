@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch20",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_evn20_001",
+      "term": "Meal",
+      "definition": "Food that is prepared and eaten at a particular time of the day, such as breakfast, lunch, or dinner.",
+      "pronunciation": "MEEL",
+      "exampleUsage": "Our family eats the main meal together every evening.",
+      "difficulty": "easy",
+      "relatedTerms": ["food", "breakfast", "dinner"]
+    },
+    {
+      "id": "gls_gr4_evn20_002",
+      "term": "Tradition",
+      "definition": "A custom or way of doing things that has been followed by a family or community for a very long time, passed from parents to children.",
+      "pronunciation": "truh-DISH-un",
+      "exampleUsage": "It is a tradition in our family to eat kheer on birthdays.",
+      "difficulty": "medium",
+      "relatedTerms": ["custom", "culture", "heritage"]
+    },
+    {
+      "id": "gls_gr4_evn20_003",
+      "term": "Feast",
+      "definition": "A large, special meal with many delicious dishes, usually prepared for a celebration or festival.",
+      "pronunciation": "FEEST",
+      "exampleUsage": "The wedding feast had more than twenty different dishes!",
+      "difficulty": "easy",
+      "relatedTerms": ["celebration", "banquet", "festival food"]
+    },
+    {
+      "id": "gls_gr4_evn20_004",
+      "term": "Langar",
+      "definition": "A free community kitchen run in Sikh gurudwaras where food is served to all people equally, regardless of religion, caste, or background.",
+      "pronunciation": "LUNG-ar",
+      "exampleUsage": "Thousands of people eat at the langar in the Golden Temple every day.",
+      "difficulty": "medium",
+      "relatedTerms": ["gurudwara", "community meal", "sharing"]
+    },
+    {
+      "id": "gls_gr4_evn20_005",
+      "term": "Vegetarian",
+      "definition": "A person who does not eat meat, chicken, or fish. They eat vegetables, fruits, grains, milk, and other plant-based foods.",
+      "pronunciation": "vej-ih-TAIR-ee-un",
+      "exampleUsage": "Many families in India are vegetarian and cook delicious meals without meat.",
+      "difficulty": "easy",
+      "relatedTerms": ["plant-based", "food choice", "diet"]
+    },
+    {
+      "id": "gls_gr4_evn20_006",
+      "term": "Spices",
+      "definition": "Dried parts of plants (seeds, bark, roots, or leaves) used to add flavour, colour, and taste to food. India is famous for its spices.",
+      "pronunciation": "SPY-sez",
+      "exampleUsage": "Turmeric, cumin, and chilli are common spices used in Indian cooking.",
+      "difficulty": "easy",
+      "relatedTerms": ["masala", "flavour", "seasoning"]
+    },
+    {
+      "id": "gls_gr4_evn20_007",
+      "term": "Recipe",
+      "definition": "A set of instructions that tells you what ingredients to use and how to cook a particular dish.",
+      "pronunciation": "RES-ih-pee",
+      "exampleUsage": "My grandmother taught me her special recipe for mango pickle.",
+      "difficulty": "easy",
+      "relatedTerms": ["cooking", "ingredients", "method"]
+    },
+    {
+      "id": "gls_gr4_evn20_008",
+      "term": "Staple Food",
+      "definition": "The main food that people in an area eat every day as the biggest part of their meals.",
+      "pronunciation": "STAY-pul FOOD",
+      "exampleUsage": "Rice is the staple food in South India, while wheat (roti) is the staple in North India.",
+      "difficulty": "medium",
+      "relatedTerms": ["main food", "daily food", "basic food"]
+    },
+    {
+      "id": "gls_gr4_evn20_009",
+      "term": "Hospitality",
+      "definition": "The friendly and generous treatment of guests, including offering them food and drinks.",
+      "pronunciation": "hos-pih-TAL-ih-tee",
+      "exampleUsage": "In India, hospitality means always offering food and water to guests who visit your home.",
+      "difficulty": "medium",
+      "relatedTerms": ["welcome", "guest", "generosity"]
+    },
+    {
+      "id": "gls_gr4_evn20_010",
+      "term": "Thali",
+      "definition": "A round plate with small bowls holding different dishes like dal, sabzi, roti, rice, pickle, and sweet. It gives you a complete meal with many flavours.",
+      "pronunciation": "TAH-lee",
+      "exampleUsage": "A Gujarati thali has many small portions of different sweet and salty dishes.",
+      "difficulty": "easy",
+      "relatedTerms": ["plate", "balanced meal", "Indian food"]
+    }
+  ]
+}

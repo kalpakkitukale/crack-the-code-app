@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_math_ncert_ch11",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Fun with Symmetry",
+      "description": "Understanding symmetry, mirror images, and symmetric figures",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_what_is_symmetry",
+      "label": "What is Symmetry?",
+      "description": "When one half of a shape mirrors the other half exactly",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_line_of_symmetry",
+      "label": "Line of Symmetry",
+      "description": "The line that divides a shape into two matching halves",
+      "parentId": "node_what_is_symmetry",
+      "positionX": -280,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_multiple_lines",
+      "label": "One or Many Lines",
+      "description": "Some shapes have 1, 2, 3, 4 or even unlimited lines of symmetry",
+      "parentId": "node_what_is_symmetry",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_mirror_images",
+      "label": "Mirror Images",
+      "description": "Reflections where left and right sides are swapped",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_mirror_line",
+      "label": "Mirror Line",
+      "description": "Place a mirror on the line of symmetry to see the complete shape",
+      "parentId": "node_mirror_images",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_reflection",
+      "label": "Reflections",
+      "description": "The image flips across the line - like a lake reflecting a tree",
+      "parentId": "node_mirror_images",
+      "positionX": 280,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_symmetric_shapes",
+      "label": "Symmetric Shapes",
+      "description": "Shapes and objects that have symmetry",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_shapes_examples",
+      "label": "Common Shapes",
+      "description": "Square (4 lines), rectangle (2 lines), circle (unlimited lines)",
+      "parentId": "node_symmetric_shapes",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_letters_numbers",
+      "label": "Letters & Objects",
+      "description": "Letters like A, M, O, H and objects like kites, rangoli have symmetry",
+      "parentId": "node_symmetric_shapes",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_folding_cutting",
+      "label": "Folding and Cutting",
+      "description": "Fold paper and cut to make symmetric shapes",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 260,
+      "color": "#E91E63",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_fold_test",
+      "label": "Fold Test",
+      "description": "Fold along a line - if both halves match, it is a line of symmetry",
+      "parentId": "node_folding_cutting",
+      "positionX": -350,
+      "positionY": 340,
+      "color": "#F48FB1",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_paper_craft",
+      "label": "Paper Cutting",
+      "description": "Fold paper, draw half a shape, cut and open for a symmetric figure",
+      "parentId": "node_folding_cutting",
+      "positionX": -250,
+      "positionY": 340,
+      "color": "#F48FB1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_symmetry_nature",
+      "label": "Symmetry in Nature",
+      "description": "Symmetry seen in butterflies, leaves, flowers, and the human body",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 260,
+      "color": "#00BCD4",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_nature_examples",
+      "label": "Nature Examples",
+      "description": "Butterfly wings, leaf veins, flower petals, starfish arms",
+      "parentId": "node_symmetry_nature",
+      "positionX": 250,
+      "positionY": 340,
+      "color": "#4DD0E1",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_complete_figure",
+      "label": "Completing Figures",
+      "description": "Draw the mirror half to complete a symmetric figure",
+      "parentId": "node_symmetry_nature",
+      "positionX": 350,
+      "positionY": 340,
+      "color": "#4DD0E1",
+      "orderIndex": 15
+    }
+  ]
+}

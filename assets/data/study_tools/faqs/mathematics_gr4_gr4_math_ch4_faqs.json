@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ch4",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_m4_001",
+      "videoId": "gr4_m4_v1",
+      "question": "What is the easiest way to understand fractions?",
+      "answer": "Think of a pizza! If you cut a pizza into 4 equal slices, each slice is 1/4 of the pizza. If you eat 3 slices, you ate 3/4 of it. The bottom number tells how many slices you cut, and the top number tells how many you have.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_m4_002",
+      "videoId": "gr4_m4_v1",
+      "question": "Why does the denominator have to be about equal parts?",
+      "answer": "Imagine cutting a cake into pieces where one piece is huge and another is tiny. If you said you had 1/4 of the cake, nobody would know how much you actually had! Equal parts make sure everyone agrees on the size of each piece.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_m4_003",
+      "videoId": "gr4_m4_v1",
+      "question": "Is 1/2 bigger than 1/3?",
+      "answer": "Yes! This seems tricky because 3 is bigger than 2, but think about it this way: if you cut a chocolate bar into 2 pieces, each piece is big. If you cut it into 3 pieces, each piece is smaller. So 1/2 is bigger than 1/3. More cuts mean smaller pieces!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_m4_004",
+      "videoId": "gr4_m4_v2",
+      "question": "How do I know if two fractions are equivalent?",
+      "answer": "You can check by simplifying both fractions to their smallest form. If they become the same fraction, they are equivalent! Another way: cross-multiply. For 2/4 and 1/2, check if 2 x 2 = 4 x 1. Since 4 = 4, they are equivalent!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_m4_005",
+      "videoId": "gr4_m4_v2",
+      "question": "Can every fraction be simplified?",
+      "answer": "No, not every fraction can be simplified. A fraction like 3/4 is already in its simplest form because 3 and 4 don't share any common factor other than 1. But 4/8 can be simplified to 1/2 because both 4 and 8 can be divided by 4.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_m4_006",
+      "videoId": "gr4_m4_v3",
+      "question": "Why can't I add the denominators when adding fractions?",
+      "answer": "The denominator tells the size of each piece. When you add 1/4 + 2/4, you are combining pieces that are all the same size (fourths). Adding the denominators would change the size of the pieces, which doesn't make sense. It's like saying 1 apple + 2 apples = 3 fruits-of-a-different-size!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_m4_007",
+      "videoId": "gr4_m4_v3",
+      "question": "What if the answer to adding fractions is bigger than 1?",
+      "answer": "That's perfectly fine! For example, 3/4 + 3/4 = 6/4. This means you have more than one whole. You can write it as a mixed number: 1 and 2/4, which simplifies to 1 and 1/2. It's like having one full pizza and half of another!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_m4_008",
+      "videoId": "gr4_m4_v1",
+      "question": "Where do we use fractions in real life?",
+      "answer": "Fractions are everywhere! When you share food equally with friends, that's fractions. Cooking recipes use 1/2 cup or 1/4 teaspoon. Time uses fractions: half an hour is 30 minutes, a quarter hour is 15 minutes. Even sports scores and batting averages use fractions!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_m4_009",
+      "videoId": "gr4_m4_v2",
+      "question": "What is the difference between a numerator and a denominator?",
+      "answer": "The numerator is the top number - it counts how many parts you have. The denominator is the bottom number - it tells the total number of equal parts. A trick to remember: Denominator starts with 'D' for 'Down' (bottom), and Numerator starts with 'N' for 'Number on top'.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_m4_010",
+      "videoId": "gr4_m4_v3",
+      "question": "Can I add fractions with different denominators?",
+      "answer": "Not directly! First, you need to make the denominators the same by finding equivalent fractions. For example, to add 1/2 + 1/4, change 1/2 to 2/4. Now you can add: 2/4 + 1/4 = 3/4. You'll learn more about this as you practice!",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_math_ncert_ch12",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn12",
+    "title": "Ticking Clocks and Turning Calendar",
+    "content": "This chapter from the NCERT Maths Mela textbook teaches students to read time on a clock and dates on a calendar. Students begin by learning the two hands of a clock - the short hour hand and the long minute hand. They practise reading times in hours and minutes, including special times like o'clock, quarter past, half past, and quarter to. The chapter introduces AM and PM, explaining that a full day has 24 hours split into 12 hours of AM (morning) and 12 hours of PM (afternoon/evening/night). Students learn to calculate elapsed time - how long an activity takes from start to finish. The chapter then moves to the calendar, teaching about 7 days in a week, 12 months in a year, and how many days each month has. Students learn about leap years and use the knuckle trick to remember month lengths. Finally, they apply these skills to real-life scheduling, planning daily routines, counting days between dates, and finding what day a future date falls on.",
+    "keyPoints": [
+      "The short hand shows hours and the long hand shows minutes on a clock",
+      "Each number on the clock represents 5 minutes for the minute hand",
+      "Quarter past = 15 min, half past = 30 min, quarter to = 45 min",
+      "AM is morning (midnight to noon), PM is afternoon/evening (noon to midnight)",
+      "A full day has 24 hours; 1 hour = 60 minutes",
+      "Elapsed time is the time that passes between start and end",
+      "A week has 7 days, a year has 12 months, most years have 365 days",
+      "A leap year has 366 days and comes every 4 years"
+    ],
+    "learningObjectives": [
+      "Read time on an analogue clock in hours and minutes",
+      "Understand and use AM, PM, quarter past, half past, and quarter to",
+      "Calculate elapsed time between two given times",
+      "Read a calendar and find the day for any given date",
+      "Know the number of days in each month and identify leap years",
+      "Use time and calendar skills for daily planning and scheduling"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn12_001",
+      "title": "Clock Reading Practice at Home",
+      "content": "Pick three times during the day - maybe breakfast time, homework time, and bedtime. Each day, look at a wall clock or table clock (not a digital one!) and read the time. Write it down in your notebook like this: 'Breakfast - 7:30 AM'. After a week of practice, you will be able to read the clock quickly. Also try this: ask a family member to set a time on the clock and you tell them what time it shows. Then swap roles!",
+      "tags": ["activity", "hands-on-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn12_002",
+      "title": "The Knuckle Trick for Months",
+      "content": "Make a fist with your left hand. Starting from the first knuckle (near your wrist), count the months. Every knuckle is a month with 31 days, and every dip is a month with 30 days (except February which has 28 or 29). Knuckle = Jan (31), dip = Feb (28/29), knuckle = Mar (31), dip = Apr (30), knuckle = May (31), dip = Jun (30), knuckle = Jul (31). Now go back to the first knuckle: Aug (31), dip = Sep (30), knuckle = Oct (31), dip = Nov (30), knuckle = Dec (31). Try it now!",
+      "tags": ["study-tip", "memory-trick"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn12_003",
+      "title": "Make Your Own Weekly Planner",
+      "content": "Take a sheet of paper and draw a table with 7 columns (one for each day of the week). Write the day names on top. Now fill in your activities for each day with their times: school (8:00 AM - 2:00 PM), lunch (2:30 PM), homework (4:00 PM - 5:00 PM), play time (5:30 PM - 6:30 PM), dinner (8:00 PM), bedtime (9:30 PM). Calculate how many hours you spend on each activity. This is a great way to practise both clock time and calendar skills!",
+      "tags": ["activity", "real-world"],
+      "isPinned": false
+    }
+  ]
+}

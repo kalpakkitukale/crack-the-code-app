@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ch2",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_h2_001",
+      "term": "संज्ञा (Sangya)",
+      "definition": "किसी व्यक्ति, वस्तु, स्थान या भाव के नाम को संज्ञा कहते हैं। A Sangya is a noun - the name of a person, place, thing, or feeling.",
+      "pronunciation": "SANG-yaa",
+      "exampleUsage": "राम, दिल्ली, किताब, खुशी - ये सब संज्ञा हैं। (Ram, Delhi, book, happiness are all Sangya)",
+      "difficulty": "easy",
+      "relatedTerms": ["noun", "vyakti vachak sangya", "jativachak sangya", "bhav vachak sangya"]
+    },
+    {
+      "id": "gls_gr4_h2_002",
+      "term": "सर्वनाम (Sarvanam)",
+      "definition": "संज्ञा के स्थान पर प्रयोग होने वाले शब्दों को सर्वनाम कहते हैं। A Sarvanam is a pronoun - a word used in place of a noun.",
+      "pronunciation": "SAR-va-naam",
+      "exampleUsage": "राम अच्छा लड़का है। वह पढ़ाई में होशियार है। ('वह' सर्वनाम है - 'Vah' is the pronoun replacing Ram)",
+      "difficulty": "easy",
+      "relatedTerms": ["pronoun", "sangya", "purushvachak sarvanam"]
+    },
+    {
+      "id": "gls_gr4_h2_003",
+      "term": "व्यक्तिवाचक संज्ञा (Vyakti Vachak Sangya)",
+      "definition": "जो शब्द किसी एक विशेष व्यक्ति, स्थान या वस्तु का नाम बताए, वह व्यक्तिवाचक संज्ञा है। It is a Proper Noun - the special name of a particular person, place, or thing.",
+      "pronunciation": "VYAK-ti VAA-chak SANG-yaa",
+      "exampleUsage": "गंगा भारत की प्रसिद्ध नदी है। (Ganga and Bharat are Vyakti Vachak Sangya - proper nouns)",
+      "difficulty": "easy",
+      "relatedTerms": ["sangya", "proper noun", "jativachak sangya"]
+    },
+    {
+      "id": "gls_gr4_h2_004",
+      "term": "जातिवाचक संज्ञा (Jativachak Sangya)",
+      "definition": "जो शब्द किसी पूरी जाति या वर्ग का बोध कराए, वह जातिवाचक संज्ञा है। It is a Common Noun - a general name for a whole class or type.",
+      "pronunciation": "JAA-ti-VAA-chak SANG-yaa",
+      "exampleUsage": "लड़का स्कूल जा रहा है। ('लड़का' और 'स्कूल' जातिवाचक संज्ञा हैं - boy and school are common nouns)",
+      "difficulty": "easy",
+      "relatedTerms": ["sangya", "common noun", "vyakti vachak sangya"]
+    },
+    {
+      "id": "gls_gr4_h2_005",
+      "term": "भाववाचक संज्ञा (Bhav Vachak Sangya)",
+      "definition": "जो शब्द किसी भाव, गुण, दशा या क्रिया का बोध कराए, वह भाववाचक संज्ञा है। It is an Abstract Noun - the name of a feeling, quality, or state that cannot be touched.",
+      "pronunciation": "BHAAV VAA-chak SANG-yaa",
+      "exampleUsage": "ईमानदारी सबसे अच्छा गुण है। ('ईमानदारी' भाववाचक संज्ञा है - honesty is an abstract noun)",
+      "difficulty": "medium",
+      "relatedTerms": ["sangya", "abstract noun", "guna", "bhav"]
+    },
+    {
+      "id": "gls_gr4_h2_006",
+      "term": "पुरुषवाचक सर्वनाम (Purushvachak Sarvanam)",
+      "definition": "जो सर्वनाम किसी व्यक्ति के लिए प्रयोग हो, वह पुरुषवाचक सर्वनाम है। It is a Personal Pronoun - used for people. Three types: उत्तम पुरुष (first person: मैं, हम), मध्यम पुरुष (second person: तुम, आप), अन्य पुरुष (third person: वह, वे).",
+      "pronunciation": "PU-rush-VAA-chak SAR-va-naam",
+      "exampleUsage": "मैं खेल रहा हूँ। तुम पढ़ रहे हो। वह सो रहा है। (I, you, he - all are personal pronouns)",
+      "difficulty": "medium",
+      "relatedTerms": ["sarvanam", "personal pronoun", "uttam purush", "madhyam purush"]
+    },
+    {
+      "id": "gls_gr4_h2_007",
+      "term": "निश्चयवाचक सर्वनाम (Nishchay Vachak Sarvanam)",
+      "definition": "जो सर्वनाम किसी निश्चित व्यक्ति या वस्तु की ओर संकेत करे, वह निश्चयवाचक सर्वनाम है। It is a Demonstrative Pronoun - it points to a definite person or thing.",
+      "pronunciation": "NISH-chay VAA-chak SAR-va-naam",
+      "exampleUsage": "यह मेरी किताब है। वह तुम्हारा बस्ता है। ('यह' and 'वह' are demonstrative pronouns - this and that)",
+      "difficulty": "medium",
+      "relatedTerms": ["sarvanam", "demonstrative pronoun", "yah", "vah"]
+    },
+    {
+      "id": "gls_gr4_h2_008",
+      "term": "प्रश्नवाचक सर्वनाम (Prashnavachak Sarvanam)",
+      "definition": "जो सर्वनाम प्रश्न पूछने के लिए प्रयोग हो, वह प्रश्नवाचक सर्वनाम है। It is an Interrogative Pronoun - used to ask questions.",
+      "pronunciation": "PRASH-na-VAA-chak SAR-va-naam",
+      "exampleUsage": "कौन आया है? क्या हो रहा है? ('कौन' and 'क्या' are interrogative pronouns - who and what)",
+      "difficulty": "medium",
+      "relatedTerms": ["sarvanam", "interrogative pronoun", "kaun", "kya"]
+    },
+    {
+      "id": "gls_gr4_h2_009",
+      "term": "समूहवाचक संज्ञा (Samuh Vachak Sangya)",
+      "definition": "जो शब्द किसी समूह या झुंड का बोध कराए, वह समूहवाचक संज्ञा है। It is a Collective Noun - the name of a group or collection.",
+      "pronunciation": "SA-mooh VAA-chak SANG-yaa",
+      "exampleUsage": "पक्षियों का झुंड आकाश में उड़ रहा है। ('झुंड' समूहवाचक संज्ञा है - flock is a collective noun)",
+      "difficulty": "medium",
+      "relatedTerms": ["sangya", "collective noun", "jhund", "samooh"]
+    },
+    {
+      "id": "gls_gr4_h2_010",
+      "term": "अनिश्चयवाचक सर्वनाम (Anishchay Vachak Sarvanam)",
+      "definition": "जो सर्वनाम किसी निश्चित व्यक्ति या वस्तु का बोध न कराए, वह अनिश्चयवाचक सर्वनाम है। It is an Indefinite Pronoun - it does not point to any definite person or thing.",
+      "pronunciation": "A-NISH-chay VAA-chak SAR-va-naam",
+      "exampleUsage": "कोई आया है। कुछ लोग बाहर खड़े हैं। ('कोई' and 'कुछ' are indefinite pronouns - someone and some)",
+      "difficulty": "medium",
+      "relatedTerms": ["sarvanam", "indefinite pronoun", "koi", "kuch"]
+    }
+  ]
+}

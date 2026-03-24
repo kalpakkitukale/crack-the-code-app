@@ -1,0 +1,471 @@
+{
+  "algorithmId": "rec_gr4_m1_t3",
+  "topicId": "gr4_m_1_3",
+  "topicName": "Comparing and Ordering Large Numbers",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for comparing and ordering 5-digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent comparison and ordering skills with 4-digit numbers, can fast-track to 5-digit with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2220,
+      "videoSequence": [
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Introduction to comparing 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v2",
+          "reason": "Worked examples for comparison",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Comparing with zeros - critical skill",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v4",
+          "reason": "Ascending order",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v5",
+          "reason": "Descending order",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v7",
+          "reason": "Challenge: 6-digit numbers preview",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of comparing and ordering 5-digit numbers",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2250,
+      "videoSequence": [
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Introduction to comparing 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v2",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Comparing with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v4",
+          "reason": "Ascending order",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v5",
+          "reason": "Descending order",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v6",
+          "reason": "Mixed practice problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in comparing/ordering 4-digit numbers, needs targeted review before 5-digit",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 10
+      },
+      "estimatedTime": 2660,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "comparing_4digit_weak": {
+            "addVideos": ["prereq_comp4_v1", "prereq_comp4_v2"],
+            "priority": "high"
+          },
+          "ordering_basics_weak": {
+            "addVideos": ["prereq_order_v1"],
+            "priority": "high"
+          },
+          "pv_comparison_weak": {
+            "addVideos": ["prereq_pv_comp_v1"],
+            "priority": "high"
+          },
+          "comparison_symbols_weak": {
+            "addVideos": ["prereq_symbols_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_comp4_v1",
+          "reason": "Review: Comparing 4-digit numbers",
+          "skippable": false,
+          "condition": "if comparing_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_comp4_v2",
+          "reason": "Review: Comparing with zeros",
+          "skippable": false,
+          "condition": "if comparing_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_order_v1",
+          "reason": "Review: Ordering basics (ascending/descending)",
+          "skippable": false,
+          "condition": "if ordering_basics concept is weak"
+        },
+        {
+          "videoId": "prereq_pv_comp_v1",
+          "reason": "Review: Using place value to compare",
+          "skippable": false,
+          "condition": "if pv_comparison concept is weak"
+        },
+        {
+          "videoId": "prereq_symbols_v1",
+          "reason": "Review: Comparison symbols",
+          "skippable": false,
+          "condition": "if comparison_symbols concept is weak"
+        },
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Start main topic: Comparing 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v2",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Comparing with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v4",
+          "reason": "Ascending order",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v5",
+          "reason": "Descending order",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of comparing and ordering 4-digit numbers before attempting 5-digit",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2340,
+      "videoSequence": [
+        {
+          "videoId": "prereq_comp4_v1",
+          "reason": "Foundation: Comparing 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_comp4_v2",
+          "reason": "Essential: Comparing with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_order_v1",
+          "reason": "Critical: Ordering basics",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv_comp_v1",
+          "reason": "Important: Place value comparison method",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_symbols_v1",
+          "reason": "Prepare: Comparison symbols",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Gentle intro to comparing 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v4",
+          "reason": "Gentle intro to ordering 5-digit numbers",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with comparing and ordering 5-digit numbers."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "comparing_4digit": {
+        "conceptName": "Comparing 4-digit numbers using >, <, =",
+        "importance": "critical",
+        "videoIds": ["prereq_comp4_v1", "prereq_comp4_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "ordering_basics": {
+        "conceptName": "Ordering numbers in ascending and descending order",
+        "importance": "critical",
+        "videoIds": ["prereq_order_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "pv_comparison": {
+        "conceptName": "Using place value to compare numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_pv_comp_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "comparison_symbols": {
+        "conceptName": "Understanding and using comparison symbols",
+        "importance": "important",
+        "videoIds": ["prereq_symbols_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_comp_v3",
+        "checkpointName": "Comparing 5-Digit Numbers Mastery",
+        "questions": [
+          {
+            "question": "Which symbol makes this true? 30,050 ___ 30,500",
+            "options": ["<", ">", "="],
+            "correctAnswer": 0,
+            "explanation": "Compare hundreds place: 0 < 5, so 30,050 < 30,500."
+          },
+          {
+            "question": "Which number is greater: 56,789 or 56,890?",
+            "options": ["56,789", "56,890", "Equal"],
+            "correctAnswer": 1,
+            "explanation": "Compare hundreds: 7 < 8, so 56,890 is greater."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You can compare 5-digit numbers correctly."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_comp4_v1",
+          "reason": "Student struggling with comparison"
+        }
+      },
+      {
+        "afterVideoId": "gr4_comp_v5",
+        "checkpointName": "Ordering Numbers Mastery",
+        "questions": [
+          {
+            "question": "Arrange in ascending order: 45,678; 45,234; 45,890",
+            "options": [
+              "45,234; 45,678; 45,890",
+              "45,890; 45,678; 45,234",
+              "45,678; 45,234; 45,890"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Ascending means smallest to largest. Compare hundreds: 2 < 6 < 8."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_comp_v7",
+          "reason": "Student ready for 6-digit numbers"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice ordering more numbers before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip mixed practice, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on comparison basics"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing with parent/teacher using flashcards or comparison games"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You can compare and order 4-digit numbers confidently. You're ready to learn 5-digit comparison and ordering. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand comparing and ordering. Let's extend these skills to 5-digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in comparing or ordering numbers. Don't worry! We'll start with targeted review videos on the concepts you need, then move to 5-digit numbers."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review comparing and ordering 4-digit numbers first. We've created a playlist focused on building strong foundation. After watching, you can retake the quiz and then learn 5-digit skills."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how comparing and ordering skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Basic comparison (2-3 digits)", "Understanding >, <, ="],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Comparing 4-digit numbers", "Ordering basics (ascending/descending)", "Place value comparison"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Comparing 5-digit numbers", "Systematic left-to-right method", "Handling zeros"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Ordering 5-digit numbers", "Ascending and descending order", "Multiple number ordering"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Comparing 6-digit (lakhs)", "Complex ordering problems", "Real-world applications"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "comparisonAccuracy": {
+      "target": 90,
+      "description": "% of students who can correctly compare 5-digit numbers"
+    },
+    "orderingAccuracy": {
+      "target": 85,
+      "description": "% of students who can correctly order 3-4 numbers in ascending/descending"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (25 min) = 65-75 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students comparing from right to left instead of left to right",
+      "solution1": "Emphasize starting from highest place value, use visual place value charts",
+      "challenge2": "Students confusing ascending and descending order",
+      "solution2": "Use memory aids: ascending = going up (like climbing), descending = going down",
+      "challenge3": "Students making errors with zeros in comparison",
+      "solution3": "Reinforce that 0 is less than any other digit, practice with multiple zero examples"
+    }
+  }
+}

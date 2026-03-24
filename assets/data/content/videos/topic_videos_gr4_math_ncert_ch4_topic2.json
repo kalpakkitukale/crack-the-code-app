@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn4_t2",
+  "topicId": "gr4_mn_4_2",
+  "topicName": "Reading and Writing Large Numbers",
+  "chapterId": "gr4_math_ncert_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1530,
+    "totalDurationDisplay": "25:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_4_1"],
+    "followUpTopics": ["gr4_mn_4_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn4_v2",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Reading and Writing 4 and 5 Digit Numbers",
+      "description": "Learn how to read and write large numbers with 4 and 5 digits. Practice saying numbers in words and writing them in numerals using the Indian number system.",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+      "tags": ["reading numbers", "writing numbers", "5-digit", "number names", "Indian system"],
+      "learningObjectives": ["Read 4 and 5 digit numbers aloud correctly", "Write numbers in words", "Convert number names to numerals"],
+      "keyConceptsCovered": ["Reading numbers using place value", "Writing number names", "Indian number system for large numbers"],
+      "prerequisites": ["5-digit place value"],
+      "followUpTopics": ["Expanded form", "Comparing large numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v3",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Expanded Form of Large Numbers",
+      "description": "Understand expanded form of 4 and 5 digit numbers. Break numbers like 45,328 into 40,000 + 5,000 + 300 + 20 + 8 and learn how each digit has a different value.",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 680000,
+      "tags": ["expanded form", "large numbers", "place value breakdown"],
+      "learningObjectives": ["Write 5-digit numbers in expanded form", "Convert expanded form back to standard form", "Understand why expanded form shows place value clearly"],
+      "keyConceptsCovered": ["Breaking numbers into place value components", "40,000 + 5,000 + 300 + 20 + 8 = 45,328", "Relationship between expanded and standard forms"],
+      "prerequisites": ["5-digit place value", "Reading large numbers"],
+      "followUpTopics": ["All forms of numbers", "Comparing numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v6",
+      "sequenceNumber": 3,
+      "type": "practice",
+      "importance": "must_watch",
+      "title": "Place Value Practice | All Forms of 5-Digit Numbers",
+      "description": "Practice writing 5-digit numbers in standard form, expanded form, and word form. Strengthen your understanding of place value with plenty of examples and exercises.",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 550000,
+      "tags": ["practice", "all forms", "5-digit", "standard form", "expanded form", "word form"],
+      "learningObjectives": ["Fluently convert between standard, expanded, and word forms", "Identify errors in written number forms", "Build speed and confidence with large numbers"],
+      "keyConceptsCovered": ["Standard form practice", "Expanded form practice", "Word form practice", "Converting between all three forms"],
+      "prerequisites": ["Reading and writing large numbers", "Expanded form"],
+      "followUpTopics": ["Comparing and ordering numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch4_placevalue_v1",
+      "sequenceNumber": 4,
+      "type": "application",
+      "importance": "optional",
+      "title": "3-Digit Place Value Review",
+      "description": "Review place value for 3-digit numbers. Understand the ones, tens, and hundreds places and how each digit's position determines its value.",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1400000,
+      "tags": ["place value", "3-digit numbers", "review", "foundation"],
+      "learningObjectives": ["Review 3-digit place value as foundation", "Connect 3-digit expanded form to 5-digit expanded form"],
+      "keyConceptsCovered": ["3-digit place value review", "Bridge to understanding larger number forms"],
+      "prerequisites": ["Counting to 100"],
+      "followUpTopics": ["5-digit place value"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn4_v2", "gr4_mn4_v3", "gr4_mn4_v6"],
+      "totalVideos": 3,
+      "estimatedTime": 1170,
+      "estimatedTimeDisplay": "19:30",
+      "rationale": "Core reading, writing, and expanded form for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn4_v2", "gr4_mn4_v3", "gr4_mn4_v6", "prereq_ch4_placevalue_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1530,
+      "estimatedTimeDisplay": "25:30",
+      "rationale": "Complete coverage of reading and writing with place value review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch4_placevalue_v1", "gr4_mn4_v2", "gr4_mn4_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1110,
+      "estimatedTimeDisplay": "18:30",
+      "rationale": "Start with place value review, then reading and expanded form"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn4_v2", "gr4_mn4_v3"],
+      "totalVideos": 2,
+      "estimatedTime": 750,
+      "estimatedTimeDisplay": "12:30",
+      "rationale": "Essential reading and expanded form only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn4_v3",
+      "checkpointName": "Reading and Expanded Form Check",
+      "questions": [
+        {
+          "question": "What is the expanded form of 72,405?",
+          "options": ["70,000 + 2,000 + 400 + 5", "72,000 + 405", "7 + 2 + 4 + 0 + 5", "70,000 + 2,000 + 400 + 0 + 5"],
+          "correctAnswer": 0,
+          "explanation": "72,405 = 70,000 + 2,000 + 400 + 0 + 5. Since the tens digit is 0, we can also write it as 70,000 + 2,000 + 400 + 5."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Have students practise reading large numbers aloud in class. Use number cards to build 5-digit numbers and ask students to read them and write the expanded form on the board.",
+    "parentGuidance": "Look at large numbers in newspapers, bills, or price tags together. Ask your child to read them aloud and write them in expanded form.",
+    "studentGuidance": "Reading big numbers is like reading a sentence. Break the number into groups and read each group. Practice with numbers you see every day!"
+  }
+}

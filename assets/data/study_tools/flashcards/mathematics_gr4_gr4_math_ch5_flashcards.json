@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ch5",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_m5_lines",
+      "name": "Lines and Angles",
+      "description": "Learn about different types of lines and angles around you",
+      "topicId": "gr4_m_5_1",
+      "chapterId": "gr4_math_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_m5_001",
+          "front": "What is a line segment?",
+          "back": "A straight path that connects two points. It has a starting point and an ending point.",
+          "hint": "Think of the edge of your ruler",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m5_002",
+          "front": "What is a ray?",
+          "back": "A straight path that starts at one point and goes on forever in one direction.",
+          "hint": "Think of a flashlight beam - it starts at the torch and keeps going",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m5_003",
+          "front": "What is a right angle?",
+          "back": "An angle that measures exactly 90 degrees. It looks like the corner of a book or a door.",
+          "hint": "Look at the corner of your notebook",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m5_004",
+          "front": "What are parallel lines?",
+          "back": "Two lines that run side by side and never meet, no matter how far you extend them.",
+          "hint": "Think of railway tracks",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m5_005",
+          "front": "What are perpendicular lines?",
+          "back": "Two lines that meet at a right angle (90 degrees), forming an L shape or a plus (+) shape.",
+          "hint": "Think of the corner where two walls meet",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m5_triangles",
+      "name": "Triangles",
+      "description": "Explore the different types of triangles and their special features",
+      "topicId": "gr4_m_5_2",
+      "chapterId": "gr4_math_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_m5_006",
+          "front": "How many sides and angles does a triangle have?",
+          "back": "A triangle always has 3 sides and 3 angles.",
+          "hint": "The word 'tri' means three",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m5_007",
+          "front": "What is an equilateral triangle?",
+          "back": "A triangle where all 3 sides are equal in length and all 3 angles are equal (60 degrees each).",
+          "hint": "Equal + lateral means equal sides",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m5_008",
+          "front": "What is an isosceles triangle?",
+          "back": "A triangle that has exactly 2 sides of equal length. The two angles opposite those sides are also equal.",
+          "hint": "Think of a slice of pizza - two edges are the same length",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m5_009",
+          "front": "What is a scalene triangle?",
+          "back": "A triangle where all 3 sides are different lengths and all 3 angles are different.",
+          "hint": "Scalene means unequal - nothing matches",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m5_010",
+          "front": "What do all the angles of a triangle add up to?",
+          "back": "The three angles of any triangle always add up to 180 degrees.",
+          "hint": "It is the same as two right angles put together",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m5_quads",
+      "name": "Quadrilaterals",
+      "description": "Discover four-sided shapes and what makes each one special",
+      "topicId": "gr4_m_5_3",
+      "chapterId": "gr4_math_ch5",
+      "cards": [
+        {
+          "id": "card_gr4_m5_011",
+          "front": "What is a quadrilateral?",
+          "back": "Any shape that has exactly 4 sides and 4 angles. 'Quad' means four.",
+          "hint": "Look around your classroom - many objects have four sides",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m5_012",
+          "front": "What is special about a rectangle?",
+          "back": "A rectangle has 4 sides with 4 right angles (90 degrees each). Opposite sides are equal and parallel.",
+          "hint": "Think of a door or a book cover",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m5_013",
+          "front": "What is special about a square?",
+          "back": "A square has 4 equal sides and 4 right angles. It is a special type of rectangle.",
+          "hint": "Think of a chessboard tile - all sides are the same",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m5_014",
+          "front": "What is a parallelogram?",
+          "back": "A four-sided shape where opposite sides are equal in length and parallel to each other.",
+          "hint": "Imagine pushing a rectangle sideways so it leans over",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m5_015",
+          "front": "What is a rhombus?",
+          "back": "A four-sided shape where all 4 sides are equal in length. It looks like a tilted square.",
+          "hint": "Think of a diamond shape on a playing card",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

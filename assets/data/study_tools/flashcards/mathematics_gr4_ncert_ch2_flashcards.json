@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ncert_ch2",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn2_views",
+      "name": "Views of Objects",
+      "description": "Learn how objects look different from the top, front, and side",
+      "topicId": "gr4_mn_2_1",
+      "chapterId": "gr4_math_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_mn2_001",
+          "front": "What is the top view of an object?",
+          "back": "The top view is what an object looks like when you look at it from directly above, as if you are a bird flying over it. For example, the top view of a glass is a circle.",
+          "hint": "Imagine you are standing on a tall ladder and looking down",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn2_002",
+          "front": "What is the front view of an object?",
+          "back": "The front view is what you see when you look at an object straight from the front, at eye level. For example, the front view of a book standing up is a rectangle.",
+          "hint": "Stand in front of the object and look straight at it",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn2_003",
+          "front": "What is the side view of an object?",
+          "back": "The side view is what you see when you look at an object from the left or right side. For example, the side view of a car is different from its front view. A cup from the side looks different than from the top.",
+          "hint": "Walk to the side of the object and look at it",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn2_004",
+          "front": "What does a cricket ball look like from the top, front, and side?",
+          "back": "A cricket ball looks like a circle from the top, the front, AND the side! Since a ball is a sphere (round from every direction), all its views are the same - a circle.",
+          "hint": "Think about the shape of a ball - does it change when you turn it?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn2_005",
+          "front": "Why do the top, front, and side views of the same object look different?",
+          "back": "Most objects have different shapes on different sides. A tiffin box from the top looks like a rectangle, but from the front it looks like a thinner rectangle. Only a sphere (ball) looks the same from every direction.",
+          "hint": "Pick up a book and look at it from the top, then from the front",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn2_grids",
+      "name": "Grid Positions",
+      "description": "Learn how to read and describe positions on a grid using rows and columns",
+      "topicId": "gr4_mn_2_2",
+      "chapterId": "gr4_math_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_mn2_006",
+          "front": "What is a grid?",
+          "back": "A grid is a pattern of horizontal and vertical lines that cross each other to make small squares or boxes. A chessboard, a calendar, and graph paper are all examples of grids.",
+          "hint": "Think of the squares on a chessboard",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn2_007",
+          "front": "What are rows and columns on a grid?",
+          "back": "Rows go from left to right (horizontal, like lines in your notebook). Columns go from top to bottom (vertical, like pillars of a building). We use rows and columns to find any position on a grid.",
+          "hint": "Rows are sleeping (lying down) and columns are standing up",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn2_008",
+          "front": "How do you describe the position of a square on a grid?",
+          "back": "You say the column letter first and then the row number. For example, B3 means column B, row 3. It is like giving an address for the square on the grid!",
+          "hint": "Think of it like seat numbers in a cinema - row and column",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn2_009",
+          "front": "In a game of Battleship, why are grids useful?",
+          "back": "Grids help us find exact positions. In Battleship, you say a position like C4 to guess where a ship is. Without a grid, you cannot describe exactly where something is placed.",
+          "hint": "Grids help us point to exact spots, like giving an address",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn2_010",
+          "front": "If a cat is at position D2 on a grid, what does that tell you?",
+          "back": "It tells you the cat is in column D and row 2. You go along to column D first, then go up to row 2. That is the exact spot where the cat is sitting on the grid.",
+          "hint": "First find the column (letter), then the row (number)",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn2_maps",
+      "name": "Reading Maps and Spatial Reasoning",
+      "description": "Learn to read simple maps and think about space and direction",
+      "topicId": "gr4_mn_2_3",
+      "chapterId": "gr4_math_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_mn2_011",
+          "front": "What is a simple map?",
+          "back": "A simple map is a drawing that shows where things are located, seen from the top. It shows buildings, roads, and landmarks from a bird's-eye view. A map of your school would show classrooms, the playground, and the gate as seen from above.",
+          "hint": "Imagine looking down at your school from an aeroplane",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn2_012",
+          "front": "What does a map show that a photograph does not?",
+          "back": "A map shows things from the top (bird's-eye view), so you can see the layout and positions of places. A photograph shows things from the front or side. A map helps you find directions, but a photo shows you how things really look.",
+          "hint": "Think about a photo of your school versus a map of your school",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn2_013",
+          "front": "What are the four main directions on a map?",
+          "back": "North (up), South (down), East (right), and West (left). On most maps, North is at the top. You can remember them as: Never Eat Soggy Waffles (going clockwise: North, East, South, West).",
+          "hint": "The sun rises in the East and sets in the West",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn2_014",
+          "front": "If you are facing North, which direction is on your right?",
+          "back": "East is on your right. If you face North: East is right, West is left, and South is behind you. Try standing up and facing North to check!",
+          "hint": "Think of the compass: N-E-S-W going clockwise",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn2_015",
+          "front": "What is spatial reasoning?",
+          "back": "Spatial reasoning means thinking about shapes, positions, and directions in your mind. When you imagine what a box looks like from behind, or plan a route on a map, or guess what a folded paper will look like when opened, you are using spatial reasoning!",
+          "hint": "It is the ability to picture things in your mind from different angles",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

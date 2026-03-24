@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ch3",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_ev3_001",
+      "term": "Tree",
+      "definition": "A tall plant with a thick, strong, woody trunk and many branches. Trees can grow very tall and live for many years.",
+      "pronunciation": "TREE",
+      "exampleUsage": "The mango tree in our garden gives us shade and fruit.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev3_002",
+      "term": "Shrub",
+      "definition": "A medium-sized plant with many thin, woody stems branching out near the ground. Shrubs are shorter than trees.",
+      "pronunciation": "SHRUB",
+      "exampleUsage": "The rose shrub in our park has beautiful red flowers.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev3_003",
+      "term": "Herb",
+      "definition": "A small plant with a soft, green stem. Herbs usually live for only one or two seasons.",
+      "pronunciation": "URB",
+      "exampleUsage": "Mint is a herb that we use to make chutney.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev3_004",
+      "term": "Climber",
+      "definition": "A plant that grows upward by holding onto a support like a wall, fence, or stick.",
+      "pronunciation": "KLY-mer",
+      "exampleUsage": "The money plant is a climber that grows along the wall.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev3_005",
+      "term": "Creeper",
+      "definition": "A plant with a weak stem that grows along the ground and spreads sideways.",
+      "pronunciation": "KREE-per",
+      "exampleUsage": "The pumpkin is a creeper that spreads its vines on the ground.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev3_006",
+      "term": "Medicinal Plant",
+      "definition": "A plant that is used to treat illnesses or keep us healthy. These plants have healing properties.",
+      "pronunciation": "meh-DIH-sih-nul plant",
+      "exampleUsage": "Tulsi is a medicinal plant used to cure cough and cold.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev3_007",
+      "term": "Oxygen",
+      "definition": "A gas that plants release into the air. All living things need oxygen to breathe and stay alive.",
+      "pronunciation": "OK-sih-jen",
+      "exampleUsage": "Plants give us oxygen which we need to breathe.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev3_008",
+      "term": "Soil Erosion",
+      "definition": "The washing away or blowing away of the top layer of soil. Plant roots help prevent soil erosion.",
+      "pronunciation": "SOYL ih-ROH-zhun",
+      "exampleUsage": "Planting more trees helps stop soil erosion near the river.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev3_009",
+      "term": "Trunk",
+      "definition": "The thick, strong, main stem of a tree. The trunk supports the branches and leaves of the tree.",
+      "pronunciation": "TRUNGK",
+      "exampleUsage": "The trunk of the banyan tree is very thick and strong.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev3_010",
+      "term": "Wood Pulp",
+      "definition": "A soft material made from wood that is used to make paper. Trees are cut and their wood is turned into pulp.",
+      "pronunciation": "WOOD PULP",
+      "exampleUsage": "Paper is made from wood pulp, so we should save paper to save trees.",
+      "difficulty": "medium"
+    }
+  ]
+}

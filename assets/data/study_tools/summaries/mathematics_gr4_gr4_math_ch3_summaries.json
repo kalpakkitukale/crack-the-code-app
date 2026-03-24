@@ -1,0 +1,72 @@
+{
+  "chapterId": "gr4_math_ch3",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_m3_v1",
+      "videoId": "gr4_m3_v1",
+      "content": "This lesson covers multiplication tables from 2 to 12. Multiplication is a fast way of adding the same number many times. For example, 4 x 6 means adding 4 six times, which gives 24. The video shows patterns that help remember tables, like all multiples of 5 ending in 0 or 5, and all multiples of 10 ending in 0.",
+      "keyPoints": [
+        "Multiplication is repeated addition",
+        "The order of numbers does not change the answer (3 x 5 = 5 x 3)",
+        "Any number multiplied by 0 is 0",
+        "Any number multiplied by 1 stays the same",
+        "Patterns in tables help you remember them faster"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m3_v2",
+      "videoId": "gr4_m3_v2",
+      "content": "This lesson teaches long multiplication for multiplying larger numbers. The key idea is to break a big number into smaller parts. To multiply 45 x 3, first multiply 5 x 3 = 15, write down 5 and carry 1. Then multiply 4 x 3 = 12, add the carried 1 to get 13. The answer is 135. The video also covers multiplying by two-digit numbers using two rows.",
+      "keyPoints": [
+        "Break big numbers into ones and tens",
+        "Start multiplying from the ones place",
+        "Carry over when the product is 10 or more",
+        "Multiplying by 10 means adding a zero at the end",
+        "For two-digit multipliers, add the results of two rows"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m3_v3",
+      "videoId": "gr4_m3_v3",
+      "content": "This lesson explains division and what happens when numbers don't divide evenly. Division means sharing equally. When you divide 17 by 5, you get 3 groups of 5 (which is 15) with 2 left over. The 2 is called the remainder. The video teaches the names of each part: dividend (the number being divided), divisor (the number you divide by), quotient (the answer), and remainder (what's left).",
+      "keyPoints": [
+        "Division is sharing equally or making equal groups",
+        "Remainder is what is left after equal sharing",
+        "The remainder is always less than the divisor",
+        "Multiplication and division are inverse operations",
+        "Knowing times tables makes division easier"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m3_v4",
+      "videoId": "gr4_m3_v4",
+      "content": "This lesson uses real-life examples to show how multiplication and division are used every day. If you buy 4 packs of pencils with 6 pencils in each pack, you use multiplication to find the total: 4 x 6 = 24 pencils. If you have 30 stickers and want to share them equally among 5 friends, you use division: 30 ÷ 5 = 6 stickers each.",
+      "keyPoints": [
+        "Multiplication helps find totals for equal groups",
+        "Division helps share things fairly",
+        "Word problems require choosing the right operation",
+        "Look for clues: 'each', 'total', 'share equally', 'how many groups'",
+        "Always check your answer using the opposite operation"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_m3_v5",
+      "videoId": "gr4_m3_v5",
+      "content": "This lesson focuses on tricks and shortcuts for multiplication. Multiplying by 9 has a finger trick: hold down the finger matching the number you multiply by 9, and the fingers on each side give the answer. The doubles strategy helps too: to find 6 x 8, think of it as double 3 x 8 = double 24 = 48. Skip counting by the number also builds tables naturally.",
+      "keyPoints": [
+        "The 9 times table has a special finger trick",
+        "Doubling is a useful shortcut for harder tables",
+        "Skip counting builds tables naturally",
+        "Multiplying by 5 is like halving and multiplying by 10",
+        "Practice a few minutes daily to build speed"
+      ],
+      "source": "manual"
+    }
+  ]
+}

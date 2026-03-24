@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch10",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hi10_001",
+      "term": "रोटी (Roti/Chapati)",
+      "definition": "गेहूँ के आटे से बनी गोल, चपटी ब्रेड। भारत में रोज़ खाई जाने वाली सबसे आम चीज़। इसे चपाती या फुल्का भी कहते हैं। रोटी तवे पर सेंककर आँच पर फुलाई जाती है। (Round, flat bread made from wheat flour. The most common daily food in India. Also called chapati or phulka. It is cooked on a flat pan and puffed on flame.)",
+      "pronunciation": "RO-tee",
+      "exampleUsage": "माँ ने गरम-गरम रोटियाँ बनाईं और दाल के साथ परोसीं। (Mom made hot rotis and served them with dal.)",
+      "difficulty": "easy",
+      "relatedTerms": ["चपाती", "फुल्का", "पराठा"]
+    },
+    {
+      "id": "gls_gr4_hi10_002",
+      "term": "दाल (Dal/Lentils)",
+      "definition": "दलहन (pulses) से बनी तरी वाली चीज़। मूँग, मसूर, अरहर, चना आदि कई प्रकार की दालें होती हैं। दाल में प्रोटीन बहुत होता है जो शरीर को मज़बूत बनाता है। (A curry made from pulses/lentils. There are many types like moong, masoor, toor, chana. Dal is rich in protein which makes the body strong.)",
+      "pronunciation": "DAAL",
+      "exampleUsage": "आज दोपहर के खाने में अरहर की दाल बनी है। (Today's lunch has toor dal.)",
+      "difficulty": "easy",
+      "relatedTerms": ["दलहन", "प्रोटीन", "मसूर"]
+    },
+    {
+      "id": "gls_gr4_hi10_003",
+      "term": "आटा (Flour/Dough)",
+      "definition": "गेहूँ को पीसकर बनाया गया बारीक पाउडर। आटे में पानी मिलाकर गूँधने पर लोई बनती है जिससे रोटी बनाई जाती है। (Fine powder made by grinding wheat. When water is added and kneaded, it becomes dough from which roti is made.)",
+      "pronunciation": "AA-taa",
+      "exampleUsage": "माँ ने आटा गूँधकर रोटियाँ बनाने शुरू कीं। (Mom kneaded the flour and started making rotis.)",
+      "difficulty": "easy",
+      "relatedTerms": ["गेहूँ", "रोटी", "गूँधना"]
+    },
+    {
+      "id": "gls_gr4_hi10_004",
+      "term": "तवा (Flat Pan/Griddle)",
+      "definition": "रोटी सेंकने के लिए इस्तेमाल होने वाला लोहे का गोल, चपटा बर्तन। तवे पर रोटी, पराठा, डोसा जैसी चीज़ें बनाई जाती हैं। (A round, flat iron utensil used for cooking roti. Roti, paratha, dosa are made on a tava.)",
+      "pronunciation": "ta-VAA",
+      "exampleUsage": "गरम तवे पर रोटी जल्दी फूलती है। (Roti puffs quickly on a hot griddle.)",
+      "difficulty": "easy",
+      "relatedTerms": ["रोटी", "बर्तन", "रसोई"]
+    },
+    {
+      "id": "gls_gr4_hi10_005",
+      "term": "संस्कृति (Culture)",
+      "definition": "किसी समाज या देश की परंपराएँ, रीति-रिवाज़, खान-पान, पहनावा, और जीवन जीने का तरीका। भारतीय संस्कृति में खाने का बहुत महत्व है। (The traditions, customs, food, clothing, and way of life of a society or country. Food has great importance in Indian culture.)",
+      "pronunciation": "sans-KRI-ti",
+      "exampleUsage": "भारतीय संस्कृति में मिलकर खाना खाने की परंपरा है। (In Indian culture, there is a tradition of eating together.)",
+      "difficulty": "medium",
+      "relatedTerms": ["परंपरा", "रीति-रिवाज़", "सभ्यता"]
+    },
+    {
+      "id": "gls_gr4_hi10_006",
+      "term": "पौष्टिक (Nutritious)",
+      "definition": "जिसमें शरीर के लिए ज़रूरी पोषक तत्व (nutrients) हों। पौष्टिक खाना खाने से शरीर स्वस्थ और मज़बूत रहता है। दाल, रोटी, सब्ज़ी, फल सब पौष्टिक हैं। (Having essential nutrients for the body. Eating nutritious food keeps the body healthy and strong. Dal, roti, vegetables, fruits are all nutritious.)",
+      "pronunciation": "POUSH-tik",
+      "exampleUsage": "दाल बहुत पौष्टिक होती है क्योंकि इसमें प्रोटीन होता है। (Dal is very nutritious because it contains protein.)",
+      "difficulty": "medium",
+      "relatedTerms": ["स्वस्थ", "पोषण", "प्रोटीन"]
+    },
+    {
+      "id": "gls_gr4_hi10_007",
+      "term": "रसोई (Kitchen)",
+      "definition": "घर में वह जगह जहाँ खाना बनाया जाता है। रसोई में चूल्हा, बर्तन, मसाले और खाने का सामान रखा होता है। इसे 'रसोईघर' भी कहते हैं। (The place in a house where food is cooked. The kitchen has a stove, utensils, spices, and ingredients. Also called 'rasoi-ghar'.)",
+      "pronunciation": "ra-SOI",
+      "exampleUsage": "माँ रसोई में स्वादिष्ट खाना बना रही हैं। (Mom is making delicious food in the kitchen.)",
+      "difficulty": "easy",
+      "relatedTerms": ["रसोईघर", "चूल्हा", "बर्तन"]
+    },
+    {
+      "id": "gls_gr4_hi10_008",
+      "term": "किसान (Farmer)",
+      "definition": "वह व्यक्ति जो खेत में अनाज, सब्ज़ी, फल आदि उगाता है। किसान बहुत मेहनत करते हैं ताकि हमें खाना मिल सके। उन्हें 'अन्नदाता' (food giver) कहते हैं। (A person who grows grain, vegetables, fruits in fields. Farmers work very hard so we can get food. They are called 'Annadata' - food giver.)",
+      "pronunciation": "ki-SAAN",
+      "exampleUsage": "किसान खेत में मेहनत करता है तब हमें अनाज मिलता है। (The farmer works hard in the field, then we get grain.)",
+      "difficulty": "easy",
+      "relatedTerms": ["खेत", "अनाज", "अन्नदाता"]
+    },
+    {
+      "id": "gls_gr4_hi10_009",
+      "term": "परंपरा (Tradition)",
+      "definition": "पुराने समय से चली आ रही रीति या तरीका जो पीढ़ी-दर-पीढ़ी (generation to generation) चलता है। भारत में मिलकर खाना खाना, त्योहारों पर विशेष पकवान बनाना - ये सब परंपराएँ हैं। (A custom or practice passed down from generation to generation. In India, eating together and making special dishes on festivals are traditions.)",
+      "pronunciation": "pa-RAM-pa-raa",
+      "exampleUsage": "हमारे घर में दीवाली पर मिठाई बनाने की परंपरा है। (In our home, there is a tradition of making sweets on Diwali.)",
+      "difficulty": "medium",
+      "relatedTerms": ["संस्कृति", "रीति-रिवाज़", "त्योहार"]
+    },
+    {
+      "id": "gls_gr4_hi10_010",
+      "term": "स्वाद (Taste/Flavour)",
+      "definition": "खाने का ज़ायका। मुख्य स्वाद हैं: मीठा (sweet), नमकीन (salty), खट्टा (sour), कड़वा (bitter), तीखा (spicy), कसैला (astringent)। भारतीय खाने में सभी स्वाद मिलते हैं। (The flavour of food. Main tastes are: sweet, salty, sour, bitter, spicy, astringent. Indian food has all tastes.)",
+      "pronunciation": "SWAAD",
+      "exampleUsage": "माँ के हाथ की दाल का स्वाद सबसे अच्छा होता है। (Mom's hand-made dal tastes the best.)",
+      "difficulty": "easy",
+      "relatedTerms": ["ज़ायका", "मीठा", "तीखा"]
+    }
+  ]
+}

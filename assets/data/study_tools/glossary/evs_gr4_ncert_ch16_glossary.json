@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch16",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_16_001",
+      "term": "Festival",
+      "definition": "A special day or time when people celebrate together with joy, food, music, and prayers.",
+      "pronunciation": "FES-tih-vul",
+      "exampleUsage": "Diwali is a festival of lights celebrated all over India.",
+      "difficulty": "easy",
+      "relatedTerms": ["celebration", "holiday"]
+    },
+    {
+      "id": "gls_evs_16_002",
+      "term": "Calendar",
+      "definition": "A chart that shows all the days, weeks, and months of a year. It helps us keep track of dates.",
+      "pronunciation": "KAL-en-der",
+      "exampleUsage": "I marked my birthday on the calendar.",
+      "difficulty": "easy",
+      "relatedTerms": ["date", "month", "year"]
+    },
+    {
+      "id": "gls_evs_16_003",
+      "term": "Harvest",
+      "definition": "The time when farmers gather their ripe crops from the fields.",
+      "pronunciation": "HAR-vest",
+      "exampleUsage": "After the harvest, farmers celebrated with a feast.",
+      "difficulty": "easy",
+      "relatedTerms": ["crops", "farming", "reaping"]
+    },
+    {
+      "id": "gls_evs_16_004",
+      "term": "Season",
+      "definition": "A part of the year with a particular type of weather. India has summer, winter, monsoon, spring, and autumn.",
+      "pronunciation": "SEE-zun",
+      "exampleUsage": "Winter is the season when we wear sweaters and shawls.",
+      "difficulty": "easy",
+      "relatedTerms": ["weather", "climate", "summer", "winter"]
+    },
+    {
+      "id": "gls_evs_16_005",
+      "term": "Tradition",
+      "definition": "A custom or belief that is passed down from parents and grandparents over many years.",
+      "pronunciation": "truh-DIH-shun",
+      "exampleUsage": "It is our family tradition to make sweets during Diwali.",
+      "difficulty": "medium",
+      "relatedTerms": ["custom", "culture", "heritage"]
+    },
+    {
+      "id": "gls_evs_16_006",
+      "term": "Republic Day",
+      "definition": "A national holiday on 26th January when India celebrates the day its Constitution came into effect in 1950.",
+      "pronunciation": "reh-PUB-lik day",
+      "exampleUsage": "We watched the Republic Day parade on television.",
+      "difficulty": "medium",
+      "relatedTerms": ["Constitution", "national holiday", "parade"]
+    },
+    {
+      "id": "gls_evs_16_007",
+      "term": "Makar Sankranti",
+      "definition": "A harvest festival celebrated in January when people fly kites and eat sweets made from sesame seeds and jaggery.",
+      "pronunciation": "MAH-kar san-KRAHN-tee",
+      "exampleUsage": "We flew kites on Makar Sankranti.",
+      "difficulty": "easy",
+      "relatedTerms": ["kite", "harvest", "Pongal"]
+    },
+    {
+      "id": "gls_evs_16_008",
+      "term": "Mela",
+      "definition": "A large fair with stalls, games, food, and fun activities, often held during festivals.",
+      "pronunciation": "MAY-lah",
+      "exampleUsage": "We went to a mela and enjoyed the rides and cotton candy.",
+      "difficulty": "easy",
+      "relatedTerms": ["fair", "bazaar", "market"]
+    },
+    {
+      "id": "gls_evs_16_009",
+      "term": "Independence Day",
+      "definition": "A national holiday on 15th August celebrating India's freedom from British rule in 1947.",
+      "pronunciation": "in-deh-PEN-dens day",
+      "exampleUsage": "We sang the national anthem on Independence Day.",
+      "difficulty": "medium",
+      "relatedTerms": ["freedom", "national flag", "15th August"]
+    },
+    {
+      "id": "gls_evs_16_010",
+      "term": "Diya",
+      "definition": "A small oil lamp made of clay, lit during festivals like Diwali.",
+      "pronunciation": "DEE-yah",
+      "exampleUsage": "We placed diyas around the house to light it up on Diwali.",
+      "difficulty": "easy",
+      "relatedTerms": ["lamp", "Diwali", "light"]
+    }
+  ]
+}

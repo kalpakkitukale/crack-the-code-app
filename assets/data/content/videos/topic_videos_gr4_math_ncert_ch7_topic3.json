@@ -1,0 +1,294 @@
+{
+  "videoSetId": "playlist_gr4_mn7_t3",
+  "topicId": "gr4_mn_7_3",
+  "topicName": "Calculations Using Village Scenarios",
+  "chapterId": "gr4_math_ncert_ch7",
+  "chapterName": "The Cleanest Village",
+  "description": "Main learning videos for performing addition, subtraction, and comparison calculations using real village data and scenarios",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "estimatedTotalTime": 2370,
+    "difficulty": "intermediate",
+    "targetAudience": "Grade 4 CBSE students",
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn7_t3_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Using Village Data for Calculations | Adding and Subtracting Real Numbers",
+      "description": "Learn how to take numbers from village tables and use them in addition and subtraction. If a village planted 256 trees and 189 were neem trees, how many were other types?",
+
+      "youtubeId": "YvK6TsCqOjQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YvK6TsCqOjQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/YvK6TsCqOjQ/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2300000,
+
+      "tags": ["village data", "calculations", "addition", "subtraction", "real numbers"],
+
+      "learningObjectives": [
+        "Extract numbers from tables for calculations",
+        "Perform addition and subtraction with village data",
+        "Connect data reading to arithmetic operations"
+      ],
+
+      "prerequisites": ["Reading data from tables", "Addition and subtraction fluency"],
+      "followUpTopics": ["Multi-step calculations"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "A village planted 312 trees in Park A and 189 trees in Park B. How many trees in total?",
+            "options": ["401", "491", "501"],
+            "correctAnswer": 2
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t3_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Comparing Village Data | Who Collected More? How Much More?",
+      "description": "Learn to compare data from different villages or different days. Find out who collected more rubbish, how much more one village planted, and what the difference is.",
+
+      "youtubeId": "FPdWRKz2yG8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FPdWRKz2yG8",
+      "thumbnailUrl": "https://img.youtube.com/vi/FPdWRKz2yG8/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1700000,
+
+      "tags": ["comparing data", "difference", "more than", "less than", "village comparison"],
+
+      "learningObjectives": [
+        "Compare numbers from two or more data sources",
+        "Find the difference between two quantities",
+        "Use subtraction to answer 'how much more' questions"
+      ],
+
+      "prerequisites": ["Subtraction with borrowing", "Reading data from tables"],
+      "followUpTopics": ["Multi-step village calculations"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "Village A collected 425 bags and Village B collected 368 bags. How many more bags did Village A collect?",
+            "options": ["47", "57", "67"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t3_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Step-by-Step Village Calculations | Worked Examples",
+      "description": "Watch step-by-step solutions to village calculation problems. See how to read the table, pick out the right numbers, choose the right operation, and solve carefully.",
+
+      "youtubeId": "T8jAH3Qf2R0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=T8jAH3Qf2R0",
+      "thumbnailUrl": "https://img.youtube.com/vi/T8jAH3Qf2R0/hqdefault.jpg",
+
+      "duration": 510,
+      "durationDisplay": "8:30",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+
+      "tags": ["worked examples", "step by step", "village calculations", "problem solving"],
+
+      "learningObjectives": [
+        "Follow a step-by-step approach to solve calculation problems",
+        "Choose the correct operation for each situation",
+        "Check answers for reasonableness"
+      ],
+
+      "prerequisites": ["Addition and subtraction", "Reading village data"],
+      "followUpTopics": ["Independent problem solving"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t3_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Village Calculation Practice | Try It Yourself!",
+      "description": "Practice problems using village data. Pause the video, try each problem yourself, then check your answer. Problems get harder as you go!",
+
+      "youtubeId": "MnH7qJ4o3Xc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MnH7qJ4o3Xc",
+      "thumbnailUrl": "https://img.youtube.com/vi/MnH7qJ4o3Xc/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 950000,
+
+      "tags": ["practice", "try it yourself", "village data", "progressive difficulty"],
+
+      "learningObjectives": [
+        "Solve village calculation problems independently",
+        "Build confidence with multi-digit operations",
+        "Handle progressively harder problems"
+      ],
+
+      "prerequisites": ["Step-by-step village calculations"],
+      "followUpTopics": ["Word problems with real data"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t3_v5",
+      "type": "real_world_application",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "Mawlynnong: India's Cleanest Village | Maths in Action",
+      "description": "Discover how Mawlynnong village in Meghalaya uses counting and data to stay clean. See real numbers and learn how maths helps make a village the cleanest in Asia!",
+
+      "youtubeId": "XR7dN4F2kQM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XR7dN4F2kQM",
+      "thumbnailUrl": "https://img.youtube.com/vi/XR7dN4F2kQM/hqdefault.jpg",
+
+      "duration": 510,
+      "durationDisplay": "8:30",
+
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+
+      "tags": ["Mawlynnong", "cleanest village", "India", "real world", "math in action"],
+
+      "learningObjectives": [
+        "See real-world application of village math calculations",
+        "Understand how data and calculations help communities",
+        "Be inspired by India's cleanest village"
+      ],
+
+      "prerequisites": ["Village calculations"],
+      "followUpTopics": ["Problem solving with real data"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn7_t3_v1", "gr4_mn7_t3_v2", "gr4_mn7_t3_v3", "gr4_mn7_t3_v4", "gr4_mn7_t3_v5"],
+      "estimatedTime": 2370
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn7_t3_v1", "gr4_mn7_t3_v2", "gr4_mn7_t3_v3", "gr4_mn7_t3_v5"],
+      "estimatedTime": 1950
+    },
+    "with_prerequisites": {
+      "description": "For students who scored 50-79% on readiness",
+      "videos": ["prereq_ch7_addition_v1", "prereq_ch7_subtraction_v1", "gr4_mn7_t3_v1", "gr4_mn7_t3_v2", "gr4_mn7_t3_v3", "gr4_mn7_t3_v4"],
+      "estimatedTime": 3210
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn7_t3_v1", "gr4_mn7_t3_v2", "gr4_mn7_t3_v3"],
+      "estimatedTime": 1440
+    }
+  },
+
+  "comprehensionCheckpoints": [
+    {
+      "afterVideoId": "gr4_mn7_t3_v2",
+      "checkpointName": "Data Comparison Check",
+      "questions": [
+        {
+          "question": "Street A has 178 dustbins and Street B has 245 dustbins. How many more dustbins does Street B have?",
+          "options": ["57", "67", "77"],
+          "correctAnswer": 1,
+          "explanation": "245 - 178 = 67. Street B has 67 more dustbins than Street A."
+        }
+      ],
+      "ifCorrect": {
+        "action": "continue_normally",
+        "message": "Great work! You can compare village data and find differences."
+      },
+      "ifWrong": {
+        "action": "insert_remedial_video",
+        "insertVideoId": "prereq_ch7_subtraction_v1",
+        "reason": "Student needs subtraction review before continuing with comparisons"
+      }
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "Teach students to perform calculations using data from village and community scenarios",
+    "recommendationStrategy": "Select playlist path based on readiness assessment score",
+    "sequencing": "Data calculations intro → Comparing data → Worked examples → Independent practice → Real-world inspiration"
+  }
+}

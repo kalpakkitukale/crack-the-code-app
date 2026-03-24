@@ -1,0 +1,220 @@
+{
+  "badges": [
+    {
+      "id": "first_video",
+      "name": "First Steps",
+      "description": "Watch your first video",
+      "icon": "assets/icons/badge_first_video.png",
+      "category": "learning",
+      "condition": {
+        "type": "videosWatched",
+        "count": 1
+      },
+      "xpBonus": 25
+    },
+    {
+      "id": "video_explorer",
+      "name": "Video Explorer",
+      "description": "Watch 10 videos",
+      "icon": "assets/icons/badge_video_explorer.png",
+      "category": "learning",
+      "condition": {
+        "type": "videosWatched",
+        "count": 10
+      },
+      "xpBonus": 100
+    },
+    {
+      "id": "video_marathon",
+      "name": "Video Marathon",
+      "description": "Watch 50 videos",
+      "icon": "assets/icons/badge_video_marathon.png",
+      "category": "learning",
+      "condition": {
+        "type": "videosWatched",
+        "count": 50
+      },
+      "xpBonus": 250
+    },
+    {
+      "id": "first_quiz",
+      "name": "Quiz Starter",
+      "description": "Pass your first quiz",
+      "icon": "assets/icons/badge_first_quiz.png",
+      "category": "learning",
+      "condition": {
+        "type": "quizzesPassed",
+        "count": 1
+      },
+      "xpBonus": 25
+    },
+    {
+      "id": "quiz_master",
+      "name": "Quiz Master",
+      "description": "Get 10 perfect scores",
+      "icon": "assets/icons/badge_quiz_master.png",
+      "category": "mastery",
+      "condition": {
+        "type": "perfectScores",
+        "count": 10
+      },
+      "xpBonus": 200
+    },
+    {
+      "id": "perfectionist",
+      "name": "Perfectionist",
+      "description": "Get 25 perfect scores",
+      "icon": "assets/icons/badge_perfectionist.png",
+      "category": "mastery",
+      "condition": {
+        "type": "perfectScores",
+        "count": 25
+      },
+      "xpBonus": 500
+    },
+    {
+      "id": "week_warrior",
+      "name": "Week Warrior",
+      "description": "7-day learning streak",
+      "icon": "assets/icons/badge_week_warrior.png",
+      "category": "streak",
+      "condition": {
+        "type": "streakDays",
+        "days": 7
+      },
+      "xpBonus": 100
+    },
+    {
+      "id": "month_master",
+      "name": "Month Master",
+      "description": "30-day learning streak",
+      "icon": "assets/icons/badge_month_master.png",
+      "category": "streak",
+      "condition": {
+        "type": "streakDays",
+        "days": 30
+      },
+      "xpBonus": 500
+    },
+    {
+      "id": "streak_legend",
+      "name": "Streak Legend",
+      "description": "100-day learning streak",
+      "icon": "assets/icons/badge_streak_legend.png",
+      "category": "streak",
+      "condition": {
+        "type": "streakDays",
+        "days": 100
+      },
+      "xpBonus": 2000
+    },
+    {
+      "id": "gap_fixer",
+      "name": "Gap Fixer",
+      "description": "Fix 5 concept gaps",
+      "icon": "assets/icons/badge_gap_fixer.png",
+      "category": "mastery",
+      "condition": {
+        "type": "gapsFixed",
+        "count": 5
+      },
+      "xpBonus": 150
+    },
+    {
+      "id": "foundation_builder",
+      "name": "Foundation Builder",
+      "description": "Fix 15 concept gaps",
+      "icon": "assets/icons/badge_foundation.png",
+      "category": "mastery",
+      "condition": {
+        "type": "gapsFixed",
+        "count": 15
+      },
+      "xpBonus": 400
+    },
+    {
+      "id": "concept_master",
+      "name": "Concept Master",
+      "description": "Master 10 concepts",
+      "icon": "assets/icons/badge_concept_master.png",
+      "category": "mastery",
+      "condition": {
+        "type": "conceptsMastered",
+        "count": 10
+      },
+      "xpBonus": 200
+    },
+    {
+      "id": "subject_expert",
+      "name": "Subject Expert",
+      "description": "Master all concepts in a subject",
+      "icon": "assets/icons/badge_subject_expert.png",
+      "category": "mastery",
+      "condition": {
+        "type": "subjectMastered",
+        "count": 1
+      },
+      "xpBonus": 1000
+    },
+    {
+      "id": "early_bird",
+      "name": "Early Bird",
+      "description": "Complete a lesson before 8 AM",
+      "icon": "assets/icons/badge_early_bird.png",
+      "category": "special",
+      "condition": {
+        "type": "earlyMorning",
+        "count": 1
+      },
+      "xpBonus": 50
+    },
+    {
+      "id": "night_owl",
+      "name": "Night Owl",
+      "description": "Complete a lesson after 10 PM",
+      "icon": "assets/icons/badge_night_owl.png",
+      "category": "special",
+      "condition": {
+        "type": "lateNight",
+        "count": 1
+      },
+      "xpBonus": 50
+    },
+    {
+      "id": "review_champion",
+      "name": "Review Champion",
+      "description": "Complete 50 spaced repetition reviews",
+      "icon": "assets/icons/badge_review_champion.png",
+      "category": "learning",
+      "condition": {
+        "type": "reviewsCompleted",
+        "count": 50
+      },
+      "xpBonus": 200
+    },
+    {
+      "id": "checkpoint_ace",
+      "name": "Checkpoint Ace",
+      "description": "Answer 20 video checkpoints correctly in a row",
+      "icon": "assets/icons/badge_checkpoint_ace.png",
+      "category": "mastery",
+      "condition": {
+        "type": "consecutiveCheckpoints",
+        "count": 20
+      },
+      "xpBonus": 150
+    },
+    {
+      "id": "path_completer",
+      "name": "Path Completer",
+      "description": "Complete your first learning path",
+      "icon": "assets/icons/badge_path_complete.png",
+      "category": "learning",
+      "condition": {
+        "type": "pathsCompleted",
+        "count": 1
+      },
+      "xpBonus": 300
+    }
+  ]
+}

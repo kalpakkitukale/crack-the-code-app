@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_math_ncert_ch14",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Data Handling",
+      "description": "Collecting, organising, and showing data using tables, pictographs, and bar graphs",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_collect",
+      "label": "Collecting Data",
+      "description": "Gathering information by counting, observing, or doing a survey",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_collect_survey",
+      "label": "Surveys",
+      "description": "Ask people questions and record their answers one by one",
+      "parentId": "node_collect",
+      "positionX": -320,
+      "positionY": 180,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_collect_observe",
+      "label": "Observation",
+      "description": "Watch and count things happening, like vehicles on a road or birds in a park",
+      "parentId": "node_collect",
+      "positionX": -180,
+      "positionY": 180,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_organise",
+      "label": "Organising Data",
+      "description": "Sorting collected data into groups using tally marks and tables",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_tally",
+      "label": "Tally Marks",
+      "description": "Short lines to count: draw 4 lines, cross with a 5th to make a bundle of 5",
+      "parentId": "node_organise",
+      "positionX": -80,
+      "positionY": 180,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_freq_table",
+      "label": "Frequency Table",
+      "description": "A table with categories, tally marks, and totals to organise data",
+      "parentId": "node_organise",
+      "positionX": 80,
+      "positionY": 180,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_display",
+      "label": "Displaying Data",
+      "description": "Showing data visually using pictographs and bar graphs",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_pictograph",
+      "label": "Pictographs",
+      "description": "Charts using pictures; each picture stands for a number shown in the key",
+      "parentId": "node_display",
+      "positionX": 180,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_bar_graph",
+      "label": "Bar Graphs",
+      "description": "Charts using bars of different heights; read values from the scale on the axis",
+      "parentId": "node_display",
+      "positionX": 320,
+      "positionY": 180,
+      "color": "#BA68C8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_reading",
+      "label": "Reading Data",
+      "description": "Interpreting charts to answer questions about the data",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 280,
+      "color": "#E91E63",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_read_most_least",
+      "label": "Most and Least",
+      "description": "Tallest bar or most pictures = most; shortest bar or fewest pictures = least",
+      "parentId": "node_reading",
+      "positionX": -280,
+      "positionY": 360,
+      "color": "#F48FB1",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_read_total_diff",
+      "label": "Total and Difference",
+      "description": "Add all values for total; subtract two values for difference",
+      "parentId": "node_reading",
+      "positionX": -120,
+      "positionY": 360,
+      "color": "#F48FB1",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_creating",
+      "label": "Creating Charts",
+      "description": "Steps to make your own pictograph or bar graph",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#00BCD4",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_create_steps",
+      "label": "Step-by-Step",
+      "description": "1. Collect data 2. Organise with tallies 3. Choose chart type 4. Draw with title, labels, key/scale",
+      "parentId": "node_creating",
+      "positionX": 120,
+      "positionY": 360,
+      "color": "#4DD0E1",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_create_tips",
+      "label": "Tips",
+      "description": "Always add a title; use equal spacing for bars; choose a key that fits your numbers",
+      "parentId": "node_creating",
+      "positionX": 280,
+      "positionY": 360,
+      "color": "#4DD0E1",
+      "orderIndex": 15
+    }
+  ]
+}

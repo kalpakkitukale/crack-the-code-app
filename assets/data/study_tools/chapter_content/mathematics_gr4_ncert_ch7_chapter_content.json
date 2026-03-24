@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_math_ncert_ch7",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn7",
+    "title": "The Cleanest Village",
+    "content": "This chapter from the NCERT Maths Mela textbook uses the story of a clean village to teach students how mathematics is used in real-life community settings. Inspired by places like Mawlynnong in Meghalaya (known as Asia's cleanest village), students learn to collect data through surveys, organise information about their community, and use addition, subtraction, and multiplication to solve practical problems. The chapter covers topics like counting houses, tracking cleanliness efforts, managing village resources, and making decisions using data. Students discover that maths is not just about numbers in a book but a powerful tool for making their community better.",
+    "keyPoints": [
+      "Mathematics helps solve real-world problems in our community",
+      "Data can be collected by counting, observing, and asking questions (surveys)",
+      "Addition helps us find totals - like total houses, total trees, or total money spent",
+      "Subtraction helps us find what is left or how much more is needed",
+      "Multiplication helps when we have equal groups - like volunteers in teams",
+      "Using data helps the panchayat and community make better decisions"
+    ],
+    "learningObjectives": [
+      "Use addition, subtraction, and multiplication in real-life village scenarios",
+      "Collect and organise data about the community",
+      "Solve word problems based on village life situations",
+      "Understand how data helps in community planning and decision-making",
+      "Connect mathematical operations to everyday situations"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn7_001",
+      "title": "Math Operations in Village Life",
+      "content": "Here is when to use each operation in real-life village problems:\n\nAddition (+): Finding totals\n- Total houses = houses on Street A + Street B + Street C\n- Total money collected = amount from each family added together\n\nSubtraction (-): Finding what is left or the difference\n- Money left = Total money - Money spent\n- Trees still needed = Target trees - Trees already planted\n\nMultiplication (×): Equal groups\n- Total volunteers = Number of groups × People in each group\n- Total bricks = Number of rows × Bricks in each row\n\nRemember: Read the problem carefully and decide which operation to use!",
+      "tags": ["key-concept", "reference", "operations"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn7_002",
+      "title": "How to Conduct a Simple Survey",
+      "content": "Want to collect data about your class or neighbourhood? Follow these steps:\n\n1. Decide what you want to find out (e.g., 'How many trees are on each street?')\n2. Make a simple table with columns for the item and the count\n3. Go and count or ask people the question\n4. Write the numbers carefully in your table\n5. Add up the totals\n6. Look at your data - what does it tell you?\n\nExample: Survey of dustbins on 4 streets\nStreet A: 5 | Street B: 8 | Street C: 3 | Street D: 6\nTotal: 22 dustbins | Street B has the most!",
+      "tags": ["activity", "data-collection", "hands-on-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn7_003",
+      "title": "Mawlynnong - Asia's Cleanest Village",
+      "content": "Did you know that Mawlynnong village in Meghalaya was named Asia's cleanest village? Here is how they use math:\n\n- Every family is responsible for cleaning their area - if 95 families each clean 10 metres, that is 950 metres of clean roads!\n- Bamboo dustbins are placed every 50 metres along the road\n- The village has about 500 people working together to keep it clean\n\nThis chapter shows us that when a community uses data and planning, even a small village can achieve great things!",
+      "tags": ["real-world", "inspiration", "fun-fact"],
+      "isPinned": false
+    }
+  ]
+}

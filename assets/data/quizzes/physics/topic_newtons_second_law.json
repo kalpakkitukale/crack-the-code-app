@@ -1,0 +1,307 @@
+{
+  "quiz": {
+    "id": "quiz_topic_newtons_second_law",
+    "level": "topic",
+    "entityId": "topic_newtons_second_law",
+    "title": "Newton's Second Law of Motion",
+    "questionIds": [
+      "q_nsl_001",
+      "q_nsl_002",
+      "q_nsl_003",
+      "q_nsl_004",
+      "q_nsl_005",
+      "q_nsl_006",
+      "q_nsl_007",
+      "q_nsl_008",
+      "q_nsl_009",
+      "q_nsl_010"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.7
+  },
+  "questions": [
+    {
+      "id": "q_nsl_001",
+      "questionText": "What is the mathematical formula for Newton's Second Law of Motion?",
+      "questionType": "mcq",
+      "options": [
+        "F = m/a",
+        "F = ma",
+        "F = m + a",
+        "F = a/m"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Newton's Second Law states that Force equals mass times acceleration (F = ma). This fundamental equation describes how force, mass, and acceleration are related.",
+      "hints": [
+        "Force is the product of two quantities",
+        "The unit of force is kg⋅m/s²"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_002",
+      "questionText": "If the net force on an object is zero, what is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "Maximum",
+        "Zero",
+        "Depends on mass",
+        "Infinite"
+      ],
+      "correctAnswer": "B",
+      "explanation": "According to F = ma, if F = 0, then acceleration (a) must be 0, regardless of the mass. This means the object maintains constant velocity.",
+      "hints": [
+        "Use the equation F = ma",
+        "What happens when you divide zero by any number?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_003",
+      "questionText": "A 10 kg object accelerates at 2 m/s². What is the net force acting on it?",
+      "questionType": "mcq",
+      "options": [
+        "5 N",
+        "12 N",
+        "20 N",
+        "200 N"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Using F = ma, we calculate F = 10 kg × 2 m/s² = 20 N (Newtons).",
+      "hints": [
+        "Use F = ma",
+        "Multiply mass by acceleration"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "calculation"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_004",
+      "questionText": "What is the SI unit of force?",
+      "questionType": "mcq",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton. One Newton equals 1 kg⋅m/s².",
+      "hints": [
+        "It's named after a famous physicist",
+        "The abbreviation is N"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "units",
+        "force"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_005",
+      "questionText": "A car of mass 1000 kg accelerates from rest to 20 m/s in 5 seconds. What is the average net force on the car?",
+      "questionType": "mcq",
+      "options": [
+        "2000 N",
+        "4000 N",
+        "5000 N",
+        "20000 N"
+      ],
+      "correctAnswer": "B",
+      "explanation": "First, find acceleration: a = (v - u)/t = (20 - 0)/5 = 4 m/s². Then use F = ma: F = 1000 kg × 4 m/s² = 4000 N.",
+      "hints": [
+        "First calculate acceleration using v = u + at",
+        "Then use F = ma"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "force",
+        "acceleration",
+        "problem_solving"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_006",
+      "questionText": "If you double the mass of an object while keeping the force constant, what happens to its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "Doubles",
+        "Halves",
+        "Quadruples",
+        "Remains the same"
+      ],
+      "correctAnswer": "B",
+      "explanation": "From F = ma, we get a = F/m. If mass doubles while force stays constant, acceleration is halved. Mass and acceleration are inversely proportional.",
+      "hints": [
+        "Rearrange F = ma to solve for a",
+        "Consider the inverse relationship"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "proportionality",
+        "mass",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_007",
+      "questionText": "Two forces of 30 N and 40 N act on an object at right angles to each other. What is the magnitude of the resultant force?",
+      "questionType": "mcq",
+      "options": [
+        "10 N",
+        "35 N",
+        "50 N",
+        "70 N"
+      ],
+      "correctAnswer": "C",
+      "explanation": "When forces act at right angles, use the Pythagorean theorem: F = √(30² + 40²) = √(900 + 1600) = √2500 = 50 N.",
+      "hints": [
+        "Think of perpendicular forces forming a right triangle",
+        "Use the Pythagorean theorem"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "force",
+        "vectors",
+        "resultant_force"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_008",
+      "questionText": "A 2 kg block on a frictionless surface is pulled by a horizontal force of 10 N. What is its acceleration?",
+      "questionType": "mcq",
+      "options": [
+        "2 m/s²",
+        "5 m/s²",
+        "10 m/s²",
+        "20 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using a = F/m: a = 10 N / 2 kg = 5 m/s². Since there's no friction, all the applied force goes into accelerating the block.",
+      "hints": [
+        "Rearrange F = ma to find a",
+        "Divide force by mass"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "newtons_laws",
+        "acceleration",
+        "calculation"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_nsl_009",
+      "questionText": "A 0.5 kg ball experiences a net force that varies with time. If the force changes from 10 N to 20 N, by what factor does the acceleration change?",
+      "questionType": "mcq",
+      "options": [
+        "Increases by 0.5",
+        "Doubles",
+        "Triples",
+        "Quadruples"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Since a = F/m and mass is constant, acceleration is directly proportional to force. If force doubles (10 N to 20 N), acceleration also doubles.",
+      "hints": [
+        "Remember a = F/m",
+        "Mass stays constant, so acceleration is proportional to force"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "proportionality",
+        "acceleration"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    },
+    {
+      "id": "q_nsl_010",
+      "questionText": "Two blocks of masses 3 kg and 5 kg are connected by a string over a frictionless pulley. What is the acceleration of the system? (Take g = 10 m/s²)",
+      "questionType": "mcq",
+      "options": [
+        "1.25 m/s²",
+        "2.5 m/s²",
+        "5 m/s²",
+        "10 m/s²"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Net force = (m₂ - m₁)g = (5 - 3) × 10 = 20 N. Total mass = 3 + 5 = 8 kg. Acceleration a = F/m = 20/8 = 2.5 m/s².",
+      "hints": [
+        "Consider the net pulling force from the heavier mass",
+        "Use F = ma where m is the total mass of the system",
+        "The formula is a = (m₂ - m₁)g/(m₁ + m₂)"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "newtons_laws",
+        "pulleys",
+        "systems",
+        "problem_solving"
+      ],
+      "topicIds": [
+        "topic_newtons_second_law"
+      ],
+      "videoTimestamp": null,
+      "points": 2
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_eng_ncert_u3",
+    "level": "chapter",
+    "entityId": "gr4_eng_ncert_u3",
+    "title": "Run! / Nasruddin's Aim - Unit 3 Quiz",
+    "questionIds": ["q_rn_001", "q_rn_002", "q_rn_003", "q_rn_004", "q_rn_005", "q_rn_006", "q_rn_007", "q_rn_008", "q_rn_009", "q_rn_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_rn_001",
+      "questionText": "The poem 'Run!' encourages children to:",
+      "questionType": "mcq",
+      "options": ["Stay inside", "Be active and play", "Watch TV", "Sleep more"],
+      "correctAnswer": "B",
+      "explanation": "The poem 'Run!' encourages children to be active, run, play, and enjoy outdoor activities.",
+      "hints": ["The title itself is an action word"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "running", "activity"],
+      "topicIds": ["gr4_en_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_002",
+      "questionText": "In 'Nasruddin's Aim', what was Nasruddin trying to do?",
+      "questionType": "mcq",
+      "options": ["Fly a kite", "Shoot an arrow", "Cook food", "Write a letter"],
+      "correctAnswer": "B",
+      "explanation": "Nasruddin was trying to shoot arrows at a target to show his skill in archery.",
+      "hints": ["Think about 'aim' - what do you aim at?"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "Nasruddin", "archery"],
+      "topicIds": ["gr4_en_3_2"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_003",
+      "questionText": "What is a verb?",
+      "questionType": "mcq",
+      "options": ["A naming word", "An action word", "A describing word", "A number word"],
+      "correctAnswer": "B",
+      "explanation": "A verb is an action word - it tells what someone or something does. Examples: run, eat, sleep, read.",
+      "hints": ["It shows doing something"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "verb", "action word"],
+      "topicIds": ["gr4_en_3_3"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_004",
+      "questionText": "Which word is a verb?",
+      "questionType": "mcq",
+      "options": ["Beautiful", "Jumping", "School", "Happy"],
+      "correctAnswer": "B",
+      "explanation": "'Jumping' is a verb because it shows an action. Beautiful and happy are adjectives, school is a noun.",
+      "hints": ["Which word shows an action?"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "verb"],
+      "topicIds": ["gr4_en_3_3"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_005",
+      "questionText": "What made the story of Nasruddin funny?",
+      "questionType": "mcq",
+      "options": ["He hit the target perfectly", "He gave silly excuses for missing", "He won a prize", "He ran away"],
+      "correctAnswer": "B",
+      "explanation": "Nasruddin gave funny, silly excuses for missing the target instead of admitting he wasn't good at archery.",
+      "hints": ["Nasruddin stories are usually humorous"],
+      "difficulty": "intermediate",
+      "conceptTags": ["story", "humor", "Nasruddin"],
+      "topicIds": ["gr4_en_3_2"],
+      "points": 2
+    },
+    {
+      "id": "q_rn_006",
+      "questionText": "True or False: 'Run' and 'jump' are both verbs.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Both 'run' and 'jump' are verbs because they show actions.",
+      "hints": ["Both words show what you can do"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "verb"],
+      "topicIds": ["gr4_en_3_3"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_007",
+      "questionText": "Find the verb: 'The children play in the garden.'",
+      "questionType": "mcq",
+      "options": ["children", "play", "garden", "The"],
+      "correctAnswer": "B",
+      "explanation": "'Play' is the verb because it tells what the children do.",
+      "hints": ["What are the children doing?"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "verb", "sentence"],
+      "topicIds": ["gr4_en_3_3"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_008",
+      "questionText": "Why is running good for our health?",
+      "questionType": "mcq",
+      "options": ["It makes us tired", "It keeps our body fit and active", "It wastes time", "It makes us hungry only"],
+      "correctAnswer": "B",
+      "explanation": "Running is good exercise that keeps our body fit, our heart healthy, and our muscles strong.",
+      "hints": ["Think about the benefits of exercise"],
+      "difficulty": "basic",
+      "conceptTags": ["health", "exercise", "running"],
+      "topicIds": ["gr4_en_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_009",
+      "questionText": "In the sentence 'She sings beautifully', the verb is:",
+      "questionType": "mcq",
+      "options": ["She", "sings", "beautifully", "None"],
+      "correctAnswer": "B",
+      "explanation": "'Sings' is the verb - it shows the action of singing.",
+      "hints": ["What is 'she' doing?"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "verb", "sentence"],
+      "topicIds": ["gr4_en_3_3"],
+      "points": 1
+    },
+    {
+      "id": "q_rn_010",
+      "questionText": "True or False: Every sentence needs a verb.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Every complete sentence needs a verb to show what is happening or what the subject is doing.",
+      "hints": ["Without a verb, we don't know what's happening"],
+      "difficulty": "intermediate",
+      "conceptTags": ["grammar", "verb", "sentence structure"],
+      "topicIds": ["gr4_en_3_3"],
+      "points": 2
+    }
+  ]
+}

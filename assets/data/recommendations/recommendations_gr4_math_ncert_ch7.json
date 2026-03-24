@@ -1,0 +1,437 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch7",
+  "topicId": "gr4_mn_7_1",
+  "topicName": "Math in the Community",
+  "chapterId": "gr4_math_ncert_ch7",
+  "chapterName": "The Cleanest Village",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for Chapter 7: The Cleanest Village (Addition, Subtraction, and Data Handling in Community Contexts)",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent addition, subtraction, and data reading skills. Can fast-track through community math concepts with challenge content.",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2880,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn7_v1",
+          "reason": "Introduction to math in community and village life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v2",
+          "reason": "Learn how to collect and organise village data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v3",
+          "reason": "Practice addition and subtraction with village scenarios",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_mn7_v4",
+          "reason": "Solve word problems using real village data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v5",
+          "reason": "Fun wrap-up: adding, subtracting, and comparing data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v5",
+          "reason": "Challenge: Apply all skills to complex village problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready. Provide complete coverage of community math, data collection, and problem solving.",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2400,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn7_v1",
+          "reason": "Introduction to math in community and village life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v2",
+          "reason": "Learn data collection in village life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v3",
+          "reason": "Calculations using village scenarios",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v4",
+          "reason": "Problem solving with real data",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v5",
+          "reason": "Wrap-up: adding, subtracting, and comparing village data",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in addition, subtraction, or data reading. Needs targeted review before community math concepts.",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 3300,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "addition_fluency_weak": {
+            "addVideos": ["prereq_ch7_addition_v1"],
+            "priority": "high"
+          },
+          "subtraction_fluency_weak": {
+            "addVideos": ["prereq_ch7_subtraction_v1"],
+            "priority": "high"
+          },
+          "reading_data_weak": {
+            "addVideos": ["prereq_ch7_data_v1"],
+            "priority": "medium"
+          },
+          "word_problems_weak": {
+            "addVideos": ["prereq_ch7_addition_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch7_addition_v1",
+          "reason": "Review: Addition of 3-digit numbers",
+          "skippable": false,
+          "condition": "if addition_fluency concept is weak"
+        },
+        {
+          "videoId": "prereq_ch7_subtraction_v1",
+          "reason": "Review: Subtraction with borrowing",
+          "skippable": false,
+          "condition": "if subtraction_fluency concept is weak"
+        },
+        {
+          "videoId": "prereq_ch7_data_v1",
+          "reason": "Review: Reading simple tables and lists",
+          "skippable": false,
+          "condition": "if reading_data concept is weak"
+        },
+        {
+          "videoId": "gr4_mn7_v1",
+          "reason": "Start main topic: Math in the community",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v2",
+          "reason": "Data collection in village life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v3",
+          "reason": "Calculations using village scenarios",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v4",
+          "reason": "Problem solving with real data",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in addition, subtraction, and data reading before attempting community math problems.",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 2280,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch7_addition_v1",
+          "reason": "Foundation: Review addition of 3-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch7_subtraction_v1",
+          "reason": "Essential: Review subtraction with borrowing",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch7_data_v1",
+          "reason": "Critical: Learn to read simple tables and lists",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v1",
+          "reason": "Gentle intro to math in village life",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn7_v2",
+          "reason": "Begin main content: Data collection in villages",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you are ready to continue with the village math chapter."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "addition_fluency": {
+        "conceptName": "Fluent addition of multi-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_ch7_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7_1", "rq7_2", "rq7_3"]
+      },
+      "subtraction_fluency": {
+        "conceptName": "Fluent subtraction with borrowing",
+        "importance": "critical",
+        "videoIds": ["prereq_ch7_subtraction_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7_4", "rq7_5", "rq7_6"]
+      },
+      "reading_data": {
+        "conceptName": "Reading and understanding simple tables and lists",
+        "importance": "important",
+        "videoIds": ["prereq_ch7_data_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7_7", "rq7_8"]
+      },
+      "word_problems": {
+        "conceptName": "Solving simple word problems with addition and subtraction",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch7_addition_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7_9", "rq7_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn7_v2",
+        "checkpointName": "Data Collection Understanding Check",
+        "questions": [
+          {
+            "question": "A table shows the number of trees in three streets: Oak Street = 45, Pine Street = 32, Elm Street = 58. Which street has the most trees?",
+            "options": ["Oak Street", "Pine Street", "Elm Street", "They are all the same"],
+            "correctAnswer": 2,
+            "explanation": "Elm Street has 58 trees, which is more than 45 and 32. So Elm Street has the most trees!"
+          },
+          {
+            "question": "Why do we collect data in a village?",
+            "options": ["Just for fun", "To understand what is happening and make good decisions", "Because the teacher said so", "To draw pictures"],
+            "correctAnswer": 1,
+            "explanation": "We collect data to understand what is happening. For example, counting rubbish bags helps us know which areas need more cleaning!"
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand data collection and reading tables well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch7_data_v1",
+          "reason": "Student struggling with data reading, review tables and lists"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn7_v4",
+        "checkpointName": "Problem Solving with Village Data Check",
+        "questions": [
+          {
+            "question": "A village collected 325 bags of rubbish in week 1 and 287 bags in week 2. How many bags were collected in total?",
+            "options": ["502 bags", "612 bags", "602 bags", "512 bags"],
+            "correctAnswer": 1,
+            "explanation": "325 + 287 = 612 bags in total. Ones: 5 + 7 = 12, write 2 carry 1. Tens: 2 + 8 + 1 = 11, write 1 carry 1. Hundreds: 3 + 2 + 1 = 6."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_mn7_v5",
+          "reason": "Student ready for the challenge wrap-up problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Watch the village calculations video again, then try some practice problems with addition and subtraction."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip practice video, jump to challenge or next topic"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on addition and subtraction basics"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising addition and subtraction with real objects or village scenarios at home"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You are great at addition, subtraction, and reading data. You are ready to explore how maths is used in village life. We have created a fast-track playlist with challenge content for you."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand addition, subtraction, and data reading well. Let's learn how maths is used in the cleanest village with complete coverage of all the topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in addition, subtraction, or reading data. Don't worry! We will start with targeted review videos on the concepts you need, then move to village maths."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review addition, subtraction, and reading tables first. We have created a playlist focused on building a strong foundation. After watching, you can retake the quiz and then learn about the cleanest village."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how the village math concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Addition fluency with 3-digit numbers", "Subtraction with borrowing", "Reading simple tables"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Word problems with addition and subtraction", "Identifying operations in context"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Math in everyday community life", "Data collection and organisation", "Using tables and lists"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Multi-step village calculations", "Comparing data from different sources", "Making decisions using data"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Complex word problems with real village data", "Creating your own data tables", "Village planning with maths"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "additionSubtractionFluency": {
+      "target": 85,
+      "description": "% of students who can solve 3-digit addition and subtraction within 30 seconds"
+    },
+    "dataReadingAccuracy": {
+      "target": 80,
+      "description": "% of students who can correctly read and interpret simple tables"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 40-50 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 50-55 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (20 min) + retake + main content (25 min) = 45-55 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students making carrying errors in addition with larger numbers",
+      "solution1": "Encourage writing numbers in columns and checking each place value. Use village scenarios to make practice meaningful.",
+      "challenge2": "Students struggling to read data from tables and identify the right numbers",
+      "solution2": "Start with simple 2-column tables before moving to more complex ones. Use village cleaning data as a fun context.",
+      "challenge3": "Students unsure whether to add or subtract in word problems",
+      "solution3": "Teach clue words: 'total', 'in all', 'altogether' mean add. 'Left', 'remaining', 'difference' mean subtract. Use village stories for practice."
+    }
+  }
+}

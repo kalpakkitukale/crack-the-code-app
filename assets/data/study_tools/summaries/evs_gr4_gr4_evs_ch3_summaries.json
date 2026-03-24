@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ch3",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_ev3_v1",
+      "videoId": "gr4_ev3_v1",
+      "content": "This lesson introduces the different types of plants we see around us. Plants are grouped by their size and the type of stem they have. Trees are tall with thick, woody trunks like mango and neem. Shrubs are medium-sized with many branches near the ground like rose and tulsi. Herbs are small plants with soft, green stems like mint and coriander.",
+      "keyPoints": [
+        "Plants are grouped into trees, shrubs, and herbs",
+        "Trees have thick, strong, woody trunks",
+        "Shrubs have thin branches growing near the ground",
+        "Herbs have soft, green stems and are small"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev3_v2",
+      "videoId": "gr4_ev3_v2",
+      "content": "Some plants cannot stand straight on their own. Climbers are plants that grow upward by holding onto supports like walls, fences, or poles. Money plant and grapevine are common climbers. Creepers have weak stems that spread along the ground. Pumpkin, watermelon, and strawberry are examples of creepers.",
+      "keyPoints": [
+        "Climbers grow upward by clinging to a support",
+        "Money plant and grapevine are common climbers",
+        "Creepers spread along the ground with weak stems",
+        "Pumpkin and watermelon are creepers"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev3_v3",
+      "videoId": "gr4_ev3_v3",
+      "content": "Plants are very useful to us in many ways. We get food from different parts of plants such as roots, stems, leaves, flowers, fruits, and seeds. Plants also give us oxygen to breathe, wood for building, and many medicines. Plant roots hold the soil and stop it from washing away, which keeps the land healthy.",
+      "keyPoints": [
+        "We eat different parts of plants for food",
+        "Plants release oxygen which we need to breathe",
+        "Trees give us wood for furniture and paper",
+        "Plant roots prevent soil erosion"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev3_v4",
+      "videoId": "gr4_ev3_v4",
+      "content": "Many plants have healing powers and are used as medicine. Tulsi helps with cough and cold. Neem leaves are good for skin problems. Aloe vera soothes burns and keeps skin healthy. We must take care of plants because they give us so much. Planting more trees and saving forests helps protect the environment.",
+      "keyPoints": [
+        "Tulsi, neem, and aloe vera are medicinal plants",
+        "Some plants help cure illnesses naturally",
+        "We should plant more trees to protect nature",
+        "Saving forests is important for the environment"
+      ],
+      "source": "manual"
+    }
+  ]
+}

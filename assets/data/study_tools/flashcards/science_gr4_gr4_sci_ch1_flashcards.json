@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_sci_ch1",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_sc1_plants",
+      "name": "Plants",
+      "description": "Learn about plants as living things, their parts, and how they grow",
+      "topicId": "gr4_s_1_1",
+      "chapterId": "gr4_sci_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_sc1_001",
+          "front": "What do plants need to make their own food?",
+          "back": "Plants need sunlight, water, and carbon dioxide from the air to make their own food. This process is called photosynthesis.",
+          "hint": "Think about what you give a plant to keep it healthy",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_sc1_002",
+          "front": "What are the main parts of a plant?",
+          "back": "The main parts of a plant are roots, stem, leaves, flowers, and fruits. Each part has a special job to help the plant live and grow.",
+          "hint": "Look at a tulsi plant in your garden and name the parts you see",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_sc1_003",
+          "front": "How do plants breathe?",
+          "back": "Plants breathe through tiny holes on their leaves called stomata. They take in carbon dioxide and release oxygen into the air.",
+          "hint": "The holes are so tiny you need a microscope to see them",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_sc1_004",
+          "front": "How do plants reproduce?",
+          "back": "Most plants reproduce through seeds. Flowers make seeds, which fall to the ground or are carried by wind, water, or animals to grow into new plants.",
+          "hint": "Think about what is inside a mango fruit",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_sc1_005",
+          "front": "Why are plants called producers?",
+          "back": "Plants are called producers because they produce (make) their own food using sunlight. They do not need to eat other living things for energy.",
+          "hint": "They produce food for themselves and for animals too",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_sc1_animals",
+      "name": "Animals",
+      "description": "Explore animals as living things, their features, and how they survive",
+      "topicId": "gr4_s_1_2",
+      "chapterId": "gr4_sci_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_sc1_006",
+          "front": "What makes animals different from plants?",
+          "back": "Animals can move from one place to another, they eat food made by plants or other animals, and they respond quickly to things around them. Plants cannot move from place to place.",
+          "hint": "Think about what a dog can do that a neem tree cannot",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_sc1_007",
+          "front": "What is the difference between a herbivore and a carnivore?",
+          "back": "A herbivore eats only plants, like a cow or a deer. A carnivore eats only other animals, like a tiger or an eagle.",
+          "hint": "Think about what a cow eats and what a lion eats",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_sc1_008",
+          "front": "How do animals breathe?",
+          "back": "Land animals breathe through lungs, taking in oxygen from the air. Fish breathe through gills, taking in oxygen from water. Insects breathe through tiny holes on their body called spiracles.",
+          "hint": "Different animals have different ways to get oxygen",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_sc1_009",
+          "front": "Name three ways animals can move.",
+          "back": "Animals can walk or run on legs (like a horse), fly using wings (like a parrot), or swim using fins (like a fish). Some animals, like snakes, crawl on the ground.",
+          "hint": "Think about how a bird, a fish, and a cat move differently",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_sc1_010",
+          "front": "How do animals take care of their young ones?",
+          "back": "Many animals feed, protect, and teach their young. A mother cow gives milk to her calf. Birds bring food to their chicks in the nest. Some animals, like turtles, leave their eggs and the babies take care of themselves.",
+          "hint": "Think about how a hen looks after her chicks",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_sc1_habitats",
+      "name": "Habitats",
+      "description": "Discover where living things live and how they adapt to their homes",
+      "topicId": "gr4_s_1_3",
+      "chapterId": "gr4_sci_ch1",
+      "cards": [
+        {
+          "id": "card_gr4_sc1_011",
+          "front": "What is a habitat?",
+          "back": "A habitat is the natural home of a plant or animal. It provides food, water, shelter, and the right conditions for living things to survive.",
+          "hint": "Think of it as the address where an animal or plant lives",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_sc1_012",
+          "front": "Name four different types of habitats.",
+          "back": "Four types of habitats are forests (like the Sundarbans), deserts (like the Thar Desert), water bodies (like ponds and rivers), and grasslands (like the ones in Madhya Pradesh where deer live).",
+          "hint": "Think of very different places where animals live in India",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_sc1_013",
+          "front": "How does a camel survive in the desert?",
+          "back": "A camel has special features to survive in the hot, dry desert. It stores fat in its hump for energy, has long eyelashes to keep sand out, wide feet to walk on sand, and can go many days without drinking water.",
+          "hint": "Think about the problems of living in a sandy, hot place",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_sc1_014",
+          "front": "What is adaptation?",
+          "back": "Adaptation is a special body feature or behaviour that helps a living thing survive in its habitat. For example, a lotus plant has waxy leaves so water slides off, and a polar bear has thick white fur to stay warm and hide in snow.",
+          "hint": "Special features that help living things fit into their home",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_sc1_015",
+          "front": "Why do fish die if taken out of water?",
+          "back": "Fish breathe using gills, which can only take oxygen from water. When fish are taken out of water, their gills cannot get oxygen from the air, so they cannot breathe and they die. Fish are adapted to live only in water.",
+          "hint": "Think about how fish breathe compared to humans",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

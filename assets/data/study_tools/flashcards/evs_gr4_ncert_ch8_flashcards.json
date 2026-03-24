@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch8",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en8_family_relations",
+      "name": "Family and Relationships",
+      "description": "Learn about family members and the special bonds between them",
+      "topicId": "gr4_evn_8_1",
+      "chapterId": "gr4_evs_ncert_ch8",
+      "cards": [
+        {
+          "id": "card_gr4_en8_001",
+          "front": "Who are grandparents?",
+          "back": "Grandparents are the parents of your mother or father. Your father's parents are your paternal grandparents (Dada-Dadi or Thatha-Paatti). Your mother's parents are your maternal grandparents (Nana-Nani or Thatha-Paatti). They are usually older and have lots of stories and experience to share!",
+          "hint": "Think about who your parents call 'Mummy' and 'Papa'",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en8_002",
+          "front": "What is a joint family?",
+          "back": "A joint family is when grandparents, parents, uncles, aunts, and cousins all live together in one house. In India, joint families are common. Everyone shares meals, celebrations, and takes care of each other. It is like having a big team at home!",
+          "hint": "Many relatives living under one roof",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en8_003",
+          "front": "What is a nuclear family?",
+          "back": "A nuclear family is a small family with just parents and their children living together. Many families in cities are nuclear families. Even though they live separately, they stay connected with grandparents and other relatives through visits and phone calls.",
+          "hint": "A smaller family unit",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en8_004",
+          "front": "Why is visiting grandparents special?",
+          "back": "Visiting grandparents is special because they share stories, teach traditional recipes, play with grandchildren, and pass on family traditions. Grandparents' homes often feel different from our own - different food, different surroundings, and lots of love and pampering!",
+          "hint": "Think about what makes your grandparents' house different",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en8_005",
+          "front": "What can we learn from our elders in the family?",
+          "back": "From elders we can learn traditional stories and folk tales, how to cook special dishes, family history and where our ancestors came from, values like respect, sharing, and kindness, and skills like farming, craft work, or playing traditional games.",
+          "hint": "Elders have a lifetime of experience",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en8_travel_family",
+      "name": "Travelling to Family",
+      "description": "Discover different ways families travel to meet each other",
+      "topicId": "gr4_evn_8_1",
+      "chapterId": "gr4_evs_ncert_ch8",
+      "cards": [
+        {
+          "id": "card_gr4_en8_006",
+          "front": "What are the different ways people travel to visit relatives?",
+          "back": "People travel by train, bus, car, auto-rickshaw, boat, aeroplane, and even on foot or by bullock cart in some villages. The way you travel depends on how far away your relatives live and what transport is available in your area.",
+          "hint": "There are many modes of transport",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en8_007",
+          "front": "How can the same place look different in different seasons?",
+          "back": "A place can look very different depending on the season. In summer, fields may be dry and brown. In the rainy season, everything turns green and rivers are full. In winter, some places get covered in fog or snow. Even grandmother's garden looks different each time you visit!",
+          "hint": "Think about summer, monsoon, and winter",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en8_008",
+          "front": "What is the difference between a village and a city?",
+          "back": "A village is a small settlement with fewer people, surrounded by farms and nature. People often know each other. A city is a large settlement with many buildings, roads, cars, and people. Cities have malls, hospitals, and offices. Grandmother's house might be in a village or a city!",
+          "hint": "Think about the size and number of people",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en8_009",
+          "front": "What are some things you might do at your grandmother's house?",
+          "back": "At grandmother's house you might eat special home-cooked food, listen to stories, play in the garden or fields, meet cousins, help with household tasks, learn traditional crafts or recipes, and explore the neighbourhood. Every visit creates happy memories!",
+          "hint": "Think about what makes visiting fun",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en8_010",
+          "front": "Why is it important to stay connected with family?",
+          "back": "Staying connected with family gives us a sense of belonging and love. Family members support each other during happy and difficult times. Learning about our family's history helps us understand who we are. Even if family lives far away, letters, phone calls, and visits keep the bond strong.",
+          "hint": "Family gives us love and support",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

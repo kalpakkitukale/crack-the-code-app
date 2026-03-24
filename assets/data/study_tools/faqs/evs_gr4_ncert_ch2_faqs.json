@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch2",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en2_001",
+      "videoId": "gr4_en2_v1",
+      "question": "What are the main features of a face?",
+      "answer": "The main features of a face are eyes, nose, ears, mouth (lips), eyebrows, chin, forehead, and cheeks. Together they give each face its unique look. Some people also have dimples, freckles, or moles that add to their unique appearance.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en2_002",
+      "videoId": "gr4_en2_v1",
+      "question": "Why do we all look different?",
+      "answer": "We look different because we inherit a mix of features from both our parents. Since every parent pair is unique, every child gets a unique combination. Even siblings get different mixes, which is why brothers and sisters can look similar but never identical.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en2_003",
+      "videoId": "gr4_en2_v1",
+      "question": "Can two people have exactly the same face?",
+      "answer": "No! Even identical twins, who look very similar, have tiny differences if you look closely. No two people in the world have exactly the same face. That is what makes each of us one of a kind.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en2_004",
+      "videoId": "gr4_en2_v2",
+      "question": "Why do I look like my mother or father?",
+      "answer": "You inherit features from both your parents. Your eye colour might come from your mother, and your hair type from your father, or the other way around. These traits are passed through tiny instructions called genes that your parents give you.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en2_005",
+      "videoId": "gr4_en2_v1",
+      "question": "What are dimples and why do only some people have them?",
+      "answer": "Dimples are small dents in the cheeks that show up when a person smiles. They are caused by a shorter muscle in the cheek. Dimples are inherited - if your parent has dimples, you are more likely to have them too. But not everyone does!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en2_006",
+      "videoId": "gr4_en2_v2",
+      "question": "Do our faces change as we grow up?",
+      "answer": "Yes! Baby faces are rounder and softer. As you grow, your face becomes longer and more shaped. Your nose and ears actually keep growing throughout your life! But your basic features like eye colour and dimples usually stay the same.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en2_007",
+      "videoId": "gr4_en2_v3",
+      "question": "Is it okay to look different from my friends?",
+      "answer": "Absolutely yes! Looking different is completely normal and wonderful. People from different families, regions, and countries look different, and that is what makes the world interesting. We should always be kind and respectful about how people look.",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_en2_008",
+      "videoId": "gr4_en2_v1",
+      "question": "How many different eye colours are there?",
+      "answer": "The most common eye colours are brown (the most common in India and the world), black, blue, green, hazel (a mix of brown and green), and grey. Some people even have two different coloured eyes, which is very rare!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en2_009",
+      "videoId": "gr4_en2_v3",
+      "question": "Why do people from different regions look different?",
+      "answer": "Over thousands of years, people living in different climates developed different features. For example, people in sunny areas often have darker skin to protect from the sun. People in cold areas may have narrower eyes. These are natural adaptations.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_en2_010",
+      "videoId": "gr4_en2_v2",
+      "question": "What is the difference between attached and free earlobes?",
+      "answer": "Some people have earlobes that hang freely below the point where the ear joins the head - these are called free earlobes. Others have earlobes that are directly attached to the side of the head - these are called attached earlobes. Both are completely normal!",
+      "status": "answered",
+      "upvotes": 16
+    }
+  ]
+}

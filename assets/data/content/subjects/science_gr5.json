@@ -1,0 +1,49 @@
+{
+  "id": "science_gr5",
+  "name": "Science",
+  "icon": "science",
+  "color": "#95E1D3",
+  "boardId": "cbse_elementary",
+  "classId": "class_5",
+  "streamId": "general",
+  "totalChapters": 3,
+  "keywords": ["science", "grade 5", "nature", "experiments"],
+  "chapters": [
+    {
+      "id": "gr5_sci_ch1",
+      "number": 1,
+      "name": "Our Body",
+      "description": "Human body systems and health",
+      "keywords": ["body", "systems", "health"],
+      "topics": [
+        {"id": "gr5_s_1_1", "name": "Digestive System", "difficulty": "intermediate", "videoCount": 5, "keywords": ["digestion"]},
+        {"id": "gr5_s_1_2", "name": "Respiratory System", "difficulty": "intermediate", "videoCount": 5, "keywords": ["breathing"]},
+        {"id": "gr5_s_1_3", "name": "Circulatory System", "difficulty": "intermediate", "videoCount": 4, "keywords": ["heart", "blood"]}
+      ]
+    },
+    {
+      "id": "gr5_sci_ch2",
+      "number": 2,
+      "name": "Forces and Motion",
+      "description": "Understanding force, gravity, and motion",
+      "keywords": ["force", "motion", "gravity"],
+      "topics": [
+        {"id": "gr5_s_2_1", "name": "Force", "difficulty": "basic", "videoCount": 4, "keywords": ["force", "push", "pull"]},
+        {"id": "gr5_s_2_2", "name": "Gravity", "difficulty": "intermediate", "videoCount": 4, "keywords": ["gravity"]},
+        {"id": "gr5_s_2_3", "name": "Simple Machines", "difficulty": "intermediate", "videoCount": 4, "keywords": ["machines", "lever"]}
+      ]
+    },
+    {
+      "id": "gr5_sci_ch3",
+      "number": 3,
+      "name": "Light and Sound",
+      "description": "Properties of light and sound",
+      "keywords": ["light", "sound", "energy"],
+      "topics": [
+        {"id": "gr5_s_3_1", "name": "Light", "difficulty": "basic", "videoCount": 4, "keywords": ["light", "reflection"]},
+        {"id": "gr5_s_3_2", "name": "Sound", "difficulty": "basic", "videoCount": 4, "keywords": ["sound", "vibration"]},
+        {"id": "gr5_s_3_3", "name": "Energy", "difficulty": "intermediate", "videoCount": 4, "keywords": ["energy", "forms"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_eng_ncert_u4",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_e4_001",
+      "videoId": "gr4_en_4_1",
+      "question": "What is the poem 'Why?' about?",
+      "answer": "The poem 'Why?' is about a child who is curious about the world. The child keeps asking 'why' about many things in nature -- like why the sky is blue, why the wind blows, and why birds can fly. The poem tells us that asking questions is a wonderful habit because it helps us learn and understand the world better.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_e4_002",
+      "videoId": "gr4_en_4_1",
+      "question": "Why is it good to ask questions?",
+      "answer": "Asking questions is good because it helps us learn new things! When we ask 'why', 'what', or 'how', we get answers that help us understand the world. Scientists, explorers, and inventors all started by asking questions. The poem 'Why?' encourages us to be curious and keep asking.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_e4_003",
+      "videoId": "gr4_en_4_2",
+      "question": "Who is Alice and what did she do?",
+      "answer": "Alice is a young, curious girl in the story 'Alice in Wonderland' by Lewis Carroll. One day, she saw a White Rabbit wearing a coat and hurrying along with a pocket watch. She was so curious that she followed the Rabbit down a rabbit hole and landed in a magical place called Wonderland, where she had many strange adventures.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_e4_004",
+      "videoId": "gr4_en_4_2",
+      "question": "What strange things happened to Alice in Wonderland?",
+      "answer": "Many strange things happened to Alice! She fell very slowly down a deep rabbit hole. She grew very tall after drinking from a little bottle. She shrank very small after eating a cake. She met unusual characters like talking animals. Everything in Wonderland was surprising and different from the real world.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_e4_005",
+      "videoId": "gr4_en_4_2",
+      "question": "What do the poem 'Why?' and the story 'Alice in Wonderland' have in common?",
+      "answer": "Both the poem and the story are about curiosity! The child in the poem is curious about the world and keeps asking questions. Alice in the story is curious about the White Rabbit and follows it into Wonderland. Both teach us that being curious leads to wonderful discoveries and adventures.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_e4_006",
+      "videoId": "gr4_en_4_3",
+      "question": "What are question words and can you list them?",
+      "answer": "Question words are special words used to ask questions. They are also called Wh-words because most of them begin with 'Wh'. The main question words are: What, Where, When, Who, Why, Which, and How. Each one helps us ask about something different -- things, places, time, people, reasons, choices, or manner.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_e4_007",
+      "videoId": "gr4_en_4_3",
+      "question": "What is the difference between 'Where' and 'When'?",
+      "answer": "'Where' asks about a place and 'When' asks about time. For example: 'Where do you live?' asks about a place (answer: in Delhi). 'When do you wake up?' asks about time (answer: at 7 o'clock). Remember: Where = place, When = time!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_e4_008",
+      "videoId": "gr4_en_4_3",
+      "question": "Why do we need a question mark at the end of a question?",
+      "answer": "A question mark (?) tells the reader that the sentence is a question, not a statement. Without it, the reader would not know you are asking something. For example: 'Where is your bag?' is a question. 'Where is your bag.' looks wrong because it is missing the question mark. Always end your questions with a question mark!",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_e4_009",
+      "videoId": "gr4_en_4_3",
+      "question": "How is 'Which' different from 'What'?",
+      "answer": "'What' is used when there are many possible answers: 'What is your favourite colour?' 'Which' is used when you are choosing from a small number of options: 'Which pencil do you want -- the red one or the blue one?' Use 'which' when the choices are limited and 'what' when they are open.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_e4_010",
+      "videoId": "gr4_en_4_3",
+      "question": "Can 'How' be used with other words to ask questions?",
+      "answer": "Yes! 'How' combines with other words to ask different kinds of questions. 'How many' asks about number (How many books?). 'How much' asks about amount (How much water?). 'How old' asks about age (How old are you?). 'How far' asks about distance (How far is the school?). These are all very useful question phrases!",
+      "status": "answered",
+      "upvotes": 21
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "algorithmId": "rec_gr4_math_ncert_ch12",
+  "topicId": "gr4_mn_12_1",
+  "topicName": "Ticking Clocks and Turning Calendar",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for time and calendar: reading time, AM and PM, elapsed time, calendar reading, and time and calendar word problems",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent clock and calendar foundation, can fast-track to elapsed time and word problems with challenges",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2130,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn12_v1",
+          "reason": "Quick introduction to reading time on an analog clock",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v3",
+          "reason": "AM and PM: understanding morning and afternoon/evening time",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v4",
+          "reason": "Elapsed time: calculating how much time has passed",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v5",
+          "reason": "Calendar reading: months, days, and the knuckle trick",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v6",
+          "reason": "Challenge: time and calendar word problems using number lines",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v2",
+          "reason": "Optional deeper explanation of telling time for enrichment",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of all time and calendar topics from basic reading to word problems",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 6,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2130,
+      "videoSequence": [
+        {
+          "videoId": "gr4_mn12_v1",
+          "reason": "Learn to read time on an analog clock step by step",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v2",
+          "reason": "Reinforce time-telling with a detailed explanation of clock mechanics",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v3",
+          "reason": "Understand AM and PM and how a day has two 12-hour halves",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v4",
+          "reason": "Learn to calculate elapsed time between two events",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v5",
+          "reason": "Learn to read a calendar: months, days, and the knuckle trick",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v6",
+          "reason": "Solve time and calendar word problems using number lines",
+          "skippable": false
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in clock reading or calendar vocabulary, needs targeted review before main content",
+      "playlistComposition": {
+        "prerequisiteVideos": 2,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2670,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "hour_hand_weak": {
+            "addVideos": ["prereq_ch12_clock_v1"],
+            "priority": "high"
+          },
+          "counting_fives_weak": {
+            "addVideos": ["prereq_ch12_counting5_v1"],
+            "priority": "high"
+          },
+          "days_months_weak": {
+            "addVideos": ["prereq_ch12_days_v1"],
+            "priority": "medium"
+          },
+          "number_sequence_weak": {
+            "addVideos": ["prereq_ch12_counting5_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_ch12_clock_v1",
+          "reason": "Review: Reading the hour hand on a clock",
+          "skippable": false,
+          "condition": "if hour_hand concept is weak"
+        },
+        {
+          "videoId": "prereq_ch12_counting5_v1",
+          "reason": "Review: Skip counting by 5s for reading minutes",
+          "skippable": false,
+          "condition": "if counting_fives concept is weak"
+        },
+        {
+          "videoId": "gr4_mn12_v1",
+          "reason": "Start main topic: Learn to read time on an analog clock",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v3",
+          "reason": "AM and PM: morning vs afternoon/evening time",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v4",
+          "reason": "Elapsed time: how much time has passed",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v5",
+          "reason": "Calendar reading: months, days, and the knuckle trick",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v6",
+          "reason": "Time and calendar word problems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review in clock basics, skip counting, and calendar vocabulary before attempting time and calendar concepts",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1500,
+      "videoSequence": [
+        {
+          "videoId": "prereq_ch12_clock_v1",
+          "reason": "Foundation: Learn to read the hour hand on a clock",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch12_counting5_v1",
+          "reason": "Essential: Skip counting by 5s for reading minutes",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_ch12_days_v1",
+          "reason": "Critical: Days of the week and months of the year",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v1",
+          "reason": "Gentle intro to reading time on an analog clock",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_mn12_v5",
+          "reason": "Fun calendar song to learn months and days",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these review videos, try the readiness quiz again to check if you are ready to continue with all time and calendar topics."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "hour_hand": {
+        "conceptName": "Reading the hour hand on a clock",
+        "importance": "critical",
+        "videoIds": ["prereq_ch12_clock_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq12_1", "rq12_2", "rq12_3"]
+      },
+      "counting_fives": {
+        "conceptName": "Skip counting by 5s (for reading minutes)",
+        "importance": "critical",
+        "videoIds": ["prereq_ch12_counting5_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq12_4", "rq12_5", "rq12_6"]
+      },
+      "days_months": {
+        "conceptName": "Days of the week and months of the year",
+        "importance": "important",
+        "videoIds": ["prereq_ch12_days_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq12_7", "rq12_8"]
+      },
+      "number_sequence": {
+        "conceptName": "Number sequence and ordering",
+        "importance": "helpful",
+        "videoIds": ["prereq_ch12_counting5_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq12_9", "rq12_10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_mn12_v1",
+        "checkpointName": "Reading Time Check",
+        "questions": [
+          {
+            "question": "If the short hand is on 7 and the long hand is on 12, what time is it?",
+            "options": ["12:07", "7:12", "7:00", "12:00"],
+            "correctAnswer": 2,
+            "explanation": "When the long hand is on 12, it means exactly on the hour. The short hand on 7 means it is 7:00 (7 o'clock)."
+          },
+          {
+            "question": "The long hand on a clock tells us the:",
+            "options": ["Hours", "Minutes", "Days", "Months"],
+            "correctAnswer": 1,
+            "explanation": "The long (minute) hand tells us the minutes. The short hand tells us the hours."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Great job! You understand how to read the clock really well."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_ch12_clock_v1",
+          "reason": "Student struggling with identifying clock hands and reading time"
+        }
+      },
+      {
+        "afterVideoId": "gr4_mn12_v4",
+        "checkpointName": "Elapsed Time Check",
+        "questions": [
+          {
+            "question": "A movie starts at 3:00 PM and ends at 5:00 PM. How long is the movie?",
+            "options": ["1 hour", "2 hours", "3 hours", "5 hours"],
+            "correctAnswer": 1,
+            "explanation": "From 3:00 PM to 5:00 PM is 2 hours. Count: 3 to 4 is 1 hour, 4 to 5 is another hour. Total = 2 hours."
+          }
+        ],
+        "ifCorrect": {
+          "action": "continue_normally",
+          "message": "Well done! You understand elapsed time."
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Try counting the hours between start time and end time on your fingers. Go one hour at a time."
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip to word problems for extra challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on clock basics and skip counting"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practising with a real clock at home: read the time every hour and write it down"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You already know your clock hands and calendar basics really well. You are ready to master telling time, elapsed time, and calendar skills. We have a fast-track playlist with some fun challenges!"
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand clock basics and calendar vocabulary nicely. Let's learn reading time, AM and PM, elapsed time, calendar reading, and how to solve time word problems."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in clock reading or calendar basics. Don't worry! We will start with targeted review videos on the concepts you need, then move on to the chapter topics."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review clock hands, counting by 5s, and days and months first. We have created a playlist with fun videos to build a strong foundation. After watching, you can retake the quiz and then learn all about time and calendars."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how time and calendar concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Reading the hour hand", "Skip counting by 5s"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Days of the week", "Months of the year", "Number sequences"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Reading time in hours and minutes", "Quarter past, half past, quarter to"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["AM and PM", "12-hour clock understanding"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Elapsed time", "Duration of events"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 6,
+        "concepts": ["Calendar reading", "Days in each month", "Leap years", "Knuckle trick"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 7,
+        "concepts": ["Time word problems", "Calendar word problems", "Daily scheduling"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 80,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.2,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "clockReading": {
+      "target": 90,
+      "description": "% of students who can correctly read time on an analog clock"
+    },
+    "calendarSkills": {
+      "target": 85,
+      "description": "% of students who can correctly read dates and count days on a calendar"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (15 min) + retake + main content (25 min) = 45-55 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing the hour hand with the minute hand",
+      "solution1": "Emphasize: short hand = hours, long hand = minutes. Use coloring activities to mark each hand differently",
+      "challenge2": "Students reading minutes directly from the number instead of multiplying by 5",
+      "solution2": "Practice skip counting by 5s around the clock face until it becomes automatic",
+      "challenge3": "Students mixing up AM and PM",
+      "solution3": "Use daily routine anchors: breakfast = AM, dinner = PM. Draw a timeline of their day split into AM and PM halves"
+    }
+  }
+}

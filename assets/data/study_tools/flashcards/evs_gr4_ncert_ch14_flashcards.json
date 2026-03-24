@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_evs_ncert_ch14",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_farming_basics",
+      "name": "Farming Basics",
+      "description": "Learn the basics of farming in India",
+      "cards": [
+        {
+          "id": "fc_fb_001",
+          "front": "What is farming?",
+          "back": "Farming is the practice of growing crops and raising animals for food and other products. A person who farms is called a farmer. Most of India's food comes from farming.",
+          "hints": ["Growing food"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fb_002",
+          "front": "What are the main steps of farming?",
+          "back": "The main steps are: (1) Ploughing - loosening the soil, (2) Sowing - planting seeds, (3) Watering/Irrigation, (4) Weeding - removing unwanted plants, (5) Harvesting - cutting and collecting the crop.",
+          "hints": ["Think of the steps from planting to collecting"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_fb_003",
+          "front": "Why is ploughing important before sowing seeds?",
+          "back": "Ploughing loosens the soil so that roots can grow easily, air can reach the roots, and water can soak into the ground. It also turns over the soil and mixes in nutrients.",
+          "hints": ["Think about what roots need"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fb_004",
+          "front": "What tools do farmers use?",
+          "back": "Traditional tools include plough, sickle (for cutting crops), hoe (for digging), and spade. Modern tools include tractors, harvesters, seed drills, and sprinklers.",
+          "hints": ["Both old and new tools"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fb_005",
+          "front": "What is irrigation?",
+          "back": "Irrigation means supplying water to crops through channels, pipes, sprinklers, or drip systems. It is important because crops cannot always depend on rain alone for water.",
+          "hints": ["Giving water to fields"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_seasons_crops",
+      "name": "Seasons and Crops",
+      "description": "Understand how seasons affect farming",
+      "cards": [
+        {
+          "id": "fc_sc_001",
+          "front": "What are Kharif crops?",
+          "back": "Kharif crops are sown at the start of the monsoon season (June-July) and harvested in autumn (October-November). Examples include rice, maize, millet (bajra), cotton, and sugarcane.",
+          "hints": ["Rainy season crops"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_sc_002",
+          "front": "What are Rabi crops?",
+          "back": "Rabi crops are sown in winter (October-November) and harvested in spring (March-April). Examples include wheat, mustard, peas, gram (chana), and linseed.",
+          "hints": ["Winter season crops"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_sc_003",
+          "front": "Why do different crops grow in different seasons?",
+          "back": "Different crops need different amounts of water, sunlight, and temperature. Rice needs lots of water so it grows in the rainy season. Wheat needs cool weather so it grows in winter.",
+          "hints": ["Each plant has different needs"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_sc_004",
+          "front": "What does Basva grow on his farm?",
+          "back": "In the chapter, Basva's family grows different crops in different seasons - rice and vegetables during the rainy season, and wheat or lentils during winter. They also have some fruit trees and keep animals.",
+          "hints": ["Different things in different seasons"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_sc_005",
+          "front": "Why is rain important for Indian farmers?",
+          "back": "Many Indian farmers depend on rain for watering their crops because they do not have irrigation facilities. A good monsoon means good crops, while less rain can mean crop failure and hardship.",
+          "hints": ["Not all farmers have irrigation"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_farm_life",
+      "name": "Life on a Farm",
+      "description": "Learn about daily life and challenges on an Indian farm",
+      "cards": [
+        {
+          "id": "fc_fl_001",
+          "front": "How do farm animals help farmers?",
+          "back": "Bullocks help plough fields and pull carts. Cows and buffaloes give milk. Hens give eggs. Goats give milk and wool. Animal dung is used as manure to make soil fertile.",
+          "hints": ["Animals help in many ways"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fl_002",
+          "front": "What is manure and why is it useful?",
+          "back": "Manure is natural fertiliser made from animal dung, dead leaves, and kitchen waste that has decomposed. It adds nutrients to the soil and helps plants grow better without using chemicals.",
+          "hints": ["Natural fertiliser from waste"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_fl_003",
+          "front": "What challenges do Indian farmers face?",
+          "back": "Indian farmers face many challenges: unpredictable rain, pests that eat crops, lack of money for good seeds and tools, sometimes not getting fair prices for their produce, and climate change.",
+          "hints": ["Rain, pests, and money problems"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_fl_004",
+          "front": "Why should we respect farmers?",
+          "back": "Farmers work very hard in heat and rain to grow the food we eat every day. Without farmers, we would have no rice, wheat, vegetables, or fruits. They feed the whole nation!",
+          "hints": ["They give us our food"],
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

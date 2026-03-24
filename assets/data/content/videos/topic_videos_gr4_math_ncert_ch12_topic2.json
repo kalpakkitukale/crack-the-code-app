@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn12_t2",
+  "topicId": "gr4_mn_12_2",
+  "topicName": "AM and PM",
+  "chapterId": "gr4_math_ncert_ch12",
+  "chapterName": "Ticking Clocks and Turning Calendar",
+  "description": "Main learning videos for understanding AM and PM: morning time vs afternoon/evening time, 12-hour clock, and how a full day has 24 hours split into two halves",
+
+  "videos": [
+    {
+      "id": "gr4_mn12_v3",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "AM and PM | Telling Time with the Minute Monsters",
+      "description": "What is AM and what is PM? Learn the difference between morning time (AM) and afternoon/evening time (PM) with the fun Minute Monsters! Understand how a day has 24 hours split into two halves.",
+
+      "youtubeId": "-K_bIl4C3rY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-K_bIl4C3rY",
+      "thumbnailUrl": "https://img.youtube.com/vi/-K_bIl4C3rY/hqdefault.jpg",
+
+      "duration": 240,
+      "durationDisplay": "4:00",
+
+      "channelName": "eSpark Learning",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1200000,
+
+      "tags": ["AM", "PM", "morning", "afternoon", "12 hour clock", "time of day"],
+
+      "learningObjectives": [
+        "Understand AM means morning time (midnight to noon)",
+        "Understand PM means afternoon/evening time (noon to midnight)",
+        "Know that a full day has 24 hours split into 12 hours AM and 12 hours PM"
+      ],
+
+      "prerequisites": ["Reading time on a clock"],
+      "followUpTopics": ["Elapsed time"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "You eat dinner at 7 in the evening. Is that AM or PM?",
+            "options": ["AM", "PM", "Neither"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn12_v3"],
+      "estimatedTime": 240
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn12_v3"],
+      "estimatedTime": 240
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn12_v3"],
+      "estimatedTime": 240
+    }
+  }
+}

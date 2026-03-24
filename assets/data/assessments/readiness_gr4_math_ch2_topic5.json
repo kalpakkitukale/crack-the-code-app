@@ -1,0 +1,407 @@
+{
+  "assessmentId": "readiness_gr4_m2_t5",
+  "topicId": "gr4_m_2_5",
+  "topicName": "Word Problems on Addition and Subtraction",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning to solve word problems on addition and subtraction",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 5,
+      "intermediate": 4,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "addition_subtraction_mastery",
+      "conceptName": "Mastery of addition and subtraction (with and without regrouping)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2"],
+      "remedialVideoIds": ["prereq_addsub_review_v1"]
+    },
+    {
+      "conceptId": "identifying_operations",
+      "conceptName": "Identifying which operation to use (addition vs subtraction)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq3", "rq4", "rq5"],
+      "remedialVideoIds": ["prereq_keywords_v1"]
+    },
+    {
+      "conceptId": "reading_comprehension",
+      "conceptName": "Understanding word problems and extracting information",
+      "importance": "critical",
+      "questionsTestingThis": ["rq6", "rq7", "rq8"],
+      "remedialVideoIds": ["prereq_readprob_v1"]
+    },
+    {
+      "conceptId": "problem_solving_steps",
+      "conceptName": "Following problem-solving steps systematically",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_steps_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_subtraction_mastery",
+
+      "question": "What is 2,567 + 1,845?",
+
+      "options": ["4,412", "4,312", "3,412", "4,512"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "4,412",
+
+      "explanation": "Add with regrouping: 7+5=12 (carry 1), 6+4+1=11 (carry 1), 5+8+1=14 (carry 1), 2+1+1=4 → 4,412.",
+
+      "tags": ["addition", "regrouping", "computation"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Error in carrying",
+          "conceptGap": "Addition with regrouping accuracy",
+          "remediation": "Review addition with regrouping"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_subtraction_mastery",
+
+      "question": "What is 6,345 - 2,178?",
+
+      "options": ["4,167", "4,267", "4,067", "4,177"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "4,167",
+
+      "explanation": "Subtract with regrouping: Borrow in ones, tens, hundreds. 4,167 is correct.",
+
+      "tags": ["subtraction", "regrouping", "computation"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Error in borrowing",
+          "conceptGap": "Subtraction with regrouping accuracy",
+          "remediation": "Review subtraction with regrouping"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "identifying_operations",
+
+      "question": "Ravi had 5,000 rupees. He spent 1,500 rupees. Which operation should you use to find how much money he has left?",
+
+      "options": ["Subtraction", "Addition", "Both addition and subtraction", "Multiplication"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Subtraction",
+
+      "explanation": "Keywords: 'spent', 'how much left' indicate taking away → Subtraction. 5,000 - 1,500.",
+
+      "tags": ["word problems", "operation selection", "keywords"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Confused operation",
+          "conceptGap": "Identifying operations from keywords",
+          "remediation": "Learn keyword indicators for operations"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "identifying_operations",
+
+      "question": "A school has 2,345 students in the morning shift and 1,876 students in the afternoon shift. Which operation finds the total number of students?",
+
+      "options": ["Addition", "Subtraction", "Division", "Multiplication"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Addition",
+
+      "explanation": "Keywords: 'total', combining two groups → Addition. 2,345 + 1,876.",
+
+      "tags": ["word problems", "operation selection", "total"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Confused operation",
+          "conceptGap": "Understanding 'total' means addition",
+          "remediation": "Learn that 'total', 'altogether', 'sum' mean addition"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionType": "true_false",
+      "difficulty": "intermediate",
+      "conceptTested": "identifying_operations",
+
+      "question": "True or False: Words like 'difference', 'how many more', 'left', and 'remaining' usually indicate subtraction.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! These keywords indicate comparison or taking away, which means subtraction.",
+
+      "tags": ["keywords", "operation selection", "subtraction indicators"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't know keyword meanings",
+          "conceptGap": "Understanding problem-solving keywords",
+          "remediation": "Study common keywords for operations"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "reading_comprehension",
+
+      "question": "Read: 'A library had 8,456 books. It received 2,134 new books as a donation.' What information do we know?",
+
+      "options": [
+        "Starting books: 8,456, New books: 2,134",
+        "Total books: 8,456, Books sold: 2,134",
+        "Only that library has books",
+        "Starting books: 2,134, New books: 8,456"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Starting books: 8,456, New books: 2,134",
+
+      "explanation": "Extract given information: Started with 8,456, received (got) 2,134 more.",
+
+      "tags": ["reading comprehension", "extracting information", "given data"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Mixed up the numbers",
+          "conceptGap": "Careful reading and organization",
+          "remediation": "Practice identifying and organizing given information"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_comprehension",
+
+      "question": "Read: 'Meera collected 3,245 stamps. Her brother collected 1,890 stamps.' What is the question asking if it says 'How many stamps did they collect altogether?'",
+
+      "options": [
+        "Find the total (sum) of their stamps",
+        "Find who collected more",
+        "Find the difference in stamps",
+        "Find how many each person collected"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Find the total (sum) of their stamps",
+
+      "explanation": "'Altogether' means combined, total → Find sum by addition.",
+
+      "tags": ["reading comprehension", "question understanding", "altogether"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Confused 'altogether' with 'difference'",
+          "conceptGap": "Understanding question keywords",
+          "remediation": "Learn what different question words mean"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "reading_comprehension",
+
+      "question": "True or False: When solving a word problem, you should read it at least twice to understand it fully.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Reading carefully and multiple times helps understand what's given and what's asked.",
+
+      "tags": ["problem solving", "reading strategy", "comprehension"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 20,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Thought once is enough",
+          "conceptGap": "Careful reading habit",
+          "remediation": "Practice reading problems multiple times"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "problem_solving_steps",
+
+      "question": "What are the correct steps for solving a word problem?",
+
+      "options": [
+        "Read → Identify given/asked → Choose operation → Solve → Check",
+        "Solve → Read → Check",
+        "Read → Solve",
+        "Choose operation → Read → Solve"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Read → Identify given/asked → Choose operation → Solve → Check",
+
+      "explanation": "Follow systematic steps: understand problem, organize information, decide operation, compute, verify answer.",
+
+      "tags": ["problem solving", "steps", "strategy"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 2,
+          "mistake": "Skipped important steps",
+          "conceptGap": "Understanding problem-solving process",
+          "remediation": "Learn and practice all problem-solving steps"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "problem_solving_steps",
+
+      "question": "After solving a word problem, what is the best way to check your answer?",
+
+      "options": [
+        "Check if answer makes sense in the problem context",
+        "Just trust your calculation",
+        "Ask someone else",
+        "Only check if you have time"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "Check if answer makes sense in the problem context",
+
+      "explanation": "Always verify: Does the answer make sense? Is it reasonable? Can you verify using opposite operation?",
+
+      "tags": ["checking", "verification", "reasonableness"],
+      "bloomsLevel": "evaluate",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Didn't verify answer",
+          "conceptGap": "Checking and verification habit",
+          "remediation": "Always check if answer is reasonable"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong addition/subtraction skills and understand problem-solving basics. You're ready for word problems.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You're ready to learn word problem strategies. Let's build your skills.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in computation or identifying operations. Watch review videos before tackling word problems.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review addition/subtraction and problem-solving basics first. We'll build your foundation.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you master word problems.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn word problem-solving strategies.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

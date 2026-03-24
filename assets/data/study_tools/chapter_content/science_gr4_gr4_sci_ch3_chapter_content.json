@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_sci_ch3",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_s3",
+    "title": "Matter and Materials",
+    "content": "This chapter teaches students about matter and its three states: solid, liquid, and gas. Students will learn that everything around them is made of matter, which is anything that takes up space and has weight. Through everyday examples like ice cubes melting, water boiling, and inflating balloons, students discover how the tiny particles in each state behave differently. The chapter also explains how matter can change from one state to another through heating and cooling, such as melting, freezing, evaporation, and condensation.",
+    "keyPoints": [
+      "Matter is anything that takes up space and has weight",
+      "The three states of matter are solid, liquid, and gas",
+      "Solids have a fixed shape and fixed size with tightly packed particles",
+      "Liquids flow and take the shape of their container",
+      "Gases have no fixed shape or size and spread out to fill all available space",
+      "Matter changes state when heated (melting, evaporation) or cooled (freezing, condensation)"
+    ],
+    "learningObjectives": [
+      "Define matter and identify examples of matter in daily life",
+      "Describe the three states of matter and their properties",
+      "Compare how particles behave in solids, liquids, and gases",
+      "Explain how matter changes from one state to another",
+      "Give everyday examples of melting, freezing, evaporation, and condensation"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_s3_001",
+      "title": "Easy Way to Remember the Three States",
+      "content": "Solids STAY in shape (like a rock). Liquids SLIDE and flow (like water). Gases GO everywhere (like air). Think of it as Stay, Slide, Go! Another way: in solids, particles are hugging tightly; in liquids, they hold hands loosely; in gases, they run free!",
+      "tags": ["study-tip", "memory-aid"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_s3_002",
+      "title": "State Changes You See Every Day",
+      "content": "Melting: ice cream on a hot day, butter in a pan, ice cubes in juice. Freezing: water turning to ice in the freezer, frost on a cold morning. Evaporation: wet clothes drying, puddles disappearing after rain. Condensation: water drops on a cold glass, fog on a mirror after a hot shower. Look for these changes around you!",
+      "tags": ["key-concept", "real-world"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_s3_003",
+      "title": "Quick Comparison Table",
+      "content": "Solid: Fixed shape, Fixed size, Particles tightly packed, Can be held. Liquid: No fixed shape (takes container shape), Fixed size, Particles close but can slide, Cannot be held without container. Gas: No fixed shape, No fixed size, Particles far apart and fast, Usually invisible. Remember: as you go from solid to liquid to gas, particles move more and more freely!",
+      "tags": ["important", "practice"],
+      "isPinned": false
+    }
+  ]
+}

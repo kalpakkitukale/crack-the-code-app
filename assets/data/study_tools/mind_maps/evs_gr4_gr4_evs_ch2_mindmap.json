@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_evs_ch2",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Water",
+      "description": "Water cycle and conservation for a healthy Earth",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#2196F3",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_cycle",
+      "label": "Water Cycle",
+      "description": "The continuous journey of water on Earth",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#03A9F4",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_evaporation",
+      "label": "Evaporation",
+      "description": "Sun heats water, it becomes vapour and rises",
+      "parentId": "node_cycle",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#FF9800",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_condensation",
+      "label": "Condensation",
+      "description": "Vapour cools and forms tiny water droplets (clouds)",
+      "parentId": "node_cycle",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#9C27B0",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_precipitation",
+      "label": "Precipitation",
+      "description": "Water falls from clouds as rain, snow, or hail",
+      "parentId": "node_cycle",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#3F51B5",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_collection",
+      "label": "Collection",
+      "description": "Water flows into rivers, lakes, and oceans",
+      "parentId": "node_cycle",
+      "positionX": -300,
+      "positionY": 260,
+      "color": "#00BCD4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_sources",
+      "label": "Sources of Water",
+      "description": "Where we get water from",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_surface",
+      "label": "Surface Water",
+      "description": "Rivers, lakes, ponds, and oceans",
+      "parentId": "node_sources",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_ground",
+      "label": "Groundwater",
+      "description": "Water under the ground reached by wells and pumps",
+      "parentId": "node_sources",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_conservation",
+      "label": "Water Conservation",
+      "description": "Ways to save and protect water",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_home",
+      "label": "At Home",
+      "description": "Turn off taps, fix leaks, use buckets",
+      "parentId": "node_conservation",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_harvesting",
+      "label": "Rainwater Harvesting",
+      "description": "Collecting and storing rainwater for later use",
+      "parentId": "node_conservation",
+      "positionX": 250,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_importance",
+      "label": "Why Save Water?",
+      "description": "Only 3% of Earth's water is fresh water",
+      "parentId": "node_conservation",
+      "positionX": 350,
+      "positionY": 180,
+      "color": "#EF5350",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_drought",
+      "label": "Drought",
+      "description": "Long dry periods cause water shortage for all living things",
+      "parentId": "node_importance",
+      "positionX": 350,
+      "positionY": 260,
+      "color": "#FF5722",
+      "orderIndex": 13
+    }
+  ]
+}

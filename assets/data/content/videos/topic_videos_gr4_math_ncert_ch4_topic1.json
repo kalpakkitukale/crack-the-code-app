@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn4_t1",
+  "topicId": "gr4_mn_4_1",
+  "topicName": "Place Value up to 5 Digits",
+  "chapterId": "gr4_math_ncert_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1560,
+    "totalDurationDisplay": "26:00",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_4_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn4_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Place Value up to 5 Digits | Ten Thousands Place",
+      "description": "Learn about place value in 5-digit numbers. Understand ones, tens, hundreds, thousands, and ten thousands places with real-life examples like distances and populations!",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+      "tags": ["place value", "5-digit", "ten thousands", "ones", "tens", "hundreds", "thousands"],
+      "learningObjectives": ["Identify the five places in a 5-digit number", "State the value of each digit based on its position", "Read a 5-digit number using place value"],
+      "keyConceptsCovered": ["Ones, tens, hundreds, thousands, ten thousands", "Place value vs face value", "How each place is 10 times the one before it"],
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Reading and writing large numbers", "Expanded form of 5-digit numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn4_v6",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Place Value Practice | All Forms of 5-Digit Numbers",
+      "description": "Practice writing 5-digit numbers in standard form, expanded form, and word form. Strengthen your understanding of place value with plenty of examples and exercises.",
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 550000,
+      "tags": ["practice", "all forms", "5-digit", "standard form", "expanded form", "word form"],
+      "learningObjectives": ["Write 5-digit numbers in standard form", "Convert between standard and expanded forms", "Write number names for 5-digit numbers"],
+      "keyConceptsCovered": ["Standard form (e.g., 45,328)", "Expanded form (e.g., 40,000 + 5,000 + 300 + 20 + 8)", "Word form (e.g., forty-five thousand three hundred twenty-eight)"],
+      "prerequisites": ["Understanding of 5-digit place value"],
+      "followUpTopics": ["Reading and writing large numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch4_placevalue_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "3-Digit Place Value Review",
+      "description": "Review place value for 3-digit numbers. Understand the ones, tens, and hundreds places and how each digit's position determines its value.",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1400000,
+      "tags": ["place value", "3-digit numbers", "ones", "tens", "hundreds", "review"],
+      "learningObjectives": ["Identify the ones, tens, and hundreds place in a 3-digit number", "State the value of each digit based on its position", "Write 3-digit numbers in expanded form"],
+      "keyConceptsCovered": ["3-digit place value review", "Foundation for understanding larger place values"],
+      "prerequisites": ["Counting to 100"],
+      "followUpTopics": ["4-digit place value", "5-digit place value"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch4_counting_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Counting to 1000",
+      "description": "Learn to count up to 1000 by ones, tens, and hundreds. Understand what happens after 999 and how we build larger numbers from smaller groups.",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2200000,
+      "tags": ["counting", "counting to 1000", "skip counting", "hundreds"],
+      "learningObjectives": ["Count forward and backward within 1000", "Skip count by 10s and 100s to 1000", "Bridge the transition from hundreds to thousands"],
+      "keyConceptsCovered": ["Counting patterns", "Transition from 3-digit to 4-digit numbers"],
+      "prerequisites": ["Counting to 100"],
+      "followUpTopics": ["Place value up to 5 digits"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn4_v1", "gr4_mn4_v6"],
+      "totalVideos": 2,
+      "estimatedTime": 840,
+      "estimatedTimeDisplay": "14:00",
+      "rationale": "Quick introduction and practice for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn4_v1", "gr4_mn4_v6", "prereq_ch4_placevalue_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1200,
+      "estimatedTimeDisplay": "20:00",
+      "rationale": "Complete coverage of place value with review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch4_placevalue_v1", "prereq_ch4_counting_v1", "gr4_mn4_v1", "gr4_mn4_v6"],
+      "totalVideos": 4,
+      "estimatedTime": 1500,
+      "estimatedTimeDisplay": "25:00",
+      "rationale": "Start with prerequisite review, then cover 5-digit place value"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn4_v1", "gr4_mn4_v6"],
+      "totalVideos": 2,
+      "estimatedTime": 840,
+      "estimatedTimeDisplay": "14:00",
+      "rationale": "Essential place value concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn4_v1",
+      "checkpointName": "Place Value Understanding Check",
+      "questions": [
+        {
+          "question": "In the number 53,417, what is the value of the digit 5?",
+          "options": ["5", "500", "5,000", "50,000"],
+          "correctAnswer": 3,
+          "explanation": "The digit 5 is in the ten thousands place. So its value is 50,000."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use a place value chart with columns for ten thousands, thousands, hundreds, tens, and ones. Have students place digits and say the value of each digit aloud.",
+    "parentGuidance": "Help your child find 5-digit numbers in real life: car odometer readings, populations on maps, prices of electronics. Talk about what each digit means.",
+    "studentGuidance": "Think of place value like an address. Each digit lives in a different house: ones, tens, hundreds, thousands, ten thousands. The house tells you how much the digit is worth!"
+  }
+}

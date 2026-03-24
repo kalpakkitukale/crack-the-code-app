@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch7",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn7_001",
+      "term": "दान (Daan)",
+      "definition": "Charity or donation. It means giving something to someone in need without expecting anything back. Daan can be in the form of money, food, clothes, knowledge, or even kindness.",
+      "pronunciation": "DAAN",
+      "exampleUsage": "गरीबों को दान देना एक अच्छा काम है। (Giving charity to the poor is a good deed.)",
+      "difficulty": "easy",
+      "relatedTerms": ["दानी", "परोपकार", "सेवा"]
+    },
+    {
+      "id": "gls_gr4_hn7_002",
+      "term": "हिसाब (Hisaab)",
+      "definition": "Account or calculation. It means keeping a record or count of things. In the story, it refers to keeping a tally of how much charity one has given.",
+      "pronunciation": "HI-saab",
+      "exampleUsage": "उसने अपने खर्चे का हिसाब लगाया। (He calculated the account of his expenses.)",
+      "difficulty": "easy",
+      "relatedTerms": ["गिनती", "लेखा-जोखा", "गणना"]
+    },
+    {
+      "id": "gls_gr4_hn7_003",
+      "term": "दानी (Daani)",
+      "definition": "A generous person who gives charity. Someone who is known for being giving and helpful to others. A Daani shares what they have with those in need.",
+      "pronunciation": "DAA-nee",
+      "exampleUsage": "वह बहुत बड़ा दानी है, हमेशा सबकी मदद करता है। (He is a great giver, always helping everyone.)",
+      "difficulty": "easy",
+      "relatedTerms": ["दान", "उदार", "परोपकारी"]
+    },
+    {
+      "id": "gls_gr4_hn7_004",
+      "term": "दिखावा (Dikhaava)",
+      "definition": "Show-off or pretence. Doing something just to impress others rather than from genuine feeling. In the story, it refers to giving charity for the sake of being seen and praised.",
+      "pronunciation": "di-KHAA-vaa",
+      "exampleUsage": "दिखावे के लिए दान देना सच्चा दान नहीं है। (Giving charity for show is not true charity.)",
+      "difficulty": "medium",
+      "relatedTerms": ["ढोंग", "नकल", "प्रदर्शन"]
+    },
+    {
+      "id": "gls_gr4_hn7_005",
+      "term": "परोपकार (Paropkaar)",
+      "definition": "Helping others selflessly. 'Par' means others and 'Upkaar' means good deed. So Paropkaar means doing good for others without any selfish motive.",
+      "pronunciation": "par-op-KAAR",
+      "exampleUsage": "परोपकार से बढ़कर कोई धर्म नहीं है। (There is no greater virtue than helping others selflessly.)",
+      "difficulty": "medium",
+      "relatedTerms": ["दान", "सेवा", "मदद"]
+    },
+    {
+      "id": "gls_gr4_hn7_006",
+      "term": "ज़रूरतमंद (Zarooratmand)",
+      "definition": "A person in need. Someone who requires help, whether it is food, money, clothes, or any other kind of support. Zaroorat means need, and -mand means having.",
+      "pronunciation": "za-ROO-rat-MAND",
+      "exampleUsage": "हमें ज़रूरतमंद लोगों की मदद करनी चाहिए। (We should help people in need.)",
+      "difficulty": "medium",
+      "relatedTerms": ["गरीब", "असहाय", "बेसहारा"]
+    },
+    {
+      "id": "gls_gr4_hn7_007",
+      "term": "उदार (Udaar)",
+      "definition": "Generous or broad-minded. A person who gives freely and does not hesitate to share with others. An Udaar person has a big heart.",
+      "pronunciation": "u-DAAR",
+      "exampleUsage": "उदार व्यक्ति हमेशा दूसरों की मदद करता है। (A generous person always helps others.)",
+      "difficulty": "medium",
+      "relatedTerms": ["दानी", "दयालु", "कृपालु"]
+    },
+    {
+      "id": "gls_gr4_hn7_008",
+      "term": "भावना (Bhaavna)",
+      "definition": "Feeling or emotion. The inner feeling or intention behind any action. In the context of charity, Bhaavna means the genuine feeling of wanting to help.",
+      "pronunciation": "BHAAV-naa",
+      "exampleUsage": "दान देने की भावना दिल से आनी चाहिए। (The feeling of giving charity should come from the heart.)",
+      "difficulty": "medium",
+      "relatedTerms": ["एहसास", "जज़्बात", "अनुभूति"]
+    },
+    {
+      "id": "gls_gr4_hn7_009",
+      "term": "कंजूस (Kanjoos)",
+      "definition": "Miser or stingy person. Someone who does not like to spend or give away their things. The opposite of Daani (generous person).",
+      "pronunciation": "kan-JOOS",
+      "exampleUsage": "कंजूस आदमी कभी दान नहीं देता। (A miserly person never gives charity.)",
+      "difficulty": "easy",
+      "relatedTerms": ["लोभी", "लालची", "मक्खीचूस"]
+    },
+    {
+      "id": "gls_gr4_hn7_010",
+      "term": "सेवा (Seva)",
+      "definition": "Service or selfless help. Serving others without expecting anything in return. Seva is a form of charity where you give your time and effort instead of money.",
+      "pronunciation": "SE-vaa",
+      "exampleUsage": "बड़ों की सेवा करना हमारा कर्तव्य है। (Serving our elders is our duty.)",
+      "difficulty": "easy",
+      "relatedTerms": ["परोपकार", "मदद", "दान"]
+    }
+  ]
+}

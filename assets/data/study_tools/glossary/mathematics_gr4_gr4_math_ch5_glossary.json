@@ -1,0 +1,103 @@
+{
+  "chapterId": "gr4_math_ch5",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_m5_001",
+      "term": "Line Segment",
+      "definition": "A straight path that connects two points. It has a fixed length with a clear beginning and end.",
+      "pronunciation": "LINE SEG-ment",
+      "exampleUsage": "The edge of your eraser is a line segment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m5_002",
+      "term": "Ray",
+      "definition": "A straight path that starts at one point and goes on forever in one direction. It has one endpoint.",
+      "pronunciation": "RAY",
+      "exampleUsage": "A beam of sunlight coming through a window is like a ray.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m5_003",
+      "term": "Angle",
+      "definition": "The amount of turn between two lines or rays that meet at a common point called the vertex.",
+      "pronunciation": "ANG-ul",
+      "exampleUsage": "When you open a book halfway, the two covers form an angle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m5_004",
+      "term": "Right Angle",
+      "definition": "An angle that measures exactly 90 degrees, like the corner of a square or rectangle.",
+      "pronunciation": "RITE ANG-ul",
+      "exampleUsage": "The corners of your notebook are all right angles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m5_005",
+      "term": "Parallel Lines",
+      "definition": "Two lines that are always the same distance apart and never cross each other, no matter how long they are.",
+      "pronunciation": "PAIR-uh-lel LINES",
+      "exampleUsage": "The two rails of a railway track are parallel lines.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m5_006",
+      "term": "Perpendicular Lines",
+      "definition": "Two lines that cross each other at a right angle (90 degrees), forming an L shape or a plus sign.",
+      "pronunciation": "per-pen-DIK-yoo-ler LINES",
+      "exampleUsage": "The floor and the wall of your room meet at perpendicular lines.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m5_007",
+      "term": "Triangle",
+      "definition": "A closed shape made of 3 straight sides and 3 angles. The angles always add up to 180 degrees.",
+      "pronunciation": "TRY-ang-ul",
+      "exampleUsage": "A slice of pizza is shaped like a triangle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m5_008",
+      "term": "Equilateral Triangle",
+      "definition": "A triangle where all three sides are the same length and all three angles are equal (60 degrees each).",
+      "pronunciation": "ee-kwi-LAT-er-ul TRY-ang-ul",
+      "exampleUsage": "A yield road sign is shaped like an equilateral triangle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m5_009",
+      "term": "Quadrilateral",
+      "definition": "Any closed shape with exactly 4 straight sides and 4 angles. The word 'quad' means four.",
+      "pronunciation": "kwod-ri-LAT-er-ul",
+      "exampleUsage": "A kite, a square, and a rectangle are all quadrilaterals.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m5_010",
+      "term": "Rectangle",
+      "definition": "A four-sided shape with 4 right angles. Opposite sides are equal in length and parallel.",
+      "pronunciation": "REK-tang-ul",
+      "exampleUsage": "A door is usually shaped like a rectangle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m5_011",
+      "term": "Vertex",
+      "definition": "The point where two sides of a shape meet to form an angle. The plural is vertices.",
+      "pronunciation": "VER-teks",
+      "exampleUsage": "A triangle has 3 vertices, one at each corner.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m5_012",
+      "term": "Rhombus",
+      "definition": "A four-sided shape where all four sides are equal in length, like a tilted square.",
+      "pronunciation": "ROM-bus",
+      "exampleUsage": "The diamond shape on a playing card looks like a rhombus.",
+      "difficulty": "medium"
+    }
+  ]
+}

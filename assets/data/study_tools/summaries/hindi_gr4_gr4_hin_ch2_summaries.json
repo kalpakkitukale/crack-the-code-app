@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_hin_ch2",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_h2_v1",
+      "videoId": "gr4_h2_v1",
+      "content": "This video introduces Sangya (संज्ञा) - nouns in Hindi. Students learn that Sangya is the name given to any person (व्यक्ति), place (स्थान), thing (वस्तु), or feeling (भाव). The video explains that everything around us has a name, and that name is its Sangya. Simple examples from daily life are used: राम (Ram - a person), दिल्ली (Delhi - a place), किताब (kitab/book - a thing). Students practice identifying Sangya in short Hindi sentences.",
+      "keyPoints": [
+        "संज्ञा (Sangya) means noun - it is a naming word in Hindi",
+        "Sangya names people (व्यक्ति), places (स्थान), things (वस्तु), and feelings (भाव)",
+        "Every sentence in Hindi has at least one Sangya",
+        "You can find Sangya by asking 'किसका नाम है?' (What is the name?)"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_h2_v2",
+      "videoId": "gr4_h2_v2",
+      "content": "This video teaches the different types of Sangya (nouns) in Hindi. Students learn three main types: व्यक्तिवाचक संज्ञा (Proper Noun) for special names like गंगा, भारत, and दीपावली; जातिवाचक संज्ञा (Common Noun) for general names like लड़का, नदी, and त्यौहार; and भाववाचक संज्ञा (Abstract Noun) for feelings and qualities like खुशी, सुंदरता, and बचपन. Students also learn about समूहवाचक संज्ञा (Collective Noun) for groups like सेना, भीड़, and कक्षा.",
+      "keyPoints": [
+        "व्यक्तिवाचक संज्ञा (Proper Noun) is the special name of a particular person, place, or thing",
+        "जातिवाचक संज्ञा (Common Noun) is a general name for a whole class or type",
+        "भाववाचक संज्ञा (Abstract Noun) names feelings, qualities, and states",
+        "समूहवाचक संज्ञा (Collective Noun) names a group or collection"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_h2_v3",
+      "videoId": "gr4_h2_v3",
+      "content": "This video introduces Sarvanam (सर्वनाम) - pronouns in Hindi. Students learn that Sarvanam are words used in place of Sangya (nouns) to avoid repeating the same name. For example, instead of saying 'सीता अच्छी लड़की है। सीता रोज़ पढ़ती है,' we say 'सीता अच्छी लड़की है। वह रोज़ पढ़ती है।' Common Sarvanam like मैं (I), तुम (you), वह (he/she), हम (we), and वे (they) are introduced with examples.",
+      "keyPoints": [
+        "सर्वनाम (Sarvanam) means pronoun - a word used in place of a Sangya",
+        "Sarvanam helps us avoid repeating the same noun again and again",
+        "Common Sarvanam: मैं (I), तुम (you), वह (he/she), हम (we), वे (they)",
+        "Sarvanam makes our sentences shorter and smoother"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_h2_v4",
+      "videoId": "gr4_h2_v4",
+      "content": "This video covers the types of Sarvanam (pronouns) in Hindi. Students learn about पुरुषवाचक सर्वनाम (Personal Pronouns): उत्तम पुरुष (first person - मैं, हम), मध्यम पुरुष (second person - तुम, आप), and अन्य पुरुष (third person - वह, वे). The video also introduces निश्चयवाचक सर्वनाम (Demonstrative Pronouns like यह, वह) and प्रश्नवाचक सर्वनाम (Interrogative Pronouns like कौन, क्या). Practice sentences help students use each type correctly.",
+      "keyPoints": [
+        "पुरुषवाचक सर्वनाम (Personal Pronouns) have three types: first, second, and third person",
+        "उत्तम पुरुष: मैं, हम (I, we); मध्यम पुरुष: तुम, आप (you); अन्य पुरुष: वह, वे (he/she, they)",
+        "निश्चयवाचक सर्वनाम (Demonstrative Pronouns): यह (this), वह (that)",
+        "प्रश्नवाचक सर्वनाम (Interrogative Pronouns): कौन (who), क्या (what)"
+      ],
+      "source": "manual"
+    }
+  ]
+}

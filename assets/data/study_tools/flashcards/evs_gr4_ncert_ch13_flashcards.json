@@ -1,0 +1,126 @@
+{
+  "chapterId": "gr4_evs_ncert_ch13",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_rivers_india",
+      "name": "Rivers of India",
+      "description": "Learn about the important rivers of India",
+      "cards": [
+        {
+          "id": "fc_ri_001",
+          "front": "Where do most rivers in India begin?",
+          "back": "Most rivers in India begin in the mountains, especially the Himalayas. Snow and ice on the mountains melt and form small streams that join together to become rivers.",
+          "hints": ["Think about mountains and snow"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ri_002",
+          "front": "Name three major rivers of India.",
+          "back": "Three major rivers of India are the Ganga, Yamuna, and Brahmaputra. Other important rivers include Godavari, Krishna, Narmada, and Kaveri.",
+          "hints": ["Think of the most famous rivers"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ri_003",
+          "front": "Why are rivers important for people?",
+          "back": "Rivers give us drinking water, water for farming, and water for washing. They help with transport, fishing, and generating electricity. Many cities are built along rivers because of the water supply.",
+          "hints": ["Think about how we use water"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ri_004",
+          "front": "Where does a river end its journey?",
+          "back": "A river ends its journey when it flows into a sea or an ocean. The place where a river meets the sea is called the river's mouth. Some rivers join other bigger rivers before reaching the sea.",
+          "hints": ["Think about a large body of water"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_ri_005",
+          "front": "What is a tributary?",
+          "back": "A tributary is a smaller river or stream that joins a bigger river. For example, the Yamuna is a tributary of the Ganga - it flows into the Ganga at Prayagraj (Allahabad).",
+          "hints": ["A small river joining a big one"],
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": "deck_water_pollution",
+      "name": "Water Pollution",
+      "description": "Understand how rivers get polluted and what we can do",
+      "cards": [
+        {
+          "id": "fc_wp_001",
+          "front": "What is water pollution?",
+          "back": "Water pollution means making water dirty and unsafe by adding harmful things to it. Polluted water looks dirty, smells bad, and can make people and animals very sick.",
+          "hints": ["When water becomes dirty and harmful"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_wp_002",
+          "front": "What are the main causes of river pollution in India?",
+          "back": "Rivers get polluted by: factory waste, sewage from cities, garbage thrown into rivers, chemicals from farms, washing clothes and animals in rivers, and performing last rites in rivers.",
+          "hints": ["Waste from factories and cities"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_wp_003",
+          "front": "How does polluted river water affect fish and other water animals?",
+          "back": "Polluted water can kill fish and other water animals. Chemicals and waste use up the oxygen in water, making it hard for fish to breathe. Many river creatures have disappeared because of pollution.",
+          "hints": ["Animals need clean water to survive"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_wp_004",
+          "front": "What happens when people drink polluted water?",
+          "back": "Drinking polluted water can cause serious diseases like cholera, typhoid, jaundice, and diarrhoea. That is why we must always drink clean, filtered, or boiled water.",
+          "hints": ["It causes sickness"],
+          "difficulty": "easy"
+        },
+        {
+          "id": "fc_wp_005",
+          "front": "What can we do to help keep rivers clean?",
+          "back": "We can: not throw garbage into rivers, use less plastic, tell others not to pollute water, save water at home, support river cleaning programmes like Namami Gange, and plant trees near river banks.",
+          "hints": ["Small actions by everyone"],
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "id": "deck_river_journey",
+      "name": "A River's Journey",
+      "description": "Follow the journey of a river from mountain to sea",
+      "cards": [
+        {
+          "id": "fc_rj_001",
+          "front": "How does a river change as it flows from mountains to plains?",
+          "back": "In the mountains, a river is narrow, fast, and clean. As it reaches the plains, it becomes wider and slower. Near cities, it often becomes dirty with pollution. By the time it reaches the sea, a river may carry a lot of waste.",
+          "hints": ["Think fast to slow, clean to dirty"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_rj_002",
+          "front": "What is a river basin?",
+          "back": "A river basin is the whole area of land from which rainwater flows into one river. Like a big bowl that collects water, a river basin includes all the small streams and tributaries that feed the main river.",
+          "hints": ["An area that collects water for one river"],
+          "difficulty": "hard"
+        },
+        {
+          "id": "fc_rj_003",
+          "front": "Why are riverbanks good for farming?",
+          "back": "Riverbanks have rich, fertile soil because rivers carry nutrients and deposit them on the banks during floods. This soil is excellent for growing crops, which is why many farms are found along rivers.",
+          "hints": ["Think about the soil near rivers"],
+          "difficulty": "medium"
+        },
+        {
+          "id": "fc_rj_004",
+          "front": "What is the story a river could tell about its journey?",
+          "back": "A river would tell how it starts as clean melting snow, flows happily through forests, but becomes sad as people dump waste into it. It would ask humans to keep it clean so it can give fresh water to everyone.",
+          "hints": ["Think about the chapter title - A River's Tale"],
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "algorithmId": "rec_gr4_m1_t2",
+  "topicId": "gr4_m_1_2",
+  "topicName": "Reading and Writing Large Numbers",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for reading and writing 5-digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent reading and writing skills with 4-digit numbers, can fast-track to 5-digit with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2220,
+      "videoSequence": [
+        {
+          "videoId": "gr4_rw_v1",
+          "reason": "Introduction to reading 5-digit numbers aloud",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v2",
+          "reason": "Reading 5-digit numbers with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v3",
+          "reason": "Writing 5-digit numbers from word form",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v4",
+          "reason": "Writing with zeros - critical skill",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v5",
+          "reason": "Mixed practice - reading and writing together",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v7",
+          "reason": "Challenge: Preview 6-digit numbers (lakhs)",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of reading and writing 5-digit numbers",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2190,
+      "videoSequence": [
+        {
+          "videoId": "gr4_rw_v1",
+          "reason": "Introduction to reading 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v2",
+          "reason": "Reading numbers with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v3",
+          "reason": "Writing 5-digit numbers from words",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v4",
+          "reason": "Writing with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v5",
+          "reason": "Mixed practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in reading/writing 4-digit numbers, needs targeted review before 5-digit",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 10
+      },
+      "estimatedTime": 2760,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "reading_4digit_weak": {
+            "addVideos": ["prereq_read4_v1", "prereq_read4_v2"],
+            "priority": "high"
+          },
+          "writing_4digit_weak": {
+            "addVideos": ["prereq_write4_v1"],
+            "priority": "high"
+          },
+          "number_names_weak": {
+            "addVideos": ["prereq_names_v1"],
+            "priority": "medium"
+          },
+          "pv_5digit_weak": {
+            "addVideos": ["prereq_pv5_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_read4_v1",
+          "reason": "Review: Reading 4-digit numbers aloud",
+          "skippable": false,
+          "condition": "if reading_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_read4_v2",
+          "reason": "Review: Reading with zeros",
+          "skippable": false,
+          "condition": "if reading_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_write4_v1",
+          "reason": "Review: Writing 4-digit numbers from words",
+          "skippable": false,
+          "condition": "if writing_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_names_v1",
+          "reason": "Review: Number names and notation",
+          "skippable": false,
+          "condition": "if number_names concept is weak"
+        },
+        {
+          "videoId": "prereq_pv5_v1",
+          "reason": "Review: 5-digit place value basics",
+          "skippable": false,
+          "condition": "if pv_5digit concept is weak"
+        },
+        {
+          "videoId": "gr4_rw_v1",
+          "reason": "Start main topic: Reading 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v2",
+          "reason": "Reading with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v3",
+          "reason": "Writing 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v4",
+          "reason": "Writing with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v5",
+          "reason": "Mixed practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of reading and writing 4-digit numbers before attempting 5-digit",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2400,
+      "videoSequence": [
+        {
+          "videoId": "prereq_read4_v1",
+          "reason": "Foundation: Reading 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_read4_v2",
+          "reason": "Essential: Reading numbers with zeros",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_write4_v1",
+          "reason": "Critical: Writing numbers from words",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_names_v1",
+          "reason": "Important: Number notation and names",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv5_v1",
+          "reason": "Prepare: 5-digit place value basics",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v1",
+          "reason": "Gentle intro to reading 5-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_rw_v3",
+          "reason": "Gentle intro to writing 5-digit numbers",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with reading and writing 5-digit numbers."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "reading_4digit": {
+        "conceptName": "Reading 4-digit numbers aloud",
+        "importance": "critical",
+        "videoIds": ["prereq_read4_v1", "prereq_read4_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "writing_4digit": {
+        "conceptName": "Writing 4-digit numbers from words",
+        "importance": "critical",
+        "videoIds": ["prereq_write4_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "number_names": {
+        "conceptName": "Understanding number names and notation",
+        "importance": "important",
+        "videoIds": ["prereq_names_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "pv_5digit": {
+        "conceptName": "Understanding 5-digit place value",
+        "importance": "critical",
+        "videoIds": ["prereq_pv5_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_rw_v2",
+        "checkpointName": "Reading 5-Digit Numbers Mastery",
+        "questions": [
+          {
+            "question": "How do you read 30,050?",
+            "options": ["Three thousand fifty", "Thirty thousand fifty", "Three hundred thousand fifty", "Thirty thousand five hundred"],
+            "correctAnswer": 1,
+            "explanation": "30,050 is read as 'Thirty thousand fifty.' The zeros in hundreds and tens places are not mentioned."
+          },
+          {
+            "question": "Read: 45,678",
+            "options": [
+              "Four five six seven eight",
+              "Forty-five thousand six hundred seventy-eight",
+              "Four thousand five hundred sixty-seven eight",
+              "Forty-five six seventy-eight"
+            ],
+            "correctAnswer": 1,
+            "explanation": "45,678 = Forty-five thousand six hundred seventy-eight."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You can read 5-digit numbers correctly."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_read4_v1",
+          "reason": "Student struggling with reading numbers aloud"
+        }
+      },
+      {
+        "afterVideoId": "gr4_rw_v4",
+        "checkpointName": "Writing 5-Digit Numbers Mastery",
+        "questions": [
+          {
+            "question": "Write in digits: Fifty thousand seven",
+            "options": ["50,007", "5,007", "50,700", "50,070"],
+            "correctAnswer": 0,
+            "explanation": "Fifty thousand = 50,000; seven = 7. Total: 50,007 with zeros in hundreds, tens."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_rw_v7",
+          "reason": "Student ready for 6-digit numbers preview"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice writing numbers with zeros before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip real-world applications video, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on reading/writing 4-digit numbers"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing with parent/teacher dictating numbers to write and numbers to read aloud"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You can read and write 4-digit numbers confidently. You're ready to learn 5-digit number reading and writing. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You understand reading and writing numbers. Let's extend this skill to 5-digit numbers with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in reading or writing numbers. Don't worry! We'll start with targeted review videos on the concepts you need, then move to 5-digit numbers."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review reading and writing 4-digit numbers first. We've created a playlist focused on building strong foundation. After watching, you can retake the quiz and then learn 5-digit skills."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how reading and writing skills build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Reading 2-3 digit numbers", "Writing basic numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Reading 4-digit numbers aloud", "Writing 4-digit from words", "Understanding commas"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Reading 5-digit numbers", "Handling zeros while reading", "Breaking into parts"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Writing 5-digit from words", "Placing zeros correctly", "Converting between forms"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Reading 6-digit (lakhs)", "Real-world applications", "Indian number system"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "readingAccuracy": {
+      "target": 90,
+      "description": "% of students who can correctly read 5-digit numbers aloud"
+    },
+    "writingAccuracy": {
+      "target": 85,
+      "description": "% of students who can correctly write 5-digit numbers from word form"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (20 min) = 60-70 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students reading each digit separately instead of by place value",
+      "solution1": "Emphasize breaking into thousands part and remainder part, practice saying 'thousand' between them",
+      "challenge2": "Students placing zeros incorrectly when writing from words",
+      "solution2": "Use place value chart, write each place value amount separately then combine",
+      "challenge3": "Students confused about when to say/skip zeros",
+      "solution3": "Rule: Only read zeros if they're at the end of a section (like 'thousand' but not in middle positions)"
+    }
+  }
+}

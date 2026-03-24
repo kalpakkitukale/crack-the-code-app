@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_eng_ncert_u6",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Unit 6: Hiawatha / The Scholar's Mother Tongue",
+      "description": "A poem about a boy who loved nature and a story about Birbal's cleverness",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_hiawatha",
+      "label": "Hiawatha (Poem)",
+      "description": "A poem about a young Native American boy who lived in a forest and learned from nature",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_hw_nokomis",
+      "label": "Raised by Nokomis",
+      "description": "Hiawatha was brought up by his old grandmother Nokomis in the forest",
+      "parentId": "node_hiawatha",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_hw_birds",
+      "label": "Learned About Birds",
+      "description": "He learned names of all birds, their language, their nests, and their secrets",
+      "parentId": "node_hiawatha",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_hw_animals",
+      "label": "Learned About Animals",
+      "description": "He learned the names of all the beasts and where they hid and lived",
+      "parentId": "node_hiawatha",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_hw_message",
+      "label": "Love for Nature",
+      "description": "The poem shows harmony between humans and the natural world",
+      "parentId": "node_hiawatha",
+      "positionX": -250,
+      "positionY": 300,
+      "color": "#03A9F4",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_story",
+      "label": "The Scholar's Mother Tongue (Story)",
+      "description": "A story from Akbar's court about finding a scholar's mother tongue",
+      "parentId": "node_root",
+      "positionX": 100,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_st_challenge",
+      "label": "Akbar's Challenge",
+      "description": "Akbar asked courtiers to find the mother tongue of a pandit who spoke many languages",
+      "parentId": "node_story",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_st_birbal",
+      "label": "Birbal's Clever Plan",
+      "description": "Birbal went to the scholar at night and tickled his ear while he slept",
+      "parentId": "node_story",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_st_answer",
+      "label": "Startled Response",
+      "description": "When surprised from sleep, the scholar cried out in his mother tongue",
+      "parentId": "node_story",
+      "positionX": 100,
+      "positionY": 300,
+      "color": "#FFB74D",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_grammar",
+      "label": "Grammar: Pronouns",
+      "description": "Words that replace nouns to avoid repetition",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_gr_subject",
+      "label": "Subject Pronouns",
+      "description": "I, you, he, she, it, we, they - these do the action in a sentence",
+      "parentId": "node_grammar",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_gr_object",
+      "label": "Object Pronouns",
+      "description": "me, you, him, her, it, us, them - these receive the action",
+      "parentId": "node_grammar",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_gr_tip",
+      "label": "Remember!",
+      "description": "A pronoun must match the noun it replaces in number and gender",
+      "parentId": "node_grammar",
+      "positionX": 300,
+      "positionY": 300,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    }
+  ]
+}

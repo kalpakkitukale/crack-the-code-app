@@ -1,0 +1,131 @@
+{
+  "id": "english_gr4_ncert",
+  "name": "English",
+  "icon": "menu_book",
+  "color": "#FF9800",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "textbook": "Marigold (NCERT)",
+  "totalChapters": 9,
+  "keywords": ["english", "grade 4", "ncert", "cbse", "marigold", "grammar", "reading"],
+  "chapters": [
+    {
+      "id": "gr4_eng_ncert_u1",
+      "number": 1,
+      "name": "Unit 1: Wake Up! / Neha's Alarm Clock",
+      "description": "Poem about waking up and story about a girl's alarm clock",
+      "ncertPage": "1-14",
+      "keywords": ["morning", "wake up", "alarm", "time"],
+      "topics": [
+        {"id": "gr4_en_1_1", "name": "Wake Up! (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "morning"]},
+        {"id": "gr4_en_1_2", "name": "Neha's Alarm Clock (Story)", "difficulty": "basic", "videoCount": 4, "keywords": ["story", "alarm"]},
+        {"id": "gr4_en_1_3", "name": "Grammar: Sentences", "difficulty": "basic", "videoCount": 3, "keywords": ["sentences", "grammar"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u2",
+      "number": 2,
+      "name": "Unit 2: Noses / The Little Fir Tree",
+      "description": "Poem about different noses and story about a tree",
+      "ncertPage": "15-30",
+      "keywords": ["noses", "tree", "wishes"],
+      "topics": [
+        {"id": "gr4_en_2_1", "name": "Noses (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "body parts"]},
+        {"id": "gr4_en_2_2", "name": "The Little Fir Tree (Story)", "difficulty": "basic", "videoCount": 4, "keywords": ["story", "tree", "wishes"]},
+        {"id": "gr4_en_2_3", "name": "Grammar: Nouns", "difficulty": "basic", "videoCount": 4, "keywords": ["nouns", "grammar"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u3",
+      "number": 3,
+      "name": "Unit 3: Run! / Nasruddin's Aim",
+      "description": "Poem about running and a humorous story",
+      "ncertPage": "31-44",
+      "keywords": ["running", "aim", "humor"],
+      "topics": [
+        {"id": "gr4_en_3_1", "name": "Run! (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "action"]},
+        {"id": "gr4_en_3_2", "name": "Nasruddin's Aim (Story)", "difficulty": "basic", "videoCount": 4, "keywords": ["story", "humor"]},
+        {"id": "gr4_en_3_3", "name": "Grammar: Verbs", "difficulty": "basic", "videoCount": 4, "keywords": ["verbs", "action words"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u4",
+      "number": 4,
+      "name": "Unit 4: Why? / Alice in Wonderland",
+      "description": "Poem of questions and classic story excerpt",
+      "ncertPage": "45-62",
+      "keywords": ["questions", "curiosity", "wonderland"],
+      "topics": [
+        {"id": "gr4_en_4_1", "name": "Why? (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "questions"]},
+        {"id": "gr4_en_4_2", "name": "Alice in Wonderland (Story)", "difficulty": "intermediate", "videoCount": 5, "keywords": ["story", "fantasy"]},
+        {"id": "gr4_en_4_3", "name": "Grammar: Question Words", "difficulty": "basic", "videoCount": 4, "keywords": ["wh-questions"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u5",
+      "number": 5,
+      "name": "Unit 5: Don't Be Afraid of the Dark / Helen Keller",
+      "description": "Poem about courage and inspiring story of Helen Keller",
+      "ncertPage": "63-80",
+      "keywords": ["courage", "fear", "inspiration", "disability"],
+      "topics": [
+        {"id": "gr4_en_5_1", "name": "Don't Be Afraid of the Dark (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "courage"]},
+        {"id": "gr4_en_5_2", "name": "Helen Keller (Story)", "difficulty": "intermediate", "videoCount": 5, "keywords": ["biography", "inspiration"]},
+        {"id": "gr4_en_5_3", "name": "Grammar: Adjectives", "difficulty": "basic", "videoCount": 4, "keywords": ["adjectives", "describing"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u6",
+      "number": 6,
+      "name": "Unit 6: Hiawatha / The Scholar's Mother Tongue",
+      "description": "Native American poem and story about languages",
+      "ncertPage": "81-96",
+      "keywords": ["Hiawatha", "nature", "language", "scholar"],
+      "topics": [
+        {"id": "gr4_en_6_1", "name": "Hiawatha (Poem)", "difficulty": "intermediate", "videoCount": 4, "keywords": ["poem", "nature"]},
+        {"id": "gr4_en_6_2", "name": "The Scholar's Mother Tongue (Story)", "difficulty": "intermediate", "videoCount": 4, "keywords": ["story", "language"]},
+        {"id": "gr4_en_6_3", "name": "Grammar: Pronouns", "difficulty": "basic", "videoCount": 4, "keywords": ["pronouns"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u7",
+      "number": 7,
+      "name": "Unit 7: A Watering Rhyme / The Giving Tree",
+      "description": "Poems about nature and classic story about generosity",
+      "ncertPage": "97-114",
+      "keywords": ["garden", "plants", "giving", "generosity"],
+      "topics": [
+        {"id": "gr4_en_7_1", "name": "A Watering Rhyme (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "garden"]},
+        {"id": "gr4_en_7_2", "name": "The Giving Tree (Story)", "difficulty": "basic", "videoCount": 5, "keywords": ["story", "values"]},
+        {"id": "gr4_en_7_3", "name": "Grammar: Tenses", "difficulty": "intermediate", "videoCount": 5, "keywords": ["tenses", "past", "present"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u8",
+      "number": 8,
+      "name": "Unit 8: Books / Going to Buy a Book",
+      "description": "Poem about reading and story about visiting a bookshop",
+      "ncertPage": "115-128",
+      "keywords": ["books", "reading", "bookshop"],
+      "topics": [
+        {"id": "gr4_en_8_1", "name": "Books (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem", "reading"]},
+        {"id": "gr4_en_8_2", "name": "Going to Buy a Book (Story)", "difficulty": "basic", "videoCount": 4, "keywords": ["story", "books"]},
+        {"id": "gr4_en_8_3", "name": "Grammar: Articles", "difficulty": "basic", "videoCount": 4, "keywords": ["articles", "a", "an", "the"]}
+      ]
+    },
+    {
+      "id": "gr4_eng_ncert_u9",
+      "number": 9,
+      "name": "Unit 9: The Naughty Boy / Pinocchio",
+      "description": "Poem about adventure and classic story",
+      "ncertPage": "129-144",
+      "keywords": ["adventure", "Pinocchio", "honesty"],
+      "topics": [
+        {"id": "gr4_en_9_1", "name": "The Naughty Boy (Poem)", "difficulty": "basic", "videoCount": 3, "keywords": ["poem"]},
+        {"id": "gr4_en_9_2", "name": "Pinocchio (Story)", "difficulty": "basic", "videoCount": 5, "keywords": ["story", "honesty"]},
+        {"id": "gr4_en_9_3", "name": "Grammar: Punctuation", "difficulty": "basic", "videoCount": 4, "keywords": ["punctuation", "full stop", "comma"]}
+      ]
+    }
+  ]
+}

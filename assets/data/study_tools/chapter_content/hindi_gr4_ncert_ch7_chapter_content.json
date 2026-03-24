@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_hin_ncert_ch7",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_hn7",
+    "title": "दान का हिसाब (Account of Charity)",
+    "content": "This chapter from the NCERT Rimjhim textbook tells the story 'Daan Ka Hisaab' which explores the true meaning of charity and giving. The story contrasts two approaches to charity: one where a person carefully keeps accounts of every donation and proudly tells everyone about his generosity, and another where charity is given quietly from the heart. Through engaging storytelling, children learn that true charity (सच्चा दान) is selfless giving done without keeping score or expecting praise. The chapter builds values of generosity (उदारता), humility (नम्रता), and selfless service (परोपकार).",
+    "keyPoints": [
+      "True charity comes from the heart, not from keeping accounts",
+      "Giving for show (दिखावा) reduces the value of charity",
+      "A true giver (सच्चा दानी) helps quietly without expecting praise",
+      "Charity is not just about money - time, service, and kindness count too",
+      "Selfless service (परोपकार) and humility (नम्रता) are important values",
+      "Children can practise kindness and generosity in everyday life"
+    ],
+    "learningObjectives": [
+      "Understand the story and identify its main characters and events",
+      "Explain the difference between true charity and charity done for show",
+      "Learn new Hindi vocabulary related to giving and values",
+      "Answer comprehension questions about the story",
+      "Relate the story's message to everyday acts of kindness"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_hn7_001",
+      "title": "Acts of Kindness Journal",
+      "content": "Start a secret kindness journal! Every day, do one kind thing for someone without telling them it was you. It could be helping a classmate, sharing your tiffin, or picking up litter. Write it in your journal but do not show it to anyone. At the end of the week, read your journal and see how good it feels to help without keeping score - just like the story teaches!",
+      "tags": ["activity", "values"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_hn7_002",
+      "title": "Discussion Activity",
+      "content": "Talk with your family about what 'daan' means to them. Ask your grandparents or parents to share a story about someone who helped others selflessly. Compare their stories with the chapter. Think about: Does our family practise silent charity? What small things can we do together to help our neighbours or community?",
+      "tags": ["family-activity", "discussion"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_hn7_003",
+      "title": "Vocabulary Building Tip",
+      "content": "Make word cards for the new Hindi words from this chapter: दान, हिसाब, दानी, दिखावा, परोपकार, उदार, भावना, ज़रूरतमंद, कंजूस, सेवा. Write the Hindi word on one side and its meaning in your own words on the other. Practice using each word in a sentence. This will help you remember them for your exams and improve your Hindi!",
+      "tags": ["study-tip", "vocabulary"],
+      "isPinned": false
+    }
+  ]
+}

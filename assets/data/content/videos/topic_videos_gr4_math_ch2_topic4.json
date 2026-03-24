@@ -1,0 +1,356 @@
+{
+  "playlistId": "gr4_m2_t4_main",
+  "topicId": "gr4_m_2_4",
+  "topicName": "Subtraction with Regrouping (Borrowing)",
+  "chapterId": "gr4_math_ch2",
+  "chapterName": "Addition and Subtraction",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 7,
+    "totalDuration": 2520,
+    "totalDurationDisplay": "42:00",
+    "difficulty": "grade_appropriate",
+    "estimatedCompletionTime": "50-60 minutes with practice",
+    "prerequisiteTopics": ["gr4_m_2_3"],
+    "followUpTopics": ["gr4_m_2_5"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_subregroup_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Subtraction with Regrouping | 4-Digit Introduction",
+      "description": "Learn how to subtract 4-digit numbers with regrouping/borrowing",
+      "youtubeId": "YaYw2mL8Itg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YaYw2mL8Itg",
+      "thumbnailUrl": "https://img.youtube.com/vi/YaYw2mL8Itg/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 970000,
+      "tags": ["subtraction", "regrouping", "borrowing", "4-digit"],
+      "learningObjectives": [
+        "Understand regrouping in 4-digit subtraction",
+        "Know when to borrow",
+        "Apply regrouping systematically",
+        "Master the borrowing notation"
+      ],
+      "keyConceptsCovered": [
+        "When top digit < bottom digit in any place, regroup",
+        "Borrow 1 from next place (cross out, write smaller)",
+        "Example: 5,432 - 2,856 → Ones: Can't do 2-6, borrow from tens",
+        "Continue systematically from right to left"
+      ],
+      "prerequisites": ["2-digit regrouping", "4-digit basic subtraction"],
+      "followUpTopics": ["Multiple regroupings"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_subregroup_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Regrouping Once | Worked Examples",
+      "description": "Practice problems with regrouping in one place",
+      "youtubeId": "6npeJ-T7-9M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6npeJ-T7-9M",
+      "thumbnailUrl": "https://img.youtube.com/vi/6npeJ-T7-9M/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 910000,
+      "tags": ["subtraction", "regrouping", "one place", "examples", "practice"],
+      "learningObjectives": [
+        "Practice regrouping in ones place",
+        "Practice regrouping in tens place",
+        "Build confidence with single regrouping",
+        "Check answers"
+      ],
+      "keyConceptsCovered": [
+        "Example 1: 6,345 - 2,178 (regroup ones only)",
+        "Example 2: 7,834 - 3,656 (regroup tens only)",
+        "Example 3: 8,976 - 4,189 (regroup hundreds only)",
+        "Step-by-step solutions with borrowing notation"
+      ],
+      "prerequisites": ["Basic regrouping concept"],
+      "followUpTopics": ["Multiple regroupings"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_subregroup_v3",
+      "sequenceNumber": 3,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Regrouping Multiple Times",
+      "description": "Learn to handle regrouping in multiple place values",
+      "youtubeId": "qWu3Z3GOHPk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qWu3Z3GOHPk",
+      "thumbnailUrl": "https://img.youtube.com/vi/qWu3Z3GOHPk/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 840000,
+      "tags": ["subtraction", "regrouping", "multiple", "complex", "4-digit"],
+      "learningObjectives": [
+        "Handle regrouping in 2-3 places",
+        "Track multiple borrows",
+        "Maintain accuracy with multiple regroupings",
+        "Build systematic approach"
+      ],
+      "keyConceptsCovered": [
+        "Example: 7,532 - 4,868 → Regroup in ones, tens, hundreds",
+        "Tracking borrows: cross out and write smaller",
+        "Work carefully from right to left",
+        "Check: use addition to verify answer"
+      ],
+      "prerequisites": ["Single regrouping"],
+      "followUpTopics": ["Regrouping with zeros"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_subregroup_v4",
+      "sequenceNumber": 4,
+      "type": "concept_deepening",
+      "importance": "must_watch",
+      "title": "Regrouping with Zeros | Borrowing Across Zeros",
+      "description": "Handle regrouping when zeros are present - the trickiest case",
+      "youtubeId": "PY5s7bxSzKU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PY5s7bxSzKU",
+      "thumbnailUrl": "https://img.youtube.com/vi/PY5s7bxSzKU/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 800000,
+      "tags": ["subtraction", "regrouping", "zeros", "special cases", "tricky"],
+      "learningObjectives": [
+        "Borrow when next place is zero",
+        "Borrow across multiple zeros",
+        "Handle zeros correctly in regrouping",
+        "Avoid common mistakes with zeros"
+      ],
+      "keyConceptsCovered": [
+        "Example: 5,003 - 2,567 (zeros in tens and hundreds)",
+        "Can't borrow from 0, go to next non-zero digit",
+        "Example: 8,000 - 3,456 (multiple zeros)",
+        "Work systematically: find non-zero, borrow through zeros"
+      ],
+      "prerequisites": ["Multiple regroupings"],
+      "followUpTopics": ["5-digit regrouping"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_subregroup_v5",
+      "sequenceNumber": 5,
+      "type": "concept_extension",
+      "importance": "must_watch",
+      "title": "Subtraction with Regrouping | 5-Digit Numbers",
+      "description": "Extend regrouping skills to 5-digit numbers",
+      "youtubeId": "2mRKlN73o6w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2mRKlN73o6w",
+      "thumbnailUrl": "https://img.youtube.com/vi/2mRKlN73o6w/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 780000,
+      "tags": ["subtraction", "regrouping", "5-digit", "extension", "borrowing"],
+      "learningObjectives": [
+        "Apply regrouping to 5-digit numbers",
+        "Handle one more place value",
+        "Build confidence with larger numbers",
+        "Master systematic approach"
+      ],
+      "keyConceptsCovered": [
+        "Same process, just one more place",
+        "Example: 75,432 - 38,867 = 36,565",
+        "Track all borrows carefully",
+        "Work systematically right to left"
+      ],
+      "prerequisites": ["4-digit regrouping mastery"],
+      "followUpTopics": ["Mixed practice"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_subregroup_v6",
+      "sequenceNumber": 6,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Mixed Regrouping Practice | 4-5 Digit",
+      "description": "Practice variety of regrouping problems for fluency",
+      "youtubeId": "Fh_M8ePF3lQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fh_M8ePF3lQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/Fh_M8ePF3lQ/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 710000,
+      "tags": ["subtraction", "regrouping", "mixed practice", "fluency", "variety"],
+      "learningObjectives": [
+        "Build fluency with varied problems",
+        "Mix of single and multiple regroupings",
+        "Develop speed and accuracy",
+        "Real exam practice"
+      ],
+      "keyConceptsCovered": [
+        "Mix of 4-digit and 5-digit problems",
+        "Some with one regroup, some with multiple",
+        "Problems with and without zeros",
+        "Timed practice for exam readiness"
+      ],
+      "prerequisites": ["All regrouping concepts"],
+      "followUpTopics": ["Word problems with regrouping"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_subregroup_v7",
+      "sequenceNumber": 7,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Challenge: Complex Regrouping and Problem Solving",
+      "description": "Advanced regrouping problems and strategies",
+      "youtubeId": "YaYw2mL8Itg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YaYw2mL8Itg",
+      "thumbnailUrl": "https://img.youtube.com/vi/YaYw2mL8Itg/hqdefault.jpg",
+      "duration": 240,
+      "durationDisplay": "4:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "advanced",
+      "examRelevance": ["CBSE", "ICSE", "Olympiad"],
+      "rating": 4.8,
+      "viewCount": 540000,
+      "tags": ["challenge", "complex", "problem solving", "advanced"],
+      "learningObjectives": [
+        "Solve complex regrouping problems",
+        "Apply strategies for difficult problems",
+        "Develop problem-solving skills",
+        "Challenge for advanced learners"
+      ],
+      "keyConceptsCovered": [
+        "Missing digit problems with regrouping",
+        "Subtracting three numbers with regrouping",
+        "Finding patterns in regrouping",
+        "Advanced problem-solving techniques"
+      ],
+      "prerequisites": ["Strong regrouping mastery"],
+      "followUpTopics": ["Advanced arithmetic"],
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_subregroup_v1", "gr4_subregroup_v3", "gr4_subregroup_v4", "gr4_subregroup_v5", "gr4_subregroup_v6", "gr4_subregroup_v7"],
+      "totalVideos": 6,
+      "estimatedTime": 2160,
+      "estimatedTimeDisplay": "36:00",
+      "rationale": "Fast-track through regrouping concepts with challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_subregroup_v1", "gr4_subregroup_v2", "gr4_subregroup_v3", "gr4_subregroup_v4", "gr4_subregroup_v5", "gr4_subregroup_v6"],
+      "totalVideos": 6,
+      "estimatedTime": 2280,
+      "estimatedTimeDisplay": "38:00",
+      "rationale": "Complete coverage with all regrouping scenarios"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_subregroup_v1", "gr4_subregroup_v2", "gr4_subregroup_v3", "gr4_subregroup_v4", "gr4_subregroup_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1950,
+      "estimatedTimeDisplay": "32:30",
+      "rationale": "Core concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_subregroup_v1", "gr4_subregroup_v2", "gr4_subregroup_v3", "gr4_subregroup_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1560,
+      "estimatedTimeDisplay": "26:00",
+      "rationale": "Essential regrouping skills only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_subregroup_v2",
+      "checkpointName": "Single Regrouping Check",
+      "questions": [
+        {
+          "question": "What is 6,345 - 2,178?",
+          "options": ["4,167", "4,267", "4,067", "4,177"],
+          "correctAnswer": 0,
+          "explanation": "Ones: Can't do 5-8, borrow: 15-8=7. Tens: 3-7 can't, borrow: 13-7=6. Hundreds: 2-1=1. Thousands: 6-2=4 → 4,167."
+        }
+      ]
+    },
+    "checkpoint2": {
+      "afterVideoId": "gr4_subregroup_v5",
+      "checkpointName": "5-Digit Regrouping Check",
+      "questions": [
+        {
+          "question": "What is 75,432 - 38,867?",
+          "options": ["36,565", "36,665", "37,565", "35,565"],
+          "correctAnswer": 0,
+          "explanation": "Work right to left with regrouping: 2<7 borrow, 12-7=5. 2<6 borrow, 12-6=6. 3<8 borrow, 13-8=5. 4<8 borrow, 14-8=6. 6-3=3 → 36,565."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Videos 1-4 build regrouping systematically. Video 4 (zeros) is critical. Video 5 extends to 5-digit. All core videos essential for mastery.",
+    "parentGuidance": "Help your child track borrows carefully - cross out the digit, write smaller. Check work using addition (answer + subtrahend = minuend).",
+    "studentGuidance": "Always check: can I subtract this digit? If not, borrow from left. Track borrows clearly. Check your work using addition!"
+  }
+}

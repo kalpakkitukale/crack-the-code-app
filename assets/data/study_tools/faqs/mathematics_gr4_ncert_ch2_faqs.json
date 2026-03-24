@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch2",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn2_001",
+      "videoId": "gr4_mn2_v1",
+      "question": "Why does the same object look different from different sides?",
+      "answer": "Most objects are not the same shape on every side. A tiffin box is long and wide on top, but thin from the front. So the top view shows a big rectangle, while the front view shows a thinner rectangle. Only a sphere (ball) looks the same from every side because it is perfectly round!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn2_002",
+      "videoId": "gr4_mn2_v1",
+      "question": "What does a cone look like from the top?",
+      "answer": "From the top, a cone looks like a circle! You see the round base of the cone. But from the front or side, a cone looks like a triangle. Try looking at a birthday cap from above and from the front to see the difference.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn2_003",
+      "videoId": "gr4_mn2_v1",
+      "question": "What is a bird's-eye view?",
+      "answer": "A bird's-eye view is what you would see if you were a bird flying high above and looking straight down. It is the same as the top view. Maps always show a bird's-eye view. If you look down from the top floor of a tall building, you are seeing a bird's-eye view of the ground below!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn2_004",
+      "videoId": "gr4_mn2_v2",
+      "question": "What is a grid and why is it useful?",
+      "answer": "A grid is a pattern of lines crossing to make small squares, like a chessboard or graph paper. It is useful because it lets you describe the exact position of anything. Instead of saying 'the cat is somewhere near the middle', you can say 'the cat is at position C4'. Grids are used in maps, games, spreadsheets, and even seat numbers in a cinema!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn2_005",
+      "videoId": "gr4_mn2_v2",
+      "question": "How do I read a position on a grid?",
+      "answer": "First, find the column (the letter at the top, like A, B, C). Then find the row (the number on the side, like 1, 2, 3). The position is written as the column letter followed by the row number. For example, B3 means column B, row 3. Go across to column B first, then go up or down to row 3.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn2_006",
+      "videoId": "gr4_mn2_v3",
+      "question": "How do I know which direction is North on a map?",
+      "answer": "On most maps, North is at the top of the page. Some maps have a small arrow or compass symbol pointing to North. Once you know where North is, you can figure out the rest: South is opposite (bottom), East is to the right, and West is to the left. Remember: Never Eat Soggy Waffles (N-E-S-W going clockwise)!",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_mn2_007",
+      "videoId": "gr4_mn2_v3",
+      "question": "What is the difference between a map and a picture?",
+      "answer": "A picture or photograph shows what something looks like from the front or side - the way your eyes normally see it. A map shows the same area from above (top view). A photo of your school shows the building. A map of your school shows the layout of all rooms, the playground, and the gate as seen from above. Maps are better for finding directions!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_mn2_008",
+      "videoId": "gr4_mn2_v4",
+      "question": "What is spatial reasoning and how can I get better at it?",
+      "answer": "Spatial reasoning is the ability to think about shapes, positions, and directions in your mind. You use it when you imagine what an object looks like from behind, or when you plan a route on a map. To get better: play with building blocks, solve jigsaw puzzles, play chess, draw objects from different views, and practise reading maps. The more you practise, the stronger it gets!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn2_009",
+      "videoId": "gr4_mn2_v1",
+      "question": "What does a cube look like from the top, front, and side?",
+      "answer": "A cube looks like a square from the top, the front, AND the side! Since all six faces of a cube are equal squares, every view gives you the same square shape. A cuboid, on the other hand, may show different-sized rectangles from different views.",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn2_010",
+      "videoId": "gr4_mn2_v3",
+      "question": "If I am facing North, which direction is behind me?",
+      "answer": "If you are facing North, South is behind you. East is on your right hand side, and West is on your left hand side. Try it: stand up and face North (you can use the rising sun to find East, then turn left to face North). Now check - your right hand points East and your left hand points West!",
+      "status": "answered",
+      "upvotes": 20
+    }
+  ]
+}

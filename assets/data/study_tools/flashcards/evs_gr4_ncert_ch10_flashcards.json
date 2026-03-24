@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ncert_ch10",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en10_games",
+      "name": "Traditional Games",
+      "description": "Learn about traditional Indian games and their importance",
+      "topicId": "gr4_evn_10_1",
+      "chapterId": "gr4_evs_ncert_ch10",
+      "cards": [
+        {
+          "id": "card_gr4_en10_001",
+          "front": "What is kabaddi and how is it played?",
+          "back": "Kabaddi is a traditional Indian contact sport played between two teams. One player (the raider) goes to the other team's side, tries to tag as many players as possible, and must return to their side - all while chanting 'kabaddi, kabaddi' in one breath! It needs no equipment, just an open space and energy.",
+          "hint": "Think about a game where you must hold your breath",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en10_002",
+          "front": "Why are traditional games important?",
+          "back": "Traditional games are important because they keep us healthy and fit without needing expensive equipment. They teach teamwork, fair play, and following rules. They are part of our culture and have been played by our grandparents and great-grandparents. They bring children together and can be played in open spaces anywhere!",
+          "hint": "Think about health, culture, and fun together",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en10_003",
+          "front": "What is kho-kho?",
+          "back": "Kho-kho is one of the oldest traditional games in India. Two teams take turns chasing and running. One team sits in a row on the ground while their chasers try to tag the runners from the other team. It is very fast and needs quick thinking and speed. The word 'kho' is the sound made when a chaser passes the turn to a teammate.",
+          "hint": "Players sit in a row and take turns chasing",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en10_004",
+          "front": "What games did children play before mobile phones and video games?",
+          "back": "Before screens, children played many outdoor games like kabaddi, kho-kho, gilli-danda, hopscotch (stapu/kith-kith), marbles (kanche), spinning tops (lattoo), flying kites (patang), hide and seek (chhupa-chhupi), and pittu-garam. These games kept children active, healthy, and happy without needing any electronic devices!",
+          "hint": "Think about games played outdoors with friends",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en10_005",
+          "front": "How is gilli-danda played?",
+          "back": "Gilli-danda is played with two sticks - a short one called gilli and a long one called danda. The gilli is placed on the ground and flicked into the air by hitting one end with the danda. Then the player hits the gilli as far as possible while it is in the air. The other team tries to catch it. It is like an Indian version of cricket or baseball!",
+          "hint": "It uses two sticks of different sizes",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

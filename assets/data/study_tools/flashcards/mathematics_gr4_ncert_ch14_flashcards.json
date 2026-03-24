@@ -1,0 +1,142 @@
+{
+  "chapterId": "gr4_math_ncert_ch14",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_mn14_collecting_data",
+      "name": "Collecting and Recording Data",
+      "description": "Learn how to collect data and record it using tally marks and tables",
+      "topicId": "gr4_mn_14_1",
+      "chapterId": "gr4_math_ncert_ch14",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn14_001",
+          "front": "What is data?",
+          "back": "Data is information that we collect by counting, observing, or asking questions.\n\nFor example, counting the number of different vehicles on a road or asking classmates their favourite game - both give us data!",
+          "hint": "Think of it as facts and numbers we gather",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn14_002",
+          "front": "What are tally marks and how do we use them?",
+          "back": "Tally marks are short lines we draw to count things one at a time.\n\nDraw one line for each item. After 4 lines (||||), the 5th line crosses them diagonally to make a bundle of 5. This makes counting faster!",
+          "hint": "Every 5th mark goes across the other four",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn14_003",
+          "front": "How would you show the number 13 using tally marks?",
+          "back": "Draw 2 bundles of 5 and 3 extra lines.\n\n5 + 5 + 3 = 13\n\nEach bundle has 4 straight lines crossed by a 5th.",
+          "hint": "How many complete groups of 5 fit in 13?",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn14_004",
+          "front": "What is a frequency table?",
+          "back": "A frequency table is a table that lists items or categories in one column, tally marks in the next column, and the total count (frequency) in the last column.\n\nIt helps us organise data neatly so we can see all the information at a glance.",
+          "hint": "It is a table with tallies and totals",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn14_005",
+          "front": "You see 4 bundles of 5 tally marks and 2 extra lines. What is the total count?",
+          "back": "22\n\n4 bundles of 5 = 4 x 5 = 20\nPlus 2 extra = 20 + 2 = 22",
+          "hint": "Multiply the number of full bundles by 5, then add the extra lines",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn14_pictographs",
+      "name": "Pictographs",
+      "description": "Learn how to read, understand, and draw pictographs",
+      "topicId": "gr4_mn_14_2",
+      "chapterId": "gr4_math_ncert_ch14",
+      "difficulty": "easy",
+      "cards": [
+        {
+          "id": "card_gr4_mn14_006",
+          "front": "What is a pictograph?",
+          "back": "A pictograph is a chart that uses small pictures or symbols to represent data.\n\nEach picture stands for a certain number of things. A key at the bottom tells you what each picture means.",
+          "hint": "The name has 'picto' which means picture",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn14_007",
+          "front": "What is a 'key' in a pictograph?",
+          "back": "A key (also called a legend) tells you how many items each picture stands for.\n\nFor example: if the key says one tree picture = 10 trees, then 3 tree pictures mean 3 x 10 = 30 trees.",
+          "hint": "It is like a decoder that explains the pictures",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn14_008",
+          "front": "In a pictograph, one flower symbol = 4 flowers. A row shows 6 flower symbols. How many flowers is that?",
+          "back": "24 flowers\n\n6 symbols x 4 flowers each = 24 flowers\n\nMultiply the number of symbols by the key value.",
+          "hint": "Multiply the count of pictures by the value of each picture",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn14_009",
+          "front": "What does a half symbol mean in a pictograph?",
+          "back": "A half symbol stands for half the value of one full symbol.\n\nIf one full symbol = 10, then a half symbol = 5.\nIf one full symbol = 4, then a half symbol = 2.",
+          "hint": "Divide the key value by 2",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn14_010",
+          "front": "Why are pictographs useful?",
+          "back": "Pictographs make data easy to understand at a glance!\n\nYou can quickly compare groups just by counting pictures in each row. More pictures means a larger number. They are colourful and fun to read.",
+          "hint": "Think about why pictures are easier than just numbers",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_mn14_bar_graphs",
+      "name": "Bar Graphs",
+      "description": "Learn how to read, understand, and interpret bar graphs",
+      "topicId": "gr4_mn_14_3",
+      "chapterId": "gr4_math_ncert_ch14",
+      "difficulty": "medium",
+      "cards": [
+        {
+          "id": "card_gr4_mn14_011",
+          "front": "What is a bar graph?",
+          "back": "A bar graph is a chart that uses rectangular bars of different heights or lengths to show data.\n\nThe taller the bar, the bigger the value it represents. All bars have the same width.",
+          "hint": "Think of buildings of different heights standing in a row",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_mn14_012",
+          "front": "What are the parts of a bar graph?",
+          "back": "A bar graph has:\n- A title (what the graph is about)\n- Two axes (lines): x-axis (horizontal) and y-axis (vertical)\n- Labels on each axis\n- A scale (numbers going up by equal steps)\n- Bars of different heights",
+          "hint": "There are five main parts to look for",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_mn14_013",
+          "front": "What is the 'scale' on a bar graph?",
+          "back": "The scale is the set of numbers along one axis that helps you read the value of each bar.\n\nThe numbers go up by equal steps, like 0, 2, 4, 6, 8 or 0, 5, 10, 15, 20.\n\nThe step size depends on how big the data numbers are.",
+          "hint": "It is the numbering system on the side",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_mn14_014",
+          "front": "How do you find the value that a bar represents?",
+          "back": "Look at the top of the bar and draw an imaginary line across to the number axis (scale).\n\nThe number where your line meets the scale is the value of that bar.",
+          "hint": "Match the top of the bar to the scale on the side",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_mn14_015",
+          "front": "How is a bar graph different from a pictograph?",
+          "back": "A bar graph uses bars (rectangles) while a pictograph uses pictures.\n\nBar graphs show exact values more easily because you read them from the scale.\nPictographs are more visual and fun but less precise for large numbers.",
+          "hint": "One uses bars, the other uses pictures",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "algorithmId": "rec_gr4_m4_t2",
+  "topicId": "gr4_m_4_2",
+  "topicName": "Comparing and Ordering 4-digit Numbers",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for comparing 4-digit numbers",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent prerequisite knowledge, can focus on practice and applications",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1830,
+      "videoSequence": [
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Quick introduction to comparison strategy",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Worked examples for practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v5",
+          "reason": "Ordering multiple numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_comp_v7",
+          "reason": "Challenge problems for enrichment",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete topic coverage",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2370,
+      "videoSequence": [
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Introduction to comparison strategy",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v2",
+          "reason": "Multiple strategies and deep understanding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v4",
+          "reason": "Using symbols (>, <, =)",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v5",
+          "reason": "Ordering numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps, needs prerequisite review before main content",
+      "playlistComposition": {
+        "prerequisiteVideos": 3,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2580,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_4digit_weak": {
+            "addVideos": ["prereq_pv4_v1", "prereq_pv4_v2"],
+            "priority": "high"
+          },
+          "comparing_3digit_weak": {
+            "addVideos": ["prereq_comp3_v1", "prereq_comp3_v2"],
+            "priority": "high"
+          },
+          "symbols_gt_lt_weak": {
+            "addVideos": ["prereq_symbols_v1", "prereq_symbols_v2"],
+            "priority": "medium"
+          },
+          "ordering_numbers_weak": {
+            "addVideos": ["prereq_order_v1"],
+            "priority": "medium"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Review: Place Value in 4-digit Numbers",
+          "skippable": false,
+          "condition": "if pv_4digit concept is weak"
+        },
+        {
+          "videoId": "prereq_comp3_v1",
+          "reason": "Review: Comparing 3-digit Numbers Strategy",
+          "skippable": false,
+          "condition": "if comparing_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_symbols_v1",
+          "reason": "Review: Greater Than and Less Than Symbols",
+          "skippable": false,
+          "condition": "if symbols_gt_lt concept is weak"
+        },
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Start main topic: Comparison strategy for 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v2",
+          "reason": "Multiple strategies",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v5",
+          "reason": "Ordering numbers",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review before attempting main topic",
+      "playlistComposition": {
+        "prerequisiteVideos": 6,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 8
+      },
+      "estimatedTime": 2850,
+      "videoSequence": [
+        {
+          "videoId": "prereq_pv4_v1",
+          "reason": "Foundation: Place Value in 4-digit Numbers - Quick Review",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv4_v2",
+          "reason": "Practice: Finding Place Value",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_comp3_v1",
+          "reason": "Essential: Comparing 3-Digit Numbers Strategy",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_comp3_v2",
+          "reason": "Practice: Comparing 3-Digit Examples",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_symbols_v1",
+          "reason": "Important: Greater Than/Less Than Symbols",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_order_v1",
+          "reason": "Helpful: Ordering Numbers Basics",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v1",
+          "reason": "Gentle intro to comparing 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_comp_v3",
+          "reason": "Begin practice with worked examples",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with the full topic."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_4digit": {
+        "conceptName": "Place value in 4-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_pv4_v1", "prereq_pv4_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "comparing_3digit": {
+        "conceptName": "Comparing 3-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_comp3_v1", "prereq_comp3_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "symbols_gt_lt": {
+        "conceptName": "Greater than and less than symbols",
+        "importance": "important",
+        "videoIds": ["prereq_symbols_v1", "prereq_symbols_v2"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "ordering_numbers": {
+        "conceptName": "Ordering numbers from least to greatest",
+        "importance": "helpful",
+        "videoIds": ["prereq_order_v1", "prereq_order_v2"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_comp_v2",
+        "checkpointName": "Basic Comparison Mastery Check",
+        "questions": [
+          {
+            "question": "Which number is greater: 4,567 or 4,756?",
+            "options": ["4,567", "4,756", "Both are equal", "Cannot determine"],
+            "correctAnswer": 1,
+            "explanation": "Compare thousands: 4 = 4 (equal). Compare hundreds: 5 < 7. So 4,756 is greater."
+          },
+          {
+            "question": "Which symbol correctly completes: 3,245 ___ 3,254?",
+            "options": [">", "<", "=", "Cannot determine"],
+            "correctAnswer": 1,
+            "explanation": "Compare thousands: 3 = 3. Compare hundreds: 2 = 2. Compare tens: 4 < 5. So 3,245 < 3,254."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "skip_next_video",
+          "skipVideoId": "gr4_comp_v4",
+          "reason": "Student demonstrated mastery of comparison and symbols, skip symbol review"
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_comp3_v1",
+          "reason": "Student still struggling with basic comparison strategy"
+        }
+      },
+      {
+        "afterVideoId": "gr4_comp_v5",
+        "checkpointName": "Ordering Mastery Check",
+        "questions": [
+          {
+            "question": "Arrange in ascending order: 5,234, 5,342, 5,243",
+            "options": ["5,234, 5,243, 5,342", "5,342, 5,243, 5,234", "5,243, 5,234, 5,342", "5,234, 5,342, 5,243"],
+            "correctAnswer": 0,
+            "explanation": "All have 5 thousands. Compare hundreds: all have 2 or 3. 234 and 243 both have 2 hundreds. Compare tens in 234 vs 243: 3 < 4, so 234 < 243. Then 243 < 342. Order: 5,234, 5,243, 5,342."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_comp_v7",
+          "reason": "Student ready for advanced challenge problems"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice ordering more numbers before moving to applications"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip remaining basic videos, jump to application/challenge videos"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review videos based on error analysis"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before proceeding"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You have strong prerequisite knowledge. We've created a fast-track playlist focusing on comparing 4-digit numbers with practice and challenges."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Great work! You're ready to learn comparing and ordering 4-digit numbers. Your playlist covers all important concepts."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in prerequisite knowledge. Don't worry! We'll start with review videos on place value and comparing 3-digit numbers, then move to the new content."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review prerequisite concepts first. We've created a playlist focused on building a strong foundation in place value and basic comparison. After watching, you can retake the quiz."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how concepts build on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["Place value in 4-digit numbers", "Greater than/less than symbols"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Comparing 3-digit numbers strategy"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Comparing 4-digit numbers", "Using symbols with 4-digit numbers"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["Ordering multiple 4-digit numbers"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Real-world applications", "Advanced challenges"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 80,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 75,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.0,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "conceptRetention": {
+      "target": 85,
+      "description": "% of students who can correctly apply comparison strategy 1 week later"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 30-35 minutes with 85-95% practice quiz score",
+      "ready_students": "Complete in 40-50 minutes with 75-85% practice quiz score",
+      "partial_students": "Complete in 45-60 minutes with 65-75% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (40 min) + retake + main content (25 min) = 65-75 total minutes, expected 55-70% on practice quiz"
+    }
+  }
+}

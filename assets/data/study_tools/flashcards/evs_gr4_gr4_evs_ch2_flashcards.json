@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ch2",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_ev2_wc",
+      "name": "Water Cycle",
+      "description": "Learn how water moves around the Earth in a never-ending cycle",
+      "topicId": "gr4_ev_2_1",
+      "chapterId": "gr4_evs_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_ev2_001",
+          "front": "What is the water cycle?",
+          "back": "The water cycle is the continuous movement of water on Earth. Water goes from rivers and oceans into the sky as vapour, forms clouds, falls as rain, and flows back to rivers and oceans again.",
+          "hint": "Think of water going round and round",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_ev2_002",
+          "front": "What is evaporation?",
+          "back": "Evaporation is when the sun heats water in rivers, lakes, and oceans, and the water turns into water vapour (gas) and rises into the air.",
+          "hint": "The sun heats water and it goes up",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_ev2_003",
+          "front": "What is condensation?",
+          "back": "Condensation is when water vapour in the sky cools down and turns back into tiny water droplets. These droplets come together to form clouds.",
+          "hint": "The opposite of evaporation - vapour becomes liquid again",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_ev2_004",
+          "front": "What is precipitation?",
+          "back": "Precipitation is when water falls from clouds back to Earth. It can fall as rain, snow, sleet, or hail depending on the temperature.",
+          "hint": "Water falling from the sky",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_ev2_005",
+          "front": "Where does rainwater go after it falls on the ground?",
+          "back": "Some rainwater flows into rivers, lakes, and oceans. Some soaks into the ground and becomes groundwater. Plants also absorb some water through their roots.",
+          "hint": "It goes to different places on and under the ground",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_ev2_cons",
+      "name": "Water Conservation",
+      "description": "Discover why saving water is important and how you can help",
+      "topicId": "gr4_ev_2_2",
+      "chapterId": "gr4_evs_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_ev2_006",
+          "front": "Why is it important to save water?",
+          "back": "Only a very small amount of Earth's water is fresh and safe to drink. If we waste water, many people, animals, and plants will not have enough water to survive.",
+          "hint": "Not all water on Earth can be used for drinking",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_ev2_007",
+          "front": "What is rainwater harvesting?",
+          "back": "Rainwater harvesting means collecting and storing rainwater that falls on rooftops and open areas so it can be used later for gardening, washing, or even drinking after cleaning.",
+          "hint": "Catching rain before it flows away",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_ev2_008",
+          "front": "Name three ways to save water at home.",
+          "back": "1. Turn off the tap while brushing your teeth. 2. Fix leaking taps and pipes. 3. Use a bucket instead of a running hose to wash things.",
+          "hint": "Think about what you do every day with water",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_ev2_009",
+          "front": "What is groundwater?",
+          "back": "Groundwater is water found under the ground in tiny spaces between soil and rocks. People dig wells and use hand pumps to bring this water up for drinking and farming.",
+          "hint": "Water hidden below the surface of the Earth",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_ev2_010",
+          "front": "What happens when we use too much groundwater?",
+          "back": "When we take out too much groundwater, the water level goes down and wells can dry up. It takes many years for groundwater to fill up again naturally.",
+          "hint": "Think of a glass of water that you keep drinking from without refilling",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

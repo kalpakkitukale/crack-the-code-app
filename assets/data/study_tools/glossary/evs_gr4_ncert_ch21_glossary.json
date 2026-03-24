@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch21",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evn_21_001",
+      "term": "Nutrients",
+      "definition": "The useful substances in food that our body needs to stay healthy, grow, and get energy.",
+      "pronunciation": "NOO-tree-ents",
+      "exampleUsage": "Fruits and vegetables are full of important nutrients like vitamins.",
+      "difficulty": "medium",
+      "relatedTerms": ["vitamins", "minerals", "proteins"]
+    },
+    {
+      "id": "gls_evn_21_002",
+      "term": "Balanced Diet",
+      "definition": "A meal that has the right amounts of all the different types of food our body needs.",
+      "pronunciation": "BAL-anst DY-et",
+      "exampleUsage": "A thali with roti, dal, sabzi, rice, and curd is an example of a balanced diet.",
+      "difficulty": "medium",
+      "relatedTerms": ["nutrition", "food groups", "healthy eating"]
+    },
+    {
+      "id": "gls_evn_21_003",
+      "term": "Carbohydrates",
+      "definition": "Nutrients in food that give us energy. Found in foods like rice, roti, bread, and potatoes.",
+      "pronunciation": "kar-bo-HY-drayts",
+      "exampleUsage": "We get carbohydrates from the chapati we eat for lunch.",
+      "difficulty": "medium",
+      "relatedTerms": ["energy", "starch", "sugar"]
+    },
+    {
+      "id": "gls_evn_21_004",
+      "term": "Proteins",
+      "definition": "Nutrients that help our body grow and repair itself. Found in dal, milk, eggs, and paneer.",
+      "pronunciation": "PRO-teens",
+      "exampleUsage": "Children need proteins from foods like dal and milk to grow strong.",
+      "difficulty": "medium",
+      "relatedTerms": ["body-building", "growth", "muscles"]
+    },
+    {
+      "id": "gls_evn_21_005",
+      "term": "Vitamins",
+      "definition": "Nutrients found in fruits and vegetables that protect our body from diseases.",
+      "pronunciation": "VY-tuh-mins",
+      "exampleUsage": "Oranges and amla are rich in Vitamin C, which protects us from colds.",
+      "difficulty": "easy",
+      "relatedTerms": ["protective foods", "fruits", "health"]
+    },
+    {
+      "id": "gls_evn_21_006",
+      "term": "Minerals",
+      "definition": "Nutrients needed in small amounts for strong bones, teeth, and blood. Found in green vegetables and milk.",
+      "pronunciation": "MIN-er-als",
+      "exampleUsage": "Calcium is a mineral found in milk that makes our bones strong.",
+      "difficulty": "medium",
+      "relatedTerms": ["calcium", "iron", "bones"]
+    },
+    {
+      "id": "gls_evn_21_007",
+      "term": "Junk Food",
+      "definition": "Food that tastes good but has very little nutrition and lots of oil, sugar, or salt.",
+      "pronunciation": "JUNK FOOD",
+      "exampleUsage": "Chips, cold drinks, and candy are examples of junk food we should eat less of.",
+      "difficulty": "easy",
+      "relatedTerms": ["unhealthy", "processed food", "fast food"]
+    },
+    {
+      "id": "gls_evn_21_008",
+      "term": "Fibre",
+      "definition": "The rough part of food from plants that helps our stomach work properly and digest food.",
+      "pronunciation": "FY-ber",
+      "exampleUsage": "Eating whole wheat roti and fruits gives us fibre for good digestion.",
+      "difficulty": "medium",
+      "relatedTerms": ["roughage", "digestion", "vegetables"]
+    },
+    {
+      "id": "gls_evn_21_009",
+      "term": "Energy",
+      "definition": "The power our body gets from food to do all activities like walking, running, thinking, and playing.",
+      "pronunciation": "EN-er-jee",
+      "exampleUsage": "We need energy from food to play cricket and study for exams.",
+      "difficulty": "easy",
+      "relatedTerms": ["strength", "carbohydrates", "fats"]
+    },
+    {
+      "id": "gls_evn_21_010",
+      "term": "Hygiene",
+      "definition": "Keeping ourselves and our food clean to stay healthy and avoid getting sick.",
+      "pronunciation": "HY-jeen",
+      "exampleUsage": "Washing hands before eating is an important part of food hygiene.",
+      "difficulty": "easy",
+      "relatedTerms": ["cleanliness", "health", "germs"]
+    }
+  ]
+}

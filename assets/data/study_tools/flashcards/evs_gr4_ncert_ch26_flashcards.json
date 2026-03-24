@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch26",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_ch26_armed_forces",
+      "name": "Armed Forces of India",
+      "description": "Learn about India's defence forces and the brave people who serve",
+      "topicId": "gr4_evn_26_1",
+      "chapterId": "gr4_evs_ncert_ch26",
+      "cards": [
+        {
+          "id": "fc_ch26_af_001",
+          "front": "What are the three main branches of the Indian Armed Forces?",
+          "back": "The three branches are the Indian Army (protects on land), Indian Navy (protects at sea), and Indian Air Force (protects in the sky). Together, they keep our country safe.",
+          "hint": "Think about land, water, and air",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ch26_af_002",
+          "front": "Who was Wahida Prism? Why is she famous?",
+          "back": "Wahida Prism was one of the first women officers in the Indian Army. She broke barriers by proving that women can serve in the armed forces and protect the country just like men. She inspired many young girls to follow their dreams.",
+          "hint": "The chapter is named after her",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ch26_af_003",
+          "front": "What qualities does a defence officer need?",
+          "back": "A defence officer needs courage, discipline, physical fitness, team spirit, quick thinking, and a strong desire to serve the country. They must also follow orders and lead others in difficult situations.",
+          "hint": "Think about what makes someone brave and responsible",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ch26_af_004",
+          "front": "What is Republic Day and why do armed forces march on this day?",
+          "back": "Republic Day is celebrated on 26th January. The armed forces march in a grand parade in New Delhi to show India's strength and unity. The parade includes tanks, aircraft, and soldiers from all three branches.",
+          "hint": "This special day comes in January every year",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ch26_af_005",
+          "front": "How do the armed forces help during natural disasters like floods and earthquakes?",
+          "back": "The armed forces rescue people trapped in floods, earthquakes, and cyclones. They deliver food, water, and medicines to affected areas. They also set up camps and hospitals for those who have lost their homes.",
+          "hint": "They help not just during wars but also during emergencies",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_ch26_women_achievers",
+      "name": "Women Achievers in Defence",
+      "description": "Learn about brave women who have served in India's armed forces",
+      "topicId": "gr4_evn_26_1",
+      "chapterId": "gr4_evs_ncert_ch26",
+      "cards": [
+        {
+          "id": "fc_ch26_wa_001",
+          "front": "Can women become fighter pilots in the Indian Air Force?",
+          "back": "Yes! In 2016, the Indian Air Force allowed women to become fighter pilots. Avani Chaturvedi, Bhawana Kanth, and Mohana Singh were among the first women fighter pilots in India.",
+          "hint": "This change happened not too long ago",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_ch26_wa_002",
+          "front": "What challenges do women face when joining the armed forces?",
+          "back": "Women sometimes face the challenge of people thinking that only men can be soldiers. They also have to pass the same tough physical tests. But many brave women have shown that they can do everything just as well.",
+          "hint": "Think about old ideas that some people still believe",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_ch26_wa_003",
+          "front": "What is the National Defence Academy (NDA)?",
+          "back": "The NDA is a training school in Pune, Maharashtra, where young people are trained to become officers in the Army, Navy, and Air Force. In 2022, women were allowed to join the NDA for the first time.",
+          "hint": "It is the place where future officers go to study and train",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_ch26_wa_004",
+          "front": "Why is it important for girls to see women in the armed forces?",
+          "back": "When girls see women as officers, pilots, and commanders, they learn that they too can follow any career they dream of. Role models help break stereotypes and show that courage and strength are not limited to any one gender.",
+          "hint": "Think about how seeing someone like you doing something great makes you feel",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_ch26_wa_005",
+          "front": "Name one way the armed forces keep the country safe during peacetime.",
+          "back": "During peacetime, the armed forces guard our borders so that no one enters the country without permission. They also patrol the seas, watch the skies, and train regularly so that they are always ready.",
+          "hint": "Think about what soldiers do at the border every day",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

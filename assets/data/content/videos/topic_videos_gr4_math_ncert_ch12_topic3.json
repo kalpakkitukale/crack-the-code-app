@@ -1,0 +1,79 @@
+{
+  "videoSetId": "playlist_gr4_mn12_t3",
+  "topicId": "gr4_mn_12_3",
+  "topicName": "Elapsed Time",
+  "chapterId": "gr4_math_ncert_ch12",
+  "chapterName": "Ticking Clocks and Turning Calendar",
+  "description": "Main learning videos for understanding elapsed time: calculating how much time has passed between two events, duration of activities, and using counting strategies",
+
+  "videos": [
+    {
+      "id": "gr4_mn12_v4",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Elapsed Time for Kids | What is Elapsed Time?",
+      "description": "Learn what elapsed time means and how to figure out how much time has passed between two events. Use fun examples like cooking, school, and playtime to understand elapsed time!",
+
+      "youtubeId": "Uupgx6UKovA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Uupgx6UKovA",
+      "thumbnailUrl": "https://img.youtube.com/vi/Uupgx6UKovA/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+
+      "tags": ["elapsed time", "time passed", "duration", "calculating time"],
+
+      "learningObjectives": [
+        "Understand what elapsed time means (time that has passed)",
+        "Calculate elapsed time between two given clock times",
+        "Apply elapsed time to real-life examples like school duration and cooking time"
+      ],
+
+      "prerequisites": ["Reading time on a clock", "AM and PM"],
+      "followUpTopics": ["Elapsed time word problems", "Number line method"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "School starts at 8:00 AM and ends at 2:00 PM. How many hours is that?",
+            "options": ["4 hours", "5 hours", "6 hours"],
+            "correctAnswer": 2
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn12_v4"],
+      "estimatedTime": 360
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn12_v4"],
+      "estimatedTime": 360
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn12_v4"],
+      "estimatedTime": 360
+    }
+  }
+}

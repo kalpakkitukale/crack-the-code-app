@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_evs_ch2",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_ev2_v1",
+      "videoId": "gr4_ev2_v1",
+      "content": "This lesson introduces the water cycle, the amazing journey water takes around the Earth. The sun heats water in oceans, rivers, and lakes, turning it into water vapour that rises into the sky. High up, the vapour cools and forms tiny water droplets that make clouds. When clouds become heavy, water falls back as rain or snow. The rainwater flows into rivers and oceans, and the whole process starts again.",
+      "keyPoints": [
+        "The water cycle has no beginning or end - it keeps going",
+        "Evaporation: sun heats water and it becomes vapour",
+        "Condensation: vapour cools and forms clouds",
+        "Precipitation: water falls as rain, snow, or hail"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev2_v2",
+      "videoId": "gr4_ev2_v2",
+      "content": "This lesson explains where our water comes from and why fresh water is precious. Most of Earth's water is salty ocean water that we cannot drink. Only about 3% is fresh water, and most of that is frozen in ice caps. Rivers, lakes, and groundwater give us the water we use every day for drinking, cooking, and farming.",
+      "keyPoints": [
+        "About 97% of Earth's water is salty ocean water",
+        "Only about 3% of water on Earth is fresh water",
+        "Groundwater is found under the Earth's surface",
+        "People use wells and hand pumps to get groundwater"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev2_v3",
+      "videoId": "gr4_ev2_v3",
+      "content": "This lesson teaches why saving water is important and simple ways we can help. Water is needed by every living thing - people, animals, and plants. When we waste water, there is less for everyone. Simple actions like turning off taps, fixing leaks, and using buckets instead of hoses make a big difference. Rainwater harvesting is a smart way to collect and store rain for later use.",
+      "keyPoints": [
+        "Every living thing needs water to survive",
+        "Turn off taps while brushing teeth to save water",
+        "Fix leaking taps and pipes at home",
+        "Rainwater harvesting collects rain for later use"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_ev2_v4",
+      "videoId": "gr4_ev2_v4",
+      "content": "This lesson covers what happens when there is not enough water. A drought occurs when there is very little rain for a long time. Crops fail, animals suffer, and people face water shortages. Using too much groundwater makes the water level drop. We must all work together to protect water so that there is enough for everyone, now and in the future.",
+      "keyPoints": [
+        "Drought means very little or no rain for a long time",
+        "Overuse of groundwater lowers the water table",
+        "Water shortage affects people, animals, and crops",
+        "Protecting water today ensures supply for the future"
+      ],
+      "source": "manual"
+    }
+  ]
+}

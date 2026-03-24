@@ -1,0 +1,30 @@
+{
+  "id": "cbse",
+  "name": "CBSE",
+  "fullName": "Central Board of Secondary Education",
+  "description": "Central Board of Secondary Education - National level board",
+  "icon": "assets/icons/cbse.png",
+  "classes": [
+    {
+      "id": "class_12",
+      "name": "Class 12",
+      "streams": [
+        {
+          "id": "science_pcm",
+          "name": "Science (PCM)",
+          "subjects": ["physics", "chemistry", "mathematics", "english", "computer_science"]
+        },
+        {
+          "id": "science_pcb",
+          "name": "Science (PCB)",
+          "subjects": ["physics", "chemistry", "biology", "english"]
+        },
+        {
+          "id": "commerce",
+          "name": "Commerce",
+          "subjects": ["accountancy", "business_studies", "economics", "english", "mathematics"]
+        }
+      ]
+    }
+  ]
+}

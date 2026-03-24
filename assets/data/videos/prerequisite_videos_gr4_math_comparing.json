@@ -1,0 +1,326 @@
+{
+  "videoSetId": "prereq_gr4_comp",
+  "purpose": "Prerequisite videos for Grade 4 Comparing and Ordering 4-digit Numbers",
+  "targetTopicId": "gr4_m_4_2",
+  "description": "Videos covering prerequisite concepts: 4-digit place value, comparing 3-digit numbers, symbols, ordering",
+
+  "videos": [
+    {
+      "id": "prereq_pv4_v1",
+      "conceptId": "pv_4digit",
+      "type": "concept_review",
+
+      "title": "Place Value in 4-Digit Numbers - Quick Review",
+      "description": "Review place value in thousands, hundreds, tens, and ones",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["place value", "4-digit numbers", "thousands", "review"],
+
+      "learningObjectives": [
+        "Recall place value in 4-digit numbers",
+        "Identify thousands, hundreds, tens, ones",
+        "Quick refresher before comparison"
+      ],
+
+      "prerequisites": ["3-digit place value"],
+      "followUpTopics": ["Comparing 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_pv4_v2",
+      "conceptId": "pv_4digit",
+      "type": "worked_examples",
+
+      "title": "Finding Place Value in Large Numbers",
+      "description": "Practice examples finding place value in 4-digit and larger numbers",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["place value", "worked examples", "4-digit", "large numbers"],
+
+      "learningObjectives": [
+        "Practice place value calculation",
+        "Apply to different numbers",
+        "Build confidence"
+      ],
+
+      "prerequisites": ["Basic place value concept"],
+      "followUpTopics": ["Using place value to compare"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_comp3_v1",
+      "conceptId": "comparing_3digit",
+      "type": "concept_introduction",
+
+      "title": "Comparing 3-Digit Numbers | Step by Step",
+      "description": "Learn the strategy to compare 3-digit numbers digit by digit",
+
+      "youtubeId": "6-_x-FUx3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6-_x-FUx3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/6-_x-FUx3rA/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 750000,
+
+      "tags": ["comparing numbers", "3-digit", "comparison strategy", "place value method"],
+
+      "learningObjectives": [
+        "Compare hundreds place first",
+        "If equal, compare tens place",
+        "Use place value for comparison"
+      ],
+
+      "prerequisites": ["Place value understanding"],
+      "followUpTopics": ["Comparing 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_comp3_v2",
+      "conceptId": "comparing_3digit",
+      "type": "worked_examples",
+
+      "title": "Comparing Numbers Practice | 3-Digit Examples",
+      "description": "Multiple examples comparing 3-digit numbers with detailed explanations",
+
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+
+      "duration": 315,
+      "durationDisplay": "5:15",
+
+      "channelName": "Jack Hartmann",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 2000000,
+
+      "tags": ["comparing", "practice", "3-digit", "examples"],
+
+      "learningObjectives": [
+        "Practice comparing strategy",
+        "See multiple examples",
+        "Build confidence"
+      ],
+
+      "prerequisites": ["Comparison strategy"],
+      "followUpTopics": ["Comparing larger numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_symbols_v1",
+      "conceptId": "symbols_gt_lt",
+      "type": "concept_introduction",
+
+      "title": "Greater Than Less Than | Alligator Trick",
+      "description": "Learn greater than and less than symbols with the hungry alligator trick",
+
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+
+      "duration": 240,
+      "durationDisplay": "4:00",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+
+      "tags": ["greater than", "less than", "symbols", "alligator trick", ">" , "<"],
+
+      "learningObjectives": [
+        "Understand > and < symbols",
+        "Remember which way symbols face",
+        "Use symbols correctly in comparisons"
+      ],
+
+      "prerequisites": ["Number comparison"],
+      "followUpTopics": ["Writing comparison statements"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_symbols_v2",
+      "conceptId": "symbols_gt_lt",
+      "type": "practice",
+
+      "title": "Greater Than, Less Than, Equal To | Symbol Practice",
+      "description": "Practice using >, <, and = symbols with numbers",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 300,
+      "durationDisplay": "5:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 5000000,
+
+      "tags": ["symbols", "practice", "greater than", "less than", "equal"],
+
+      "learningObjectives": [
+        "Practice symbol selection",
+        "Apply symbols correctly",
+        "Include = (equal to) symbol"
+      ],
+
+      "prerequisites": ["Understanding of symbols"],
+      "followUpTopics": ["Writing comparison statements with words and symbols"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_order_v1",
+      "conceptId": "ordering_numbers",
+      "type": "concept_introduction",
+
+      "title": "Ordering Numbers | Least to Greatest",
+      "description": "Learn how to arrange numbers in order from smallest to largest",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 360,
+      "durationDisplay": "6:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 900000,
+
+      "tags": ["ordering", "least to greatest", "ascending order", "arrangement"],
+
+      "learningObjectives": [
+        "Understand ascending order (least to greatest)",
+        "Understand descending order (greatest to least)",
+        "Arrange 3 or more numbers correctly"
+      ],
+
+      "prerequisites": ["Comparing two numbers"],
+      "followUpTopics": ["Ordering 4-digit numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    },
+
+    {
+      "id": "prereq_order_v2",
+      "conceptId": "ordering_numbers",
+      "type": "worked_examples",
+
+      "title": "Ordering Numbers Practice | Step by Step",
+      "description": "Practice ordering 3-digit numbers with clear strategy",
+
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+
+      "duration": 330,
+      "durationDisplay": "5:30",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2500000,
+
+      "tags": ["ordering", "practice", "strategy", "examples"],
+
+      "learningObjectives": [
+        "Apply ordering strategy",
+        "Work through multiple examples",
+        "Handle both ascending and descending"
+      ],
+
+      "prerequisites": ["Basic ordering concept"],
+      "followUpTopics": ["Ordering many numbers"],
+
+      "dateAdded": "2026-01-19T00:00:00.000Z",
+      "lastUpdated": "2026-01-19T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "These videos should be recommended when students show gaps in prerequisite knowledge during readiness assessment",
+    "recommendationStrategy": "Select videos based on specific concepts where student struggled",
+    "sequencing": "Present in order of importance: critical concepts first (place value, comparing), then important (symbols), then helpful (ordering)"
+  }
+}

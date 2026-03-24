@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn2_t2",
+  "topicId": "gr4_mn_2_2",
+  "topicName": "Positions on a Grid",
+  "chapterId": "gr4_math_ncert_ch2",
+  "chapterName": "Hide and Seek",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1752,
+    "totalDurationDisplay": "29:12",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "35-40 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_2_1"],
+    "followUpTopics": ["gr4_mn_2_3"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn2_v3",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Positions on a Grid | Rows and Columns for Kids",
+      "description": "Learn how to find positions on a grid using rows and columns. Like playing a treasure hunt on a grid map!",
+      "youtubeId": "N4nrdf0yYfM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=N4nrdf0yYfM",
+      "thumbnailUrl": "https://img.youtube.com/vi/N4nrdf0yYfM/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2100000,
+      "tags": ["grid", "coordinate plane", "rows", "columns", "positions"],
+      "learningObjectives": ["Understand what a grid is", "Learn about rows and columns", "Find positions using row-column pairs"],
+      "keyConceptsCovered": ["Rows go across (horizontal)", "Columns go up and down (vertical)", "Position = (Row, Column)"],
+      "prerequisites": ["Basic directions"],
+      "followUpTopics": ["Grid games", "Map reading"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t2_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Grid Game | Finding Objects Using Rows and Columns",
+      "description": "Play the grid game! Find hidden objects by using row and column clues. Practice locating things on a grid like a detective.",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 900000,
+      "tags": ["grid game", "rows", "columns", "finding objects"],
+      "learningObjectives": ["Practice finding objects on a grid", "Use row-column notation"],
+      "keyConceptsCovered": ["Reading grid coordinates", "Finding objects at intersections"],
+      "prerequisites": ["Grid basics"],
+      "followUpTopics": ["Describing positions"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t2_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Describing Positions | Telling Where Things Are on a Grid",
+      "description": "Learn to describe where things are on a grid. Tell your friends exactly where to find the hidden treasure using row and column numbers!",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["positions", "grid", "describing locations", "coordinates"],
+      "learningObjectives": ["Describe positions using grid language", "Give and follow position instructions"],
+      "keyConceptsCovered": ["Describing location: 'Row 3, Column 2'", "Reading positions from a grid"],
+      "prerequisites": ["Finding objects on grids"],
+      "followUpTopics": ["Map reading"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t2_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Practice: Grid Puzzles and Treasure Hunt",
+      "description": "Solve fun grid puzzles! Follow the clues using rows and columns to find the hidden treasure. Great practice for grid skills.",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 850000,
+      "tags": ["practice", "grid puzzles", "treasure hunt", "fun"],
+      "learningObjectives": ["Apply grid skills to solve puzzles", "Navigate grids confidently"],
+      "keyConceptsCovered": ["Following grid directions", "Finding positions independently"],
+      "prerequisites": ["Describing positions on grids"],
+      "followUpTopics": ["Map reading"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn2_t2_v5",
+      "sequenceNumber": 5,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Classroom Grid | Making Your Own Grid Map",
+      "description": "Create a grid map of your classroom! Place desks, the teacher's table, and the door on the grid. A fun hands-on activity.",
+      "youtubeId": "Wgf2m7WRAJg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wgf2m7WRAJg",
+      "thumbnailUrl": "https://img.youtube.com/vi/Wgf2m7WRAJg/hqdefault.jpg",
+      "duration": 252,
+      "durationDisplay": "4:12",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 620000,
+      "tags": ["classroom grid", "hands-on", "create grid", "activity"],
+      "learningObjectives": ["Create a grid representation of a real space", "Apply grid concepts to familiar environment"],
+      "keyConceptsCovered": ["Drawing grids", "Placing objects on grids", "Real-world grid application"],
+      "prerequisites": ["Grid positions"],
+      "followUpTopics": ["Map reading"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn2_v3", "gr4_mn2_t2_v2", "gr4_mn2_t2_v3", "gr4_mn2_t2_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1422,
+      "estimatedTimeDisplay": "23:42",
+      "rationale": "Fast-track through grid positions with creative activity"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn2_v3", "gr4_mn2_t2_v2", "gr4_mn2_t2_v3", "gr4_mn2_t2_v4", "gr4_mn2_t2_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1752,
+      "estimatedTimeDisplay": "29:12",
+      "rationale": "Complete coverage of grid positions with practice"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn2_v3", "gr4_mn2_t2_v2", "gr4_mn2_t2_v3", "gr4_mn2_t2_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1500,
+      "estimatedTimeDisplay": "25:00",
+      "rationale": "Core grid concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn2_v3", "gr4_mn2_t2_v2", "gr4_mn2_t2_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1170,
+      "estimatedTimeDisplay": "19:30",
+      "rationale": "Essential grid concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn2_t2_v2",
+      "checkpointName": "Grid Positions Check",
+      "questions": [
+        {
+          "question": "On a grid, Row 2 and Column 4 means you go to the _____ row from the top and the _____ column from the left.",
+          "options": ["2nd row, 4th column", "4th row, 2nd column", "2nd column, 4th row", "24th position"],
+          "correctAnswer": 0,
+          "explanation": "Row 2 means the second row, and Column 4 means the fourth column. Together they pinpoint an exact position on the grid."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use graph paper and stickers to create physical grids. Let students place objects and describe positions to partners.",
+    "parentGuidance": "Play grid games at home using a checkerboard or graph paper. Ask your child to find objects at specific positions.",
+    "studentGuidance": "Think of a grid like a big checkerboard. Rows go side to side, columns go up and down. Use both to find exact spots!"
+  }
+}

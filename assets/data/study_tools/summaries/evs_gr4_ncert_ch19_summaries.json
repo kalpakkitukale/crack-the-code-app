@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch19",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_evn19_v1",
+      "videoId": "gr4_evn19_v1",
+      "content": "This lesson follows Abdul as he starts his garden and learns about what plants need to grow. Abdul discovers that plants need five essential things: sunlight, water, air, soil with nutrients, and space. He learns to prepare the soil by loosening it and adding compost. He plants seeds of different vegetables and watches them closely. The lesson explains how a seed contains a tiny baby plant and stored food, and how it begins to grow (germinate) when it gets water and warmth.",
+      "keyPoints": [
+        "Plants need sunlight, water, air, soil, and space to grow",
+        "Soil should be loosened and enriched with compost before planting",
+        "A seed contains a baby plant and stored food",
+        "Germination is when a seed breaks open and begins to grow"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn19_v2",
+      "videoId": "gr4_evn19_v2",
+      "content": "This lesson teaches children how to take care of plants in the garden. Abdul learns that watering is best done in the morning or evening, not in the hot afternoon. He discovers that too much water can also harm plants by rotting their roots. The lesson shows how to remove weeds (unwanted plants that steal water and nutrients) and how to add compost or manure to feed the soil. Abdul also learns about garden helpers - earthworms that make soil healthy, and bees and butterflies that help flowers turn into fruits through pollination.",
+      "keyPoints": [
+        "Water plants in the morning or evening, not the hot afternoon",
+        "Remove weeds that compete with plants for water and nutrients",
+        "Earthworms make soil healthy by creating tunnels and adding nutrients",
+        "Bees and butterflies help in pollination, turning flowers into fruits"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_evn19_v3",
+      "videoId": "gr4_evn19_v3",
+      "content": "This lesson explores the joy and benefits of having a kitchen garden. Abdul grows tomatoes, chillies, spinach, and coriander that his family uses for cooking. The lesson explains how growing your own food gives you fresh, healthy vegetables without chemicals. Students learn about different plants that are easy to grow in Indian homes - tulsi, curry leaves, mint, and aloe vera. Even if you live in a flat, you can grow plants in pots on a balcony! The chapter ends with Abdul feeling proud and happy that he can grow food for his family.",
+      "keyPoints": [
+        "A kitchen garden provides fresh vegetables for cooking",
+        "Home-grown food is healthy and free from chemicals",
+        "Tomatoes, chillies, spinach, and herbs are easy to grow at home",
+        "Even balcony pots can be used to grow plants in flats"
+      ],
+      "source": "manual"
+    }
+  ]
+}

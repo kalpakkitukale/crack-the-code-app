@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch3",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn3_001",
+      "term": "Pattern",
+      "definition": "An arrangement of shapes, numbers, or colours that follows a certain rule. Patterns can repeat or grow.",
+      "pronunciation": "PAT-urn",
+      "exampleUsage": "The tiles on our kitchen floor have a pattern of white and blue squares.",
+      "difficulty": "easy",
+      "relatedTerms": ["Repeating Pattern", "Growing Pattern"]
+    },
+    {
+      "id": "gls_gr4_mn3_002",
+      "term": "Repeating Pattern",
+      "definition": "A pattern where the same group of elements comes back again and again in the same order.",
+      "pronunciation": "ree-PEET-ing PAT-urn",
+      "exampleUsage": "The border on my dupatta has a repeating pattern of flowers and leaves.",
+      "difficulty": "easy",
+      "relatedTerms": ["Pattern", "Core"]
+    },
+    {
+      "id": "gls_gr4_mn3_003",
+      "term": "Growing Pattern",
+      "definition": "A pattern where each step changes, usually by getting bigger. The amount added follows a rule.",
+      "pronunciation": "GROH-ing PAT-urn",
+      "exampleUsage": "The pattern 2, 4, 6, 8 is a growing pattern because each number is 2 more than the last.",
+      "difficulty": "medium",
+      "relatedTerms": ["Pattern", "Rule"]
+    },
+    {
+      "id": "gls_gr4_mn3_004",
+      "term": "Core",
+      "definition": "The smallest part of a repeating pattern that keeps coming back. Finding the core helps you understand the whole pattern.",
+      "pronunciation": "KOR",
+      "exampleUsage": "In the pattern red, green, red, green, the core is 'red, green'.",
+      "difficulty": "medium",
+      "relatedTerms": ["Repeating Pattern", "Pattern"]
+    },
+    {
+      "id": "gls_gr4_mn3_005",
+      "term": "Sequence",
+      "definition": "A list of numbers or shapes arranged in a particular order following a rule.",
+      "pronunciation": "SEE-kwens",
+      "exampleUsage": "The sequence 5, 10, 15, 20, 25 follows the rule 'add 5'.",
+      "difficulty": "medium",
+      "relatedTerms": ["Pattern", "Rule"]
+    },
+    {
+      "id": "gls_gr4_mn3_006",
+      "term": "Rule",
+      "definition": "The instruction that tells you how a pattern works. It describes what changes from one step to the next.",
+      "pronunciation": "ROOL",
+      "exampleUsage": "The rule for the pattern 3, 6, 9, 12 is 'add 3 each time'.",
+      "difficulty": "easy",
+      "relatedTerms": ["Pattern", "Sequence"]
+    },
+    {
+      "id": "gls_gr4_mn3_007",
+      "term": "Number Pattern",
+      "definition": "A pattern made of numbers that follow a certain rule, such as adding, subtracting, or multiplying by the same number.",
+      "pronunciation": "NUM-ber PAT-urn",
+      "exampleUsage": "10, 20, 30, 40 is a number pattern where we add 10 each time.",
+      "difficulty": "easy",
+      "relatedTerms": ["Sequence", "Rule"]
+    },
+    {
+      "id": "gls_gr4_mn3_008",
+      "term": "Shape Pattern",
+      "definition": "A pattern made using shapes arranged in a certain order. The shapes may repeat or change in a regular way.",
+      "pronunciation": "SHAYP PAT-urn",
+      "exampleUsage": "Circle, square, triangle, circle, square, triangle is a shape pattern.",
+      "difficulty": "easy",
+      "relatedTerms": ["Pattern", "Repeating Pattern"]
+    },
+    {
+      "id": "gls_gr4_mn3_009",
+      "term": "Predict",
+      "definition": "To figure out what comes next in a pattern by using the rule.",
+      "pronunciation": "pre-DIKT",
+      "exampleUsage": "I can predict that the next number after 12, 15, 18 is 21 because the rule is 'add 3'.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule", "Sequence"]
+    },
+    {
+      "id": "gls_gr4_mn3_010",
+      "term": "Symmetry",
+      "definition": "When one half of a shape or design looks like a mirror image of the other half. Many patterns have symmetry.",
+      "pronunciation": "SIM-uh-tree",
+      "exampleUsage": "A butterfly has symmetry because its left wing looks just like its right wing.",
+      "difficulty": "medium",
+      "relatedTerms": ["Pattern", "Shape Pattern"]
+    }
+  ]
+}

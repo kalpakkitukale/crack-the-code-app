@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch6",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn6_001",
+      "term": "Length",
+      "definition": "How long something is from one end to the other. Length tells us the distance between two points.",
+      "pronunciation": "LENGTH",
+      "exampleUsage": "The length of my pencil is 15 cm.",
+      "difficulty": "easy",
+      "relatedTerms": ["measurement", "distance", "centimetre"]
+    },
+    {
+      "id": "gls_gr4_mn6_002",
+      "term": "Centimetre",
+      "definition": "A small unit of length written as cm. There are 100 centimetres in 1 metre. Used to measure small objects.",
+      "pronunciation": "SEN-tih-mee-tur",
+      "exampleUsage": "My eraser is about 4 cm long.",
+      "difficulty": "easy",
+      "relatedTerms": ["metre", "measurement", "ruler"]
+    },
+    {
+      "id": "gls_gr4_mn6_003",
+      "term": "Metre",
+      "definition": "A standard unit of length written as m. 1 metre = 100 centimetres. Used to measure rooms, trees, and medium distances.",
+      "pronunciation": "MEE-tur",
+      "exampleUsage": "The classroom door is about 2 metres tall.",
+      "difficulty": "easy",
+      "relatedTerms": ["centimetre", "kilometre", "measurement"]
+    },
+    {
+      "id": "gls_gr4_mn6_004",
+      "term": "Kilometre",
+      "definition": "A large unit of length written as km. 1 kilometre = 1000 metres. Used to measure long distances between places.",
+      "pronunciation": "KIH-lo-mee-tur",
+      "exampleUsage": "The distance from our school to the railway station is 3 kilometres.",
+      "difficulty": "easy",
+      "relatedTerms": ["metre", "distance", "measurement"]
+    },
+    {
+      "id": "gls_gr4_mn6_005",
+      "term": "Conversion",
+      "definition": "Changing a measurement from one unit to another. For example, changing metres to centimetres or kilometres to metres.",
+      "pronunciation": "kun-VER-zhun",
+      "exampleUsage": "To convert 3 metres to centimetres, we multiply by 100: 3 m = 300 cm.",
+      "difficulty": "medium",
+      "relatedTerms": ["unit", "multiply", "divide"]
+    },
+    {
+      "id": "gls_gr4_mn6_006",
+      "term": "Estimation",
+      "definition": "Making a good guess about a measurement without using a measuring tool. You use things you already know to help you guess.",
+      "pronunciation": "es-tih-MAY-shun",
+      "exampleUsage": "I estimated that the table is about 1 metre long, and when I measured it, it was 95 cm!",
+      "difficulty": "easy",
+      "relatedTerms": ["measurement", "approximate", "guess"]
+    },
+    {
+      "id": "gls_gr4_mn6_007",
+      "term": "Ruler",
+      "definition": "A flat tool used to measure the length of small objects. Most school rulers are 15 cm or 30 cm long.",
+      "pronunciation": "ROO-lur",
+      "exampleUsage": "I used a ruler to measure the length of my pencil. It was 17 cm.",
+      "difficulty": "easy",
+      "relatedTerms": ["centimetre", "measurement", "scale"]
+    },
+    {
+      "id": "gls_gr4_mn6_008",
+      "term": "Measuring Tape",
+      "definition": "A long flexible ribbon with markings used to measure larger lengths. Tailors and carpenters use measuring tapes.",
+      "pronunciation": "MEH-zhur-ing tayp",
+      "exampleUsage": "The tailor used a measuring tape to measure the cloth. It was 2 m 50 cm.",
+      "difficulty": "easy",
+      "relatedTerms": ["metre", "centimetre", "measurement"]
+    },
+    {
+      "id": "gls_gr4_mn6_009",
+      "term": "Distance",
+      "definition": "How far it is between two places. Distance is a type of length and is measured in metres or kilometres.",
+      "pronunciation": "DIS-tuns",
+      "exampleUsage": "The distance between my house and the park is about 500 metres.",
+      "difficulty": "easy",
+      "relatedTerms": ["length", "kilometre", "metre"]
+    },
+    {
+      "id": "gls_gr4_mn6_010",
+      "term": "Odometer",
+      "definition": "A device in cars, buses, and other vehicles that measures the distance travelled in kilometres.",
+      "pronunciation": "oh-DOM-eh-tur",
+      "exampleUsage": "Papa checked the odometer and said we had driven 120 km from home.",
+      "difficulty": "medium",
+      "relatedTerms": ["kilometre", "distance", "vehicle"]
+    }
+  ]
+}

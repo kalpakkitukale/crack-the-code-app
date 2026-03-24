@@ -1,0 +1,56 @@
+{
+  "chapterId": "gr4_evs_ncert_ch18",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en18_v1",
+      "videoId": "gr4_en18_v1",
+      "content": "This lesson introduces the problem of floods - when there is too much water. Heavy monsoon rains cause rivers like the Ganga and Brahmaputra to overflow, flooding villages and towns nearby. When floods happen, water enters homes, destroys crops, and washes away roads. People have to leave their homes and move to higher ground or relief camps. Clean drinking water becomes hard to find because flood water mixes with dirty water. The lesson shows how states like Assam, Bihar, and West Bengal face floods almost every year during the monsoon season.",
+      "keyPoints": [
+        "Floods happen when heavy rain causes rivers to overflow",
+        "Floods damage homes, crops, roads, and schools",
+        "People move to relief camps for safety during floods",
+        "Assam, Bihar, and West Bengal face floods almost every year"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en18_v2",
+      "videoId": "gr4_en18_v2",
+      "content": "This lesson explores droughts - when there is too little water. Some areas in India do not get enough rain for months or even years. When there is no rain, rivers and ponds dry up, wells run out of water, and the soil becomes hard and cracked. Crops cannot grow and farmers suffer heavy losses. People and animals struggle to find drinking water. Parts of Rajasthan, Gujarat, Maharashtra, and Karnataka often face drought. Women and children in some villages walk several kilometres every day just to fetch water from a distant source.",
+      "keyPoints": [
+        "Drought happens when an area does not get enough rain for a long time",
+        "Rivers, ponds, and wells dry up during drought",
+        "Crops fail and farmers lose their livelihood",
+        "Women and children often walk long distances to fetch water in drought areas"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en18_v3",
+      "videoId": "gr4_en18_v3",
+      "content": "This lesson teaches water conservation - how to save water so everyone has enough. Students learn about rainwater harvesting, where rainwater is collected from rooftops and stored in tanks for later use. Ancient Indians were experts at water conservation - they built step wells (baolis), tanks, and johads to store water. At home, simple actions like turning off taps, taking shorter baths, and fixing leaking taps can save a lot of water. Planting trees also helps because tree roots hold water in the soil. The lesson emphasises that every drop counts and children can make a big difference by saving water every day.",
+      "keyPoints": [
+        "Rainwater harvesting collects and stores rainwater for future use",
+        "Ancient Indians built step wells and tanks to store water",
+        "Simple actions at home can save a lot of water",
+        "Planting trees helps keep water in the soil",
+        "Every person can help by saving water every day"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en18_v4",
+      "videoId": "gr4_en18_v4",
+      "content": "This lesson connects floods and droughts and explains why both happen in the same country at the same time. India is large and rain does not fall equally - some places get too much while others get too little. Dams and canals help by storing extra water and sending it to dry areas. The government and organisations like NDRF (National Disaster Response Force) help rescue people during floods and provide water tankers during droughts. The chapter ends by reminding students that water is precious and everyone must work together to manage it wisely.",
+      "keyPoints": [
+        "India can have floods and droughts at the same time in different areas",
+        "Dams store water and canals carry it to where it is needed",
+        "NDRF and the army help people during floods and droughts",
+        "Water is precious and must be managed wisely by everyone"
+      ],
+      "source": "manual"
+    }
+  ]
+}

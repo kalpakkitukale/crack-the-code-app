@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch5",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en5",
+    "title": "Anita and the Honeybees",
+    "content": "This chapter from the NCERT Looking Around textbook tells the story of Anita, a curious girl who discovers a beehive near her house and learns all about the fascinating world of honeybees. Students explore how bees live together in colonies with a queen bee, worker bees, and drone bees. They discover the amazing process of how bees collect nectar from flowers and turn it into honey. The chapter explains the vital role bees play in pollination, helping plants grow fruits and seeds. It also covers beekeeping (apiculture) as a source of livelihood for many Indian families, and the many uses of honey and beeswax in our daily lives.",
+    "keyPoints": [
+      "A beehive houses 20,000 to 60,000 bees with a queen, workers, and drones",
+      "Bees collect nectar from flowers and convert it into honey inside the hive",
+      "To make 1 kg of honey, bees visit about 4 million flowers",
+      "Bees perform the waggle dance to communicate the location of flowers",
+      "Pollination by bees helps plants produce fruits and seeds",
+      "Beekeeping (apiculture) provides income for many families in India"
+    ],
+    "learningObjectives": [
+      "Describe the three types of bees and their roles in a hive",
+      "Explain the step-by-step process of how bees make honey",
+      "Understand what pollination is and why bees are important for it",
+      "List the uses of honey and beeswax in daily life",
+      "Appreciate the importance of protecting bees and their habitats"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en5_001",
+      "title": "Observe a Bee Activity",
+      "content": "Next time you see a bee visiting flowers in your garden or park, watch it carefully from a safe distance. Notice how it lands on the flower, collects nectar, and how pollen sticks to its body. Count how many flowers it visits in five minutes. Draw a picture of the bee on a flower and label the parts you can see.",
+      "tags": ["activity", "observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en5_002",
+      "title": "Honey Tasting and Comparison",
+      "content": "Ask an adult to help you taste two types of honey - one from a local beekeeper and one from a store. Notice the difference in colour, thickness, and taste. Local honey often has different flavours depending on the flowers near the beehive. Write down what you notice about each type of honey.",
+      "tags": ["activity", "hands-on"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en5_003",
+      "title": "Amazing Bee Facts",
+      "content": "Bees have five eyes - two large compound eyes and three tiny simple eyes on top of their head! A worker bee's wings beat about 200 times per second, making that buzzing sound we hear. Bees can fly at speeds up to 25 km per hour. Honey is the only food made by insects that humans eat. A healthy hive can produce 25-30 kg of honey in a year!",
+      "tags": ["fun-fact", "science"],
+      "isPinned": false
+    }
+  ]
+}

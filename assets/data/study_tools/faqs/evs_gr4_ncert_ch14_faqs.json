@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch14",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en14_001",
+      "videoId": "gr4_evn_14_1_v1",
+      "question": "What are the main steps involved in farming?",
+      "answer": "The main steps of farming are: (1) Ploughing - loosening the soil with a plough so air and water can reach the roots. (2) Sowing - planting seeds in the prepared soil. (3) Irrigation - watering the crops regularly. (4) Weeding - pulling out unwanted plants that compete with crops. (5) Harvesting - cutting and collecting the fully grown crops. After harvesting, the grain is separated from the plant in a process called threshing.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_en14_002",
+      "videoId": "gr4_evn_14_1_v1",
+      "question": "What tools do farmers use and how have they changed?",
+      "answer": "Traditional farming tools include the wooden plough (pulled by bullocks), sickle (for cutting crops), hoe (for digging), and spade. Modern tools include tractors (for ploughing large areas quickly), harvesters (for cutting and collecting crops), seed drills (for planting seeds evenly), and sprinklers (for watering). Modern tools save time and effort but cost more money.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en14_003",
+      "videoId": "gr4_evn_14_1_v1",
+      "question": "Why is ploughing the soil important before planting seeds?",
+      "answer": "Ploughing is very important because it loosens the soil so that roots can grow deep and spread easily. It allows air to enter the soil, which roots need. It helps water soak into the ground instead of running off the surface. Ploughing also turns over the soil, bringing nutrients to the top and burying weeds. Without ploughing, seeds would struggle to grow in hard, compact soil.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en14_004",
+      "videoId": "gr4_evn_14_2_v1",
+      "question": "What are Kharif and Rabi crops?",
+      "answer": "Kharif crops are planted at the start of the monsoon season (June-July) and harvested in autumn (October-November). They need lots of rain. Examples: rice, maize, millet (bajra), cotton, and sugarcane. Rabi crops are planted in winter (October-November) and harvested in spring (March-April). They grow in cooler weather. Examples: wheat, mustard, peas, gram (chana), and linseed.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en14_005",
+      "videoId": "gr4_evn_14_2_v1",
+      "question": "Why is rain so important for Indian farmers?",
+      "answer": "Many Indian farmers, especially small farmers, do not have irrigation facilities like tube wells or canals. They depend on the monsoon rains to water their crops. If the monsoon is good, crops grow well and there is plenty of food. If rains are less than expected (drought), crops may fail and farmers face great hardship. That is why the monsoon is called the lifeline of Indian agriculture.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en14_006",
+      "videoId": "gr4_evn_14_1_v1",
+      "question": "What is irrigation and why is it needed?",
+      "answer": "Irrigation is the method of supplying water to crops when there is not enough rain. Farmers use different irrigation methods: canals that carry river water to fields, tube wells that pump underground water, sprinklers that spray water like rain, and drip irrigation that delivers water directly to plant roots. Irrigation helps farmers grow crops even in dry seasons and in areas with less rainfall.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en14_007",
+      "videoId": "gr4_evn_14_2_v2",
+      "question": "How do animals help on a farm?",
+      "answer": "Farm animals are very helpful! Bullocks pull ploughs to prepare the soil and pull carts to carry heavy loads. Cows and buffaloes give milk which can be sold or consumed. Hens give eggs. Goats give milk and wool. Very importantly, animal dung is used as natural manure (fertiliser) to make the soil rich in nutrients. Some farmers also use dung cakes as cooking fuel.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en14_008",
+      "videoId": "gr4_evn_14_2_v2",
+      "question": "What is manure and why is it better than chemical fertilisers?",
+      "answer": "Manure is a natural fertiliser made from decomposed animal dung, kitchen waste, and dead plant material. It adds nutrients to the soil and improves soil structure, helping it hold water better. Unlike chemical fertilisers, manure does not harm the soil or water over time. Chemical fertilisers can damage soil health and pollute rivers if used too much. Manure is also much cheaper for farmers!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en14_009",
+      "videoId": "gr4_evn_14_2_v2",
+      "question": "What challenges do Indian farmers face?",
+      "answer": "Indian farmers face many challenges: unpredictable monsoons that can bring too much or too little rain, pests and insects that destroy crops, lack of money to buy good seeds and modern equipment, difficulty getting fair prices for their produce, rising costs of seeds and fertilisers, and the effects of climate change. Despite these challenges, farmers work incredibly hard to feed the nation.",
+      "status": "answered",
+      "upvotes": 23
+    },
+    {
+      "id": "faq_gr4_en14_010",
+      "videoId": "gr4_evn_14_2_v2",
+      "question": "Why should we respect farmers and not waste food?",
+      "answer": "Farmers work very hard from dawn to dusk, in scorching heat and pouring rain, to grow the food we eat every day. Every grain of rice, every roti, every vegetable on your plate is the result of months of hard work. When we waste food, we waste all that effort, plus the water and resources used to grow it. Respecting food means respecting the farmers who grew it!",
+      "status": "answered",
+      "upvotes": 26
+    }
+  ]
+}

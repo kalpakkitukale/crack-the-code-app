@@ -1,0 +1,250 @@
+{
+  "videoSetId": "playlist_gr4_mn10_t3",
+  "topicId": "gr4_mn_10_3",
+  "topicName": "Reading Charts and Graphs",
+  "chapterId": "gr4_math_ncert_ch10",
+  "chapterName": "Elephants, Tigers, and Leopards",
+  "description": "Main learning videos for reading and interpreting bar graphs, pictographs, and picture graphs using wildlife conservation data",
+
+  "videos": [
+    {
+      "id": "gr4_mn10_t3_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "What is a Bar Graph? | Showing Wildlife Data with Bars",
+      "description": "Learn what a bar graph is and how it shows data using bars of different heights. See how we can show the number of elephants, tigers, and leopards in a colourful bar graph!",
+
+      "youtubeId": "7J1OkxuyLD0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7J1OkxuyLD0",
+      "thumbnailUrl": "https://img.youtube.com/vi/7J1OkxuyLD0/hqdefault.jpg",
+
+      "duration": 510,
+      "durationDisplay": "8:30",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCkiSMoFsOHbQCRbTasb5oNQ",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1500000,
+
+      "tags": ["bar graphs", "introduction", "data visualisation", "bars", "wildlife"],
+
+      "learningObjectives": [
+        "Understand what a bar graph is",
+        "Read the title, labels, and scale of a bar graph",
+        "Find values by looking at bar heights"
+      ],
+
+      "prerequisites": ["Reading data from tables", "Comparing numbers"],
+      "followUpTopics": ["Comparing data using bar graphs"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "In a bar graph, a taller bar means:",
+            "options": ["A smaller number", "A bigger number", "The same number"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t3_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Reading Bar Graphs | Answering Questions About Animal Data",
+      "description": "Deep dive into reading bar graphs. Learn to find exact values, compare bars, and answer questions like: Which animal has the most? How many more tigers than leopards?",
+
+      "youtubeId": "mAvuom42NyY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mAvuom42NyY",
+      "thumbnailUrl": "https://img.youtube.com/vi/mAvuom42NyY/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3200000,
+
+      "tags": ["bar graphs", "reading values", "comparing bars", "questions", "animal data"],
+
+      "learningObjectives": [
+        "Read exact values from a bar graph",
+        "Compare two bars to find which is more",
+        "Answer multi-step questions using bar graph data"
+      ],
+
+      "prerequisites": ["Understanding bar graphs"],
+      "followUpTopics": ["Pictographs and picture graphs"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "If the tiger bar reaches 50 and the leopard bar reaches 30, how many more tigers are there?",
+            "options": ["10", "20", "80"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t3_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Pictographs | When Pictures Tell the Data Story",
+      "description": "Discover pictographs where each picture symbol stands for a number of animals! Learn to read picture graphs and figure out the total by counting and multiplying symbols.",
+
+      "youtubeId": "yZJR2MzkBrU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yZJR2MzkBrU",
+      "thumbnailUrl": "https://img.youtube.com/vi/yZJR2MzkBrU/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1800000,
+
+      "tags": ["pictographs", "picture graphs", "symbols", "data representation", "counting"],
+
+      "learningObjectives": [
+        "Understand what a pictograph is",
+        "Read the key to know what each symbol represents",
+        "Count symbols to find totals"
+      ],
+
+      "prerequisites": ["Reading bar graphs"],
+      "followUpTopics": ["Comparing data from graphs"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t3_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Charts and Graphs Practice | Reading Wildlife Graphs",
+      "description": "Practice reading different types of graphs with wildlife data. Can you read a bar graph showing tiger populations? Can you figure out the total from a pictograph?",
+
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1200000,
+
+      "tags": ["practice", "graphs", "bar graphs", "pictographs", "challenge"],
+
+      "learningObjectives": [
+        "Apply graph-reading skills independently",
+        "Switch between bar graphs and pictographs",
+        "Solve problems using graph data"
+      ],
+
+      "prerequisites": ["Reading bar graphs and pictographs"],
+      "followUpTopics": ["Conservation math"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn10_t3_v5",
+      "type": "real_world_application",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "Graphs in the Real World | How Scientists Use Charts",
+      "description": "See how real wildlife scientists use bar graphs and pictographs to track animal populations. Learn why graphs make it easy to spot trends and share information.",
+
+      "youtubeId": "5W47G-h7myY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5W47G-h7myY",
+      "thumbnailUrl": "https://img.youtube.com/vi/5W47G-h7myY/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Scratch Garden",
+      "channelId": "UCxKmKYRZaknReFGcHNnz4dg",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 5000000,
+
+      "tags": ["real world", "scientists", "wildlife tracking", "application", "trends"],
+
+      "learningObjectives": [
+        "See graphs used in real wildlife conservation",
+        "Understand why data visualisation is important",
+        "Connect classroom learning to real-world use"
+      ],
+
+      "prerequisites": ["Reading bar graphs and pictographs"],
+      "followUpTopics": ["Conservation math"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn10_t3_v1", "gr4_mn10_t3_v2", "gr4_mn10_t3_v3", "gr4_mn10_t3_v4", "gr4_mn10_t3_v5"],
+      "estimatedTime": 2250
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn10_t3_v1", "gr4_mn10_t3_v2", "gr4_mn10_t3_v3", "gr4_mn10_t3_v5"],
+      "estimatedTime": 1830
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn10_t3_v1", "gr4_mn10_t3_v2", "gr4_mn10_t3_v3"],
+      "estimatedTime": 1440
+    }
+  }
+}

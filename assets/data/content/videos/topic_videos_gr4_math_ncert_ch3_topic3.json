@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn3_t3",
+  "topicId": "gr4_mn_3_3",
+  "topicName": "Number Sequences",
+  "chapterId": "gr4_math_ncert_ch3",
+  "chapterName": "Pattern Around Us",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 1890,
+    "totalDurationDisplay": "31:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "35-45 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_3_1", "gr4_mn_3_2"],
+    "followUpTopics": ["gr4_mn_3_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn3_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Number Patterns | Finding the Rule in Number Sequences",
+      "description": "Learn how to find the rule in number patterns. Practice with sequences that add, subtract, or multiply to find what comes next.",
+      "youtubeId": "vV7C7bXm4VI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vV7C7bXm4VI",
+      "thumbnailUrl": "https://img.youtube.com/vi/vV7C7bXm4VI/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3200000,
+      "tags": ["number patterns", "sequences", "pattern rule", "number sequences", "what comes next"],
+      "learningObjectives": ["Find the rule in a number sequence", "Predict the next number using the rule"],
+      "keyConceptsCovered": ["Add a constant: 2, 4, 6, 8 (add 2)", "Subtract a constant: 20, 17, 14, 11 (subtract 3)", "Looking at differences between consecutive numbers"],
+      "prerequisites": ["Skip counting", "Growing patterns"],
+      "followUpTopics": ["Shape sequences", "Finding pattern rules"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t3_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Skip Counting Patterns | Number Sequences with Addition",
+      "description": "Explore number sequences that use addition. Count by 3s, 4s, 6s, and 7s to create number patterns. Find the rule and extend each sequence.",
+      "youtubeId": "BWtQxMiV3rA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BWtQxMiV3rA",
+      "thumbnailUrl": "https://img.youtube.com/vi/BWtQxMiV3rA/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 850000,
+      "tags": ["skip counting", "addition patterns", "number sequences", "counting by 3s", "counting by 4s"],
+      "learningObjectives": ["Create number sequences by skip counting with various intervals", "Identify the addition rule in a number sequence"],
+      "keyConceptsCovered": ["Counting by 3s: 3, 6, 9, 12, 15", "Counting by 4s: 4, 8, 12, 16, 20", "All addition sequences have a constant difference"],
+      "prerequisites": ["Basic number patterns concept"],
+      "followUpTopics": ["Subtraction sequences", "Mixed number patterns"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t3_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Number Patterns in Tables and Charts | Organizing Sequences",
+      "description": "Learn to organize number sequences in tables. Use input-output tables to discover the rule. See how tables make it easier to spot and extend patterns.",
+      "youtubeId": "N3Rjm6HSQKY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=N3Rjm6HSQKY",
+      "thumbnailUrl": "https://img.youtube.com/vi/N3Rjm6HSQKY/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "UCj37Z4y3jDqH-P4qN9L_3lg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 620000,
+      "tags": ["number tables", "input output", "pattern tables", "organizing sequences"],
+      "learningObjectives": ["Use tables to organize and find number patterns", "Complete input-output tables using the pattern rule"],
+      "keyConceptsCovered": ["Input-output tables reveal hidden rules", "Tables make it easy to check if a rule works", "Extending sequences using tables"],
+      "prerequisites": ["Number sequences with addition"],
+      "followUpTopics": ["Shape sequences"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t3_v4",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "Find the Missing Number | Number Sequence Practice",
+      "description": "Practice finding missing numbers in sequences. Each puzzle gives you a sequence with a blank, and you need to figure out the rule to fill in the gap.",
+      "youtubeId": "7cKPjmAr3FQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7cKPjmAr3FQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/7cKPjmAr3FQ/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Numberock",
+      "channelId": "UCbCgLw2-6BIHs8C1LdYP0Ag",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 490000,
+      "tags": ["missing number", "number sequence practice", "fill in the blank", "pattern puzzles"],
+      "learningObjectives": ["Find missing numbers in sequences by applying the rule", "Verify answers by checking if the rule holds for all numbers"],
+      "keyConceptsCovered": ["Finding the rule from given numbers", "Filling in blanks at any position", "Checking answers by testing the rule"],
+      "prerequisites": ["All number sequence concepts"],
+      "followUpTopics": ["Shape sequences"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn3_t3_v5",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Tricky Number Patterns | Two-Step Rules and Backwards Sequences",
+      "description": "Ready for a challenge? Try number patterns with two-step rules (like add 2 then add 3) and backwards sequences (counting down). Can you crack the code?",
+      "youtubeId": "PmR4QHtFcWU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PmR4QHtFcWU",
+      "thumbnailUrl": "https://img.youtube.com/vi/PmR4QHtFcWU/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 760000,
+      "tags": ["tricky patterns", "two-step rules", "backwards sequences", "challenge", "advanced patterns"],
+      "learningObjectives": ["Solve number patterns with non-constant differences", "Work with decreasing number sequences"],
+      "keyConceptsCovered": ["Two-step rules: alternating additions", "Backwards sequences: subtract to find the pattern", "Some patterns change the amount they grow by"],
+      "prerequisites": ["Number sequences", "Addition and subtraction patterns"],
+      "followUpTopics": ["Finding pattern rules"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn3_v4", "gr4_mn3_t3_v3", "gr4_mn3_t3_v4", "gr4_mn3_t3_v5"],
+      "totalVideos": 4,
+      "estimatedTime": 1530,
+      "estimatedTimeDisplay": "25:30",
+      "rationale": "Fast-track with tables, practice, and tricky pattern challenge"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn3_v4", "gr4_mn3_t3_v2", "gr4_mn3_t3_v3", "gr4_mn3_t3_v4", "gr4_mn3_t3_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 1890,
+      "estimatedTimeDisplay": "31:30",
+      "rationale": "Complete coverage of number sequences with practice and challenge"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["gr4_mn3_v4", "gr4_mn3_t3_v2", "gr4_mn3_t3_v3", "gr4_mn3_t3_v4"],
+      "totalVideos": 4,
+      "estimatedTime": 1590,
+      "estimatedTimeDisplay": "26:30",
+      "rationale": "Core number sequence concepts after prerequisite review"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn3_v4", "gr4_mn3_t3_v2", "gr4_mn3_t3_v3"],
+      "totalVideos": 3,
+      "estimatedTime": 1230,
+      "estimatedTimeDisplay": "20:30",
+      "rationale": "Essential number sequence content only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn3_t3_v2",
+      "checkpointName": "Number Sequences Basics Check",
+      "questions": [
+        {
+          "question": "What comes next in the pattern: 4, 8, 12, 16, __?",
+          "options": ["17", "18", "20", "24"],
+          "correctAnswer": 2,
+          "explanation": "The rule is add 4 each time. 16 + 4 = 20. This is a skip counting pattern by 4s."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Use a hundreds chart to help students see number patterns visually. Highlight skip counting sequences with different colors. Videos 1-3 are essential for all students.",
+    "parentGuidance": "Practice number sequences at home: count steps while climbing stairs by 2s, 3s, or 5s. Play 'What comes next?' with number cards.",
+    "studentGuidance": "Look at the difference between numbers in a sequence. If the difference is always the same, you have found the rule! Try making your own number patterns."
+  }
+}

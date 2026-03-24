@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ch5",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_m5_001",
+      "videoId": "gr4_m5_v1",
+      "question": "What is the difference between a line and a line segment?",
+      "answer": "A line goes on forever in both directions - it has no endpoints. A line segment has two endpoints and a fixed length. Think of it this way: a line segment is like the edge of your ruler (it starts and stops), but a line is like a road that stretches out forever in both directions.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_m5_002",
+      "videoId": "gr4_m5_v1",
+      "question": "How can I tell if lines are parallel?",
+      "answer": "Parallel lines are always the same distance apart and never touch or cross. An easy way to check is to measure the gap between the lines in different places. If the gap is always the same, the lines are parallel. Think of railway tracks or the opposite edges of your notebook.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_m5_002b",
+      "videoId": "gr4_m5_v2",
+      "question": "How do I know if an angle is a right angle?",
+      "answer": "A right angle is exactly 90 degrees and looks like a perfect L shape or the corner of a book. You can check by holding the corner of a piece of paper against the angle. If the paper corner fits perfectly, it is a right angle! In diagrams, right angles are shown with a small square in the corner.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_m5_003",
+      "videoId": "gr4_m5_v3",
+      "question": "Why do the angles of a triangle always add up to 180 degrees?",
+      "answer": "This is one of the most important rules in geometry! You can try it yourself: draw any triangle, cut out the three corners, and place them side by side. They will always form a straight line, which is 180 degrees. This works for every triangle, no matter how big or small.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_m5_004",
+      "videoId": "gr4_m5_v3",
+      "question": "How can I tell the difference between equilateral, isosceles, and scalene triangles?",
+      "answer": "Count the equal sides! Equilateral means all 3 sides are the same length (like a perfect triangle). Isosceles means exactly 2 sides are the same length (like a mountain peak). Scalene means no sides are equal - all 3 are different lengths. You can measure the sides with a ruler to check.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_m5_005",
+      "videoId": "gr4_m5_v4",
+      "question": "Is a square also a rectangle?",
+      "answer": "Yes! A square is a special type of rectangle. A rectangle needs 4 right angles and opposite sides that are equal. A square has all of that, plus the extra feature that all 4 sides are the same length. So every square is a rectangle, but not every rectangle is a square.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_m5_006",
+      "videoId": "gr4_m5_v4",
+      "question": "What is the difference between a rhombus and a square?",
+      "answer": "Both a rhombus and a square have 4 equal sides. The key difference is the angles. A square always has 4 right angles (90 degrees each). A rhombus can have angles that are not 90 degrees - it looks like a square that has been pushed sideways, like a diamond shape.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_m5_007",
+      "videoId": "gr4_m5_v4",
+      "question": "How is a parallelogram different from a rectangle?",
+      "answer": "Both have opposite sides that are equal and parallel. The difference is in the angles. A rectangle always has 4 right angles (90 degrees). A parallelogram can have angles that are not 90 degrees - it looks like a rectangle that was pushed to one side. So a rectangle is actually a special type of parallelogram!",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_m5_008",
+      "videoId": "gr4_m5_v5",
+      "question": "Where can I find geometry shapes in real life?",
+      "answer": "Shapes are everywhere! Triangles: pizza slices, hangers, roofs. Rectangles: doors, books, phone screens. Squares: tiles, chessboards, windows. Circles: wheels, clocks, plates. Parallel lines: zebra crossings, notebook lines. Right angles: table corners, walls meeting floors. Start looking around and you will spot them everywhere!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_m5_009",
+      "videoId": "gr4_m5_v2",
+      "question": "What is a vertex?",
+      "answer": "A vertex is the point where two sides of a shape meet. It is like a corner! A triangle has 3 vertices (corners), a rectangle has 4 vertices, and a pentagon has 5 vertices. The word for more than one vertex is 'vertices'. You can count vertices to help identify shapes.",
+      "status": "answered",
+      "upvotes": 13
+    }
+  ]
+}

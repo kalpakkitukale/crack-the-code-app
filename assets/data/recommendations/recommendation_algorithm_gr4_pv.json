@@ -1,0 +1,344 @@
+{
+  "algorithmId": "rec_gr4_m4_t1",
+  "topicId": "gr4_m_4_1",
+  "topicName": "Place Value (4-digit numbers)",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent prerequisite knowledge, can move quickly",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 3,
+        "applicationVideos": 1,
+        "challengeVideos": 1,
+        "totalVideos": 5
+      },
+      "estimatedTime": 1905,
+      "videoSequence": [
+        {
+          "videoId": "gr4_pv_v1",
+          "reason": "Quick introduction to 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v2",
+          "reason": "Core concept: place value in thousands",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v3",
+          "reason": "Worked examples for practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v6",
+          "reason": "Real-world applications",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_pv_v7",
+          "reason": "Challenge: preview of 5-digit numbers",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete topic coverage",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 4,
+        "applicationVideos": 2,
+        "challengeVideos": 1,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2880,
+      "videoSequence": [
+        {
+          "videoId": "gr4_pv_v1",
+          "reason": "Introduction to 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v2",
+          "reason": "Deep dive: place value concept",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v3",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v4",
+          "reason": "Practice problems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v5",
+          "reason": "Word problems application",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_pv_v6",
+          "reason": "Real-world connections",
+          "skippable": true
+        },
+        {
+          "videoId": "gr4_pv_v7",
+          "reason": "Optional challenge",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps, needs prerequisite review before main content",
+      "playlistComposition": {
+        "prerequisiteVideos": 2,
+        "coreTopicVideos": 4,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2280,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_3digit_weak": {
+            "addVideos": ["prereq_pv_v2", "prereq_pv_v3"],
+            "priority": "high"
+          },
+          "mult_by_10_100_weak": {
+            "addVideos": ["prereq_mult_v1", "prereq_mult_v2"],
+            "priority": "high"
+          },
+          "number_comparison_weak": {
+            "addVideos": ["prereq_comp_v1"],
+            "priority": "medium"
+          },
+          "number_sequence_weak": {
+            "addVideos": ["prereq_seq_v1"],
+            "priority": "low"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_pv_v2",
+          "reason": "Review: Finding place value in 3-digit numbers",
+          "skippable": false,
+          "condition": "if pv_3digit concept is weak"
+        },
+        {
+          "videoId": "prereq_mult_v1",
+          "reason": "Review: Multiplication by 10 and 100",
+          "skippable": false,
+          "condition": "if mult_by_10_100 concept is weak"
+        },
+        {
+          "videoId": "gr4_pv_v1",
+          "reason": "Start main topic: Introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v2",
+          "reason": "Core concept",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v3",
+          "reason": "Worked examples",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v4",
+          "reason": "Practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant prerequisite review before attempting main topic",
+      "playlistComposition": {
+        "prerequisiteVideos": 5,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 7
+      },
+      "estimatedTime": 2400,
+      "videoSequence": [
+        {
+          "videoId": "prereq_pv_v1",
+          "reason": "Foundation: Place value basics",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv_v2",
+          "reason": "Practice: Finding place value",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_pv_v3",
+          "reason": "Clarify: Face value vs place value",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_mult_v1",
+          "reason": "Essential: Multiplication by 10/100",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_mult_v2",
+          "reason": "Patterns in multiplication",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v1",
+          "reason": "Gentle intro to 4-digit numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_pv_v2",
+          "reason": "Begin main concept",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these videos, retake the readiness quiz to check if you're ready to continue"
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_3digit": {
+        "conceptName": "Place value in 3-digit numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_pv_v1", "prereq_pv_v2", "prereq_pv_v3"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq1", "rq2", "rq5"]
+      },
+      "mult_by_10_100": {
+        "conceptName": "Multiplication by 10 and 100",
+        "importance": "critical",
+        "videoIds": ["prereq_mult_v1", "prereq_mult_v2"],
+        "minWatchRequired": 2,
+        "questionsTestingThis": ["rq4", "rq6"]
+      },
+      "number_comparison": {
+        "conceptName": "Comparing 3-digit numbers",
+        "importance": "important",
+        "videoIds": ["prereq_comp_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq3", "rq7"]
+      },
+      "number_sequence": {
+        "conceptName": "Number sequence and patterns",
+        "importance": "helpful",
+        "videoIds": ["prereq_seq_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq8", "rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_pv_v2",
+        "questions": [
+          {
+            "question": "What is the place value of 7 in 4,726?",
+            "options": ["7", "70", "700", "7000"],
+            "correctAnswer": 2
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "skip_next_video",
+          "skipVideoId": "gr4_pv_v4",
+          "reason": "Student demonstrated mastery, skip basic practice"
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_pv_v2",
+          "reason": "Student still struggling with place value concept"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip remaining basic videos, jump to application videos"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review videos"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched",
+      "action": "Suggest taking a break before continuing"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You're very well prepared. We've created a fast-track playlist focusing on new concepts and challenges."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Great work! You're ready to learn 4-digit place value. Your playlist covers all important topics."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in prerequisite knowledge. Don't worry! We'll start with review videos to fill those gaps, then move to new content."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review some basics first. We've created a playlist focused on building a strong foundation. After watching, you can retake the quiz."
+    }
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 80,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 75,
+      "description": "% of students who score >= 70% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.0,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 45,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    }
+  }
+}

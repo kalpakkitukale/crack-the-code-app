@@ -1,0 +1,937 @@
+{
+  "id": "mathematics_gr4_ncert",
+  "name": "Mathematics",
+  "icon": "calculate",
+  "color": "#4ECDC4",
+  "boardId": "cbse_elementary",
+  "classId": "class_4",
+  "streamId": "general",
+  "textbook": "Maths Mela (NCERT)",
+  "totalChapters": 14,
+  "keywords": [
+    "mathematics",
+    "grade 4",
+    "ncert",
+    "cbse",
+    "class 4 maths",
+    "maths mela"
+  ],
+  "chapters": [
+    {
+      "id": "gr4_math_ncert_ch1",
+      "number": 1,
+      "name": "Shapes Around Us",
+      "description": "Explore 3D shapes like cubes, cylinders, cones, and spheres, and learn about their faces, edges, and vertices.",
+      "ncertPage": "1-16",
+      "keywords": [
+        "3D shapes",
+        "cube",
+        "cuboid",
+        "cylinder",
+        "cone",
+        "sphere",
+        "faces",
+        "edges",
+        "vertices",
+        "angles"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_1_1",
+          "name": "3D Shapes in Daily Life",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "3D shapes",
+            "cube",
+            "cuboid",
+            "cylinder",
+            "cone",
+            "sphere"
+          ]
+        },
+        {
+          "id": "gr4_mn_1_2",
+          "name": "Faces, Edges and Vertices",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "faces",
+            "edges",
+            "vertices",
+            "properties"
+          ]
+        },
+        {
+          "id": "gr4_mn_1_3",
+          "name": "Understanding Angles",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "angles",
+            "corners",
+            "right angle"
+          ]
+        },
+        {
+          "id": "gr4_mn_1_4",
+          "name": "Identifying Shapes Around Us",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "shapes",
+            "daily life",
+            "objects",
+            "real world"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch2",
+      "number": 2,
+      "name": "Hide and Seek",
+      "description": "Learn to see objects from different views, find positions on a grid, and read simple maps.",
+      "ncertPage": "17-30",
+      "keywords": [
+        "views",
+        "top view",
+        "side view",
+        "front view",
+        "grid",
+        "maps",
+        "spatial reasoning"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_2_1",
+          "name": "Top, Side and Front Views",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "top view",
+            "side view",
+            "front view",
+            "perspectives"
+          ]
+        },
+        {
+          "id": "gr4_mn_2_2",
+          "name": "Positions on a Grid",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "grid",
+            "position",
+            "rows",
+            "columns"
+          ]
+        },
+        {
+          "id": "gr4_mn_2_3",
+          "name": "Reading Simple Maps",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "maps",
+            "directions",
+            "reading maps"
+          ]
+        },
+        {
+          "id": "gr4_mn_2_4",
+          "name": "Spatial Reasoning Puzzles",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "spatial reasoning",
+            "puzzles",
+            "visualisation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch3",
+      "number": 3,
+      "name": "Pattern Around Us",
+      "description": "Discover repeating and growing patterns in numbers and shapes, and figure out the rules behind them.",
+      "ncertPage": "31-44",
+      "keywords": [
+        "patterns",
+        "repeating patterns",
+        "growing patterns",
+        "number sequences",
+        "shape sequences",
+        "pattern rules"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_3_1",
+          "name": "Repeating Patterns",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "repeating",
+            "patterns",
+            "cycle"
+          ]
+        },
+        {
+          "id": "gr4_mn_3_2",
+          "name": "Growing Patterns",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "growing",
+            "increasing",
+            "patterns"
+          ]
+        },
+        {
+          "id": "gr4_mn_3_3",
+          "name": "Number Sequences",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "number sequences",
+            "series",
+            "next number"
+          ]
+        },
+        {
+          "id": "gr4_mn_3_4",
+          "name": "Shape Sequences",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "shape sequences",
+            "geometric patterns"
+          ]
+        },
+        {
+          "id": "gr4_mn_3_5",
+          "name": "Finding Pattern Rules",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "pattern rules",
+            "logic",
+            "predicting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch4",
+      "number": 4,
+      "name": "Thousands Around Us",
+      "description": "Learn to read, write, compare, and estimate numbers up to five digits using place value.",
+      "ncertPage": "45-62",
+      "keywords": [
+        "place value",
+        "thousands",
+        "5-digit numbers",
+        "comparison",
+        "ordering",
+        "estimation"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_4_1",
+          "name": "Place Value up to 5 Digits",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "place value",
+            "ones",
+            "tens",
+            "hundreds",
+            "thousands",
+            "ten thousands"
+          ]
+        },
+        {
+          "id": "gr4_mn_4_2",
+          "name": "Reading and Writing Large Numbers",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "reading numbers",
+            "writing numbers",
+            "4-digit",
+            "5-digit"
+          ]
+        },
+        {
+          "id": "gr4_mn_4_3",
+          "name": "Comparing and Ordering Numbers",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "comparing",
+            "ordering",
+            "greater than",
+            "less than"
+          ]
+        },
+        {
+          "id": "gr4_mn_4_4",
+          "name": "Estimation of Numbers",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "estimation",
+            "rounding",
+            "approximate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch5",
+      "number": 5,
+      "name": "Sharing and Measuring",
+      "description": "Understand division as equal sharing, connect it to multiplication, and use it in everyday measuring situations.",
+      "ncertPage": "63-78",
+      "keywords": [
+        "division",
+        "equal sharing",
+        "division facts",
+        "multiplication connection",
+        "measurement"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_5_1",
+          "name": "Division as Equal Sharing",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "division",
+            "equal sharing",
+            "distribute"
+          ]
+        },
+        {
+          "id": "gr4_mn_5_2",
+          "name": "Division Facts",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "division facts",
+            "division tables"
+          ]
+        },
+        {
+          "id": "gr4_mn_5_3",
+          "name": "Division and Multiplication Connection",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "multiplication",
+            "division",
+            "inverse",
+            "connection"
+          ]
+        },
+        {
+          "id": "gr4_mn_5_4",
+          "name": "Measurement in Sharing",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "measurement",
+            "sharing",
+            "word problems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch6",
+      "number": 6,
+      "name": "Measuring Length",
+      "description": "Measure and estimate lengths in centimetres, metres, and kilometres, and solve real-life length problems.",
+      "ncertPage": "79-92",
+      "keywords": [
+        "length",
+        "centimeters",
+        "meters",
+        "kilometers",
+        "conversion",
+        "estimation",
+        "measurement"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_6_1",
+          "name": "Units of Length (cm, m, km)",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "centimeters",
+            "meters",
+            "kilometers",
+            "units"
+          ]
+        },
+        {
+          "id": "gr4_mn_6_2",
+          "name": "Conversion Between Units",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "conversion",
+            "cm to m",
+            "m to km"
+          ]
+        },
+        {
+          "id": "gr4_mn_6_3",
+          "name": "Estimating Lengths",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "estimation",
+            "approximate length"
+          ]
+        },
+        {
+          "id": "gr4_mn_6_4",
+          "name": "Length Word Problems",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "word problems",
+            "length",
+            "distance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch7",
+      "number": 7,
+      "name": "The Cleanest Village",
+      "description": "Use math in a real-world village setting to collect data, do calculations, and solve community problems.",
+      "ncertPage": "93-106",
+      "keywords": [
+        "real-world math",
+        "community",
+        "data collection",
+        "village",
+        "calculations",
+        "practical math"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_7_1",
+          "name": "Math in the Community",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "community",
+            "village",
+            "real-world math"
+          ]
+        },
+        {
+          "id": "gr4_mn_7_2",
+          "name": "Data Collection in Village Life",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "data collection",
+            "survey",
+            "village"
+          ]
+        },
+        {
+          "id": "gr4_mn_7_3",
+          "name": "Calculations Using Village Scenarios",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "calculations",
+            "addition",
+            "subtraction",
+            "scenarios"
+          ]
+        },
+        {
+          "id": "gr4_mn_7_4",
+          "name": "Problem Solving with Real Data",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "problem solving",
+            "real data",
+            "word problems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch8",
+      "number": 8,
+      "name": "Weigh it, Pour it",
+      "description": "Learn to weigh objects in grams and kilograms, measure capacity in millilitres and litres, and convert between units.",
+      "ncertPage": "107-122",
+      "keywords": [
+        "weight",
+        "grams",
+        "kilograms",
+        "capacity",
+        "milliliters",
+        "liters",
+        "conversion"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_8_1",
+          "name": "Weighing in Grams and Kilograms",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "weight",
+            "grams",
+            "kilograms",
+            "g",
+            "kg"
+          ]
+        },
+        {
+          "id": "gr4_mn_8_2",
+          "name": "Measuring Capacity (mL and L)",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "capacity",
+            "milliliters",
+            "liters",
+            "mL",
+            "L"
+          ]
+        },
+        {
+          "id": "gr4_mn_8_3",
+          "name": "Conversion of Weight and Capacity",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "conversion",
+            "kg to g",
+            "L to mL"
+          ]
+        },
+        {
+          "id": "gr4_mn_8_4",
+          "name": "Weight and Capacity Word Problems",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "word problems",
+            "weight",
+            "capacity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch9",
+      "number": 9,
+      "name": "Equal Groups",
+      "description": "Build multiplication skills using arrays, skip counting, and times tables to solve word problems.",
+      "ncertPage": "123-138",
+      "keywords": [
+        "multiplication",
+        "arrays",
+        "skip counting",
+        "times tables",
+        "equal groups"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_9_1",
+          "name": "Multiplication as Equal Groups",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "multiplication",
+            "equal groups",
+            "concept"
+          ]
+        },
+        {
+          "id": "gr4_mn_9_2",
+          "name": "Arrays and Skip Counting",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "arrays",
+            "skip counting",
+            "rows",
+            "columns"
+          ]
+        },
+        {
+          "id": "gr4_mn_9_3",
+          "name": "Times Tables Practice",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "times tables",
+            "multiplication tables"
+          ]
+        },
+        {
+          "id": "gr4_mn_9_4",
+          "name": "Multiplication Word Problems",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "word problems",
+            "multiplication",
+            "real life"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch10",
+      "number": 10,
+      "name": "Elephants, Tigers, and Leopards",
+      "description": "Read tables and charts about wildlife to compare numbers, interpret data, and explore conservation through math.",
+      "ncertPage": "139-152",
+      "keywords": [
+        "data interpretation",
+        "wildlife",
+        "tables",
+        "charts",
+        "comparing numbers",
+        "conservation"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_10_1",
+          "name": "Reading Wildlife Data Tables",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "tables",
+            "wildlife",
+            "reading data"
+          ]
+        },
+        {
+          "id": "gr4_mn_10_2",
+          "name": "Comparing Numbers from Data",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "comparing",
+            "numbers",
+            "more",
+            "less"
+          ]
+        },
+        {
+          "id": "gr4_mn_10_3",
+          "name": "Reading Charts and Graphs",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "charts",
+            "graphs",
+            "interpreting"
+          ]
+        },
+        {
+          "id": "gr4_mn_10_4",
+          "name": "Conservation Math",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "conservation",
+            "endangered animals",
+            "calculations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch11",
+      "number": 11,
+      "name": "Fun with Symmetry",
+      "description": "Find lines of symmetry, create mirror images, and complete symmetrical shapes by folding and cutting.",
+      "ncertPage": "153-166",
+      "keywords": [
+        "symmetry",
+        "line of symmetry",
+        "mirror images",
+        "symmetrical shapes",
+        "folding"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_11_1",
+          "name": "Line of Symmetry",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "line of symmetry",
+            "axis",
+            "symmetrical"
+          ]
+        },
+        {
+          "id": "gr4_mn_11_2",
+          "name": "Mirror Images",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "mirror images",
+            "reflection",
+            "mirror line"
+          ]
+        },
+        {
+          "id": "gr4_mn_11_3",
+          "name": "Symmetrical Shapes",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "symmetrical shapes",
+            "identifying symmetry"
+          ]
+        },
+        {
+          "id": "gr4_mn_11_4",
+          "name": "Folding, Cutting and Completing Figures",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "folding",
+            "cutting",
+            "completing figures",
+            "paper folding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch12",
+      "number": 12,
+      "name": "Ticking Clocks and Turning Calendar",
+      "description": "Read clocks in hours and minutes, understand AM and PM, calculate elapsed time, and read calendars.",
+      "ncertPage": "167-184",
+      "keywords": [
+        "time",
+        "clock",
+        "hours",
+        "minutes",
+        "AM",
+        "PM",
+        "elapsed time",
+        "calendar"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_12_1",
+          "name": "Reading Time (Hours and Minutes)",
+          "difficulty": "basic",
+          "videoCount": 2,
+          "keywords": [
+            "clock",
+            "hours",
+            "minutes",
+            "reading time"
+          ]
+        },
+        {
+          "id": "gr4_mn_12_2",
+          "name": "AM and PM",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "AM",
+            "PM",
+            "morning",
+            "afternoon",
+            "12-hour"
+          ]
+        },
+        {
+          "id": "gr4_mn_12_3",
+          "name": "Elapsed Time",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "elapsed time",
+            "duration",
+            "time difference"
+          ]
+        },
+        {
+          "id": "gr4_mn_12_4",
+          "name": "Calendar Reading",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "calendar",
+            "days",
+            "months",
+            "years"
+          ]
+        },
+        {
+          "id": "gr4_mn_12_5",
+          "name": "Time and Calendar Word Problems",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "word problems",
+            "time",
+            "calendar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch13",
+      "number": 13,
+      "name": "The Transport Museum",
+      "description": "Solve practical math problems involving distance, time, money, and ticket prices at a transport museum.",
+      "ncertPage": "185-200",
+      "keywords": [
+        "distance",
+        "time",
+        "money",
+        "tickets",
+        "transport",
+        "museum",
+        "practical math"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_13_1",
+          "name": "Distance Calculations",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "distance",
+            "travel",
+            "calculating"
+          ]
+        },
+        {
+          "id": "gr4_mn_13_2",
+          "name": "Time Calculations in Travel",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "time",
+            "travel",
+            "duration"
+          ]
+        },
+        {
+          "id": "gr4_mn_13_3",
+          "name": "Money and Ticket Prices",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "money",
+            "tickets",
+            "prices",
+            "rupees"
+          ]
+        },
+        {
+          "id": "gr4_mn_13_4",
+          "name": "Practical Math at the Museum",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "practical math",
+            "museum",
+            "word problems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4_math_ncert_ch14",
+      "number": 14,
+      "name": "Data Handling",
+      "description": "Collect data, organise it using tally marks, and display it as bar graphs and pictographs to answer questions.",
+      "ncertPage": "201-218",
+      "keywords": [
+        "data handling",
+        "tally marks",
+        "bar graphs",
+        "pictographs",
+        "data collection",
+        "interpreting data"
+      ],
+      "topics": [
+        {
+          "id": "gr4_mn_14_1",
+          "name": "Collecting and Organising Data",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "data collection",
+            "organising",
+            "sorting"
+          ]
+        },
+        {
+          "id": "gr4_mn_14_2",
+          "name": "Tally Marks",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "tally marks",
+            "counting",
+            "recording"
+          ]
+        },
+        {
+          "id": "gr4_mn_14_3",
+          "name": "Pictographs",
+          "difficulty": "basic",
+          "videoCount": 1,
+          "keywords": [
+            "pictographs",
+            "picture graph",
+            "symbols"
+          ]
+        },
+        {
+          "id": "gr4_mn_14_4",
+          "name": "Bar Graphs",
+          "difficulty": "intermediate",
+          "videoCount": 2,
+          "keywords": [
+            "bar graphs",
+            "bars",
+            "scale"
+          ]
+        },
+        {
+          "id": "gr4_mn_14_5",
+          "name": "Reading and Interpreting Data",
+          "difficulty": "intermediate",
+          "videoCount": 1,
+          "keywords": [
+            "interpreting",
+            "reading data",
+            "answering questions"
+          ]
+        }
+      ]
+    }
+  ]
+}

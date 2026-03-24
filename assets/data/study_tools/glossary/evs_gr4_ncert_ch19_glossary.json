@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch19",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_evn19_001",
+      "term": "Seed",
+      "definition": "A tiny package containing a baby plant and stored food. When it gets water and warmth, it grows into a new plant.",
+      "pronunciation": "SEED",
+      "exampleUsage": "Abdul planted a seed in the soil and watered it every day.",
+      "difficulty": "easy",
+      "relatedTerms": ["germination", "plant", "sowing"]
+    },
+    {
+      "id": "gls_gr4_evn19_002",
+      "term": "Germination",
+      "definition": "The process when a seed breaks open and a small root and shoot begin to grow out of it.",
+      "pronunciation": "jer-mih-NAY-shun",
+      "exampleUsage": "We could see the germination of the bean seed after three days of watering.",
+      "difficulty": "medium",
+      "relatedTerms": ["seed", "sprout", "growth"]
+    },
+    {
+      "id": "gls_gr4_evn19_003",
+      "term": "Compost",
+      "definition": "A rich, dark material made by letting fruit peels, vegetable scraps, and dry leaves break down naturally. It is used to make soil healthier.",
+      "pronunciation": "KOM-post",
+      "exampleUsage": "We added compost to the garden to help the tomato plants grow better.",
+      "difficulty": "medium",
+      "relatedTerms": ["manure", "fertilizer", "recycling"]
+    },
+    {
+      "id": "gls_gr4_evn19_004",
+      "term": "Sapling",
+      "definition": "A young, small plant that has just grown from a seed and is still tender and delicate.",
+      "pronunciation": "SAP-ling",
+      "exampleUsage": "The sapling needed water every day to grow into a strong plant.",
+      "difficulty": "easy",
+      "relatedTerms": ["seedling", "young plant", "sprout"]
+    },
+    {
+      "id": "gls_gr4_evn19_005",
+      "term": "Photosynthesis",
+      "definition": "The process by which green plants use sunlight, water, and carbon dioxide to make their own food in their leaves.",
+      "pronunciation": "foh-toh-SIN-thuh-sis",
+      "exampleUsage": "Plants carry out photosynthesis in their green leaves using sunlight.",
+      "difficulty": "medium",
+      "relatedTerms": ["sunlight", "leaves", "food-making"]
+    },
+    {
+      "id": "gls_gr4_evn19_006",
+      "term": "Pollination",
+      "definition": "The transfer of pollen from one flower to another, usually by bees, butterflies, or wind. It helps plants make fruits and seeds.",
+      "pronunciation": "pol-ih-NAY-shun",
+      "exampleUsage": "Bees carry out pollination when they fly from flower to flower.",
+      "difficulty": "medium",
+      "relatedTerms": ["pollen", "bees", "flowers"]
+    },
+    {
+      "id": "gls_gr4_evn19_007",
+      "term": "Weed",
+      "definition": "An unwanted plant that grows where it is not wanted, competing with useful plants for water, light, and nutrients.",
+      "pronunciation": "WEED",
+      "exampleUsage": "Abdul pulled out the weeds that were growing near his tomato plants.",
+      "difficulty": "easy",
+      "relatedTerms": ["unwanted plant", "garden", "removing"]
+    },
+    {
+      "id": "gls_gr4_evn19_008",
+      "term": "Manure",
+      "definition": "A natural material made from animal waste (like cow dung) that is added to soil to give plants extra nutrients.",
+      "pronunciation": "muh-NOOR",
+      "exampleUsage": "The farmer added cow manure to the field to make the soil rich.",
+      "difficulty": "easy",
+      "relatedTerms": ["compost", "fertilizer", "soil"]
+    },
+    {
+      "id": "gls_gr4_evn19_009",
+      "term": "Kitchen Garden",
+      "definition": "A small garden near the house where vegetables, herbs, and fruits are grown for the family's use.",
+      "pronunciation": "KICH-en GAR-den",
+      "exampleUsage": "We grow tulsi, coriander, and chillies in our kitchen garden.",
+      "difficulty": "easy",
+      "relatedTerms": ["vegetable garden", "home garden", "herbs"]
+    },
+    {
+      "id": "gls_gr4_evn19_010",
+      "term": "Earthworm",
+      "definition": "A small, soft, tube-shaped creature that lives in soil and makes it healthier by creating tunnels and adding nutrients through its waste.",
+      "pronunciation": "EARTH-wurm",
+      "exampleUsage": "The earthworm helped loosen the soil in Abdul's garden.",
+      "difficulty": "easy",
+      "relatedTerms": ["soil", "farmer's friend", "compost"]
+    }
+  ]
+}

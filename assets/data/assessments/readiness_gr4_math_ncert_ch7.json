@@ -1,0 +1,295 @@
+{
+  "assessmentId": "readiness_gr4_math_ncert_ch7",
+  "topicId": "gr4_mn_7_1",
+  "topicName": "Math in the Community",
+  "chapterId": "gr4_math_ncert_ch7",
+  "chapterName": "The Cleanest Village",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning about math in community and village contexts (addition, subtraction, data handling)",
+    "totalQuestions": 10,
+    "estimatedTime": 480,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 7,
+      "intermediate": 3,
+      "advanced": 0
+    },
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "addition_fluency",
+      "conceptName": "Fluent addition of multi-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq7_1", "rq7_2", "rq7_3"],
+      "remedialVideoIds": ["prereq_ch7_addition_v1"]
+    },
+    {
+      "conceptId": "subtraction_fluency",
+      "conceptName": "Fluent subtraction with borrowing",
+      "importance": "critical",
+      "questionsTestingThis": ["rq7_4", "rq7_5", "rq7_6"],
+      "remedialVideoIds": ["prereq_ch7_subtraction_v1"]
+    },
+    {
+      "conceptId": "reading_data",
+      "conceptName": "Reading and understanding simple tables and lists",
+      "importance": "important",
+      "questionsTestingThis": ["rq7_7", "rq7_8"],
+      "remedialVideoIds": ["prereq_ch7_data_v1"]
+    },
+    {
+      "conceptId": "word_problems",
+      "conceptName": "Solving simple word problems with addition and subtraction",
+      "importance": "helpful",
+      "questionsTestingThis": ["rq7_9", "rq7_10"],
+      "remedialVideoIds": ["prereq_ch7_addition_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq7_1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_fluency",
+      "question": "What is 245 + 138?",
+      "options": ["373", "383", "393", "483"],
+      "correctAnswer": 1,
+      "correctAnswerText": "383",
+      "explanation": "245 + 138 = 383. Add the ones: 5 + 8 = 13, write 3 carry 1. Add the tens: 4 + 3 + 1 = 8. Add the hundreds: 2 + 1 = 3. So the answer is 383!",
+      "tags": ["addition", "3-digit", "carrying"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Forgot to carry from the ones place",
+          "conceptGap": "Needs practice with carrying in addition",
+          "remediation": "Review carrying step by step using place value columns"
+        }
+      ]
+    },
+    {
+      "id": "rq7_2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "addition_fluency",
+      "question": "What is 356 + 217?",
+      "options": ["563", "573", "583", "673"],
+      "correctAnswer": 1,
+      "correctAnswerText": "573",
+      "explanation": "356 + 217 = 573. Ones: 6 + 7 = 13, write 3 carry 1. Tens: 5 + 1 + 1 = 7. Hundreds: 3 + 2 = 5. The answer is 573!",
+      "tags": ["addition", "3-digit", "carrying"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq7_3",
+      "questionNumber": 3,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "addition_fluency",
+      "question": "A village planted 186 trees in January and 275 trees in February. How many trees were planted in total?",
+      "options": ["351 trees", "451 trees", "461 trees", "471 trees"],
+      "correctAnswer": 2,
+      "correctAnswerText": "461 trees",
+      "explanation": "186 + 275 = 461 trees in total. Ones: 6 + 5 = 11, write 1 carry 1. Tens: 8 + 7 + 1 = 16, write 6 carry 1. Hundreds: 1 + 2 + 1 = 4. The answer is 461!",
+      "tags": ["addition", "word problem", "carrying"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Forgot to carry from the tens place",
+          "conceptGap": "Needs practice with double carrying in addition",
+          "remediation": "Practice addition problems that require carrying from multiple places"
+        }
+      ]
+    },
+    {
+      "id": "rq7_4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_fluency",
+      "question": "What is 500 - 237?",
+      "options": ["237", "253", "263", "273"],
+      "correctAnswer": 2,
+      "correctAnswerText": "263",
+      "explanation": "500 - 237 = 263. We need to borrow because we cannot take 7 from 0. After borrowing step by step, we get 263.",
+      "tags": ["subtraction", "borrowing", "3-digit"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 35,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Subtracted smaller digit from larger in each place",
+          "conceptGap": "Does not understand borrowing in subtraction",
+          "remediation": "Review borrowing across place values step by step"
+        }
+      ]
+    },
+    {
+      "id": "rq7_5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_fluency",
+      "question": "What is 432 - 158?",
+      "options": ["264", "274", "284", "374"],
+      "correctAnswer": 1,
+      "correctAnswerText": "274",
+      "explanation": "432 - 158 = 274. Ones: borrow to make 12 - 8 = 4. Tens: 2 - 5, borrow to make 12 - 5 = 7. Hundreds: 3 - 1 = 2. The answer is 274!",
+      "tags": ["subtraction", "borrowing", "3-digit"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq7_6",
+      "questionNumber": 6,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "subtraction_fluency",
+      "question": "True or False: 725 - 348 = 377.",
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+      "explanation": "True! 725 - 348 = 377. Ones: borrow to make 15 - 8 = 7. Tens: 1 - 4, borrow to make 11 - 4 = 7. Hundreds: 6 - 3 = 3. So 377 is correct!",
+      "tags": ["subtraction", "borrowing", "verification"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq7_7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "reading_data",
+      "question": "A table shows that Village A collected 120 bags of rubbish, Village B collected 95 bags, and Village C collected 150 bags. Which village collected the most bags?",
+      "options": ["Village A", "Village B", "Village C", "All collected the same"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Village C",
+      "explanation": "Looking at the table: Village A = 120, Village B = 95, Village C = 150. Since 150 is the biggest number, Village C collected the most bags of rubbish!",
+      "tags": ["reading data", "tables", "comparing numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Chose the first entry in the table",
+          "conceptGap": "Needs to compare all values before answering",
+          "remediation": "Practice reading all rows of a table before deciding the answer"
+        }
+      ]
+    },
+    {
+      "id": "rq7_8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "reading_data",
+      "question": "A list shows how many people helped in a village clean-up: Monday - 35, Tuesday - 42, Wednesday - 28, Thursday - 50. On which day did the fewest people help?",
+      "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "correctAnswer": 2,
+      "correctAnswerText": "Wednesday",
+      "explanation": "Looking at the list: Monday = 35, Tuesday = 42, Wednesday = 28, Thursday = 50. The smallest number is 28, so the fewest people helped on Wednesday.",
+      "tags": ["reading data", "lists", "comparing", "minimum"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": []
+    },
+    {
+      "id": "rq7_9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "word_problems",
+      "question": "A village has 248 houses. If 63 new houses are built, how many houses are there now?",
+      "options": ["185 houses", "301 houses", "311 houses", "321 houses"],
+      "correctAnswer": 2,
+      "correctAnswerText": "311 houses",
+      "explanation": "We need to add: 248 + 63 = 311 houses. When new houses are built, the total increases, so we add!",
+      "tags": ["word problem", "addition", "real world"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Subtracted instead of adding",
+          "conceptGap": "Confused about when to add and when to subtract in word problems",
+          "remediation": "Look for clue words: 'new' and 'built' tell us the number is getting bigger, so we add"
+        }
+      ]
+    },
+    {
+      "id": "rq7_10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "word_problems",
+      "question": "A school collected 425 books for a village library. They gave away 178 books. How many books are left?",
+      "options": ["237 books", "247 books", "257 books", "347 books"],
+      "correctAnswer": 1,
+      "correctAnswerText": "247 books",
+      "explanation": "We need to subtract: 425 - 178 = 247 books are left. 'Gave away' means the number got smaller, so we subtract!",
+      "tags": ["word problem", "subtraction", "real world"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Forgot to borrow when subtracting",
+          "conceptGap": "Needs practice with borrowing in subtraction word problems",
+          "remediation": "Write the numbers in columns and check each place value carefully"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You are great at addition, subtraction, and reading data. You are ready to explore math in village life!",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good job! You have a solid understanding of the basics. Let's learn how math is used in villages and communities!",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You know some things but need to review a few topics. Watch the review videos first, then we will explore the cleanest village together.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "Let's first review addition, subtraction, and reading tables. We will watch some fun videos about these topics before starting the village chapter.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness check!",
+    "low_score_encouragement": "Don't worry! We will show you some fun videos to review addition, subtraction, and tables first.",
+    "high_score_praise": "Awesome! You are all set to learn about math in village life - The Cleanest Village!",
+    "retake_option": "After watching the recommended videos, you can try again to check your progress."
+  }
+}

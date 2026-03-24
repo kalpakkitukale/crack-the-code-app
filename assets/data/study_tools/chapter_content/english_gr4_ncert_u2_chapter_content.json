@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_eng_ncert_u2",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_eu2",
+    "title": "Noses / The Little Fir Tree",
+    "content": "Unit 2 of the Marigold textbook contains a poem called 'Noses' and a story called 'The Little Fir Tree'. The poem is a fun, rhyming piece about the many different shapes and sizes of noses that people have. It celebrates the idea that every nose is wonderful just the way it is. The story is about a little fir tree that was unhappy with its needle-like leaves and kept wishing for different ones. First it wished for gold leaves, then glass leaves, then broad green leaves, but each time something went wrong. In the end, the fir tree realised that its own needles were the best. The grammar section introduces nouns, which are naming words for people, places, animals, and things. Together, the poem and story carry a beautiful message: be happy with who you are.",
+    "keyPoints": [
+      "The poem 'Noses' describes many types of noses and says all are special",
+      "The fir tree wished for gold, glass, and broad leaves but each brought trouble",
+      "The fir tree learned to appreciate its own needle-like leaves",
+      "A noun is a naming word for a person, place, animal, or thing",
+      "Common nouns are general names; proper nouns are specific names with capital letters",
+      "The theme of Unit 2 is self-acceptance: be happy with what you have"
+    ],
+    "learningObjectives": [
+      "Read and enjoy the poem 'Noses' and identify its message about uniqueness",
+      "Retell the story of 'The Little Fir Tree' in the correct sequence of events",
+      "Explain the moral of the story in your own words",
+      "Identify nouns in sentences from the poem and story",
+      "Distinguish between common nouns and proper nouns",
+      "Use nouns correctly in your own sentences and short paragraphs"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_eu2_001",
+      "title": "Three Wishes, Three Problems",
+      "content": "Remember the fir tree's three wishes with this simple pattern: Gold leaves were STOLEN by a man, Glass leaves were BROKEN by the wind, Green leaves were EATEN by a goat. Each wish brought a new problem! In the end, the fir tree's own needle-like leaves were the only ones that stayed safe.",
+      "tags": ["story", "memory-trick", "fir-tree"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_eu2_002",
+      "title": "Noun Spotting Trick",
+      "content": "To find nouns in any sentence, ask two questions: 'Who is doing something?' and 'What is being talked about?' For example, in 'The man took the gold leaves,' ask 'Who took?' (man) and 'What did he take?' (leaves). Both man and leaves are nouns. Practise with sentences from the story!",
+      "tags": ["grammar", "study-tip", "nouns"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_eu2_003",
+      "title": "Theme Connection: Poem and Story",
+      "content": "Both the poem and the story share the same theme: appreciate what you have. The poem says every nose is special no matter its shape. The story shows that the fir tree's own needles were perfect all along. When you write about this unit, always mention this shared theme of self-acceptance!",
+      "tags": ["theme", "important", "exam-tip"],
+      "isPinned": false
+    }
+  ]
+}

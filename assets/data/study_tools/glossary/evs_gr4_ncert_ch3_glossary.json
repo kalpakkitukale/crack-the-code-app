@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch3",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_3_001",
+      "term": "Trunk",
+      "definition": "The long nose of an elephant that can grab things, smell, breathe, drink water, and make sounds.",
+      "pronunciation": "TRUNGK",
+      "exampleUsage": "The elephant used its trunk to pick up peanuts.",
+      "difficulty": "easy",
+      "relatedTerms": ["nose", "breathing"]
+    },
+    {
+      "id": "gls_evs_3_002",
+      "term": "Tusks",
+      "definition": "Long, curved teeth made of ivory that stick out of an elephant's mouth. Used for digging and protection.",
+      "pronunciation": "TUSKS",
+      "exampleUsage": "Male elephants often have larger tusks than females.",
+      "difficulty": "easy",
+      "relatedTerms": ["ivory", "teeth"]
+    },
+    {
+      "id": "gls_evs_3_003",
+      "term": "Herd",
+      "definition": "A group of elephants that live together. Usually includes females and young elephants.",
+      "pronunciation": "HURD",
+      "exampleUsage": "The herd of elephants walked together to find water.",
+      "difficulty": "easy",
+      "relatedTerms": ["group", "family"]
+    },
+    {
+      "id": "gls_evs_3_004",
+      "term": "Calf",
+      "definition": "A baby elephant. Calves stay with their mothers for many years.",
+      "pronunciation": "KAHF",
+      "exampleUsage": "The elephant calf stayed close to its mother.",
+      "difficulty": "easy",
+      "relatedTerms": ["baby", "young"]
+    },
+    {
+      "id": "gls_evs_3_005",
+      "term": "Matriarch",
+      "definition": "The oldest and wisest female elephant who leads the herd.",
+      "pronunciation": "MAY-tree-ark",
+      "exampleUsage": "The matriarch led the herd to the river.",
+      "difficulty": "medium",
+      "relatedTerms": ["leader", "female", "herd"]
+    },
+    {
+      "id": "gls_evs_3_006",
+      "term": "Herbivore",
+      "definition": "An animal that only eats plants, not meat. Elephants are herbivores.",
+      "pronunciation": "HER-bih-vor",
+      "exampleUsage": "As a herbivore, the elephant eats grass, leaves, and fruits.",
+      "difficulty": "medium",
+      "relatedTerms": ["plant-eater", "vegetarian"]
+    },
+    {
+      "id": "gls_evs_3_007",
+      "term": "Ivory",
+      "definition": "The hard, white material that elephant tusks are made of. It's illegal to trade ivory.",
+      "pronunciation": "EYE-vuh-ree",
+      "exampleUsage": "Hunting elephants for ivory is against the law.",
+      "difficulty": "medium",
+      "relatedTerms": ["tusks", "teeth"]
+    },
+    {
+      "id": "gls_evs_3_008",
+      "term": "Habitat",
+      "definition": "The natural home where an animal lives. Elephants live in forests and grasslands.",
+      "pronunciation": "HAB-ih-tat",
+      "exampleUsage": "The forest is the elephant's natural habitat.",
+      "difficulty": "easy",
+      "relatedTerms": ["home", "environment"]
+    },
+    {
+      "id": "gls_evs_3_009",
+      "term": "Endangered",
+      "definition": "When there are very few of an animal left and they might disappear forever.",
+      "pronunciation": "en-DAYN-jerd",
+      "exampleUsage": "Elephants are endangered because of hunting and habitat loss.",
+      "difficulty": "medium",
+      "relatedTerms": ["rare", "protected"]
+    },
+    {
+      "id": "gls_evs_3_010",
+      "term": "Conservation",
+      "definition": "Protecting animals and their homes so they don't disappear.",
+      "pronunciation": "kon-ser-VAY-shun",
+      "exampleUsage": "Conservation efforts help save elephants from extinction.",
+      "difficulty": "medium",
+      "relatedTerms": ["protection", "saving"]
+    }
+  ]
+}

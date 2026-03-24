@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_evs_ncert_ch15",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en15",
+    "title": "From Market to Home",
+    "content": "This chapter from the NCERT Looking Around textbook explores the world of markets, buying, and selling. Students learn about different types of markets - weekly haats where bargaining is common, local kirana shops, wholesale mandis where goods are sold in bulk, and modern malls with fixed prices. The chapter traces the fascinating journey of goods from farm to home, showing how prices increase at each step because of transport, storage, and middlemen. Students become smart shoppers by learning to check MRP, expiry dates, and quality marks on packaged goods. The chapter also promotes eco-friendly shopping habits like carrying cloth bags and making shopping lists to avoid waste.",
+    "keyPoints": [
+      "India has many types of markets: haats, kirana shops, mandis, and malls",
+      "Goods travel from farmer to trader to shopkeeper to your home",
+      "Prices increase at each step due to transport, storage, and profit",
+      "MRP is the maximum price allowed for packaged products",
+      "Always check expiry date, weight, and quality marks before buying",
+      "Smart shopping means making lists, comparing prices, and using cloth bags"
+    ],
+    "learningObjectives": [
+      "Identify and compare different types of markets in India",
+      "Trace the journey of goods from the farm to the consumer's home",
+      "Explain why the same item costs different amounts at different places",
+      "Read and understand MRP, expiry date, and other information on product packages",
+      "Practise being a smart and responsible consumer",
+      "Understand the importance of eco-friendly shopping habits"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en15_001",
+      "title": "Market Visit Activity",
+      "content": "Visit two different types of markets near your home - maybe a weekly haat and a supermarket. Compare: (1) How are the shops set up? (2) What is the same item (like tomatoes) priced at each place? (3) Can you bargain at both? (4) Which one feels more friendly? (5) What items are available at one but not the other? Write your observations in a notebook. You will see how different markets serve different needs!",
+      "tags": ["activity", "observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en15_002",
+      "title": "Read the Label Challenge",
+      "content": "Next time you are at home, pick up five packaged items from your kitchen - a biscuit packet, a milk carton, a jar of jam, etc. For each item, find and write down: (1) MRP, (2) Expiry date, (3) Manufacturing date, (4) Weight or volume, (5) FSSAI number (food safety mark). You will be surprised how much information is printed on every package. Being able to read labels makes you a smart consumer!",
+      "tags": ["activity", "consumer-awareness"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en15_003",
+      "title": "Make a Shopping Budget",
+      "content": "Here is a fun maths-meets-EVS activity! Your family gives you Rs 200 to buy groceries. Make a shopping list of what you need. Visit a shop and note the prices. Can you buy everything within Rs 200? What choices do you need to make? This activity teaches you about budgeting, making choices, comparing prices, and understanding the value of money. Being a good shopper is a life skill!",
+      "tags": ["study-tip", "real-world"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_math_ncert_ch9",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_mn9_001",
+      "videoId": "gr4_mn9_v1",
+      "question": "What is the difference between addition and multiplication?",
+      "answer": "Addition can add any numbers together (like 3 + 7 + 2). Multiplication is a shortcut that only works when you are adding the SAME number again and again. Instead of writing 5+5+5+5, you can write 4 x 5 = 20. So multiplication is a faster way to do repeated addition of equal groups.",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_mn9_002",
+      "videoId": "gr4_mn9_v1",
+      "question": "How do I know when to use multiplication in a word problem?",
+      "answer": "Look for clues that tell you there are equal groups! Words like 'each', 'every', 'per', or 'groups of' usually mean multiplication. For example: 'Each box has 6 pencils. There are 5 boxes. How many pencils?' Here 'each box has 6' tells you equal groups, so you multiply: 5 x 6 = 30.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_mn9_003",
+      "videoId": "gr4_mn9_v2",
+      "question": "Why does 3 x 4 give the same answer as 4 x 3?",
+      "answer": "Imagine an array of dots: 3 rows with 4 dots each (3 x 4 = 12). Now turn the page sideways - you see 4 rows with 3 dots each (4 x 3 = 12). The total dots did not change! This is called the commutative property - you can swap the numbers in multiplication and the answer stays the same.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_mn9_004",
+      "videoId": "gr4_mn9_v2",
+      "question": "What is the easiest way to learn times tables?",
+      "answer": "Start with the easy ones! Table of 2 (just double the number), table of 5 (ends in 0 or 5), and table of 10 (add a zero). Then learn table of 9 using the digit trick (digits add to 9). For others, skip counting helps: for the table of 7, count 7, 14, 21, 28, 35... Say them aloud every day and you will memorise them!",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_mn9_005",
+      "videoId": "gr4_mn9_v3",
+      "question": "Why does any number multiplied by 0 give 0?",
+      "answer": "Because multiplying by 0 means you have zero groups. If you have 0 groups of 5 chocolates, you have no chocolates at all! 0 x 5 = 0. And 5 x 0 means 5 groups of 0 chocolates - each group is empty, so you still have nothing. Zero groups = nothing!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_mn9_006",
+      "videoId": "gr4_mn9_v3",
+      "question": "Why does any number multiplied by 1 give the same number?",
+      "answer": "Because multiplying by 1 means you have just one group. If you have 1 group of 8 mangoes, you have 8 mangoes. 1 x 8 = 8. Nothing is added extra, nothing is taken away. One group of any number is just that number itself!",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_mn9_007",
+      "videoId": "gr4_mn9_v2",
+      "question": "How do arrays help with multiplication?",
+      "answer": "Arrays make multiplication easy to see! When you arrange 3 rows of 4 objects, you can count the total (12) and see that 3 x 4 = 12. You can also turn the array sideways to see that 4 x 3 = 12 too. Drawing arrays helps you understand multiplication before you memorise the tables.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_mn9_008",
+      "videoId": "gr4_mn9_v1",
+      "question": "Can I use multiplication for unequal groups?",
+      "answer": "No! Multiplication only works when groups are EQUAL (same number in each group). If you have 3 baskets with 4, 6, and 2 fruits, the groups are unequal, so you must add: 4 + 6 + 2 = 12. But if all 3 baskets had 4 fruits each, then you can multiply: 3 x 4 = 12.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_mn9_009",
+      "videoId": "gr4_mn9_v3",
+      "question": "What is the trick for the 9 times table?",
+      "answer": "Two great tricks! (1) The digits of each answer add up to 9: 9x2=18 (1+8=9), 9x3=27 (2+7=9), 9x4=36 (3+6=9). (2) Use your fingers! Hold up 10 fingers. For 9x3, fold down finger number 3 from the left. Count fingers before it (2) and after it (7). Answer = 27!",
+      "status": "answered",
+      "upvotes": 26
+    },
+    {
+      "id": "faq_gr4_mn9_010",
+      "videoId": "gr4_mn9_v3",
+      "question": "Where do we use multiplication in daily life?",
+      "answer": "We use it all the time! Buying things at a shop (3 packets at Rs 10 each = 3 x 10 = Rs 30), counting legs on furniture (4 chairs x 4 legs = 16 legs), figuring out seats (5 rows x 8 seats = 40 seats), calculating pages read (7 days x 6 pages a day = 42 pages). Multiplication is everywhere!",
+      "status": "answered",
+      "upvotes": 23
+    }
+  ]
+}

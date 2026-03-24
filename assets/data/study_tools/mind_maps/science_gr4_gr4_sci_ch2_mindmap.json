@@ -1,0 +1,157 @@
+{
+  "chapterId": "gr4_sci_ch2",
+  "subjectId": "science_gr4",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "Food and Nutrition",
+      "description": "Understanding food groups, healthy eating, and how our body digests food",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_food_groups",
+      "label": "Food Groups",
+      "description": "Different types of food classified by the nutrients they provide",
+      "parentId": "node_root",
+      "positionX": -200,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_energy_giving",
+      "label": "Energy-giving Foods",
+      "description": "Carbohydrates and fats: rice, roti, bread, potatoes, ghee, oil",
+      "parentId": "node_food_groups",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_body_building",
+      "label": "Body-building Foods",
+      "description": "Proteins: dal, milk, paneer, eggs, fish, soybean",
+      "parentId": "node_food_groups",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_protective",
+      "label": "Protective Foods",
+      "description": "Vitamins and minerals: fruits, vegetables, amla, spinach, carrots",
+      "parentId": "node_food_groups",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_water_roughage",
+      "label": "Water and Roughage",
+      "description": "Water keeps body hydrated; roughage from whole grains aids digestion",
+      "parentId": "node_food_groups",
+      "positionX": -250,
+      "positionY": 300,
+      "color": "#29B6F6",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_healthy_eating",
+      "label": "Healthy Eating",
+      "description": "Eating the right food in the right amounts for good health",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_balanced_diet",
+      "label": "Balanced Diet",
+      "description": "A meal with all food groups: roti, dal, sabzi, rice, salad, curd",
+      "parentId": "node_healthy_eating",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_good_habits",
+      "label": "Good Eating Habits",
+      "description": "Wash hands, eat on time, chew well, eat fresh food, drink water",
+      "parentId": "node_healthy_eating",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_junk_food",
+      "label": "Avoiding Junk Food",
+      "description": "Chips, cold drinks, and sweets have too much oil, sugar, and salt",
+      "parentId": "node_healthy_eating",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#FFA726",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_digestion",
+      "label": "Digestion",
+      "description": "How our body breaks down food to use its nutrients",
+      "parentId": "node_root",
+      "positionX": 200,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_mouth",
+      "label": "Mouth",
+      "description": "Teeth chew food into small pieces; saliva starts breaking food down",
+      "parentId": "node_digestion",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_stomach",
+      "label": "Stomach",
+      "description": "Digestive juices mix and break food into a thick paste",
+      "parentId": "node_digestion",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_small_intestine",
+      "label": "Small Intestine",
+      "description": "Nutrients are absorbed into the blood and carried to the whole body",
+      "parentId": "node_digestion",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_large_intestine",
+      "label": "Large Intestine",
+      "description": "Water is absorbed and leftover waste is removed from the body",
+      "parentId": "node_digestion",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 14
+    }
+  ]
+}

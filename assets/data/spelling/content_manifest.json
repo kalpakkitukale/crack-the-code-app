@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-17",
+  "wordLists": {
+    "grade_1": [
+      "assets/data/spelling/word_lists/grade_1/week_01_cvc_short_a.json",
+      "assets/data/spelling/word_lists/grade_1/week_02_cvc_short_e.json",
+      "assets/data/spelling/word_lists/grade_1/week_03_cvc_short_i.json"
+    ],
+    "grade_2": [
+      "assets/data/spelling/word_lists/grade_2/week_01_magic_e.json",
+      "assets/data/spelling/word_lists/grade_2/week_02_consonant_blends.json"
+    ],
+    "grade_3": [
+      "assets/data/spelling/word_lists/grade_3/week_01_double_consonants.json",
+      "assets/data/spelling/word_lists/grade_3/week_02_prefixes_un_re.json"
+    ],
+    "grade_4": [
+      "assets/data/spelling/word_lists/grade_4/week_01_silent_letters.json",
+      "assets/data/spelling/word_lists/grade_4/week_02_ough_words.json"
+    ],
+    "grade_5": [
+      "assets/data/spelling/word_lists/grade_5/week_01_ie_ei_rule.json",
+      "assets/data/spelling/word_lists/grade_5/week_02_suffix_tion_sion.json"
+    ],
+    "grade_6": [
+      "assets/data/spelling/word_lists/grade_6/week_01_latin_roots.json",
+      "assets/data/spelling/word_lists/grade_6/week_02_greek_roots.json"
+    ],
+    "grade_7": [
+      "assets/data/spelling/word_lists/grade_7/week_01_commonly_confused.json",
+      "assets/data/spelling/word_lists/grade_7/week_02_homophones.json"
+    ],
+    "grade_8": [
+      "assets/data/spelling/word_lists/grade_8/week_01_academic_vocabulary.json",
+      "assets/data/spelling/word_lists/grade_8/week_02_literary_terms.json"
+    ]
+  }
+}

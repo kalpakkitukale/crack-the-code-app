@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn6_t1",
+  "topicId": "gr4_mn_6_1",
+  "topicName": "Units of Length (cm, m, km)",
+  "chapterId": "gr4_math_ncert_ch6",
+  "chapterName": "Measuring Length",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1710,
+    "totalDurationDisplay": "28:30",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "30-40 minutes with practice",
+    "prerequisiteTopics": [],
+    "followUpTopics": ["gr4_mn_6_2"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn6_v1",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Units of Length | Centimetres, Metres, and Kilometres for Kids",
+      "description": "Learn about the three main units of length: centimetres (cm), metres (m), and kilometres (km). Discover when to use each unit with fun everyday examples!",
+      "youtubeId": "TkH6MsBq_G4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TkH6MsBq_G4",
+      "thumbnailUrl": "https://img.youtube.com/vi/TkH6MsBq_G4/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1850000,
+      "tags": ["units of length", "centimetre", "metre", "kilometre", "measurement"],
+      "learningObjectives": ["Know the three units of length: cm, m, km", "Understand when to use each unit", "Relate units to everyday objects"],
+      "keyConceptsCovered": ["Centimetre for small objects", "Metre for medium objects", "Kilometre for long distances"],
+      "prerequisites": ["Basic counting", "Understanding of measurement"],
+      "followUpTopics": ["Using ruler and measuring tape", "Length conversion"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn6_v2",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "How to Use a Ruler and Measuring Tape | Measuring Length for Kids",
+      "description": "Learn how to measure objects using a ruler and a measuring tape. See how to read centimetres and metres on different measuring tools.",
+      "youtubeId": "vJbQ7R3nFqM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vJbQ7R3nFqM",
+      "thumbnailUrl": "https://img.youtube.com/vi/vJbQ7R3nFqM/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1340000,
+      "tags": ["ruler", "measuring tape", "measuring length", "how to measure"],
+      "learningObjectives": ["Measure objects with a ruler", "Use a measuring tape for longer objects", "Read measurements in cm and m"],
+      "keyConceptsCovered": ["Starting from 0 on a ruler", "Reading markings correctly", "Measuring tape for longer things"],
+      "prerequisites": ["Understanding units of length"],
+      "followUpTopics": ["Length conversion"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch6_measurement_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "What is Measurement? | Introduction to Measuring for Kids",
+      "description": "Learn what measurement means and why we measure things. Understand that measurement tells us how long, how heavy, or how much something is.",
+      "youtubeId": "HjbHRLnB6Jk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HjbHRLnB6Jk",
+      "thumbnailUrl": "https://img.youtube.com/vi/HjbHRLnB6Jk/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1450000,
+      "tags": ["measurement", "introduction", "what is measurement", "measuring basics"],
+      "learningObjectives": ["Understand why standard units matter", "Apply measurement concepts to real life", "Choose the correct unit for different objects"],
+      "keyConceptsCovered": ["Standard vs non-standard units", "Why hand spans are not reliable", "Real-life uses of measurement"],
+      "prerequisites": ["Basic counting"],
+      "followUpTopics": ["Measuring with ruler"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch6_ruler_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "How to Read a Ruler | Using a Ruler for Beginners",
+      "description": "Learn how to hold a ruler correctly, start measuring from zero, and read the markings. Perfect for beginners who are just starting to measure!",
+      "youtubeId": "R7vQMz4aBTk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R7vQMz4aBTk",
+      "thumbnailUrl": "https://img.youtube.com/vi/R7vQMz4aBTk/hqdefault.jpg",
+      "duration": 420,
+      "durationDisplay": "7:00",
+      "channelName": "Math Education",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 980000,
+      "tags": ["ruler", "reading ruler", "how to measure", "ruler basics"],
+      "learningObjectives": ["Practice reading a ruler accurately", "Measure objects independently", "Avoid common measurement mistakes"],
+      "keyConceptsCovered": ["Holding the ruler straight", "Aligning the object at 0", "Reading the correct number"],
+      "prerequisites": ["Number recognition up to 30"],
+      "followUpTopics": ["Measuring in centimetres and metres"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn6_v1", "gr4_mn6_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Quick introduction to units and measuring tools for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn6_v1", "gr4_mn6_v2", "prereq_ch6_measurement_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1290,
+      "estimatedTimeDisplay": "21:30",
+      "rationale": "Complete coverage of units and measurement basics"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch6_measurement_v1", "prereq_ch6_ruler_v1", "gr4_mn6_v1", "gr4_mn6_v2"],
+      "totalVideos": 4,
+      "estimatedTime": 1710,
+      "estimatedTimeDisplay": "28:30",
+      "rationale": "Start with measurement review and ruler basics, then units of length"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn6_v1", "gr4_mn6_v2"],
+      "totalVideos": 2,
+      "estimatedTime": 900,
+      "estimatedTimeDisplay": "15:00",
+      "rationale": "Essential units of length introduction only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn6_v2",
+      "checkpointName": "Units of Length Understanding Check",
+      "questions": [
+        {
+          "question": "Which unit would you use to measure the length of your classroom?",
+          "options": ["Centimetres", "Metres", "Kilometres", "Kilograms"],
+          "correctAnswer": 1,
+          "explanation": "We use metres to measure things like rooms and buildings. Centimetres are for small things and kilometres are for very long distances."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Start by letting students explore different measuring tools. Have rulers and measuring tapes available. Ask them to guess which unit they would use for different objects before watching the video.",
+    "parentGuidance": "Help your child measure things around the house with a ruler and a measuring tape. Talk about when we use cm, m, and km in daily life.",
+    "studentGuidance": "Measurement is everywhere! Look around you and think about which unit you would use to measure things like your pencil, your room, and the road to your school."
+  }
+}

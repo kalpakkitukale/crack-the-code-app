@@ -1,0 +1,397 @@
+{
+  "assessmentId": "readiness_gr4_m1_t4",
+  "topicId": "gr4_m_1_4",
+  "topicName": "Forming Numbers (largest/smallest)",
+  "chapterId": "gr4_math_ch1",
+  "chapterName": "Building Numbers",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning to form largest and smallest numbers from given digits",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "digit_arrangement",
+      "conceptName": "Understanding how digit position affects number value",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_arrange_v1"]
+    },
+    {
+      "conceptId": "pv_digit_value",
+      "conceptName": "Understanding place value determines digit's contribution",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_pv_digit_v1"]
+    },
+    {
+      "conceptId": "comparing_numbers",
+      "conceptName": "Comparing numbers to identify largest/smallest",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_comp_v1"]
+    },
+    {
+      "conceptId": "ordering_digits",
+      "conceptName": "Ordering digits in ascending and descending order",
+      "importance": "important",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_digit_order_v1"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "digit_arrangement",
+
+      "question": "Using digits 5, 3, 7, which arrangement makes the largest 3-digit number?",
+
+      "options": ["357", "537", "753", "375"],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "753",
+
+      "explanation": "To make the largest number, arrange digits from largest to smallest: 7, 5, 3 → 753.",
+
+      "tags": ["forming numbers", "largest", "3-digit", "arrangement"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Arranged digits in order they were given",
+          "conceptGap": "Understanding how digit position affects value",
+          "remediation": "Review place value - leftmost digit has highest value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "digit_arrangement",
+
+      "question": "Using digits 2, 8, 4, which arrangement makes the smallest 3-digit number?",
+
+      "options": ["248", "284", "428", "824"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "248",
+
+      "explanation": "To make the smallest number, arrange digits from smallest to largest: 2, 4, 8 → 248.",
+
+      "tags": ["forming numbers", "smallest", "3-digit", "arrangement"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Made the largest instead of smallest",
+          "conceptGap": "Understanding largest vs smallest",
+          "remediation": "Remember: smallest number has smallest digits at front"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "digit_arrangement",
+
+      "question": "True or False: The same digits can form different numbers depending on their arrangement.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! For example, digits 1, 2, 3 can form 123, 132, 213, 231, 312, 321 - all different numbers.",
+
+      "tags": ["forming numbers", "digit arrangement", "concept"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 25,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't understand that position matters",
+          "conceptGap": "Place value understanding",
+          "remediation": "Review how position changes value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "pv_digit_value",
+
+      "question": "Which place should have the largest digit to make the biggest number?",
+
+      "options": [
+        "Ones place",
+        "Tens place",
+        "Hundreds place",
+        "Leftmost place (highest place value)"
+      ],
+
+      "correctAnswer": 3,
+      "correctAnswerText": "Leftmost place (highest place value)",
+
+      "explanation": "The leftmost place has the highest place value, so putting the largest digit there makes the biggest number.",
+
+      "tags": ["place value", "largest number", "strategy"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thought ones place matters most",
+          "conceptGap": "Understanding place value hierarchy",
+          "remediation": "Review that leftmost digits have greater value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "pv_digit_value",
+
+      "question": "To make the smallest 4-digit number using 5, 0, 3, 7, where should you place the 0?",
+
+      "options": [
+        "Thousands place (first)",
+        "Hundreds place (second)",
+        "Tens place (third)",
+        "Ones place (last)"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Hundreds place (second)",
+
+      "explanation": "0 cannot be first (that would make a 3-digit number). Put smallest non-zero digit (3) first, then 0, then 5, 7 → 3,057.",
+
+      "tags": ["forming numbers", "smallest", "zero", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Put 0 first",
+          "conceptGap": "Understanding that 0 cannot be the first digit",
+          "remediation": "Review that first digit cannot be zero"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionType": "true_false",
+      "difficulty": "intermediate",
+      "conceptTested": "pv_digit_value",
+
+      "question": "True or False: In the number 8,234, the 8 contributes the most to the number's value.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! The 8 is in the thousands place (8,000) which is much larger than the other digits' values.",
+
+      "tags": ["place value", "digit value", "contribution"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't consider place value",
+          "conceptGap": "Understanding place value impact",
+          "remediation": "Review how place value determines digit's contribution"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparing_numbers",
+
+      "question": "Which is the largest number?",
+
+      "options": ["4,321", "4,231", "4,312", "4,123"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "4,321",
+
+      "explanation": "All have same thousands (4). Compare hundreds: 3, 2, 3, 1. Two have 3, compare their tens: 2 > 1, so 4,321 is largest.",
+
+      "tags": ["comparing", "largest", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Compared only last digits",
+          "conceptGap": "Comparison from left to right",
+          "remediation": "Review systematic comparison method"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "comparing_numbers",
+
+      "question": "Which is the smallest number?",
+
+      "options": ["7,654", "7,456", "7,546", "7,645"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "7,456",
+
+      "explanation": "All have same thousands (7). Compare hundreds: 6, 4, 5, 6. The smallest is 4, so 7,456 is smallest.",
+
+      "tags": ["comparing", "smallest", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused largest with smallest",
+          "conceptGap": "Understanding largest vs smallest",
+          "remediation": "Review smallest means lowest value"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "ordering_digits",
+
+      "question": "Arrange the digits 9, 2, 5, 1 in descending order (largest to smallest).",
+
+      "options": ["1, 2, 5, 9", "9, 5, 2, 1", "2, 5, 1, 9", "5, 9, 1, 2"],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "9, 5, 2, 1",
+
+      "explanation": "Descending means largest to smallest: 9 > 5 > 2 > 1.",
+
+      "tags": ["ordering", "descending", "digits"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Arranged in ascending instead of descending",
+          "conceptGap": "Understanding ascending vs descending",
+          "remediation": "Review descending = going down"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "ordering_digits",
+
+      "question": "Using digits 3, 0, 7, 5, what is the smallest 4-digit number you can form?",
+
+      "options": ["3,057", "0,357", "3,075", "5,037"],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "3,057",
+
+      "explanation": "Can't start with 0. Arrange remaining digits (3, 5, 7) in ascending: 3 first. Then place 0 after 3, then 5, 7 → 3,057.",
+
+      "tags": ["forming numbers", "smallest", "zero handling", "4-digit"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 1,
+          "mistake": "Put 0 first",
+          "conceptGap": "Understanding zero cannot be first digit",
+          "remediation": "Review rule: first digit cannot be zero"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You understand digit arrangement and place value well. You're ready to learn forming largest and smallest 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand forming numbers. Let's extend this to 5-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in understanding digit arrangement or place value. Watch review videos before learning 5-digit number formation.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review digit arrangement and place value basics first. We'll start with fundamentals, then move to 5-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you understand how to form the largest and smallest numbers.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about forming largest and smallest 5-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "quiz": {
+    "id": "quiz_science_gr4",
+    "level": "subject",
+    "entityId": "science_gr4",
+    "title": "Science Grade 4 - Complete Assessment",
+    "questionIds": [
+      "q_sci4_001",
+      "q_sci4_002",
+      "q_sci4_003",
+      "q_sci4_004",
+      "q_sci4_005",
+      "q_sci4_006",
+      "q_sci4_007",
+      "q_sci4_008",
+      "q_sci4_009",
+      "q_sci4_010",
+      "q_sci4_011",
+      "q_sci4_012"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_sci4_001",
+      "questionText": "Which of these is a living thing?",
+      "questionType": "mcq",
+      "options": [
+        "Rock",
+        "Tree",
+        "Water",
+        "Air"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A tree is a living thing because it grows, needs food and water, reproduces, and responds to its environment.",
+      "hints": [
+        "Living things grow and need food",
+        "Which one can grow?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["living_things"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_002",
+      "questionText": "What do plants give out during photosynthesis?",
+      "questionType": "mcq",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Smoke"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Plants release oxygen during photosynthesis, which is essential for animals and humans to breathe.",
+      "hints": [
+        "We breathe this gas",
+        "It's opposite of carbon dioxide"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["photosynthesis", "oxygen"],
+      "topicIds": ["gr4_s_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_003",
+      "questionText": "Where do fish live?",
+      "questionType": "mcq",
+      "options": [
+        "Desert",
+        "Forest",
+        "Water",
+        "Mountains"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Fish are aquatic animals that live in water habitats like oceans, rivers, lakes, and ponds.",
+      "hints": [
+        "Fish need this to breathe",
+        "Think about where you see fish"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["animals", "habitats"],
+      "topicIds": ["gr4_s_1_2", "gr4_s_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_004",
+      "questionText": "Which food group gives us energy?",
+      "questionType": "mcq",
+      "options": [
+        "Carbohydrates",
+        "Vitamins",
+        "Minerals",
+        "Water"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Carbohydrates like rice, wheat, bread, and potatoes give us energy to work and play.",
+      "hints": [
+        "Rice and wheat belong to this group",
+        "It's our main source of energy"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["food_groups", "nutrition"],
+      "topicIds": ["gr4_s_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_005",
+      "questionText": "Which of these is a healthy eating habit?",
+      "questionType": "mcq",
+      "options": [
+        "Eating too many sweets",
+        "Skipping breakfast",
+        "Eating fruits and vegetables daily",
+        "Drinking soft drinks with every meal"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Eating fruits and vegetables daily provides vitamins, minerals, and fiber needed for good health.",
+      "hints": [
+        "Think about what doctors recommend",
+        "What gives us vitamins?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["healthy_eating", "nutrition"],
+      "topicIds": ["gr4_s_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_006",
+      "questionText": "Where does digestion begin?",
+      "questionType": "mcq",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Intestine",
+        "Liver"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Digestion begins in the mouth where teeth chew food and saliva starts breaking it down.",
+      "hints": [
+        "Where do we first put food?",
+        "Chewing happens here"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["digestion", "body"],
+      "topicIds": ["gr4_s_2_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_007",
+      "questionText": "Which state of matter has a fixed shape?",
+      "questionType": "mcq",
+      "options": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Plasma"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Solids have a fixed shape and volume. Examples include wood, stone, and ice.",
+      "hints": [
+        "Think about something hard",
+        "It doesn't change shape easily"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["matter", "solids"],
+      "topicIds": ["gr4_s_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_008",
+      "questionText": "What happens when you heat ice?",
+      "questionType": "mcq",
+      "options": [
+        "It becomes harder",
+        "It melts into water",
+        "It becomes gas",
+        "Nothing happens"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When ice (solid) is heated, it melts and becomes water (liquid). This is called melting.",
+      "hints": [
+        "Think about ice in the sun",
+        "Solid to liquid is called melting"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["states_of_matter", "changes"],
+      "topicIds": ["gr4_s_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_009",
+      "questionText": "Which of these can we NOT see but can feel?",
+      "questionType": "mcq",
+      "options": [
+        "Water",
+        "Air",
+        "Ice",
+        "Juice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Air is a gas that we cannot see, but we can feel it when the wind blows. We also need it to breathe.",
+      "hints": [
+        "We breathe this",
+        "We can feel wind"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["gases", "air"],
+      "topicIds": ["gr4_s_3_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_010",
+      "questionText": "Which animal lays eggs?",
+      "questionType": "mcq",
+      "options": [
+        "Dog",
+        "Cat",
+        "Hen",
+        "Cow"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hens are birds that lay eggs. Birds, fish, reptiles, and insects lay eggs, while mammals give birth to babies.",
+      "hints": [
+        "Think about breakfast",
+        "Birds do this"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["animals", "reproduction"],
+      "topicIds": ["gr4_s_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_011",
+      "questionText": "What do we call the process of water changing into vapor?",
+      "questionType": "mcq",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Freezing",
+        "Melting"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Evaporation is when liquid water changes into water vapor (gas) due to heat.",
+      "hints": [
+        "Happens when water is heated",
+        "Water disappears into air"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["states_of_matter", "evaporation"],
+      "topicIds": ["gr4_s_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_sci4_012",
+      "questionText": "Which nutrient helps build strong bones and teeth?",
+      "questionType": "mcq",
+      "options": [
+        "Carbohydrates",
+        "Calcium",
+        "Fats",
+        "Fiber"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Calcium is a mineral that helps build strong bones and teeth. We get it from milk, cheese, and green vegetables.",
+      "hints": [
+        "Found in milk and cheese",
+        "Good for bones"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["nutrition", "minerals"],
+      "topicIds": ["gr4_s_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

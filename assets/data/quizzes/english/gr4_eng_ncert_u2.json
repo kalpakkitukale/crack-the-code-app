@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_eng_ncert_u2",
+    "level": "chapter",
+    "entityId": "gr4_eng_ncert_u2",
+    "title": "Noses / The Little Fir Tree - Unit 2 Quiz",
+    "questionIds": ["q_nf_001", "q_nf_002", "q_nf_003", "q_nf_004", "q_nf_005", "q_nf_006", "q_nf_007", "q_nf_008", "q_nf_009", "q_nf_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_nf_001",
+      "questionText": "The poem 'Noses' talks about:",
+      "questionType": "mcq",
+      "options": ["Only human noses", "Different types of noses", "How to clean your nose", "Nose doctors"],
+      "correctAnswer": "B",
+      "explanation": "The poem talks about different types of noses - long, short, flat, pointed - showing diversity.",
+      "hints": ["Think about what makes noses different"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "noses", "diversity"],
+      "topicIds": ["gr4_en_2_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nf_002",
+      "questionText": "In 'The Little Fir Tree', what was the fir tree unhappy about?",
+      "questionType": "mcq",
+      "options": ["Its height", "Its needle-like leaves", "Its color", "Its location"],
+      "correctAnswer": "B",
+      "explanation": "The little fir tree was unhappy about its needle-like leaves and wished for different kinds of leaves.",
+      "hints": ["The tree wanted something different from what it had"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "fir tree", "wishes"],
+      "topicIds": ["gr4_en_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_nf_003",
+      "questionText": "What type of leaves did the fir tree wish for first?",
+      "questionType": "mcq",
+      "options": ["Plastic leaves", "Gold leaves", "Paper leaves", "Rubber leaves"],
+      "correctAnswer": "B",
+      "explanation": "The fir tree first wished for golden leaves, thinking they would be beautiful.",
+      "hints": ["It's something very precious and shiny"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "wishes", "gold"],
+      "topicIds": ["gr4_en_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_nf_004",
+      "questionText": "A noun is:",
+      "questionType": "mcq",
+      "options": ["An action word", "A naming word", "A describing word", "A joining word"],
+      "correctAnswer": "B",
+      "explanation": "A noun is a naming word - it names a person, place, thing, or animal. Examples: boy, school, book, cat.",
+      "hints": ["It gives names to things"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "noun"],
+      "topicIds": ["gr4_en_2_3"],
+      "points": 1
+    },
+    {
+      "id": "q_nf_005",
+      "questionText": "Which of these is NOT a noun?",
+      "questionType": "mcq",
+      "options": ["Tree", "Beautiful", "School", "Ravi"],
+      "correctAnswer": "B",
+      "explanation": "'Beautiful' is an adjective (describing word), not a noun. Tree, School, and Ravi are all nouns.",
+      "hints": ["Which one describes something?"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "noun", "adjective"],
+      "topicIds": ["gr4_en_2_3"],
+      "points": 1
+    },
+    {
+      "id": "q_nf_006",
+      "questionText": "What happened to the fir tree's gold leaves?",
+      "questionType": "mcq",
+      "options": ["They grew bigger", "A man stole them", "They fell naturally", "Birds ate them"],
+      "correctAnswer": "B",
+      "explanation": "A man came and stole all the golden leaves because they were valuable.",
+      "hints": ["Gold is precious - what might someone do?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["story", "consequence", "gold leaves"],
+      "topicIds": ["gr4_en_2_2"],
+      "points": 2
+    },
+    {
+      "id": "q_nf_007",
+      "questionText": "True or False: The fir tree learned to be happy with its own leaves at the end.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! After all its wishes went wrong, the fir tree finally appreciated its own needle leaves.",
+      "hints": ["What is the moral of the story?"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "moral", "contentment"],
+      "topicIds": ["gr4_en_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_nf_008",
+      "questionText": "What is the moral of 'The Little Fir Tree'?",
+      "questionType": "mcq",
+      "options": ["Gold is the best", "Wishes always come true", "Be happy with what you have", "Trees should not have wishes"],
+      "correctAnswer": "C",
+      "explanation": "The story teaches us to be happy with what we have. Each wish the tree made led to problems.",
+      "hints": ["What did the tree learn in the end?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["moral", "contentment", "story"],
+      "topicIds": ["gr4_en_2_2"],
+      "points": 2
+    },
+    {
+      "id": "q_nf_009",
+      "questionText": "Which is a proper noun?",
+      "questionType": "mcq",
+      "options": ["city", "river", "India", "school"],
+      "correctAnswer": "C",
+      "explanation": "'India' is a proper noun because it names a specific country. Proper nouns always start with capital letters.",
+      "hints": ["Proper nouns are specific names"],
+      "difficulty": "intermediate",
+      "conceptTags": ["grammar", "proper noun"],
+      "topicIds": ["gr4_en_2_3"],
+      "points": 2
+    },
+    {
+      "id": "q_nf_010",
+      "questionText": "After gold leaves, the fir tree wished for:",
+      "questionType": "mcq",
+      "options": ["Silver leaves", "Glass leaves", "Diamond leaves", "Plastic leaves"],
+      "correctAnswer": "B",
+      "explanation": "After gold leaves were stolen, the tree wished for glass leaves, which also caused problems.",
+      "hints": ["Something that can break easily"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "wishes", "glass"],
+      "topicIds": ["gr4_en_2_2"],
+      "points": 1
+    }
+  ]
+}

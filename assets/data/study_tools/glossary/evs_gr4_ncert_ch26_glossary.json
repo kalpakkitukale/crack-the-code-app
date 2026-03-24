@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch26",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_26_001",
+      "term": "Defence",
+      "definition": "Protecting the country from enemies and dangers. India's defence is handled by the armed forces - the Army, Navy, and Air Force.",
+      "pronunciation": "dih-FENS",
+      "exampleUsage": "The defence forces protect our borders day and night.",
+      "difficulty": "easy",
+      "relatedTerms": ["protection", "armed forces", "security"]
+    },
+    {
+      "id": "gls_evs_26_002",
+      "term": "Armed Forces",
+      "definition": "The military organisations of a country that protect it. India has three armed forces: the Army (land), Navy (sea), and Air Force (sky).",
+      "pronunciation": "ARMD FOR-sez",
+      "exampleUsage": "People who join the armed forces are trained to serve and protect our country.",
+      "difficulty": "easy",
+      "relatedTerms": ["military", "army", "navy", "air force"]
+    },
+    {
+      "id": "gls_evs_26_003",
+      "term": "Officer",
+      "definition": "A person who holds a position of authority and leadership in the armed forces. Officers lead teams of soldiers, sailors, or airmen.",
+      "pronunciation": "OFF-ih-ser",
+      "exampleUsage": "Wahida became a defence officer and led her team with courage.",
+      "difficulty": "easy",
+      "relatedTerms": ["leader", "commander", "rank"]
+    },
+    {
+      "id": "gls_evs_26_004",
+      "term": "Courage",
+      "definition": "The ability to do something brave even when you are scared. Soldiers and officers show courage every day to keep the country safe.",
+      "pronunciation": "KUR-ij",
+      "exampleUsage": "It takes great courage to serve in the armed forces and face dangers.",
+      "difficulty": "easy",
+      "relatedTerms": ["bravery", "fearless", "bold"]
+    },
+    {
+      "id": "gls_evs_26_005",
+      "term": "Stereotype",
+      "definition": "A fixed, unfair idea about a group of people. For example, thinking that only boys can be soldiers is a stereotype.",
+      "pronunciation": "STEH-ree-oh-typ",
+      "exampleUsage": "Women in the armed forces have broken the stereotype that only men can be brave.",
+      "difficulty": "medium",
+      "relatedTerms": ["prejudice", "bias", "unfair idea"]
+    },
+    {
+      "id": "gls_evs_26_006",
+      "term": "Discipline",
+      "definition": "Following rules and training yourself to behave in an orderly way. In the armed forces, discipline is very important for teamwork and safety.",
+      "pronunciation": "DIS-ih-plin",
+      "exampleUsage": "Defence officers follow strict discipline, from waking up early to keeping their uniforms neat.",
+      "difficulty": "easy",
+      "relatedTerms": ["rules", "order", "training"]
+    },
+    {
+      "id": "gls_evs_26_007",
+      "term": "Patriotism",
+      "definition": "Love for one's country and the willingness to serve and protect it. People in the armed forces show patriotism by defending the nation.",
+      "pronunciation": "PAY-tree-uh-tiz-um",
+      "exampleUsage": "Singing the national anthem fills us with patriotism and pride.",
+      "difficulty": "medium",
+      "relatedTerms": ["love for country", "national pride", "service"]
+    },
+    {
+      "id": "gls_evs_26_008",
+      "term": "Border",
+      "definition": "The line that separates one country from another. Indian soldiers guard the borders to keep the country safe.",
+      "pronunciation": "BOR-der",
+      "exampleUsage": "Indian soldiers stand guard at the border even in freezing cold weather.",
+      "difficulty": "easy",
+      "relatedTerms": ["boundary", "frontier", "country line"]
+    },
+    {
+      "id": "gls_evs_26_009",
+      "term": "Republic Day",
+      "definition": "A national celebration on 26th January marking the day India's Constitution came into effect in 1950. A grand parade with the armed forces is held in New Delhi.",
+      "pronunciation": "rih-PUB-lik DAY",
+      "exampleUsage": "On Republic Day, we watch the parade of tanks, soldiers, and colourful floats on television.",
+      "difficulty": "easy",
+      "relatedTerms": ["26th January", "parade", "Constitution"]
+    },
+    {
+      "id": "gls_evs_26_010",
+      "term": "Role Model",
+      "definition": "A person whose behaviour and achievements inspire others to follow a similar path. Women officers in the armed forces are role models for young girls.",
+      "pronunciation": "ROLE MOD-ul",
+      "exampleUsage": "Wahida is a role model for girls who dream of joining the armed forces.",
+      "difficulty": "easy",
+      "relatedTerms": ["inspiration", "hero", "leader"]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapterId": "gr4_evs_ncert_ch14",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en14",
+    "title": "Basva's Farm",
+    "content": "This chapter from the NCERT Looking Around textbook introduces farming through the story of Basva and his family. Students learn about the complete farming process - from ploughing the soil and sowing seeds to watering, weeding, and harvesting crops. The chapter explains the difference between Kharif crops (grown in monsoon, like rice and maize) and Rabi crops (grown in winter, like wheat and mustard). Students discover both traditional farming tools (plough, sickle) and modern ones (tractor, harvester), and learn how farm animals help through ploughing, providing milk, and giving manure. The chapter honestly addresses the challenges faced by Indian farmers and encourages respect for the hard work that puts food on our plates.",
+    "keyPoints": [
+      "Farming involves ploughing, sowing, irrigation, weeding, and harvesting",
+      "Kharif crops (rice, maize) grow in monsoon; Rabi crops (wheat, mustard) grow in winter",
+      "Traditional tools include plough and sickle; modern tools include tractor and harvester",
+      "Farm animals help with ploughing, milk, and manure",
+      "Many Indian farmers depend on monsoon rains for their crops",
+      "Farmers work hard and deserve our respect - we should not waste food"
+    ],
+    "learningObjectives": [
+      "Describe the main steps of farming from ploughing to harvesting",
+      "Distinguish between Kharif and Rabi crops with examples",
+      "Compare traditional and modern farming tools and methods",
+      "Explain how farm animals contribute to agriculture",
+      "Understand the challenges Indian farmers face",
+      "Appreciate the importance of farming and the value of food"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en14_001",
+      "title": "Grow Your Own Plant Activity",
+      "content": "Experience farming first-hand! Take a small pot, fill it with soil, and plant some seeds (moong, chana, or methi work great). Water it daily and place it in sunlight. Observe and record what happens each day in a diary: When does the seed sprout? How tall does it grow? What do the first leaves look like? You will understand why farmers need patience and care. This tiny experiment shows you the miracle of how our food grows!",
+      "tags": ["activity", "hands-on"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en14_002",
+      "title": "Crop Season Chart",
+      "content": "Make a colourful chart showing Kharif and Rabi crops. Draw two columns: Kharif Season (June to November) - draw rice, maize, cotton, millet, sugarcane. Rabi Season (October to April) - draw wheat, mustard, peas, gram, linseed. Colour the Kharif side with rainy blues and greens, and the Rabi side with cool browns and yellows. This visual chart makes it easy to remember which crops grow when!",
+      "tags": ["study-tip", "visual-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en14_003",
+      "title": "Food Waste Challenge",
+      "content": "After learning about how hard farmers work, take a one-week food waste challenge! Rule 1: Take only as much food as you can eat. Rule 2: Eat everything on your plate. Rule 3: Store leftover food properly for later. Rule 4: Give food scraps for composting instead of throwing them away. At the end of the week, think about how much food you saved. Remember - every grain of rice represents a farmer's hard work!",
+      "tags": ["activity", "values"],
+      "isPinned": false
+    }
+  ]
+}

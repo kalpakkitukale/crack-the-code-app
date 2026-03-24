@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch12",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "सुनीता की पहिया कुर्सी",
+      "description": "Chapter 12 - An inspiring story about disability, courage, and determination",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_sunita",
+      "label": "सुनीता (Sunita)",
+      "description": "A brave girl who uses a wheelchair but never lets her disability hold her back",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_qualities",
+      "label": "सुनीता के गुण (Qualities)",
+      "description": "Courage (हिम्मत), confidence (आत्मविश्वास), and determination (लगन)",
+      "parentId": "node_sunita",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_activities",
+      "label": "सुनीता के काम (Activities)",
+      "description": "Goes to school, studies, plays with friends, and participates in all activities",
+      "parentId": "node_sunita",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_wheelchair",
+      "label": "पहिया कुर्सी (Wheelchair)",
+      "description": "A chair with wheels that helps people who cannot walk to move independently",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_helper",
+      "label": "सहायक उपकरण (Assistive Devices)",
+      "description": "Tools that help differently-abled people: wheelchairs, crutches, hearing aids, etc.",
+      "parentId": "node_wheelchair",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_independence",
+      "label": "आत्मनिर्भरता (Independence)",
+      "description": "The wheelchair gives Sunita freedom to move and do things on her own",
+      "parentId": "node_wheelchair",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_theme",
+      "label": "मुख्य विषय (Main Themes)",
+      "description": "The important lessons and values taught by this story",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_courage",
+      "label": "हिम्मत (Courage)",
+      "description": "The bravery to face challenges and never give up despite difficulties",
+      "parentId": "node_theme",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_equality",
+      "label": "समानता (Equality)",
+      "description": "Treating all people with equal respect regardless of physical ability",
+      "parentId": "node_theme",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_empathy",
+      "label": "सहानुभूति (Empathy)",
+      "description": "Understanding others' feelings without pitying them - respecting their dignity",
+      "parentId": "node_theme",
+      "positionX": 450,
+      "positionY": 200,
+      "color": "#F48FB1",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_moral",
+      "label": "सीख (Moral)",
+      "description": "Disability does not mean inability - with courage and determination, anything is possible",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 300,
+      "color": "#9C27B0",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_language",
+      "label": "भाषा कार्य (Language Skills)",
+      "description": "Hindi vocabulary and comprehension skills from this chapter",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 300,
+      "color": "#795548",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_vocab",
+      "label": "नए शब्द (New Words)",
+      "description": "विकलांगता, हिम्मत, आत्मविश्वास, सहानुभूति, प्रेरणा, दिव्यांग, सम्मान",
+      "parentId": "node_language",
+      "positionX": 150,
+      "positionY": 400,
+      "color": "#8D6E63",
+      "orderIndex": 13
+    }
+  ]
+}

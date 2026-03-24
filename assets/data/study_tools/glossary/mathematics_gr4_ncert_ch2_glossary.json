@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_math_ncert_ch2",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn2_001",
+      "term": "Top View",
+      "definition": "What an object looks like when you see it from directly above, like a bird looking down. Also called a bird's-eye view.",
+      "pronunciation": "TOP VYOO",
+      "exampleUsage": "The top view of a glass is a circle.",
+      "difficulty": "easy",
+      "relatedTerms": ["Front View", "Side View", "Bird's-Eye View"]
+    },
+    {
+      "id": "gls_gr4_mn2_002",
+      "term": "Front View",
+      "definition": "What an object looks like when you see it straight from the front, at eye level.",
+      "pronunciation": "FRUNT VYOO",
+      "exampleUsage": "The front view of a book standing on a shelf is a rectangle.",
+      "difficulty": "easy",
+      "relatedTerms": ["Top View", "Side View"]
+    },
+    {
+      "id": "gls_gr4_mn2_003",
+      "term": "Side View",
+      "definition": "What an object looks like when you see it from the left or right side.",
+      "pronunciation": "SYDE VYOO",
+      "exampleUsage": "The side view of a car shows the doors and windows.",
+      "difficulty": "easy",
+      "relatedTerms": ["Top View", "Front View"]
+    },
+    {
+      "id": "gls_gr4_mn2_004",
+      "term": "Grid",
+      "definition": "A set of horizontal and vertical lines crossing each other to form small squares. Used to show positions and locations.",
+      "pronunciation": "GRID",
+      "exampleUsage": "We marked the position of the tree on the grid at B3.",
+      "difficulty": "easy",
+      "relatedTerms": ["Row", "Column", "Position"]
+    },
+    {
+      "id": "gls_gr4_mn2_005",
+      "term": "Row",
+      "definition": "A line of boxes going from left to right on a grid (horizontal). Rows are usually numbered 1, 2, 3...",
+      "pronunciation": "ROH",
+      "exampleUsage": "The apples are placed in row 2 of the grid.",
+      "difficulty": "easy",
+      "relatedTerms": ["Column", "Grid", "Position"]
+    },
+    {
+      "id": "gls_gr4_mn2_006",
+      "term": "Column",
+      "definition": "A line of boxes going from top to bottom on a grid (vertical). Columns are usually labelled A, B, C...",
+      "pronunciation": "KOL-um",
+      "exampleUsage": "The school is in column C on the map grid.",
+      "difficulty": "easy",
+      "relatedTerms": ["Row", "Grid", "Position"]
+    },
+    {
+      "id": "gls_gr4_mn2_007",
+      "term": "Map",
+      "definition": "A drawing that shows where things are located, as seen from above. Maps show roads, buildings, and other places.",
+      "pronunciation": "MAP",
+      "exampleUsage": "We used a map to find the way from the school to the park.",
+      "difficulty": "easy",
+      "relatedTerms": ["Top View", "Direction", "Grid"]
+    },
+    {
+      "id": "gls_gr4_mn2_008",
+      "term": "Direction",
+      "definition": "The path or way to go to reach a place. The four main directions are North, South, East, and West.",
+      "pronunciation": "dih-REK-shun",
+      "exampleUsage": "The park is to the East of our school.",
+      "difficulty": "easy",
+      "relatedTerms": ["North", "South", "East", "West", "Map"]
+    },
+    {
+      "id": "gls_gr4_mn2_009",
+      "term": "Bird's-Eye View",
+      "definition": "Looking at something from high above, the way a bird would see it while flying. Same as the top view.",
+      "pronunciation": "BURDZ EYE VYOO",
+      "exampleUsage": "From a bird's-eye view, the playground looks like a big rectangle.",
+      "difficulty": "medium",
+      "relatedTerms": ["Top View", "Map"]
+    },
+    {
+      "id": "gls_gr4_mn2_010",
+      "term": "Spatial Reasoning",
+      "definition": "The ability to think about shapes, positions, and directions in your mind. It helps you imagine how things look from different angles.",
+      "pronunciation": "SPAY-shul REE-zun-ing",
+      "exampleUsage": "Using spatial reasoning, Priya figured out what the box would look like from behind.",
+      "difficulty": "medium",
+      "relatedTerms": ["Top View", "Front View", "Side View", "Map"]
+    }
+  ]
+}

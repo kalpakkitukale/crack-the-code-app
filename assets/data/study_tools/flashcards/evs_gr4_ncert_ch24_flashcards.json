@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ncert_ch24",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_evn24_working_abroad",
+      "name": "Working Abroad",
+      "description": "Learn about why people leave their homes to work in other countries",
+      "topicId": "gr4_evn_24_1",
+      "chapterId": "gr4_evs_ncert_ch24",
+      "cards": [
+        {
+          "id": "fc_gr4_evn24_001",
+          "front": "Why do some people go to other countries for work?",
+          "back": "People go to other countries for work to earn more money, to find better job opportunities, or because there are not enough jobs in their hometown. They send money back home to support their families, pay for children's education, and build houses.",
+          "hint": "Think about what people need for their families",
+          "orderIndex": 0
+        },
+        {
+          "id": "fc_gr4_evn24_002",
+          "front": "Which countries do many Indian workers go to for work?",
+          "back": "Many Indian workers go to Gulf countries like Dubai (UAE), Saudi Arabia, Kuwait, Qatar, and Oman for construction, driving, and other jobs. Some also go to the USA, UK, Canada, Australia, and Singapore for IT, medicine, and other skilled work.",
+          "hint": "Countries in the Middle East are very popular destinations",
+          "orderIndex": 1
+        },
+        {
+          "id": "fc_gr4_evn24_003",
+          "front": "What difficulties do workers face when they go abroad?",
+          "back": "Workers face many challenges: they miss their families, they have to learn a new language, the food and weather are different, they work very long hours, and sometimes they are not treated well. Living far from home can be very lonely, especially during festivals.",
+          "hint": "Being away from family is the hardest part",
+          "orderIndex": 2
+        },
+        {
+          "id": "fc_gr4_evn24_004",
+          "front": "What is a passport and why do workers need it?",
+          "back": "A passport is an official document issued by the government that proves a person's identity and nationality. It is like an ID card for travelling to other countries. Without a passport, no one can travel to another country legally.",
+          "hint": "A small booklet needed for international travel",
+          "orderIndex": 3
+        },
+        {
+          "id": "fc_gr4_evn24_005",
+          "front": "What are remittances?",
+          "back": "Remittances are the money that workers send back to their families in India from the country where they are working. India receives one of the largest amounts of remittances in the world. This money helps families buy food, build homes, and educate children.",
+          "hint": "Money sent from abroad to home",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "quiz": {
+    "id": "quiz_mathematics_gr4",
+    "level": "subject",
+    "entityId": "mathematics_gr4",
+    "title": "Mathematics Grade 4 - Complete Assessment",
+    "questionIds": [
+      "q_math4_001",
+      "q_math4_002",
+      "q_math4_003",
+      "q_math4_004",
+      "q_math4_005",
+      "q_math4_006",
+      "q_math4_007",
+      "q_math4_008",
+      "q_math4_009",
+      "q_math4_010",
+      "q_math4_011",
+      "q_math4_012",
+      "q_math4_013",
+      "q_math4_014",
+      "q_math4_015"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_math4_001",
+      "questionText": "What is 4,567 + 3,821?",
+      "questionType": "mcq",
+      "options": [
+        "7,388",
+        "8,388",
+        "8,288",
+        "7,288"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Adding column by column: 7+1=8, 6+2=8, 5+8=13 (write 3, carry 1), 4+3+1=8. Answer: 8,388",
+      "hints": [
+        "Add each column starting from the ones place",
+        "Don't forget to carry over when needed"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["addition", "carrying"],
+      "topicIds": ["gr4_m_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_002",
+      "questionText": "What is 5,234 - 2,856?",
+      "questionType": "mcq",
+      "options": [
+        "2,378",
+        "3,378",
+        "2,478",
+        "2,368"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Using borrowing: 5,234 - 2,856 = 2,378",
+      "hints": [
+        "You'll need to borrow from the thousands place",
+        "Work column by column from right to left"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["subtraction", "borrowing"],
+      "topicIds": ["gr4_m_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_003",
+      "questionText": "What is 7 × 8?",
+      "questionType": "mcq",
+      "options": [
+        "54",
+        "56",
+        "63",
+        "64"
+      ],
+      "correctAnswer": "B",
+      "explanation": "7 × 8 = 56. This is from the multiplication table of 7 or 8.",
+      "hints": [
+        "Think of the 7 times table",
+        "7 × 8 is the same as 8 × 7"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["multiplication", "tables"],
+      "topicIds": ["gr4_m_3_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_004",
+      "questionText": "What is 456 × 3?",
+      "questionType": "mcq",
+      "options": [
+        "1,368",
+        "1,268",
+        "1,468",
+        "1,378"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Multiply each digit by 3: 6×3=18 (write 8, carry 1), 5×3=15+1=16 (write 6, carry 1), 4×3=12+1=13. Answer: 1,368",
+      "hints": [
+        "Multiply from right to left",
+        "Remember to add the carried numbers"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["multiplication", "long_multiplication"],
+      "topicIds": ["gr4_m_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_005",
+      "questionText": "What is 45 ÷ 6?",
+      "questionType": "mcq",
+      "options": [
+        "7 remainder 3",
+        "6 remainder 9",
+        "8 remainder 1",
+        "7 remainder 2"
+      ],
+      "correctAnswer": "A",
+      "explanation": "6 × 7 = 42, which is closest to 45 without going over. 45 - 42 = 3. So 45 ÷ 6 = 7 remainder 3",
+      "hints": [
+        "Find the largest number times 6 that doesn't exceed 45",
+        "The remainder is what's left over"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["division", "remainders"],
+      "topicIds": ["gr4_m_3_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_006",
+      "questionText": "Which fraction is equivalent to 1/2?",
+      "questionType": "mcq",
+      "options": [
+        "2/3",
+        "3/6",
+        "2/5",
+        "3/4"
+      ],
+      "correctAnswer": "B",
+      "explanation": "3/6 = 1/2 because if you divide both numerator and denominator by 3, you get 1/2. Also, 1/2 = 3/6 when you multiply both by 3.",
+      "hints": [
+        "Which fraction can be simplified to 1/2?",
+        "Try dividing the numerator and denominator"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["fractions", "equivalence"],
+      "topicIds": ["gr4_m_4_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_007",
+      "questionText": "How many sides does a pentagon have?",
+      "questionType": "mcq",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A pentagon has 5 sides. The prefix 'penta' means five.",
+      "hints": [
+        "Think about the prefix 'penta'",
+        "It's more than a square but less than a hexagon"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["geometry", "shapes"],
+      "topicIds": ["gr4_m_5_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_008",
+      "questionText": "Amit had 125 marbles. He gave 37 to his friend. How many marbles does he have left?",
+      "questionType": "mcq",
+      "options": [
+        "88",
+        "78",
+        "98",
+        "162"
+      ],
+      "correctAnswer": "A",
+      "explanation": "This is a subtraction word problem: 125 - 37 = 88 marbles remaining.",
+      "hints": [
+        "This is a subtraction problem",
+        "Calculate 125 - 37"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["word_problems", "subtraction"],
+      "topicIds": ["gr4_m_2_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_009",
+      "questionText": "If one book costs ₹45, how much do 6 books cost?",
+      "questionType": "mcq",
+      "options": [
+        "₹240",
+        "₹260",
+        "₹270",
+        "₹280"
+      ],
+      "correctAnswer": "C",
+      "explanation": "This is a multiplication problem: 45 × 6 = 270. So 6 books cost ₹270.",
+      "hints": [
+        "Multiply the cost of one book by the number of books",
+        "Calculate 45 × 6"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["word_problems", "multiplication"],
+      "topicIds": ["gr4_m_3_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_010",
+      "questionText": "What is the perimeter of a rectangle with length 12 cm and width 8 cm?",
+      "questionType": "mcq",
+      "options": [
+        "20 cm",
+        "40 cm",
+        "96 cm",
+        "32 cm"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Perimeter = 2 × (length + width) = 2 × (12 + 8) = 2 × 20 = 40 cm",
+      "hints": [
+        "Perimeter is the distance around the shape",
+        "Formula: 2 × (length + width)"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["geometry", "perimeter"],
+      "topicIds": ["gr4_m_5_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_011",
+      "questionText": "Which number comes next: 2, 4, 6, 8, __?",
+      "questionType": "mcq",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "B",
+      "explanation": "This is the pattern of even numbers, counting by 2s. After 8 comes 10.",
+      "hints": [
+        "What is being added each time?",
+        "These are all even numbers"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["patterns", "sequences"],
+      "topicIds": ["gr4_m_1_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_012",
+      "questionText": "What is 1/4 + 1/4?",
+      "questionType": "mcq",
+      "options": [
+        "1/8",
+        "2/4",
+        "2/8",
+        "1/2"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When adding fractions with the same denominator, add the numerators: 1/4 + 1/4 = 2/4 (which also equals 1/2 when simplified)",
+      "hints": [
+        "The denominators are the same",
+        "Add the numerators: 1 + 1 = ?"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["fractions", "addition"],
+      "topicIds": ["gr4_m_4_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_013",
+      "questionText": "How many minutes are in 3 hours?",
+      "questionType": "mcq",
+      "options": [
+        "60 minutes",
+        "120 minutes",
+        "180 minutes",
+        "240 minutes"
+      ],
+      "correctAnswer": "C",
+      "explanation": "1 hour = 60 minutes, so 3 hours = 3 × 60 = 180 minutes",
+      "hints": [
+        "How many minutes are in 1 hour?",
+        "Multiply that by 3"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["time", "conversion"],
+      "topicIds": ["gr4_m_5_3"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_014",
+      "questionText": "A garden is in the shape of a square with each side 9 meters. What is its perimeter?",
+      "questionType": "mcq",
+      "options": [
+        "18 meters",
+        "27 meters",
+        "36 meters",
+        "81 meters"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Perimeter of a square = 4 × side = 4 × 9 = 36 meters",
+      "hints": [
+        "A square has 4 equal sides",
+        "Add all four sides or multiply one side by 4"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["geometry", "perimeter", "square"],
+      "topicIds": ["gr4_m_5_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_math4_015",
+      "questionText": "Round 3,456 to the nearest hundred.",
+      "questionType": "mcq",
+      "options": [
+        "3,000",
+        "3,400",
+        "3,500",
+        "4,000"
+      ],
+      "correctAnswer": "C",
+      "explanation": "To round to the nearest hundred, look at the tens digit. Since 5 ≥ 5, we round up. So 3,456 rounds to 3,500.",
+      "hints": [
+        "Look at the tens digit (5)",
+        "If it's 5 or more, round up"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["rounding", "place_value"],
+      "topicIds": ["gr4_m_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

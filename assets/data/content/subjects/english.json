@@ -1,0 +1,324 @@
+{
+  "id": "english",
+  "name": "English",
+  "icon": "assets/icons/english.png",
+  "color": "#9C27B0",
+  "boardId": "cbse",
+  "classId": "class_12",
+  "streamId": "science_pcm",
+  "totalChapters": 12,
+  "chapters": [
+    {
+      "id": "ch1_last_lesson",
+      "number": 1,
+      "name": "The Last Lesson",
+      "description": "Story by Alphonse Daudet about linguistic and cultural chauvinism",
+      "topics": [
+        {
+          "id": "topic_1_1",
+          "name": "Summary and Analysis",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_1_2",
+          "name": "Character Analysis",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_1_3",
+          "name": "Themes and Messages",
+          "difficulty": "advanced",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch2_lost_spring",
+      "number": 2,
+      "name": "Lost Spring",
+      "description": "Stories of stolen childhood by Anees Jung",
+      "topics": [
+        {
+          "id": "topic_2_1",
+          "name": "Part 1 - Saheb",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_2_2",
+          "name": "Part 2 - Mukesh",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_2_3",
+          "name": "Themes and Analysis",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch3_deep_water",
+      "number": 3,
+      "name": "Deep Water",
+      "description": "William Douglas's account of conquering fear of water",
+      "topics": [
+        {
+          "id": "topic_3_1",
+          "name": "Summary",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_3_2",
+          "name": "Overcoming Fear",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_3_3",
+          "name": "Message and Inspiration",
+          "difficulty": "intermediate",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch4_rattrap",
+      "number": 4,
+      "name": "The Rattrap",
+      "description": "Story by Selma Lagerlöf about human goodness and compassion",
+      "topics": [
+        {
+          "id": "topic_4_1",
+          "name": "Story Summary",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_4_2",
+          "name": "Character Transformation",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_4_3",
+          "name": "Symbolism and Themes",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch5_indigo",
+      "number": 5,
+      "name": "Indigo",
+      "description": "Louis Fischer's account of Gandhi's Champaran movement",
+      "topics": [
+        {
+          "id": "topic_5_1",
+          "name": "Historical Context",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_5_2",
+          "name": "Gandhi's Leadership",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_5_3",
+          "name": "Civil Disobedience",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch6_poets_and_pancakes",
+      "number": 6,
+      "name": "Poets and Pancakes",
+      "description": "Asokamitran's account of Gemini Studios",
+      "topics": [
+        {
+          "id": "topic_6_1",
+          "name": "Summary and Context",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_6_2",
+          "name": "Film Industry Insights",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_6_3",
+          "name": "Humor and Irony",
+          "difficulty": "intermediate",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch7_interview",
+      "number": 7,
+      "name": "The Interview",
+      "description": "Christopher Silvester's exploration of interviews and Umberto Eco interview",
+      "topics": [
+        {
+          "id": "topic_7_1",
+          "name": "Part 1 - Nature of Interviews",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_7_2",
+          "name": "Part 2 - Umberto Eco Interview",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_7_3",
+          "name": "Analysis and Insights",
+          "difficulty": "advanced",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch8_going_places",
+      "number": 8,
+      "name": "Going Places",
+      "description": "A.R. Barton's story about adolescent fantasies and reality",
+      "topics": [
+        {
+          "id": "topic_8_1",
+          "name": "Summary",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_8_2",
+          "name": "Character Study - Sophie",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_8_3",
+          "name": "Dreams vs Reality",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch9_my_mother",
+      "number": 9,
+      "name": "My Mother at Sixty-six",
+      "description": "Kamala Das's poem about aging and childhood fear",
+      "topics": [
+        {
+          "id": "topic_9_1",
+          "name": "Poem Summary",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_9_2",
+          "name": "Literary Devices",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_9_3",
+          "name": "Themes and Emotions",
+          "difficulty": "advanced",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch10_keeping_quiet",
+      "number": 10,
+      "name": "Keeping Quiet",
+      "description": "Pablo Neruda's poem about introspection and peace",
+      "topics": [
+        {
+          "id": "topic_10_1",
+          "name": "Poem Analysis",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_10_2",
+          "name": "Symbolism",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_10_3",
+          "name": "Message and Relevance",
+          "difficulty": "advanced",
+          "videoCount": 6
+        }
+      ]
+    },
+    {
+      "id": "ch11_thing_of_beauty",
+      "number": 11,
+      "name": "A Thing of Beauty",
+      "description": "John Keats's excerpt from Endymion",
+      "topics": [
+        {
+          "id": "topic_11_1",
+          "name": "Poem Summary",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_11_2",
+          "name": "Poetic Devices",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_11_3",
+          "name": "Philosophy of Beauty",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    },
+    {
+      "id": "ch12_aunt_jennifers_tigers",
+      "number": 12,
+      "name": "Aunt Jennifer's Tigers",
+      "description": "Adrienne Rich's poem about oppression and artistic expression",
+      "topics": [
+        {
+          "id": "topic_12_1",
+          "name": "Poem Analysis",
+          "difficulty": "basic",
+          "videoCount": 6
+        },
+        {
+          "id": "topic_12_2",
+          "name": "Symbols and Contrast",
+          "difficulty": "intermediate",
+          "videoCount": 8
+        },
+        {
+          "id": "topic_12_3",
+          "name": "Feminist Themes",
+          "difficulty": "advanced",
+          "videoCount": 8
+        }
+      ]
+    }
+  ]
+}

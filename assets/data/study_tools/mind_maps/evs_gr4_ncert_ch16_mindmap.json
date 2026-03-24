@@ -1,0 +1,197 @@
+{
+  "chapterId": "gr4_evs_ncert_ch16",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "A Busy Month",
+      "description": "Activities and festivals throughout the year",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_festivals",
+      "label": "Indian Festivals",
+      "description": "Special celebrations throughout the year",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_diwali",
+      "label": "Diwali",
+      "description": "Festival of Lights - diyas, sweets, fireworks",
+      "parentId": "node_festivals",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_holi",
+      "label": "Holi",
+      "description": "Festival of Colours - playing with colours, gulal",
+      "parentId": "node_festivals",
+      "positionX": -250,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_sankranti",
+      "label": "Makar Sankranti",
+      "description": "Kite flying, til-gur sweets, harvest festival",
+      "parentId": "node_festivals",
+      "positionX": -150,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_harvest",
+      "label": "Harvest Festivals",
+      "description": "Celebrations when crops are ready",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_pongal",
+      "label": "Pongal",
+      "description": "Tamil Nadu harvest festival in January",
+      "parentId": "node_harvest",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_baisakhi",
+      "label": "Baisakhi",
+      "description": "Punjab harvest festival in April",
+      "parentId": "node_harvest",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_onam",
+      "label": "Onam",
+      "description": "Kerala harvest festival in August-September",
+      "parentId": "node_harvest",
+      "positionX": 150,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_national",
+      "label": "National Days",
+      "description": "Important national celebrations",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_republic",
+      "label": "Republic Day",
+      "description": "26th January - Constitution came into effect",
+      "parentId": "node_national",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_independence",
+      "label": "Independence Day",
+      "description": "15th August - India's freedom in 1947",
+      "parentId": "node_national",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#03A9F4",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_seasons",
+      "label": "Seasons & Activities",
+      "description": "Activities that change with the weather",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 280,
+      "color": "#9C27B0",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_summer",
+      "label": "Summer",
+      "description": "Mangoes, cool drinks, cotton clothes",
+      "parentId": "node_seasons",
+      "positionX": -250,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_winter",
+      "label": "Winter",
+      "description": "Woollen clothes, hot food, bonfires",
+      "parentId": "node_seasons",
+      "positionX": -150,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_monsoon",
+      "label": "Monsoon",
+      "description": "Rain, paper boats, pakoras, green fields",
+      "parentId": "node_seasons",
+      "positionX": -50,
+      "positionY": 360,
+      "color": "#BA68C8",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_food",
+      "label": "Festival Foods",
+      "description": "Special foods prepared during celebrations",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#F44336",
+      "orderIndex": 16
+    },
+    {
+      "id": "node_sweets",
+      "label": "Sweets & Snacks",
+      "description": "Til laddu, gujiya, payasam, modak",
+      "parentId": "node_food",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 17
+    },
+    {
+      "id": "node_specialmeals",
+      "label": "Special Meals",
+      "description": "Feast preparations for different festivals",
+      "parentId": "node_food",
+      "positionX": 200,
+      "positionY": 360,
+      "color": "#EF5350",
+      "orderIndex": 18
+    }
+  ]
+}

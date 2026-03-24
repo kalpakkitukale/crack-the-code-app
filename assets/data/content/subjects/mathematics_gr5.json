@@ -1,0 +1,72 @@
+{
+  "id": "mathematics_gr5",
+  "name": "Mathematics",
+  "icon": "calculate",
+  "color": "#4ECDC4",
+  "boardId": "cbse_elementary",
+  "classId": "class_5",
+  "streamId": "general",
+  "totalChapters": 5,
+  "keywords": ["mathematics", "grade 5", "maths", "fractions", "decimals"],
+  "chapters": [
+    {
+      "id": "gr5_math_ch1",
+      "number": 1,
+      "name": "Numbers and Operations",
+      "description": "Large numbers, place value, and operations",
+      "keywords": ["numbers", "operations", "place value"],
+      "topics": [
+        {"id": "gr5_m_1_1", "name": "Large Numbers", "difficulty": "basic", "videoCount": 5, "keywords": ["large numbers", "place value"]},
+        {"id": "gr5_m_1_2", "name": "Roman Numerals", "difficulty": "basic", "videoCount": 4, "keywords": ["roman numerals"]},
+        {"id": "gr5_m_1_3", "name": "Operations", "difficulty": "intermediate", "videoCount": 5, "keywords": ["operations"]}
+      ]
+    },
+    {
+      "id": "gr5_math_ch2",
+      "number": 2,
+      "name": "Fractions and Decimals",
+      "description": "Understanding fractions and decimals",
+      "keywords": ["fractions", "decimals", "operations"],
+      "topics": [
+        {"id": "gr5_m_2_1", "name": "Fractions", "difficulty": "intermediate", "videoCount": 5, "keywords": ["fractions"]},
+        {"id": "gr5_m_2_2", "name": "Decimals", "difficulty": "intermediate", "videoCount": 5, "keywords": ["decimals"]},
+        {"id": "gr5_m_2_3", "name": "Operations on Fractions", "difficulty": "intermediate", "videoCount": 4, "keywords": ["fraction operations"]}
+      ]
+    },
+    {
+      "id": "gr5_math_ch3",
+      "number": 3,
+      "name": "Geometry",
+      "description": "Shapes, angles, and measurements",
+      "keywords": ["geometry", "shapes", "angles"],
+      "topics": [
+        {"id": "gr5_m_3_1", "name": "Lines and Angles", "difficulty": "basic", "videoCount": 4, "keywords": ["lines", "angles"]},
+        {"id": "gr5_m_3_2", "name": "Triangles", "difficulty": "intermediate", "videoCount": 4, "keywords": ["triangles"]},
+        {"id": "gr5_m_3_3", "name": "Circles", "difficulty": "basic", "videoCount": 4, "keywords": ["circles"]}
+      ]
+    },
+    {
+      "id": "gr5_math_ch4",
+      "number": 4,
+      "name": "Measurement",
+      "description": "Perimeter, area, and volume",
+      "keywords": ["measurement", "area", "perimeter"],
+      "topics": [
+        {"id": "gr5_m_4_1", "name": "Perimeter", "difficulty": "basic", "videoCount": 4, "keywords": ["perimeter"]},
+        {"id": "gr5_m_4_2", "name": "Area", "difficulty": "intermediate", "videoCount": 4, "keywords": ["area"]},
+        {"id": "gr5_m_4_3", "name": "Volume", "difficulty": "intermediate", "videoCount": 4, "keywords": ["volume"]}
+      ]
+    },
+    {
+      "id": "gr5_math_ch5",
+      "number": 5,
+      "name": "Data Handling",
+      "description": "Tables, graphs, and averages",
+      "keywords": ["data", "graphs", "average"],
+      "topics": [
+        {"id": "gr5_m_5_1", "name": "Tables and Graphs", "difficulty": "basic", "videoCount": 4, "keywords": ["tables", "graphs"]},
+        {"id": "gr5_m_5_2", "name": "Average", "difficulty": "intermediate", "videoCount": 3, "keywords": ["average", "mean"]}
+      ]
+    }
+  ]
+}

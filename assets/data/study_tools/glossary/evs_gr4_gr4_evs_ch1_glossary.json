@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_ev1_001",
+      "term": "Living Things",
+      "definition": "Things that can grow, breathe, eat, move, and reproduce. Plants, animals, and humans are all living things.",
+      "pronunciation": "LIV-ing things",
+      "exampleUsage": "A dog, a tree, and a butterfly are all living things.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev1_002",
+      "term": "Non-living Things",
+      "definition": "Things that do not grow, breathe, eat, or reproduce on their own. They were never alive.",
+      "pronunciation": "non-LIV-ing things",
+      "exampleUsage": "A rock, a table, and water are non-living things.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev1_003",
+      "term": "Ecosystem",
+      "definition": "A community of living things and non-living things that interact with each other in a particular area.",
+      "pronunciation": "EE-ko-sis-tem",
+      "exampleUsage": "A pond ecosystem includes fish, frogs, plants, water, and sunlight.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev1_004",
+      "term": "Habitat",
+      "definition": "The natural home or environment of a plant or animal where it gets food, water, and shelter.",
+      "pronunciation": "HAB-ih-tat",
+      "exampleUsage": "The forest is the habitat of a tiger.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev1_005",
+      "term": "Food Chain",
+      "definition": "A path that shows how energy and food pass from one living thing to another in an ecosystem.",
+      "pronunciation": "food chayn",
+      "exampleUsage": "In a food chain, grass is eaten by a deer, and the deer is eaten by a lion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev1_006",
+      "term": "Producer",
+      "definition": "A living thing, usually a plant, that makes its own food using sunlight, water, and air.",
+      "pronunciation": "pro-DOO-ser",
+      "exampleUsage": "Green plants are producers because they make food through photosynthesis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev1_007",
+      "term": "Consumer",
+      "definition": "A living thing that cannot make its own food and eats other living things to get energy.",
+      "pronunciation": "kon-SOO-mer",
+      "exampleUsage": "A rabbit is a consumer because it eats plants for food.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev1_008",
+      "term": "Reproduce",
+      "definition": "To produce young ones or new living things of the same kind. All living things can reproduce.",
+      "pronunciation": "ree-pro-DOOS",
+      "exampleUsage": "Birds reproduce by laying eggs that hatch into baby birds.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_ev1_009",
+      "term": "Adaptation",
+      "definition": "A special feature or behaviour that helps a living thing survive in its habitat.",
+      "pronunciation": "ad-ap-TAY-shun",
+      "exampleUsage": "A camel's hump is an adaptation that helps it survive in the desert.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_ev1_010",
+      "term": "Decomposer",
+      "definition": "A living thing like fungi or bacteria that breaks down dead plants and animals and returns nutrients to the soil.",
+      "pronunciation": "dee-kom-PO-zer",
+      "exampleUsage": "Mushrooms are decomposers that break down fallen leaves on the forest floor.",
+      "difficulty": "medium"
+    }
+  ]
+}

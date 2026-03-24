@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_evs_ch2",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_ev2",
+    "title": "Water - Water Cycle and Conservation",
+    "content": "This chapter teaches students about the amazing journey of water on our planet. Students will learn how water moves through the water cycle - evaporating from oceans, forming clouds, falling as rain, and flowing back to rivers and oceans. The chapter also covers different sources of water, why fresh water is precious, and how every person can help save water through simple everyday actions like turning off taps and collecting rainwater.",
+    "keyPoints": [
+      "The water cycle is the continuous movement of water through evaporation, condensation, and precipitation",
+      "Most of Earth's water is salty - only about 3% is fresh water",
+      "Groundwater is found below the Earth's surface and is reached through wells",
+      "Water conservation means using water carefully and not wasting it",
+      "Rainwater harvesting is an effective way to collect and store water"
+    ],
+    "learningObjectives": [
+      "Explain the steps of the water cycle in simple words",
+      "Identify different sources of water such as rivers, lakes, and groundwater",
+      "Understand why fresh water is a limited and precious resource",
+      "Describe at least three ways to save water at home and school",
+      "Explain what rainwater harvesting is and why it is useful"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_ev2_001",
+      "title": "Draw the Water Cycle",
+      "content": "Draw a picture of the water cycle with arrows showing the direction water moves. Label each step: evaporation (water going up), condensation (clouds forming), precipitation (rain falling), and collection (water flowing to rivers and oceans). Drawing it helps you remember the steps!",
+      "tags": ["study-tip", "visual-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_ev2_002",
+      "title": "Water-Saving Challenge",
+      "content": "Try a one-week water-saving challenge at home! Keep a daily diary of how you saved water - did you turn off the tap while brushing? Use a bucket instead of a hose? Fix a drip? At the end of the week, count all the ways you helped. Share your diary with your class.",
+      "tags": ["activity", "practice"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_ev2_003",
+      "title": "Remember: 97-3 Rule",
+      "content": "An easy way to remember how much fresh water we have: 97% of Earth's water is salty ocean water. Only 3% is fresh water, and most of that is frozen in ice! The small amount left in rivers, lakes, and underground is all we have for drinking, cooking, and farming. That is why every drop matters.",
+      "tags": ["key-concept", "important"],
+      "isPinned": false
+    }
+  ]
+}

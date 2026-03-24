@@ -1,0 +1,39 @@
+{
+  "wordFamilies": [
+    {
+      "id": "at_family",
+      "rootPattern": "-at",
+      "description": "Words ending in -at",
+      "gradeLevel": 1,
+      "words": ["cat", "bat", "hat", "mat", "rat", "sat", "fat", "pat", "flat", "chat"]
+    },
+    {
+      "id": "an_family",
+      "rootPattern": "-an",
+      "description": "Words ending in -an",
+      "gradeLevel": 1,
+      "words": ["fan", "man", "van", "pan", "ran", "can", "tan", "ban", "plan", "clan"]
+    },
+    {
+      "id": "ake_family",
+      "rootPattern": "-ake",
+      "description": "Words ending in -ake",
+      "gradeLevel": 2,
+      "words": ["cake", "lake", "make", "bake", "take", "wake", "shake", "snake", "flake", "brake"]
+    },
+    {
+      "id": "ight_family",
+      "rootPattern": "-ight",
+      "description": "Words ending in -ight",
+      "gradeLevel": 3,
+      "words": ["light", "night", "right", "fight", "might", "sight", "tight", "bright", "flight", "knight"]
+    },
+    {
+      "id": "tion_family",
+      "rootPattern": "-tion",
+      "description": "Words ending in -tion",
+      "gradeLevel": 5,
+      "words": ["action", "nation", "station", "mention", "section", "motion", "notion", "portion", "caution", "fiction"]
+    }
+  ]
+}

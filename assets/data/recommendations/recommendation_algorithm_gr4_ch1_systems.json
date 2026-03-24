@@ -1,0 +1,461 @@
+{
+  "algorithmId": "rec_gr4_m1_t5",
+  "topicId": "gr4_m_1_5",
+  "topicName": "Indian and International Number System",
+  "version": "1.0",
+  "description": "Video recommendation algorithm based on readiness assessment results for learning Indian and International number systems",
+
+  "scoringThresholds": {
+    "excellent": 90,
+    "ready": 80,
+    "partial": 50,
+    "not_ready": 0
+  },
+
+  "recommendationStrategies": {
+    "excellent_performance": {
+      "scoreRange": [90, 100],
+      "strategy": "abbreviated_playlist",
+      "rationale": "Student has excellent understanding of large numbers and notation, can fast-track to both systems with challenge",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 1,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2160,
+      "videoSequence": [
+        {
+          "videoId": "gr4_systems_v1",
+          "reason": "Introduction to Indian number system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v2",
+          "reason": "Introduction to International number system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v3",
+          "reason": "Comparing both systems - critical understanding",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v4",
+          "reason": "Practice in Indian system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v5",
+          "reason": "Practice in International system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v7",
+          "reason": "Challenge: Large numbers with crores",
+          "skippable": true
+        }
+      ]
+    },
+
+    "ready_performance": {
+      "scoreRange": [80, 89],
+      "strategy": "standard_playlist",
+      "rationale": "Student is ready, provide complete coverage of both number systems",
+      "playlistComposition": {
+        "prerequisiteVideos": 0,
+        "coreTopicVideos": 5,
+        "applicationVideos": 1,
+        "challengeVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2190,
+      "videoSequence": [
+        {
+          "videoId": "gr4_systems_v1",
+          "reason": "Indian system introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v2",
+          "reason": "International system introduction",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v3",
+          "reason": "Comparing both systems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v4",
+          "reason": "Practice reading/writing in Indian system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v5",
+          "reason": "Practice reading/writing in International system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v6",
+          "reason": "Converting between systems",
+          "skippable": true
+        }
+      ]
+    },
+
+    "partial_readiness": {
+      "scoreRange": [50, 79],
+      "strategy": "mixed_playlist",
+      "rationale": "Student has gaps in understanding large numbers or comma usage, needs targeted review",
+      "playlistComposition": {
+        "prerequisiteVideos": 4,
+        "coreTopicVideos": 5,
+        "applicationVideos": 0,
+        "challengeVideos": 0,
+        "totalVideos": 9
+      },
+      "estimatedTime": 2640,
+      "adaptiveLogic": {
+        "description": "Select prerequisite videos based on specific weak concepts",
+        "conceptMapping": {
+          "pv_5digit_6digit_weak": {
+            "addVideos": ["prereq_pv56_v1"],
+            "priority": "high"
+          },
+          "comma_usage_weak": {
+            "addVideos": ["prereq_comma_v1"],
+            "priority": "high"
+          },
+          "reading_large_weak": {
+            "addVideos": ["prereq_read_large_v1"],
+            "priority": "medium"
+          },
+          "number_patterns_weak": {
+            "addVideos": ["prereq_grouping_v1"],
+            "priority": "high"
+          }
+        }
+      },
+      "exampleSequence": [
+        {
+          "videoId": "prereq_pv56_v1",
+          "reason": "Review: 5-6 digit place values",
+          "skippable": false,
+          "condition": "if pv_5digit_6digit concept is weak"
+        },
+        {
+          "videoId": "prereq_comma_v1",
+          "reason": "Review: Comma placement basics",
+          "skippable": false,
+          "condition": "if comma_usage concept is weak"
+        },
+        {
+          "videoId": "prereq_read_large_v1",
+          "reason": "Review: Reading large numbers",
+          "skippable": false,
+          "condition": "if reading_large concept is weak"
+        },
+        {
+          "videoId": "prereq_grouping_v1",
+          "reason": "Review: Number grouping and periods",
+          "skippable": false,
+          "condition": "if number_patterns concept is weak"
+        },
+        {
+          "videoId": "gr4_systems_v1",
+          "reason": "Start main topic: Indian system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v2",
+          "reason": "International system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v3",
+          "reason": "Comparing both systems",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v4",
+          "reason": "Indian system practice",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v5",
+          "reason": "International system practice",
+          "skippable": true
+        }
+      ]
+    },
+
+    "not_ready": {
+      "scoreRange": [0, 49],
+      "strategy": "prerequisite_focused",
+      "rationale": "Student needs significant review of large numbers and notation before learning number systems",
+      "playlistComposition": {
+        "prerequisiteVideos": 4,
+        "gentleIntroVideos": 2,
+        "coreTopicVideos": 0,
+        "totalVideos": 6
+      },
+      "estimatedTime": 2100,
+      "videoSequence": [
+        {
+          "videoId": "prereq_pv56_v1",
+          "reason": "Foundation: 5-6 digit place values",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_comma_v1",
+          "reason": "Critical: Understanding commas in numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_read_large_v1",
+          "reason": "Essential: Reading large numbers",
+          "skippable": false
+        },
+        {
+          "videoId": "prereq_grouping_v1",
+          "reason": "Important: Number grouping patterns",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v1",
+          "reason": "Gentle intro to Indian system",
+          "skippable": false
+        },
+        {
+          "videoId": "gr4_systems_v2",
+          "reason": "Gentle intro to International system",
+          "skippable": true
+        }
+      ],
+      "postPlaylistAction": {
+        "recommendation": "retake_readiness_assessment",
+        "message": "After watching these prerequisite videos, retake the readiness quiz to check if you're ready to continue with number systems."
+      }
+    }
+  },
+
+  "conceptBasedRemediation": {
+    "description": "Map specific weak concepts to remedial videos",
+    "mapping": {
+      "pv_5digit_6digit": {
+        "conceptName": "Understanding 5-digit and 6-digit place values",
+        "importance": "critical",
+        "videoIds": ["prereq_pv56_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq1", "rq2", "rq3"]
+      },
+      "comma_usage": {
+        "conceptName": "Understanding comma placement in numbers",
+        "importance": "critical",
+        "videoIds": ["prereq_comma_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq4", "rq5", "rq6"]
+      },
+      "reading_large": {
+        "conceptName": "Reading large numbers aloud",
+        "importance": "important",
+        "videoIds": ["prereq_read_large_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq7", "rq8"]
+      },
+      "number_patterns": {
+        "conceptName": "Understanding patterns in number grouping",
+        "importance": "important",
+        "videoIds": ["prereq_grouping_v1"],
+        "minWatchRequired": 1,
+        "questionsTestingThis": ["rq9", "rq10"]
+      }
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "description": "Quick checks during video watching to adjust playlist",
+    "checkpoints": [
+      {
+        "afterVideoId": "gr4_systems_v3",
+        "checkpointName": "Understanding Both Systems",
+        "questions": [
+          {
+            "question": "How is 1,00,000 written in International system?",
+            "options": ["1,00,000", "100,000", "10,000", "1,000,000"],
+            "correctAnswer": 1,
+            "explanation": "1,00,000 (Indian: one lakh) = 100,000 (International: one hundred thousand)."
+          },
+          {
+            "question": "In which system are commas placed every 3 digits?",
+            "options": ["Indian", "International", "Both", "Neither"],
+            "correctAnswer": 1,
+            "explanation": "International system uses commas every 3 digits (3,3,3). Indian uses 3,2,2,2."
+          }
+        ],
+        "ifAllCorrect": {
+          "action": "continue_normally",
+          "message": "Excellent! You understand the differences between both systems."
+        },
+        "ifAllWrong": {
+          "action": "insert_remedial_video",
+          "insertVideoId": "prereq_comma_v1",
+          "reason": "Student struggling with comma patterns"
+        }
+      },
+      {
+        "afterVideoId": "gr4_systems_v5",
+        "checkpointName": "Reading in Both Systems Mastery",
+        "questions": [
+          {
+            "question": "How do you read 5,45,678 in Indian system?",
+            "options": [
+              "Five lakh forty-five thousand six hundred seventy-eight",
+              "Five hundred forty-five thousand six hundred seventy-eight",
+              "Fifty-four lakh five thousand six hundred seventy-eight",
+              "Five thousand four hundred fifty-six seventy-eight"
+            ],
+            "correctAnswer": 0,
+            "explanation": "5,45,678 in Indian system = Five lakh (5,00,000) + forty-five thousand (45,000) + six hundred seventy-eight (678)."
+          }
+        ],
+        "ifCorrect": {
+          "action": "unlock_challenge",
+          "unlockVideoId": "gr4_systems_v7",
+          "reason": "Student ready for crores and larger numbers"
+        },
+        "ifWrong": {
+          "action": "recommend_practice",
+          "message": "Practice reading more numbers in both systems before continuing"
+        }
+      }
+    ]
+  },
+
+  "adaptiveLearningRules": {
+    "skip_ahead": {
+      "trigger": "2 consecutive comprehension checks with 100% score",
+      "action": "Skip conversion video, jump to challenge"
+    },
+    "add_support": {
+      "trigger": "2 consecutive comprehension checks with < 50% score",
+      "action": "Pause main topic, insert prerequisite review on comma patterns"
+    },
+    "suggest_break": {
+      "trigger": "After 4 videos watched in a single session",
+      "action": "Suggest taking a 5-minute break before continuing"
+    },
+    "recommend_practice": {
+      "trigger": "Student completes videos but scores < 70% on checkpoint",
+      "action": "Recommend practicing with parent/teacher reading numbers from newspapers in both systems"
+    },
+    "recommend_retake": {
+      "trigger": "Student in not_ready category completes all prerequisite videos",
+      "action": "Strongly recommend retaking readiness assessment before main content"
+    }
+  },
+
+  "feedbackMessages": {
+    "high_score": {
+      "scoreRange": [90, 100],
+      "message": "Excellent! You understand large numbers and notation well. You're ready to learn about Indian and International number systems. We've created a fast-track playlist with challenge content."
+    },
+    "good_score": {
+      "scoreRange": [80, 89],
+      "message": "Good work! You have the foundation needed. Let's learn how to read and write numbers in both Indian and International systems with complete coverage."
+    },
+    "partial_score": {
+      "scoreRange": [50, 79],
+      "message": "You have some gaps in understanding large numbers or comma usage. Don't worry! We'll start with targeted review videos on the concepts you need."
+    },
+    "low_score": {
+      "scoreRange": [0, 49],
+      "message": "You need to review place values and large numbers first. We've created a playlist focused on building strong foundation in reading and writing large numbers."
+    }
+  },
+
+  "conceptProgressionMap": {
+    "description": "Shows how number system knowledge builds on each other",
+    "progression": [
+      {
+        "level": 1,
+        "concepts": ["5-6 digit place values", "Basic comma usage", "Reading large numbers"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 2,
+        "concepts": ["Number grouping", "Period understanding", "Comma patterns"],
+        "status": "prerequisite",
+        "mustMaster": true
+      },
+      {
+        "level": 3,
+        "concepts": ["Indian system (3,2,2,2)", "Lakhs understanding", "Reading in Indian system"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 4,
+        "concepts": ["International system (3,3,3)", "Millions understanding", "Comparing both systems"],
+        "status": "current_topic",
+        "mustMaster": true
+      },
+      {
+        "level": 5,
+        "concepts": ["Crores (Indian)", "Billions (International)", "Large number applications"],
+        "status": "enrichment",
+        "mustMaster": false
+      }
+    ]
+  },
+
+  "successMetrics": {
+    "playlistCompletion": {
+      "target": 85,
+      "description": "% of students who watch >= 80% of recommended videos"
+    },
+    "practiceQuizPassRate": {
+      "target": 85,
+      "description": "% of students who score >= 75% on practice quiz after watching playlist"
+    },
+    "videoRelevanceRating": {
+      "target": 4.3,
+      "description": "Average student rating (out of 5) for playlist helpfulness"
+    },
+    "timeToMastery": {
+      "target": 40,
+      "description": "Average minutes from readiness quiz to practice quiz pass"
+    },
+    "systemRecognition": {
+      "target": 90,
+      "description": "% of students who can correctly identify which system a number is written in"
+    },
+    "readingAccuracy": {
+      "target": 85,
+      "description": "% of students who can correctly read numbers in both systems"
+    }
+  },
+
+  "implementationNotes": {
+    "algorithmVersion": "1.0",
+    "testingStatus": "Ready for pilot testing",
+    "recommendedValidation": "Test with 15-20 Grade 4 students across all readiness levels",
+    "expectedOutcomes": {
+      "excellent_students": "Complete in 35-40 minutes with 90-100% practice quiz score",
+      "ready_students": "Complete in 35-40 minutes with 80-90% practice quiz score",
+      "partial_students": "Complete in 45-50 minutes with 70-80% practice quiz score (after prerequisite review)",
+      "not_ready_students": "Require prerequisite review (35 min) + retake + main content (25 min) = 60-70 total minutes, expected 60-75% on practice quiz"
+    },
+    "commonChallenges": {
+      "challenge1": "Students confusing the comma patterns between the two systems",
+      "solution1": "Emphasize memory aids: Indian = 3,2,2,2 (first 3, then 2s); International = 3,3,3 (always 3s). Practice identifying which system a number uses",
+      "challenge2": "Students mixing terminology (using 'lakh' with International commas)",
+      "solution2": "Teach that terminology goes with system: Indian commas → lakhs/crores; International commas → thousands/millions",
+      "challenge3": "Students not understanding that both systems represent the same values",
+      "solution3": "Show conversions and equivalences repeatedly: 1 lakh = 100,000; 10 lakhs = 1 million. Use real-world examples"
+    }
+  }
+}

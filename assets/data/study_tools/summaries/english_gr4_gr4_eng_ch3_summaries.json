@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_eng_ch3",
+  "subjectId": "english_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_e3_v1",
+      "videoId": "gr4_e3_v1",
+      "content": "This lesson introduces adjectives — the describing words of English. Adjectives tell us more about nouns by describing their size, colour, shape, number, or quality. For example, in 'a tall tree', the word 'tall' is the adjective describing the noun 'tree'. Adjectives make our sentences more interesting and help the reader or listener picture exactly what we mean.",
+      "keyPoints": [
+        "Adjectives are describing words",
+        "They tell us about size, colour, shape, and quality",
+        "Adjectives usually come before the noun they describe",
+        "They make sentences more vivid and interesting"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e3_v2",
+      "videoId": "gr4_e3_v2",
+      "content": "Learn how to spot adjectives in a sentence. An adjective can appear right before the noun it describes (like 'a happy child') or after linking words like 'is', 'was', and 'are' (like 'The child is happy'). A single noun can have more than one adjective. For example, 'a big, round, red ball' uses three adjectives to paint a clear picture.",
+      "keyPoints": [
+        "Adjectives come before a noun or after is/was/are",
+        "Ask 'What kind?', 'How many?', or 'Which one?' to find adjectives",
+        "Multiple adjectives can describe the same noun",
+        "Adjectives of quality describe what something is like"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e3_v3",
+      "videoId": "gr4_e3_v3",
+      "content": "This lesson covers the three degrees of comparison. The positive degree is the simple form used when no comparison is made (tall). The comparative degree is used to compare two things by adding -er or using 'more' (taller, more colourful). The superlative degree compares three or more things by adding -est or using 'most' (tallest, most colourful). Some adjectives are irregular and change completely, like good-better-best and bad-worse-worst.",
+      "keyPoints": [
+        "Positive degree: the base form — tall, kind, beautiful",
+        "Comparative degree: comparing two — taller, more beautiful",
+        "Superlative degree: comparing three or more — tallest, most beautiful",
+        "Irregular adjectives like good/better/best do not follow the -er/-est rule"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_e3_v4",
+      "videoId": "gr4_e3_v4",
+      "content": "Practice using adjectives in your own writing and speaking. Adjectives help you describe the world around you clearly. Instead of saying 'I saw a dog', you could say 'I saw a large, fluffy, brown dog'. When comparing, remember short adjectives get -er and -est, while longer adjectives use 'more' and 'most'. Watch out for irregular ones that change completely!",
+      "keyPoints": [
+        "Use adjectives to make your writing clearer",
+        "Short adjectives: add -er (comparative) and -est (superlative)",
+        "Long adjectives: use 'more' (comparative) and 'most' (superlative)",
+        "Always check for irregular adjectives before adding -er or -est"
+      ],
+      "source": "manual"
+    }
+  ]
+}

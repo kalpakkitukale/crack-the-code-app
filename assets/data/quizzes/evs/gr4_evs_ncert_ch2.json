@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_evs_ncert_ch2",
+    "level": "chapter",
+    "entityId": "gr4_evs_ncert_ch2",
+    "title": "Ear to Ear - Chapter 2 Quiz",
+    "questionIds": ["q_ee_001", "q_ee_002", "q_ee_003", "q_ee_004", "q_ee_005", "q_ee_006", "q_ee_007", "q_ee_008", "q_ee_009", "q_ee_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_ee_001",
+      "questionText": "Which sense organ do we use for hearing?",
+      "questionType": "mcq",
+      "options": ["Eyes", "Nose", "Ears", "Tongue"],
+      "correctAnswer": "C",
+      "explanation": "We use our ears to hear sounds. Ears are the sense organs for hearing.",
+      "hints": ["Think about which body part helps you hear music"],
+      "difficulty": "basic",
+      "conceptTags": ["senses", "ears", "hearing"],
+      "topicIds": ["gr4_evs_2_1"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_002",
+      "questionText": "All people look:",
+      "questionType": "mcq",
+      "options": ["Exactly the same", "Different from each other", "Like robots", "Like their pets"],
+      "correctAnswer": "B",
+      "explanation": "Every person looks different - different faces, hair, eyes, skin color. This makes each person unique!",
+      "hints": ["Look at your classmates - do they all look the same?"],
+      "difficulty": "basic",
+      "conceptTags": ["diversity", "faces", "differences"],
+      "topicIds": ["gr4_evs_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_003",
+      "questionText": "True or False: Twins always look exactly the same.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "B",
+      "explanation": "False! Even identical twins have some differences. And many twins are not identical at all - they can look quite different.",
+      "hints": ["Think about twins you might know"],
+      "difficulty": "basic",
+      "conceptTags": ["twins", "similarities", "differences"],
+      "topicIds": ["gr4_evs_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_004",
+      "questionText": "What helps us recognize our friends and family?",
+      "questionType": "mcq",
+      "options": ["Their clothes only", "Their face features", "Their phone number", "Their address"],
+      "correctAnswer": "B",
+      "explanation": "We recognize people by their face features - shape of eyes, nose, smile, face shape, etc.",
+      "hints": ["What do you look at when you see someone?"],
+      "difficulty": "basic",
+      "conceptTags": ["recognition", "faces", "features"],
+      "topicIds": ["gr4_evs_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_005",
+      "questionText": "Some people cannot hear. They are called:",
+      "questionType": "mcq",
+      "options": ["Blind", "Deaf", "Dumb", "Lame"],
+      "correctAnswer": "B",
+      "explanation": "People who cannot hear are called deaf. They often use sign language to communicate.",
+      "hints": ["The word starts with 'D'"],
+      "difficulty": "basic",
+      "conceptTags": ["hearing", "deaf", "disability"],
+      "topicIds": ["gr4_evs_2_3"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_006",
+      "questionText": "How do deaf people communicate with others?",
+      "questionType": "mcq",
+      "options": ["By shouting loudly", "By sign language", "They cannot communicate", "By closing their eyes"],
+      "correctAnswer": "B",
+      "explanation": "Deaf people use sign language - hand movements and gestures - to communicate. Some also read lips.",
+      "hints": ["Think about using hands to talk"],
+      "difficulty": "basic",
+      "conceptTags": ["sign language", "communication", "deaf"],
+      "topicIds": ["gr4_evs_2_3"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_007",
+      "questionText": "Which features can be different in people?",
+      "questionType": "mcq",
+      "options": ["Only hair color", "Only eye color", "Hair, eyes, nose, skin, height", "None - everyone is the same"],
+      "correctAnswer": "C",
+      "explanation": "People differ in many features - hair color and type, eye color, nose shape, skin color, height, and more.",
+      "hints": ["Think about all the ways people can look different"],
+      "difficulty": "basic",
+      "conceptTags": ["diversity", "features", "differences"],
+      "topicIds": ["gr4_evs_2_2"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_008",
+      "questionText": "True or False: It's okay that people look different from each other.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Differences make us unique and special. We should respect and celebrate diversity.",
+      "hints": ["Think about how boring it would be if everyone looked the same"],
+      "difficulty": "basic",
+      "conceptTags": ["diversity", "acceptance", "respect"],
+      "topicIds": ["gr4_evs_2_3"],
+      "points": 1
+    },
+    {
+      "id": "q_ee_009",
+      "questionText": "Why do children often look similar to their parents?",
+      "questionType": "mcq",
+      "options": ["They wear the same clothes", "They eat the same food", "They get features from their parents", "They go to the same school"],
+      "correctAnswer": "C",
+      "explanation": "Children inherit features from their parents - like eye color, hair type, face shape. This is why families often look similar.",
+      "hints": ["Think about what you got from your mom or dad"],
+      "difficulty": "intermediate",
+      "conceptTags": ["heredity", "family", "features"],
+      "topicIds": ["gr4_evs_2_2"],
+      "points": 2
+    },
+    {
+      "id": "q_ee_010",
+      "questionText": "A hearing aid helps people who:",
+      "questionType": "mcq",
+      "options": ["Cannot see", "Have difficulty hearing", "Cannot walk", "Have stomach pain"],
+      "correctAnswer": "B",
+      "explanation": "A hearing aid is a small device worn in or behind the ear that helps people who have difficulty hearing.",
+      "hints": ["The name tells you what it helps with"],
+      "difficulty": "basic",
+      "conceptTags": ["hearing aid", "hearing", "assistive device"],
+      "topicIds": ["gr4_evs_2_3"],
+      "points": 1
+    }
+  ]
+}

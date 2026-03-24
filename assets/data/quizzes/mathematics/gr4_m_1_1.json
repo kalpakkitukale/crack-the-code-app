@@ -1,0 +1,240 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_m_1_1",
+    "level": "topic",
+    "entityId": "gr4_m_1_1",
+    "title": "Place Value - Practice Quiz",
+    "questionIds": [
+      "q_pv_001",
+      "q_pv_002",
+      "q_pv_003",
+      "q_pv_004",
+      "q_pv_005",
+      "q_pv_006",
+      "q_pv_007",
+      "q_pv_008"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_pv_001",
+      "questionText": "In the number 4,567, what is the place value of the digit 5?",
+      "questionType": "mcq",
+      "options": [
+        "Ones",
+        "Tens",
+        "Hundreds",
+        "Thousands"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In 4,567, the digit 5 is in the hundreds place. So its place value is 500.",
+      "hints": [
+        "Count the positions from right to left: ones, tens, hundreds...",
+        "The digit 5 is the third digit from the right"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "place_value",
+        "digits",
+        "number_system"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_002",
+      "questionText": "What is the value of 7 in the number 37,254?",
+      "questionType": "mcq",
+      "options": [
+        "7",
+        "70",
+        "700",
+        "7,000"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The digit 7 is in the thousands place, so its value is 7,000.",
+      "hints": [
+        "Look at which place the 7 is in",
+        "Count from right: ones, tens, hundreds, thousands"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "place_value",
+        "thousands"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_003",
+      "questionText": "Which number has 8 in the tens place?",
+      "questionType": "mcq",
+      "options": [
+        "1,842",
+        "8,321",
+        "2,183",
+        "3,218"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In 2,183, counting from right: 3 (ones), 8 (tens), 1 (hundreds), 2 (thousands). The tens place has the digit 8.",
+      "hints": [
+        "The tens place is the second position from the right",
+        "Look for 8 in the second position from right"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "place_value",
+        "tens"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_004",
+      "questionText": "If a number has 6 thousands, 3 hundreds, 0 tens, and 5 ones, what is the number?",
+      "questionType": "mcq",
+      "options": [
+        "6,350",
+        "6,305",
+        "3,605",
+        "5,306"
+      ],
+      "correctAnswer": "B",
+      "explanation": "6 thousands = 6,000, 3 hundreds = 300, 0 tens = 0, 5 ones = 5. Adding these: 6,000 + 300 + 0 + 5 = 6,305",
+      "hints": [
+        "Write each place value separately: 6,000 + 300 + 0 + 5",
+        "Combine all the values together"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "place_value",
+        "number_formation"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_005",
+      "questionText": "How many tens are in the number 5,432?",
+      "questionType": "mcq",
+      "options": [
+        "2",
+        "3",
+        "32",
+        "543"
+      ],
+      "correctAnswer": "D",
+      "explanation": "To find how many tens are in 5,432, we divide by 10: 5,432 ÷ 10 = 543.2, which means there are 543 complete tens.",
+      "hints": [
+        "This is asking for total tens, not just the tens digit",
+        "Divide the number by 10"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "place_value",
+        "division"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_006",
+      "questionText": "Which digit is in the thousands place in 89,765?",
+      "questionType": "mcq",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Counting from the right: 5 (ones), 6 (tens), 7 (hundreds), 9 (thousands). The thousands place has the digit 9.",
+      "hints": [
+        "Count positions from right to left",
+        "The thousands place is the 4th position from the right"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "place_value",
+        "thousands"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_007",
+      "questionText": "What is 45,000 + 3,000 + 200 + 90 + 6?",
+      "questionType": "mcq",
+      "options": [
+        "48,296",
+        "45,396",
+        "48,396",
+        "45,296"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Adding all the values: 45,000 + 3,000 = 48,000, then 48,000 + 200 = 48,200, then 48,200 + 90 = 48,290, finally 48,290 + 6 = 48,296",
+      "hints": [
+        "Add the numbers step by step",
+        "Start with the thousands: 45,000 + 3,000"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "place_value",
+        "addition",
+        "expanded_form"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_pv_008",
+      "questionText": "If you add 1,000 to the number 23,456, which digit will change?",
+      "questionType": "mcq",
+      "options": [
+        "The ones digit (6)",
+        "The tens digit (5)",
+        "The hundreds digit (4)",
+        "The thousands digit (3)"
+      ],
+      "correctAnswer": "D",
+      "explanation": "When we add 1,000 to 23,456, we get 24,456. Only the thousands digit changes from 3 to 4.",
+      "hints": [
+        "Adding 1,000 affects the thousands place",
+        "23,456 + 1,000 = ?"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "place_value",
+        "addition"
+      ],
+      "topicIds": [
+        "gr4_m_1_1"
+      ],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

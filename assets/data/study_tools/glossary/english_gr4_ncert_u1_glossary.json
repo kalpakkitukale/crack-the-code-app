@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_eng_ncert_u1",
+  "subjectId": "english_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_eng_1_001",
+      "term": "Alarm Clock",
+      "definition": "A clock that can be set to ring or buzz at a chosen time to wake someone up.",
+      "pronunciation": "uh-LAHRM KLOK",
+      "exampleUsage": "Neha set her alarm clock to ring at 6 o'clock every morning.",
+      "difficulty": "easy",
+      "relatedTerms": ["clock", "time", "morning"]
+    },
+    {
+      "id": "gls_eng_1_002",
+      "term": "Punctual",
+      "definition": "Arriving or doing something at the expected or correct time; not late.",
+      "pronunciation": "PUNK-choo-ul",
+      "exampleUsage": "After getting an alarm clock, Neha became very punctual for school.",
+      "difficulty": "medium",
+      "relatedTerms": ["on time", "discipline", "routine"]
+    },
+    {
+      "id": "gls_eng_1_003",
+      "term": "Dawn",
+      "definition": "The early morning time when the sun begins to rise and light appears in the sky.",
+      "pronunciation": "DAWN",
+      "exampleUsage": "The birds start singing at dawn when the sky turns pink and orange.",
+      "difficulty": "easy",
+      "relatedTerms": ["sunrise", "morning", "daybreak"]
+    },
+    {
+      "id": "gls_eng_1_004",
+      "term": "Bloom",
+      "definition": "When a flower opens its petals and shows its full beauty; to blossom.",
+      "pronunciation": "BLOOM",
+      "exampleUsage": "The flowers bloom in the morning and fill the garden with colour.",
+      "difficulty": "easy",
+      "relatedTerms": ["blossom", "flower", "petal"]
+    },
+    {
+      "id": "gls_eng_1_005",
+      "term": "Sentence",
+      "definition": "A group of words arranged in order that makes complete sense. It starts with a capital letter and ends with a full stop, question mark, or exclamation mark.",
+      "pronunciation": "SEN-tens",
+      "exampleUsage": "'Neha wakes up early.' is a complete sentence.",
+      "difficulty": "easy",
+      "relatedTerms": ["subject", "predicate", "phrase"]
+    },
+    {
+      "id": "gls_eng_1_006",
+      "term": "Subject",
+      "definition": "The part of a sentence that tells us who or what the sentence is about.",
+      "pronunciation": "SUB-jekt",
+      "exampleUsage": "In the sentence 'The bird sings,' the subject is 'The bird.'",
+      "difficulty": "medium",
+      "relatedTerms": ["predicate", "noun", "sentence"]
+    },
+    {
+      "id": "gls_eng_1_007",
+      "term": "Predicate",
+      "definition": "The part of a sentence that tells us what the subject does or is.",
+      "pronunciation": "PRED-ih-kit",
+      "exampleUsage": "In the sentence 'Neha wakes up early,' the predicate is 'wakes up early.'",
+      "difficulty": "medium",
+      "relatedTerms": ["subject", "verb", "sentence"]
+    },
+    {
+      "id": "gls_eng_1_008",
+      "term": "Rhyme",
+      "definition": "Words that have the same ending sound. Poems often use rhyming words to sound musical.",
+      "pronunciation": "RYME",
+      "exampleUsage": "In poems, words like 'sun' and 'fun' rhyme because they end with the same sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["poem", "verse", "rhythm"]
+    },
+    {
+      "id": "gls_eng_1_009",
+      "term": "Breeze",
+      "definition": "A gentle, light wind that feels pleasant on the skin.",
+      "pronunciation": "BREEZ",
+      "exampleUsage": "The cool morning breeze made Neha feel fresh after she woke up.",
+      "difficulty": "easy",
+      "relatedTerms": ["wind", "air", "gust"]
+    },
+    {
+      "id": "gls_eng_1_010",
+      "term": "Routine",
+      "definition": "A set of activities that you do regularly in the same order, like your morning habits.",
+      "pronunciation": "roo-TEEN",
+      "exampleUsage": "Neha's morning routine includes waking up, brushing her teeth, and having breakfast.",
+      "difficulty": "medium",
+      "relatedTerms": ["habit", "schedule", "discipline"]
+    }
+  ]
+}

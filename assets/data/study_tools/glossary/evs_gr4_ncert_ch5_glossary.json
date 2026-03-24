@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch5",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_5_001",
+      "term": "Nectar",
+      "definition": "A sweet, sugary liquid produced by flowers to attract bees and other insects for pollination.",
+      "pronunciation": "NEK-ter",
+      "exampleUsage": "The bee drank nectar from the sunflower and flew back to the hive.",
+      "difficulty": "easy",
+      "relatedTerms": ["flower", "honey"]
+    },
+    {
+      "id": "gls_evs_5_002",
+      "term": "Pollen",
+      "definition": "A fine yellow powder found inside flowers. It needs to be carried to other flowers for plants to make seeds and fruits.",
+      "pronunciation": "POL-en",
+      "exampleUsage": "Pollen stuck to the bee's legs as it landed on the flower.",
+      "difficulty": "easy",
+      "relatedTerms": ["flower", "pollination"]
+    },
+    {
+      "id": "gls_evs_5_003",
+      "term": "Pollination",
+      "definition": "The process of carrying pollen from one flower to another, helping plants produce fruits and seeds. Bees are important pollinators.",
+      "pronunciation": "pol-ih-NAY-shun",
+      "exampleUsage": "Without pollination by bees, many fruits would not grow.",
+      "difficulty": "medium",
+      "relatedTerms": ["pollen", "bees", "flowers"]
+    },
+    {
+      "id": "gls_evs_5_004",
+      "term": "Beehive",
+      "definition": "The home of a honeybee colony, made of wax. It contains thousands of hexagonal cells for storing honey and raising baby bees.",
+      "pronunciation": "BEE-hyv",
+      "exampleUsage": "The beekeeper carefully opened the beehive to collect honey.",
+      "difficulty": "easy",
+      "relatedTerms": ["honeycomb", "colony"]
+    },
+    {
+      "id": "gls_evs_5_005",
+      "term": "Honeycomb",
+      "definition": "A structure of tiny six-sided wax cells inside a beehive where honey is stored and baby bees grow.",
+      "pronunciation": "HUN-ee-kohm",
+      "exampleUsage": "The honeycomb was full of golden honey ready to be harvested.",
+      "difficulty": "easy",
+      "relatedTerms": ["beehive", "beeswax"]
+    },
+    {
+      "id": "gls_evs_5_006",
+      "term": "Queen Bee",
+      "definition": "The single female bee in a hive that lays all the eggs. She is the largest bee and mother of all the bees in the colony.",
+      "pronunciation": "KWEEN BEE",
+      "exampleUsage": "The queen bee can lay up to 2,000 eggs in one day.",
+      "difficulty": "easy",
+      "relatedTerms": ["hive", "worker bee"]
+    },
+    {
+      "id": "gls_evs_5_007",
+      "term": "Worker Bee",
+      "definition": "Female bees that do all the work in the hive - collecting nectar, making honey, feeding babies, guarding the hive, and cleaning.",
+      "pronunciation": "WUR-ker BEE",
+      "exampleUsage": "Worker bees fly from flower to flower collecting nectar all day.",
+      "difficulty": "easy",
+      "relatedTerms": ["hive", "nectar"]
+    },
+    {
+      "id": "gls_evs_5_008",
+      "term": "Apiculture",
+      "definition": "The practice of keeping bees in special boxes to collect honey and beeswax. Also called beekeeping.",
+      "pronunciation": "AY-pih-kul-chur",
+      "exampleUsage": "Many farmers in India practise apiculture to earn extra income.",
+      "difficulty": "medium",
+      "relatedTerms": ["beekeeping", "honey"]
+    },
+    {
+      "id": "gls_evs_5_009",
+      "term": "Beeswax",
+      "definition": "A natural wax produced by bees to build honeycomb cells. Used by people to make candles, lip balms, and polish.",
+      "pronunciation": "BEEZ-waks",
+      "exampleUsage": "The candle was made from natural beeswax collected from the hive.",
+      "difficulty": "easy",
+      "relatedTerms": ["honeycomb", "candle"]
+    },
+    {
+      "id": "gls_evs_5_010",
+      "term": "Colony",
+      "definition": "A large group of bees that live and work together in a single hive. A colony can have 20,000 to 60,000 bees.",
+      "pronunciation": "KOL-uh-nee",
+      "exampleUsage": "The entire colony works together to protect the queen and make honey.",
+      "difficulty": "easy",
+      "relatedTerms": ["hive", "group"]
+    }
+  ]
+}

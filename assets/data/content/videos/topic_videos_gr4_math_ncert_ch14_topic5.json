@@ -1,0 +1,214 @@
+{
+  "playlistId": "playlist_gr4_mn14_t5",
+  "topicId": "gr4_mn_14_5",
+  "topicName": "Reading and Interpreting Data",
+  "chapterId": "gr4_math_ncert_ch14",
+  "chapterName": "Data Handling",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "totalDuration": 2370,
+    "totalDurationDisplay": "39:30",
+    "difficulty": "intermediate",
+    "estimatedCompletionTime": "45-55 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_14_1", "gr4_mn_14_2", "gr4_mn_14_3", "gr4_mn_14_4"],
+    "followUpTopics": []
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn14_v6",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Reading and Interpreting Data | Answering Questions from Graphs",
+      "description": "Learn how to answer questions by reading data from pictographs and bar graphs. Compare categories, find totals, and discover which item has the most or least!",
+      "youtubeId": "R7dPHFmIxCE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R7dPHFmIxCE",
+      "thumbnailUrl": "https://img.youtube.com/vi/R7dPHFmIxCE/hqdefault.jpg",
+      "duration": 540,
+      "durationDisplay": "9:00",
+      "channelName": "Math & Learning Videos 4 Kids",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 950000,
+      "tags": ["interpreting data", "reading graphs", "comparing data", "most", "least", "total"],
+      "learningObjectives": ["Read data values from graphs", "Answer questions based on graph data", "Find totals and differences from graphs"],
+      "keyConceptsCovered": ["Reading graph values", "Answering 'how many' questions", "Finding totals from graphs"],
+      "prerequisites": ["Pictographs", "Bar graphs"],
+      "followUpTopics": ["Drawing conclusions from data", "Multi-step graph problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v4",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "Bar Graphs for Kids | How to Read and Draw Bar Graphs",
+      "description": "Practice reading bar graphs and answering interpretation questions. Which bar is tallest? How much more is one category than another? What is the total?",
+      "youtubeId": "HpMXRpXJhlo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HpMXRpXJhlo",
+      "thumbnailUrl": "https://img.youtube.com/vi/HpMXRpXJhlo/hqdefault.jpg",
+      "duration": 510,
+      "durationDisplay": "8:30",
+      "channelName": "Math Antics",
+      "channelId": "UCaaiqznuT46ZQLk2WZigjJg",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 3100000,
+      "tags": ["bar graph reading", "graph interpretation", "comparing bars", "data questions"],
+      "learningObjectives": ["Compare bar heights to answer questions", "Calculate differences between categories", "Identify the tallest and shortest bars"],
+      "keyConceptsCovered": ["Comparing bar heights", "Finding differences", "Identifying maximum and minimum"],
+      "prerequisites": ["Bar graph basics"],
+      "followUpTopics": ["Multi-step data problems"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v3",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "must_watch",
+      "title": "Pictographs for Kids | Reading and Making Picture Graphs",
+      "description": "Practice interpreting pictograph data. Answer questions like: How many more children chose mango than apple? What is the total number of votes? Which category got the fewest?",
+      "youtubeId": "Gn2pdkvdbGQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Gn2pdkvdbGQ",
+      "thumbnailUrl": "https://img.youtube.com/vi/Gn2pdkvdbGQ/hqdefault.jpg",
+      "duration": 480,
+      "durationDisplay": "8:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2200000,
+      "tags": ["pictograph interpretation", "data questions", "comparing categories", "graph reading"],
+      "learningObjectives": ["Answer interpretation questions from pictographs", "Compare categories in pictographs", "Solve multi-step pictograph problems"],
+      "keyConceptsCovered": ["Pictograph interpretation", "Category comparison", "Multi-step data questions"],
+      "prerequisites": ["Pictograph basics"],
+      "followUpTopics": ["Drawing conclusions"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch14_comparison_v1",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "recommended",
+      "title": "More, Less, Most, Least | Comparison Words for Kids",
+      "description": "Strengthen your comparison skills for data interpretation. Practice answering 'how many more', 'how many fewer', 'which is most popular', and 'which is least popular'.",
+      "youtubeId": "DnEqMEoGz50",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DnEqMEoGz50",
+      "thumbnailUrl": "https://img.youtube.com/vi/DnEqMEoGz50/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 980000,
+      "tags": ["comparison", "data vocabulary", "more", "fewer", "most popular", "least popular"],
+      "learningObjectives": ["Use comparison language with data", "Answer 'how many more/fewer' questions", "Identify most and least popular categories"],
+      "keyConceptsCovered": ["Comparison in data context", "Difference questions", "Ranking categories"],
+      "prerequisites": ["Basic comparison"],
+      "followUpTopics": ["Complex data analysis"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn14_v5",
+      "sequenceNumber": 5,
+      "type": "challenge",
+      "importance": "optional",
+      "title": "Making Bar Graphs from Data Tables | Step by Step",
+      "description": "Challenge: Read data from a graph, answer questions, and then create a new graph from the interpreted data. Can you collect, organise, and present data all by yourself?",
+      "youtubeId": "vuxTnBqMbC0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vuxTnBqMbC0",
+      "thumbnailUrl": "https://img.youtube.com/vi/vuxTnBqMbC0/hqdefault.jpg",
+      "duration": 450,
+      "durationDisplay": "7:30",
+      "channelName": "Khan Academy",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1400000,
+      "tags": ["data challenge", "graph creation", "interpretation", "complete data cycle"],
+      "learningObjectives": ["Complete the full data handling cycle", "Read, interpret, and re-present data", "Solve challenging data problems independently"],
+      "keyConceptsCovered": ["Full data handling cycle", "From interpretation to creation", "Independent graph work"],
+      "prerequisites": ["All previous data handling topics"],
+      "followUpTopics": ["Next chapter topics"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn14_v6", "gr4_mn14_v4", "gr4_mn14_v3", "prereq_ch14_comparison_v1", "gr4_mn14_v5"],
+      "totalVideos": 5,
+      "estimatedTime": 2340,
+      "estimatedTimeDisplay": "39:00",
+      "rationale": "Complete data interpretation with challenge for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn14_v6", "gr4_mn14_v4", "gr4_mn14_v3", "prereq_ch14_comparison_v1"],
+      "totalVideos": 4,
+      "estimatedTime": 1890,
+      "estimatedTimeDisplay": "31:30",
+      "rationale": "Complete data interpretation coverage"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch14_comparison_v1", "gr4_mn14_v6", "gr4_mn14_v4"],
+      "totalVideos": 3,
+      "estimatedTime": 1410,
+      "estimatedTimeDisplay": "23:30",
+      "rationale": "Start with comparison review, then graph interpretation"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn14_v6", "gr4_mn14_v4"],
+      "totalVideos": 2,
+      "estimatedTime": 1050,
+      "estimatedTimeDisplay": "17:30",
+      "rationale": "Essential data interpretation only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn14_v4",
+      "checkpointName": "Data Interpretation Check",
+      "questions": [
+        {
+          "question": "A bar graph shows: Cricket = 15 children, Football = 10 children, Kabaddi = 5 children. How many more children like cricket than kabaddi?",
+          "options": ["5", "10", "15", "20"],
+          "correctAnswer": 1,
+          "explanation": "Cricket has 15 children and Kabaddi has 5 children. The difference is 15 - 5 = 10. So 10 more children like cricket than kabaddi."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Give students printed graphs and a set of questions to answer. Progress from simple 'how many' questions to comparison and total questions. Encourage students to frame their own questions.",
+    "parentGuidance": "Show your child simple graphs from newspapers or magazines and ask them questions. 'Which bar is tallest? How many more chose this than that?'",
+    "studentGuidance": "Reading data is like being a detective! Look at the graph carefully, find the values, and use addition and subtraction to answer questions. Always check your work!"
+  }
+}

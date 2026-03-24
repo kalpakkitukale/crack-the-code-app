@@ -1,0 +1,102 @@
+{
+  "videoSetId": "prereq_gr4_ncert_ch4",
+  "purpose": "Prerequisite videos for Grade 4 Chapter 4: Thousands Around Us",
+  "targetTopicId": "gr4_mn_4_1",
+  "description": "Videos covering prerequisite concepts: 3-digit place value, counting to 1000, comparing 3-digit numbers",
+
+  "videos": [
+    {
+      "id": "prereq_ch4_placevalue_v1",
+      "conceptId": "pv_3digit",
+      "type": "concept_review",
+      "title": "3-Digit Place Value Review",
+      "description": "Review place value for 3-digit numbers. Understand the ones, tens, and hundreds places and how each digit's position determines its value.",
+      "youtubeId": "pFTe7HKZJc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pFTe7HKZJc0",
+      "thumbnailUrl": "https://img.youtube.com/vi/pFTe7HKZJc0/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1400000,
+      "tags": ["place value", "3-digit numbers", "ones", "tens", "hundreds", "review"],
+      "learningObjectives": [
+        "Identify the ones, tens, and hundreds place in a 3-digit number",
+        "State the value of each digit based on its position",
+        "Write 3-digit numbers in expanded form"
+      ],
+      "prerequisites": ["Counting to 100", "2-digit place value"],
+      "followUpTopics": ["4-digit place value", "5-digit place value"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch4_counting_v1",
+      "conceptId": "counting_1000",
+      "type": "concept_review",
+      "title": "Counting to 1000",
+      "description": "Learn to count up to 1000 by ones, tens, and hundreds. Understand what happens after 999 and how we build larger numbers from smaller groups.",
+      "youtubeId": "VemlN2L_-2w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VemlN2L_-2w",
+      "thumbnailUrl": "https://img.youtube.com/vi/VemlN2L_-2w/hqdefault.jpg",
+      "duration": 300,
+      "durationDisplay": "5:00",
+      "channelName": "Jack Hartmann Kids Music Channel",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 2200000,
+      "tags": ["counting", "counting to 1000", "skip counting", "hundreds"],
+      "learningObjectives": [
+        "Count forward and backward within 1000",
+        "Skip count by 10s and 100s to 1000",
+        "Understand the transition from hundreds to thousands"
+      ],
+      "prerequisites": ["Counting to 100"],
+      "followUpTopics": ["Counting beyond 1000", "Place value of 4-digit numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch4_comparison_v1",
+      "conceptId": "number_comparison",
+      "type": "concept_introduction",
+      "title": "Comparing 3-Digit Numbers",
+      "description": "Learn to compare 3-digit numbers using greater than, less than, and equal to. Start from the hundreds place and work your way down to compare numbers correctly.",
+      "youtubeId": "c8_zQmgmR0E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c8_zQmgmR0E",
+      "thumbnailUrl": "https://img.youtube.com/vi/c8_zQmgmR0E/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "UCsNdlUHmPGkBwiYHZSrSuSg",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 870000,
+      "tags": ["comparing numbers", "3-digit comparison", "greater than", "less than", "equal to"],
+      "learningObjectives": [
+        "Compare two 3-digit numbers using >, <, and =",
+        "Use place value to determine which number is greater",
+        "Arrange 3-digit numbers in order"
+      ],
+      "prerequisites": ["3-digit place value", "Understanding of greater and less"],
+      "followUpTopics": ["Comparing 4-digit numbers", "Ordering large numbers"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "Review 3-digit place value, counting to 1000, and comparing 3-digit numbers before learning about thousands and 5-digit numbers in Chapter 4",
+    "recommendationStrategy": "Select videos based on weak concepts identified in readiness assessment",
+    "sequencing": "3-digit place value -> Counting to 1000 -> Comparing 3-digit numbers (builds foundational understanding for working with larger numbers)"
+  }
+}

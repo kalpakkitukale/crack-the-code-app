@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_h1_v1",
+      "videoId": "gr4_h1_v1",
+      "content": "This video introduces the Hindi Varnamala (alphabet). The Hindi alphabet is called Varnamala, where 'Varna' means letter and 'Mala' means garland. It is written in the Devanagari script. The Varnamala has two main parts: Swar (vowels) and Vyanjan (consonants). Students learn that Hindi has 11 Swar and 33 Vyanjan, making a total of 44 main letters. The video also explains that Hindi is written from left to right with a line on top called Shirorekha.",
+      "keyPoints": [
+        "Varnamala means the garland of letters - the Hindi alphabet",
+        "Hindi is written in the Devanagari script from left to right",
+        "Varnamala has two parts: Swar (vowels) and Vyanjan (consonants)",
+        "There are 11 Swar and 33 Vyanjan in Hindi"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_h1_v2",
+      "videoId": "gr4_h1_v2",
+      "content": "This video focuses on Swar (vowels). Swar are sounds that can be spoken on their own without any help from a consonant. The 11 Swar are: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ. Students learn the difference between Hrasva Swar (short vowels: अ, इ, उ, ऋ) and Deergha Swar (long vowels: आ, ई, ऊ, ए, ऐ, ओ, औ). The video also introduces Matra, the vowel signs used when Swar combine with Vyanjan.",
+      "keyPoints": [
+        "Swar (vowels) can be spoken on their own without help",
+        "There are 11 Swar in Hindi: अ आ इ ई उ ऊ ऋ ए ऐ ओ औ",
+        "Hrasva Swar (short) take less time; Deergha Swar (long) take more time",
+        "Matra are the signs of Swar that attach to consonants"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_h1_v3",
+      "videoId": "gr4_h1_v3",
+      "content": "This video teaches Vyanjan (consonants). Vyanjan are letters that need the help of a Swar to be pronounced. The 33 Vyanjan are organized into groups called Varg. There are five Varg: Ka-varg (क ख ग घ ङ), Cha-varg (च छ ज झ ञ), Ta-varg (ट ठ ड ढ ण), Ta-varg (त थ द ध न), and Pa-varg (प फ ब भ म). After these 25 Varg letters, there are 8 more: Antastha Vyanjan (य र ल व) and Ushma Vyanjan (श ष स ह).",
+      "keyPoints": [
+        "Vyanjan (consonants) need a Swar to be spoken",
+        "33 Vyanjan are divided into 5 Varg of 5 letters each plus 8 more",
+        "Each Varg is produced from a different part of the mouth",
+        "Antastha (य र ल व) and Ushma (श ष स ह) are special consonant groups"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_h1_v4",
+      "videoId": "gr4_h1_v4",
+      "content": "This video explains how Swar and Vyanjan work together to form words. When a Vyanjan joins with a Swar, the Matra (vowel sign) of that Swar is used. For example, क + ा = का, क + ि = कि. Students practise reading and writing simple words like कमल (lotus), नदी (river), and फूल (flower). The video also introduces Anunasik (ँ) for nasal sounds and Halant (्) for removing the vowel from a consonant.",
+      "keyPoints": [
+        "Vyanjan and Swar combine using Matra to form syllables and words",
+        "Each Swar has its own Matra sign that attaches to a consonant",
+        "Practice reading words: कमल (lotus), नदी (river), फूल (flower)",
+        "Anunasik (ँ) adds a nasal sound; Halant (्) removes the vowel"
+      ],
+      "source": "manual"
+    }
+  ]
+}

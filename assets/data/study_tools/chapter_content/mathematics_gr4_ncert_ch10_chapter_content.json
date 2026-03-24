@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_math_ncert_ch10",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn10",
+    "title": "Elephants, Tigers, and Leopards",
+    "content": "This chapter from the NCERT Maths Mela textbook uses real wildlife data about Indian animals to teach students how to read and interpret tables, compare large numbers, and understand charts and graphs. Students explore data about elephants, tigers, and leopards across different national parks and states. They learn to read data tables, find the highest and lowest values, calculate differences using subtraction, and understand pictographs and bar charts. The chapter also connects math to conservation, showing how wildlife census data helps protect endangered animals through programmes like Project Tiger.",
+    "keyPoints": [
+      "Data tables organise information in rows and columns for easy reading and comparison",
+      "Comparing numbers helps us find which is the most, least, and the difference between them",
+      "Bar charts use bars of different heights to show data visually - taller bars mean bigger numbers",
+      "Pictographs use picture symbols where each symbol represents a fixed number",
+      "Subtraction helps find the increase or decrease in animal populations over time",
+      "Wildlife census data helps conservationists protect endangered animals like tigers and elephants"
+    ],
+    "learningObjectives": [
+      "Read and understand data presented in tables about wildlife",
+      "Compare numbers to find the highest, lowest, and differences",
+      "Read and interpret bar charts and pictographs",
+      "Use addition and subtraction to answer questions from data",
+      "Connect mathematical data interpretation to real-world conservation"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn10_001",
+      "title": "How to Read a Data Table",
+      "content": "Follow these steps to read a data table correctly:\n\n1. Read the title - it tells you what the table is about\n2. Read the column headings - they tell you what each column shows\n3. Read across each row - it gives information about one item\n4. Compare numbers down a column - to find the largest and smallest\n\nExample Table - Tigers in National Parks:\nPark A: 65 | Park B: 40 | Park C: 85 | Park D: 55\n\nMost tigers: Park C (85)\nFewest tigers: Park B (40)\nDifference: 85 - 40 = 45",
+      "tags": ["key-concept", "reference", "study-tip"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn10_002",
+      "title": "India's Amazing Wildlife Numbers",
+      "content": "Here are some real numbers about India's wildlife:\n\n- India has about 27,000 elephants (mostly in Karnataka, Kerala, and Assam)\n- India has about 3,167 tigers (2022 census) - UP from 1,706 in 2010!\n- India has about 13,000 leopards across the country\n- India has 54 tiger reserves and over 100 national parks\n\nThese numbers come from wildlife censuses - big surveys where experts count animals. Project Tiger, started in 1973, has helped India's tiger numbers grow!",
+      "tags": ["real-world", "fun-fact", "conservation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn10_003",
+      "title": "Charts Made Easy",
+      "content": "Two common charts you will see:\n\nBar Chart: Uses bars (rectangles) of different heights.\n- Taller bar = bigger number\n- Look at the scale on the side to read exact values\n- Easy to compare different items side by side\n\nPictograph: Uses pictures or symbols.\n- Each picture stands for a fixed number (like 1 picture = 100 animals)\n- Count the pictures and multiply by the value\n- Example: 5 tiger pictures × 100 = 500 tigers\n\nBoth help us SEE data instead of just reading numbers!",
+      "tags": ["key-concept", "charts", "reference"],
+      "isPinned": false
+    }
+  ]
+}

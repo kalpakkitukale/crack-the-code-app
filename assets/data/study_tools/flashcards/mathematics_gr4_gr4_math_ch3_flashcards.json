@@ -1,0 +1,139 @@
+{
+  "chapterId": "gr4_math_ch3",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_m3_tables",
+      "name": "Multiplication Tables",
+      "description": "Master your multiplication tables and understand how they work",
+      "topicId": "gr4_m_3_1",
+      "chapterId": "gr4_math_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_m3_001",
+          "front": "What does multiplication mean?",
+          "back": "Multiplication is adding the same number again and again. For example, 4 x 3 means adding 4 three times: 4 + 4 + 4 = 12.",
+          "hint": "Think of it as repeated addition",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m3_002",
+          "front": "What is 7 x 8?",
+          "back": "56. A handy trick: 5, 6, 7, 8 — so 56 = 7 x 8!",
+          "hint": "Think of the numbers 5, 6, 7, 8 in order",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m3_003",
+          "front": "Does the order matter in multiplication? Is 3 x 5 the same as 5 x 3?",
+          "back": "Yes, the answer is the same! 3 x 5 = 15 and 5 x 3 = 15. This is called the commutative property.",
+          "hint": "Try both ways — you always get the same answer",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m3_004",
+          "front": "What happens when you multiply any number by 1?",
+          "back": "You get the same number! For example, 9 x 1 = 9. This is called the identity property.",
+          "hint": "Multiplying by 1 doesn't change anything",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m3_005",
+          "front": "What happens when you multiply any number by 0?",
+          "back": "The answer is always 0! For example, 100 x 0 = 0. No matter how big the number, multiplying by zero gives zero.",
+          "hint": "Zero groups of anything is nothing",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m3_longmult",
+      "name": "Long Multiplication",
+      "description": "Learn to multiply bigger numbers step by step",
+      "topicId": "gr4_m_3_2",
+      "chapterId": "gr4_math_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_m3_006",
+          "front": "What is long multiplication?",
+          "back": "A method for multiplying larger numbers by breaking them into smaller parts and solving step by step. For example, 23 x 4 can be split into (20 x 4) + (3 x 4) = 80 + 12 = 92.",
+          "hint": "Break the big number into tens and ones",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m3_007",
+          "front": "What does 'carrying over' mean in multiplication?",
+          "back": "When a product is 10 or more, you write down the ones digit and carry the tens digit to the next column. For example, in 6 x 8 = 48, write 8 and carry 4.",
+          "hint": "It's like regrouping in addition",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m3_008",
+          "front": "Solve: 34 x 5",
+          "back": "170. Step 1: 5 x 4 = 20, write 0 carry 2. Step 2: 5 x 3 = 15, plus the carried 2 = 17. Answer: 170.",
+          "hint": "Start from the ones place and work left",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m3_009",
+          "front": "When multiplying by a two-digit number like 23 x 12, how many rows of multiplication do you need?",
+          "back": "Two rows! First multiply 23 by 2 (ones digit) to get 46. Then multiply 23 by 10 (tens digit) to get 230. Add them together: 46 + 230 = 276.",
+          "hint": "One row for each digit of the bottom number",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m3_010",
+          "front": "What is a quick trick for multiplying by 10?",
+          "back": "Just add a zero at the end! For example, 45 x 10 = 450. Every digit moves one place to the left.",
+          "hint": "The digits shift to the left and a zero fills the gap",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_m3_division",
+      "name": "Division with Remainder",
+      "description": "Understand how division works when things don't split evenly",
+      "topicId": "gr4_m_3_3",
+      "chapterId": "gr4_math_ch3",
+      "cards": [
+        {
+          "id": "card_gr4_m3_011",
+          "front": "What does division mean?",
+          "back": "Division means sharing equally or splitting into equal groups. For example, 12 ÷ 3 = 4 means 12 split into 3 equal groups gives 4 in each group.",
+          "hint": "Think of sharing sweets equally among friends",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_m3_012",
+          "front": "What is a remainder?",
+          "back": "The amount left over when a number cannot be divided equally. For example, 13 ÷ 4 = 3 remainder 1, because 4 x 3 = 12 and 13 - 12 = 1 left over.",
+          "hint": "It's what's left after you share as equally as you can",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_m3_013",
+          "front": "What is the relationship between multiplication and division?",
+          "back": "They are opposites! If 6 x 4 = 24, then 24 ÷ 4 = 6 and 24 ÷ 6 = 4. Knowing your times tables helps you divide faster.",
+          "hint": "Division undoes multiplication",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_m3_014",
+          "front": "Solve: 29 ÷ 5",
+          "back": "5 remainder 4. Because 5 x 5 = 25, and 29 - 25 = 4 left over.",
+          "hint": "What is the biggest multiple of 5 that fits into 29?",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_m3_015",
+          "front": "Can the remainder ever be bigger than the divisor?",
+          "back": "No! The remainder must always be smaller than the divisor. If it's bigger, you can still divide one more time.",
+          "hint": "If you have enough left over, make another group",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

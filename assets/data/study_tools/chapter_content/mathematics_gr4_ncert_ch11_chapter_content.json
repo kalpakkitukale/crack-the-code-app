@@ -1,0 +1,55 @@
+{
+  "chapterId": "gr4_math_ncert_ch11",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_mn11",
+    "title": "Fun with Symmetry",
+    "content": "This chapter from the NCERT Maths Mela textbook introduces students to the beautiful world of symmetry. Students begin by understanding what symmetry means - when one half of a shape is the exact mirror image of the other half. They learn about the line of symmetry (also called the fold line or mirror line) that divides a shape into two matching halves. The chapter explores mirror images and how reflections flip left and right. Students examine symmetry in common shapes like squares, rectangles, triangles, and circles, counting the number of lines of symmetry each one has. Through hands-on activities, they fold and cut paper to create symmetrical shapes and designs. They also learn to complete symmetric figures by drawing the missing half. The chapter connects symmetry to the real world by exploring beautiful examples in nature (butterflies, flowers, leaves), Indian architecture (the Taj Mahal), and art (rangoli, mehndi).",
+    "keyPoints": [
+      "Symmetry means both halves of a shape are matching mirror images",
+      "A line of symmetry divides a shape into two equal halves that overlap when folded",
+      "In a mirror image, left and right sides are swapped",
+      "Different shapes have different numbers of lines of symmetry",
+      "A square has 4, a rectangle has 2, and a circle has unlimited lines of symmetry",
+      "Folding and cutting paper along a fold creates symmetric shapes",
+      "A shape with no line of symmetry is called asymmetrical",
+      "Symmetry is found everywhere in nature, art, and architecture"
+    ],
+    "learningObjectives": [
+      "Understand what symmetry and line of symmetry mean",
+      "Identify lines of symmetry in shapes, letters, and objects",
+      "Understand mirror images and reflections",
+      "Create symmetrical shapes using folding and cutting",
+      "Complete a symmetric figure when given half the shape and the line of symmetry",
+      "Recognise symmetry in nature, art, and everyday life"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_mn11_001",
+      "title": "Paper Folding Symmetry Activity",
+      "content": "Grab a piece of paper and try this fun activity! Fold the paper in half and draw half a heart along the fold. Cut along the line and open the paper - you will get a perfect heart with symmetry! Now try making half a flower, half a star, or half a Christmas tree. Each time, the fold line becomes the line of symmetry and both halves will match exactly. You can even fold the paper into four and cut a small shape near the fold to make a beautiful symmetric pattern like a paper snowflake.",
+      "tags": ["activity", "hands-on-learning"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_mn11_002",
+      "title": "Mirror Test for Symmetry",
+      "content": "Here is a great trick to check symmetry. Take a small mirror and place it along where you think the line of symmetry is. Look at the shape with the mirror - if the reflection in the mirror completes the shape perfectly, you have found a real line of symmetry! Try this with different letters (like A, B, M) and shapes (like a circle, triangle, or star). You can also try holding a mirror next to your face along your nose to see how symmetric your face is!",
+      "tags": ["study-tip", "hands-on-learning"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_mn11_003",
+      "title": "Symmetry Hunt at Home and School",
+      "content": "Go on a symmetry hunt! Walk around your home or school and find at least 10 objects that have symmetry. Some ideas to start: a door, a window, a clock face, a plate, a book cover, the Indian flag, a ceiling fan, spectacles, a flower in the garden, or a rangoli. For each object, figure out how many lines of symmetry it has. Draw the objects in your notebook and mark the lines of symmetry with a dotted line. You will be amazed at how much symmetry is around you!",
+      "tags": ["activity", "real-world"],
+      "isPinned": false
+    }
+  ]
+}

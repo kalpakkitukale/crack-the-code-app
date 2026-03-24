@@ -1,0 +1,167 @@
+{
+  "chapterId": "gr4_evs_ncert_ch11",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "The Valley of Flowers",
+      "description": "A beautiful valley in the Himalayas of Uttarakhand",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#607D8B",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_location",
+      "label": "Location",
+      "description": "Where the valley is found",
+      "parentId": "node_root",
+      "positionX": -250,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_uttarakhand",
+      "label": "Uttarakhand",
+      "description": "In the Chamoli district near Joshimath",
+      "parentId": "node_location",
+      "positionX": -350,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_himalayas",
+      "label": "Himalayas",
+      "description": "At 3,250-3,658 metres above sea level",
+      "parentId": "node_location",
+      "positionX": -200,
+      "positionY": 180,
+      "color": "#8BC34A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_pushpawati",
+      "label": "Pushpawati River",
+      "description": "River of flowers flows through the valley",
+      "parentId": "node_location",
+      "positionX": -275,
+      "positionY": 260,
+      "color": "#8BC34A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_flowers",
+      "label": "Flowers & Plants",
+      "description": "Over 600 species of flowering plants",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#E91E63",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_orchids",
+      "label": "Orchids & Poppies",
+      "description": "Rare Himalayan flower species",
+      "parentId": "node_flowers",
+      "positionX": -50,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_brahmakamal",
+      "label": "Brahma Kamal",
+      "description": "Sacred flower, state flower of Uttarakhand",
+      "parentId": "node_flowers",
+      "positionX": 50,
+      "positionY": 180,
+      "color": "#F06292",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_blooming",
+      "label": "Monsoon Blooming",
+      "description": "Best blooms July to September",
+      "parentId": "node_flowers",
+      "positionX": 0,
+      "positionY": 260,
+      "color": "#F06292",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_wildlife",
+      "label": "Wildlife",
+      "description": "Animals found in and around the valley",
+      "parentId": "node_root",
+      "positionX": 250,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_snow_leopard",
+      "label": "Snow Leopard",
+      "description": "Rare and endangered big cat",
+      "parentId": "node_wildlife",
+      "positionX": 200,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_other_animals",
+      "label": "Musk Deer & Blue Sheep",
+      "description": "Himalayan animals and butterflies",
+      "parentId": "node_wildlife",
+      "positionX": 300,
+      "positionY": 180,
+      "color": "#FFC107",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_conservation",
+      "label": "Conservation",
+      "description": "Protecting the valley",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 340,
+      "color": "#2196F3",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_national_park",
+      "label": "National Park",
+      "description": "Protected area since 1982",
+      "parentId": "node_conservation",
+      "positionX": -200,
+      "positionY": 420,
+      "color": "#03A9F4",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_unesco",
+      "label": "UNESCO Heritage Site",
+      "description": "World Heritage Site for its unique beauty",
+      "parentId": "node_conservation",
+      "positionX": -100,
+      "positionY": 420,
+      "color": "#03A9F4",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_discovery",
+      "label": "Discovery",
+      "description": "Found by Frank Smythe in 1931",
+      "parentId": "node_root",
+      "positionX": 150,
+      "positionY": 340,
+      "color": "#9C27B0",
+      "orderIndex": 15
+    }
+  ]
+}

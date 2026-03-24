@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch2",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en2",
+    "title": "Ear to Ear",
+    "content": "This chapter from the NCERT Looking Around textbook helps students observe and understand facial features. By looking closely at faces around them, children learn that every person has unique features - from the shape of their eyes and nose to the colour of their hair and skin. The chapter highlights that we inherit features from our parents, which is why family members often look similar. It celebrates the diversity of human appearances and teaches children to respect and appreciate how everyone looks different.",
+    "keyPoints": [
+      "Every face has the same basic features but shaped differently",
+      "Eyes, nose, ears, mouth, and hair vary from person to person",
+      "We inherit our features from our parents and grandparents",
+      "Even identical twins have tiny differences",
+      "Special marks like dimples, freckles, and moles add uniqueness",
+      "All differences in appearance are natural and should be respected"
+    ],
+    "learningObjectives": [
+      "Observe and describe different facial features carefully",
+      "Identify similarities and differences between faces",
+      "Understand that features are inherited from parents",
+      "Appreciate the diversity of human appearances",
+      "Develop respect for how everyone looks different"
+    ],
+    "estimatedReadTimeMinutes": 3,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en2_001",
+      "title": "Mirror Activity",
+      "content": "Look at your face carefully in a mirror. Describe the shape of your eyes, your nose, your ears, and your hair. Now compare with a family member. What features are similar? What is different? Draw your own face showing all the details you notice.",
+      "tags": ["activity", "observation"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en2_002",
+      "title": "Family Features Chart",
+      "content": "Make a table with columns for eye colour, hair type (straight/wavy/curly), dimples (yes/no), and earlobe type (attached/free). Fill it in for yourself, your parents, and your grandparents if you can. Can you see which features you got from which parent?",
+      "tags": ["activity", "family"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en2_003",
+      "title": "Respecting Differences",
+      "content": "Remember: everyone looks different and that is beautiful! Never make fun of how someone looks. If someone teases you about your appearance, remember that your features make you special. Talk to a trusted adult if someone is unkind about how you or others look.",
+      "tags": ["values", "respect"],
+      "isPinned": false
+    }
+  ]
+}

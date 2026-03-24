@@ -1,0 +1,293 @@
+{
+  "videoSetId": "playlist_gr4_mn7_t1",
+  "topicId": "gr4_mn_7_1",
+  "topicName": "Math in the Community",
+  "chapterId": "gr4_math_ncert_ch7",
+  "chapterName": "The Cleanest Village",
+  "description": "Main learning videos for understanding how math is used in everyday community and village life",
+
+  "playlistMetadata": {
+    "totalVideos": 5,
+    "estimatedTotalTime": 2280,
+    "difficulty": "basic to intermediate",
+    "targetAudience": "Grade 4 CBSE students",
+    "createdDate": "2026-03-02",
+    "version": "1.0"
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn7_t1_v1",
+      "type": "concept_introduction",
+      "order": 1,
+      "mustWatch": true,
+
+      "title": "Math All Around Us | How Communities Use Numbers",
+      "description": "Discover how communities and villages use math every day - counting people, measuring roads, tracking supplies, and making plans. Math helps us understand our world!",
+
+      "youtubeId": "GrVkpWJmXYg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GrVkpWJmXYg",
+      "thumbnailUrl": "https://img.youtube.com/vi/GrVkpWJmXYg/hqdefault.jpg",
+
+      "duration": 420,
+      "durationDisplay": "7:00",
+
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2800000,
+
+      "tags": ["community math", "real world", "everyday math", "village life", "introduction"],
+
+      "learningObjectives": [
+        "Understand how math is used in everyday community life",
+        "Identify situations where addition and subtraction are needed",
+        "Recognise that data helps communities make decisions"
+      ],
+
+      "prerequisites": ["Addition fluency", "Subtraction fluency"],
+      "followUpTopics": ["Data collection in village life"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "Why do villages and communities need math?",
+            "options": ["Only for school exams", "To count, plan, and make good decisions", "Just for fun"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t1_v2",
+      "type": "concept_deep_dive",
+      "order": 2,
+      "mustWatch": true,
+
+      "title": "Counting and Adding in the Village | Real-Life Addition Stories",
+      "description": "See how villagers use addition every day - counting the total number of trees planted, adding up supplies collected, and finding out how many people helped in a project.",
+
+      "youtubeId": "hRNaKGkfJzE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hRNaKGkfJzE",
+      "thumbnailUrl": "https://img.youtube.com/vi/hRNaKGkfJzE/hqdefault.jpg",
+
+      "duration": 480,
+      "durationDisplay": "8:00",
+
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1600000,
+
+      "tags": ["addition stories", "real life", "village", "counting", "community projects"],
+
+      "learningObjectives": [
+        "Use addition to solve real village problems",
+        "Add 2-digit and 3-digit numbers in context",
+        "Understand that addition finds the total"
+      ],
+
+      "prerequisites": ["Addition of 3-digit numbers"],
+      "followUpTopics": ["Subtraction in village scenarios"],
+
+      "comprehensionCheck": {
+        "afterThisVideo": true,
+        "questions": [
+          {
+            "question": "A village planted 145 flowers on Monday and 230 flowers on Tuesday. How many flowers in total?",
+            "options": ["275", "375", "385"],
+            "correctAnswer": 1
+          }
+        ]
+      },
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t1_v3",
+      "type": "worked_examples",
+      "order": 3,
+      "mustWatch": true,
+
+      "title": "Subtracting in the Village | Finding Differences and What Is Left",
+      "description": "Learn how subtraction is used in village life - finding how many supplies are left, how much more one village collected than another, and how many tasks remain.",
+
+      "youtubeId": "NqLn4FOBT5Y",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NqLn4FOBT5Y",
+      "thumbnailUrl": "https://img.youtube.com/vi/NqLn4FOBT5Y/hqdefault.jpg",
+
+      "duration": 450,
+      "durationDisplay": "7:30",
+
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 1400000,
+
+      "tags": ["subtraction", "finding difference", "village scenarios", "worked examples", "borrowing"],
+
+      "learningObjectives": [
+        "Use subtraction to find differences in village data",
+        "Subtract with borrowing in real-life contexts",
+        "Know when to subtract in word problems"
+      ],
+
+      "prerequisites": ["Subtraction with borrowing"],
+      "followUpTopics": ["Combined addition and subtraction problems"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t1_v4",
+      "type": "practice_problems",
+      "order": 4,
+      "mustWatch": false,
+
+      "title": "Village Math Practice | Addition and Subtraction Challenges",
+      "description": "Practice addition and subtraction problems set in a village context. Try to solve each problem before the answer is shown!",
+
+      "youtubeId": "B3TmFrWMiHc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B3TmFrWMiHc",
+      "thumbnailUrl": "https://img.youtube.com/vi/B3TmFrWMiHc/hqdefault.jpg",
+
+      "duration": 390,
+      "durationDisplay": "6:30",
+
+      "channelName": "Numberock",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "intermediate",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.7,
+      "viewCount": 980000,
+
+      "tags": ["practice", "challenge", "village math", "addition", "subtraction"],
+
+      "learningObjectives": [
+        "Apply addition and subtraction to community scenarios",
+        "Build speed and accuracy with calculations",
+        "Gain confidence solving village-themed problems"
+      ],
+
+      "prerequisites": ["Addition and subtraction of 3-digit numbers"],
+      "followUpTopics": ["Data collection and organisation"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+
+    {
+      "id": "gr4_mn7_t1_v5",
+      "type": "real_world_application",
+      "order": 5,
+      "mustWatch": false,
+
+      "title": "How Clean Villages Use Math | Real Stories from India",
+      "description": "See how real villages in India use math to keep their communities clean and organised. From counting bins to measuring roads, math makes villages better!",
+
+      "youtubeId": "Tw3FaSqN72k",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Tw3FaSqN72k",
+      "thumbnailUrl": "https://img.youtube.com/vi/Tw3FaSqN72k/hqdefault.jpg",
+
+      "duration": 540,
+      "durationDisplay": "9:00",
+
+      "channelName": "Scratch Garden",
+      "channelId": "",
+      "language": "English",
+
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 2200000,
+
+      "tags": ["real world", "India", "clean village", "application", "community math"],
+
+      "learningObjectives": [
+        "See math in action in real Indian villages",
+        "Understand why math skills matter for communities",
+        "Connect classroom learning to real life"
+      ],
+
+      "prerequisites": ["Basic addition and subtraction"],
+      "followUpTopics": ["Data collection in village life"],
+
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "standard": {
+      "description": "For students who scored >= 80% on readiness",
+      "videos": ["gr4_mn7_t1_v1", "gr4_mn7_t1_v2", "gr4_mn7_t1_v3", "gr4_mn7_t1_v4", "gr4_mn7_t1_v5"],
+      "estimatedTime": 2280
+    },
+    "abbreviated": {
+      "description": "For very strong students (>= 90%)",
+      "videos": ["gr4_mn7_t1_v1", "gr4_mn7_t1_v2", "gr4_mn7_t1_v3", "gr4_mn7_t1_v5"],
+      "estimatedTime": 1890
+    },
+    "with_prerequisites": {
+      "description": "For students who scored 50-79% on readiness",
+      "videos": ["prereq_ch7_addition_v1", "prereq_ch7_subtraction_v1", "gr4_mn7_t1_v1", "gr4_mn7_t1_v2", "gr4_mn7_t1_v3", "gr4_mn7_t1_v4"],
+      "estimatedTime": 3090
+    },
+    "core_only": {
+      "description": "Minimum required videos",
+      "videos": ["gr4_mn7_t1_v1", "gr4_mn7_t1_v2", "gr4_mn7_t1_v3"],
+      "estimatedTime": 1350
+    }
+  },
+
+  "comprehensionCheckpoints": [
+    {
+      "afterVideoId": "gr4_mn7_t1_v2",
+      "checkpointName": "Community Addition Check",
+      "questions": [
+        {
+          "question": "A village has 235 mango trees and 148 neem trees. How many trees in total?",
+          "options": ["373", "383", "393"],
+          "correctAnswer": 1,
+          "explanation": "235 + 148 = 383 trees. Ones: 5 + 8 = 13, carry 1. Tens: 3 + 4 + 1 = 8. Hundreds: 2 + 1 = 3."
+        }
+      ],
+      "ifCorrect": {
+        "action": "continue_normally",
+        "message": "Great! You can add numbers well in village contexts."
+      },
+      "ifWrong": {
+        "action": "recommend_rewatch",
+        "message": "Try watching the video again and pay attention to the carrying steps."
+      }
+    }
+  ],
+
+  "usageNotes": {
+    "purpose": "Introduce students to how math is used in everyday community and village life",
+    "recommendationStrategy": "Select playlist path based on readiness assessment score",
+    "sequencing": "Community math introduction → Addition stories → Subtraction scenarios → Practice → Real-world application"
+  }
+}

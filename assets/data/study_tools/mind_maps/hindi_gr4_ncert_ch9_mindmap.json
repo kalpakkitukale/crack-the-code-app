@@ -1,0 +1,147 @@
+{
+  "chapterId": "gr4_hin_ncert_ch9",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "स्वतंत्रता की ओर (Towards Freedom)",
+      "description": "A story about India's freedom struggle, patriotism, and the journey to independence",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#4CAF50",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_sangraam",
+      "label": "स्वतंत्रता संग्राम (Freedom Struggle)",
+      "description": "India's long fight against British rule from the 1800s to 1947",
+      "parentId": "node_root",
+      "positionX": -300,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_ahimsa",
+      "label": "अहिंसा (Non-Violence)",
+      "description": "Gandhi's method of peaceful protest without using force or violence",
+      "parentId": "node_sangraam",
+      "positionX": -450,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_satyagraha",
+      "label": "सत्याग्रह (Satyagraha)",
+      "description": "Holding firmly to truth - peaceful resistance to injustice",
+      "parentId": "node_sangraam",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_swadeshi",
+      "label": "स्वदेशी आंदोलन (Swadeshi Movement)",
+      "description": "Boycotting foreign goods and using Indian-made products like khadi",
+      "parentId": "node_sangraam",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#03A9F4",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_neta",
+      "label": "महान नेता (Great Leaders)",
+      "description": "The brave leaders who guided India's freedom movement",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_gandhi",
+      "label": "महात्मा गांधी",
+      "description": "Father of the Nation - led India through non-violence and truth",
+      "parentId": "node_neta",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_others",
+      "label": "अन्य स्वतंत्रता सेनानी",
+      "description": "Nehru, Bose, Bhagat Singh, Lakshmibai, and many more brave fighters",
+      "parentId": "node_neta",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_values",
+      "label": "मूल्य और सीख (Values & Lessons)",
+      "description": "Important values we learn from the freedom struggle story",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_deshbhakti",
+      "label": "देशभक्ति (Patriotism)",
+      "description": "Love for one's country and willingness to serve it",
+      "parentId": "node_values",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_balidaan",
+      "label": "बलिदान (Sacrifice)",
+      "description": "Giving up personal comfort for a greater cause",
+      "parentId": "node_values",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_ekta",
+      "label": "एकता (Unity)",
+      "description": "People of all backgrounds came together to fight for freedom",
+      "parentId": "node_values",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#CE93D8",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_symbols",
+      "label": "राष्ट्रीय प्रतीक (National Symbols)",
+      "description": "Symbols of independent India born from the freedom movement",
+      "parentId": "node_root",
+      "positionX": 0,
+      "positionY": 300,
+      "color": "#E91E63",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_tiranga",
+      "label": "तिरंगा (Tricolour Flag)",
+      "description": "The national flag with saffron, white, green and the Ashoka Chakra",
+      "parentId": "node_symbols",
+      "positionX": -100,
+      "positionY": 400,
+      "color": "#F48FB1",
+      "orderIndex": 13
+    }
+  ]
+}

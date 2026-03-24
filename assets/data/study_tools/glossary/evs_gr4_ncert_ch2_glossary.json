@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_evs_ncert_ch2",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_evs_2_001",
+      "term": "Facial features",
+      "definition": "The parts of the face that make each person look different, such as eyes, nose, ears, mouth, and eyebrows.",
+      "pronunciation": "FAY-shul FEE-churs",
+      "exampleUsage": "Everyone has unique facial features that make them special.",
+      "difficulty": "easy",
+      "relatedTerms": ["face", "appearance"]
+    },
+    {
+      "id": "gls_evs_2_002",
+      "term": "Dimples",
+      "definition": "Small dents or hollows on the cheeks that appear when some people smile.",
+      "pronunciation": "DIM-pulz",
+      "exampleUsage": "Riya has cute dimples when she smiles.",
+      "difficulty": "easy",
+      "relatedTerms": ["cheeks", "smile"]
+    },
+    {
+      "id": "gls_evs_2_003",
+      "term": "Complexion",
+      "definition": "The natural colour and appearance of a person's skin, especially on the face.",
+      "pronunciation": "kum-PLEK-shun",
+      "exampleUsage": "People from different parts of India have different complexions.",
+      "difficulty": "medium",
+      "relatedTerms": ["skin", "colour"]
+    },
+    {
+      "id": "gls_evs_2_004",
+      "term": "Unique",
+      "definition": "Being the only one of its kind; unlike anything else. Every person's face is unique.",
+      "pronunciation": "yoo-NEEK",
+      "exampleUsage": "Your fingerprints are unique - no one else in the world has the same ones.",
+      "difficulty": "easy",
+      "relatedTerms": ["special", "different"]
+    },
+    {
+      "id": "gls_evs_2_005",
+      "term": "Resemble",
+      "definition": "To look like or be similar to someone else, especially a family member.",
+      "pronunciation": "rih-ZEM-bul",
+      "exampleUsage": "Many people say I resemble my mother because we have similar eyes.",
+      "difficulty": "medium",
+      "relatedTerms": ["similar", "look like"]
+    },
+    {
+      "id": "gls_evs_2_006",
+      "term": "Inherited traits",
+      "definition": "Features like eye colour, hair type, or nose shape that children get from their parents.",
+      "pronunciation": "in-HERR-ih-ted TRAYTS",
+      "exampleUsage": "Curly hair is an inherited trait that Anita got from her father.",
+      "difficulty": "medium",
+      "relatedTerms": ["parents", "family"]
+    },
+    {
+      "id": "gls_evs_2_007",
+      "term": "Expression",
+      "definition": "The look on a person's face that shows what they are feeling, such as happy, sad, or surprised.",
+      "pronunciation": "ek-SPREH-shun",
+      "exampleUsage": "Her happy expression showed that she was excited about the trip.",
+      "difficulty": "easy",
+      "relatedTerms": ["feeling", "emotion"]
+    },
+    {
+      "id": "gls_evs_2_008",
+      "term": "Observation",
+      "definition": "Looking at something carefully to notice details and learn about it.",
+      "pronunciation": "ob-zer-VAY-shun",
+      "exampleUsage": "Through careful observation, the children noticed that everyone's ears are shaped differently.",
+      "difficulty": "easy",
+      "relatedTerms": ["watching", "noticing"]
+    },
+    {
+      "id": "gls_evs_2_009",
+      "term": "Freckles",
+      "definition": "Small brown spots on the skin, especially on the face, that some people have.",
+      "pronunciation": "FREK-ulz",
+      "exampleUsage": "Some children have freckles on their nose and cheeks.",
+      "difficulty": "easy",
+      "relatedTerms": ["spots", "skin"]
+    },
+    {
+      "id": "gls_evs_2_010",
+      "term": "Mole",
+      "definition": "A small dark spot on the skin that some people are born with or develop over time.",
+      "pronunciation": "MOHL",
+      "exampleUsage": "Grandma has a small mole on her cheek that makes her easy to recognise.",
+      "difficulty": "easy",
+      "relatedTerms": ["spot", "birthmark"]
+    }
+  ]
+}

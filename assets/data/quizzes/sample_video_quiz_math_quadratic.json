@@ -1,0 +1,144 @@
+{
+  "quiz": {
+    "id": "quiz_video_math_quad_001",
+    "level": "video",
+    "entityId": "video_math_12_algebra_quadratic_001",
+    "questionIds": [
+      "q_math_quad_001",
+      "q_math_quad_002",
+      "q_math_quad_003",
+      "q_math_quad_004",
+      "q_math_quad_005"
+    ],
+    "timeLimit": 600,
+    "passingScore": 0.75,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_math_quad_001",
+      "questionText": "What is the discriminant formula for the quadratic equation ax² + bx + c = 0?",
+      "questionType": "mcq",
+      "options": [
+        "b² - 4ac",
+        "b² + 4ac",
+        "2b - 4ac",
+        "b - 4ac²"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The discriminant Δ = b² - 4ac determines the nature of roots:\n• Δ > 0: Two distinct real roots\n• Δ = 0: Two equal real roots\n• Δ < 0: Complex conjugate roots",
+      "hints": [
+        "The discriminant helps determine the nature of roots",
+        "It's a formula involving b and ac",
+        "The formula uses b² in it"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "discriminant",
+        "quadratic_formula"
+      ],
+      "videoTimestamp": "5:32",
+      "points": 5
+    },
+    {
+      "id": "q_math_quad_002",
+      "questionText": "If the discriminant of a quadratic equation is zero, what can we say about its roots?",
+      "questionType": "mcq",
+      "options": [
+        "Two equal real roots",
+        "Two distinct real roots",
+        "Complex roots",
+        "No real roots"
+      ],
+      "correctAnswer": "A",
+      "explanation": "When Δ = 0 (discriminant is zero), the quadratic equation has two equal real roots. This means the parabola touches the x-axis at exactly one point.",
+      "hints": [
+        "Think about what happens when b² - 4ac = 0",
+        "How many times does the parabola touch the x-axis?",
+        "The roots are neither distinct nor complex"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "discriminant",
+        "nature_of_roots"
+      ],
+      "videoTimestamp": "7:15",
+      "points": 5
+    },
+    {
+      "id": "q_math_quad_003",
+      "questionText": "The quadratic formula is x = (-b ± √(b²-4ac)) / 2a",
+      "questionType": "trueFalse",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Yes, this is the correct quadratic formula used to find the roots of ax² + bx + c = 0. The ± symbol indicates two solutions.",
+      "hints": [
+        "Recall the standard quadratic formula",
+        "Check each component: -b, ±√discriminant, 2a"
+      ],
+      "difficulty": "basic",
+      "conceptTags": [
+        "quadratic_formula"
+      ],
+      "videoTimestamp": "3:45",
+      "points": 3
+    },
+    {
+      "id": "q_math_quad_004",
+      "questionText": "For the equation x² - 5x + 6 = 0, what are the roots?",
+      "questionType": "mcq",
+      "options": [
+        "x = 2, 3",
+        "x = -2, -3",
+        "x = 1, 6",
+        "x = 5, 6"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Using factorization: x² - 5x + 6 = (x - 2)(x - 3) = 0\nTherefore, x = 2 or x = 3\n\nVerification: (2)² - 5(2) + 6 = 4 - 10 + 6 = 0 ✓",
+      "hints": [
+        "Try factorizing the equation",
+        "Find two numbers that multiply to 6 and add to -5",
+        "The numbers are -2 and -3"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": [
+        "factorization",
+        "solving_equations"
+      ],
+      "videoTimestamp": "12:20",
+      "points": 5
+    },
+    {
+      "id": "q_math_quad_005",
+      "questionText": "A quadratic equation always has how many roots (including complex)?",
+      "questionType": "mcq",
+      "options": [
+        "Exactly 2",
+        "At most 2",
+        "At least 1",
+        "It varies"
+      ],
+      "correctAnswer": "A",
+      "explanation": "According to the Fundamental Theorem of Algebra, a quadratic equation (degree 2 polynomial) always has exactly 2 roots when counted with multiplicity. These roots can be:\n• Two distinct real roots\n• Two equal real roots (repeated root)\n• Two complex conjugate roots",
+      "hints": [
+        "Think about the degree of the polynomial",
+        "Remember the Fundamental Theorem of Algebra",
+        "Complex roots are also counted"
+      ],
+      "difficulty": "advanced",
+      "conceptTags": [
+        "fundamental_theorem",
+        "nature_of_roots"
+      ],
+      "videoTimestamp": "15:40",
+      "points": 6
+    }
+  ]
+}

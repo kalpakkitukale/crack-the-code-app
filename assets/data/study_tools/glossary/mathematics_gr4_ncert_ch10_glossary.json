@@ -1,0 +1,115 @@
+{
+  "chapterId": "gr4_math_ncert_ch10",
+  "subjectId": "mathematics_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_mn10_001",
+      "term": "Data Table",
+      "definition": "An organised arrangement of information in rows and columns. Rows go across and columns go down. Each cell contains a piece of data.",
+      "pronunciation": "DAY-tuh TAY-bul",
+      "exampleUsage": "A data table showed the number of tigers in different national parks of India.",
+      "difficulty": "easy",
+      "relatedTerms": ["Data", "Row", "Column"]
+    },
+    {
+      "id": "gls_gr4_mn10_002",
+      "term": "Bar Chart",
+      "definition": "A chart that uses rectangular bars of different heights or lengths to show and compare data. Taller bars mean bigger numbers.",
+      "pronunciation": "BAR chaart",
+      "exampleUsage": "The bar chart showed that the deer bar was the tallest, meaning deer had the highest population.",
+      "difficulty": "easy",
+      "relatedTerms": ["Chart", "Data", "Scale"]
+    },
+    {
+      "id": "gls_gr4_mn10_003",
+      "term": "Pictograph",
+      "definition": "A chart that uses picture symbols to represent data. Each symbol stands for a fixed number. You count the symbols and multiply to find the value.",
+      "pronunciation": "PIK-toh-graf",
+      "exampleUsage": "In the pictograph, one elephant symbol stood for 500 elephants. Six symbols meant 3,000 elephants.",
+      "difficulty": "easy",
+      "relatedTerms": ["Symbol", "Data", "Chart"]
+    },
+    {
+      "id": "gls_gr4_mn10_004",
+      "term": "Wildlife Census",
+      "definition": "A survey where experts count the number of animals in an area. India does a tiger census every 4 years to track the tiger population.",
+      "pronunciation": "WYLD-lyf SEN-sus",
+      "exampleUsage": "The 2022 wildlife census found that India has 3,167 tigers.",
+      "difficulty": "medium",
+      "relatedTerms": ["Survey", "Data", "Conservation"]
+    },
+    {
+      "id": "gls_gr4_mn10_005",
+      "term": "Conservation",
+      "definition": "The protection of animals, plants, and nature so they are not destroyed. Conservation efforts help endangered animals survive and grow in number.",
+      "pronunciation": "kon-ser-VAY-shun",
+      "exampleUsage": "Conservation efforts like Project Tiger have helped increase the number of tigers in India.",
+      "difficulty": "medium",
+      "relatedTerms": ["Wildlife", "National Park", "Endangered"]
+    },
+    {
+      "id": "gls_gr4_mn10_006",
+      "term": "Endangered",
+      "definition": "An animal or plant species that is in danger of disappearing forever if not protected. Tigers and elephants are endangered animals in India.",
+      "pronunciation": "en-DAYN-jerd",
+      "exampleUsage": "The tiger is an endangered animal, which is why India has special reserves to protect it.",
+      "difficulty": "medium",
+      "relatedTerms": ["Conservation", "Wildlife", "Protected"]
+    },
+    {
+      "id": "gls_gr4_mn10_007",
+      "term": "National Park",
+      "definition": "A large area of land set aside by the government to protect wild animals and nature. Hunting is not allowed in national parks.",
+      "pronunciation": "NASH-uh-nul PARK",
+      "exampleUsage": "Jim Corbett National Park in Uttarakhand is one of India's oldest and has many tigers.",
+      "difficulty": "easy",
+      "relatedTerms": ["Wildlife", "Conservation", "Sanctuary"]
+    },
+    {
+      "id": "gls_gr4_mn10_008",
+      "term": "Population",
+      "definition": "The total number of animals (or people) living in a particular area. A higher population means more individuals of that species.",
+      "pronunciation": "pop-yoo-LAY-shun",
+      "exampleUsage": "The elephant population in Karnataka is about 6,049, which is the highest in India.",
+      "difficulty": "easy",
+      "relatedTerms": ["Census", "Data", "Count"]
+    },
+    {
+      "id": "gls_gr4_mn10_009",
+      "term": "Scale",
+      "definition": "The numbered line on the side of a bar chart that tells you what each bar height represents. The scale helps you read the exact value of each bar.",
+      "pronunciation": "SKAYL",
+      "exampleUsage": "The scale on the bar chart went from 0 to 100, with each line marking 10 animals.",
+      "difficulty": "medium",
+      "relatedTerms": ["Bar Chart", "Axis", "Value"]
+    },
+    {
+      "id": "gls_gr4_mn10_010",
+      "term": "Symbol",
+      "definition": "A picture or sign used to represent something. In a pictograph, each symbol stands for a fixed number of items.",
+      "pronunciation": "SIM-bul",
+      "exampleUsage": "In the pictograph, each tiger symbol represented 100 tigers.",
+      "difficulty": "easy",
+      "relatedTerms": ["Pictograph", "Key", "Represents"]
+    },
+    {
+      "id": "gls_gr4_mn10_011",
+      "term": "Increase",
+      "definition": "When a number goes up or becomes bigger over time. We find the increase by subtracting the old number from the new number.",
+      "pronunciation": "IN-krees",
+      "exampleUsage": "The increase in tiger population from 2010 to 2022 was 3,167 - 1,706 = 1,461 tigers.",
+      "difficulty": "easy",
+      "relatedTerms": ["Decrease", "Difference", "Subtraction"]
+    },
+    {
+      "id": "gls_gr4_mn10_012",
+      "term": "Decrease",
+      "definition": "When a number goes down or becomes smaller over time. If an animal population decreases, it means there are fewer animals now than before.",
+      "pronunciation": "DEE-krees",
+      "exampleUsage": "A decrease in the number of elephants in a forest means fewer elephants live there now.",
+      "difficulty": "easy",
+      "relatedTerms": ["Increase", "Difference", "Conservation"]
+    }
+  ]
+}

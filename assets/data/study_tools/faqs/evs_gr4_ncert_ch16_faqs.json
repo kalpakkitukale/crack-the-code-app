@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ncert_ch16",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_en16_001",
+      "videoId": "gr4_en16_v1",
+      "question": "Why is January called a busy month?",
+      "answer": "January is called a busy month because so many festivals and important days fall in it! There is Makar Sankranti (14 January), Pongal, Lohri, and Republic Day (26 January). People are busy flying kites, making sweets, visiting family, and watching the Republic Day parade. It truly is a month full of celebrations!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_en16_002",
+      "videoId": "gr4_en16_v1",
+      "question": "What is the difference between a festival and a national holiday?",
+      "answer": "A festival is a celebration often linked to religion, culture, or harvest, like Diwali, Eid, or Pongal. A national holiday is a day important for the whole country, like Republic Day (26 January), Independence Day (15 August), or Gandhi Jayanti (2 October). Some festivals are also national holidays!",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_en16_003",
+      "videoId": "gr4_en16_v1",
+      "question": "Why do people fly kites on Makar Sankranti?",
+      "answer": "Flying kites on Makar Sankranti is a tradition that celebrates the sun moving northward, bringing warmer and longer days. People believe that the early morning sunlight on this day is good for health. The kite-flying tradition is especially popular in Gujarat, Rajasthan, and Uttar Pradesh. Families go to rooftops and have friendly kite-flying competitions!",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_en16_004",
+      "videoId": "gr4_en16_v2",
+      "question": "Do all families celebrate the same festivals?",
+      "answer": "No, different families celebrate different festivals depending on their religion, region, and culture. A family in Tamil Nadu may celebrate Pongal, while a family in Punjab celebrates Lohri. Muslim families celebrate Eid, Christian families celebrate Christmas, and Sikh families celebrate Gurpurab. But many families also join in each other's festivals, which shows India's unity in diversity!",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_en16_005",
+      "videoId": "gr4_en16_v2",
+      "question": "Why are harvest festivals important?",
+      "answer": "Harvest festivals are important because they celebrate the hard work of farmers and the food that feeds everyone. When crops like rice, wheat, or sugarcane are ready, farmers and their families celebrate with joy, special food, and prayers of thanks. Without good harvests, people would not have enough food. So these festivals are a way of saying 'thank you' for a good crop!",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_en16_006",
+      "videoId": "gr4_en16_v3",
+      "question": "Why do we eat different foods in different seasons?",
+      "answer": "We eat different foods because our body needs different things in different weather. In winter, we eat warm foods like gajar ka halwa, til laddu, and hot soup to keep our body warm. In summer, we eat cooling foods like watermelon, lassi, and ice cream to beat the heat. During monsoon, we enjoy pakoras and chai. Nature also grows different fruits and vegetables in each season!",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_en16_007",
+      "videoId": "gr4_en16_v3",
+      "question": "How many seasons does India have?",
+      "answer": "India mainly has three big seasons: summer (March to June, hot weather), monsoon or rainy season (July to September, lots of rain), and winter (November to February, cold weather). Some people also count spring (February-March) and autumn (October-November) as separate seasons. Different parts of India experience these seasons differently!",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_en16_008",
+      "videoId": "gr4_en16_v1",
+      "question": "What is a calendar and how do I read it?",
+      "answer": "A calendar is a chart that shows all 12 months of the year with their dates and days. Each row usually shows one week (7 days). To read it, find the month at the top, then look for the date you want. The column tells you which day of the week it is (Monday, Tuesday, etc.). Calendars also show holidays and festivals marked in red or with symbols!",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_en16_009",
+      "videoId": "gr4_en16_v2",
+      "question": "What festival does my family celebrate and why?",
+      "answer": "Every family has its own special festivals! Think about what your family celebrates. Ask your grandparents why they celebrate those festivals. Some families celebrate religious festivals, some celebrate harvest, and all Indians celebrate national holidays together. Talking to elders about festivals helps us learn about our own culture and traditions!",
+      "status": "answered",
+      "upvotes": 16
+    },
+    {
+      "id": "faq_gr4_en16_010",
+      "videoId": "gr4_en16_v3",
+      "question": "Why does the same festival come on different dates each year?",
+      "answer": "Some festivals like Eid, Diwali, and Holi follow the lunar calendar (based on the moon), which is different from the regular calendar. Since the moon's cycle does not match exactly with our 12-month calendar, these festivals shift by a few days or weeks each year. But festivals like Republic Day and Independence Day always come on the same date because they follow the regular calendar!",
+      "status": "answered",
+      "upvotes": 23
+    }
+  ]
+}

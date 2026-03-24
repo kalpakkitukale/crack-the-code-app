@@ -1,0 +1,43 @@
+{
+  "chapterId": "gr4_evs_ncert_ch10",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "summaries": [
+    {
+      "id": "sum_gr4_en10_v1",
+      "videoId": "gr4_en10_v1",
+      "content": "This lesson introduces students to traditional Indian games, especially kabaddi. The chapter title 'Hu Tu Tu' comes from the chanting sound made in kabaddi. Students learn how kabaddi is played - a raider goes to the other team's half, tries to touch opponents, and must return while chanting without taking a breath. The lesson explains that kabaddi needs no special equipment, just an open ground and willing players. It is a game of speed, strength, and strategy that has been played in India for hundreds of years.",
+      "keyPoints": [
+        "Kabaddi is a traditional Indian game played by two teams",
+        "The raider must chant 'kabaddi' or 'hu tu tu' continuously in one breath",
+        "It requires no equipment - just an open space and players",
+        "Kabaddi builds strength, speed, and quick thinking"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en10_v2",
+      "videoId": "gr4_en10_v2",
+      "content": "This lesson explores many other traditional games from different parts of India. Kho-kho is a fast chasing game where one team sits in a row while chasers try to tag runners. Gilli-danda is played with two sticks and is like a simpler version of cricket. Hopscotch (stapu or kith-kith) is drawn on the ground with chalk. Lattoo (spinning top), kanche (marbles), and pittu-garam (seven stones) are also popular traditional games. Each region in India has its own special games with local names.",
+      "keyPoints": [
+        "India has many traditional games like kho-kho, gilli-danda, and hopscotch",
+        "Different regions have their own special games and local names",
+        "Most traditional games need simple or no equipment at all",
+        "These games are played outdoors and keep children active"
+      ],
+      "source": "manual"
+    },
+    {
+      "id": "sum_gr4_en10_v3",
+      "videoId": "gr4_en10_v3",
+      "content": "This lesson discusses why traditional games are important and why we should keep playing them. Traditional games keep us physically fit without needing expensive equipment or gadgets. They teach important values like teamwork, fair play, patience, and respecting rules. They connect us to our culture and heritage - the same games were played by our grandparents! The lesson encourages students to spend less time on screens and more time playing outdoor games with friends. It also mentions that kabaddi is now an international sport played in the Asian Games and Pro Kabaddi League.",
+      "keyPoints": [
+        "Traditional games promote physical fitness and health",
+        "They teach teamwork, fair play, and following rules",
+        "These games are part of India's cultural heritage",
+        "Kabaddi is now played at international level including the Asian Games"
+      ],
+      "source": "manual"
+    }
+  ]
+}

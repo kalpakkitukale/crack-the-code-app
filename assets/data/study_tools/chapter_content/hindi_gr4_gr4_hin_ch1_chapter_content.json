@@ -1,0 +1,51 @@
+{
+  "chapterId": "gr4_hin_ch1",
+  "subjectId": "hindi_gr4",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_h1",
+    "title": "Varnamala - Hindi Alphabet (Swar and Vyanjan)",
+    "content": "This chapter teaches you the Hindi Varnamala, the complete Hindi alphabet written in the Devanagari script. The Varnamala is made up of two types of letters: Swar (vowels) and Vyanjan (consonants). Swar are sounds that can be spoken on their own - there are 11 of them (अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ). Vyanjan are sounds that need the help of a Swar to be spoken - there are 33 of them (from क to ह). You will learn how Swar are divided into Hrasva (short) and Deergha (long) types, how Vyanjan are organized into five Varg (groups), and how Swar and Vyanjan combine using Matra (vowel signs) to form words. By the end of this chapter, you will be able to read and write all Hindi letters and understand how they work together.",
+    "keyPoints": [
+      "Varnamala is the Hindi alphabet with 11 Swar (vowels) and 33 Vyanjan (consonants)",
+      "Swar can be spoken alone; Vyanjan need a Swar to be pronounced",
+      "Hrasva Swar (अ, इ, उ, ऋ) are short; Deergha Swar (आ, ई, ऊ, ए, ऐ, ओ, औ) are long",
+      "33 Vyanjan include 5 Varg of 5 letters each, plus Antastha (य र ल व) and Ushma (श ष स ह)",
+      "Matra are vowel signs that attach to consonants to form syllables and words"
+    ],
+    "learningObjectives": [
+      "Identify and write all 11 Swar and 33 Vyanjan of Hindi",
+      "Classify Swar into Hrasva (short) and Deergha (long) categories",
+      "Name the five Varg of Vyanjan and the letters in each group",
+      "Understand what Matra are and use them to combine Swar with Vyanjan",
+      "Read and write simple Hindi words using the Varnamala"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_h1_001",
+      "title": "Easy Way to Remember Swar",
+      "content": "Remember the 11 Swar by learning them in pairs of short and long sounds: अ-आ, इ-ई, उ-ऊ, then the single ऋ, and finally the compound vowels ए-ऐ, ओ-औ. Sing them like a song: 'अ आ इ ई उ ऊ ऋ, ए ऐ ओ औ'. Practise saying each pair and notice how the second one is longer than the first!",
+      "tags": ["study-tip", "swar", "memorization"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_h1_002",
+      "title": "Varg Trick - Remember Using Body Parts",
+      "content": "Each Varg of Vyanjan is produced from a different part of your mouth. Place your hand on your throat and say क - you feel the vibration there (Ka-varg = throat). Say च - your tongue touches the roof of your mouth (Cha-varg = palate). Say ट - your tongue curls back (Ta-varg = retroflex). Say त - your tongue touches your teeth (Ta-varg = dental). Say प - your lips come together (Pa-varg = lips). This body-part trick makes it easy to remember which letters belong to which group!",
+      "tags": ["study-tip", "vyanjan", "varg", "memorization"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_h1_003",
+      "title": "Matra Practice Activity",
+      "content": "Write the consonant क in your notebook. Now add each Matra one by one: का, कि, की, कु, कू, के, कै, को, कौ. Say each one aloud. Then do the same with other consonants like ग, प, म, and ल. This daily practice of just 5 minutes will make you very confident with Matra and help you read new Hindi words easily!",
+      "tags": ["practice", "activity", "matra"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "chapterId": "gr4_hin_ncert_ch8",
+  "subjectId": "hindi_gr4_ncert",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_hn8_001",
+      "term": "कौन (Kaun)",
+      "definition": "Who. A question word used to ask about a person or being. In this poem, 'Kaun' is used repeatedly to ask who is behind the wonders of nature.",
+      "pronunciation": "KAUN",
+      "exampleUsage": "फूलों में रंग कौन भरता है? (Who fills colours in flowers?)",
+      "difficulty": "easy",
+      "relatedTerms": ["क्या", "कब", "कहाँ"]
+    },
+    {
+      "id": "gls_gr4_hn8_002",
+      "term": "रहस्य (Rahasya)",
+      "definition": "Mystery or secret. Something that is hidden and not easily understood. Nature is full of mysteries that make us wonder and ask questions.",
+      "pronunciation": "RA-has-ya",
+      "exampleUsage": "प्रकृति के रहस्य बहुत गहरे हैं। (The mysteries of nature are very deep.)",
+      "difficulty": "medium",
+      "relatedTerms": ["गूढ़", "भेद", "छिपा"]
+    },
+    {
+      "id": "gls_gr4_hn8_003",
+      "term": "जिज्ञासा (Jigyaasa)",
+      "definition": "Curiosity. The strong desire to know or learn something new. This poem awakens jigyaasa by asking many questions about nature's wonders.",
+      "pronunciation": "jig-YAA-saa",
+      "exampleUsage": "बच्चों में जिज्ञासा होना बहुत ज़रूरी है। (It is very important for children to have curiosity.)",
+      "difficulty": "medium",
+      "relatedTerms": ["उत्सुकता", "कुतूहल", "सवाल"]
+    },
+    {
+      "id": "gls_gr4_hn8_004",
+      "term": "प्रकृति (Prakriti)",
+      "definition": "Nature. The natural world around us including trees, flowers, rivers, mountains, sky, animals, and all living things. The poem celebrates the beauty and mystery of Prakriti.",
+      "pronunciation": "pra-KRI-ti",
+      "exampleUsage": "प्रकृति बहुत सुंदर है। (Nature is very beautiful.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कुदरत", "वातावरण", "पर्यावरण"]
+    },
+    {
+      "id": "gls_gr4_hn8_005",
+      "term": "कविता (Kavita)",
+      "definition": "Poem or poetry. A piece of writing that uses rhythm, rhyme, and imagery to express feelings and ideas in a beautiful way. This chapter is a kavita full of questions.",
+      "pronunciation": "ka-VI-taa",
+      "exampleUsage": "यह कविता बहुत सुंदर है। (This poem is very beautiful.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कवि", "पंक्ति", "छंद"]
+    },
+    {
+      "id": "gls_gr4_hn8_006",
+      "term": "तुकबंदी (Tukbandi)",
+      "definition": "Rhyming. When the ending sounds of two lines in a poem match, it is called tukbandi. Rhyming makes poems musical and easier to remember.",
+      "pronunciation": "TUK-ban-dee",
+      "exampleUsage": "इस कविता में अच्छी तुकबंदी है। (This poem has good rhyming.)",
+      "difficulty": "medium",
+      "relatedTerms": ["तुक", "छंद", "लय"]
+    },
+    {
+      "id": "gls_gr4_hn8_007",
+      "term": "आश्चर्य (Aashcharya)",
+      "definition": "Wonder or amazement. The feeling of being surprised and amazed by something extraordinary. The poem fills us with aashcharya about nature.",
+      "pronunciation": "aash-CHAR-ya",
+      "exampleUsage": "प्रकृति को देखकर आश्चर्य होता है। (Looking at nature fills one with wonder.)",
+      "difficulty": "medium",
+      "relatedTerms": ["हैरानी", "अचंभा", "विस्मय"]
+    },
+    {
+      "id": "gls_gr4_hn8_008",
+      "term": "चमक (Chamak)",
+      "definition": "Shine or sparkle. The bright light or glow that comes from something. In the poem, the poet asks who gives chamak to the stars.",
+      "pronunciation": "CHA-mak",
+      "exampleUsage": "तारों की चमक रात को सुंदर बनाती है। (The sparkle of stars makes the night beautiful.)",
+      "difficulty": "easy",
+      "relatedTerms": ["रोशनी", "दमक", "प्रकाश"]
+    },
+    {
+      "id": "gls_gr4_hn8_009",
+      "term": "कवि (Kavi)",
+      "definition": "Poet. A person who writes poems (kavitaayein). A kavi uses beautiful words, rhythm, and imagery to express feelings and ideas about the world.",
+      "pronunciation": "KA-vi",
+      "exampleUsage": "इस कविता के कवि ने सुंदर सवाल पूछे हैं। (The poet of this poem has asked beautiful questions.)",
+      "difficulty": "easy",
+      "relatedTerms": ["कविता", "कवयित्री", "लेखक"]
+    },
+    {
+      "id": "gls_gr4_hn8_010",
+      "term": "पंक्ति (Pankti)",
+      "definition": "Line (of a poem or text). Each line in a poem is called a pankti. Poems are made of panktiyaan (lines) that together create meaning, rhythm, and beauty.",
+      "pronunciation": "PANK-ti",
+      "exampleUsage": "इस कविता की हर पंक्ति में एक सवाल है। (Every line of this poem has a question.)",
+      "difficulty": "easy",
+      "relatedTerms": ["लाइन", "कविता", "छंद"]
+    }
+  ]
+}

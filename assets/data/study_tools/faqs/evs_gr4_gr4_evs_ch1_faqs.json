@@ -1,0 +1,87 @@
+{
+  "chapterId": "gr4_evs_ch1",
+  "subjectId": "evs_gr4",
+  "segment": "junior",
+  "faqs": [
+    {
+      "id": "faq_gr4_ev1_001",
+      "videoId": "gr4_ev1_v1",
+      "question": "How can I tell if something is living or non-living?",
+      "answer": "Check if it can do these things: grow, breathe, eat, move, feel, and reproduce (make babies or seeds). If it can do all of these, it is living. A cat grows, eats, and has kittens, so it is living. A stone does none of these, so it is non-living.",
+      "status": "answered",
+      "upvotes": 20
+    },
+    {
+      "id": "faq_gr4_ev1_002",
+      "videoId": "gr4_ev1_v1",
+      "question": "Are plants really living things even though they don't move?",
+      "answer": "Yes! Plants are definitely living things. They grow from tiny seeds into big trees, they breathe through tiny holes in their leaves, they make their own food using sunlight, and they reproduce by making seeds or fruits. They do move slowly, like turning towards sunlight, but we usually cannot see it.",
+      "status": "answered",
+      "upvotes": 18
+    },
+    {
+      "id": "faq_gr4_ev1_003",
+      "videoId": "gr4_ev1_v1",
+      "question": "Is fire a living thing? It grows and moves!",
+      "answer": "Great question! Fire is not a living thing even though it seems to grow and move. Fire cannot reproduce on its own, it does not eat food, and it does not have cells like all living things do. It is a chemical reaction, not a living organism.",
+      "status": "answered",
+      "upvotes": 25
+    },
+    {
+      "id": "faq_gr4_ev1_004",
+      "videoId": "gr4_ev1_v2",
+      "question": "What is the difference between a habitat and an ecosystem?",
+      "answer": "A habitat is simply the place where a plant or animal lives, like a pond or a forest. An ecosystem is bigger - it includes the habitat plus all the living things in it AND how they interact with each other and with non-living things like water, air, and sunlight.",
+      "status": "answered",
+      "upvotes": 22
+    },
+    {
+      "id": "faq_gr4_ev1_005",
+      "videoId": "gr4_ev1_v2",
+      "question": "Can non-living things become living things?",
+      "answer": "No, non-living things like rocks and water cannot become living things on their own. However, living things need non-living things to survive! Plants need water, sunlight, and soil. Animals need air and water. Living and non-living things work together in nature.",
+      "status": "answered",
+      "upvotes": 15
+    },
+    {
+      "id": "faq_gr4_ev1_006",
+      "videoId": "gr4_ev1_v3",
+      "question": "What happens if all the plants in an ecosystem die?",
+      "answer": "If all plants die, the entire ecosystem would be in trouble. Animals that eat plants (herbivores) would have no food and would die. Then the animals that eat herbivores (carnivores) would also have no food. Plants also make oxygen, so there would be less air to breathe. That is why protecting plants is so important!",
+      "status": "answered",
+      "upvotes": 24
+    },
+    {
+      "id": "faq_gr4_ev1_007",
+      "videoId": "gr4_ev1_v3",
+      "question": "Why is the sun important for ecosystems?",
+      "answer": "The sun is the main source of energy for almost every ecosystem on Earth. Plants use sunlight to make food. Animals eat plants to get energy. Without the sun, plants could not make food, and the whole food chain would collapse. The sun also gives us warmth and light.",
+      "status": "answered",
+      "upvotes": 19
+    },
+    {
+      "id": "faq_gr4_ev1_008",
+      "videoId": "gr4_ev1_v3",
+      "question": "What is the difference between a herbivore, carnivore, and omnivore?",
+      "answer": "A herbivore eats only plants (like a cow or rabbit). A carnivore eats only other animals (like a lion or eagle). An omnivore eats both plants and animals (like a bear or human). All three types are consumers because they cannot make their own food.",
+      "status": "answered",
+      "upvotes": 21
+    },
+    {
+      "id": "faq_gr4_ev1_009",
+      "videoId": "gr4_ev1_v4",
+      "question": "How do animals adapt to their habitats?",
+      "answer": "Animals develop special features over time to survive in their homes. Camels have humps to store fat for desert life. Polar bears have thick white fur for cold snowy places. Fish have gills to breathe underwater. These special features are called adaptations.",
+      "status": "answered",
+      "upvotes": 17
+    },
+    {
+      "id": "faq_gr4_ev1_010",
+      "videoId": "gr4_ev1_v4",
+      "question": "Can we create an ecosystem at home?",
+      "answer": "Yes! A simple example is an aquarium. It has water (non-living), fish and water plants (living), light, and air. The plants give oxygen to fish, and fish waste helps plants grow. A garden is another ecosystem with soil, water, plants, insects, and birds all working together.",
+      "status": "answered",
+      "upvotes": 23
+    }
+  ]
+}

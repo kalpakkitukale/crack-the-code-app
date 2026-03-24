@@ -1,0 +1,187 @@
+{
+  "playlistId": "playlist_gr4_mn11_t3",
+  "topicId": "gr4_mn_11_3",
+  "topicName": "Symmetrical Shapes",
+  "chapterId": "gr4_math_ncert_ch11",
+  "chapterName": "Fun with Symmetry",
+  "subjectId": "mathematics_gr4_ncert",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "playlistMetadata": {
+    "totalVideos": 4,
+    "totalDuration": 1320,
+    "totalDurationDisplay": "22:00",
+    "difficulty": "basic",
+    "estimatedCompletionTime": "25-35 minutes with practice",
+    "prerequisiteTopics": ["gr4_mn_11_1", "gr4_mn_11_2"],
+    "followUpTopics": ["gr4_mn_11_4"]
+  },
+
+  "videos": [
+    {
+      "id": "gr4_mn11_v4",
+      "sequenceNumber": 1,
+      "type": "concept_introduction",
+      "importance": "must_watch",
+      "title": "Symmetrical Shapes | How Many Lines of Symmetry?",
+      "description": "Find lines of symmetry in different shapes like squares, rectangles, circles, and triangles.",
+      "youtubeId": "hFQi2m_4gww",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hFQi2m_4gww",
+      "thumbnailUrl": "https://img.youtube.com/vi/hFQi2m_4gww/hqdefault.jpg",
+      "duration": 390,
+      "durationDisplay": "6:30",
+      "channelName": "Math with Mr. J",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 700000,
+      "tags": ["symmetrical shapes", "lines of symmetry", "geometry"],
+      "learningObjectives": ["Count lines of symmetry in common shapes", "Understand that different shapes have different numbers of lines of symmetry", "Identify which shapes are symmetrical and which are not"],
+      "keyConceptsCovered": ["A square has 4 lines of symmetry", "A rectangle has 2 lines of symmetry", "A circle has infinite lines of symmetry", "An equilateral triangle has 3 lines of symmetry"],
+      "prerequisites": ["Understanding of line of symmetry", "Understanding of mirror images"],
+      "followUpTopics": ["Folding and completing figures"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn11_v1",
+      "sequenceNumber": 2,
+      "type": "worked_examples",
+      "importance": "must_watch",
+      "title": "What is Symmetry? | Line of Symmetry for Kids",
+      "description": "Learn what symmetry means and how to find lines of symmetry in shapes and objects around you.",
+      "youtubeId": "YFnEFMPFmKo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YFnEFMPFmKo",
+      "thumbnailUrl": "https://img.youtube.com/vi/YFnEFMPFmKo/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Math Antics",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1500000,
+      "tags": ["symmetry", "line of symmetry", "math"],
+      "learningObjectives": ["Apply symmetry knowledge to various shapes", "Practise finding all lines of symmetry in a shape", "Compare symmetry in different shapes"],
+      "keyConceptsCovered": ["Some shapes have more lines of symmetry than others", "Regular shapes have more symmetry", "Symmetry in real-world objects and shapes"],
+      "prerequisites": ["Basic understanding of symmetry"],
+      "followUpTopics": ["Completing symmetrical figures"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "prereq_ch11_shapes_v1",
+      "sequenceNumber": 3,
+      "type": "application",
+      "importance": "recommended",
+      "title": "Basic Shapes Review | Identifying Shapes for Kids",
+      "description": "Review basic shapes like squares, rectangles, triangles, and circles. Knowing your shapes helps you find symmetry!",
+      "youtubeId": "WnTmSFYKfbE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WnTmSFYKfbE",
+      "thumbnailUrl": "https://img.youtube.com/vi/WnTmSFYKfbE/hqdefault.jpg",
+      "duration": 360,
+      "durationDisplay": "6:00",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.9,
+      "viewCount": 1800000,
+      "tags": ["shapes", "basic shapes", "geometry", "review"],
+      "learningObjectives": ["Review shapes and their properties", "Connect shape properties to number of lines of symmetry", "Identify symmetrical and non-symmetrical shapes"],
+      "keyConceptsCovered": ["Regular shapes and their symmetry", "Why some shapes have more lines of symmetry", "Shape properties determine symmetry"],
+      "prerequisites": ["Basic observation skills"],
+      "followUpTopics": ["Folding and completing figures"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "id": "gr4_mn11_v3",
+      "sequenceNumber": 4,
+      "type": "practice",
+      "importance": "optional",
+      "title": "Mirror Images and Reflections | Geometry",
+      "description": "Understand how mirror images work and how to draw reflections of shapes.",
+      "youtubeId": "Kf9KhwryQNE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kf9KhwryQNE",
+      "thumbnailUrl": "https://img.youtube.com/vi/Kf9KhwryQNE/hqdefault.jpg",
+      "duration": 330,
+      "durationDisplay": "5:30",
+      "channelName": "Homeschool Pop",
+      "channelId": "",
+      "language": "English",
+      "difficulty": "basic",
+      "examRelevance": ["CBSE", "ICSE"],
+      "rating": 4.8,
+      "viewCount": 600000,
+      "tags": ["mirror images", "reflection", "symmetry"],
+      "learningObjectives": ["Use mirror concepts to verify symmetry in shapes", "Check symmetry by imagining a mirror along the line", "Practise drawing symmetric shapes"],
+      "keyConceptsCovered": ["Using a mirror to check symmetry", "Reflection confirms lines of symmetry", "Drawing symmetric halves"],
+      "prerequisites": ["Understanding of mirror images"],
+      "followUpTopics": ["Completing symmetrical figures"],
+      "dateAdded": "2026-03-02T00:00:00.000Z",
+      "lastUpdated": "2026-03-02T00:00:00.000Z"
+    }
+  ],
+
+  "playlistStructure": {
+    "excellent_performance": {
+      "description": "For students who scored >= 90% on readiness",
+      "recommendedVideos": ["gr4_mn11_v4", "gr4_mn11_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 750,
+      "estimatedTimeDisplay": "12:30",
+      "rationale": "Core symmetrical shapes concepts for strong students"
+    },
+    "ready_performance": {
+      "description": "For students who scored 80-89% on readiness",
+      "recommendedVideos": ["gr4_mn11_v4", "gr4_mn11_v1", "prereq_ch11_shapes_v1"],
+      "totalVideos": 3,
+      "estimatedTime": 1110,
+      "estimatedTimeDisplay": "18:30",
+      "rationale": "Complete coverage of symmetrical shapes with shape review"
+    },
+    "partial_readiness": {
+      "description": "For students who scored 50-79% on readiness",
+      "recommendedVideos": ["prereq_ch11_shapes_v1", "gr4_mn11_v4", "gr4_mn11_v1", "gr4_mn11_v3"],
+      "totalVideos": 4,
+      "estimatedTime": 1440,
+      "estimatedTimeDisplay": "24:00",
+      "rationale": "Shape review first, then all symmetrical shapes content"
+    },
+    "after_prerequisite_review": {
+      "description": "For students who scored < 50% but completed prerequisites",
+      "recommendedVideos": ["gr4_mn11_v4", "gr4_mn11_v1"],
+      "totalVideos": 2,
+      "estimatedTime": 750,
+      "estimatedTimeDisplay": "12:30",
+      "rationale": "Essential symmetrical shapes concepts only"
+    }
+  },
+
+  "comprehensionCheckpoints": {
+    "checkpoint1": {
+      "afterVideoId": "gr4_mn11_v4",
+      "checkpointName": "Symmetrical Shapes Mastery Check",
+      "questions": [
+        {
+          "question": "How many lines of symmetry does a rectangle have?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": 1,
+          "explanation": "A rectangle has 2 lines of symmetry: one horizontal through the middle and one vertical through the middle."
+        }
+      ]
+    }
+  },
+
+  "usageNotes": {
+    "teacherGuidance": "Give students cut-out shapes and ask them to fold in different ways to find all lines of symmetry. Use a chart to record the number of lines for each shape.",
+    "parentGuidance": "Cut out shapes from paper with your child and fold them to discover how many lines of symmetry each shape has. Start with simple shapes like squares and circles.",
+    "studentGuidance": "Try folding a square piece of paper in as many ways as you can to find all its lines of symmetry. You will find 4! Now try a rectangle. How many can you find?"
+  }
+}

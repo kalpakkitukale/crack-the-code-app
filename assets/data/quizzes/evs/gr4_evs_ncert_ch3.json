@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_evs_ncert_ch3",
+    "level": "chapter",
+    "entityId": "gr4_evs_ncert_ch3",
+    "title": "A Day with Nandu - Chapter Quiz",
+    "questionIds": ["q_nandu_001", "q_nandu_002", "q_nandu_003", "q_nandu_004", "q_nandu_005", "q_nandu_006", "q_nandu_007", "q_nandu_008", "q_nandu_009", "q_nandu_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_nandu_001",
+      "questionText": "Nandu in the story is a:",
+      "questionType": "mcq",
+      "options": ["Tiger", "Elephant", "Lion", "Bear"],
+      "correctAnswer": "B",
+      "explanation": "Nandu is a baby elephant. The chapter follows a day in the life of Nandu the elephant.",
+      "hints": ["Think about the largest land animal", "The chapter title mentions Nandu"],
+      "difficulty": "basic",
+      "conceptTags": ["elephants", "animals"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_002",
+      "questionText": "Elephants mainly live in:",
+      "questionType": "mcq",
+      "options": ["Deserts", "Forests", "Mountains only", "Cities"],
+      "correctAnswer": "B",
+      "explanation": "Elephants mainly live in forests where they can find food and water. In India, they are found in forests of Kerala, Karnataka, Assam, and other states.",
+      "hints": ["Where can elephants find lots of trees and water?"],
+      "difficulty": "basic",
+      "conceptTags": ["habitat", "forest"],
+      "topicIds": ["gr4_evn_3_2"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_003",
+      "questionText": "What do elephants mainly eat?",
+      "questionType": "mcq",
+      "options": ["Meat", "Fish", "Plants, leaves, and fruits", "Only grass"],
+      "correctAnswer": "C",
+      "explanation": "Elephants are herbivores. They eat plants, leaves, fruits, bark, and roots. An adult elephant can eat over 100 kg of food a day!",
+      "hints": ["Are elephants meat-eaters or plant-eaters?"],
+      "difficulty": "basic",
+      "conceptTags": ["diet", "herbivore"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_004",
+      "questionText": "Elephants use their trunk to:",
+      "questionType": "mcq",
+      "options": ["Only breathe", "Breathe, drink, and pick up things", "Only make sounds", "None of the above"],
+      "correctAnswer": "B",
+      "explanation": "An elephant's trunk is amazing! It can breathe, smell, drink water, pick up food, and even spray water. It's like having a nose and hand combined!",
+      "hints": ["The trunk has many uses"],
+      "difficulty": "basic",
+      "conceptTags": ["trunk", "adaptation"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_005",
+      "questionText": "Baby elephants stay with their mothers for:",
+      "questionType": "mcq",
+      "options": ["A few days", "A few months", "Many years", "They leave immediately"],
+      "correctAnswer": "C",
+      "explanation": "Baby elephants stay with their mothers and the herd for many years. Female elephants may stay with their mothers their whole lives!",
+      "hints": ["Elephants have very strong family bonds"],
+      "difficulty": "basic",
+      "conceptTags": ["family", "baby elephants"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_006",
+      "questionText": "True or False: Elephants can swim.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "A",
+      "explanation": "True! Elephants are actually good swimmers. They love water and use their trunk as a snorkel when swimming in deep water.",
+      "hints": ["Think about elephants playing in rivers"],
+      "difficulty": "basic",
+      "conceptTags": ["swimming", "abilities"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_007",
+      "questionText": "Elephants need a lot of water because:",
+      "questionType": "mcq",
+      "options": ["They are small", "They are large animals and need lots to drink", "They waste water", "They don't need much water"],
+      "correctAnswer": "B",
+      "explanation": "Elephants are very large animals and need about 100-200 liters of water every day! They also use water to cool down their bodies.",
+      "hints": ["Think about the size of an elephant"],
+      "difficulty": "intermediate",
+      "conceptTags": ["water", "needs"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 2
+    },
+    {
+      "id": "q_nandu_008",
+      "questionText": "Why is it important to protect forests where elephants live?",
+      "questionType": "mcq",
+      "options": ["It's not important", "Because forests provide food and water for elephants", "Because elephants don't need forests", "For no reason"],
+      "correctAnswer": "B",
+      "explanation": "Forests are the natural home of elephants. They provide food, water, and shelter. When forests are cut down, elephants lose their homes and food sources.",
+      "hints": ["Where do elephants get their food and water?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["conservation", "habitat"],
+      "topicIds": ["gr4_evn_3_2"],
+      "points": 2
+    },
+    {
+      "id": "q_nandu_009",
+      "questionText": "A group of elephants living together is called a:",
+      "questionType": "mcq",
+      "options": ["Pack", "Flock", "Herd", "School"],
+      "correctAnswer": "C",
+      "explanation": "A group of elephants is called a herd. The herd is usually led by the oldest female elephant, called the matriarch.",
+      "hints": ["This word is also used for cattle"],
+      "difficulty": "basic",
+      "conceptTags": ["herd", "group"],
+      "topicIds": ["gr4_evn_3_1"],
+      "points": 1
+    },
+    {
+      "id": "q_nandu_010",
+      "questionText": "What is the biggest threat to elephants in India?",
+      "questionType": "mcq",
+      "options": ["Other elephants", "Loss of forest habitat", "Too much rain", "Cold weather"],
+      "correctAnswer": "B",
+      "explanation": "Loss of forest habitat is the biggest threat to elephants. When humans cut down forests for farming or building, elephants lose their homes and often come into conflict with humans.",
+      "hints": ["What happens when trees are cut down?"],
+      "difficulty": "intermediate",
+      "conceptTags": ["conservation", "threats"],
+      "topicIds": ["gr4_evn_3_2"],
+      "points": 2
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "assessmentId": "readiness_gr4_m4_t3",
+  "topicId": "gr4_m_4_3",
+  "topicName": "Rounding 4-digit Numbers",
+  "chapterId": "gr4_math_ch4",
+  "chapterName": "Thousands Around Us",
+  "subjectId": "mathematics_gr4",
+  "boardId": "cbse_elementary",
+  "gradeId": "class_4",
+
+  "metadata": {
+    "type": "readiness",
+    "purpose": "Assess prerequisite knowledge before learning to round 4-digit numbers",
+    "totalQuestions": 10,
+    "estimatedTime": 600,
+    "passingScore": 80,
+    "partialReadinessScore": 50,
+    "difficultyDistribution": {
+      "basic": 6,
+      "intermediate": 3,
+      "advanced": 1
+    },
+    "createdDate": "2026-01-19",
+    "version": "1.0"
+  },
+
+  "prerequisiteConcepts": [
+    {
+      "conceptId": "pv_4digit",
+      "conceptName": "Place value in 4-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq1", "rq2", "rq3"],
+      "remedialVideoIds": ["prereq_pv4_v1", "prereq_pv4_v2"]
+    },
+    {
+      "conceptId": "rounding_basics",
+      "conceptName": "Rounding 2-digit and 3-digit numbers",
+      "importance": "critical",
+      "questionsTestingThis": ["rq4", "rq5", "rq6"],
+      "remedialVideoIds": ["prereq_round_v1", "prereq_round_v2"]
+    },
+    {
+      "conceptId": "number_line",
+      "conceptName": "Number line and position of numbers",
+      "importance": "important",
+      "questionsTestingThis": ["rq7", "rq8"],
+      "remedialVideoIds": ["prereq_nline_v1"]
+    },
+    {
+      "conceptId": "rounding_rules",
+      "conceptName": "Rounding rules (5 and above, below 5)",
+      "importance": "critical",
+      "questionsTestingThis": ["rq9", "rq10"],
+      "remedialVideoIds": ["prereq_round_v3"]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "rq1",
+      "questionNumber": 1,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "What is the place value of 7 in the number 3,725?",
+
+      "options": [
+        "7",
+        "70",
+        "700",
+        "7000"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "700",
+
+      "explanation": "The digit 7 is in the hundreds place. So its place value is 7 × 100 = 700.",
+
+      "tags": ["place value", "hundreds place", "4-digit numbers"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused face value (7) with place value (700)",
+          "conceptGap": "Understanding difference between face value and place value",
+          "remediation": "Review place value in 4-digit numbers"
+        },
+        {
+          "wrongAnswer": 1,
+          "mistake": "Thought 7 is in tens place instead of hundreds",
+          "conceptGap": "Counting places from right to left",
+          "remediation": "Practice identifying place positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq2",
+      "questionNumber": 2,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "Which digit is in the tens place in the number 6,842?",
+
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "4",
+
+      "explanation": "Reading from right to left: 2 is in ones place, 4 is in tens place, 8 is in hundreds place, 6 is in thousands place.",
+
+      "tags": ["place value", "tens place", "digit position"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Selected the ones place digit",
+          "conceptGap": "Identifying tens place position",
+          "remediation": "Review place value positions"
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "questionNumber": 3,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "pv_4digit",
+
+      "question": "True or False: In the number 5,349, the digit 3 is in the hundreds place.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! Counting from right: 9 (ones), 4 (tens), 3 (hundreds), 5 (thousands). The digit 3 is in the hundreds place.",
+
+      "tags": ["place value", "hundreds place", "position"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Counted places incorrectly",
+          "conceptGap": "Place value position identification",
+          "remediation": "Practice identifying place positions from right to left"
+        }
+      ]
+    },
+
+    {
+      "id": "rq4",
+      "questionNumber": 4,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "rounding_basics",
+
+      "question": "Round 47 to the nearest ten.",
+
+      "options": [
+        "40",
+        "50",
+        "45",
+        "47"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "50",
+
+      "explanation": "47 is between 40 and 50. The ones digit is 7, which is 5 or above. So we round up to 50.",
+
+      "tags": ["rounding", "nearest ten", "2-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Rounded down instead of up",
+          "conceptGap": "Rounding rule: 5 and above rounds up",
+          "remediation": "Review rounding rules"
+        },
+        {
+          "wrongAnswer": 2,
+          "mistake": "Chose the midpoint instead of rounding",
+          "conceptGap": "Understanding what rounding means",
+          "remediation": "Review basic rounding concept"
+        }
+      ]
+    },
+
+    {
+      "id": "rq5",
+      "questionNumber": 5,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "rounding_basics",
+
+      "question": "Round 234 to the nearest hundred.",
+
+      "options": [
+        "200",
+        "230",
+        "240",
+        "300"
+      ],
+
+      "correctAnswer": 0,
+      "correctAnswerText": "200",
+
+      "explanation": "234 is between 200 and 300. The tens digit is 3, which is below 5. So we round down to 200.",
+
+      "tags": ["rounding", "nearest hundred", "3-digit numbers"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 3,
+          "mistake": "Rounded up instead of down",
+          "conceptGap": "Rounding rule: below 5 rounds down",
+          "remediation": "Review rounding rules and when to round down"
+        },
+        {
+          "wrongAnswer": 1,
+          "mistake": "Rounded to nearest ten instead of hundred",
+          "conceptGap": "Reading question carefully - what to round to",
+          "remediation": "Pay attention to 'round to nearest...' instruction"
+        }
+      ]
+    },
+
+    {
+      "id": "rq6",
+      "questionNumber": 6,
+      "questionType": "mcq",
+      "difficulty": "intermediate",
+      "conceptTested": "rounding_basics",
+
+      "question": "Round 685 to the nearest ten.",
+
+      "options": [
+        "680",
+        "690",
+        "700",
+        "600"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "690",
+
+      "explanation": "685 is between 680 and 690. The ones digit is 5, which rounds up. So 685 rounds to 690.",
+
+      "tags": ["rounding", "nearest ten", "midpoint rule"],
+      "bloomsLevel": "apply",
+      "estimatedTime": 40,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Rounded down when digit is 5",
+          "conceptGap": "Rule: 5 rounds up, not down",
+          "remediation": "Review midpoint rounding rule"
+        },
+        {
+          "wrongAnswer": 2,
+          "mistake": "Rounded to nearest hundred instead of ten",
+          "conceptGap": "Reading question carefully",
+          "remediation": "Pay attention to what place to round to"
+        }
+      ]
+    },
+
+    {
+      "id": "rq7",
+      "questionNumber": 7,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "number_line",
+
+      "question": "On a number line, which number is closer to 50: 46 or 54?",
+
+      "options": [
+        "46",
+        "54",
+        "Both are equally close",
+        "Cannot determine"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Both are equally close",
+
+      "explanation": "46 is 4 units away from 50 (50 - 46 = 4). 54 is 4 units away from 50 (54 - 50 = 4). Both numbers are exactly 4 units from 50, so they are equally close.",
+
+      "tags": ["number line", "distance", "proximity"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 45,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Picked the smaller number without calculating distance",
+          "conceptGap": "Understanding distance on number line",
+          "remediation": "Practice calculating distance between numbers"
+        },
+        {
+          "wrongAnswer": 1,
+          "mistake": "Picked the larger number without calculating distance",
+          "conceptGap": "Understanding distance on number line",
+          "remediation": "Practice calculating distance between numbers"
+        }
+      ]
+    },
+
+    {
+      "id": "rq8",
+      "questionNumber": 8,
+      "questionType": "true_false",
+      "difficulty": "basic",
+      "conceptTested": "number_line",
+
+      "question": "True or False: On a number line, 38 is closer to 40 than to 30.",
+
+      "correctAnswer": true,
+      "correctAnswerText": "True",
+
+      "explanation": "True! 38 is 2 units from 40 (40 - 38 = 2) and 8 units from 30 (38 - 30 = 8). So 38 is closer to 40.",
+
+      "tags": ["number line", "proximity", "comparison"],
+      "bloomsLevel": "analyze",
+      "estimatedTime": 35,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": false,
+          "mistake": "Didn't calculate actual distances",
+          "conceptGap": "Understanding proximity on number line",
+          "remediation": "Practice finding which number is closer"
+        }
+      ]
+    },
+
+    {
+      "id": "rq9",
+      "questionNumber": 9,
+      "questionType": "mcq",
+      "difficulty": "basic",
+      "conceptTested": "rounding_rules",
+
+      "question": "When rounding, if the digit you're looking at is 5 or greater, you should:",
+
+      "options": [
+        "Round down",
+        "Round up",
+        "Keep the number the same",
+        "Round to zero"
+      ],
+
+      "correctAnswer": 1,
+      "correctAnswerText": "Round up",
+
+      "explanation": "The rounding rule states: if the digit is 5 or above (5, 6, 7, 8, 9), round up. If it's below 5 (0, 1, 2, 3, 4), round down.",
+
+      "tags": ["rounding rules", "round up", "5 or above"],
+      "bloomsLevel": "remember",
+      "estimatedTime": 30,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Confused the rounding rule",
+          "conceptGap": "Basic rounding rule",
+          "remediation": "Memorize: 5 or above, round up; below 5, round down"
+        }
+      ]
+    },
+
+    {
+      "id": "rq10",
+      "questionNumber": 10,
+      "questionType": "mcq",
+      "difficulty": "advanced",
+      "conceptTested": "rounding_rules",
+
+      "question": "Which of the following statements about rounding is TRUE?",
+
+      "options": [
+        "Rounding always makes a number larger",
+        "Rounding always makes a number smaller",
+        "Rounding changes a number to the nearest specified place value",
+        "Rounding only works with 2-digit numbers"
+      ],
+
+      "correctAnswer": 2,
+      "correctAnswerText": "Rounding changes a number to the nearest specified place value",
+
+      "explanation": "Rounding means changing a number to the nearest ten, hundred, thousand, etc. Sometimes this makes the number larger (rounding up) and sometimes smaller (rounding down).",
+
+      "tags": ["rounding concept", "understanding", "definition"],
+      "bloomsLevel": "understand",
+      "estimatedTime": 50,
+
+      "commonMistakes": [
+        {
+          "wrongAnswer": 0,
+          "mistake": "Thought rounding always increases value",
+          "conceptGap": "Understanding that rounding can go up or down",
+          "remediation": "See examples of rounding both up and down"
+        },
+        {
+          "wrongAnswer": 3,
+          "mistake": "Didn't understand rounding works with all numbers",
+          "conceptGap": "Rounding is applicable to any number",
+          "remediation": "See rounding examples with different sized numbers"
+        }
+      ]
+    }
+  ],
+
+  "scoringRubric": {
+    "excellent": {
+      "range": [90, 100],
+      "level": "ready",
+      "message": "Excellent! You have strong prerequisite knowledge of place value and rounding. You're ready to learn rounding 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "good": {
+      "range": [80, 89],
+      "level": "ready",
+      "message": "Good work! You understand the basics of rounding. Let's build on that with 4-digit numbers.",
+      "recommendationType": "standard_playlist"
+    },
+    "partial": {
+      "range": [50, 79],
+      "level": "partial",
+      "message": "You have some gaps in prerequisite knowledge. Watch review videos on place value and basic rounding before learning the new content.",
+      "recommendationType": "mixed_playlist"
+    },
+    "needs_review": {
+      "range": [0, 49],
+      "level": "not_ready",
+      "message": "You need to review prerequisite concepts first. We'll start with place value and basic rounding, then you can learn about rounding 4-digit numbers.",
+      "recommendationType": "prerequisite_focused"
+    }
+  },
+
+  "feedbackMessages": {
+    "on_completion": "Great job completing the readiness assessment!",
+    "low_score_encouragement": "Don't worry! We'll show you videos to help you review place value and rounding concepts.",
+    "high_score_praise": "Fantastic! You're well-prepared to learn about rounding 4-digit numbers.",
+    "retake_option": "After watching the recommended videos, you can retake this assessment to check your progress."
+  }
+}

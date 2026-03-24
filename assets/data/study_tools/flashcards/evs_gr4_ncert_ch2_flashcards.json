@@ -1,0 +1,95 @@
+{
+  "chapterId": "gr4_evs_ncert_ch2",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+  "decks": [
+    {
+      "id": "deck_gr4_en2_features",
+      "name": "Facial Features",
+      "description": "Learn about the different parts of our face and how they vary",
+      "topicId": "gr4_evn_2_1",
+      "chapterId": "gr4_evs_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_en2_001",
+          "front": "Name five features of the face.",
+          "back": "The five main features of the face are eyes, nose, ears, mouth (lips), and eyebrows. Each person's features look slightly different!",
+          "hint": "Look at your own face in a mirror",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en2_002",
+          "front": "Do all people have the same shape of eyes?",
+          "back": "No! People's eyes come in different shapes and sizes. Some eyes are round, some are almond-shaped, and some are narrow. Eye colour also varies - brown, black, blue, green, or hazel.",
+          "hint": "Look at the eyes of your family members",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en2_003",
+          "front": "Can two people look exactly the same?",
+          "back": "Even identical twins have tiny differences! Every person's face is unique. The shape of our nose, the distance between our eyes, and the size of our ears all make us look different from others.",
+          "hint": "Think about twins you know",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en2_004",
+          "front": "What are the different types of hair people can have?",
+          "back": "People can have straight hair, wavy hair, or curly hair. Hair colour can be black, brown, blonde, red, or grey. Hair can be thick or thin, long or short.",
+          "hint": "Think about your classmates' hair",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en2_005",
+          "front": "Why do children look like their parents?",
+          "back": "Children inherit features from their parents. You may have your mother's eyes or your father's nose. These traits are passed down through families, which is why family members often look similar.",
+          "hint": "Think about who you look like in your family",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_gr4_en2_differences",
+      "name": "Our Differences Make Us Special",
+      "description": "Understanding and appreciating how everyone looks different",
+      "topicId": "gr4_evn_2_1",
+      "chapterId": "gr4_evs_ncert_ch2",
+      "cards": [
+        {
+          "id": "card_gr4_en2_006",
+          "front": "Is it okay that we all look different?",
+          "back": "Yes! Our differences make each of us special and unique. No two people in the world look exactly the same, and that is a wonderful thing. We should respect and appreciate how everyone looks.",
+          "hint": "Think about what makes you special",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_gr4_en2_007",
+          "front": "How can you describe someone's face?",
+          "back": "You can describe a face by talking about the shape of eyes, nose, and lips, the type of hair, skin colour, whether they have freckles or dimples, and the overall shape of the face (round, oval, long).",
+          "hint": "Try describing your best friend's face",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_gr4_en2_008",
+          "front": "What are dimples?",
+          "back": "Dimples are small dents or hollows that appear on some people's cheeks when they smile. Not everyone has dimples - they are caused by a small muscle in the cheek.",
+          "hint": "They appear when you smile",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_gr4_en2_009",
+          "front": "Can you recognise someone just by looking at their face?",
+          "back": "Yes! Our brain is very good at remembering faces. Even in a crowd of hundreds of people, you can quickly spot your friend or family member because you remember their unique facial features.",
+          "hint": "Think about finding your parent in a crowd",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_gr4_en2_010",
+          "front": "Do our facial features change as we grow?",
+          "back": "Yes! As children grow into adults, their face shape changes. The nose and ears keep growing throughout life. Baby faces are rounder, and adult faces become more defined. But basic features like eye colour usually stay the same.",
+          "hint": "Compare a baby photo with how you look now",
+          "orderIndex": 4
+        }
+      ]
+    }
+  ]
+}

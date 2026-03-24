@@ -1,0 +1,103 @@
+{
+  "chapterId": "gr4_math_ch4",
+  "subjectId": "mathematics_gr4",
+  "segment": "junior",
+  "terms": [
+    {
+      "id": "gls_gr4_m4_001",
+      "term": "Fraction",
+      "definition": "A number that shows a part of a whole. It has a top number and a bottom number separated by a line. For example, 1/2 means one part out of two equal parts.",
+      "pronunciation": "FRAK-shun",
+      "exampleUsage": "If you eat 2 slices of a pizza cut into 6 slices, you ate the fraction 2/6.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_002",
+      "term": "Numerator",
+      "definition": "The top number in a fraction. It tells how many parts you have or are talking about.",
+      "pronunciation": "NOO-muh-ray-ter",
+      "exampleUsage": "In the fraction 3/4, the numerator is 3.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_003",
+      "term": "Denominator",
+      "definition": "The bottom number in a fraction. It tells the total number of equal parts the whole is divided into.",
+      "pronunciation": "deh-NOM-ih-nay-ter",
+      "exampleUsage": "In the fraction 3/4, the denominator is 4, meaning the whole is cut into 4 equal pieces.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_004",
+      "term": "Equivalent Fractions",
+      "definition": "Two or more fractions that represent the same amount, even though they use different numbers. For example, 1/2 and 2/4 show the same amount.",
+      "pronunciation": "ee-KWIV-uh-lent FRAK-shunz",
+      "exampleUsage": "1/3 and 2/6 are equivalent fractions because they both show the same part of a whole.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m4_005",
+      "term": "Simplify",
+      "definition": "To make a fraction simpler by dividing the top and bottom numbers by the same number. Also called reducing a fraction.",
+      "pronunciation": "SIM-plih-fy",
+      "exampleUsage": "You can simplify 4/8 to 1/2 by dividing both numbers by 4.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m4_006",
+      "term": "Whole",
+      "definition": "The complete thing before it is divided into parts. A whole can be a shape, an object, or a group.",
+      "pronunciation": "HOLE",
+      "exampleUsage": "A full circle is a whole. If you cut it into 4 equal parts, each part is 1/4 of the whole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_007",
+      "term": "Equal Parts",
+      "definition": "Parts that are exactly the same size. Fractions only work when the whole is divided into equal parts.",
+      "pronunciation": "EE-kwul parts",
+      "exampleUsage": "A sandwich cut into 2 equal parts gives you two halves.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_008",
+      "term": "Half",
+      "definition": "One of two equal parts of a whole. Written as the fraction 1/2.",
+      "pronunciation": "HAF",
+      "exampleUsage": "If you share a chocolate bar equally with your friend, each of you gets half.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_009",
+      "term": "Quarter",
+      "definition": "One of four equal parts of a whole. Written as the fraction 1/4. Also called a fourth.",
+      "pronunciation": "KWOR-ter",
+      "exampleUsage": "A quarter of an hour is 15 minutes because 60 divided by 4 is 15.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gls_gr4_m4_010",
+      "term": "Like Fractions",
+      "definition": "Fractions that have the same denominator (bottom number). They are easy to add because the pieces are the same size.",
+      "pronunciation": "LYKE FRAK-shunz",
+      "exampleUsage": "2/5 and 3/5 are like fractions because they both have 5 as the denominator.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m4_011",
+      "term": "Unit Fraction",
+      "definition": "A fraction with 1 as the numerator (top number). It represents one single equal part of a whole.",
+      "pronunciation": "YOO-nit FRAK-shun",
+      "exampleUsage": "1/3, 1/5, and 1/8 are all unit fractions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gls_gr4_m4_012",
+      "term": "Fraction Bar",
+      "definition": "The line between the numerator and denominator in a fraction. It also means 'divided by'.",
+      "pronunciation": "FRAK-shun bar",
+      "exampleUsage": "In 3/4, the fraction bar separates the 3 on top from the 4 on the bottom.",
+      "difficulty": "easy"
+    }
+  ]
+}

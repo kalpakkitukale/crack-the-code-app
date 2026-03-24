@@ -1,0 +1,52 @@
+{
+  "chapterId": "gr4_evs_ncert_ch4",
+  "subjectId": "evs_gr4_ncert",
+  "segment": "junior",
+
+  "chapterSummary": {
+    "id": "chsum_gr4_en4",
+    "title": "The Story of Amrita",
+    "content": "This chapter from the NCERT Looking Around textbook tells the powerful story of Amrita Devi and the Bishnoi community who gave their lives to protect trees. It teaches students why trees are essential for life - providing oxygen, food, shade, preventing soil erosion, and helping bring rain. The chapter also introduces conservation movements like the Chipko Movement and celebrations like Van Mahotsav. It warns about the dangers of deforestation and inspires children to become tree protectors in their own communities.",
+    "keyPoints": [
+      "Amrita Devi and 363 Bishnois sacrificed their lives to protect khejri trees",
+      "The Bishnoi community has protected nature for over 500 years",
+      "Trees give us oxygen, food, shade, wood, and medicines",
+      "Tree roots hold soil together and prevent erosion",
+      "The Chipko Movement (1973) inspired tree protection across India",
+      "Deforestation causes habitat loss, soil erosion, and climate change"
+    ],
+    "learningObjectives": [
+      "Retell the story of Amrita Devi and the Bishnoi community",
+      "List at least five benefits of trees for humans and the environment",
+      "Explain how trees help prevent soil erosion and bring rain",
+      "Describe the Chipko Movement and Van Mahotsav",
+      "Suggest ways to protect and conserve trees in daily life"
+    ],
+    "estimatedReadTimeMinutes": 4,
+    "source": "manual"
+  },
+
+  "curatedNotes": [
+    {
+      "id": "cnote_gr4_en4_001",
+      "title": "Plant a Tree Activity",
+      "content": "Plant a small tree or sapling near your home or school. You can use seeds from fruits you eat (mango, lemon, neem). Water it regularly and watch it grow. Keep a diary noting its height each month. In a few years, your tree will give shade and oxygen to many people!",
+      "tags": ["activity", "hands-on"],
+      "isPinned": true
+    },
+    {
+      "id": "cnote_gr4_en4_002",
+      "title": "Tree Census Activity",
+      "content": "Count and identify the trees around your school or home. Make a list with the tree name, its height (short/medium/tall), and what it gives us (fruits, flowers, shade). Which tree is the oldest? Which is the tallest? Present your findings to your class.",
+      "tags": ["activity", "observation"],
+      "isPinned": false
+    },
+    {
+      "id": "cnote_gr4_en4_003",
+      "title": "Did You Know?",
+      "content": "A single large tree can produce enough oxygen for 4 people to breathe for a whole year! It can also absorb about 22 kg of carbon dioxide per year. India's national tree, the Banyan, can live for hundreds of years and spread over a huge area with its hanging roots.",
+      "tags": ["fun-fact", "science"],
+      "isPinned": false
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "quiz": {
+    "id": "quiz_hindi_gr4",
+    "level": "subject",
+    "entityId": "hindi_gr4",
+    "title": "Hindi Grade 4 - Complete Assessment",
+    "questionIds": [
+      "q_hin4_001",
+      "q_hin4_002",
+      "q_hin4_003",
+      "q_hin4_004",
+      "q_hin4_005",
+      "q_hin4_006",
+      "q_hin4_007",
+      "q_hin4_008",
+      "q_hin4_009",
+      "q_hin4_010"
+    ],
+    "timeLimit": 1200,
+    "passingScore": 0.70
+  },
+  "questions": [
+    {
+      "id": "q_hin4_001",
+      "questionText": "कुल कितने स्वर हैं? (How many vowels are there?)",
+      "questionType": "mcq",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "C",
+      "explanation": "हिंदी में कुल 11 स्वर हैं। (There are 11 vowels in Hindi.)",
+      "hints": [
+        "अ से औ तक गिनें",
+        "11 होते हैं"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["swar"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_002",
+      "questionText": "कुल कितने व्यंजन हैं? (How many consonants are there?)",
+      "questionType": "mcq",
+      "options": [
+        "30",
+        "33",
+        "35",
+        "36"
+      ],
+      "correctAnswer": "B",
+      "explanation": "हिंदी में कुल 33 व्यंजन हैं। (There are 33 consonants in Hindi.)",
+      "hints": [
+        "क से ज्ञ तक",
+        "30 से अधिक"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["vyanjan"],
+      "topicIds": ["gr4_h_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_003",
+      "questionText": "'आ' की मात्रा क्या है? (What is the matra of 'aa'?)",
+      "questionType": "mcq",
+      "options": [
+        "ा",
+        "ि",
+        "ी",
+        "ु"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'आ' की मात्रा 'ा' है। जैसे: काम, नाम, राम। (The matra of 'aa' is 'ा'.)",
+      "hints": [
+        "व्यंजन के दाहिनी ओर लगती है",
+        "एक लंबी रेखा"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["swar", "matra"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_004",
+      "questionText": "निम्नलिखित में से संज्ञा कौन सी है? (Which is a noun?)",
+      "questionType": "mcq",
+      "options": [
+        "दौड़ना",
+        "सुंदर",
+        "लड़का",
+        "धीरे"
+      ],
+      "correctAnswer": "C",
+      "explanation": "'लड़का' संज्ञा है। संज्ञा किसी व्यक्ति, वस्तु या स्थान का नाम होता है। (Boy is a noun. Nouns are names of people, things, or places.)",
+      "hints": [
+        "व्यक्ति का नाम",
+        "लड़का एक संज्ञा है"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["sangya"],
+      "topicIds": ["gr4_h_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_005",
+      "questionText": "'मैं', 'तुम', 'वह' किस प्रकार के शब्द हैं? (What type of words are 'I', 'you', 'he'?)",
+      "questionType": "mcq",
+      "options": [
+        "संज्ञा (Noun)",
+        "सर्वनाम (Pronoun)",
+        "क्रिया (Verb)",
+        "विशेषण (Adjective)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "ये सर्वनाम हैं। सर्वनाम संज्ञा के स्थान पर प्रयोग होते हैं। (These are pronouns. Pronouns are used in place of nouns.)",
+      "hints": [
+        "संज्ञा की जगह इस्तेमाल होते हैं",
+        "सर्वनाम"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["sarvanam"],
+      "topicIds": ["gr4_h_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_006",
+      "questionText": "'क' वर्ग में कौन-कौन से व्यंजन हैं? (Which consonants are in 'ka' group?)",
+      "questionType": "mcq",
+      "options": [
+        "क, ख, ग, घ, ङ",
+        "च, छ, ज, झ, ञ",
+        "ट, ठ, ड, ढ, ण",
+        "प, फ, ब, भ, म"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'क' वर्ग में क, ख, ग, घ, ङ व्यंजन हैं। (The 'ka' group has k, kh, g, gh, ng consonants.)",
+      "hints": [
+        "पहला वर्ग",
+        "क से शुरू होता है"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["vyanjan", "varga"],
+      "topicIds": ["gr4_h_1_2"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_007",
+      "questionText": "'किताब' में कौन सी मात्रा है? (Which matra is in 'kitaab'?)",
+      "questionType": "mcq",
+      "options": [
+        "ि (i)",
+        "ी (ii)",
+        "ु (u)",
+        "ू (uu)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'किताब' में 'इ' की मात्रा 'ि' है। कि + ता + ब। (Kitaab has the matra of 'i'.)",
+      "hints": [
+        "कि + ता + ब",
+        "छोटी 'इ' की मात्रा"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["matra"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_008",
+      "questionText": "व्यक्तिवाचक संज्ञा का उदाहरण कौन सा है? (Which is an example of proper noun?)",
+      "questionType": "mcq",
+      "options": [
+        "लड़का",
+        "राम",
+        "शहर",
+        "किताब"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'राम' व्यक्तिवाचक संज्ञा है। यह किसी विशेष व्यक्ति का नाम है। (Ram is a proper noun. It's a specific person's name.)",
+      "hints": [
+        "किसी खास व्यक्ति का नाम",
+        "राम एक नाम है"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["sangya", "vyaktivachak"],
+      "topicIds": ["gr4_h_2_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_009",
+      "questionText": "'उ' की मात्रा किस शब्द में है? (Which word has the matra of 'u'?)",
+      "questionType": "mcq",
+      "options": [
+        "काम",
+        "गुरु",
+        "भूल",
+        "नाम"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'गुरु' में 'उ' की मात्रा (ु) है। (The word 'guru' has the matra of 'u'.)",
+      "hints": [
+        "'ु' मात्रा देखें",
+        "व्यंजन के नीचे लगती है"
+      ],
+      "difficulty": "basic",
+      "conceptTags": ["matra"],
+      "topicIds": ["gr4_h_1_1"],
+      "videoTimestamp": null,
+      "points": 1
+    },
+    {
+      "id": "q_hin4_010",
+      "questionText": "'_____ स्कूल जाता है।' वाक्य पूरा करें। (Complete the sentence.)",
+      "questionType": "mcq",
+      "options": [
+        "मैं",
+        "वह",
+        "तुम",
+        "हम"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'वह स्कूल जाता है' सही है। 'वह' एकवचन अन्य पुरुष सर्वनाम है। ('He goes to school' is correct. 'He' is singular third person pronoun.)",
+      "hints": [
+        "तीसरा व्यक्ति",
+        "'जाता' के साथ"
+      ],
+      "difficulty": "intermediate",
+      "conceptTags": ["sarvanam", "vakya"],
+      "topicIds": ["gr4_h_2_2"],
+      "videoTimestamp": null,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "quiz": {
+    "id": "quiz_gr4_eng_ncert_u4",
+    "level": "chapter",
+    "entityId": "gr4_eng_ncert_u4",
+    "title": "Why? / Alice in Wonderland - Unit 4 Quiz",
+    "questionIds": ["q_aw_001", "q_aw_002", "q_aw_003", "q_aw_004", "q_aw_005", "q_aw_006", "q_aw_007", "q_aw_008", "q_aw_009", "q_aw_010"],
+    "timeLimit": 600,
+    "passingScore": 0.70,
+    "config": {
+      "allowReview": true,
+      "showExplanations": true,
+      "maxAttempts": -1
+    }
+  },
+  "questions": [
+    {
+      "id": "q_aw_001",
+      "questionText": "The poem 'Why?' is about a child who:",
+      "questionType": "mcq",
+      "options": ["Doesn't like to ask questions", "Asks many questions about the world", "Always sleeps", "Never talks"],
+      "correctAnswer": "B",
+      "explanation": "The poem is about a curious child who asks many 'why' questions to understand the world around them.",
+      "hints": ["The title is a question word"],
+      "difficulty": "basic",
+      "conceptTags": ["poem", "curiosity", "questions"],
+      "topicIds": ["gr4_en_4_1"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_002",
+      "questionText": "In 'Alice in Wonderland', Alice fell into:",
+      "questionType": "mcq",
+      "options": ["A river", "A rabbit hole", "A well", "A cave"],
+      "correctAnswer": "B",
+      "explanation": "Alice followed a white rabbit and fell down a rabbit hole into Wonderland.",
+      "hints": ["She was following a rabbit"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "Alice", "rabbit hole"],
+      "topicIds": ["gr4_en_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_003",
+      "questionText": "Which is a question word?",
+      "questionType": "mcq",
+      "options": ["And", "What", "But", "Because"],
+      "correctAnswer": "B",
+      "explanation": "'What' is a question word (also called WH-word). Other question words include Who, Where, When, Why, How.",
+      "hints": ["It starts questions"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "question words"],
+      "topicIds": ["gr4_en_4_3"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_004",
+      "questionText": "The White Rabbit in Alice in Wonderland was always:",
+      "questionType": "mcq",
+      "options": ["Sleeping", "In a hurry", "Eating", "Dancing"],
+      "correctAnswer": "B",
+      "explanation": "The White Rabbit was always in a hurry, checking his watch and saying he was late.",
+      "hints": ["He kept looking at his watch"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "Alice", "White Rabbit"],
+      "topicIds": ["gr4_en_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_005",
+      "questionText": "Which question word asks about a person?",
+      "questionType": "mcq",
+      "options": ["What", "Where", "Who", "When"],
+      "correctAnswer": "C",
+      "explanation": "'Who' is used to ask about a person. Example: 'Who is your teacher?'",
+      "hints": ["Think about asking about someone"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "question words", "who"],
+      "topicIds": ["gr4_en_4_3"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_006",
+      "questionText": "Which question word asks about time?",
+      "questionType": "mcq",
+      "options": ["Where", "What", "Why", "When"],
+      "correctAnswer": "D",
+      "explanation": "'When' is used to ask about time. Example: 'When is your birthday?'",
+      "hints": ["It's about hours, days, or years"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "question words", "when"],
+      "topicIds": ["gr4_en_4_3"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_007",
+      "questionText": "True or False: Wonderland was a normal, ordinary place.",
+      "questionType": "trueFalse",
+      "options": ["True", "False"],
+      "correctAnswer": "B",
+      "explanation": "False! Wonderland was a magical, strange place where unusual things happened - animals talked, things changed size.",
+      "hints": ["Think about all the strange things Alice saw"],
+      "difficulty": "basic",
+      "conceptTags": ["story", "Wonderland", "fantasy"],
+      "topicIds": ["gr4_en_4_2"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_008",
+      "questionText": "Complete: '___ is the capital of India?'",
+      "questionType": "mcq",
+      "options": ["When", "Who", "What", "Why"],
+      "correctAnswer": "C",
+      "explanation": "'What' asks about things or facts. 'What is the capital of India?' asks for a fact (Delhi).",
+      "hints": ["We're asking about a thing, not a person or time"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "question words", "what"],
+      "topicIds": ["gr4_en_4_3"],
+      "points": 1
+    },
+    {
+      "id": "q_aw_009",
+      "questionText": "Why is it good to ask questions?",
+      "questionType": "mcq",
+      "options": ["It annoys adults", "It helps us learn and understand", "It wastes time", "It's not good to ask questions"],
+      "correctAnswer": "B",
+      "explanation": "Asking questions helps us learn new things and understand the world better. Curiosity leads to knowledge!",
+      "hints": ["Think about what happens when you ask and get answers"],
+      "difficulty": "intermediate",
+      "conceptTags": ["learning", "curiosity", "questions"],
+      "topicIds": ["gr4_en_4_1"],
+      "points": 2
+    },
+    {
+      "id": "q_aw_010",
+      "questionText": "Which question word asks about a place?",
+      "questionType": "mcq",
+      "options": ["When", "Where", "Why", "Who"],
+      "correctAnswer": "B",
+      "explanation": "'Where' is used to ask about places. Example: 'Where do you live?'",
+      "hints": ["Think about location"],
+      "difficulty": "basic",
+      "conceptTags": ["grammar", "question words", "where"],
+      "topicIds": ["gr4_en_4_3"],
+      "points": 1
+    }
+  ]
+}
