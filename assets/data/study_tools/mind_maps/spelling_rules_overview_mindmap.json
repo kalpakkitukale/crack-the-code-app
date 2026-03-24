@@ -1,0 +1,457 @@
+{
+  "chapterId": "rules_overview",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "38 Spelling Rules",
+      "description": "The complete system of English spelling rules — from consonants to advanced patterns",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#FF6F00",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_consonant_rules",
+      "label": "Consonant Rules (1-8)",
+      "description": "How consonants behave — softening, doubling, and shield patterns",
+      "parentId": "node_root",
+      "positionX": -400,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_r1",
+      "label": "Rule 1: C → /s/ before E, I, Y",
+      "description": "Zero exceptions! CITY, CEILING, CYCLE",
+      "parentId": "node_consonant_rules",
+      "positionX": -500,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_r2",
+      "label": "Rule 2: G → /j/ before E, I, Y",
+      "description": "Tends to soften, but has exceptions: GET, GIFT, GIRL",
+      "parentId": "node_consonant_rules",
+      "positionX": -450,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_r3",
+      "label": "Rule 3: I, U, V, J never end alone",
+      "description": "BLUE (not BLU), GIVE (not GIV), FLY (I→Y)",
+      "parentId": "node_consonant_rules",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_r4",
+      "label": "Rule 4: Double S after vowel",
+      "description": "MISS, BOSS, FUSS — not just single S",
+      "parentId": "node_consonant_rules",
+      "positionX": -500,
+      "positionY": 280,
+      "color": "#64B5F6",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_r5",
+      "label": "Rule 5: Double F, L, S, Z",
+      "description": "STAFF, BELL, BUZZ — after short vowel in 1 syllable",
+      "parentId": "node_consonant_rules",
+      "positionX": -450,
+      "positionY": 280,
+      "color": "#64B5F6",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_r6",
+      "label": "Rule 6: CK bodyguard",
+      "description": "BACK, NECK — CK after short vowel",
+      "parentId": "node_consonant_rules",
+      "positionX": -400,
+      "positionY": 280,
+      "color": "#64B5F6",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_r7",
+      "label": "Rule 7: TCH shield",
+      "description": "MATCH, FETCH — TCH after short vowel",
+      "parentId": "node_consonant_rules",
+      "positionX": -350,
+      "positionY": 280,
+      "color": "#64B5F6",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_r8",
+      "label": "Rule 8: DGE shield",
+      "description": "BADGE, BRIDGE — DGE after short vowel",
+      "parentId": "node_consonant_rules",
+      "positionX": -300,
+      "positionY": 280,
+      "color": "#64B5F6",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_vowel_rules",
+      "label": "Vowel Rules (9-11)",
+      "description": "How vowels pair up and Q's partnership with U",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 100,
+      "color": "#E57373",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_r9",
+      "label": "Rule 9: AY end / AI middle",
+      "description": "PLAY (end), RAIN (middle)",
+      "parentId": "node_vowel_rules",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_r10",
+      "label": "Rule 10: OY end / OI middle",
+      "description": "BOY (end), JOIN (middle)",
+      "parentId": "node_vowel_rules",
+      "positionX": -150,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_r11",
+      "label": "Rule 11: Q always with U",
+      "description": "QUEEN, QUARTER — QU = /kw/",
+      "parentId": "node_vowel_rules",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_suffix_rules",
+      "label": "Suffix Rules (12-16, 22-28)",
+      "description": "How words change when adding suffixes — drop, keep, double, or change",
+      "parentId": "node_root",
+      "positionX": 100,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_r12",
+      "label": "Rule 12: Drop E (vowel suffix)",
+      "description": "BAKING, HOPING — drop E before -ING",
+      "parentId": "node_suffix_rules",
+      "positionX": 0,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_r13",
+      "label": "Rule 13: Keep E (consonant suffix)",
+      "description": "HOPEFUL, CARELESS — keep E before -FUL",
+      "parentId": "node_suffix_rules",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 16
+    },
+    {
+      "id": "node_r14",
+      "label": "Rule 14: Double consonant",
+      "description": "RUNNING, STOPPING — double before vowel suffix",
+      "parentId": "node_suffix_rules",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 17
+    },
+    {
+      "id": "node_r15",
+      "label": "Rule 15: Consonant+Y → I",
+      "description": "HAPPINESS, CARRIED — Y→I before suffix",
+      "parentId": "node_suffix_rules",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 18
+    },
+    {
+      "id": "node_r16",
+      "label": "Rule 16: Vowel+Y stays",
+      "description": "PLAYING, ENJOYMENT — keep Y",
+      "parentId": "node_suffix_rules",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 19
+    },
+    {
+      "id": "node_r22",
+      "label": "Rule 22: -ED 3 sounds",
+      "description": "/ed/ WANTED, /d/ CALLED, /t/ JUMPED",
+      "parentId": "node_suffix_rules",
+      "positionX": 0,
+      "positionY": 280,
+      "color": "#81C784",
+      "orderIndex": 20
+    },
+    {
+      "id": "node_r23",
+      "label": "Rule 23: -ES for hissing",
+      "description": "BOXES, BRUSHES — after S, X, Z, CH, SH",
+      "parentId": "node_suffix_rules",
+      "positionX": 50,
+      "positionY": 280,
+      "color": "#81C784",
+      "orderIndex": 21
+    },
+    {
+      "id": "node_r24",
+      "label": "Rule 24: Y → IES plural",
+      "description": "BABIES, CITIES — consonant+Y → I+ES",
+      "parentId": "node_suffix_rules",
+      "positionX": 100,
+      "positionY": 280,
+      "color": "#81C784",
+      "orderIndex": 22
+    },
+    {
+      "id": "node_r25",
+      "label": "Rule 25: -TION / -SION",
+      "description": "NATION, TENSION — both say /shun/",
+      "parentId": "node_suffix_rules",
+      "positionX": 150,
+      "positionY": 280,
+      "color": "#81C784",
+      "orderIndex": 23
+    },
+    {
+      "id": "node_r26",
+      "label": "Rule 26: -ABLE / -IBLE",
+      "description": "COMFORTABLE vs VISIBLE",
+      "parentId": "node_suffix_rules",
+      "positionX": 200,
+      "positionY": 280,
+      "color": "#81C784",
+      "orderIndex": 24
+    },
+    {
+      "id": "node_r27",
+      "label": "Rule 27: -AL adjective",
+      "description": "ACCIDENTAL, MUSICAL — noun→adjective",
+      "parentId": "node_suffix_rules",
+      "positionX": 100,
+      "positionY": 360,
+      "color": "#81C784",
+      "orderIndex": 25
+    },
+    {
+      "id": "node_r28",
+      "label": "Rule 28: -LY adverb",
+      "description": "QUICKLY, FINALLY — L+LY=LLY",
+      "parentId": "node_suffix_rules",
+      "positionX": 150,
+      "positionY": 360,
+      "color": "#81C784",
+      "orderIndex": 26
+    },
+    {
+      "id": "node_silent_e_rules",
+      "label": "Silent E Rules (17-21)",
+      "description": "The 5 jobs of silent E",
+      "parentId": "node_root",
+      "positionX": 350,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 27
+    },
+    {
+      "id": "node_r17",
+      "label": "Rule 17: Job 1 — Long Vowel",
+      "description": "BAKE, DRIVE, FLUTE — E makes vowel say its name",
+      "parentId": "node_silent_e_rules",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 28
+    },
+    {
+      "id": "node_r18",
+      "label": "Rule 18: Job 2 — V/U Guard",
+      "description": "GIVE, BLUE — words don't end in V or U",
+      "parentId": "node_silent_e_rules",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 29
+    },
+    {
+      "id": "node_r19",
+      "label": "Rule 19: Job 3 — Soft C/G",
+      "description": "DANCE, LARGE — E keeps C and G soft",
+      "parentId": "node_silent_e_rules",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 30
+    },
+    {
+      "id": "node_r20",
+      "label": "Rule 20: Job 4 — Syllable Vowel",
+      "description": "CASTLE, TABLE — every syllable needs a vowel",
+      "parentId": "node_silent_e_rules",
+      "positionX": 300,
+      "positionY": 280,
+      "color": "#BA68C8",
+      "orderIndex": 31
+    },
+    {
+      "id": "node_r21",
+      "label": "Rule 21: Job 5 — Not Plural",
+      "description": "HOUSE, GOOSE — E prevents fake plural look",
+      "parentId": "node_silent_e_rules",
+      "positionX": 350,
+      "positionY": 280,
+      "color": "#BA68C8",
+      "orderIndex": 32
+    },
+    {
+      "id": "node_shield_rules",
+      "label": "Shield Rules (29-30)",
+      "description": "How letters protect short vowels and soft consonants",
+      "parentId": "node_root",
+      "positionX": 550,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 33
+    },
+    {
+      "id": "node_r29",
+      "label": "Rule 29: I shields C/G",
+      "description": "DANCING, MANAGING — I keeps C and G soft",
+      "parentId": "node_shield_rules",
+      "positionX": 500,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 34
+    },
+    {
+      "id": "node_r30",
+      "label": "Rule 30: CK/DGE/TCH shields",
+      "description": "BACK vs BAKE, BADGE vs CAGE — short vowel protection",
+      "parentId": "node_shield_rules",
+      "positionX": 600,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 35
+    },
+    {
+      "id": "node_advanced_rules",
+      "label": "Advanced Rules (31-38)",
+      "description": "Advanced patterns, silent letters, vowel warping, and borrowed words",
+      "parentId": "node_root",
+      "positionX": 750,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 36
+    },
+    {
+      "id": "node_r31",
+      "label": "Rule 31: O → /u/ before M,N,V,TH",
+      "description": "MOTHER, MONEY, LOVE, MONTH",
+      "parentId": "node_advanced_rules",
+      "positionX": 650,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 37
+    },
+    {
+      "id": "node_r32",
+      "label": "Rule 32: Silent E alternate jobs",
+      "description": "HAVE (Job 2), DANCE (Job 3) — not always long vowel",
+      "parentId": "node_advanced_rules",
+      "positionX": 700,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 38
+    },
+    {
+      "id": "node_r33",
+      "label": "Rule 33: Silent pairs",
+      "description": "KN, WR, GN, MB, MN — first letter is silent",
+      "parentId": "node_advanced_rules",
+      "positionX": 750,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 39
+    },
+    {
+      "id": "node_r34",
+      "label": "Rule 34: Silent L",
+      "description": "WALK, CALM — L silent in LK and LM",
+      "parentId": "node_advanced_rules",
+      "positionX": 800,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 40
+    },
+    {
+      "id": "node_r35",
+      "label": "Rule 35: W warps A",
+      "description": "WATCH, WANT — A says /o/ after W",
+      "parentId": "node_advanced_rules",
+      "positionX": 850,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 41
+    },
+    {
+      "id": "node_r36",
+      "label": "Rule 36: L warps vowels",
+      "description": "BALL /awl/, ROLL /ohl/, FULL /ool/",
+      "parentId": "node_advanced_rules",
+      "positionX": 700,
+      "positionY": 280,
+      "color": "#EF5350",
+      "orderIndex": 42
+    },
+    {
+      "id": "node_r37",
+      "label": "Rule 37: -IGHT pattern",
+      "description": "LIGHT, NIGHT — always says /eye-t/",
+      "parentId": "node_advanced_rules",
+      "positionX": 750,
+      "positionY": 280,
+      "color": "#EF5350",
+      "orderIndex": 43
+    },
+    {
+      "id": "node_r38",
+      "label": "Rule 38: Borrowed words",
+      "description": "Greek PH, CH; French CH; Latin TI — foreign patterns",
+      "parentId": "node_advanced_rules",
+      "positionX": 800,
+      "positionY": 280,
+      "color": "#EF5350",
+      "orderIndex": 44
+    }
+  ]
+}

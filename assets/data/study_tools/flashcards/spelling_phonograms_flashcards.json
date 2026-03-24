@@ -1,0 +1,581 @@
+{
+  "chapterId": "phonograms",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "decks": [
+    {
+      "id": "deck_spell_vowels",
+      "name": "Vowels",
+      "description": "The 6 single vowels and their multiple sounds",
+      "topicId": "spell_phonograms_vowels",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_001",
+          "front": "A",
+          "back": "/a/ as in CAT 🐱, /ay/ as in CAKE 🎂, /ah/ as in DAD 👨",
+          "hint": "This vowel has 3 sounds — short, long, and broad",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_002",
+          "front": "E",
+          "back": "/e/ as in BED 🛏️, /ee/ as in BE 🐝",
+          "hint": "The most common letter in English — 2 sounds",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_003",
+          "front": "I",
+          "back": "/i/ as in SIT 🪑, /eye/ as in KITE 🪁",
+          "hint": "Short I is one of the trickiest sounds — 2 sounds",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_004",
+          "front": "O",
+          "back": "/o/ as in DOG 🐶, /oh/ as in GO 🏃, /oo/ as in DO ✅",
+          "hint": "The oldest letter — 3 sounds",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_phon_005",
+          "front": "U",
+          "back": "/u/ as in CUP ☕, /yoo/ as in USE 🔧",
+          "hint": "U always follows Q — 2 sounds",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_phon_006",
+          "front": "Y",
+          "back": "/y/ as in YES ✅, /ee/ as in HAPPY 😊, /eye/ as in FLY ✈️, /i/ as in GYM 🏋️",
+          "hint": "Both a consonant AND a vowel — 4 sounds",
+          "orderIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_consonants",
+      "name": "Consonants",
+      "description": "The 20 single consonants and their sounds",
+      "topicId": "spell_phonograms_consonants",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_007",
+          "front": "B",
+          "back": "/b/ as in BAT 🦇, BIG 🐘, BUS 🚌",
+          "hint": "Silent in LAMB and CLIMB",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_008",
+          "front": "C",
+          "back": "/k/ as in CAT 🐱, CUP ☕ | /s/ as in ICE 🧊, CITY 🏙️",
+          "hint": "C says /s/ before E, I, Y — zero exceptions (Rule 1)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_009",
+          "front": "D",
+          "back": "/d/ as in DOG 🐶, DIG ⛏️, DAD 👨",
+          "hint": "One of the most reliable consonants",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_010",
+          "front": "F",
+          "back": "/f/ as in FISH 🐟, FUN 🎉, FAN 🌀",
+          "hint": "Used to be written as FF in Old English",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_phon_011",
+          "front": "G",
+          "back": "/g/ as in GO 🏃, BIG 🐘 | /j/ as in GEM 💎, GIANT 🦕",
+          "hint": "G TENDS to soften before E, I, Y — but has exceptions (Rule 2)",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_phon_012",
+          "front": "H",
+          "back": "/h/ as in HAT 🎩, HEN 🐔, HOP 🐇",
+          "hint": "Silent in HOUR, HONEST, and HEIR",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_phon_013",
+          "front": "J",
+          "back": "/j/ as in JAM 🫙, JET ✈️, JOY 😄",
+          "hint": "The last letter added to the English alphabet",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_phon_014",
+          "front": "K",
+          "back": "/k/ as in KITE 🪁, KING 👑, KEY 🔑",
+          "hint": "Silent before N as in KNEE and KNOW",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_phon_015",
+          "front": "L",
+          "back": "/l/ as in LIP 👄, LEG 🦵, LION 🦁",
+          "hint": "Sometimes silent as in WALK, TALK, and CALM",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_phon_016",
+          "front": "M",
+          "back": "/m/ as in MAP 🗺️, MILK 🥛, MOON 🌙",
+          "hint": "One of the first sounds babies learn to make",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_phon_017",
+          "front": "N",
+          "back": "/n/ as in NET 🥅, NOSE 👃, NUT 🥜",
+          "hint": "The 6th most common letter in English",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_phon_018",
+          "front": "P",
+          "back": "/p/ as in PIG 🐷, PEN 🖊️, POT 🍲",
+          "hint": "Silent in PSALM, PNEUMONIA, and PSYCHOLOGY",
+          "orderIndex": 11
+        },
+        {
+          "id": "card_phon_019",
+          "front": "Q",
+          "back": "/kw/ as in QUEEN 👑, QUICK ⚡, QUIET 🤫",
+          "hint": "Q never goes anywhere without U — always QU",
+          "orderIndex": 12
+        },
+        {
+          "id": "card_phon_020",
+          "front": "R",
+          "back": "/r/ as in RED 🔴, RUN 🏃, RAIN 🌧️",
+          "hint": "R controls vowels when it follows them",
+          "orderIndex": 13
+        },
+        {
+          "id": "card_phon_021",
+          "front": "S",
+          "back": "/s/ as in SUN ☀️, SIT 🪑 | /z/ as in IS, HIS, DOGS",
+          "hint": "S says /z/ between vowels and after voiced consonants",
+          "orderIndex": 14
+        },
+        {
+          "id": "card_phon_022",
+          "front": "T",
+          "back": "/t/ as in TOP 🔝, TEN 🔟, TOY 🧸",
+          "hint": "One of the most common consonants",
+          "orderIndex": 15
+        },
+        {
+          "id": "card_phon_023",
+          "front": "V",
+          "back": "/v/ as in VAN 🚐, VINE 🌿, VOTE 🗳️",
+          "hint": "English words never end in V alone — needs E",
+          "orderIndex": 16
+        },
+        {
+          "id": "card_phon_024",
+          "front": "W",
+          "back": "/w/ as in WEB 🕸️, WIN 🏆, WAX 🕯️",
+          "hint": "W warps the A sound — WATCH sounds like WOTCH",
+          "orderIndex": 17
+        },
+        {
+          "id": "card_phon_025",
+          "front": "X",
+          "back": "/ks/ as in BOX 📦, FOX 🦊 | /z/ as in XYLOPHONE 🎵",
+          "hint": "Says /z/ at the start of words, /ks/ elsewhere",
+          "orderIndex": 18
+        },
+        {
+          "id": "card_phon_026",
+          "front": "Z",
+          "back": "/z/ as in ZOO 🦁, ZERO 0️⃣, ZIP 🤐",
+          "hint": "Z is one of the least used letters in English",
+          "orderIndex": 19
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_consonant_teams",
+      "name": "Consonant Teams",
+      "description": "14 consonant teams — two or three letters making one sound",
+      "topicId": "spell_phonograms_consonant_teams",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_027",
+          "front": "SH",
+          "back": "/sh/ as in SHIP 🚢, FISH 🐟, SHOP 🛒",
+          "hint": "One of the most reliable consonant teams",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_028",
+          "front": "TH",
+          "back": "/th/ voiced as in THIS, THAT | /th/ unvoiced as in THINK, MATH",
+          "hint": "Two sounds — voiced (vibrates) and unvoiced (breathy)",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_029",
+          "front": "CH",
+          "back": "/ch/ as in CHIP 🍟, CHAIN ⛓️ | /k/ as in SCHOOL 🏫 | /sh/ as in CHEF 👨‍🍳",
+          "hint": "Three sounds — English /ch/, Greek /k/, French /sh/",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_030",
+          "front": "WH",
+          "back": "/wh/ as in WHALE 🐋, WHEN ⏰, WHERE 📍",
+          "hint": "Some dialects pronounce the H, others just say /w/",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_phon_031",
+          "front": "PH",
+          "back": "/f/ as in PHONE 📱, PHOTO 📸, GRAPH 📊",
+          "hint": "Greek spelling for the /f/ sound",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_phon_032",
+          "front": "CK",
+          "back": "/k/ as in DUCK 🦆, BACK ↩️, KICK ⚽",
+          "hint": "The bodyguard — used right after a single short vowel",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_phon_033",
+          "front": "NK",
+          "back": "/ngk/ as in BANK 🏦, THINK 🤔, INK 🖋️",
+          "hint": "The N becomes /ng/ before K",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_phon_034",
+          "front": "NG",
+          "back": "/ng/ as in RING 💍, SING 🎤, KING 👑",
+          "hint": "A nasal sound made at the back of the throat",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_phon_035",
+          "front": "GH",
+          "back": "/g/ as in GHOST 👻 | silent as in NIGHT 🌙",
+          "hint": "Says /g/ at the start, silent in the middle/end",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_phon_036",
+          "front": "KN",
+          "back": "/n/ as in KNEE 🦵, KNOCK 🚪, KNOW 🧠",
+          "hint": "K is always silent before N",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_phon_037",
+          "front": "WR",
+          "back": "/r/ as in WRITE ✍️, WRONG ❌, WRAP 🎁",
+          "hint": "W is always silent before R",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_phon_038",
+          "front": "GN",
+          "back": "/n/ as in GNAT 🪰, GNAW 🦷, SIGN ✋",
+          "hint": "G is silent in GN",
+          "orderIndex": 11
+        },
+        {
+          "id": "card_phon_039",
+          "front": "DGE",
+          "back": "/j/ as in BADGE 🎖️, BRIDGE 🌉, FUDGE 🍫",
+          "hint": "The D shields the short vowel before the /j/ sound",
+          "orderIndex": 12
+        },
+        {
+          "id": "card_phon_040",
+          "front": "TCH",
+          "back": "/ch/ as in MATCH 🔥, CATCH 🥎, WATCH ⌚",
+          "hint": "The T shields the short vowel before the /ch/ sound",
+          "orderIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_vowel_teams",
+      "name": "Vowel Teams",
+      "description": "18 vowel teams — two vowels working together",
+      "topicId": "spell_phonograms_vowel_teams",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_041",
+          "front": "EE",
+          "back": "/ee/ as in TREE 🌲, BEE 🐝, SEED 🌱",
+          "hint": "Always says /ee/ — one of the most reliable vowel teams",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_042",
+          "front": "EA",
+          "back": "/ee/ as in BEAN 🫘, READ 📖 | /e/ as in BREAD 🍞 | /ay/ as in BREAK 💔",
+          "hint": "Three sounds — /ee/ is most common",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_043",
+          "front": "OA",
+          "back": "/oh/ as in GOAT 🐐, BOAT ⛵, ROAD 🛣️",
+          "hint": "Always says long O — very reliable",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_044",
+          "front": "OI",
+          "back": "/oy/ as in COIN 🪙, JOIN 🤝, BOIL 🫧",
+          "hint": "Used in the MIDDLE of words (Rule 10)",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_phon_045",
+          "front": "OY",
+          "back": "/oy/ as in BOY 👦, TOY 🧸, JOY 😄",
+          "hint": "Used at the END of words (Rule 10)",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_phon_046",
+          "front": "OU",
+          "back": "/ow/ as in OUT 👉, /oo/ as in YOU, /u/ as in TOUCH 🤲",
+          "hint": "Multiple sounds — /ow/ is most common",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_phon_047",
+          "front": "OW",
+          "back": "/ow/ as in COW 🐄, OWL 🦉 | /oh/ as in SNOW ❄️, GROW 🌱",
+          "hint": "Two sounds — /ow/ and /oh/",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_phon_048",
+          "front": "AU",
+          "back": "/aw/ as in SAUCE 🍝, PAUSE ⏸️, HAUNT 👻",
+          "hint": "Used in the MIDDLE of words",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_phon_049",
+          "front": "AW",
+          "back": "/aw/ as in SAW 🪚, DRAW ✏️, LAW ⚖️",
+          "hint": "Used at the END of words — partner of AU",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_phon_050",
+          "front": "EW",
+          "back": "/oo/ as in NEW 🆕, BLEW 💨 | /yoo/ as in FEW 🤏, DEW 💧",
+          "hint": "Two sounds — /oo/ and /yoo/",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_phon_051",
+          "front": "OO",
+          "back": "/oo/ as in MOON 🌙, FOOD 🍕 | /oo/ short as in BOOK 📚, COOK 👨‍🍳",
+          "hint": "Two sounds — long /oo/ and short /oo/",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_phon_052",
+          "front": "AI",
+          "back": "/ay/ as in RAIN 🌧️, WAIT ⏳, TRAIN 🚂",
+          "hint": "Used in the MIDDLE of words (Rule 9)",
+          "orderIndex": 11
+        },
+        {
+          "id": "card_phon_053",
+          "front": "AY",
+          "back": "/ay/ as in PLAY ▶️, DAY ☀️, STAY 🏠",
+          "hint": "Used at the END of words (Rule 9)",
+          "orderIndex": 12
+        },
+        {
+          "id": "card_phon_054",
+          "front": "EI",
+          "back": "/ay/ as in VEIN 💉, REIN 🐴 | /ee/ as in CEILING 🏠",
+          "hint": "Two sounds — I before E except after C",
+          "orderIndex": 13
+        },
+        {
+          "id": "card_phon_055",
+          "front": "EY",
+          "back": "/ay/ as in THEY 👥, GREY 🩶 | /ee/ as in KEY 🔑, MONEY 💰",
+          "hint": "Two sounds — /ay/ and /ee/",
+          "orderIndex": 14
+        },
+        {
+          "id": "card_phon_056",
+          "front": "IE",
+          "back": "/ee/ as in FIELD 🏟️, THIEF 🦹 | /eye/ as in PIE 🥧, TIE 👔",
+          "hint": "Two sounds — /ee/ and /eye/",
+          "orderIndex": 15
+        },
+        {
+          "id": "card_phon_057",
+          "front": "UE",
+          "back": "/oo/ as in BLUE 🔵, TRUE ✅ | /yoo/ as in CUE 🎱, RESCUE 🚑",
+          "hint": "E guards U — English words don't end in U alone",
+          "orderIndex": 16
+        },
+        {
+          "id": "card_phon_058",
+          "front": "UI",
+          "back": "/oo/ as in FRUIT 🍎, JUICE 🧃 | /i/ as in BUILD 🏗️",
+          "hint": "Two sounds — /oo/ is more common",
+          "orderIndex": 17
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_r_controlled",
+      "name": "R-Controlled Vowels",
+      "description": "5 R-controlled vowels where R changes the vowel sound",
+      "topicId": "spell_phonograms_r_controlled",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_059",
+          "front": "AR",
+          "back": "/ar/ as in CAR 🚗, STAR ⭐, FARM 🚜",
+          "hint": "R takes control — makes A say /ar/",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_060",
+          "front": "ER",
+          "back": "/er/ as in HER 👩, FERN 🌿, RIVER 🏞️",
+          "hint": "One of the three /er/ triplets — ER, IR, UR all sound the same",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_061",
+          "front": "IR",
+          "back": "/er/ as in BIRD 🐦, GIRL 👧, STIR 🥄",
+          "hint": "Sounds just like ER and UR — a spelling choice",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_062",
+          "front": "UR",
+          "back": "/er/ as in BURN 🔥, TURN ↩️, NURSE 👩‍⚕️",
+          "hint": "The third /er/ triplet — same sound as ER and IR",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_phon_063",
+          "front": "OR",
+          "back": "/or/ as in FORK 🍴, HORN 📯, STORM ⛈️",
+          "hint": "R controls the O sound",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_gh_combos",
+      "name": "GH Combos",
+      "description": "4 GH combination phonograms",
+      "topicId": "spell_phonograms_gh_combos",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_064",
+          "front": "IGH",
+          "back": "/eye/ as in LIGHT 💡, NIGHT 🌙, BRIGHT ✨",
+          "hint": "GH is silent — three letters for one sound",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_065",
+          "front": "EIGH",
+          "back": "/ay/ as in EIGHT 8️⃣, WEIGH ⚖️, SLEIGH 🛷",
+          "hint": "GH is silent — four letters for /ay/",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_066",
+          "front": "OUGH",
+          "back": "/oh/ as in THOUGH, /oo/ as in THROUGH, /ow/ as in PLOUGH, /uf/ as in ROUGH, /off/ as in COUGH, /aw/ as in THOUGHT",
+          "hint": "The trickiest phonogram — SIX different sounds!",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_067",
+          "front": "AUGH",
+          "back": "/aw/ as in CAUGHT 🥎, DAUGHTER 👧, NAUGHTY 😈",
+          "hint": "Always says /aw/ — four letters, one sound",
+          "orderIndex": 3
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_special",
+      "name": "Special Phonograms",
+      "description": "6 special phonograms used in suffixes and borrowed words",
+      "topicId": "spell_phonograms_special",
+      "chapterId": "phonograms",
+      "cards": [
+        {
+          "id": "card_phon_068",
+          "front": "TI",
+          "back": "/sh/ as in NATION 🌍, ACTION 🎬, PATIENT ⏳",
+          "hint": "Says /sh/ at the start of a suffix — Latin origin",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_phon_069",
+          "front": "CI",
+          "back": "/sh/ as in SPECIAL ⭐, SOCIAL 🤝, ANCIENT 🏛️",
+          "hint": "Says /sh/ at the start of a suffix — Latin origin",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_phon_070",
+          "front": "SI",
+          "back": "/sh/ as in SESSION 📋, TENSION ⚡ | /zh/ as in VISION 👁️, DIVISION ➗",
+          "hint": "Two sounds — /sh/ and /zh/ (voiced version)",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_phon_071",
+          "front": "SCI",
+          "back": "/sh/ as in SCIENCE 🔬, SCISSORS ✂️, CONSCIOUS 🧠",
+          "hint": "Quite rare — /sh/ from Latin roots",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_phon_072",
+          "front": "ED",
+          "back": "/ed/ as in WANTED 🙏, /d/ as in CALLED 📞, /t/ as in JUMPED 🦘",
+          "hint": "Three sounds — depends on the last sound of the base word",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_phon_073",
+          "front": "QU",
+          "back": "/kw/ as in QUEEN 👑, QUICK ⚡, QUEST 🗺️",
+          "hint": "Q and U are inseparable — Q never appears without U",
+          "orderIndex": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "free": {
+    "learnTheSoundsAllLessons": true,
+    "soundBoardFull": true,
+    "dailyDecoderFull": true,
+    "wordBuilderFull": true,
+    "dailyChallengeFull": true,
+    "freeEpisodes": [0, 1, 2],
+    "previewDurationSeconds": 120,
+    "flashcardsPerDay": 50,
+    "quizzesPerDay": 5,
+    "spellingBeeMaxTier": 2,
+    "glossaryMaxWords": 1000,
+    "physicalGameFreeModes": 6,
+    "maxWordTier": 2
+  },
+  "premium": {
+    "allEpisodes": true,
+    "allGames": true,
+    "unlimitedFlashcards": true,
+    "unlimitedQuizzes": true,
+    "allTiers": true,
+    "allGlossary": true,
+    "allPhysicalModes": true,
+    "offlineMode": true,
+    "familyProfiles": 5,
+    "parentAnalytics": true,
+    "mindMaps": true
+  },
+  "pricing": {
+    "yearly": 499,
+    "monthly": 99,
+    "trialDays": 7,
+    "currency": "INR"
+  },
+  "physicalGames": [
+    {
+      "id": "phonogram_power_cards",
+      "name": {"en": "Phonogram Power Cards", "hi": "फोनोग्राम पावर कार्ड्स", "mr": "फोनोग्राम पॉवर कार्ड्स"},
+      "playerCount": "2-6",
+      "ageRange": "5-14",
+      "totalModes": 40,
+      "freeModes": 6
+    },
+    {
+      "id": "rule_breaker",
+      "name": {"en": "Rule Breaker Board Game", "hi": "रूल ब्रेकर बोर्ड गेम", "mr": "रूल ब्रेकर बोर्ड गेम"},
+      "playerCount": "2-4",
+      "ageRange": "8-14",
+      "totalModes": 50,
+      "freeModes": 6
+    },
+    {
+      "id": "crack_the_tower",
+      "name": {"en": "Crack the Tower", "hi": "क्रैक द टावर", "mr": "क्रॅक द टॉवर"},
+      "playerCount": "2-6",
+      "ageRange": "6-14",
+      "totalModes": 50,
+      "freeModes": 6
+    },
+    {
+      "id": "phonogram_slam",
+      "name": {"en": "Phonogram Slam", "hi": "फोनोग्राम स्लैम", "mr": "फोनोग्राम स्लॅम"},
+      "playerCount": "2-8",
+      "ageRange": "5-14",
+      "totalModes": 34,
+      "freeModes": 6
+    },
+    {
+      "id": "sticker_chart",
+      "name": {"en": "Sticker Chart", "hi": "स्टिकर चार्ट", "mr": "स्टिकर चार्ट"},
+      "playerCount": "1",
+      "ageRange": "2-10",
+      "totalModes": 25,
+      "freeModes": 6
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "chapterId": "phonogram_families",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "nodes": [
+    {
+      "id": "node_root",
+      "label": "73 Phonograms",
+      "description": "The building blocks of English spelling — letters and letter teams that represent sounds",
+      "parentId": null,
+      "positionX": 0,
+      "positionY": 0,
+      "color": "#FF6F00",
+      "orderIndex": 0
+    },
+    {
+      "id": "node_vowels",
+      "label": "Vowels (6)",
+      "description": "A, E, I, O, U, Y — each makes multiple sounds",
+      "parentId": "node_root",
+      "positionX": -400,
+      "positionY": 100,
+      "color": "#E57373",
+      "orderIndex": 1
+    },
+    {
+      "id": "node_v_a",
+      "label": "A",
+      "description": "/a/ CAT, /ay/ CAKE, /ah/ DAD — 3 sounds",
+      "parentId": "node_vowels",
+      "positionX": -500,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 2
+    },
+    {
+      "id": "node_v_e",
+      "label": "E",
+      "description": "/e/ BED, /ee/ BE — 2 sounds, most common letter",
+      "parentId": "node_vowels",
+      "positionX": -450,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 3
+    },
+    {
+      "id": "node_v_i",
+      "label": "I",
+      "description": "/i/ SIT, /eye/ KITE — 2 sounds",
+      "parentId": "node_vowels",
+      "positionX": -400,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 4
+    },
+    {
+      "id": "node_v_o",
+      "label": "O",
+      "description": "/o/ DOG, /oh/ GO, /oo/ DO — 3 sounds",
+      "parentId": "node_vowels",
+      "positionX": -350,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 5
+    },
+    {
+      "id": "node_v_u",
+      "label": "U",
+      "description": "/u/ CUP, /yoo/ USE — 2 sounds",
+      "parentId": "node_vowels",
+      "positionX": -300,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 6
+    },
+    {
+      "id": "node_v_y",
+      "label": "Y",
+      "description": "/y/ YES, /ee/ HAPPY, /eye/ FLY, /i/ GYM — 4 sounds",
+      "parentId": "node_vowels",
+      "positionX": -250,
+      "positionY": 200,
+      "color": "#EF9A9A",
+      "orderIndex": 7
+    },
+    {
+      "id": "node_consonants",
+      "label": "Consonants (20)",
+      "description": "B through Z — single letters representing consonant sounds",
+      "parentId": "node_root",
+      "positionX": -150,
+      "positionY": 100,
+      "color": "#2196F3",
+      "orderIndex": 8
+    },
+    {
+      "id": "node_c_single",
+      "label": "1-Sound (14)",
+      "description": "B /b/, D /d/, F /f/, H /h/, J /j/, K /k/, L /l/, M /m/, N /n/, P /p/, R /r/, T /t/, V /v/, W /w/",
+      "parentId": "node_consonants",
+      "positionX": -200,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 9
+    },
+    {
+      "id": "node_c_multi",
+      "label": "2-Sound (4)",
+      "description": "C (/k/, /s/), G (/g/, /j/), S (/s/, /z/), X (/ks/, /z/)",
+      "parentId": "node_consonants",
+      "positionX": -100,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 10
+    },
+    {
+      "id": "node_c_q_z",
+      "label": "Special (2)",
+      "description": "Q /kw/ (always with U), Z /z/",
+      "parentId": "node_consonants",
+      "positionX": -50,
+      "positionY": 200,
+      "color": "#64B5F6",
+      "orderIndex": 11
+    },
+    {
+      "id": "node_cteams",
+      "label": "Consonant Teams (14)",
+      "description": "Two or three letters making one consonant sound",
+      "parentId": "node_root",
+      "positionX": 100,
+      "positionY": 100,
+      "color": "#4CAF50",
+      "orderIndex": 12
+    },
+    {
+      "id": "node_ct_basic",
+      "label": "Basic Teams",
+      "description": "SH /sh/, TH /th/, CH /ch/, WH /wh/, PH /f/",
+      "parentId": "node_cteams",
+      "positionX": 50,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 13
+    },
+    {
+      "id": "node_ct_nasal",
+      "label": "Nasal Teams",
+      "description": "NG /ng/, NK /ngk/",
+      "parentId": "node_cteams",
+      "positionX": 100,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 14
+    },
+    {
+      "id": "node_ct_silent",
+      "label": "Silent Letter Teams",
+      "description": "KN (K silent), WR (W silent), GN (G silent), GH (/g/ or silent)",
+      "parentId": "node_cteams",
+      "positionX": 150,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 15
+    },
+    {
+      "id": "node_ct_shield",
+      "label": "Shield Teams",
+      "description": "CK /k/, DGE /j/, TCH /ch/ — protect short vowels",
+      "parentId": "node_cteams",
+      "positionX": 200,
+      "positionY": 200,
+      "color": "#81C784",
+      "orderIndex": 16
+    },
+    {
+      "id": "node_vteams",
+      "label": "Vowel Teams (18)",
+      "description": "Two vowels working together to make one sound",
+      "parentId": "node_root",
+      "positionX": 300,
+      "positionY": 100,
+      "color": "#9C27B0",
+      "orderIndex": 17
+    },
+    {
+      "id": "node_vt_long",
+      "label": "Long Vowel Teams",
+      "description": "EE /ee/, OA /oh/, AI /ay/, AY /ay/",
+      "parentId": "node_vteams",
+      "positionX": 250,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 18
+    },
+    {
+      "id": "node_vt_diphthong",
+      "label": "Diphthong Teams",
+      "description": "OI /oy/, OY /oy/, OU /ow/, OW /ow/",
+      "parentId": "node_vteams",
+      "positionX": 300,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 19
+    },
+    {
+      "id": "node_vt_aw",
+      "label": "AW Sound Teams",
+      "description": "AU /aw/, AW /aw/",
+      "parentId": "node_vteams",
+      "positionX": 350,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 20
+    },
+    {
+      "id": "node_vt_multi",
+      "label": "Multi-Sound Teams",
+      "description": "EA (3 sounds), EI (2), EY (2), IE (2), OO (2), UE (2), UI (2), EW (2)",
+      "parentId": "node_vteams",
+      "positionX": 400,
+      "positionY": 200,
+      "color": "#BA68C8",
+      "orderIndex": 21
+    },
+    {
+      "id": "node_rcontrolled",
+      "label": "R-Controlled (5)",
+      "description": "R changes the vowel sound that comes before it",
+      "parentId": "node_root",
+      "positionX": 500,
+      "positionY": 100,
+      "color": "#F44336",
+      "orderIndex": 22
+    },
+    {
+      "id": "node_rc_ar",
+      "label": "AR /ar/",
+      "description": "CAR, STAR, FARM — R makes A say /ar/",
+      "parentId": "node_rcontrolled",
+      "positionX": 450,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 23
+    },
+    {
+      "id": "node_rc_er",
+      "label": "ER, IR, UR /er/",
+      "description": "Three spellings, one sound: HER, BIRD, BURN",
+      "parentId": "node_rcontrolled",
+      "positionX": 500,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 24
+    },
+    {
+      "id": "node_rc_or",
+      "label": "OR /or/",
+      "description": "FORK, HORN, STORM — R makes O say /or/",
+      "parentId": "node_rcontrolled",
+      "positionX": 550,
+      "positionY": 200,
+      "color": "#EF5350",
+      "orderIndex": 25
+    },
+    {
+      "id": "node_ghcombos",
+      "label": "GH Combos (4)",
+      "description": "Phonograms containing the GH pattern",
+      "parentId": "node_root",
+      "positionX": 650,
+      "positionY": 100,
+      "color": "#FF9800",
+      "orderIndex": 26
+    },
+    {
+      "id": "node_gh_igh",
+      "label": "IGH /eye/",
+      "description": "LIGHT, NIGHT, BRIGHT — GH silent",
+      "parentId": "node_ghcombos",
+      "positionX": 600,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 27
+    },
+    {
+      "id": "node_gh_eigh",
+      "label": "EIGH /ay/",
+      "description": "EIGHT, WEIGH, SLEIGH — GH silent",
+      "parentId": "node_ghcombos",
+      "positionX": 650,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 28
+    },
+    {
+      "id": "node_gh_ough",
+      "label": "OUGH (6 sounds!)",
+      "description": "/oh/ THOUGH, /oo/ THROUGH, /ow/ PLOUGH, /uf/ ROUGH, /off/ COUGH, /aw/ THOUGHT",
+      "parentId": "node_ghcombos",
+      "positionX": 700,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 29
+    },
+    {
+      "id": "node_gh_augh",
+      "label": "AUGH /aw/",
+      "description": "CAUGHT, DAUGHTER, NAUGHTY — GH silent",
+      "parentId": "node_ghcombos",
+      "positionX": 750,
+      "positionY": 200,
+      "color": "#FFB74D",
+      "orderIndex": 30
+    },
+    {
+      "id": "node_special",
+      "label": "Special (6)",
+      "description": "Phonograms used in suffixes and borrowed words",
+      "parentId": "node_root",
+      "positionX": 850,
+      "positionY": 100,
+      "color": "#BDBDBD",
+      "orderIndex": 31
+    },
+    {
+      "id": "node_sp_ti",
+      "label": "TI /sh/",
+      "description": "NATION, ACTION, PATIENT — Latin suffix",
+      "parentId": "node_special",
+      "positionX": 800,
+      "positionY": 200,
+      "color": "#E0E0E0",
+      "orderIndex": 32
+    },
+    {
+      "id": "node_sp_ci",
+      "label": "CI /sh/",
+      "description": "SPECIAL, SOCIAL, ANCIENT — Latin suffix",
+      "parentId": "node_special",
+      "positionX": 850,
+      "positionY": 200,
+      "color": "#E0E0E0",
+      "orderIndex": 33
+    },
+    {
+      "id": "node_sp_si",
+      "label": "SI /sh/ or /zh/",
+      "description": "SESSION /sh/, VISION /zh/ — voiced and unvoiced",
+      "parentId": "node_special",
+      "positionX": 900,
+      "positionY": 200,
+      "color": "#E0E0E0",
+      "orderIndex": 34
+    },
+    {
+      "id": "node_sp_sci",
+      "label": "SCI /sh/",
+      "description": "SCIENCE, SCISSORS — rare, from Latin",
+      "parentId": "node_special",
+      "positionX": 950,
+      "positionY": 200,
+      "color": "#E0E0E0",
+      "orderIndex": 35
+    },
+    {
+      "id": "node_sp_ed",
+      "label": "ED (3 sounds)",
+      "description": "/ed/ WANTED, /d/ CALLED, /t/ JUMPED — past tense",
+      "parentId": "node_special",
+      "positionX": 1000,
+      "positionY": 200,
+      "color": "#E0E0E0",
+      "orderIndex": 36
+    },
+    {
+      "id": "node_sp_qu",
+      "label": "QU /kw/",
+      "description": "QUEEN, QUICK, QUEST — Q never without U",
+      "parentId": "node_special",
+      "positionX": 1050,
+      "positionY": 200,
+      "color": "#E0E0E0",
+      "orderIndex": 37
+    }
+  ]
+}

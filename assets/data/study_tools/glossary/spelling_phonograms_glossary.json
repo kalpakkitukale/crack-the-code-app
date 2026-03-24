@@ -1,0 +1,664 @@
+{
+  "chapterId": "phonograms",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "terms": [
+    {
+      "id": "gls_phon_001",
+      "term": "A",
+      "definition": "A single vowel phonogram with 3 sounds: /a/ as in CAT, /ay/ as in CAKE (long A), and /ah/ as in DAD. The third most used letter in English.",
+      "pronunciation": "Short: /a/ (cat), Long: /ay/ (cake), Broad: /ah/ (father)",
+      "exampleUsage": "CAT has short /a/, CAKE has long /ay/ because of silent E, and FATHER has the broad /ah/ sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel", "long vowel", "short vowel", "silent E"]
+    },
+    {
+      "id": "gls_phon_002",
+      "term": "E",
+      "definition": "A single vowel phonogram with 2 sounds: /e/ as in BED and /ee/ as in BE. The most common letter in the entire English language. Also serves as silent E with 5 different jobs.",
+      "pronunciation": "Short: /e/ (bed), Long: /ee/ (be)",
+      "exampleUsage": "BED has short /e/ in a closed syllable, while BE has long /ee/ at the end of a word.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel", "silent E", "long vowel"]
+    },
+    {
+      "id": "gls_phon_003",
+      "term": "I",
+      "definition": "A single vowel phonogram with 2 sounds: /i/ as in SIT and /eye/ as in KITE. Short I is one of the trickiest sounds for non-native speakers.",
+      "pronunciation": "Short: /i/ (sit), Long: /eye/ (kite)",
+      "exampleUsage": "SIT has short /i/ because the syllable is closed, while KITE has long /eye/ because of silent E.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel", "silent E", "Rule 3"]
+    },
+    {
+      "id": "gls_phon_004",
+      "term": "O",
+      "definition": "A single vowel phonogram with 3 sounds: /o/ as in DOG, /oh/ as in GO (long O), and /oo/ as in DO. The oldest letter in the alphabet.",
+      "pronunciation": "Short: /o/ (dog), Long: /oh/ (go), Third: /oo/ (do)",
+      "exampleUsage": "DOG has short /o/, HOME has long /oh/ from silent E, and TO has the /oo/ sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel", "R-controlled", "Rule 31"]
+    },
+    {
+      "id": "gls_phon_005",
+      "term": "U",
+      "definition": "A single vowel phonogram with 2 sounds: /u/ as in CUP and /yoo/ as in USE. U always follows Q in English words.",
+      "pronunciation": "Short: /u/ (cup), Long: /yoo/ (use)",
+      "exampleUsage": "CUP has short /u/ and USE has long /yoo/. In BLUE, U gets E as a companion (Rule 3).",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel", "QU", "Rule 3", "Rule 11"]
+    },
+    {
+      "id": "gls_phon_006",
+      "term": "Y",
+      "definition": "A unique phonogram that is both a consonant AND a vowel with 4 sounds: /y/ as in YES (consonant), /ee/ as in HAPPY, /eye/ as in FLY, and /i/ as in GYM.",
+      "pronunciation": "Consonant: /y/ (yes), Vowel: /ee/ (happy), /eye/ (fly), /i/ (gym)",
+      "exampleUsage": "Y says /y/ at the start (YES), /ee/ at the end of multi-syllable words (HAPPY), /eye/ at the end of one-syllable words (FLY).",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel", "consonant", "Rule 15", "Rule 16"]
+    },
+    {
+      "id": "gls_phon_007",
+      "term": "B",
+      "definition": "A single consonant phonogram with 1 sound: /b/ as in BAT. Silent in words ending in MB like LAMB and CLIMB.",
+      "pronunciation": "/b/ (bat)",
+      "exampleUsage": "BAT, BIG, and BUS all start with the /b/ sound. In THUMB, the B is silent.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "Rule 33"]
+    },
+    {
+      "id": "gls_phon_008",
+      "term": "C",
+      "definition": "A single consonant phonogram with 2 sounds: /k/ as in CAT (before A, O, U, or consonants) and /s/ as in ICE (before E, I, Y). Rule 1 governs this with zero exceptions.",
+      "pronunciation": "Hard: /k/ (cat), Soft: /s/ (ice)",
+      "exampleUsage": "C says /k/ in CAT (before A) and /s/ in CITY (before I). This is Rule 1 — no exceptions!",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant", "Rule 1", "CK", "soft C"]
+    },
+    {
+      "id": "gls_phon_009",
+      "term": "D",
+      "definition": "A single consonant phonogram with 1 sound: /d/ as in DOG. One of the most reliable consonants in English.",
+      "pronunciation": "/d/ (dog)",
+      "exampleUsage": "DOG, DIG, and DAD all use the reliable /d/ sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "ED"]
+    },
+    {
+      "id": "gls_phon_010",
+      "term": "F",
+      "definition": "A single consonant phonogram with 1 sound: /f/ as in FISH. Doubles to FF after a short vowel in one-syllable words (Rule 5).",
+      "pronunciation": "/f/ (fish)",
+      "exampleUsage": "FISH and FUN use single F. STAFF and CLIFF use FF after a short vowel (Rule 5).",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "FF", "PH", "Rule 5"]
+    },
+    {
+      "id": "gls_phon_011",
+      "term": "G",
+      "definition": "A single consonant phonogram with 2 sounds: /g/ as in GO and /j/ as in GEM. G tends to soften before E, I, Y but has exceptions (Rule 2).",
+      "pronunciation": "Hard: /g/ (go), Soft: /j/ (gem)",
+      "exampleUsage": "GO and BIG have hard /g/. GEM and GIANT have soft /j/. But GET and GIFT keep hard /g/ — exceptions to the softening.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant", "Rule 2", "DGE", "soft G"]
+    },
+    {
+      "id": "gls_phon_012",
+      "term": "H",
+      "definition": "A single consonant phonogram with 1 sound: /h/ as in HAT. Silent in HOUR, HONEST, and HEIR. Part of many consonant teams: SH, TH, CH, WH, PH, GH.",
+      "pronunciation": "/h/ (hat)",
+      "exampleUsage": "HAT and HELP start with /h/. In HOUR, the H is silent.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "SH", "TH", "CH", "WH", "PH", "GH"]
+    },
+    {
+      "id": "gls_phon_013",
+      "term": "J",
+      "definition": "A single consonant phonogram with 1 sound: /j/ as in JAM. The last letter added to the English alphabet. English words don't end in J (Rule 3).",
+      "pronunciation": "/j/ (jam)",
+      "exampleUsage": "JAM, JET, and JOY all have /j/. Words ending in the /j/ sound use DGE (BADGE) or GE (CAGE) instead.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "DGE", "Rule 3"]
+    },
+    {
+      "id": "gls_phon_014",
+      "term": "K",
+      "definition": "A single consonant phonogram with 1 sound: /k/ as in KITE. Silent before N as in KNEE and KNOW (Rule 33).",
+      "pronunciation": "/k/ (kite)",
+      "exampleUsage": "KITE and KING start with /k/. In KNEE and KNOW, the K is silent before N.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "CK", "KN", "Rule 33"]
+    },
+    {
+      "id": "gls_phon_015",
+      "term": "L",
+      "definition": "A single consonant phonogram with 1 sound: /l/ as in LIP. Sometimes silent as in WALK and CALM (Rule 34). L warps vowels in ALL, OLL, ULL (Rule 36).",
+      "pronunciation": "/l/ (lip)",
+      "exampleUsage": "LIP and LION have clear /l/. WALK has silent L. BALL has L-warped A saying /awl/.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "LL", "Rule 34", "Rule 36"]
+    },
+    {
+      "id": "gls_phon_016",
+      "term": "M",
+      "definition": "A single consonant phonogram with 1 sound: /m/ as in MAP. One of the first sounds babies learn to make.",
+      "pronunciation": "/m/ (map)",
+      "exampleUsage": "MAP, MILK, and MOON all use the /m/ sound. MOM has M at both the start and end.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant"]
+    },
+    {
+      "id": "gls_phon_017",
+      "term": "N",
+      "definition": "A single consonant phonogram with 1 sound: /n/ as in NET. The 6th most common letter in English.",
+      "pronunciation": "/n/ (net)",
+      "exampleUsage": "NET, NOSE, and NUT all start with /n/. FAN ends with /n/.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "NG", "NK", "KN"]
+    },
+    {
+      "id": "gls_phon_018",
+      "term": "P",
+      "definition": "A single consonant phonogram with 1 sound: /p/ as in PIG. Silent in PSALM, PNEUMONIA, and PSYCHOLOGY.",
+      "pronunciation": "/p/ (pig)",
+      "exampleUsage": "PIG, PEN, and POT all have /p/. In PSYCHOLOGY, the P is silent.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "PH"]
+    },
+    {
+      "id": "gls_phon_019",
+      "term": "Q",
+      "definition": "A single consonant phonogram that always appears with U. QU says /kw/ as in QUEEN (Rule 11). No standard English word has Q without U.",
+      "pronunciation": "/kw/ (queen) — always as QU",
+      "exampleUsage": "QUEEN, QUICK, and QUIET all have QU saying /kw/. Q never appears alone.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "QU", "Rule 11"]
+    },
+    {
+      "id": "gls_phon_020",
+      "term": "R",
+      "definition": "A single consonant phonogram with 1 sound: /r/ as in RED. When R follows a vowel, it controls and changes the vowel sound (R-controlled vowels).",
+      "pronunciation": "/r/ (red)",
+      "exampleUsage": "RED and RUN start with /r/. In CAR, the R controls the A to make /ar/.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "AR", "ER", "IR", "UR", "OR"]
+    },
+    {
+      "id": "gls_phon_021",
+      "term": "S",
+      "definition": "A single consonant phonogram with 2 sounds: /s/ as in SUN and /z/ as in IS. S says /z/ between vowels and after voiced consonants.",
+      "pronunciation": "Voiceless: /s/ (sun), Voiced: /z/ (is)",
+      "exampleUsage": "SUN starts with /s/. In IS and DOGS, S says /z/ because it follows voiced sounds.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant", "SS", "Rule 4", "Rule 5"]
+    },
+    {
+      "id": "gls_phon_022",
+      "term": "T",
+      "definition": "A single consonant phonogram with 1 sound: /t/ as in TOP. Part of many teams: TH, TCH, TI. One of the most common consonants.",
+      "pronunciation": "/t/ (top)",
+      "exampleUsage": "TOP, TEN, and TOY all use /t/. T also appears in teams like TH (THINK) and TCH (MATCH).",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "TH", "TCH", "TI"]
+    },
+    {
+      "id": "gls_phon_023",
+      "term": "V",
+      "definition": "A single consonant phonogram with 1 sound: /v/ as in VAN. English words never end in V alone — E is always added (Rule 3).",
+      "pronunciation": "/v/ (van)",
+      "exampleUsage": "VAN and VINE start with /v/. GIVE and HAVE end with VE because V can't end a word alone.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "Rule 3", "Rule 18"]
+    },
+    {
+      "id": "gls_phon_024",
+      "term": "W",
+      "definition": "A single consonant phonogram with 1 sound: /w/ as in WEB. W warps the A sound toward /o/ in words like WATCH and WANT (Rule 35).",
+      "pronunciation": "/w/ (web)",
+      "exampleUsage": "WEB and WIN start with /w/. In WATCH, W warps A from /a/ toward /o/.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "WH", "WR", "Rule 35"]
+    },
+    {
+      "id": "gls_phon_025",
+      "term": "X",
+      "definition": "A single consonant phonogram with 2 sounds: /ks/ as in BOX (most common) and /z/ as in XYLOPHONE (at start of words).",
+      "pronunciation": "End: /ks/ (box), Start: /z/ (xylophone)",
+      "exampleUsage": "BOX and FOX have /ks/ at the end. XYLOPHONE has /z/ at the start — rare position for X.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant", "Rule 23"]
+    },
+    {
+      "id": "gls_phon_026",
+      "term": "Z",
+      "definition": "A single consonant phonogram with 1 sound: /z/ as in ZOO. One of the least used letters in English. Doubles to ZZ after short vowels (Rule 5).",
+      "pronunciation": "/z/ (zoo)",
+      "exampleUsage": "ZOO and ZERO start with /z/. BUZZ and JAZZ have ZZ after short vowels.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant", "ZZ", "Rule 5"]
+    },
+    {
+      "id": "gls_phon_027",
+      "term": "SH",
+      "definition": "A consonant team phonogram with 1 sound: /sh/ as in SHIP. Two letters making one sound that neither S nor H makes alone.",
+      "pronunciation": "/sh/ (ship)",
+      "exampleUsage": "SHIP starts with SH and FISH ends with SH. The /sh/ sound is completely different from /s/ or /h/.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "Rule 23"]
+    },
+    {
+      "id": "gls_phon_028",
+      "term": "TH",
+      "definition": "A consonant team phonogram with 2 sounds: voiced /th/ as in THIS (vocal cords vibrate) and unvoiced /th/ as in THINK (breathy, no vibration).",
+      "pronunciation": "Voiced: /th/ (this), Unvoiced: /th/ (think)",
+      "exampleUsage": "THIS and THAT have voiced TH (feel your throat vibrate). THINK and MATH have unvoiced TH (breathy).",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant team"]
+    },
+    {
+      "id": "gls_phon_029",
+      "term": "CH",
+      "definition": "A consonant team phonogram with 3 sounds: /ch/ as in CHIP (English), /k/ as in SCHOOL (Greek origin), and /sh/ as in CHEF (French origin).",
+      "pronunciation": "English: /ch/ (chip), Greek: /k/ (school), French: /sh/ (chef)",
+      "exampleUsage": "CHIP uses English /ch/, SCHOOL uses Greek /k/, and CHEF uses French /sh/. Check the word's origin!",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant team", "TCH", "Rule 38"]
+    },
+    {
+      "id": "gls_phon_030",
+      "term": "WH",
+      "definition": "A consonant team phonogram with 1 sound: /wh/ as in WHALE. Some dialects pronounce the H breath, others just say /w/.",
+      "pronunciation": "/wh/ (whale) — some say it as /w/",
+      "exampleUsage": "WHALE, WHEN, and WHERE all start with the WH team.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team"]
+    },
+    {
+      "id": "gls_phon_031",
+      "term": "PH",
+      "definition": "A consonant team phonogram with 1 sound: /f/ as in PHONE. This is the Greek spelling for the /f/ sound, found in words of Greek origin.",
+      "pronunciation": "/f/ (phone)",
+      "exampleUsage": "PHONE, PHOTO, and GRAPH all use PH for /f/. These words come from Greek.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "Rule 38"]
+    },
+    {
+      "id": "gls_phon_032",
+      "term": "CK",
+      "definition": "A consonant team phonogram with 1 sound: /k/ as in DUCK. Used right after a single short vowel at the end of a one-syllable word (Rule 6). Acts as a bodyguard for the short vowel.",
+      "pronunciation": "/k/ (duck)",
+      "exampleUsage": "DUCK, BACK, and KICK all use CK after a short vowel. But BAKE uses just K because the A is long.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant team", "Rule 6", "Rule 30"]
+    },
+    {
+      "id": "gls_phon_033",
+      "term": "NK",
+      "definition": "A consonant team phonogram with 1 sound: /ngk/ as in BANK. The N becomes nasal /ng/ before K.",
+      "pronunciation": "/ngk/ (bank)",
+      "exampleUsage": "BANK, THINK, and INK all have the NK team where N nasalizes to /ng/ before K.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "NG"]
+    },
+    {
+      "id": "gls_phon_034",
+      "term": "NG",
+      "definition": "A consonant team phonogram with 1 sound: /ng/ as in RING. A nasal sound made at the back of the throat.",
+      "pronunciation": "/ng/ (ring)",
+      "exampleUsage": "RING, SING, and KING all end with the /ng/ nasal sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "NK"]
+    },
+    {
+      "id": "gls_phon_035",
+      "term": "GH",
+      "definition": "A consonant team phonogram with 2 behaviors: /g/ as in GHOST (at the start of words) and silent as in NIGHT (in the middle/end). Part of larger combos IGH, EIGH, OUGH, AUGH.",
+      "pronunciation": "Start: /g/ (ghost), Middle/End: silent (night)",
+      "exampleUsage": "GHOST has GH saying /g/ at the start. In NIGHT, LIGHT, and THOUGHT, GH is silent.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant team", "IGH", "EIGH", "OUGH", "AUGH"]
+    },
+    {
+      "id": "gls_phon_036",
+      "term": "KN",
+      "definition": "A consonant team phonogram with 1 sound: /n/ as in KNEE. The K is always silent before N (Rule 33).",
+      "pronunciation": "/n/ (knee) — K is silent",
+      "exampleUsage": "KNEE, KNOCK, and KNOW all have silent K. The K was once pronounced in Old English!",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "Rule 33"]
+    },
+    {
+      "id": "gls_phon_037",
+      "term": "WR",
+      "definition": "A consonant team phonogram with 1 sound: /r/ as in WRITE. The W is always silent before R (Rule 33).",
+      "pronunciation": "/r/ (write) — W is silent",
+      "exampleUsage": "WRITE, WRONG, and WRAP all have silent W before R.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "Rule 33"]
+    },
+    {
+      "id": "gls_phon_038",
+      "term": "GN",
+      "definition": "A consonant team phonogram with 1 sound: /n/ as in GNAT. The G is silent in GN (Rule 33).",
+      "pronunciation": "/n/ (gnat) — G is silent",
+      "exampleUsage": "GNAT, GNAW, and SIGN all have the GN team with silent G.",
+      "difficulty": "easy",
+      "relatedTerms": ["consonant team", "Rule 33"]
+    },
+    {
+      "id": "gls_phon_039",
+      "term": "DGE",
+      "definition": "A consonant team phonogram with 1 sound: /j/ as in BADGE. The D shields the short vowel before the /j/ sound (Rule 8). Used only after single short vowels.",
+      "pronunciation": "/j/ (badge)",
+      "exampleUsage": "BADGE, BRIDGE, and FUDGE use DGE after short vowels. CAGE and HUGE use just GE after long vowels.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant team", "Rule 8", "Rule 30"]
+    },
+    {
+      "id": "gls_phon_040",
+      "term": "TCH",
+      "definition": "A consonant team phonogram with 1 sound: /ch/ as in MATCH. The T shields the short vowel before the /ch/ sound (Rule 7). Exceptions: SUCH, MUCH, RICH, WHICH.",
+      "pronunciation": "/ch/ (match)",
+      "exampleUsage": "MATCH, CATCH, and WATCH use TCH after short vowels. MARCH uses just CH after a consonant.",
+      "difficulty": "medium",
+      "relatedTerms": ["consonant team", "CH", "Rule 7", "Rule 30"]
+    },
+    {
+      "id": "gls_phon_041",
+      "term": "EE",
+      "definition": "A vowel team phonogram with 1 sound: /ee/ as in TREE. One of the most reliable vowel teams — always says /ee/.",
+      "pronunciation": "/ee/ (tree)",
+      "exampleUsage": "TREE, BEE, and SEED all have EE reliably saying /ee/.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team"]
+    },
+    {
+      "id": "gls_phon_042",
+      "term": "EA",
+      "definition": "A vowel team phonogram with 3 sounds: /ee/ as in BEAN (most common), /e/ as in BREAD, and /ay/ as in BREAK.",
+      "pronunciation": "Most common: /ee/ (bean), Also: /e/ (bread), /ay/ (break)",
+      "exampleUsage": "BEAN and READ (present) have /ee/. BREAD and HEAD have short /e/. BREAK and STEAK have /ay/.",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team", "EE"]
+    },
+    {
+      "id": "gls_phon_043",
+      "term": "OA",
+      "definition": "A vowel team phonogram with 1 sound: /oh/ as in GOAT. Always says long O — very reliable.",
+      "pronunciation": "/oh/ (goat)",
+      "exampleUsage": "GOAT, BOAT, and ROAD all have OA reliably saying long /oh/.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team"]
+    },
+    {
+      "id": "gls_phon_044",
+      "term": "OI",
+      "definition": "A vowel team phonogram with 1 sound: /oy/ as in COIN. Used in the MIDDLE of words (Rule 10). Its partner OY is used at the end.",
+      "pronunciation": "/oy/ (coin)",
+      "exampleUsage": "COIN, JOIN, and BOIL have OI in the middle. For the end, use OY: BOY, TOY.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "OY", "Rule 10"]
+    },
+    {
+      "id": "gls_phon_045",
+      "term": "OY",
+      "definition": "A vowel team phonogram with 1 sound: /oy/ as in BOY. Used at the END of words (Rule 10). Its partner OI is used in the middle.",
+      "pronunciation": "/oy/ (boy)",
+      "exampleUsage": "BOY, TOY, and JOY have OY at the end. For the middle, use OI: COIN, JOIN.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "OI", "Rule 10"]
+    },
+    {
+      "id": "gls_phon_046",
+      "term": "OU",
+      "definition": "A vowel team phonogram with multiple sounds: /ow/ as in OUT (most common), /oo/ as in YOU, and /u/ as in TOUCH.",
+      "pronunciation": "Main: /ow/ (out), Also: /oo/ (you), /u/ (touch)",
+      "exampleUsage": "OUT and HOUSE have /ow/. YOU and YOUTH have /oo/. TOUCH and COUSIN have /u/.",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team", "OW"]
+    },
+    {
+      "id": "gls_phon_047",
+      "term": "OW",
+      "definition": "A vowel team phonogram with 2 sounds: /ow/ as in COW and /oh/ as in SNOW. Context determines which sound.",
+      "pronunciation": "/ow/ (cow), /oh/ (snow)",
+      "exampleUsage": "COW and OWL have /ow/. SNOW and GROW have long /oh/. You have to know the word!",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team", "OU"]
+    },
+    {
+      "id": "gls_phon_048",
+      "term": "AU",
+      "definition": "A vowel team phonogram with 1 sound: /aw/ as in SAUCE. Used in the MIDDLE of words. Its partner AW is used at the end.",
+      "pronunciation": "/aw/ (sauce)",
+      "exampleUsage": "SAUCE, PAUSE, and HAUNT have AU in the middle.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "AW"]
+    },
+    {
+      "id": "gls_phon_049",
+      "term": "AW",
+      "definition": "A vowel team phonogram with 1 sound: /aw/ as in SAW. Used at the END of words and before certain consonants. Partner of AU.",
+      "pronunciation": "/aw/ (saw)",
+      "exampleUsage": "SAW, DRAW, and LAW have AW at or near the end.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "AU"]
+    },
+    {
+      "id": "gls_phon_050",
+      "term": "EW",
+      "definition": "A vowel team phonogram with 2 sounds: /oo/ as in NEW and /yoo/ as in FEW.",
+      "pronunciation": "/oo/ (new), /yoo/ (few)",
+      "exampleUsage": "NEW and BLEW have /oo/. FEW and DEW have /yoo/.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team"]
+    },
+    {
+      "id": "gls_phon_051",
+      "term": "OO",
+      "definition": "A vowel team phonogram with 2 sounds: long /oo/ as in MOON and short /oo/ as in BOOK.",
+      "pronunciation": "Long: /oo/ (moon), Short: /oo/ (book)",
+      "exampleUsage": "MOON and FOOD have long /oo/. BOOK and COOK have short /oo/. The two sounds are different!",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team"]
+    },
+    {
+      "id": "gls_phon_052",
+      "term": "AI",
+      "definition": "A vowel team phonogram with 1 sound: /ay/ as in RAIN. Used in the MIDDLE of words (Rule 9). Its partner AY is used at the end.",
+      "pronunciation": "/ay/ (rain)",
+      "exampleUsage": "RAIN, WAIT, and TRAIN have AI in the middle. For the end, use AY: PLAY, DAY.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "AY", "Rule 9"]
+    },
+    {
+      "id": "gls_phon_053",
+      "term": "AY",
+      "definition": "A vowel team phonogram with 1 sound: /ay/ as in PLAY. Used at the END of base words (Rule 9). Its partner AI is used in the middle.",
+      "pronunciation": "/ay/ (play)",
+      "exampleUsage": "PLAY, DAY, and STAY have AY at the end. For the middle, use AI: RAIN, WAIT.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "AI", "Rule 9"]
+    },
+    {
+      "id": "gls_phon_054",
+      "term": "EI",
+      "definition": "A vowel team phonogram with 2 sounds: /ay/ as in VEIN and /ee/ as in CEILING.",
+      "pronunciation": "/ay/ (vein), /ee/ (ceiling)",
+      "exampleUsage": "VEIN and REIN have /ay/. CEILING and RECEIVE have /ee/ (I before E except after C).",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team", "IE"]
+    },
+    {
+      "id": "gls_phon_055",
+      "term": "EY",
+      "definition": "A vowel team phonogram with 2 sounds: /ay/ as in THEY and /ee/ as in KEY.",
+      "pronunciation": "/ay/ (they), /ee/ (key)",
+      "exampleUsage": "THEY and GREY have /ay/. KEY and MONEY have /ee/.",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team"]
+    },
+    {
+      "id": "gls_phon_056",
+      "term": "IE",
+      "definition": "A vowel team phonogram with 2 sounds: /ee/ as in FIELD and /eye/ as in PIE.",
+      "pronunciation": "/ee/ (field), /eye/ (pie)",
+      "exampleUsage": "FIELD and THIEF have /ee/. PIE and TIE have /eye/ (usually at the end).",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team", "EI"]
+    },
+    {
+      "id": "gls_phon_057",
+      "term": "UE",
+      "definition": "A vowel team phonogram with 2 sounds: /oo/ as in BLUE and /yoo/ as in CUE. The E guards U since English words don't end in U alone (Rule 3).",
+      "pronunciation": "/oo/ (blue), /yoo/ (cue)",
+      "exampleUsage": "BLUE and TRUE have /oo/. CUE and RESCUE have /yoo/.",
+      "difficulty": "easy",
+      "relatedTerms": ["vowel team", "Rule 3", "Rule 18"]
+    },
+    {
+      "id": "gls_phon_058",
+      "term": "UI",
+      "definition": "A vowel team phonogram with 2 sounds: /oo/ as in FRUIT and /i/ as in BUILD.",
+      "pronunciation": "/oo/ (fruit), /i/ (build)",
+      "exampleUsage": "FRUIT and JUICE have /oo/. BUILD and GUITAR have short /i/.",
+      "difficulty": "medium",
+      "relatedTerms": ["vowel team"]
+    },
+    {
+      "id": "gls_phon_059",
+      "term": "AR",
+      "definition": "An R-controlled vowel phonogram with 1 sound: /ar/ as in CAR. The R takes control and changes A's sound completely.",
+      "pronunciation": "/ar/ (car)",
+      "exampleUsage": "CAR, STAR, and FARM all have AR where R controls the A sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["R-controlled"]
+    },
+    {
+      "id": "gls_phon_060",
+      "term": "ER",
+      "definition": "An R-controlled vowel phonogram with 1 sound: /er/ as in HER. One of three phonograms (ER, IR, UR) that all make the same /er/ sound.",
+      "pronunciation": "/er/ (her)",
+      "exampleUsage": "HER, FERN, and RIVER all have the ER sound. ER, IR, and UR all sound identical.",
+      "difficulty": "easy",
+      "relatedTerms": ["R-controlled", "IR", "UR"]
+    },
+    {
+      "id": "gls_phon_061",
+      "term": "IR",
+      "definition": "An R-controlled vowel phonogram with 1 sound: /er/ as in BIRD. Sounds exactly like ER and UR — the choice is a spelling decision, not a sound decision.",
+      "pronunciation": "/er/ (bird)",
+      "exampleUsage": "BIRD, GIRL, and STIR all have IR. It sounds the same as ER (HER) and UR (BURN).",
+      "difficulty": "easy",
+      "relatedTerms": ["R-controlled", "ER", "UR"]
+    },
+    {
+      "id": "gls_phon_062",
+      "term": "UR",
+      "definition": "An R-controlled vowel phonogram with 1 sound: /er/ as in BURN. The third member of the /er/ triplet with ER and IR.",
+      "pronunciation": "/er/ (burn)",
+      "exampleUsage": "BURN, TURN, and NURSE all have UR. Same sound as ER and IR.",
+      "difficulty": "easy",
+      "relatedTerms": ["R-controlled", "ER", "IR"]
+    },
+    {
+      "id": "gls_phon_063",
+      "term": "OR",
+      "definition": "An R-controlled vowel phonogram with 1 sound: /or/ as in FORK. R controls the O to produce a unique sound.",
+      "pronunciation": "/or/ (fork)",
+      "exampleUsage": "FORK, HORN, and STORM all have OR where R changes O's sound.",
+      "difficulty": "easy",
+      "relatedTerms": ["R-controlled"]
+    },
+    {
+      "id": "gls_phon_064",
+      "term": "IGH",
+      "definition": "A GH combo phonogram with 1 sound: /eye/ as in LIGHT. The GH is silent — three letters represent one sound. Part of the -IGHT pattern (Rule 37).",
+      "pronunciation": "/eye/ (light)",
+      "exampleUsage": "LIGHT, NIGHT, and BRIGHT all have IGH. The GH is always silent here.",
+      "difficulty": "easy",
+      "relatedTerms": ["GH combo", "Rule 37"]
+    },
+    {
+      "id": "gls_phon_065",
+      "term": "EIGH",
+      "definition": "A GH combo phonogram with 1 sound: /ay/ as in EIGHT. Four letters representing one sound — the GH is silent.",
+      "pronunciation": "/ay/ (eight)",
+      "exampleUsage": "EIGHT, WEIGH, and SLEIGH all have EIGH saying /ay/.",
+      "difficulty": "medium",
+      "relatedTerms": ["GH combo"]
+    },
+    {
+      "id": "gls_phon_066",
+      "term": "OUGH",
+      "definition": "A GH combo phonogram with 6 different sounds — the trickiest phonogram in English: /oh/ (THOUGH), /oo/ (THROUGH), /ow/ (PLOUGH), /uf/ (ROUGH), /off/ (COUGH), /aw/ (THOUGHT).",
+      "pronunciation": "6 sounds: /oh/, /oo/, /ow/, /uf/, /off/, /aw/",
+      "exampleUsage": "THOUGH (/oh/), THROUGH (/oo/), ROUGH (/uf/), COUGH (/off/), THOUGHT (/aw/), PLOUGH (/ow/).",
+      "difficulty": "hard",
+      "relatedTerms": ["GH combo"]
+    },
+    {
+      "id": "gls_phon_067",
+      "term": "AUGH",
+      "definition": "A GH combo phonogram with 1 sound: /aw/ as in CAUGHT. Four letters for one sound — GH is silent.",
+      "pronunciation": "/aw/ (caught)",
+      "exampleUsage": "CAUGHT, DAUGHTER, and NAUGHTY all have AUGH saying /aw/.",
+      "difficulty": "medium",
+      "relatedTerms": ["GH combo"]
+    },
+    {
+      "id": "gls_phon_068",
+      "term": "TI",
+      "definition": "A special phonogram with 1 sound: /sh/ as in NATION. Used at the start of suffixes in Latin-origin words. Never says /sh/ at the start of a word.",
+      "pronunciation": "/sh/ (nation)",
+      "exampleUsage": "NATION, ACTION, and PATIENT all have TI saying /sh/ in the -TION suffix.",
+      "difficulty": "medium",
+      "relatedTerms": ["special", "CI", "SI", "Rule 25"]
+    },
+    {
+      "id": "gls_phon_069",
+      "term": "CI",
+      "definition": "A special phonogram with 1 sound: /sh/ as in SPECIAL. Used at the start of suffixes in Latin-origin words.",
+      "pronunciation": "/sh/ (special)",
+      "exampleUsage": "SPECIAL, SOCIAL, and ANCIENT all have CI saying /sh/ at a suffix boundary.",
+      "difficulty": "medium",
+      "relatedTerms": ["special", "TI", "SI"]
+    },
+    {
+      "id": "gls_phon_070",
+      "term": "SI",
+      "definition": "A special phonogram with 2 sounds: /sh/ as in SESSION (unvoiced) and /zh/ as in VISION (voiced). The voiced version is unique to SI.",
+      "pronunciation": "/sh/ (session), /zh/ (vision)",
+      "exampleUsage": "SESSION and TENSION have unvoiced /sh/. VISION and DIVISION have voiced /zh/.",
+      "difficulty": "medium",
+      "relatedTerms": ["special", "TI", "CI"]
+    },
+    {
+      "id": "gls_phon_071",
+      "term": "SCI",
+      "definition": "A special phonogram with 1 sound: /sh/ as in SCIENCE. Quite rare — found in only a few words of Latin origin.",
+      "pronunciation": "/sh/ (science)",
+      "exampleUsage": "SCIENCE, SCISSORS, and CONSCIOUS are among the few words using SCI for /sh/.",
+      "difficulty": "hard",
+      "relatedTerms": ["special", "TI", "CI", "SI"]
+    },
+    {
+      "id": "gls_phon_072",
+      "term": "ED",
+      "definition": "A special phonogram with 3 sounds for past tense: /ed/ after T or D (WANTED), /d/ after voiced sounds (CALLED), /t/ after unvoiced sounds (JUMPED). Rule 22.",
+      "pronunciation": "/ed/ (wanted), /d/ (called), /t/ (jumped)",
+      "exampleUsage": "WANTED (/ed/ — adds syllable), CALLED (/d/ — no extra syllable), JUMPED (/t/ — no extra syllable).",
+      "difficulty": "medium",
+      "relatedTerms": ["special", "Rule 22"]
+    },
+    {
+      "id": "gls_phon_073",
+      "term": "QU",
+      "definition": "A special phonogram with 1 sound: /kw/ as in QUEEN. Q and U are inseparable — Q never goes anywhere without U in English (Rule 11).",
+      "pronunciation": "/kw/ (queen)",
+      "exampleUsage": "QUEEN, QUICK, and QUEST all have QU saying /kw/. No standard English word has Q without U.",
+      "difficulty": "easy",
+      "relatedTerms": ["special", "Rule 11"]
+    }
+  ]
+}

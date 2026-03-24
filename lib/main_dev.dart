@@ -1,9 +1,6 @@
-// DEV ENTRY POINT — Skip Firebase, go directly to Sound Board
+// DEV ENTRY POINT — Skip Firebase, test full 5-tab app
 //
 // Run with: flutter run -t lib/main_dev.dart
-//
-// This bypasses all Firebase initialization, auth, push notifications,
-// deep links, etc. Just loads game data and shows Sound Board.
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -15,19 +12,20 @@ import 'package:crack_the_code/shared/repositories/audio_repository.dart';
 import 'package:crack_the_code/shared/services/audio_service.dart';
 import 'package:crack_the_code/shared/services/storage_service.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
+import 'package:crack_the_code/shared/l10n/app_strings.dart';
 import 'package:crack_the_code/games/sound_board/screens/sound_board_home.dart';
+import 'package:crack_the_code/presentation/screens/learn/learn_hub_screen.dart';
+import 'package:crack_the_code/presentation/screens/practice/practice_hub_screen.dart';
+import 'package:crack_the_code/presentation/screens/games/games_hub_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // 1. Initialize Hive
   await Hive.initFlutter();
 
-  // 2. Initialize storage
   final storage = GameStorageService();
   await storage.init();
 
-  // 3. Load repositories
   final phonogramRepo = PhonogramRepository();
   final ruleRepo = RuleRepository();
   final wordRepo = WordRepository();
@@ -38,7 +36,6 @@ Future<void> main() async {
     wordRepo.loadFromAssets(),
   ]);
 
-  // 4. Initialize audio
   final audioService = AudioService();
   await audioService.initialize();
   final audioRepo = AudioRepository(audioService);
@@ -48,7 +45,6 @@ Future<void> main() async {
       '${ruleRepo.getAll().length} rules, '
       '${wordRepo.totalWords} words');
 
-  // 5. Run app
   runApp(
     ProviderScope(
       overrides: [
@@ -70,7 +66,7 @@ class CrackTheCodeDevApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Crack the Code — Dev',
+      title: 'Crack the Code',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
@@ -82,7 +78,110 @@ class CrackTheCodeDevApp extends StatelessWidget {
           surface: Color(0xFF1A1832),
         ),
       ),
-      home: const SoundBoardHome(),
+      home: const _AppShell(),
+    );
+  }
+}
+
+class _AppShell extends ConsumerStatefulWidget {
+  const _AppShell();
+
+  @override
+  ConsumerState<_AppShell> createState() => _AppShellState();
+}
+
+class _AppShellState extends ConsumerState<_AppShell> {
+  int _currentIndex = 0;
+
+  @override
+  Widget build(BuildContext context) {
+    final profile = ref.watch(playerProfileProvider);
+    final strings = AppStrings(profile.language);
+
+    final screens = [
+      const SoundBoardHome(),
+      const LearnHubScreen(),
+      const PracticeHubScreen(),
+      const GamesHubScreen(),
+      _buildProgressPlaceholder(strings),
+    ];
+
+    return Scaffold(
+      body: IndexedStack(
+        index: _currentIndex,
+        children: screens,
+      ),
+      bottomNavigationBar: NavigationBar(
+        selectedIndex: _currentIndex,
+        onDestinationSelected: (i) => setState(() => _currentIndex = i),
+        backgroundColor: const Color(0xFF0A0618).withValues(alpha: 0.95),
+        indicatorColor: const Color(0xFFFFD700).withValues(alpha: 0.15),
+        height: 70,
+        destinations: [
+          NavigationDestination(
+            icon: const Icon(Icons.home_outlined),
+            selectedIcon:
+                const Icon(Icons.home, color: Color(0xFFFFD700)),
+            label: strings.tabHome,
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.menu_book_outlined),
+            selectedIcon:
+                const Icon(Icons.menu_book, color: Color(0xFFFFD700)),
+            label: strings.tabLearn,
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.edit_outlined),
+            selectedIcon:
+                const Icon(Icons.edit, color: Color(0xFFFFD700)),
+            label: strings.tabPractice,
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.sports_esports_outlined),
+            selectedIcon: const Icon(Icons.sports_esports,
+                color: Color(0xFFFFD700)),
+            label: strings.tabGames,
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.emoji_events_outlined),
+            selectedIcon: const Icon(Icons.emoji_events,
+                color: Color(0xFFFFD700)),
+            label: strings.tabProgress,
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildProgressPlaceholder(AppStrings strings) {
+    return Scaffold(
+      backgroundColor: const Color(0xFF0A0618),
+      body: SafeArea(
+        child: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Text('🏆', style: TextStyle(fontSize: 64)),
+              const SizedBox(height: 16),
+              Text(
+                strings.myProgress,
+                style: const TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.w800,
+                  color: Colors.white,
+                ),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Coming in Phase 9',
+                style: TextStyle(
+                  color: Colors.white.withValues(alpha: 0.4),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
     );
   }
 }

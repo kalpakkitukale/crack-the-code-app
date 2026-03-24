@@ -1,0 +1,327 @@
+{
+  "chapterId": "rules",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "decks": [
+    {
+      "id": "deck_spell_consonant_rules",
+      "name": "Consonant Rules",
+      "description": "Rules 1-8: How consonants behave in English spelling",
+      "topicId": "spell_rules_consonant",
+      "chapterId": "rules",
+      "cards": [
+        {
+          "id": "card_rule_001",
+          "front": "Rule 1: C before E, I, Y",
+          "back": "ZERO exceptions! C before E, I, Y = always /s/. Otherwise, C says /k/.\n\nExamples: CITY, CEILING, CYCLE, CANCEL",
+          "hint": "Think: ICE, CELL, CYAN — all soft C",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_rule_002",
+          "front": "Rule 2: G before E, I, Y",
+          "back": "G TENDS to soften before E, I, Y — but has exceptions unlike C. G may say /j/ before E, I, Y. Otherwise, G always says /g/.\n\nExamples: GIRAFFE, GENERATE, GYMNASIUM",
+          "hint": "Unlike C, G has exceptions: GET, GIFT, GIRL stay hard /g/",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_rule_003",
+          "front": "Rule 3: I, U, V, J never end alone",
+          "back": "English words do not end in I, U, V, or J. A companion letter is added.\n\nExamples: BLUE (not BLU), GIVE (not GIV), FLY (I→Y), BRIDGE (J→DGE)",
+          "hint": "These four shy letters always need a friend at the end",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_rule_004",
+          "front": "Rule 4: Double S after single vowel",
+          "back": "After a single vowel, a base word does not end in S alone. It doubles to SS.\n\nExamples: MISS, BOSS, FUSS, DRESS",
+          "hint": "Exceptions: BUS, GAS, YES, THIS",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_rule_005",
+          "front": "Rule 5: Double F, L, S, Z",
+          "back": "In a one-syllable word, after a single short vowel, final /f/, /l/, /s/, or /z/ is doubled.\n\nExamples: STAFF, BELL, BUZZ, SKILL",
+          "hint": "Short vowel + F, L, S, or Z at the end? Double it up!",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_rule_006",
+          "front": "Rule 6: CK bodyguard",
+          "back": "CK is used right after a single short vowel at the end of a one-syllable word.\n\nExamples: BACK, NECK, TRICK, CLOCK",
+          "hint": "Long vowel or consonant before? Just use K: BAKE, MILK",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_rule_007",
+          "front": "Rule 7: TCH shield",
+          "back": "TCH is used right after a single short vowel.\n\nExamples: MATCH, FETCH, STITCH, CLUTCH",
+          "hint": "Exceptions: SUCH, MUCH, RICH, WHICH",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_rule_008",
+          "front": "Rule 8: DGE shield",
+          "back": "DGE is used right after a single short vowel.\n\nExamples: BADGE, LEDGE, BRIDGE, FUDGE",
+          "hint": "Long vowel? Just use GE: CAGE, HUGE, STAGE",
+          "orderIndex": 7
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_vowel_rules",
+      "name": "Vowel Rules",
+      "description": "Rules 9-11: How vowels pair up and Q's partnership",
+      "topicId": "spell_rules_vowel",
+      "chapterId": "rules",
+      "cards": [
+        {
+          "id": "card_rule_009",
+          "front": "Rule 9: AY at end, AI in middle",
+          "back": "AY is used at the end of a base word for /ay/. AI is used everywhere else.\n\nExamples: PLAY (end), RAIN (middle), STAY (end), WAIT (middle)",
+          "hint": "End of the road? AY. Middle of the word? AI.",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_rule_010",
+          "front": "Rule 10: OY at end, OI in middle",
+          "back": "OY is used at the end of a base word for /oi/. OI is used everywhere else.\n\nExamples: BOY (end), JOIN (middle), ENJOY (end), COIN (middle)",
+          "hint": "Same pattern as AY/AI — position matters",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_rule_011",
+          "front": "Rule 11: Q always with U",
+          "back": "Q always appears with U. QU says /kw/. No English word has Q without U.\n\nExamples: QUEEN, QUARTER, BANQUET, TRANQUIL",
+          "hint": "Q and U are inseparable best friends",
+          "orderIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_suffix_rules",
+      "name": "Suffix Rules",
+      "description": "Rules 12-16, 22-28: How words change when adding suffixes",
+      "topicId": "spell_rules_suffix",
+      "chapterId": "rules",
+      "cards": [
+        {
+          "id": "card_rule_012",
+          "front": "Rule 12: Drop silent E (vowel suffix)",
+          "back": "Drop the silent E when adding a suffix that starts with a vowel.\n\nExamples: BAKING, HOPING, WRITING, DANCING",
+          "hint": "Vowel suffix coming? Silent E steps aside",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_rule_013",
+          "front": "Rule 13: Keep silent E (consonant suffix)",
+          "back": "Keep the silent E when adding a suffix that starts with a consonant.\n\nExamples: HOPEFUL, CARELESS, MOVEMENT, SAFETY",
+          "hint": "Consonant suffix coming? Silent E stays put",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_rule_014",
+          "front": "Rule 14: Double final consonant",
+          "back": "Double the final consonant before a vowel suffix when the word ends in 1 vowel + 1 consonant (stressed).\n\nExamples: RUNNING, STOPPING, BEGINNING, ADMITTED",
+          "hint": "Stressed ending + 1 vowel + 1 consonant? Double up!",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_rule_015",
+          "front": "Rule 15: Consonant + Y → I",
+          "back": "Consonant + Y at the end? Change Y to I before any suffix (except suffixes starting with I).\n\nExamples: HAPPINESS, CARRIED, BEAUTIFUL, STUDIED",
+          "hint": "But keep Y before -ING: carrying, studying",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_rule_016",
+          "front": "Rule 16: Vowel + Y stays",
+          "back": "Vowel + Y at the end? Keep the Y when adding any suffix.\n\nExamples: PLAYING, ENJOYMENT, STAYING, DELAYED",
+          "hint": "Vowel + Y = best friends. Never separate them.",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_rule_022",
+          "front": "Rule 22: -ED has 3 sounds",
+          "back": "The suffix -ED has 3 sounds: /ed/ after T or D, /d/ after voiced, /t/ after unvoiced.\n\nExamples: PLANTED (/ed/), CALLED (/d/), JUMPED (/t/)",
+          "hint": "Listen to the last sound of the base word",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_rule_023",
+          "front": "Rule 23: Add -ES for hissing",
+          "back": "Add -ES (not just -S) when a word ends in S, X, Z, CH, or SH.\n\nExamples: BOXES, BRUSHES, CHURCHES, GLASSES",
+          "hint": "If the ending already hisses or buzzes, -ES adds a syllable",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_rule_024",
+          "front": "Rule 24: Consonant + Y plurals",
+          "back": "Consonant + Y at the end? Change Y to I and add -ES to make it plural.\n\nExamples: BABIES, CITIES, FAMILIES, STORIES",
+          "hint": "But vowel + Y? Just add S: MONKEYS, KEYS, DAYS",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_rule_025",
+          "front": "Rule 25: -TION and -SION",
+          "back": "Both say /shun/. -TION follows consonants/long vowels. -SION follows other patterns.\n\nExamples: NATION, MOTION, TENSION, DECISION",
+          "hint": "-TION is far more common; -SION is the specialist",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_rule_026",
+          "front": "Rule 26: -ABLE vs -IBLE",
+          "back": "-ABLE joins complete words. -IBLE joins roots that can't stand alone.\n\nExamples: COMFORTABLE (comfort+able), VISIBLE (vis+ible)",
+          "hint": "Can the base stand alone? ABLE. Can't? IBLE.",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_rule_027",
+          "front": "Rule 27: -AL suffix",
+          "back": "The suffix -AL turns a noun or verb into an adjective.\n\nExamples: ACCIDENTAL, EMOTIONAL, TRADITIONAL, MUSICAL",
+          "hint": "Need an adjective? Slap on -AL",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_rule_028",
+          "front": "Rule 28: -LY suffix",
+          "back": "Add -LY to adjectives to make adverbs. If the adjective ends in L, the result is -LLY.\n\nExamples: QUICKLY, CAREFULLY, USUALLY, FINALLY",
+          "hint": "L + LY = LLY — that double L is correct!",
+          "orderIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_silent_e_rules",
+      "name": "Silent E Rules",
+      "description": "Rules 17-21: The 5 jobs of silent E",
+      "topicId": "spell_rules_silent_e",
+      "chapterId": "rules",
+      "cards": [
+        {
+          "id": "card_rule_017",
+          "front": "Rule 17: Silent E Job 1 — Long Vowel",
+          "back": "Silent E makes the preceding vowel say its long sound (its name).\n\nExamples: BAKE (A says /ay/), THEME (E says /ee/), DRIVE (I says /eye/), FLUTE (U says /oo/)",
+          "hint": "The most famous E job — vowel says its own name",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_rule_018",
+          "front": "Rule 18: Silent E Job 2 — V/U Guard",
+          "back": "English words do not end in V or U, so E follows them.\n\nExamples: GIVE, HAVE, BLUE, TRUE",
+          "hint": "V and U are shy — they need E to stand at the end",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_rule_019",
+          "front": "Rule 19: Silent E Job 3 — Soft C/G",
+          "back": "Silent E keeps C and G soft (/s/ and /j/) at the end of a word.\n\nExamples: DANCE, PRINCE, LARGE, CHARGE",
+          "hint": "Without the E, C would snap to /k/ and G would snap to /g/",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_rule_020",
+          "front": "Rule 20: Silent E Job 4 — Syllable Vowel",
+          "back": "Every syllable needs a vowel. E provides one where needed (like the -LE ending).\n\nExamples: CASTLE, BOTTLE, TABLE, PEOPLE",
+          "hint": "The -LE ending would be vowel-less without that E",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_rule_021",
+          "front": "Rule 21: Silent E Job 5 — Not Plural",
+          "back": "Silent E prevents a word from looking like a plural ending in S.\n\nExamples: HOUSE, GOOSE, MOOSE, PROMISE",
+          "hint": "Without E, HOUSE would be HOUS — looks like a weird plural!",
+          "orderIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_shield_rules",
+      "name": "Shield Rules",
+      "description": "Rules 29-30: How letters protect short vowels",
+      "topicId": "spell_rules_shield",
+      "chapterId": "rules",
+      "cards": [
+        {
+          "id": "card_rule_029",
+          "front": "Rule 29: I shields C and G",
+          "back": "The letter I in a suffix keeps C soft (/s/) and G soft (/j/) in the base word.\n\nExamples: DANCING, CHANGING, NOTICING, MANAGING",
+          "hint": "The I in -ING acts like a shield for soft C and G",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_rule_030",
+          "front": "Rule 30: CK, DGE, TCH shields",
+          "back": "After a short vowel: use CK, DGE, TCH. After anything else (long vowel, consonant, two vowels): use K, GE, CH.\n\nExamples: BACK vs BAKE, BADGE vs CAGE, MATCH vs MARCH",
+          "hint": "The shield trio protects short vowels",
+          "orderIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_advanced_rules",
+      "name": "Advanced Rules",
+      "description": "Rules 31-38: Advanced patterns, silent letters, and borrowed words",
+      "topicId": "spell_rules_advanced",
+      "chapterId": "rules",
+      "cards": [
+        {
+          "id": "card_rule_031",
+          "front": "Rule 31: O before M, N, V, TH",
+          "back": "O says /u/ when followed by M, N, V, or TH.\n\nExamples: MOTHER, MONEY, LOVE, MONTH",
+          "hint": "LOVE rhymes with DOVE, not STOVE",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_rule_032",
+          "front": "Rule 32: Silent E alternate jobs",
+          "back": "When vowel-consonant-E doesn't make a long vowel, the E has a different silent E job (2-5).\n\nExamples: HAVE (Job 2), DANCE (Job 3), GIVE (Job 2), LOVE (Job 2)",
+          "hint": "Not every final E makes a long vowel — check other jobs",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_rule_033",
+          "front": "Rule 33: Silent consonant pairs",
+          "back": "Five silent pairs: KN (K silent), WR (W silent), GN (G silent), MB (B silent), MN (N silent).\n\nExamples: KNEE, WRITE, GNOME, THUMB",
+          "hint": "The first letter hides but stays in spelling",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_rule_034",
+          "front": "Rule 34: Silent L patterns",
+          "back": "More silent L patterns: LK — L is silent. LM — L is silent.\n\nExamples: WALK, TALK, CALM, PALM",
+          "hint": "But L IS pronounced in MILK, SILK, FILM",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_rule_035",
+          "front": "Rule 35: W warps A",
+          "back": "After W, the letter A often says /o/ instead of /a/.\n\nExamples: WATCH, WANT, WATER, WASP",
+          "hint": "W is a vowel-warper — bends A toward /o/",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_rule_036",
+          "front": "Rule 36: L warps vowels",
+          "back": "L modifies certain vowels: ALL = /awl/, OLL = /ohl/, ULL = /ool/.\n\nExamples: BALL, ROLL, FULL, INSTALL",
+          "hint": "L shifts ALL, OLL, and ULL into unique sounds",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_rule_037",
+          "front": "Rule 37: -IGHT pattern",
+          "back": "The pattern -IGHT always says /eye-t/. GH is silent in this pattern.\n\nExamples: LIGHT, NIGHT, BRIGHT, FLIGHT",
+          "hint": "One of the most reliable patterns in English",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_rule_038",
+          "front": "Rule 38: Borrowed word patterns",
+          "back": "Borrowed words keep their original spelling patterns: Greek PH, CH; French CH; Latin TI.\n\nExamples: PHILOSOPHY, CHARACTER, CHAMPAGNE, PARTITION",
+          "hint": "Weird spelling? Check the passport — Greek, French, or Latin",
+          "orderIndex": 7
+        }
+      ]
+    }
+  ]
+}

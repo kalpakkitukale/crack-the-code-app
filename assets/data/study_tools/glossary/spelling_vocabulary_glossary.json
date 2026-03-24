@@ -1,0 +1,1807 @@
+{
+  "chapterId": "vocabulary",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "terms": [
+    {
+      "id": "gls_vocab_001",
+      "term": "CAT",
+      "definition": "A simple CVC word: C + A + T. C says /k/ before A (Rule 1). Closed syllable keeps A short.",
+      "pronunciation": "/k/ + /a/ + /t/",
+      "exampleUsage": "The CAT sat on the mat.",
+      "difficulty": "easy",
+      "relatedTerms": ["Rule 1", "closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_002",
+      "term": "BED",
+      "definition": "A CVC word: B + E + D. Closed syllable — E says short /e/. The consonants close the syllable keeping E short.",
+      "pronunciation": "/b/ + /e/ + /d/",
+      "exampleUsage": "I made my BED this morning.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_003",
+      "term": "SIT",
+      "definition": "A CVC word: S + I + T. Closed syllable — I says short /i/.",
+      "pronunciation": "/s/ + /i/ + /t/",
+      "exampleUsage": "Please SIT down.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_004",
+      "term": "HOT",
+      "definition": "A CVC word: H + O + T. Closed syllable — O says short /o/.",
+      "pronunciation": "/h/ + /o/ + /t/",
+      "exampleUsage": "The sun is HOT today.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_005",
+      "term": "CUP",
+      "definition": "A CVC word: C + U + P. C says /k/ before U (Rule 1 — C only softens before E, I, Y).",
+      "pronunciation": "/k/ + /u/ + /p/",
+      "exampleUsage": "Pour water in the CUP.",
+      "difficulty": "easy",
+      "relatedTerms": ["Rule 1", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_006",
+      "term": "SHIP",
+      "definition": "Uses the SH consonant team: SH + I + P. SH makes one sound /sh/, not /s/ + /h/.",
+      "pronunciation": "/sh/ + /i/ + /p/",
+      "exampleUsage": "The SHIP sailed across the ocean.",
+      "difficulty": "easy",
+      "relatedTerms": ["SH", "consonant team"]
+    },
+    {
+      "id": "gls_vocab_007",
+      "term": "THAT",
+      "definition": "Uses the TH consonant team: TH + A + T. TH says voiced /th/ here (vocal cords vibrate).",
+      "pronunciation": "/th/ + /a/ + /t/",
+      "exampleUsage": "Look at THAT bird!",
+      "difficulty": "easy",
+      "relatedTerms": ["TH", "voiced consonant"]
+    },
+    {
+      "id": "gls_vocab_008",
+      "term": "RING",
+      "definition": "Uses the NG consonant team: R + I + NG. NG makes a single nasal sound /ng/ at the back of the throat.",
+      "pronunciation": "/r/ + /i/ + /ng/",
+      "exampleUsage": "She wore a gold RING.",
+      "difficulty": "easy",
+      "relatedTerms": ["NG", "consonant team"]
+    },
+    {
+      "id": "gls_vocab_009",
+      "term": "DUCK",
+      "definition": "Uses the CK shield: D + U + CK. CK is used after a single short vowel (Rule 6). The C-K pair protects the short U.",
+      "pronunciation": "/d/ + /u/ + /k/",
+      "exampleUsage": "The DUCK swam in the pond.",
+      "difficulty": "easy",
+      "relatedTerms": ["CK", "Rule 6", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_010",
+      "term": "BACK",
+      "definition": "Uses the CK shield: B + A + CK. CK protects the short A sound (Rule 6).",
+      "pronunciation": "/b/ + /a/ + /k/",
+      "exampleUsage": "Come BACK soon!",
+      "difficulty": "easy",
+      "relatedTerms": ["CK", "Rule 6"]
+    },
+    {
+      "id": "gls_vocab_011",
+      "term": "RAIN",
+      "definition": "Uses the AI vowel team: R + AI + N. AI is used in the middle of words for /ay/ (Rule 9).",
+      "pronunciation": "/r/ + /ay/ + /n/",
+      "exampleUsage": "The RAIN fell all day.",
+      "difficulty": "easy",
+      "relatedTerms": ["AI", "Rule 9", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_012",
+      "term": "PLAY",
+      "definition": "Uses the AY vowel team: P + L + AY. AY is used at the end of base words for /ay/ (Rule 9).",
+      "pronunciation": "/p/ + /l/ + /ay/",
+      "exampleUsage": "Let's go PLAY outside!",
+      "difficulty": "easy",
+      "relatedTerms": ["AY", "Rule 9", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_013",
+      "term": "TREE",
+      "definition": "Uses the EE vowel team: T + R + EE. EE always says /ee/ — one of the most reliable vowel teams.",
+      "pronunciation": "/t/ + /r/ + /ee/",
+      "exampleUsage": "The TREE has green leaves.",
+      "difficulty": "easy",
+      "relatedTerms": ["EE", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_014",
+      "term": "GOAT",
+      "definition": "Uses the OA vowel team: G + OA + T. OA says long O /oh/ — very reliable.",
+      "pronunciation": "/g/ + /oh/ + /t/",
+      "exampleUsage": "The GOAT ate the grass.",
+      "difficulty": "easy",
+      "relatedTerms": ["OA", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_015",
+      "term": "COIN",
+      "definition": "Uses the OI vowel team: C + OI + N. OI is used in the middle of words for /oy/ (Rule 10).",
+      "pronunciation": "/k/ + /oy/ + /n/",
+      "exampleUsage": "I found a gold COIN.",
+      "difficulty": "easy",
+      "relatedTerms": ["OI", "Rule 10"]
+    },
+    {
+      "id": "gls_vocab_016",
+      "term": "BOY",
+      "definition": "Uses the OY vowel team: B + OY. OY is used at the end of words for /oy/ (Rule 10).",
+      "pronunciation": "/b/ + /oy/",
+      "exampleUsage": "The BOY ran fast.",
+      "difficulty": "easy",
+      "relatedTerms": ["OY", "Rule 10"]
+    },
+    {
+      "id": "gls_vocab_017",
+      "term": "COW",
+      "definition": "Uses the OW vowel team: C + OW. OW says /ow/ here (can also say /oh/ as in SNOW).",
+      "pronunciation": "/k/ + /ow/",
+      "exampleUsage": "The COW gave us milk.",
+      "difficulty": "easy",
+      "relatedTerms": ["OW", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_018",
+      "term": "CAR",
+      "definition": "Uses the AR R-controlled vowel: C + AR. R takes control of A and changes its sound to /ar/.",
+      "pronunciation": "/k/ + /ar/",
+      "exampleUsage": "We drove the CAR to school.",
+      "difficulty": "easy",
+      "relatedTerms": ["AR", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_019",
+      "term": "BIRD",
+      "definition": "Uses the IR R-controlled vowel: B + IR + D. IR sounds exactly like ER and UR — all three say /er/.",
+      "pronunciation": "/b/ + /er/ + /d/",
+      "exampleUsage": "The BIRD sang a beautiful song.",
+      "difficulty": "easy",
+      "relatedTerms": ["IR", "ER", "UR", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_020",
+      "term": "FORK",
+      "definition": "Uses the OR R-controlled vowel: F + OR + K. R controls the O to produce the /or/ sound.",
+      "pronunciation": "/f/ + /or/ + /k/",
+      "exampleUsage": "Eat with a FORK and knife.",
+      "difficulty": "easy",
+      "relatedTerms": ["OR", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_021",
+      "term": "FLY",
+      "definition": "Y acts as a vowel: F + L + Y. In one-syllable words, Y says /eye/ (Rule 6).",
+      "pronunciation": "/f/ + /l/ + /eye/",
+      "exampleUsage": "Watch the birds FLY high.",
+      "difficulty": "easy",
+      "relatedTerms": ["Y", "Rule 6"]
+    },
+    {
+      "id": "gls_vocab_022",
+      "term": "FOOD",
+      "definition": "Uses the OO vowel team: F + OO + D. OO says long /oo/ as in moon.",
+      "pronunciation": "/f/ + /oo/ + /d/",
+      "exampleUsage": "The FOOD was delicious.",
+      "difficulty": "easy",
+      "relatedTerms": ["OO", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_023",
+      "term": "BOOK",
+      "definition": "Uses the OO vowel team: B + OO + K. OO says short /oo/ here — different from FOOD.",
+      "pronunciation": "/b/ + /oo/ (short) + /k/",
+      "exampleUsage": "I read a BOOK every night.",
+      "difficulty": "easy",
+      "relatedTerms": ["OO", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_024",
+      "term": "QUIT",
+      "definition": "Uses the QU team: QU + I + T. Q always appears with U, saying /kw/ (Rule 11).",
+      "pronunciation": "/kw/ + /i/ + /t/",
+      "exampleUsage": "Don't QUIT trying!",
+      "difficulty": "easy",
+      "relatedTerms": ["QU", "Rule 11"]
+    },
+    {
+      "id": "gls_vocab_025",
+      "term": "COLD",
+      "definition": "O before LD: C + O + L + D. O says long /oh/ before LD — a common pattern.",
+      "pronunciation": "/k/ + /oh/ + /l/ + /d/",
+      "exampleUsage": "It is very COLD outside.",
+      "difficulty": "easy",
+      "relatedTerms": ["long vowel", "LD pattern"]
+    },
+    {
+      "id": "gls_vocab_026",
+      "term": "KIND",
+      "definition": "I before ND: K + I + N + D. I says long /eye/ before ND — the consonant cluster keeps I long.",
+      "pronunciation": "/k/ + /eye/ + /n/ + /d/",
+      "exampleUsage": "She was very KIND to everyone.",
+      "difficulty": "easy",
+      "relatedTerms": ["long vowel", "ND pattern"]
+    },
+    {
+      "id": "gls_vocab_027",
+      "term": "GNAT",
+      "definition": "Uses the GN consonant team: GN + A + T. G is silent before N (Rule 33).",
+      "pronunciation": "/n/ + /a/ + /t/",
+      "exampleUsage": "A GNAT buzzed around my head.",
+      "difficulty": "easy",
+      "relatedTerms": ["GN", "Rule 33", "silent consonant"]
+    },
+    {
+      "id": "gls_vocab_028",
+      "term": "SHAKE",
+      "definition": "Silent E makes A long: SH + A + K + E. Silent E Job 1 — the vowel says its name (Rule 17).",
+      "pronunciation": "/sh/ + /ay/ + /k/",
+      "exampleUsage": "SHAKE the bottle before opening.",
+      "difficulty": "medium",
+      "relatedTerms": ["SH", "silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_029",
+      "term": "PHONE",
+      "definition": "Greek PH + Silent E: PH + O + N + E. PH says /f/ (Greek origin). Silent E makes O long (Rule 17).",
+      "pronunciation": "/f/ + /oh/ + /n/",
+      "exampleUsage": "Answer the PHONE quickly.",
+      "difficulty": "medium",
+      "relatedTerms": ["PH", "silent E", "Rule 17", "Rule 38"]
+    },
+    {
+      "id": "gls_vocab_030",
+      "term": "WRITE",
+      "definition": "Two silent letters: WR + I + T + E. W is silent in WR (Rule 33). Silent E makes I long (Rule 17).",
+      "pronunciation": "/r/ + /eye/ + /t/",
+      "exampleUsage": "Please WRITE your name here.",
+      "difficulty": "medium",
+      "relatedTerms": ["WR", "silent E", "Rule 17", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_031",
+      "term": "KNIFE",
+      "definition": "Silent K + Silent E: KN + I + F + E. K is silent in KN (Rule 33). Silent E makes I long (Rule 17).",
+      "pronunciation": "/n/ + /eye/ + /f/",
+      "exampleUsage": "Use a KNIFE to cut the bread.",
+      "difficulty": "medium",
+      "relatedTerms": ["KN", "silent E", "Rule 17", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_032",
+      "term": "GLOVE",
+      "definition": "Silent E guards V: G + L + O + V + E. English words don't end in V (Rule 3). This is Silent E Job 2, not long O.",
+      "pronunciation": "/g/ + /l/ + /u/ + /v/",
+      "exampleUsage": "Put on your GLOVE before going out.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 3", "Rule 18", "silent E Job 2"]
+    },
+    {
+      "id": "gls_vocab_033",
+      "term": "DANCE",
+      "definition": "Silent E keeps C soft: D + A + N + C + E. Without E, the C would say /k/. This is Silent E Job 3 (Rule 19).",
+      "pronunciation": "/d/ + /a/ + /n/ + /s/",
+      "exampleUsage": "Let's DANCE to the music!",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 1", "Rule 19", "silent E Job 3"]
+    },
+    {
+      "id": "gls_vocab_034",
+      "term": "BADGE",
+      "definition": "DGE shield: B + A + DGE. D protects the short A before the /j/ sound (Rule 8).",
+      "pronunciation": "/b/ + /a/ + /j/",
+      "exampleUsage": "She wore a BADGE on her shirt.",
+      "difficulty": "medium",
+      "relatedTerms": ["DGE", "Rule 8", "Rule 30"]
+    },
+    {
+      "id": "gls_vocab_035",
+      "term": "MATCH",
+      "definition": "TCH shield: M + A + TCH. T protects the short A before the /ch/ sound (Rule 7).",
+      "pronunciation": "/m/ + /a/ + /ch/",
+      "exampleUsage": "Light the MATCH carefully.",
+      "difficulty": "medium",
+      "relatedTerms": ["TCH", "Rule 7", "Rule 30"]
+    },
+    {
+      "id": "gls_vocab_036",
+      "term": "NIGHT",
+      "definition": "IGH pattern: N + IGH + T. IGH always says /eye/ with GH silent (Rule 37). One of English's most reliable patterns.",
+      "pronunciation": "/n/ + /eye/ + /t/",
+      "exampleUsage": "Good NIGHT! Sleep well.",
+      "difficulty": "medium",
+      "relatedTerms": ["IGH", "Rule 37"]
+    },
+    {
+      "id": "gls_vocab_037",
+      "term": "LIGHT",
+      "definition": "IGH pattern: L + IGH + T. Three letters (IGH) making one sound /eye/.",
+      "pronunciation": "/l/ + /eye/ + /t/",
+      "exampleUsage": "Turn on the LIGHT.",
+      "difficulty": "medium",
+      "relatedTerms": ["IGH", "Rule 37"]
+    },
+    {
+      "id": "gls_vocab_038",
+      "term": "BLUE",
+      "definition": "UE vowel team: B + L + UE. E guards U since English words don't end in U alone (Rule 3/18).",
+      "pronunciation": "/b/ + /l/ + /oo/",
+      "exampleUsage": "The sky is BLUE today.",
+      "difficulty": "medium",
+      "relatedTerms": ["UE", "Rule 3", "Rule 18"]
+    },
+    {
+      "id": "gls_vocab_039",
+      "term": "GHOST",
+      "definition": "GH at start + long O: GH + O + S + T. GH says /g/ at the start of words. O is long before ST.",
+      "pronunciation": "/g/ + /oh/ + /s/ + /t/",
+      "exampleUsage": "A GHOST appeared at midnight!",
+      "difficulty": "medium",
+      "relatedTerms": ["GH", "long vowel"]
+    },
+    {
+      "id": "gls_vocab_040",
+      "term": "CLIFF",
+      "definition": "Double F after short vowel: C + L + I + FF. In one-syllable words, final /f/ doubles after a short vowel (Rule 5).",
+      "pronunciation": "/k/ + /l/ + /i/ + /f/",
+      "exampleUsage": "Be careful near the CLIFF edge!",
+      "difficulty": "medium",
+      "relatedTerms": ["FF", "Rule 5"]
+    },
+    {
+      "id": "gls_vocab_041",
+      "term": "RUNNING",
+      "definition": "Doubled consonant before suffix: R + U + N + N + I + NG. Run → running: double N before vowel suffix to keep U short (Rule 14).",
+      "pronunciation": "/r/ + /u/ + /n/ + /i/ + /ng/",
+      "exampleUsage": "She is RUNNING in the park.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 14", "doubling"]
+    },
+    {
+      "id": "gls_vocab_042",
+      "term": "HOPED",
+      "definition": "Drop E before vowel suffix: H + O + P + ED. Hope → hoped: silent E dropped before -ED (Rule 12). ED says /t/ after unvoiced /p/.",
+      "pronunciation": "/h/ + /oh/ + /p/ + /t/",
+      "exampleUsage": "I HOPED for a sunny day.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 12", "ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_043",
+      "term": "WANTED",
+      "definition": "ED says /ed/ after T: W + A + N + T + ED. When the base ends in T or D, -ED adds a whole new syllable /ed/ (Rule 22).",
+      "pronunciation": "/w/ + /o/ + /n/ + /t/ + /ed/",
+      "exampleUsage": "She WANTED a new book.",
+      "difficulty": "medium",
+      "relatedTerms": ["ED", "Rule 22", "Rule 35"]
+    },
+    {
+      "id": "gls_vocab_044",
+      "term": "JUMPED",
+      "definition": "ED says /t/ after unvoiced P: J + U + M + P + ED. After unvoiced consonants, -ED says /t/ (Rule 22).",
+      "pronunciation": "/j/ + /u/ + /m/ + /p/ + /t/",
+      "exampleUsage": "The frog JUMPED into the pond.",
+      "difficulty": "medium",
+      "relatedTerms": ["ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_045",
+      "term": "CALLED",
+      "definition": "ED says /d/ after voiced L: C + A + LL + ED. After voiced consonants, -ED says /d/ (Rule 22).",
+      "pronunciation": "/k/ + /awl/ + /d/",
+      "exampleUsage": "Mom CALLED me for dinner.",
+      "difficulty": "medium",
+      "relatedTerms": ["ED", "Rule 22", "LL", "Rule 36"]
+    },
+    {
+      "id": "gls_vocab_046",
+      "term": "FOXES",
+      "definition": "Add -ES after hissing X: F + O + X + ES. Words ending in S, X, Z, CH, SH need -ES, not just -S (Rule 23).",
+      "pronunciation": "/f/ + /o/ + /k/ + /s/ + /ez/",
+      "exampleUsage": "Two FOXES ran through the forest.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 23", "plural"]
+    },
+    {
+      "id": "gls_vocab_047",
+      "term": "BIGGER",
+      "definition": "Double consonant before suffix: B + I + G + G + ER. Big → bigger: double G before vowel suffix (Rule 14) to keep I short.",
+      "pronunciation": "/b/ + /i/ + /g/ + /er/",
+      "exampleUsage": "This house is BIGGER than that one.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 14", "doubling"]
+    },
+    {
+      "id": "gls_vocab_048",
+      "term": "TRAIN",
+      "definition": "AI vowel team in middle: T + R + AI + N. AI says /ay/ in the middle of words (Rule 9).",
+      "pronunciation": "/t/ + /r/ + /ay/ + /n/",
+      "exampleUsage": "The TRAIN arrived on time.",
+      "difficulty": "medium",
+      "relatedTerms": ["AI", "Rule 9"]
+    },
+    {
+      "id": "gls_vocab_049",
+      "term": "CREAM",
+      "definition": "EA vowel team: C + R + EA + M. EA most commonly says /ee/ (long E).",
+      "pronunciation": "/k/ + /r/ + /ee/ + /m/",
+      "exampleUsage": "I love ice CREAM!",
+      "difficulty": "medium",
+      "relatedTerms": ["EA", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_050",
+      "term": "FRUIT",
+      "definition": "UI vowel team: F + R + UI + T. UI says /oo/ here — a less common vowel team.",
+      "pronunciation": "/f/ + /r/ + /oo/ + /t/",
+      "exampleUsage": "Eat plenty of FRUIT every day.",
+      "difficulty": "medium",
+      "relatedTerms": ["UI", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_051",
+      "term": "HAPPIER",
+      "definition": "Y changes to I: H + A + PP + I + ER. Happy → happier: consonant + Y changes to I before -ER suffix (Rule 15).",
+      "pronunciation": "/h/ + /a/ + /p/ + /ee/ + /er/",
+      "exampleUsage": "Today I am HAPPIER than yesterday.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 15", "Y to I"]
+    },
+    {
+      "id": "gls_vocab_052",
+      "term": "CARRIED",
+      "definition": "Y to I before -ED: C + AR + R + I + ED. Carry → carried: consonant + Y changes to I before -ED (Rule 15).",
+      "pronunciation": "/k/ + /ar/ + /ee/ + /d/",
+      "exampleUsage": "She CARRIED the heavy bag.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 15", "AR", "ED"]
+    },
+    {
+      "id": "gls_vocab_053",
+      "term": "STAYING",
+      "definition": "Vowel + Y stays: S + T + AY + I + NG. Stay → staying: vowel + Y keeps the Y (Rule 16).",
+      "pronunciation": "/s/ + /t/ + /ay/ + /i/ + /ng/",
+      "exampleUsage": "We are STAYING home today.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 16", "AY"]
+    },
+    {
+      "id": "gls_vocab_054",
+      "term": "CAREFUL",
+      "definition": "The -FUL suffix: C + AR + E + F + U + L. FULL becomes -FUL as a suffix, dropping one L (Rule 27).",
+      "pronunciation": "/k/ + /air/ + /f/ + /ul/",
+      "exampleUsage": "Be CAREFUL crossing the road.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 27", "AR", "suffix"]
+    },
+    {
+      "id": "gls_vocab_055",
+      "term": "HOPEFUL",
+      "definition": "Keep E before consonant suffix: H + O + P + E + FUL. Hope → hopeful: keep silent E before -FUL (consonant suffix, Rule 13).",
+      "pronunciation": "/h/ + /oh/ + /p/ + /f/ + /ul/",
+      "exampleUsage": "I am HOPEFUL about tomorrow.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 13", "Rule 27", "silent E"]
+    },
+    {
+      "id": "gls_vocab_056",
+      "term": "THOUGHT",
+      "definition": "OUGH combo: TH + OUGH + T. OUGH says /aw/ here — one of its six possible sounds.",
+      "pronunciation": "/th/ + /aw/ + /t/",
+      "exampleUsage": "I THOUGHT about it carefully.",
+      "difficulty": "hard",
+      "relatedTerms": ["TH", "OUGH"]
+    },
+    {
+      "id": "gls_vocab_057",
+      "term": "THROUGH",
+      "definition": "OUGH combo: TH + R + OUGH. OUGH says /oo/ here — a different sound from THOUGHT.",
+      "pronunciation": "/th/ + /r/ + /oo/",
+      "exampleUsage": "Walk THROUGH the door.",
+      "difficulty": "hard",
+      "relatedTerms": ["TH", "OUGH"]
+    },
+    {
+      "id": "gls_vocab_058",
+      "term": "DAUGHTER",
+      "definition": "AUGH combo: D + AUGH + T + ER. AUGH says /aw/ — four letters for one sound. GH is silent.",
+      "pronunciation": "/d/ + /aw/ + /t/ + /er/",
+      "exampleUsage": "My DAUGHTER loves to read.",
+      "difficulty": "hard",
+      "relatedTerms": ["AUGH", "ER"]
+    },
+    {
+      "id": "gls_vocab_059",
+      "term": "CAUGHT",
+      "definition": "AUGH combo: C + AUGH + T. AUGH always says /aw/ — a reliable pattern despite its length.",
+      "pronunciation": "/k/ + /aw/ + /t/",
+      "exampleUsage": "He CAUGHT the ball!",
+      "difficulty": "hard",
+      "relatedTerms": ["AUGH"]
+    },
+    {
+      "id": "gls_vocab_060",
+      "term": "FREIGHT",
+      "definition": "EIGH combo: F + R + EIGH + T. EIGH says /ay/ — four letters for one sound. GH is silent.",
+      "pronunciation": "/f/ + /r/ + /ay/ + /t/",
+      "exampleUsage": "The FREIGHT train carried goods.",
+      "difficulty": "hard",
+      "relatedTerms": ["EIGH"]
+    },
+    {
+      "id": "gls_vocab_061",
+      "term": "KNIGHT",
+      "definition": "Two silent patterns: KN + IGH + T. K is silent in KN (Rule 33). GH is silent in IGH (Rule 37).",
+      "pronunciation": "/n/ + /eye/ + /t/",
+      "exampleUsage": "The brave KNIGHT rode into battle.",
+      "difficulty": "hard",
+      "relatedTerms": ["KN", "IGH", "Rule 33", "Rule 37"]
+    },
+    {
+      "id": "gls_vocab_062",
+      "term": "NATION",
+      "definition": "TI special phonogram: N + A + TI + O + N. TI says /sh/ at the start of the -TION suffix (Rule 25).",
+      "pronunciation": "/n/ + /ay/ + /sh/ + /un/",
+      "exampleUsage": "Our NATION celebrated its independence.",
+      "difficulty": "hard",
+      "relatedTerms": ["TI", "Rule 25"]
+    },
+    {
+      "id": "gls_vocab_063",
+      "term": "SPECIAL",
+      "definition": "CI special phonogram: S + P + E + CI + A + L. CI says /sh/ at the start of the -CIAL suffix.",
+      "pronunciation": "/s/ + /p/ + /e/ + /sh/ + /ul/",
+      "exampleUsage": "This is a SPECIAL day!",
+      "difficulty": "hard",
+      "relatedTerms": ["CI"]
+    },
+    {
+      "id": "gls_vocab_064",
+      "term": "VISION",
+      "definition": "SI special phonogram: V + I + SI + O + N. SI says /zh/ here — the voiced version of /sh/.",
+      "pronunciation": "/v/ + /i/ + /zh/ + /un/",
+      "exampleUsage": "She had a clear VISION of the future.",
+      "difficulty": "hard",
+      "relatedTerms": ["SI"]
+    },
+    {
+      "id": "gls_vocab_065",
+      "term": "QUICKLY",
+      "definition": "Multiple patterns: QU + I + CK + L + Y. QU team /kw/ + CK shield after short I + Y says /ee/ in multi-syllable words.",
+      "pronunciation": "/kw/ + /i/ + /k/ + /l/ + /ee/",
+      "exampleUsage": "Run QUICKLY to catch the bus!",
+      "difficulty": "hard",
+      "relatedTerms": ["QU", "CK", "Rule 6", "Rule 11"]
+    },
+    {
+      "id": "gls_vocab_066",
+      "term": "MIDNIGHT",
+      "definition": "Compound word with IGH: MID + NIGHT. Two words combined, with the IGH pattern saying /eye/ in NIGHT.",
+      "pronunciation": "/m/ + /i/ + /d/ + /n/ + /eye/ + /t/",
+      "exampleUsage": "The clock struck MIDNIGHT.",
+      "difficulty": "hard",
+      "relatedTerms": ["IGH", "Rule 37", "compound word"]
+    },
+    {
+      "id": "gls_vocab_067",
+      "term": "ALREADY",
+      "definition": "AL prefix from ALL: AL + READY. When ALL is a prefix, it drops one L — becomes AL- (Rule 27).",
+      "pronunciation": "/awl/ + /r/ + /e/ + /d/ + /ee/",
+      "exampleUsage": "I have ALREADY finished my homework.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 27", "AL prefix"]
+    },
+    {
+      "id": "gls_vocab_068",
+      "term": "WATCHES",
+      "definition": "ES after hissing TCH: W + A + TCH + ES. Add -ES (not just -S) after TCH because it hisses (Rule 23).",
+      "pronunciation": "/w/ + /o/ + /ch/ + /ez/",
+      "exampleUsage": "She WATCHES the sunset every evening.",
+      "difficulty": "hard",
+      "relatedTerms": ["TCH", "Rule 7", "Rule 23"]
+    },
+    {
+      "id": "gls_vocab_069",
+      "term": "BALLOON",
+      "definition": "Schwa vowel: B + A + LL + OO + N. The first A is unstressed and becomes a schwa /uh/ sound.",
+      "pronunciation": "/b/ + /uh/ + /l/ + /oo/ + /n/",
+      "exampleUsage": "The red BALLOON floated away.",
+      "difficulty": "hard",
+      "relatedTerms": ["OO", "LL", "schwa"]
+    },
+    {
+      "id": "gls_vocab_070",
+      "term": "ELEPHANT",
+      "definition": "Greek PH: E + L + E + PH + A + N + T. PH says /f/ — from Greek (Rule 38). Second E is schwa.",
+      "pronunciation": "/e/ + /l/ + /uh/ + /f/ + /uh/ + /n/ + /t/",
+      "exampleUsage": "The ELEPHANT is the largest land animal.",
+      "difficulty": "hard",
+      "relatedTerms": ["PH", "Rule 38", "schwa"]
+    },
+    {
+      "id": "gls_vocab_071",
+      "term": "BUILDING",
+      "definition": "UI vowel team: B + UI + L + D + I + NG. UI unusually says short /i/ in BUILD — an irregular pattern.",
+      "pronunciation": "/b/ + /i/ + /l/ + /d/ + /i/ + /ng/",
+      "exampleUsage": "They are BUILDING a new school.",
+      "difficulty": "hard",
+      "relatedTerms": ["UI"]
+    },
+    {
+      "id": "gls_vocab_072",
+      "term": "WRINKLE",
+      "definition": "Silent W + NK team: WR + I + NK + L + E. W is silent in WR (Rule 33). NK says /ngk/. Consonant-LE ending.",
+      "pronunciation": "/r/ + /i/ + /ngk/ + /ul/",
+      "exampleUsage": "Iron the WRINKLE out of your shirt.",
+      "difficulty": "hard",
+      "relatedTerms": ["WR", "NK", "Rule 33", "Rule 20"]
+    },
+    {
+      "id": "gls_vocab_073",
+      "term": "CONTINUE",
+      "definition": "UE guards U: C + O + N + T + I + N + UE. English words don't end in U alone, so E follows (Rule 3).",
+      "pronunciation": "/k/ + /un/ + /t/ + /i/ + /n/ + /yoo/",
+      "exampleUsage": "Please CONTINUE reading the story.",
+      "difficulty": "hard",
+      "relatedTerms": ["UE", "Rule 3"]
+    },
+    {
+      "id": "gls_vocab_074",
+      "term": "RESCUE",
+      "definition": "UE guards U: R + E + S + C + UE. E follows U because English words cannot end in U (Rule 3).",
+      "pronunciation": "/r/ + /e/ + /s/ + /k/ + /yoo/",
+      "exampleUsage": "The firefighters came to RESCUE the cat.",
+      "difficulty": "hard",
+      "relatedTerms": ["UE", "Rule 3"]
+    },
+    {
+      "id": "gls_vocab_075",
+      "term": "JUICE",
+      "definition": "UI vowel team: J + UI + C + E. UI says /oo/ here. Soft C before E.",
+      "pronunciation": "/j/ + /oo/ + /s/",
+      "exampleUsage": "Would you like some orange JUICE?",
+      "difficulty": "hard",
+      "relatedTerms": ["UI", "Rule 1"]
+    },
+    {
+      "id": "gls_vocab_076",
+      "term": "DONKEY",
+      "definition": "NK + EY: D + O + NK + EY. NK says /ngk/. EY says /ee/ at the end of multi-syllable words.",
+      "pronunciation": "/d/ + /o/ + /ngk/ + /ee/",
+      "exampleUsage": "The DONKEY carried the heavy load.",
+      "difficulty": "hard",
+      "relatedTerms": ["NK", "EY"]
+    },
+    {
+      "id": "gls_vocab_077",
+      "term": "ALTHOUGH",
+      "definition": "AL prefix + OUGH: AL + TH + OUGH. AL from ALL (drops one L). OUGH says /oh/ here.",
+      "pronunciation": "/awl/ + /th/ + /oh/",
+      "exampleUsage": "ALTHOUGH it rained, we had fun.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 27", "OUGH", "TH"]
+    },
+    {
+      "id": "gls_vocab_078",
+      "term": "STAGE",
+      "definition": "Silent E does two jobs: S + T + A + G + E. E makes A long /ay/ (Job 1) AND keeps G soft /j/ (Job 3).",
+      "pronunciation": "/s/ + /t/ + /ay/ + /j/",
+      "exampleUsage": "The actors performed on STAGE.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 2", "Rule 17", "Rule 19"]
+    },
+    {
+      "id": "gls_vocab_079",
+      "term": "SLEIGH",
+      "definition": "EIGH combo: S + L + EIGH. EIGH says /ay/ — four letters for one sound.",
+      "pronunciation": "/s/ + /l/ + /ay/",
+      "exampleUsage": "Santa rides a SLEIGH with reindeer.",
+      "difficulty": "hard",
+      "relatedTerms": ["EIGH"]
+    },
+    {
+      "id": "gls_vocab_080",
+      "term": "GRASS",
+      "definition": "Double S after short vowel: G + R + A + SS. SS after short A in one-syllable word (Rule 5).",
+      "pronunciation": "/g/ + /r/ + /a/ + /s/",
+      "exampleUsage": "The GRASS is green after the rain.",
+      "difficulty": "medium",
+      "relatedTerms": ["SS", "Rule 5"]
+    },
+    {
+      "id": "gls_vocab_081",
+      "term": "SPELL",
+      "definition": "Double L after short vowel: S + P + E + LL. LL after short E in one-syllable word (Rule 5).",
+      "pronunciation": "/s/ + /p/ + /e/ + /l/",
+      "exampleUsage": "Can you SPELL your name?",
+      "difficulty": "medium",
+      "relatedTerms": ["LL", "Rule 5"]
+    },
+    {
+      "id": "gls_vocab_082",
+      "term": "STUFF",
+      "definition": "Double F after short vowel: S + T + U + FF. FF after short U in one-syllable word (Rule 5).",
+      "pronunciation": "/s/ + /t/ + /u/ + /f/",
+      "exampleUsage": "Put your STUFF in the bag.",
+      "difficulty": "medium",
+      "relatedTerms": ["FF", "Rule 5"]
+    },
+    {
+      "id": "gls_vocab_083",
+      "term": "DRESS",
+      "definition": "Double S after short vowel: D + R + E + SS. SS after short E in one-syllable word (Rule 5).",
+      "pronunciation": "/d/ + /r/ + /e/ + /s/",
+      "exampleUsage": "She wore a beautiful DRESS.",
+      "difficulty": "medium",
+      "relatedTerms": ["SS", "Rule 5"]
+    },
+    {
+      "id": "gls_vocab_084",
+      "term": "FLOAT",
+      "definition": "OA vowel team: F + L + OA + T. OA reliably says long O /oh/.",
+      "pronunciation": "/f/ + /l/ + /oh/ + /t/",
+      "exampleUsage": "Boats FLOAT on water.",
+      "difficulty": "medium",
+      "relatedTerms": ["OA", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_085",
+      "term": "POINT",
+      "definition": "OI vowel team: P + OI + N + T. OI says /oy/ in the middle (Rule 10).",
+      "pronunciation": "/p/ + /oy/ + /n/ + /t/",
+      "exampleUsage": "She made a good POINT.",
+      "difficulty": "medium",
+      "relatedTerms": ["OI", "Rule 10"]
+    },
+    {
+      "id": "gls_vocab_086",
+      "term": "SHOUT",
+      "definition": "SH team + OU team: SH + OU + T. Two teams in one word — SH says /sh/ and OU says /ow/.",
+      "pronunciation": "/sh/ + /ow/ + /t/",
+      "exampleUsage": "Don't SHOUT in the library.",
+      "difficulty": "medium",
+      "relatedTerms": ["SH", "OU"]
+    },
+    {
+      "id": "gls_vocab_087",
+      "term": "HAUNT",
+      "definition": "AU vowel team: H + AU + N + T. AU says /aw/ in the middle of words.",
+      "pronunciation": "/h/ + /aw/ + /n/ + /t/",
+      "exampleUsage": "Ghosts HAUNT the old castle.",
+      "difficulty": "medium",
+      "relatedTerms": ["AU", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_088",
+      "term": "STIR",
+      "definition": "IR R-controlled: S + T + IR. IR says /er/ — same sound as ER and UR.",
+      "pronunciation": "/s/ + /t/ + /er/",
+      "exampleUsage": "STIR the soup with a spoon.",
+      "difficulty": "medium",
+      "relatedTerms": ["IR", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_089",
+      "term": "BURN",
+      "definition": "UR R-controlled: B + UR + N. UR says /er/ — the third /er/ triplet.",
+      "pronunciation": "/b/ + /er/ + /n/",
+      "exampleUsage": "Don't BURN the toast!",
+      "difficulty": "easy",
+      "relatedTerms": ["UR", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_090",
+      "term": "HER",
+      "definition": "ER R-controlled: H + ER. ER says /er/ — one of the /er/ triplets (ER, IR, UR).",
+      "pronunciation": "/h/ + /er/",
+      "exampleUsage": "Give HER the book.",
+      "difficulty": "easy",
+      "relatedTerms": ["ER", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_091",
+      "term": "STUDIED",
+      "definition": "Y to I before -ED: study → studied. Consonant + Y changes to I before -ED suffix (Rule 15).",
+      "pronunciation": "/s/ + /t/ + /u/ + /d/ + /ee/ + /d/",
+      "exampleUsage": "He STUDIED hard for the test.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 15", "ED"]
+    },
+    {
+      "id": "gls_vocab_092",
+      "term": "HAPPILY",
+      "definition": "Y to I before -LY: happy → happily. Consonant + Y changes to I before -LY (Rule 15).",
+      "pronunciation": "/h/ + /a/ + /p/ + /i/ + /l/ + /ee/",
+      "exampleUsage": "They lived HAPPILY ever after.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 15"]
+    },
+    {
+      "id": "gls_vocab_093",
+      "term": "SITTING",
+      "definition": "Double T before suffix: sit → sitting. Double T keeps I short before vowel suffix (Rule 14).",
+      "pronunciation": "/s/ + /i/ + /t/ + /i/ + /ng/",
+      "exampleUsage": "She was SITTING by the window.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 14", "doubling"]
+    },
+    {
+      "id": "gls_vocab_094",
+      "term": "HOPPING",
+      "definition": "Double P before suffix: hop → hopping. Double P keeps O short (Rule 14). Compare with HOPING (no double).",
+      "pronunciation": "/h/ + /o/ + /p/ + /i/ + /ng/",
+      "exampleUsage": "The rabbit was HOPPING around the garden.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 14", "doubling"]
+    },
+    {
+      "id": "gls_vocab_095",
+      "term": "DISHES",
+      "definition": "ES after hissing SH: dish → dishes. Add -ES after SH because it hisses (Rule 23).",
+      "pronunciation": "/d/ + /i/ + /sh/ + /ez/",
+      "exampleUsage": "Please wash the DISHES after dinner.",
+      "difficulty": "medium",
+      "relatedTerms": ["SH", "Rule 23"]
+    },
+    {
+      "id": "gls_vocab_096",
+      "term": "BOXES",
+      "definition": "ES after hissing X: box → boxes. Add -ES after X because /ks/ is a hissing sound (Rule 23).",
+      "pronunciation": "/b/ + /o/ + /k/ + /s/ + /ez/",
+      "exampleUsage": "Stack the BOXES in the corner.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 23", "X"]
+    },
+    {
+      "id": "gls_vocab_097",
+      "term": "SESSION",
+      "definition": "SI special phonogram + SS: S + E + SS + I + O + N. SI says /sh/ in -SION. Note the double SS.",
+      "pronunciation": "/s/ + /e/ + /sh/ + /un/",
+      "exampleUsage": "The study SESSION lasted two hours.",
+      "difficulty": "hard",
+      "relatedTerms": ["SI", "SS", "Rule 25"]
+    },
+    {
+      "id": "gls_vocab_098",
+      "term": "TENSION",
+      "definition": "SI special phonogram: T + E + N + SI + O + N. SI says /sh/ in the -SION suffix.",
+      "pronunciation": "/t/ + /e/ + /n/ + /sh/ + /un/",
+      "exampleUsage": "There was TENSION in the room.",
+      "difficulty": "hard",
+      "relatedTerms": ["SI", "Rule 25"]
+    },
+    {
+      "id": "gls_vocab_099",
+      "term": "ACTION",
+      "definition": "TI special phonogram: A + C + TI + O + N. TI says /sh/ in the -TION suffix.",
+      "pronunciation": "/a/ + /k/ + /sh/ + /un/",
+      "exampleUsage": "It's time for ACTION!",
+      "difficulty": "hard",
+      "relatedTerms": ["TI", "Rule 25"]
+    },
+    {
+      "id": "gls_vocab_100",
+      "term": "SOCIAL",
+      "definition": "CI special phonogram: S + O + CI + A + L. CI says /sh/ in the -CIAL suffix.",
+      "pronunciation": "/s/ + /oh/ + /sh/ + /ul/",
+      "exampleUsage": "Humans are SOCIAL creatures.",
+      "difficulty": "hard",
+      "relatedTerms": ["CI"]
+    },
+    {
+      "id": "gls_vocab_101",
+      "term": "SAW",
+      "definition": "AW vowel team: S + AW. AW says /aw/ — used at the end of words and before certain consonants.",
+      "pronunciation": "/s/ + /aw/",
+      "exampleUsage": "I SAW a rainbow after the rain.",
+      "difficulty": "easy",
+      "relatedTerms": ["AW", "AU"]
+    },
+    {
+      "id": "gls_vocab_102",
+      "term": "NEW",
+      "definition": "EW vowel team: N + EW. EW says /oo/ here.",
+      "pronunciation": "/n/ + /oo/",
+      "exampleUsage": "I got a NEW pair of shoes.",
+      "difficulty": "easy",
+      "relatedTerms": ["EW", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_103",
+      "term": "MOST",
+      "definition": "Long O before ST: M + O + S + T. O says long /oh/ before ST — a common pattern.",
+      "pronunciation": "/m/ + /oh/ + /s/ + /t/",
+      "exampleUsage": "She ate MOST of the cake.",
+      "difficulty": "easy",
+      "relatedTerms": ["long vowel", "ST pattern"]
+    },
+    {
+      "id": "gls_vocab_104",
+      "term": "FIND",
+      "definition": "Long I before ND: F + I + N + D. I says long /eye/ before ND.",
+      "pronunciation": "/f/ + /eye/ + /n/ + /d/",
+      "exampleUsage": "Can you FIND my keys?",
+      "difficulty": "easy",
+      "relatedTerms": ["long vowel", "ND pattern"]
+    },
+    {
+      "id": "gls_vocab_105",
+      "term": "GOLD",
+      "definition": "Long O before LD: G + O + L + D. O says long /oh/ before LD.",
+      "pronunciation": "/g/ + /oh/ + /l/ + /d/",
+      "exampleUsage": "The ring was made of GOLD.",
+      "difficulty": "easy",
+      "relatedTerms": ["long vowel", "LD pattern"]
+    },
+    {
+      "id": "gls_vocab_106",
+      "term": "CRY",
+      "definition": "Y as long I: C + R + Y. In one-syllable words, Y says /eye/.",
+      "pronunciation": "/k/ + /r/ + /eye/",
+      "exampleUsage": "Don't CRY, everything will be okay.",
+      "difficulty": "easy",
+      "relatedTerms": ["Y", "long vowel"]
+    },
+    {
+      "id": "gls_vocab_107",
+      "term": "SKY",
+      "definition": "Y as long I: S + K + Y. In one-syllable words ending in Y, it says /eye/.",
+      "pronunciation": "/s/ + /k/ + /eye/",
+      "exampleUsage": "Look at the beautiful blue SKY!",
+      "difficulty": "easy",
+      "relatedTerms": ["Y", "long vowel"]
+    },
+    {
+      "id": "gls_vocab_108",
+      "term": "WHY",
+      "definition": "WH team + Y: WH + Y. WH consonant team + Y saying /eye/ as a one-syllable word.",
+      "pronunciation": "/wh/ + /eye/",
+      "exampleUsage": "WHY is the sky blue?",
+      "difficulty": "easy",
+      "relatedTerms": ["WH", "Y"]
+    },
+    {
+      "id": "gls_vocab_109",
+      "term": "WHEN",
+      "definition": "WH consonant team: WH + E + N. WH makes one sound at the start.",
+      "pronunciation": "/wh/ + /e/ + /n/",
+      "exampleUsage": "WHEN does the movie start?",
+      "difficulty": "easy",
+      "relatedTerms": ["WH", "consonant team"]
+    },
+    {
+      "id": "gls_vocab_110",
+      "term": "BANK",
+      "definition": "NK consonant team: B + A + NK. NK says /ngk/ — the N nasalizes before K.",
+      "pronunciation": "/b/ + /a/ + /ngk/",
+      "exampleUsage": "She put her money in the BANK.",
+      "difficulty": "easy",
+      "relatedTerms": ["NK", "consonant team"]
+    },
+    {
+      "id": "gls_vocab_111",
+      "term": "FISH",
+      "definition": "SH at the end: F + I + SH. SH consonant team says /sh/ — one sound from two letters.",
+      "pronunciation": "/f/ + /i/ + /sh/",
+      "exampleUsage": "The FISH swam in the river.",
+      "difficulty": "easy",
+      "relatedTerms": ["SH", "consonant team"]
+    },
+    {
+      "id": "gls_vocab_112",
+      "term": "MATH",
+      "definition": "TH at the end: M + A + TH. TH says unvoiced /th/ at the end — no vibration.",
+      "pronunciation": "/m/ + /a/ + /th/",
+      "exampleUsage": "I love solving MATH problems.",
+      "difficulty": "easy",
+      "relatedTerms": ["TH", "unvoiced"]
+    },
+    {
+      "id": "gls_vocab_113",
+      "term": "LOCK",
+      "definition": "CK shield: L + O + CK. CK after short O in one-syllable word (Rule 6).",
+      "pronunciation": "/l/ + /o/ + /k/",
+      "exampleUsage": "LOCK the door when you leave.",
+      "difficulty": "easy",
+      "relatedTerms": ["CK", "Rule 6"]
+    },
+    {
+      "id": "gls_vocab_114",
+      "term": "KICK",
+      "definition": "CK shield: K + I + CK. CK after short I (Rule 6).",
+      "pronunciation": "/k/ + /i/ + /k/",
+      "exampleUsage": "KICK the ball into the goal!",
+      "difficulty": "easy",
+      "relatedTerms": ["CK", "Rule 6"]
+    },
+    {
+      "id": "gls_vocab_115",
+      "term": "SEED",
+      "definition": "EE vowel team: S + EE + D. EE always says /ee/ — very reliable.",
+      "pronunciation": "/s/ + /ee/ + /d/",
+      "exampleUsage": "Plant the SEED in the soil.",
+      "difficulty": "easy",
+      "relatedTerms": ["EE", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_116",
+      "term": "BOAT",
+      "definition": "OA vowel team: B + OA + T. OA says long O /oh/.",
+      "pronunciation": "/b/ + /oh/ + /t/",
+      "exampleUsage": "We sailed the BOAT across the lake.",
+      "difficulty": "easy",
+      "relatedTerms": ["OA", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_117",
+      "term": "BEAN",
+      "definition": "EA vowel team: B + EA + N. EA says /ee/ here — its most common sound.",
+      "pronunciation": "/b/ + /ee/ + /n/",
+      "exampleUsage": "I ate a green BEAN for lunch.",
+      "difficulty": "easy",
+      "relatedTerms": ["EA", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_118",
+      "term": "DAY",
+      "definition": "AY vowel team: D + AY. AY at the end of a base word says /ay/ (Rule 9).",
+      "pronunciation": "/d/ + /ay/",
+      "exampleUsage": "What a beautiful DAY!",
+      "difficulty": "easy",
+      "relatedTerms": ["AY", "Rule 9"]
+    },
+    {
+      "id": "gls_vocab_119",
+      "term": "OUT",
+      "definition": "OU vowel team: OU + T. OU says /ow/ here.",
+      "pronunciation": "/ow/ + /t/",
+      "exampleUsage": "Let's go OUT to the park.",
+      "difficulty": "easy",
+      "relatedTerms": ["OU", "vowel team"]
+    },
+    {
+      "id": "gls_vocab_120",
+      "term": "FLUTE",
+      "definition": "Silent E makes U long: F + L + U + T + E. Silent E Job 1 — U says /oo/ (Rule 17).",
+      "pronunciation": "/f/ + /l/ + /oo/ + /t/",
+      "exampleUsage": "She plays the FLUTE beautifully.",
+      "difficulty": "medium",
+      "relatedTerms": ["silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_121",
+      "term": "GRAPE",
+      "definition": "Silent E makes A long: G + R + A + P + E. Silent E Job 1 — A says /ay/ (Rule 17).",
+      "pronunciation": "/g/ + /r/ + /ay/ + /p/",
+      "exampleUsage": "I love eating purple GRAPES.",
+      "difficulty": "medium",
+      "relatedTerms": ["silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_122",
+      "term": "FLAME",
+      "definition": "Silent E jumps over consonant: F + L + A + M + E. Silent E makes A say /ay/ even across M.",
+      "pronunciation": "/f/ + /l/ + /ay/ + /m/",
+      "exampleUsage": "The candle FLAME flickered in the wind.",
+      "difficulty": "medium",
+      "relatedTerms": ["silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_123",
+      "term": "PRIZE",
+      "definition": "Silent E makes I long: P + R + I + Z + E. Silent E Job 1 — I says /eye/ (Rule 17).",
+      "pronunciation": "/p/ + /r/ + /eye/ + /z/",
+      "exampleUsage": "She won first PRIZE!",
+      "difficulty": "medium",
+      "relatedTerms": ["silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_124",
+      "term": "NERVE",
+      "definition": "E guards V + R-controlled: N + ER + V + E. E after V (Rule 18) + ER R-controlled vowel.",
+      "pronunciation": "/n/ + /er/ + /v/",
+      "exampleUsage": "She had the NERVE to speak up.",
+      "difficulty": "medium",
+      "relatedTerms": ["ER", "Rule 18", "silent E Job 2"]
+    },
+    {
+      "id": "gls_vocab_125",
+      "term": "SOLVE",
+      "definition": "E guards V: S + O + L + V + E. Silent E Job 2 — V can't end a word alone (Rule 18).",
+      "pronunciation": "/s/ + /o/ + /l/ + /v/",
+      "exampleUsage": "Can you SOLVE this puzzle?",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 3", "Rule 18"]
+    },
+    {
+      "id": "gls_vocab_126",
+      "term": "FENCE",
+      "definition": "E keeps C soft: F + E + N + C + E. Silent E Job 3 — keeps C saying /s/ (Rule 19).",
+      "pronunciation": "/f/ + /e/ + /n/ + /s/",
+      "exampleUsage": "The garden has a white FENCE.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 1", "Rule 19"]
+    },
+    {
+      "id": "gls_vocab_127",
+      "term": "WHALE",
+      "definition": "WH team + Silent E: WH + A + L + E. WH consonant team + silent E makes A long.",
+      "pronunciation": "/wh/ + /ay/ + /l/",
+      "exampleUsage": "The blue WHALE is the largest animal on Earth.",
+      "difficulty": "medium",
+      "relatedTerms": ["WH", "silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_128",
+      "term": "CHOP",
+      "definition": "CH consonant team: CH + O + P. CH says /ch/ — the English pronunciation.",
+      "pronunciation": "/ch/ + /o/ + /p/",
+      "exampleUsage": "CHOP the vegetables for the salad.",
+      "difficulty": "easy",
+      "relatedTerms": ["CH", "consonant team"]
+    },
+    {
+      "id": "gls_vocab_129",
+      "term": "DITCH",
+      "definition": "TCH shield: D + I + TCH. TCH after short I protects the vowel (Rule 7).",
+      "pronunciation": "/d/ + /i/ + /ch/",
+      "exampleUsage": "There was a DITCH along the road.",
+      "difficulty": "medium",
+      "relatedTerms": ["TCH", "Rule 7"]
+    },
+    {
+      "id": "gls_vocab_130",
+      "term": "FUDGE",
+      "definition": "DGE shield: F + U + DGE. DGE protects the short U before /j/ sound (Rule 8).",
+      "pronunciation": "/f/ + /u/ + /j/",
+      "exampleUsage": "I love chocolate FUDGE!",
+      "difficulty": "medium",
+      "relatedTerms": ["DGE", "Rule 8"]
+    },
+    {
+      "id": "gls_vocab_131",
+      "term": "LEDGE",
+      "definition": "DGE shield: L + E + DGE. DGE after short E for /j/ sound (Rule 8).",
+      "pronunciation": "/l/ + /e/ + /j/",
+      "exampleUsage": "The bird sat on the window LEDGE.",
+      "difficulty": "medium",
+      "relatedTerms": ["DGE", "Rule 8"]
+    },
+    {
+      "id": "gls_vocab_132",
+      "term": "NOTCH",
+      "definition": "TCH shield: N + O + TCH. TCH after short O (Rule 7).",
+      "pronunciation": "/n/ + /o/ + /ch/",
+      "exampleUsage": "Cut a NOTCH in the stick.",
+      "difficulty": "medium",
+      "relatedTerms": ["TCH", "Rule 7"]
+    },
+    {
+      "id": "gls_vocab_133",
+      "term": "FETCH",
+      "definition": "TCH shield: F + E + TCH. TCH protects the short E (Rule 7).",
+      "pronunciation": "/f/ + /e/ + /ch/",
+      "exampleUsage": "The dog will FETCH the ball.",
+      "difficulty": "medium",
+      "relatedTerms": ["TCH", "Rule 7"]
+    },
+    {
+      "id": "gls_vocab_134",
+      "term": "CATCH",
+      "definition": "TCH shield: C + A + TCH. TCH after short A for /ch/ (Rule 7).",
+      "pronunciation": "/k/ + /a/ + /ch/",
+      "exampleUsage": "CATCH the ball!",
+      "difficulty": "medium",
+      "relatedTerms": ["TCH", "Rule 7"]
+    },
+    {
+      "id": "gls_vocab_135",
+      "term": "SIGHT",
+      "definition": "IGH pattern: S + IGH + T. IGH says /eye/ — GH is always silent in this pattern.",
+      "pronunciation": "/s/ + /eye/ + /t/",
+      "exampleUsage": "What a beautiful SIGHT!",
+      "difficulty": "medium",
+      "relatedTerms": ["IGH", "Rule 37"]
+    },
+    {
+      "id": "gls_vocab_136",
+      "term": "FIGHT",
+      "definition": "IGH pattern: F + IGH + T. Three letters making one sound /eye/.",
+      "pronunciation": "/f/ + /eye/ + /t/",
+      "exampleUsage": "Don't FIGHT with your friends.",
+      "difficulty": "medium",
+      "relatedTerms": ["IGH", "Rule 37"]
+    },
+    {
+      "id": "gls_vocab_137",
+      "term": "NAUGHTY",
+      "definition": "AUGH combo: N + AUGH + T + Y. AUGH says /aw/. Y says /ee/ in multi-syllable words.",
+      "pronunciation": "/n/ + /aw/ + /t/ + /ee/",
+      "exampleUsage": "The NAUGHTY puppy chewed the shoe.",
+      "difficulty": "hard",
+      "relatedTerms": ["AUGH", "Y"]
+    },
+    {
+      "id": "gls_vocab_138",
+      "term": "WEIGHED",
+      "definition": "EIGH + ED: W + EIGH + ED. EIGH says /ay/. ED says /d/ after voiced sound.",
+      "pronunciation": "/w/ + /ay/ + /d/",
+      "exampleUsage": "She WEIGHED the fruit at the market.",
+      "difficulty": "hard",
+      "relatedTerms": ["EIGH", "ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_139",
+      "term": "BRIGHTER",
+      "definition": "IGH + ER suffix: B + R + IGH + T + ER. IGH says /eye/. -ER comparative suffix.",
+      "pronunciation": "/b/ + /r/ + /eye/ + /t/ + /er/",
+      "exampleUsage": "The sun is BRIGHTER today.",
+      "difficulty": "hard",
+      "relatedTerms": ["IGH", "ER", "Rule 37"]
+    },
+    {
+      "id": "gls_vocab_140",
+      "term": "ZIGZAG",
+      "definition": "Z at start: Z + I + G + Z + A + G. /z/ at start spelled with Z. Two syllables repeating a pattern.",
+      "pronunciation": "/z/ + /i/ + /g/ + /z/ + /a/ + /g/",
+      "exampleUsage": "The road goes in a ZIGZAG pattern.",
+      "difficulty": "hard",
+      "relatedTerms": ["Z"]
+    },
+    {
+      "id": "gls_vocab_141",
+      "term": "WAX",
+      "definition": "Simple consonants: W + A + X. X says /ks/ at the end of words.",
+      "pronunciation": "/w/ + /a/ + /ks/",
+      "exampleUsage": "The candle is made of WAX.",
+      "difficulty": "easy",
+      "relatedTerms": ["X"]
+    },
+    {
+      "id": "gls_vocab_142",
+      "term": "JAM",
+      "definition": "Simple CVC: J + A + M. J always says /j/ — no exceptions.",
+      "pronunciation": "/j/ + /a/ + /m/",
+      "exampleUsage": "I put JAM on my toast.",
+      "difficulty": "easy",
+      "relatedTerms": ["J"]
+    },
+    {
+      "id": "gls_vocab_143",
+      "term": "VAN",
+      "definition": "Simple CVC: V + A + N. V says /v/ — a reliable consonant.",
+      "pronunciation": "/v/ + /a/ + /n/",
+      "exampleUsage": "The delivery VAN arrived.",
+      "difficulty": "easy",
+      "relatedTerms": ["V"]
+    },
+    {
+      "id": "gls_vocab_144",
+      "term": "RUN",
+      "definition": "Simple CVC: R + U + N. Closed syllable keeps U short.",
+      "pronunciation": "/r/ + /u/ + /n/",
+      "exampleUsage": "Let's RUN to the park!",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_145",
+      "term": "FIG",
+      "definition": "Simple CVC: F + I + G. Closed syllable keeps I short.",
+      "pronunciation": "/f/ + /i/ + /g/",
+      "exampleUsage": "The FIG tree has sweet fruit.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_146",
+      "term": "LOG",
+      "definition": "Simple CVC: L + O + G. Closed syllable keeps O short.",
+      "pronunciation": "/l/ + /o/ + /g/",
+      "exampleUsage": "Sit on the LOG by the campfire.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_147",
+      "term": "PEN",
+      "definition": "Simple CVC: P + E + N. Closed syllable keeps E short.",
+      "pronunciation": "/p/ + /e/ + /n/",
+      "exampleUsage": "Write with a PEN.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_148",
+      "term": "KIT",
+      "definition": "Simple CVC: K + I + T. Closed syllable keeps I short.",
+      "pronunciation": "/k/ + /i/ + /t/",
+      "exampleUsage": "Pack your first aid KIT.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_149",
+      "term": "HUG",
+      "definition": "Simple CVC: H + U + G. G says hard /g/ at the end.",
+      "pronunciation": "/h/ + /u/ + /g/",
+      "exampleUsage": "Give your mom a HUG.",
+      "difficulty": "easy",
+      "relatedTerms": ["closed syllable", "short vowel"]
+    },
+    {
+      "id": "gls_vocab_150",
+      "term": "DRY",
+      "definition": "Y as long I: D + R + Y. In one-syllable words, Y says /eye/.",
+      "pronunciation": "/d/ + /r/ + /eye/",
+      "exampleUsage": "Let the clothes DRY in the sun.",
+      "difficulty": "easy",
+      "relatedTerms": ["Y", "long vowel"]
+    },
+    {
+      "id": "gls_vocab_151",
+      "term": "TRUTHFUL",
+      "definition": "TH team + -FUL suffix: truth + ful. TH consonant team + -FUL drops one L from FULL.",
+      "pronunciation": "/t/ + /r/ + /oo/ + /th/ + /f/ + /ul/",
+      "exampleUsage": "Always be TRUTHFUL.",
+      "difficulty": "hard",
+      "relatedTerms": ["TH", "Rule 27"]
+    },
+    {
+      "id": "gls_vocab_152",
+      "term": "THANKFUL",
+      "definition": "TH + NK + -FUL: TH + A + NK + FUL. Two consonant teams (TH, NK) + -FUL suffix.",
+      "pronunciation": "/th/ + /a/ + /ngk/ + /f/ + /ul/",
+      "exampleUsage": "I am THANKFUL for my family.",
+      "difficulty": "hard",
+      "relatedTerms": ["TH", "NK", "Rule 27"]
+    },
+    {
+      "id": "gls_vocab_153",
+      "term": "PLAYFUL",
+      "definition": "AY team + -FUL suffix: play + ful. AY says /ay/ at end of base. -FUL drops one L.",
+      "pronunciation": "/p/ + /l/ + /ay/ + /f/ + /ul/",
+      "exampleUsage": "The PLAYFUL kitten chased the ball.",
+      "difficulty": "hard",
+      "relatedTerms": ["AY", "Rule 27"]
+    },
+    {
+      "id": "gls_vocab_154",
+      "term": "EASIEST",
+      "definition": "Y to I before -EST: easy → easiest. Consonant + Y changes to I before -EST (Rule 15).",
+      "pronunciation": "/ee/ + /z/ + /ee/ + /est/",
+      "exampleUsage": "This was the EASIEST question.",
+      "difficulty": "hard",
+      "relatedTerms": ["EA", "Rule 15"]
+    },
+    {
+      "id": "gls_vocab_155",
+      "term": "CRIED",
+      "definition": "Y to I before -ED: cry → cried. Y changes to I before -ED (Rule 15).",
+      "pronunciation": "/k/ + /r/ + /eye/ + /d/",
+      "exampleUsage": "The baby CRIED all night.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 15", "IE", "ED"]
+    },
+    {
+      "id": "gls_vocab_156",
+      "term": "ENJOYED",
+      "definition": "Vowel + Y stays: OY + ED. OY at end of base keeps Y (Rule 16). ED says /d/.",
+      "pronunciation": "/e/ + /n/ + /j/ + /oy/ + /d/",
+      "exampleUsage": "We ENJOYED the movie.",
+      "difficulty": "hard",
+      "relatedTerms": ["OY", "Rule 16", "ED"]
+    },
+    {
+      "id": "gls_vocab_157",
+      "term": "DRAWING",
+      "definition": "AW team + -ING: draw + ing. AW vowel team says /aw/.",
+      "pronunciation": "/d/ + /r/ + /aw/ + /i/ + /ng/",
+      "exampleUsage": "She is DRAWING a picture.",
+      "difficulty": "hard",
+      "relatedTerms": ["AW"]
+    },
+    {
+      "id": "gls_vocab_158",
+      "term": "CHEWING",
+      "definition": "CH + EW + ING: chew + ing. CH consonant team + EW vowel team + -ING suffix.",
+      "pronunciation": "/ch/ + /oo/ + /i/ + /ng/",
+      "exampleUsage": "The dog was CHEWING on a bone.",
+      "difficulty": "hard",
+      "relatedTerms": ["CH", "EW"]
+    },
+    {
+      "id": "gls_vocab_159",
+      "term": "BRIDGES",
+      "definition": "DGE + -ES plural: bridge + es. DGE after short I + -ES for plural.",
+      "pronunciation": "/b/ + /r/ + /i/ + /j/ + /ez/",
+      "exampleUsage": "The city has many BRIDGES.",
+      "difficulty": "hard",
+      "relatedTerms": ["DGE", "Rule 8", "Rule 23"]
+    },
+    {
+      "id": "gls_vocab_160",
+      "term": "SKETCHED",
+      "definition": "TCH + ED: sketch + ed. TCH shield + ED suffix says /t/ after unvoiced sound.",
+      "pronunciation": "/s/ + /k/ + /e/ + /ch/ + /t/",
+      "exampleUsage": "She SKETCHED the landscape.",
+      "difficulty": "hard",
+      "relatedTerms": ["TCH", "Rule 7", "ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_161",
+      "term": "BRUSHES",
+      "definition": "SH + -ES: brush + es. Add -ES after SH because it hisses (Rule 23).",
+      "pronunciation": "/b/ + /r/ + /u/ + /sh/ + /ez/",
+      "exampleUsage": "She BRUSHES her hair every morning.",
+      "difficulty": "hard",
+      "relatedTerms": ["SH", "Rule 23"]
+    },
+    {
+      "id": "gls_vocab_162",
+      "term": "TRACKER",
+      "definition": "CK + -ER: track + er. CK after short A + -ER suffix.",
+      "pronunciation": "/t/ + /r/ + /a/ + /k/ + /er/",
+      "exampleUsage": "The TRACKER followed the animal prints.",
+      "difficulty": "hard",
+      "relatedTerms": ["CK", "Rule 6", "ER"]
+    },
+    {
+      "id": "gls_vocab_163",
+      "term": "SIGNING",
+      "definition": "Silent G + -ING: sign + ing. G is silent in GN (Rule 33). I says long /eye/.",
+      "pronunciation": "/s/ + /eye/ + /n/ + /i/ + /ng/",
+      "exampleUsage": "She is SIGNING the document.",
+      "difficulty": "hard",
+      "relatedTerms": ["GN", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_164",
+      "term": "GNAWING",
+      "definition": "GN team + AW team + -ING: gnaw + ing. G is silent in GN. AW says /aw/.",
+      "pronunciation": "/n/ + /aw/ + /i/ + /ng/",
+      "exampleUsage": "The mouse was GNAWING on the cheese.",
+      "difficulty": "hard",
+      "relatedTerms": ["GN", "AW", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_165",
+      "term": "STIRRING",
+      "definition": "IR + double R + -ING: stir + ring. IR R-controlled + double R before vowel suffix (Rule 14).",
+      "pronunciation": "/s/ + /t/ + /er/ + /i/ + /ng/",
+      "exampleUsage": "She was STIRRING the pot.",
+      "difficulty": "hard",
+      "relatedTerms": ["IR", "Rule 14"]
+    },
+    {
+      "id": "gls_vocab_166",
+      "term": "JUDGING",
+      "definition": "DGE + -ING: judge + ing. Drop E before vowel suffix (Rule 12). DGE shield preserved.",
+      "pronunciation": "/j/ + /u/ + /j/ + /i/ + /ng/",
+      "exampleUsage": "The panel is JUDGING the competition.",
+      "difficulty": "hard",
+      "relatedTerms": ["DGE", "Rule 8", "Rule 12"]
+    },
+    {
+      "id": "gls_vocab_167",
+      "term": "SPOKE",
+      "definition": "Silent E makes O long: S + P + O + K + E. Silent E Job 1 (Rule 17).",
+      "pronunciation": "/s/ + /p/ + /oh/ + /k/",
+      "exampleUsage": "She SPOKE clearly to the audience.",
+      "difficulty": "medium",
+      "relatedTerms": ["silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_168",
+      "term": "BAKED",
+      "definition": "Drop E before -ED: bake → baked. Silent E dropped before vowel suffix (Rule 12). ED says /t/.",
+      "pronunciation": "/b/ + /ay/ + /k/ + /t/",
+      "exampleUsage": "Mom BAKED a chocolate cake.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 12", "ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_169",
+      "term": "LIKED",
+      "definition": "Drop E before -ED: like → liked. Silent E dropped (Rule 12). ED says /t/ after unvoiced /k/.",
+      "pronunciation": "/l/ + /eye/ + /k/ + /t/",
+      "exampleUsage": "Everyone LIKED the new song.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 12", "ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_170",
+      "term": "NEEDED",
+      "definition": "ED says /ed/ after D: need + ed. Base ends in D, so ED adds a syllable (Rule 22).",
+      "pronunciation": "/n/ + /ee/ + /d/ + /ed/",
+      "exampleUsage": "I NEEDED help with my homework.",
+      "difficulty": "medium",
+      "relatedTerms": ["EE", "ED", "Rule 22"]
+    },
+    {
+      "id": "gls_vocab_171",
+      "term": "PLAYED",
+      "definition": "Vowel + Y stays + ED: play + ed. AY keeps Y (Rule 16). ED says /d/ after voiced sound.",
+      "pronunciation": "/p/ + /l/ + /ay/ + /d/",
+      "exampleUsage": "The children PLAYED in the garden.",
+      "difficulty": "medium",
+      "relatedTerms": ["AY", "Rule 16", "ED"]
+    },
+    {
+      "id": "gls_vocab_172",
+      "term": "RUNNER",
+      "definition": "Double N + -ER: run → runner. Double N before vowel suffix to keep U short (Rule 14).",
+      "pronunciation": "/r/ + /u/ + /n/ + /er/",
+      "exampleUsage": "The RUNNER crossed the finish line.",
+      "difficulty": "medium",
+      "relatedTerms": ["Rule 14", "ER"]
+    },
+    {
+      "id": "gls_vocab_173",
+      "term": "STIFF",
+      "definition": "Double F after short vowel: S + T + I + FF. FF after short I in one-syllable word (Rule 5).",
+      "pronunciation": "/s/ + /t/ + /i/ + /f/",
+      "exampleUsage": "The cardboard was STIFF and hard to bend.",
+      "difficulty": "medium",
+      "relatedTerms": ["FF", "Rule 5"]
+    },
+    {
+      "id": "gls_vocab_174",
+      "term": "CURVE",
+      "definition": "UR R-controlled + E guards V: C + UR + V + E. UR says /er/. E follows V (Rule 18).",
+      "pronunciation": "/k/ + /er/ + /v/",
+      "exampleUsage": "The road has a sharp CURVE.",
+      "difficulty": "medium",
+      "relatedTerms": ["UR", "Rule 18"]
+    },
+    {
+      "id": "gls_vocab_175",
+      "term": "TURNIP",
+      "definition": "UR R-controlled: T + UR + N + I + P. UR says /er/ in the first syllable.",
+      "pronunciation": "/t/ + /er/ + /n/ + /i/ + /p/",
+      "exampleUsage": "We grew a big TURNIP in the garden.",
+      "difficulty": "hard",
+      "relatedTerms": ["UR", "R-controlled"]
+    },
+    {
+      "id": "gls_vocab_176",
+      "term": "CAPTAIN",
+      "definition": "AI vowel team in unstressed position: C + A + P + T + AI + N. The AI loses its usual /ay/ in the unstressed syllable.",
+      "pronunciation": "/k/ + /a/ + /p/ + /t/ + /uh/ + /n/",
+      "exampleUsage": "The CAPTAIN steered the ship.",
+      "difficulty": "hard",
+      "relatedTerms": ["AI", "schwa"]
+    },
+    {
+      "id": "gls_vocab_177",
+      "term": "ALWAYS",
+      "definition": "AL prefix + AY team: AL + W + AY + S. AL from ALL (drops one L) + AY vowel team.",
+      "pronunciation": "/awl/ + /w/ + /ay/ + /z/",
+      "exampleUsage": "She ALWAYS helps her friends.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 27", "AY"]
+    },
+    {
+      "id": "gls_vocab_178",
+      "term": "ALMOST",
+      "definition": "AL prefix + long O: AL + M + O + S + T. AL from ALL + O before ST says long /oh/.",
+      "pronunciation": "/awl/ + /m/ + /oh/ + /s/ + /t/",
+      "exampleUsage": "We are ALMOST there!",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 27", "long vowel"]
+    },
+    {
+      "id": "gls_vocab_179",
+      "term": "CRUMBLE",
+      "definition": "Consonant-LE ending: C + R + U + M + B + LE. The -LE ending needs E as its syllable vowel (Rule 20).",
+      "pronunciation": "/k/ + /r/ + /u/ + /m/ + /b/ + /ul/",
+      "exampleUsage": "The old wall started to CRUMBLE.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 20", "silent E Job 4"]
+    },
+    {
+      "id": "gls_vocab_180",
+      "term": "TEACHES",
+      "definition": "EA team + CH team + -ES: teach + es. Add -ES after CH (Rule 23). EA says /ee/.",
+      "pronunciation": "/t/ + /ee/ + /ch/ + /ez/",
+      "exampleUsage": "She TEACHES math to young children.",
+      "difficulty": "hard",
+      "relatedTerms": ["EA", "CH", "Rule 23"]
+    },
+    {
+      "id": "gls_vocab_181",
+      "term": "ALTOGETHER",
+      "definition": "AL prefix + compound: AL + TOGETHER. AL from ALL (drops one L, Rule 27).",
+      "pronunciation": "/awl/ + /t/ + /uh/ + /g/ + /e/ + /th/ + /er/",
+      "exampleUsage": "There were ALTOGETHER fifty students.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 27", "TH", "ER"]
+    },
+    {
+      "id": "gls_vocab_182",
+      "term": "ZEPHYR",
+      "definition": "Z at start + PH team: Z + E + PH + Y + R. Z says /z/. PH says /f/ (Greek origin).",
+      "pronunciation": "/z/ + /e/ + /f/ + /er/",
+      "exampleUsage": "A gentle ZEPHYR blew through the garden.",
+      "difficulty": "hard",
+      "relatedTerms": ["Z", "PH", "Rule 38"]
+    },
+    {
+      "id": "gls_vocab_183",
+      "term": "CHEWING",
+      "definition": "CH team + EW team + -ING: chew + ing. Two teams plus a suffix.",
+      "pronunciation": "/ch/ + /oo/ + /i/ + /ng/",
+      "exampleUsage": "Stop CHEWING with your mouth open.",
+      "difficulty": "hard",
+      "relatedTerms": ["CH", "EW"]
+    },
+    {
+      "id": "gls_vocab_184",
+      "term": "THOUGHT",
+      "definition": "TH team + OUGH combo: TH + OUGH + T. OUGH says /aw/ here.",
+      "pronunciation": "/th/ + /aw/ + /t/",
+      "exampleUsage": "I THOUGHT about it all day.",
+      "difficulty": "hard",
+      "relatedTerms": ["TH", "OUGH"]
+    },
+    {
+      "id": "gls_vocab_185",
+      "term": "BROUGHT",
+      "definition": "OUGH combo: B + R + OUGH + T. OUGH says /aw/ — same sound as in THOUGHT.",
+      "pronunciation": "/b/ + /r/ + /aw/ + /t/",
+      "exampleUsage": "She BROUGHT flowers to the party.",
+      "difficulty": "hard",
+      "relatedTerms": ["OUGH"]
+    },
+    {
+      "id": "gls_vocab_186",
+      "term": "SCRAMBLE",
+      "definition": "Consonant blend + consonant-LE: S + C + R + A + M + B + LE. -LE ending needs E (Rule 20).",
+      "pronunciation": "/s/ + /k/ + /r/ + /a/ + /m/ + /b/ + /ul/",
+      "exampleUsage": "Let's SCRAMBLE some eggs for breakfast.",
+      "difficulty": "hard",
+      "relatedTerms": ["Rule 20", "CK"]
+    },
+    {
+      "id": "gls_vocab_187",
+      "term": "BRIGHTER",
+      "definition": "IGH + -ER comparative: bright + er. IGH says /eye/. -ER makes it comparative.",
+      "pronunciation": "/b/ + /r/ + /eye/ + /t/ + /er/",
+      "exampleUsage": "Stars look BRIGHTER in the countryside.",
+      "difficulty": "hard",
+      "relatedTerms": ["IGH", "Rule 37", "ER"]
+    },
+    {
+      "id": "gls_vocab_188",
+      "term": "THANKFUL",
+      "definition": "TH + NK + -FUL: Multiple consonant teams + suffix. TH says /th/, NK says /ngk/.",
+      "pronunciation": "/th/ + /a/ + /ngk/ + /f/ + /ul/",
+      "exampleUsage": "Be THANKFUL for what you have.",
+      "difficulty": "hard",
+      "relatedTerms": ["TH", "NK", "Rule 27"]
+    },
+    {
+      "id": "gls_vocab_189",
+      "term": "SHINE",
+      "definition": "SH team + Silent E: SH + I + N + E. SH says /sh/. Silent E makes I long /eye/.",
+      "pronunciation": "/sh/ + /eye/ + /n/",
+      "exampleUsage": "Let your light SHINE!",
+      "difficulty": "medium",
+      "relatedTerms": ["SH", "silent E", "Rule 17"]
+    },
+    {
+      "id": "gls_vocab_190",
+      "term": "CHOICE",
+      "definition": "CH team + OI team: CH + OI + C + E. Two teams working together. E keeps C soft.",
+      "pronunciation": "/ch/ + /oy/ + /s/",
+      "exampleUsage": "Make a good CHOICE.",
+      "difficulty": "medium",
+      "relatedTerms": ["CH", "OI", "Rule 1", "Rule 19"]
+    },
+    {
+      "id": "gls_vocab_191",
+      "term": "TOWER",
+      "definition": "OW team + ER: T + OW + ER. OW says /ow/ here. ER says /er/.",
+      "pronunciation": "/t/ + /ow/ + /er/",
+      "exampleUsage": "Look at the tall TOWER!",
+      "difficulty": "medium",
+      "relatedTerms": ["OW", "ER"]
+    },
+    {
+      "id": "gls_vocab_192",
+      "term": "SNOW",
+      "definition": "OW says long O: S + N + OW. OW says /oh/ here — different from COW.",
+      "pronunciation": "/s/ + /n/ + /oh/",
+      "exampleUsage": "The SNOW covered the mountains.",
+      "difficulty": "medium",
+      "relatedTerms": ["OW"]
+    },
+    {
+      "id": "gls_vocab_193",
+      "term": "THREAD",
+      "definition": "TH team + EA team: TH + R + EA + D. TH says unvoiced /th/. EA says short /e/ here.",
+      "pronunciation": "/th/ + /r/ + /e/ + /d/",
+      "exampleUsage": "Use a needle and THREAD to sew.",
+      "difficulty": "medium",
+      "relatedTerms": ["TH", "EA"]
+    },
+    {
+      "id": "gls_vocab_194",
+      "term": "WHEEL",
+      "definition": "WH team + EE team: WH + EE + L. Two teams in one word. EE says /ee/.",
+      "pronunciation": "/wh/ + /ee/ + /l/",
+      "exampleUsage": "Turn the steering WHEEL.",
+      "difficulty": "medium",
+      "relatedTerms": ["WH", "EE"]
+    },
+    {
+      "id": "gls_vocab_195",
+      "term": "CHURCH",
+      "definition": "CH at start and end: CH + UR + CH. Same consonant team appears twice. UR says /er/.",
+      "pronunciation": "/ch/ + /er/ + /ch/",
+      "exampleUsage": "The old CHURCH has a beautiful bell.",
+      "difficulty": "medium",
+      "relatedTerms": ["CH", "UR"]
+    },
+    {
+      "id": "gls_vocab_196",
+      "term": "THUMB",
+      "definition": "TH team + silent B: TH + U + M + B. B is silent after M (Rule 33).",
+      "pronunciation": "/th/ + /u/ + /m/",
+      "exampleUsage": "She pricked her THUMB on a thorn.",
+      "difficulty": "medium",
+      "relatedTerms": ["TH", "Rule 33", "MB"]
+    },
+    {
+      "id": "gls_vocab_197",
+      "term": "WRONG",
+      "definition": "WR team + NG team: WR + O + NG. W is silent in WR. NG says /ng/.",
+      "pronunciation": "/r/ + /o/ + /ng/",
+      "exampleUsage": "That answer is WRONG.",
+      "difficulty": "medium",
+      "relatedTerms": ["WR", "NG", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_198",
+      "term": "KNEE",
+      "definition": "KN team + EE team: KN + EE. K is silent in KN. EE says /ee/.",
+      "pronunciation": "/n/ + /ee/",
+      "exampleUsage": "She hurt her KNEE playing sports.",
+      "difficulty": "medium",
+      "relatedTerms": ["KN", "EE", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_199",
+      "term": "KNOW",
+      "definition": "KN team + OW team: KN + OW. K is silent. OW says /oh/ here.",
+      "pronunciation": "/n/ + /oh/",
+      "exampleUsage": "I KNOW the answer!",
+      "difficulty": "medium",
+      "relatedTerms": ["KN", "OW", "Rule 33"]
+    },
+    {
+      "id": "gls_vocab_200",
+      "term": "GRAPH",
+      "definition": "GR blend + PH team: G + R + A + PH. PH says /f/ — Greek origin (Rule 38).",
+      "pronunciation": "/g/ + /r/ + /a/ + /f/",
+      "exampleUsage": "Draw a GRAPH to show the data.",
+      "difficulty": "medium",
+      "relatedTerms": ["PH", "Rule 38"]
+    }
+  ]
+}

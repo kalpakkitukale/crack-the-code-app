@@ -153,5 +153,7 @@ flutter:
     - assets/data/spelling/word_lists/grade_6/
     - assets/data/spelling/word_lists/grade_7/
     - assets/data/spelling/word_lists/grade_8/
+    - assets/data/lessons/
+    - assets/data/episodes/
     - assets/images/
     - assets/icons/

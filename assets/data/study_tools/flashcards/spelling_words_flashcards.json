@@ -1,0 +1,822 @@
+{
+  "chapterId": "words",
+  "subjectId": "spelling",
+  "segment": "crackTheCode",
+  "decks": [
+    {
+      "id": "deck_spell_words_lvl1",
+      "name": "Level 1 — Beginner Words",
+      "description": "Simple CVC words, consonant teams, and basic vowel teams",
+      "topicId": "spell_words_level1",
+      "chapterId": "words",
+      "cards": [
+        {
+          "id": "card_word_001",
+          "front": "CAT 🐱",
+          "back": "C + A + T\n/k/ + /a/ + /t/\nC says /k/ before A (Rule 1)",
+          "hint": "Three simple phonograms",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_word_002",
+          "front": "BED 🛏️",
+          "back": "B + E + D\n/b/ + /e/ + /d/\nClosed syllable — E says short /e/",
+          "hint": "Short vowel in a closed syllable",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_word_003",
+          "front": "SIT 🪑",
+          "back": "S + I + T\n/s/ + /i/ + /t/\nClosed syllable — I says short /i/",
+          "hint": "Short I between consonants",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_word_004",
+          "front": "HOT 🔥",
+          "back": "H + O + T\n/h/ + /o/ + /t/\nClosed syllable — O says short /o/",
+          "hint": "Short O in a closed syllable",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_word_005",
+          "front": "CUP ☕",
+          "back": "C + U + P\n/k/ + /u/ + /p/\nC says /k/ before U",
+          "hint": "C before U always says /k/",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_word_006",
+          "front": "JAM 🫙",
+          "back": "J + A + M\n/j/ + /a/ + /m/\nJ always says /j/",
+          "hint": "Simple consonant-vowel-consonant",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_word_007",
+          "front": "VAN 🚐",
+          "back": "V + A + N\n/v/ + /a/ + /n/\nV says /v/ — simple consonant",
+          "hint": "Three reliable phonograms",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_word_008",
+          "front": "HUG 🤗",
+          "back": "H + U + G\n/h/ + /u/ + /g/\nG says /g/ at end of word",
+          "hint": "Short U between consonants",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_word_009",
+          "front": "YAM 🍠",
+          "back": "Y + A + M\n/y/ + /a/ + /m/\nY as consonant at start of word",
+          "hint": "Y is a consonant when it starts a word",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_word_010",
+          "front": "KIT 🧰",
+          "back": "K + I + T\n/k/ + /i/ + /t/\nClosed syllable keeps I short",
+          "hint": "K says /k/ — same sound as C before A, O, U",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_word_011",
+          "front": "PEN 🖊️",
+          "back": "P + E + N\n/p/ + /e/ + /n/\nClosed syllable — short E",
+          "hint": "Short E between consonants",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_word_012",
+          "front": "LOG 🪵",
+          "back": "L + O + G\n/l/ + /o/ + /g/\nClosed syllable — short O",
+          "hint": "G says hard /g/ at end",
+          "orderIndex": 11
+        },
+        {
+          "id": "card_word_013",
+          "front": "RUN 🏃",
+          "back": "R + U + N\n/r/ + /u/ + /n/\nClosed syllable — short U",
+          "hint": "Simple CVC word",
+          "orderIndex": 12
+        },
+        {
+          "id": "card_word_014",
+          "front": "SHIP 🚢",
+          "back": "SH + I + P\n/sh/ + /i/ + /p/\nSH consonant team says /sh/",
+          "hint": "SH is one phonogram making one sound",
+          "orderIndex": 13
+        },
+        {
+          "id": "card_word_015",
+          "front": "THAT 👆",
+          "back": "TH + A + T\n/th/ + /a/ + /t/\nTH says voiced /th/ here",
+          "hint": "Voiced TH — you feel vibration",
+          "orderIndex": 14
+        },
+        {
+          "id": "card_word_016",
+          "front": "CHOP 🪓",
+          "back": "CH + O + P\n/ch/ + /o/ + /p/\nCH consonant team says /ch/",
+          "hint": "CH is one phonogram",
+          "orderIndex": 15
+        },
+        {
+          "id": "card_word_017",
+          "front": "RING 💍",
+          "back": "R + I + NG\n/r/ + /i/ + /ng/\nNG consonant team says /ng/",
+          "hint": "NG is a nasal sound at the back of throat",
+          "orderIndex": 16
+        },
+        {
+          "id": "card_word_018",
+          "front": "DUCK 🦆",
+          "back": "D + U + CK\n/d/ + /u/ + /k/\nCK after single short vowel (Rule 6)",
+          "hint": "CK is the bodyguard for short vowels",
+          "orderIndex": 17
+        },
+        {
+          "id": "card_word_019",
+          "front": "RAIN 🌧️",
+          "back": "R + AI + N\n/r/ + /ay/ + /n/\nAI used in middle of word (Rule 9)",
+          "hint": "AI in the middle, AY at the end",
+          "orderIndex": 18
+        },
+        {
+          "id": "card_word_020",
+          "front": "PLAY ▶️",
+          "back": "P + L + AY\n/p/ + /l/ + /ay/\nAY at end of base word (Rule 9)",
+          "hint": "AY at the end of a base word",
+          "orderIndex": 19
+        },
+        {
+          "id": "card_word_021",
+          "front": "TREE 🌲",
+          "back": "T + R + EE\n/t/ + /r/ + /ee/\nEE vowel team — always says /ee/",
+          "hint": "EE is one of the most reliable vowel teams",
+          "orderIndex": 20
+        },
+        {
+          "id": "card_word_022",
+          "front": "GOAT 🐐",
+          "back": "G + OA + T\n/g/ + /oh/ + /t/\nOA vowel team says long O",
+          "hint": "OA — first vowel says its name",
+          "orderIndex": 21
+        },
+        {
+          "id": "card_word_023",
+          "front": "COIN 🪙",
+          "back": "C + OI + N\n/k/ + /oy/ + /n/\nOI in middle of word (Rule 10)",
+          "hint": "OI in the middle, OY at the end",
+          "orderIndex": 22
+        },
+        {
+          "id": "card_word_024",
+          "front": "BOY 👦",
+          "back": "B + OY\n/b/ + /oy/\nOY at end of word (Rule 10)",
+          "hint": "OY at the end — same sound as OI",
+          "orderIndex": 23
+        },
+        {
+          "id": "card_word_025",
+          "front": "COW 🐄",
+          "back": "C + OW\n/k/ + /ow/\nOW can say /ow/ or /oh/",
+          "hint": "Here OW says /ow/ like in OWL",
+          "orderIndex": 24
+        },
+        {
+          "id": "card_word_026",
+          "front": "CAR 🚗",
+          "back": "C + AR\n/k/ + /ar/\nAR — R controls the vowel sound",
+          "hint": "R-controlled vowel — R changes A's sound",
+          "orderIndex": 25
+        },
+        {
+          "id": "card_word_027",
+          "front": "HER 👩",
+          "back": "H + ER\n/h/ + /er/\nER — one of the /er/ triplets",
+          "hint": "ER, IR, UR all sound the same",
+          "orderIndex": 26
+        },
+        {
+          "id": "card_word_028",
+          "front": "BIRD 🐦",
+          "back": "B + IR + D\n/b/ + /er/ + /d/\nIR — sounds same as ER and UR",
+          "hint": "Three spellings, one sound: /er/",
+          "orderIndex": 27
+        },
+        {
+          "id": "card_word_029",
+          "front": "BURN 🔥",
+          "back": "B + UR + N\n/b/ + /er/ + /n/\nUR — third /er/ triplet",
+          "hint": "UR completes the /er/ triplet family",
+          "orderIndex": 28
+        },
+        {
+          "id": "card_word_030",
+          "front": "FORK 🍴",
+          "back": "F + OR + K\n/f/ + /or/ + /k/\nOR — R controls the O",
+          "hint": "R changes O to the /or/ sound",
+          "orderIndex": 29
+        },
+        {
+          "id": "card_word_031",
+          "front": "FLY ✈️",
+          "back": "F + L + Y\n/f/ + /l/ + /eye/\nY says /eye/ in one-syllable words",
+          "hint": "Y acts as a vowel saying /eye/",
+          "orderIndex": 30
+        },
+        {
+          "id": "card_word_032",
+          "front": "QUIT ✋",
+          "back": "QU + I + T\n/kw/ + /i/ + /t/\nQU always together — says /kw/",
+          "hint": "Q never appears without U",
+          "orderIndex": 31
+        },
+        {
+          "id": "card_word_033",
+          "front": "FOOD 🍕",
+          "back": "F + OO + D\n/f/ + /oo/ + /d/\nOO says /oo/ as in moon",
+          "hint": "Long OO sound",
+          "orderIndex": 32
+        },
+        {
+          "id": "card_word_034",
+          "front": "BOOK 📚",
+          "back": "B + OO + K\n/b/ + /oo/ + /k/\nOO says short /oo/ as in book",
+          "hint": "Short OO — different from FOOD",
+          "orderIndex": 33
+        },
+        {
+          "id": "card_word_035",
+          "front": "OUT 👉",
+          "back": "OU + T\n/ow/ + /t/\nOU vowel team says /ow/",
+          "hint": "OU in the middle of words",
+          "orderIndex": 34
+        },
+        {
+          "id": "card_word_036",
+          "front": "SAW 🪚",
+          "back": "S + AW\n/s/ + /aw/\nAW says /aw/ — end position partner of AU",
+          "hint": "AW at the end, AU in the middle",
+          "orderIndex": 35
+        },
+        {
+          "id": "card_word_037",
+          "front": "NEW 🆕",
+          "back": "N + EW\n/n/ + /oo/\nEW vowel team says /oo/",
+          "hint": "EW can also say /yoo/ in some words",
+          "orderIndex": 36
+        },
+        {
+          "id": "card_word_038",
+          "front": "KIND 💕",
+          "back": "K + I + N + D\n/k/ + /eye/ + /n/ + /d/\nI says long /eye/ before ND",
+          "hint": "I before ND says its name",
+          "orderIndex": 37
+        },
+        {
+          "id": "card_word_039",
+          "front": "COLD ❄️",
+          "back": "C + O + L + D\n/k/ + /oh/ + /l/ + /d/\nO says long /oh/ before LD",
+          "hint": "O before LD says its name",
+          "orderIndex": 38
+        },
+        {
+          "id": "card_word_040",
+          "front": "GNAT 🪰",
+          "back": "GN + A + T\n/n/ + /a/ + /t/\nGN consonant team — G is silent",
+          "hint": "Silent G before N",
+          "orderIndex": 39
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_words_lvl2",
+      "name": "Level 2 — Silent E & Shields",
+      "description": "Silent E words, shield patterns (CK, DGE, TCH), and suffix basics",
+      "topicId": "spell_words_level2",
+      "chapterId": "words",
+      "cards": [
+        {
+          "id": "card_word_041",
+          "front": "SHAKE",
+          "back": "SH + A + K + E\nSilent E makes A say its name /ay/ (Rule 17)",
+          "hint": "Silent E Job 1 — long vowel",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_word_042",
+          "front": "PHONE 📱",
+          "back": "PH + O + N + E\nPH says /f/; silent E makes O long /oh/",
+          "hint": "Greek PH + Silent E Job 1",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_word_043",
+          "front": "WRITE ✍️",
+          "back": "WR + I + T + E\nSilent W in WR + silent E for long I",
+          "hint": "Two silent letters in one word!",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_word_044",
+          "front": "KNIFE 🔪",
+          "back": "KN + I + F + E\nSilent K in KN + silent E for long I",
+          "hint": "KN team + Silent E Job 1",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_word_045",
+          "front": "GRAPE 🍇",
+          "back": "G + R + A + P + E\nSilent E makes A long /ay/",
+          "hint": "G stays hard before R",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_word_046",
+          "front": "FLUTE 🎵",
+          "back": "F + L + U + T + E\nSilent E makes U say /oo/",
+          "hint": "Long U can say /oo/ or /yoo/",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_word_047",
+          "front": "GLOVE 🧤",
+          "back": "G + L + O + V + E\nE guards V — English words don't end in V (Rule 3/18)",
+          "hint": "Silent E Job 2 — V guard, NOT long O",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_word_048",
+          "front": "DANCE 💃",
+          "back": "D + A + N + C + E\nE keeps C soft /s/ at end (Rule 19)",
+          "hint": "Silent E Job 3 — keeps C soft",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_word_049",
+          "front": "STAGE 🎭",
+          "back": "S + T + A + G + E\nE softens G to /j/ and makes A long",
+          "hint": "E does TWO jobs — long A and soft G",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_word_050",
+          "front": "BADGE 🎖️",
+          "back": "B + A + DGE\nDGE after short vowel for /j/ (Rule 8)",
+          "hint": "D shields the short A",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_word_051",
+          "front": "FUDGE 🍫",
+          "back": "F + U + DGE\nDGE protects short U",
+          "hint": "Short vowel + /j/ = DGE",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_word_052",
+          "front": "MATCH 🔥",
+          "back": "M + A + TCH\nTCH after short A (Rule 7)",
+          "hint": "T shields the short vowel",
+          "orderIndex": 11
+        },
+        {
+          "id": "card_word_053",
+          "front": "CATCH 🥎",
+          "back": "C + A + TCH\nTCH after short A for /ch/",
+          "hint": "Short vowel + /ch/ = TCH",
+          "orderIndex": 12
+        },
+        {
+          "id": "card_word_054",
+          "front": "HOPED",
+          "back": "H + O + P + ED\nhope → hoped: drop E, add -ED (Rule 12)",
+          "hint": "Silent E dropped before vowel suffix",
+          "orderIndex": 13
+        },
+        {
+          "id": "card_word_055",
+          "front": "BIGGER",
+          "back": "B + I + G + G + ER\nbig + er: double G before vowel suffix (Rule 14)",
+          "hint": "Doubling keeps the vowel short",
+          "orderIndex": 14
+        },
+        {
+          "id": "card_word_056",
+          "front": "RUNNING 🏃",
+          "back": "R + U + N + N + I + NG\nrun + ing: double N before vowel suffix (Rule 14)",
+          "hint": "Without doubling, RUNING would say /roo-ning/",
+          "orderIndex": 15
+        },
+        {
+          "id": "card_word_057",
+          "front": "WANTED",
+          "back": "W + A + N + T + ED\nED says /ed/ after T — adds a syllable (Rule 22)",
+          "hint": "Base ends in T, so ED = /ed/",
+          "orderIndex": 16
+        },
+        {
+          "id": "card_word_058",
+          "front": "PLAYED",
+          "back": "P + L + AY + ED\nED says /d/ after voiced sound",
+          "hint": "Voiced ending, so ED = /d/",
+          "orderIndex": 17
+        },
+        {
+          "id": "card_word_059",
+          "front": "JUMPED",
+          "back": "J + U + M + P + ED\nED says /t/ after unvoiced P",
+          "hint": "Unvoiced ending, so ED = /t/",
+          "orderIndex": 18
+        },
+        {
+          "id": "card_word_060",
+          "front": "FOXES 🦊",
+          "back": "F + O + X + E + S\nAdd -ES after X — hissing sound (Rule 23)",
+          "hint": "X already hisses, so add -ES for a new syllable",
+          "orderIndex": 19
+        },
+        {
+          "id": "card_word_061",
+          "front": "NIGHT 🌙",
+          "back": "N + IGH + T\nIGH — three letters, one sound /eye/ (Rule 37)",
+          "hint": "GH is silent in -IGHT",
+          "orderIndex": 20
+        },
+        {
+          "id": "card_word_062",
+          "front": "LIGHT 💡",
+          "back": "L + IGH + T\nIGH with GH silent",
+          "hint": "One of the most reliable patterns",
+          "orderIndex": 21
+        },
+        {
+          "id": "card_word_063",
+          "front": "SHOUT 📢",
+          "back": "SH + OU + T\nOU says /ow/ in the middle",
+          "hint": "SH team + OU vowel team",
+          "orderIndex": 22
+        },
+        {
+          "id": "card_word_064",
+          "front": "TRAIN 🚂",
+          "back": "T + R + AI + N\nAI in middle of word (Rule 9)",
+          "hint": "AI for /ay/ in the middle",
+          "orderIndex": 23
+        },
+        {
+          "id": "card_word_065",
+          "front": "CREAM 🍦",
+          "back": "C + R + EA + M\nEA vowel team — long E /ee/",
+          "hint": "EA most commonly says /ee/",
+          "orderIndex": 24
+        },
+        {
+          "id": "card_word_066",
+          "front": "BLUE 🔵",
+          "back": "B + L + UE\nUE vowel team — E guards U (Rule 3/18)",
+          "hint": "English words don't end in U alone",
+          "orderIndex": 25
+        },
+        {
+          "id": "card_word_067",
+          "front": "FRUIT 🍎",
+          "back": "F + R + UI + T\nUI vowel team says /oo/",
+          "hint": "UI is a less common vowel team",
+          "orderIndex": 26
+        },
+        {
+          "id": "card_word_068",
+          "front": "GHOST 👻",
+          "back": "GH + O + S + T\nGH says /g/ at start; O long before ST",
+          "hint": "GH at the start says /g/",
+          "orderIndex": 27
+        },
+        {
+          "id": "card_word_069",
+          "front": "CLIFF 🏔️",
+          "back": "C + L + I + FF\nFF after short vowel, one syllable (Rule 5)",
+          "hint": "Short I + final /f/ = double FF",
+          "orderIndex": 28
+        },
+        {
+          "id": "card_word_070",
+          "front": "SPELL ✨",
+          "back": "S + P + E + LL\nLL after short E in one-syllable word (Rule 5)",
+          "hint": "Short vowel + final /l/ = double LL",
+          "orderIndex": 29
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_words_lvl3",
+      "name": "Level 3 — Y Changes & Combos",
+      "description": "Y-to-I changes, -FUL suffix, GH combos, and multi-rule words",
+      "topicId": "spell_words_level3",
+      "chapterId": "words",
+      "cards": [
+        {
+          "id": "card_word_071",
+          "front": "HAPPIER 😊",
+          "back": "H + A + PP + I + ER\nhappy → happier: Y changes to I (Rule 15)",
+          "hint": "Consonant + Y → I before -ER",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_word_072",
+          "front": "CARRIED",
+          "back": "C + AR + R + IE + D\ncarry → carried: Y → I before -ED (Rule 15)",
+          "hint": "Y becomes I before any suffix except -ING",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_word_073",
+          "front": "STUDIED 📖",
+          "back": "S + T + U + D + IE + D\nstudy → studied: Y → I + ED suffix (Rule 15)",
+          "hint": "Consonant + Y → I before -ED",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_word_074",
+          "front": "HAPPILY 😄",
+          "back": "H + A + PP + I + L + Y\nhappy → happily: Y → I before -LY (Rule 15)",
+          "hint": "Y changes to I before -LY too",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_word_075",
+          "front": "STAYING 🏠",
+          "back": "S + T + AY + I + NG\nstay + ing: AY keeps Y (Rule 16)",
+          "hint": "Vowel + Y = keep the Y",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_word_076",
+          "front": "CAREFUL 🎯",
+          "back": "C + AR + E + F + U + L\nFULL → -FUL as suffix, drops one L (Rule 27)",
+          "hint": "-FUL always has just one L",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_word_077",
+          "front": "HOPEFUL 🌟",
+          "back": "H + O + P + E + F + U + L\n-FUL suffix; keep silent E before consonant suffix (Rule 13)",
+          "hint": "Consonant suffix, so E stays",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_word_078",
+          "front": "THOUGHT 💭",
+          "back": "TH + OUGH + T\nOUGH says /aw/ here",
+          "hint": "OUGH has six possible sounds — /aw/ is one",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_word_079",
+          "front": "THROUGH ➡️",
+          "back": "TH + R + OUGH\nOUGH says /oo/ here",
+          "hint": "OUGH says /oo/ — different from THOUGHT",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_word_080",
+          "front": "DAUGHTER 👧",
+          "back": "D + AUGH + T + ER\nAUGH says /aw/ (Rule 37)",
+          "hint": "AUGH combo — four letters for /aw/",
+          "orderIndex": 9
+        },
+        {
+          "id": "card_word_081",
+          "front": "CAUGHT 🥎",
+          "back": "C + AUGH + T\nAUGH — four letters for /aw/ sound",
+          "hint": "Silent GH in AUGH",
+          "orderIndex": 10
+        },
+        {
+          "id": "card_word_082",
+          "front": "FREIGHT 🚛",
+          "back": "F + R + EIGH + T\nEIGH says /ay/",
+          "hint": "Four letters for /ay/ — GH is silent",
+          "orderIndex": 11
+        },
+        {
+          "id": "card_word_083",
+          "front": "KNIGHT ⚔️",
+          "back": "KN + IGH + T\nK silent in KN + IGH says /eye/",
+          "hint": "Silent K plus silent GH — tricky word!",
+          "orderIndex": 12
+        },
+        {
+          "id": "card_word_084",
+          "front": "ALREADY",
+          "back": "A + L + R + EA + D + Y\nALL → AL as prefix, drops one L",
+          "hint": "AL- prefix from ALL",
+          "orderIndex": 13
+        },
+        {
+          "id": "card_word_085",
+          "front": "NATION 🌍",
+          "back": "N + A + TI + O + N\nTI says /sh/ at start of suffix",
+          "hint": "Latin-origin -TION ending",
+          "orderIndex": 14
+        },
+        {
+          "id": "card_word_086",
+          "front": "SPECIAL ⭐",
+          "back": "S + P + E + CI + A + L\nCI says /sh/ at start of suffix",
+          "hint": "Latin CI → /sh/ in -CIAL",
+          "orderIndex": 15
+        },
+        {
+          "id": "card_word_087",
+          "front": "VISION 👁️",
+          "back": "V + I + SI + O + N\nSI says /zh/ — voiced version of /sh/",
+          "hint": "SI can say /sh/ or /zh/",
+          "orderIndex": 16
+        },
+        {
+          "id": "card_word_088",
+          "front": "WATCHES ⌚",
+          "back": "W + A + TCH + E + S\n-ES after TCH (hissing sound) (Rule 23)",
+          "hint": "TCH hisses, so add -ES",
+          "orderIndex": 17
+        },
+        {
+          "id": "card_word_089",
+          "front": "QUICKLY ⚡",
+          "back": "QU + I + CK + L + Y\nQU team + CK after short I + Y says /ee/",
+          "hint": "Multiple phonogram teams in one word",
+          "orderIndex": 18
+        },
+        {
+          "id": "card_word_090",
+          "front": "MIDNIGHT 🌙",
+          "back": "M + I + D + N + IGH + T\nCompound word with IGH",
+          "hint": "MID + NIGHT — two words combined",
+          "orderIndex": 19
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_words_lvl4",
+      "name": "Level 4 — Advanced Patterns",
+      "description": "Schwa sounds, borrowed words, and complex multi-rule words",
+      "topicId": "spell_words_level4",
+      "chapterId": "words",
+      "cards": [
+        {
+          "id": "card_word_091",
+          "front": "BALLOON 🎈",
+          "back": "B + A + LL + OO + N\nFirst A is schwa in unstressed syllable",
+          "hint": "Unstressed vowels often become schwa /uh/",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_word_092",
+          "front": "CAPTAIN 🫡",
+          "back": "C + A + P + T + AI + N\nSecond A is schwa — sounds like /uh/",
+          "hint": "AI in unstressed position loses its usual sound",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_word_093",
+          "front": "ELEPHANT 🐘",
+          "back": "E + L + E + PH + A + N + T\nPH says /f/; second E is schwa",
+          "hint": "Greek PH = /f/",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_word_094",
+          "front": "CONTINUE ➡️",
+          "back": "C + O + N + T + I + N + UE\nUE guards U — English words don't end in U (Rule 3)",
+          "hint": "UE at the end protects U",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_word_095",
+          "front": "BUILDING 🏗️",
+          "back": "B + UI + L + D + I + NG\nUI vowel team says /i/ here",
+          "hint": "UI unusually says short /i/ in BUILD",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_word_096",
+          "front": "WRINKLE",
+          "back": "WR + I + NK + L + E\nW silent in WR; NK says /ngk/",
+          "hint": "Silent W + NK team + consonant-LE",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_word_097",
+          "front": "ALTHOUGH",
+          "back": "A + L + TH + OUGH\nAL- prefix + OUGH says /oh/",
+          "hint": "OUGH here says /oh/ — yet another OUGH sound",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_word_098",
+          "front": "RESCUE 🚑",
+          "back": "R + E + S + C + UE\nUE — E guards U at end of word",
+          "hint": "U can't end a word alone",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_word_099",
+          "front": "JUICE 🧃",
+          "back": "J + UI + C + E\nUI vowel team says /oo/",
+          "hint": "UI + soft C before E",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_word_100",
+          "front": "DONKEY 🫏",
+          "back": "D + O + NK + EY\nNK says /ngk/; EY says /ee/",
+          "hint": "NK team + EY vowel team",
+          "orderIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "deck_spell_words_lvl5",
+      "name": "Level 5 — Expert Words",
+      "description": "Complex words combining multiple rules and patterns",
+      "topicId": "spell_words_level5",
+      "chapterId": "words",
+      "cards": [
+        {
+          "id": "card_word_101",
+          "front": "PHILOSOPHY 📚",
+          "back": "PH + I + L + O + S + O + PH + Y\nGreek PH = /f/ (appears twice!)",
+          "hint": "Borrowed from Greek — double PH",
+          "orderIndex": 0
+        },
+        {
+          "id": "card_word_102",
+          "front": "CHARACTER 🎭",
+          "back": "CH + A + R + A + C + T + ER\nGreek CH = /k/ (not /ch/)",
+          "hint": "Greek-origin CH always says /k/",
+          "orderIndex": 1
+        },
+        {
+          "id": "card_word_103",
+          "front": "COMFORTABLE 🛋️",
+          "back": "C + O + M + F + OR + T + A + B + LE\n-ABLE joins complete word COMFORT (Rule 26)",
+          "hint": "Complete base word = -ABLE",
+          "orderIndex": 2
+        },
+        {
+          "id": "card_word_104",
+          "front": "BEAUTIFUL 🌺",
+          "back": "B + EA + U + T + I + F + U + L\nbeauty → beautiful: Y → I before -FUL (Rule 15)",
+          "hint": "Y changes to I + -FUL suffix",
+          "orderIndex": 3
+        },
+        {
+          "id": "card_word_105",
+          "front": "ACCIDENTALLY 😬",
+          "back": "A + CC + I + D + E + N + T + AL + LY\nL + LY = LLY (Rule 28)",
+          "hint": "-AL + -LY gives double LL — that's correct!",
+          "orderIndex": 4
+        },
+        {
+          "id": "card_word_106",
+          "front": "NOTICEABLE 👀",
+          "back": "N + O + T + I + CE + A + B + LE\nE kept to preserve soft C before -ABLE",
+          "hint": "Exception to Rule 12 — E stays to keep C soft",
+          "orderIndex": 5
+        },
+        {
+          "id": "card_word_107",
+          "front": "COURAGEOUS 🦁",
+          "back": "C + OU + R + A + GE + OU + S\nE kept to preserve soft G",
+          "hint": "Exception to Rule 12 — E stays to keep G soft",
+          "orderIndex": 6
+        },
+        {
+          "id": "card_word_108",
+          "front": "BEGINNING 🏁",
+          "back": "B + E + G + I + N + N + I + NG\nStress on last syllable → double N (Rule 14)",
+          "hint": "begin + ning: stressed ending, so double",
+          "orderIndex": 7
+        },
+        {
+          "id": "card_word_109",
+          "front": "KNOWLEDGE 🧠",
+          "back": "KN + OW + L + E + DGE\nSilent K in KN; OW = /o/; DGE after short vowel",
+          "hint": "Multiple rules: silent KN + DGE shield",
+          "orderIndex": 8
+        },
+        {
+          "id": "card_word_110",
+          "front": "CHAMPIONSHIP 🏆",
+          "back": "CH + A + M + P + I + O + N + SH + I + P\nCH team + SH team in one word",
+          "hint": "Two different consonant teams working together",
+          "orderIndex": 9
+        }
+      ]
+    }
+  ]
+}
