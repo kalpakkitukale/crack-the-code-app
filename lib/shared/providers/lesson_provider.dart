@@ -23,18 +23,21 @@ final lessonProgressProvider =
 class LessonProgressNotifier extends Notifier<Map<int, LessonProgress>> {
   @override
   Map<int, LessonProgress> build() {
-    _ensureBox();
-    final box = Hive.box<String>(_boxName);
-    final result = <int, LessonProgress>{};
-    for (final key in box.keys) {
-      final json = box.get(key);
-      if (json != null) {
-        final data = jsonDecode(json) as Map<String, dynamic>;
-        final progress = LessonProgress.fromJson(data);
-        result[progress.lessonId] = progress;
+    try {
+      final box = Hive.box<String>(_boxName);
+      final result = <int, LessonProgress>{};
+      for (final key in box.keys) {
+        final json = box.get(key);
+        if (json != null) {
+          final data = jsonDecode(json) as Map<String, dynamic>;
+          final progress = LessonProgress.fromJson(data);
+          result[progress.lessonId] = progress;
+        }
       }
+      return result;
+    } catch (_) {
+      return {};
     }
-    return result;
   }
 
   Future<void> _ensureBox() async {

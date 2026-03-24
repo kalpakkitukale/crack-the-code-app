@@ -25,12 +25,15 @@ final soundBoardProgressProvider =
 class SoundBoardProgressNotifier extends Notifier<SoundBoardProgress> {
   @override
   SoundBoardProgress build() {
-    _ensureBox();
-    final box = Hive.box<String>(_boxName);
-    final json = box.get('progress');
-    if (json == null) return const SoundBoardProgress();
-    return SoundBoardProgress.fromJson(
-        jsonDecode(json) as Map<String, dynamic>);
+    try {
+      final box = Hive.box<String>(_boxName);
+      final json = box.get('progress');
+      if (json == null) return const SoundBoardProgress();
+      return SoundBoardProgress.fromJson(
+          jsonDecode(json) as Map<String, dynamic>);
+    } catch (_) {
+      return const SoundBoardProgress();
+    }
   }
 
   Future<void> _ensureBox() async {
