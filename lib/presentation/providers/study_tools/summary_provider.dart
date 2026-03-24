@@ -2,13 +2,13 @@
 library;
 
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/video_summary_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/data/repositories/study_tools/summary_repository_impl.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_summary.dart';
-import 'package:streamshaala/domain/repositories/study_tools/summary_repository.dart';
-import 'package:streamshaala/presentation/providers/study_tools/study_tools_json_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/video_summary_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/data/repositories/study_tools/summary_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_summary.dart';
+import 'package:crack_the_code/domain/repositories/study_tools/summary_repository.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/study_tools_json_provider.dart';
 
 part 'summary_provider.g.dart';
 

@@ -25,7 +25,7 @@ Future<void> main() async {
 
   // Get database path
   final Directory appDocDir = await getApplicationDocumentsDirectory();
-  final String dbPath = join(appDocDir.path, 'streamshaala', 'streamshaala.db');
+  final String dbPath = join(appDocDir.path, 'crackthecode', 'crackthecode.db');
 
   print('📁 Database path: $dbPath');
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate all 4 distinctive app icons for StreamShaala segments
+Generate all 4 distinctive app icons for Crack the Code segments
 """
 
 from PIL import Image, ImageDraw
@@ -386,7 +386,7 @@ def main():
     icons_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'assets', 'icons')
     os.makedirs(icons_dir, exist_ok=True)
 
-    print("🎨 Generating ALL StreamShaala App Icons")
+    print("🎨 Generating ALL Crack the Code App Icons")
     print("=" * 50)
     print("")
 

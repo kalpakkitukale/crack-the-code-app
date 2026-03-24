@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/cards/subject_card.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/core/widgets/error/error_widget.dart';
-import 'package:streamshaala/core/widgets/empty/empty_state_widget.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/presentation/providers/content/subject_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/cards/subject_card.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/core/widgets/error/error_widget.dart';
+import 'package:crack_the_code/core/widgets/empty/empty_state_widget.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/presentation/providers/content/subject_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 /// Subjects grid section displaying all available subjects
 class SubjectsGridSection extends ConsumerWidget {

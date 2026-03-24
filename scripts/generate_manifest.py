@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Manifest Generator for StreamShaala
+Manifest Generator for Crack the Code
 Generates a manifest.json file for content synchronization
 
 Usage:
@@ -160,7 +160,7 @@ def generate_manifest(content_dir: str, version: str) -> Dict[str, Any]:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Generate content manifest for StreamShaala',
+        description='Generate content manifest for Crack the Code',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/presentation/providers/app/onboarding_provider.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/presentation/providers/app/onboarding_provider.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 /// Onboarding page data model
@@ -36,7 +36,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
   /// Onboarding pages
   final List<OnboardingPage> _pages = const [
     OnboardingPage(
-      title: 'Welcome to StreamShaala',
+      title: 'Welcome to Crack the Code',
       description: 'Your personal learning companion for mastering educational videos and tracking your progress.',
       icon: Icons.school,
       color: Colors.blue,

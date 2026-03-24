@@ -3,7 +3,7 @@ import 'dart:html' as html;
 // ignore: undefined_prefixed_name
 import 'dart:ui_web' as ui_web;
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Web-specific implementation of YouTube player
 /// Uses dart:html and HtmlElementView for direct iframe embedding

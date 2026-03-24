@@ -3,7 +3,7 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
 
 import '../../fixtures/progress_fixtures.dart';
 import '../../helpers/test_helpers.dart';

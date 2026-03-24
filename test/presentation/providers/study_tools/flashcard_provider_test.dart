@@ -2,9 +2,9 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard_progress.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_provider.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard_progress.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_provider.dart';
 
 void main() {
   group('FlashcardStudyState', () {

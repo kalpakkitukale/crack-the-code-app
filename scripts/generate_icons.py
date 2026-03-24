@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate app icons for StreamShaala segments
+Generate app icons for Crack the Code segments
 Each segment gets a unique, professionally designed icon
 """
 
@@ -409,7 +409,7 @@ def main():
     icons_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'assets', 'icons')
     os.makedirs(icons_dir, exist_ok=True)
 
-    print("🎨 Generating StreamShaala app icons...")
+    print("🎨 Generating Crack the Code app icons...")
 
     # Generate icons for each segment
     segments = {

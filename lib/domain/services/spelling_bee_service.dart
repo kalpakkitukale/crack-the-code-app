@@ -1,6 +1,6 @@
 import 'dart:math';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_bee_round.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_bee_round.dart';
 
 /// Service for managing Spelling Bee competitions
 class SpellingBeeService {

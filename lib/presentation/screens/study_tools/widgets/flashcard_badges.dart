@@ -2,7 +2,7 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
 
 /// Badge showing card difficulty level
 class DifficultyBadge extends StatelessWidget {

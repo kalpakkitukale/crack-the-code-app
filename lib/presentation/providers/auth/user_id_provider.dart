@@ -4,8 +4,8 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/presentation/providers/auth/auth_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/auth_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 
 /// Provides the current effective user ID for data operations
 ///

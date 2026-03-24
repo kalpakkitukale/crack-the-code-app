@@ -4,11 +4,11 @@ library;
 import 'dart:convert';
 import 'dart:math';
 
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
 
 /// Cryptographically secure random for security-sensitive operations
 final secureRandom = Random.secure();
@@ -378,7 +378,7 @@ String extractSubjectNameFromTitle(String title) {
 /// Generate daily challenge seed based on current date
 int getDailyChallengeSeeds() {
   final now = DateTime.now();
-  final dateString = '${now.year}-${now.month}-${now.day}-streamshaala-daily';
+  final dateString = '${now.year}-${now.month}-${now.day}-crackthecode-daily';
   final hashBytes = utf8.encode(dateString);
   final hash = hashBytes.fold<int>(0, (prev, byte) => prev * 31 + byte);
   return hash.abs();

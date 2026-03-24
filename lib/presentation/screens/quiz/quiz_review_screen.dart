@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
 
 /// Quiz Review Screen - Dedicated full-screen interface for reviewing quiz answers
 ///

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// QuizStatCard - Statistics overview card widget
 ///

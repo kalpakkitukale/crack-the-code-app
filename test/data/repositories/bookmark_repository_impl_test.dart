@@ -2,10 +2,10 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/data/repositories/bookmark_repository_impl.dart';
-import 'package:streamshaala/data/models/user/bookmark_model.dart';
-import 'package:streamshaala/domain/entities/user/bookmark.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/data/repositories/bookmark_repository_impl.dart';
+import 'package:crack_the_code/data/models/user/bookmark_model.dart';
+import 'package:crack_the_code/domain/entities/user/bookmark.dart';
 import '../../mocks/mock_use_cases.dart';
 
 void main() {

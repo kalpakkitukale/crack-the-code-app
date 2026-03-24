@@ -4,15 +4,15 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_mastery.dart';
-import 'package:streamshaala/domain/services/gap_analysis_service.dart';
-import 'package:streamshaala/domain/services/mastery_calculation_service.dart';
-import 'package:streamshaala/domain/services/spaced_repetition_service.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/concept_mastery_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/concept_mastery_model.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_mastery.dart';
+import 'package:crack_the_code/domain/services/gap_analysis_service.dart';
+import 'package:crack_the_code/domain/services/mastery_calculation_service.dart';
+import 'package:crack_the_code/domain/services/spaced_repetition_service.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/concept_mastery_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/concept_mastery_model.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Mastery state
 class MasteryState {

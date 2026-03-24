@@ -3,12 +3,12 @@ library;
 
 import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/data/repositories/learning_path_repository_impl.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/data/models/pedagogy/learning_path_model.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
+import 'package:crack_the_code/data/repositories/learning_path_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/data/models/pedagogy/learning_path_model.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
 import '../../mocks/mock_use_cases.dart';
 
 void main() {

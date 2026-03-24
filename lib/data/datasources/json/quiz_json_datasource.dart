@@ -4,10 +4,10 @@ library;
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/models/quiz/question_model.dart';
-import 'package:streamshaala/data/models/quiz/quiz_model.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/models/quiz/question_model.dart';
+import 'package:crack_the_code/data/models/quiz/quiz_model.dart';
 
 /// Data source for reading quiz JSON files from assets
 ///

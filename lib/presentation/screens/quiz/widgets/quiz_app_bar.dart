@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
-import 'package:streamshaala/presentation/widgets/quiz/assessment_context_indicator.dart';
-import 'package:streamshaala/presentation/screens/quiz/widgets/quiz_timer_widget.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/assessment_context_indicator.dart';
+import 'package:crack_the_code/presentation/screens/quiz/widgets/quiz_timer_widget.dart';
 
 /// App bar for the quiz taking screen with timer and assessment info.
 class QuizAppBar extends ConsumerWidget implements PreferredSizeWidget {

@@ -1,8 +1,8 @@
 /// Video Question data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_question.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_question.dart';
 
 /// Video Question model for SQLite database
 class VideoQuestionModel {

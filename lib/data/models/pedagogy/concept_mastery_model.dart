@@ -1,7 +1,7 @@
 /// ConceptMasteryModel - Data model for concept mastery tracking
 library;
 
-import 'package:streamshaala/domain/entities/pedagogy/concept_mastery.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_mastery.dart';
 
 /// Data model for concept mastery with database serialization
 class ConceptMasteryModel {

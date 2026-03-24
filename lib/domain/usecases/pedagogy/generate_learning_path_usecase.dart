@@ -2,10 +2,10 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/domain/services/learning_path_generator.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/services/learning_path_generator.dart';
 
 /// Parameters for generating foundation path
 class GenerateFoundationPathParams {

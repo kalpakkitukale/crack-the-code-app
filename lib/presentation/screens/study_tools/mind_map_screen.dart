@@ -5,11 +5,11 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:graphview/GraphView.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/domain/entities/study_tools/mind_map_node.dart';
-import 'package:streamshaala/presentation/providers/study_tools/mind_map_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/domain/entities/study_tools/mind_map_node.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/mind_map_provider.dart';
 
 /// Mind Map Screen
 /// Displays an interactive mind map for a chapter using GraphView
@@ -239,7 +239,7 @@ class _MindMapScreenState extends ConsumerState<MindMapScreen> {
   @override
   Widget build(BuildContext context) {
     final mindMapAsync = ref.watch(chapterMindMapProvider(widget.chapterId));
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return Scaffold(
       appBar: AppBar(

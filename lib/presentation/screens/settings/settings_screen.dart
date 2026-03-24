@@ -3,16 +3,16 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/constants/app_constants.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/presentation/providers/user/theme_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
-import 'package:streamshaala/presentation/providers/content/subject_provider.dart';
-import 'package:streamshaala/presentation/providers/parental/parental_controls_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/auth_provider.dart';
-import 'package:streamshaala/presentation/screens/settings/profile_management_screen.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/constants/app_constants.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/presentation/providers/user/theme_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/providers/content/subject_provider.dart';
+import 'package:crack_the_code/presentation/providers/parental/parental_controls_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/auth_provider.dart';
+import 'package:crack_the_code/presentation/screens/settings/profile_management_screen.dart';
 import 'package:flutter/services.dart';
 import 'dart:io';
 
@@ -41,7 +41,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
       body: ListView(
         children: [
           // Student Profiles Section (Junior only)
-          if (SegmentConfig.isJunior) ...[
+          if (SegmentConfig.isCrackTheCode) ...[
             _buildStudentProfilesSection(),
             const Divider(),
           ],
@@ -53,7 +53,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
           ],
 
           // Grade Selection Section (Junior only)
-          if (SegmentConfig.isJunior) ...[
+          if (SegmentConfig.isCrackTheCode) ...[
             _buildGradeSelectionSection(),
             const Divider(),
           ],
@@ -680,7 +680,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         ),
 
         // Change Class/Grade (for non-Junior or if grade selection not shown above)
-        if (!SegmentConfig.isJunior)
+        if (!SegmentConfig.isCrackTheCode)
           ListTile(
             leading: Icon(Icons.grade, color: colorScheme.primary),
             title: const Text('Change Class'),
@@ -975,14 +975,14 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'StreamShaala Terms of Service\n\n',
+                  'Crack the Code Terms of Service\n\n',
                   style: Theme.of(context).textTheme.titleMedium?.copyWith(
                     fontWeight: FontWeight.bold,
                   ),
                 ),
                 const Text(
                   '1. Acceptance of Terms\n'
-                  'By using StreamShaala, you agree to these terms of service.\n\n'
+                  'By using Crack the Code, you agree to these terms of service.\n\n'
                   '2. Educational Use\n'
                   'This app is designed for educational purposes for 12th standard students in India.\n\n'
                   '3. Content\n'
@@ -1022,7 +1022,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'How to use StreamShaala\n\n',
+                  'How to use Crack the Code\n\n',
                   style: Theme.of(context).textTheme.titleMedium?.copyWith(
                     fontWeight: FontWeight.bold,
                   ),
@@ -1043,7 +1043,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                   ),
                 ),
                 const Text(
-                  'Email: support@streamshaala.com\n'
+                  'Email: support@crackthecode.app\n'
                   'Version: ${AppConstants.appVersion}\n\n'
                   'For feature requests or bug reports, please contact our support team.',
                 ),
@@ -1095,7 +1095,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   Future<void> _clearAllData() async {
     try {
       final appDir = await getApplicationDocumentsDirectory();
-      final dbPath = '${appDir.path}/database/streamshaala_unified.db';
+      final dbPath = '${appDir.path}/database/crackthecode_unified.db';
       final dbFile = File(dbPath);
 
       if (await dbFile.exists()) {

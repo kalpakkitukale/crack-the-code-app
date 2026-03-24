@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Error State Widget
 /// Displays error message with optional retry button

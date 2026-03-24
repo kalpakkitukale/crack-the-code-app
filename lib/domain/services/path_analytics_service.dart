@@ -4,8 +4,8 @@
 /// Currently logs events locally - can be extended to send to analytics platforms.
 library;
 
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
 
 /// Service for tracking learning path analytics events
 class PathAnalyticsService {

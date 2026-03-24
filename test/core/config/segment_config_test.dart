@@ -2,7 +2,7 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
 
 void main() {
   group('SegmentConfig', () {
@@ -11,44 +11,44 @@ void main() {
     // =========================================================================
     group('Initialization', () {
       test('junior_initializesCorrectly', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
 
         expect(SegmentConfig.isInitialized, true);
-        expect(SegmentConfig.current, AppSegment.junior);
-        expect(SegmentConfig.isJunior, true);
-        expect(SegmentConfig.isSenior, false);
+        expect(SegmentConfig.current, AppSegment.crackTheCode);
+        expect(SegmentConfig.isCrackTheCode, true);
+        expect(SegmentConfig.isCrackTheCode, false);
       });
 
       test('middle_initializesCorrectly', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
 
-        expect(SegmentConfig.current, AppSegment.middle);
-        expect(SegmentConfig.isJunior, false);
-        expect(SegmentConfig.isSenior, false);
+        expect(SegmentConfig.current, AppSegment.crackTheCode);
+        expect(SegmentConfig.isCrackTheCode, false);
+        expect(SegmentConfig.isCrackTheCode, false);
       });
 
       test('preboard_initializesCorrectly', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
 
-        expect(SegmentConfig.current, AppSegment.preboard);
-        expect(SegmentConfig.isJunior, false);
-        expect(SegmentConfig.isSenior, false);
+        expect(SegmentConfig.current, AppSegment.crackTheCode);
+        expect(SegmentConfig.isCrackTheCode, false);
+        expect(SegmentConfig.isCrackTheCode, false);
       });
 
       test('senior_initializesCorrectly', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
 
-        expect(SegmentConfig.current, AppSegment.senior);
-        expect(SegmentConfig.isJunior, false);
-        expect(SegmentConfig.isSenior, true);
+        expect(SegmentConfig.current, AppSegment.crackTheCode);
+        expect(SegmentConfig.isCrackTheCode, false);
+        expect(SegmentConfig.isCrackTheCode, true);
       });
 
       test('spelling_initializesCorrectly', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
 
-        expect(SegmentConfig.current, AppSegment.spelling);
-        expect(SegmentConfig.isSpelling, true);
-        expect(SegmentConfig.isJunior, false);
+        expect(SegmentConfig.current, AppSegment.crackTheCode);
+        expect(SegmentConfig.isCrackTheCode, true);
+        expect(SegmentConfig.isCrackTheCode, false);
       });
     });
 
@@ -57,7 +57,7 @@ void main() {
     // =========================================================================
     group('Grade Ranges', () {
       test('junior_hasGrades1To7', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         final settings = SegmentConfig.settings;
 
         expect(settings.minGrade, 1);
@@ -66,7 +66,7 @@ void main() {
       });
 
       test('middle_hasGrades7To9', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         final settings = SegmentConfig.settings;
 
         expect(settings.minGrade, 7);
@@ -75,7 +75,7 @@ void main() {
       });
 
       test('preboard_hasGrade10Only', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         final settings = SegmentConfig.settings;
 
         expect(settings.minGrade, 10);
@@ -84,7 +84,7 @@ void main() {
       });
 
       test('senior_hasGrades11To12', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         final settings = SegmentConfig.settings;
 
         expect(settings.minGrade, 11);
@@ -93,7 +93,7 @@ void main() {
       });
 
       test('spelling_hasGrades1To8', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         final settings = SegmentConfig.settings;
 
         expect(settings.minGrade, 1);
@@ -102,7 +102,7 @@ void main() {
       });
 
       test('isGradeInRange_worksCorrectly', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         final settings = SegmentConfig.settings;
 
         expect(settings.isGradeInRange(1), true);
@@ -122,7 +122,7 @@ void main() {
     // =========================================================================
     group('Feature Flags', () {
       final featureMatrix = {
-        AppSegment.junior: {
+        AppSegment.crackTheCode: {
           'showParentalControls': true,
           'showScreenTimeControls': true,
           'showStreams': false,
@@ -132,7 +132,7 @@ void main() {
           'showConceptCharts': false,
           'showCharacterAvatar': true,
         },
-        AppSegment.middle: {
+        AppSegment.crackTheCode: {
           'showParentalControls': false,
           'showScreenTimeControls': false,
           'showStreams': false,
@@ -142,7 +142,7 @@ void main() {
           'showConceptCharts': true,
           'showCharacterAvatar': false,
         },
-        AppSegment.preboard: {
+        AppSegment.crackTheCode: {
           'showParentalControls': false,
           'showScreenTimeControls': false,
           'showStreams': false,
@@ -152,7 +152,7 @@ void main() {
           'showConceptCharts': true,
           'showCharacterAvatar': false,
         },
-        AppSegment.senior: {
+        AppSegment.crackTheCode: {
           'showParentalControls': false,
           'showScreenTimeControls': false,
           'showStreams': true,
@@ -162,7 +162,7 @@ void main() {
           'showConceptCharts': true,
           'showCharacterAvatar': false,
         },
-        AppSegment.spelling: {
+        AppSegment.crackTheCode: {
           'showParentalControls': true,
           'showScreenTimeControls': true,
           'showStreams': false,
@@ -232,39 +232,39 @@ void main() {
     // =========================================================================
     group('UI Scaling', () {
       test('junior_hasLargerFontScale', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.fontScale, 1.25);
       });
 
       test('middle_hasModerateFontScale', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.fontScale, 1.15);
       });
 
       test('preboard_hasDefaultFontScale', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.fontScale, 1.0);
       });
 
       test('senior_hasDefaultFontScale', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.fontScale, 1.0);
       });
 
       test('junior_hasLargerTouchTargets', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.touchTargetScale, 1.2);
         expect(SegmentConfig.settings.minTouchTarget, 48.0 * 1.2);
       });
 
       test('senior_hasDefaultTouchTargets', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.touchTargetScale, 1.0);
         expect(SegmentConfig.settings.minTouchTarget, 48.0);
       });
 
       test('junior_hasRounderCorners', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.borderRadiusScale, 1.5);
         expect(SegmentConfig.settings.defaultBorderRadius, 12.0 * 1.5);
       });
@@ -275,7 +275,7 @@ void main() {
     // =========================================================================
     group('Gamification', () {
       test('junior_hasHighGamification', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.gamificationIntensity,
           GamificationIntensity.high,
@@ -284,7 +284,7 @@ void main() {
       });
 
       test('middle_hasMediumGamification', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.gamificationIntensity,
           GamificationIntensity.medium,
@@ -292,7 +292,7 @@ void main() {
       });
 
       test('preboard_hasLowGamification', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.gamificationIntensity,
           GamificationIntensity.low,
@@ -300,7 +300,7 @@ void main() {
       });
 
       test('senior_hasLowGamification', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.gamificationIntensity,
           GamificationIntensity.low,
@@ -309,7 +309,7 @@ void main() {
       });
 
       test('spelling_hasHighGamification', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.gamificationIntensity,
           GamificationIntensity.high,
@@ -323,32 +323,32 @@ void main() {
     // =========================================================================
     group('XP Multiplier', () {
       test('junior_has1Point5Multiplier', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.xpMultiplier, 1.5);
       });
 
       test('middle_has1Point25Multiplier', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.xpMultiplier, 1.25);
       });
 
       test('preboard_has1Point0Multiplier', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.xpMultiplier, 1.0);
       });
 
       test('senior_has1Point0Multiplier', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.xpMultiplier, 1.0);
       });
 
       test('spelling_has1Point5Multiplier', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.xpMultiplier, 1.5);
       });
 
       test('xpCalculation_appliesMultiplierCorrectly', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         const baseXp = 100;
         final multipliedXp = baseXp * SegmentConfig.settings.xpMultiplier;
         expect(multipliedXp, 150.0);
@@ -360,31 +360,31 @@ void main() {
     // =========================================================================
     group('Quiz Configuration', () {
       test('junior_maxQuestions5', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.defaultQuizQuestionCount, 5);
         expect(SegmentConfig.settings.maxQuizQuestionCount, 10);
       });
 
       test('middle_maxQuestions10', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.defaultQuizQuestionCount, 10);
         expect(SegmentConfig.settings.maxQuizQuestionCount, 15);
       });
 
       test('preboard_maxQuestions20', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.defaultQuizQuestionCount, 20);
         expect(SegmentConfig.settings.maxQuizQuestionCount, 30);
       });
 
       test('senior_maxQuestions20', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.defaultQuizQuestionCount, 20);
         expect(SegmentConfig.settings.maxQuizQuestionCount, 30);
       });
 
       test('junior_hasFriendlyTimerFormat', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.timerDisplayFormat,
           TimerDisplayFormat.friendly,
@@ -392,7 +392,7 @@ void main() {
       });
 
       test('senior_hasStandardTimerFormat', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.timerDisplayFormat,
           TimerDisplayFormat.standard,
@@ -400,23 +400,23 @@ void main() {
       });
 
       test('junior_hasSimplifiedQuizResults', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.simplifiedQuizResults, true);
       });
 
       test('senior_hasDetailedQuizResults', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.simplifiedQuizResults, false);
       });
 
       test('spelling_hasDefaultQuizQuestionCount10', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.defaultQuizQuestionCount, 10);
         expect(SegmentConfig.settings.maxQuizQuestionCount, 20);
       });
 
       test('spelling_hasFriendlyTimerFormat', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(
           SegmentConfig.settings.timerDisplayFormat,
           TimerDisplayFormat.friendly,
@@ -424,7 +424,7 @@ void main() {
       });
 
       test('spelling_hasSimplifiedQuizResults', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.simplifiedQuizResults, true);
       });
     });
@@ -452,28 +452,28 @@ void main() {
       });
 
       test('junior_hasJuniorDatabase', () {
-        SegmentConfig.initialize(AppSegment.junior);
-        expect(SegmentConfig.settings.databaseName, 'streamshaala_junior.db');
+        SegmentConfig.initialize(AppSegment.crackTheCode);
+        expect(SegmentConfig.settings.databaseName, 'crackthecode.db');
       });
 
       test('middle_hasMiddleDatabase', () {
-        SegmentConfig.initialize(AppSegment.middle);
-        expect(SegmentConfig.settings.databaseName, 'streamshaala_middle.db');
+        SegmentConfig.initialize(AppSegment.crackTheCode);
+        expect(SegmentConfig.settings.databaseName, 'crackthecode.db');
       });
 
       test('preboard_hasPreboardDatabase', () {
-        SegmentConfig.initialize(AppSegment.preboard);
-        expect(SegmentConfig.settings.databaseName, 'streamshaala_preboard.db');
+        SegmentConfig.initialize(AppSegment.crackTheCode);
+        expect(SegmentConfig.settings.databaseName, 'crackthecode.db');
       });
 
       test('senior_hasOriginalDatabase', () {
-        SegmentConfig.initialize(AppSegment.senior);
-        expect(SegmentConfig.settings.databaseName, 'streamshaala.db');
+        SegmentConfig.initialize(AppSegment.crackTheCode);
+        expect(SegmentConfig.settings.databaseName, 'crackthecode.db');
       });
 
       test('spelling_hasSpellshaalaDatabase', () {
-        SegmentConfig.initialize(AppSegment.spelling);
-        expect(SegmentConfig.settings.databaseName, 'spellshaala.db');
+        SegmentConfig.initialize(AppSegment.crackTheCode);
+        expect(SegmentConfig.settings.databaseName, 'crackthecode.db');
       });
     });
 
@@ -482,47 +482,47 @@ void main() {
     // =========================================================================
     group('Navigation Configuration', () {
       test('junior_has3BottomNavItems', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.bottomNavItemCount, 3);
       });
 
       test('middle_has4BottomNavItems', () {
-        SegmentConfig.initialize(AppSegment.middle);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.bottomNavItemCount, 4);
       });
 
       test('preboard_has4BottomNavItems', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.bottomNavItemCount, 4);
       });
 
       test('senior_has4BottomNavItems', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.bottomNavItemCount, 4);
       });
 
       test('junior_hasSimplifiedBrowseHierarchy', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.simplifiedBrowseHierarchy, true);
       });
 
       test('senior_hasFullBrowseHierarchy', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.simplifiedBrowseHierarchy, false);
       });
 
       test('spelling_has4BottomNavItems', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.bottomNavItemCount, 4);
       });
 
       test('spelling_hasSimplifiedBrowseHierarchy', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.simplifiedBrowseHierarchy, true);
       });
 
       test('spelling_showsPracticeInBottomNav', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showPracticeInBottomNav, true);
         expect(SegmentConfig.settings.showSearchInBottomNav, false);
         expect(SegmentConfig.settings.showLibraryInBottomNav, false);
@@ -534,45 +534,45 @@ void main() {
     // =========================================================================
     group('Onboarding Configuration', () {
       test('junior_showsGradeSelectionOnly', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showGradeSelection, true);
         expect(SegmentConfig.settings.showBoardSelection, false);
         expect(SegmentConfig.settings.showStreamSelection, false);
       });
 
       test('preboard_showsBoardSelectionOnly', () {
-        SegmentConfig.initialize(AppSegment.preboard);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showGradeSelection, false);
         expect(SegmentConfig.settings.showBoardSelection, true);
         expect(SegmentConfig.settings.showStreamSelection, false);
       });
 
       test('senior_showsAllSelections', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showGradeSelection, true);
         expect(SegmentConfig.settings.showBoardSelection, true);
         expect(SegmentConfig.settings.showStreamSelection, true);
       });
 
       test('junior_hasFriendlyButtonText', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.onboardingButtonText, "Let's Go!");
       });
 
       test('senior_hasStandardButtonText', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.onboardingButtonText, 'Get Started');
       });
 
       test('spelling_showsGradeSelectionOnly', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showGradeSelection, true);
         expect(SegmentConfig.settings.showBoardSelection, false);
         expect(SegmentConfig.settings.showStreamSelection, false);
       });
 
       test('spelling_hasSpellingButtonText', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.onboardingButtonText, "Let's Spell!");
       });
     });
@@ -582,47 +582,47 @@ void main() {
     // =========================================================================
     group('Helper Methods', () {
       test('gradeDisplayName_formatsCorrectly', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.gradeDisplayName(5), 'Grade 5');
 
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.gradeDisplayName(12), 'Class 12');
       });
 
       test('isKidFriendly_trueForJunior', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.isKidFriendly, true);
       });
 
       test('isKidFriendly_falseForSenior', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.isKidFriendly, false);
       });
 
       test('requiresParentalControls_trueForJunior', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.requiresParentalControls, true);
       });
 
       test('requiresParentalControls_falseForSenior', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.requiresParentalControls, false);
       });
 
       test('isKidFriendly_trueForSpelling', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.isKidFriendly, true);
       });
 
       test('requiresParentalControls_trueForSpelling', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.requiresParentalControls, true);
       });
 
       test('showsStreams_trueForSeniorOnly', () {
         for (final segment in AppSegment.values) {
           SegmentConfig.initialize(segment);
-          final expected = segment == AppSegment.senior;
+          final expected = segment == AppSegment.crackTheCode;
           expect(
             SegmentConfig.showsStreams,
             expected,
@@ -637,32 +637,32 @@ void main() {
     // =========================================================================
     group('Video Configuration', () {
       test('junior_hasLowerMaxSpeed', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.maxVideoSpeed, 1.5);
       });
 
       test('senior_hasHigherMaxSpeed', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.maxVideoSpeed, 2.0);
       });
 
       test('junior_showsRelatedFromSameGrade', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showRelatedVideosFromSameGrade, true);
       });
 
       test('senior_showsAllRelated', () {
-        SegmentConfig.initialize(AppSegment.senior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showRelatedVideosFromSameGrade, false);
       });
 
       test('spelling_hasLowerMaxSpeed', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.maxVideoSpeed, 1.5);
       });
 
       test('spelling_showsRelatedFromSameGrade', () {
-        SegmentConfig.initialize(AppSegment.spelling);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
         expect(SegmentConfig.settings.showRelatedVideosFromSameGrade, true);
       });
     });
@@ -671,7 +671,7 @@ void main() {
     // SPELLING CONFIGURATION TESTS
     // =========================================================================
     group('Spelling Configuration', () {
-      setUp(() => SegmentConfig.initialize(AppSegment.spelling));
+      setUp(() => SegmentConfig.initialize(AppSegment.crackTheCode));
 
       test('spelling_hasWordOfTheDay', () {
         expect(SegmentConfig.settings.showWordOfTheDay, true);
@@ -719,13 +719,13 @@ void main() {
     // =========================================================================
     group('settingsFor', () {
       test('returnsCorrectSettingsWithoutChangingCurrent', () {
-        SegmentConfig.initialize(AppSegment.junior);
+        SegmentConfig.initialize(AppSegment.crackTheCode);
 
-        final seniorSettings = SegmentConfig.settingsFor(AppSegment.senior);
+        final seniorSettings = SegmentConfig.settingsFor(AppSegment.crackTheCode);
 
-        expect(seniorSettings.appName, 'StreamShaala');
+        expect(seniorSettings.appName, 'Crack the Code');
         expect(seniorSettings.minGrade, 11);
-        expect(SegmentConfig.current, AppSegment.junior, reason: 'Current unchanged');
+        expect(SegmentConfig.current, AppSegment.crackTheCode, reason: 'Current unchanged');
       });
     });
   });

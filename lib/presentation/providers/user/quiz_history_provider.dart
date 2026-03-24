@@ -4,15 +4,15 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_filter.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_statistics.dart';
-import 'package:streamshaala/domain/entities/quiz/subject_statistics.dart';
-import 'package:streamshaala/domain/repositories/quiz_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/presentation/providers/user/user_info_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_filter.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_statistics.dart';
+import 'package:crack_the_code/domain/entities/quiz/subject_statistics.dart';
+import 'package:crack_the_code/domain/repositories/quiz_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/presentation/providers/user/user_info_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 // ==================== PHASE 4: PROVIDERS ====================
 

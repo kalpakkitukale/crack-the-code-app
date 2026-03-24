@@ -6,12 +6,12 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/content/board.dart';
-import 'package:streamshaala/domain/entities/content/subject.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/domain/entities/search/unified_search_results.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/content/board.dart';
+import 'package:crack_the_code/domain/entities/content/subject.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/entities/search/unified_search_results.dart';
 
 /// Repository interface for content operations
 abstract class ContentRepository {

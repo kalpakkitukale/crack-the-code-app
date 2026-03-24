@@ -3,7 +3,7 @@ library;
 
 import 'dart:convert';
 
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
 
 /// Database model for learning paths
 class LearningPathModel {

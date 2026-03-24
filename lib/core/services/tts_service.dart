@@ -4,7 +4,7 @@ library;
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter_tts/flutter_tts.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Text-to-Speech service singleton
 class TtsService {

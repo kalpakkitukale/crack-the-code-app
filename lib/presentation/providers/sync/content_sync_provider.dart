@@ -4,11 +4,11 @@ library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:streamshaala/core/config/remote_content_config.dart';
-import 'package:streamshaala/core/services/connectivity_service.dart';
-import 'package:streamshaala/data/datasources/remote/content_sync_datasource.dart';
-import 'package:streamshaala/data/repositories/sync/content_sync_repository_impl.dart';
-import 'package:streamshaala/domain/repositories/sync/content_sync_repository.dart';
+import 'package:crack_the_code/core/config/remote_content_config.dart';
+import 'package:crack_the_code/core/services/connectivity_service.dart';
+import 'package:crack_the_code/data/datasources/remote/content_sync_datasource.dart';
+import 'package:crack_the_code/data/repositories/sync/content_sync_repository_impl.dart';
+import 'package:crack_the_code/domain/repositories/sync/content_sync_repository.dart';
 
 part 'content_sync_provider.g.dart';
 

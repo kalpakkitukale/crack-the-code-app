@@ -1,8 +1,8 @@
 /// Collection data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/user/collection.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/user/collection.dart';
 
 /// Collection model for SQLite database
 class CollectionModel {

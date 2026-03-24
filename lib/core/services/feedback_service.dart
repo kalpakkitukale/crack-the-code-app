@@ -5,9 +5,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/accessibility/accessibility_utils.dart';
-import 'package:streamshaala/core/widgets/toast/toast_notification.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/accessibility/accessibility_utils.dart';
+import 'package:crack_the_code/core/widgets/toast/toast_notification.dart';
 
 /// Feedback types for different interactions
 enum FeedbackType {
@@ -215,7 +215,7 @@ class FeedbackService {
     if (!_isHapticEnabled) return;
 
     // Gentle negative feedback (not harsh for Junior)
-    if (SegmentConfig.isJunior) {
+    if (SegmentConfig.isCrackTheCode) {
       // Softer feedback for younger students
       await HapticFeedback.lightImpact();
     } else {

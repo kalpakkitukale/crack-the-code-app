@@ -1,4 +1,4 @@
-/// Test helpers for StreamShaala tests
+/// Test helpers for Crack the Code tests
 library;
 
 import 'package:flutter/material.dart';

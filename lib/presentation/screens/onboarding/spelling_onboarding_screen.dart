@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
 
 class SpellingOnboardingScreen extends StatefulWidget {
   final VoidCallback onComplete;

@@ -2,8 +2,8 @@
 library;
 
 import 'package:json_annotation/json_annotation.dart';
-import 'package:streamshaala/data/models/content/class_model.dart';
-import 'package:streamshaala/domain/entities/content/board.dart';
+import 'package:crack_the_code/data/models/content/class_model.dart';
+import 'package:crack_the_code/domain/entities/content/board.dart';
 
 part 'board_model.g.dart';
 

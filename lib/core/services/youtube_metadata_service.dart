@@ -1,6 +1,6 @@
-import 'package:streamshaala/core/services/secure_http_client.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/core/utils/validation_helpers.dart';
+import 'package:crack_the_code/core/services/secure_http_client.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/validation_helpers.dart';
 
 /// YouTube Metadata Service
 /// Fetches video metadata using YouTube oEmbed API (no API key required)

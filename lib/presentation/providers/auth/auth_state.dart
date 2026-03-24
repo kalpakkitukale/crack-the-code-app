@@ -3,7 +3,7 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/auth/auth_user.dart';
+import 'package:crack_the_code/domain/entities/auth/auth_user.dart';
 
 part 'auth_state.freezed.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/errors/error_messages.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/errors/error_messages.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Reusable error state widget with user-friendly messages
 /// Shows error icon, message, help text, and retry button

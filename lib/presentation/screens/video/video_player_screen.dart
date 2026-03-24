@@ -2,29 +2,29 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/services/content_index.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/user/bookmark.dart';
-import 'package:streamshaala/presentation/providers/content/video_provider.dart';
-import 'package:streamshaala/presentation/providers/user/bookmark_provider.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/video_info_panel.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/notes_section.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/related_videos.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/summary_section.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/qa_section.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/flashcard_section.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/glossary_section.dart';
-import 'package:streamshaala/presentation/screens/video/widgets/platform_youtube_player.dart';
-import 'package:streamshaala/domain/entities/pedagogy/learning_path_context.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/learning_path_provider.dart';
-import 'package:streamshaala/presentation/widgets/quiz/quiz_prompt_dialog.dart';
-import 'package:streamshaala/presentation/widgets/video/quiz_tab_content.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/services/content_index.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/user/bookmark.dart';
+import 'package:crack_the_code/presentation/providers/content/video_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/bookmark_provider.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/video_info_panel.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/notes_section.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/related_videos.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/summary_section.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/qa_section.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/flashcard_section.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/glossary_section.dart';
+import 'package:crack_the_code/presentation/screens/video/widgets/platform_youtube_player.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/learning_path_context.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/learning_path_provider.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/quiz_prompt_dialog.dart';
+import 'package:crack_the_code/presentation/widgets/video/quiz_tab_content.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 /// Video player state
 enum VideoState {
@@ -601,7 +601,7 @@ class _VideoPlayerScreenState extends ConsumerState<VideoPlayerScreen> with Widg
                       _buildTab('Info', 0),
                       _buildTab('Summary', 1),
                       _buildTab('Notes', 2),
-                      if (!SegmentConfig.isJunior) _buildTab('Q&A', 3),
+                      if (!SegmentConfig.isCrackTheCode) _buildTab('Q&A', 3),
                       _buildTab('Cards', _getCardsTabIndex()),
                       _buildTab('Glossary', _getGlossaryTabIndex()),
                       if (_getTopicId() != null) _buildTab('Quiz', _getQuizTabIndex()),
@@ -687,7 +687,7 @@ class _VideoPlayerScreenState extends ConsumerState<VideoPlayerScreen> with Widg
                               _buildTab('Info', 0),
                               _buildTab('Summary', 1),
                               _buildTab('Notes', 2),
-                              if (!SegmentConfig.isJunior) _buildTab('Q&A', 3),
+                              if (!SegmentConfig.isCrackTheCode) _buildTab('Q&A', 3),
                               _buildTab('Cards', _getCardsTabIndex()),
                               _buildTab('Glossary', _getGlossaryTabIndex()),
                               if (_getTopicId() != null) _buildTab('Quiz', _getQuizTabIndex()),
@@ -784,7 +784,7 @@ class _VideoPlayerScreenState extends ConsumerState<VideoPlayerScreen> with Widg
                                   _buildTab('Info', 0),
                                   _buildTab('Summary', 1),
                                   _buildTab('Notes', 2),
-                                  if (!SegmentConfig.isJunior) _buildTab('Q&A', 3),
+                                  if (!SegmentConfig.isCrackTheCode) _buildTab('Q&A', 3),
                                   _buildTab('Cards', _getCardsTabIndex()),
                                   _buildTab('Glossary', _getGlossaryTabIndex()),
                                   if (_getTopicId() != null) _buildTab('Quiz', _getQuizTabIndex()),
@@ -817,7 +817,7 @@ class _VideoPlayerScreenState extends ConsumerState<VideoPlayerScreen> with Widg
   /// Get tab index for Cards tab (varies based on whether Q&A is shown)
   int _getCardsTabIndex() {
     // Info=0, Summary=1, Notes=2, Q&A=3 (if not Junior), Cards=3 or 4
-    return SegmentConfig.isJunior ? 3 : 4;
+    return SegmentConfig.isCrackTheCode ? 3 : 4;
   }
 
   /// Get tab index for Glossary tab
@@ -887,7 +887,7 @@ class _VideoPlayerScreenState extends ConsumerState<VideoPlayerScreen> with Widg
         return NotesSection(getCurrentTimestamp: () => _currentVideoTime);
       case 3:
         // Q&A tab (only shown for non-Junior segments)
-        if (!SegmentConfig.isJunior) {
+        if (!SegmentConfig.isCrackTheCode) {
           return QASection(videoId: widget.videoId);
         }
         // For Junior, index 3 is Cards
@@ -933,7 +933,7 @@ class _VideoPlayerScreenState extends ConsumerState<VideoPlayerScreen> with Widg
         return NotesSection(getCurrentTimestamp: () => _currentVideoTime);
       case 3:
         // Q&A tab (only shown for non-Junior segments)
-        if (!SegmentConfig.isJunior) {
+        if (!SegmentConfig.isCrackTheCode) {
           return QASection(videoId: widget.videoId);
         }
         // For Junior, index 3 is Cards

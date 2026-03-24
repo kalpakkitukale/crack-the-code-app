@@ -2,13 +2,13 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_provider.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
 
 import '../fixtures/quiz_fixtures.dart';
 import '../fixtures/progress_fixtures.dart';

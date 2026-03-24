@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/pedagogy/quiz_recommendation.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/quiz_recommendation.dart';
 
 /// Preview card showing top 3 recommendations from quiz results
 ///

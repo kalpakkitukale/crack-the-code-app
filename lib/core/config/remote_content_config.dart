@@ -8,7 +8,7 @@ class RemoteContentConfig {
 
   /// Base URL for the R2 bucket (via Cloudflare CDN)
   /// Update this to your actual bucket URL
-  static const String bucketUrl = 'https://content.streamshaala.com';
+  static const String bucketUrl = 'https://content.crackthecode.app';
 
   /// Path to the manifest file
   static const String manifestPath = '/manifest.json';

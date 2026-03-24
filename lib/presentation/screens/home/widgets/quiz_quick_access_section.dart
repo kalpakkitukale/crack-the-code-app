@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
 
 /// Quiz Quick Access Section
 /// Provides quick navigation to quiz history and statistics

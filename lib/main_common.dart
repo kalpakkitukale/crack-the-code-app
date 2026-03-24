@@ -1,7 +1,7 @@
-// Common initialization code for all StreamShaala variants
+// Common initialization code for Crack the Code
 //
-// This file contains shared app initialization logic used by all entry points.
-// Do not run this file directly - use main_junior.dart, main_senior.dart, etc.
+// This file contains shared app initialization logic.
+// Do not run this file directly - use main.dart.
 
 import 'dart:async';
 
@@ -10,25 +10,25 @@ import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/segment_theme_factory.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/firebase_options.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/presentation/navigation/app_router.dart';
-import 'package:streamshaala/presentation/providers/user/theme_provider.dart';
-import 'package:streamshaala/presentation/widgets/parental/screen_time_overlay.dart';
-import 'package:streamshaala/presentation/widgets/gamification/celebration_overlay.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/segment_theme_factory.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/firebase_options.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/presentation/navigation/app_router.dart';
+import 'package:crack_the_code/presentation/providers/user/theme_provider.dart';
+import 'package:crack_the_code/presentation/widgets/parental/screen_time_overlay.dart';
+import 'package:crack_the_code/presentation/widgets/gamification/celebration_overlay.dart';
 
 // Platform consistency imports
-import 'package:streamshaala/core/platform/platform_consistency_manager.dart';
-import 'package:streamshaala/core/services/video_metadata_service.dart';
-import 'package:streamshaala/core/services/content_index.dart';
-import 'package:streamshaala/core/services/deep_link_service.dart';
-import 'package:streamshaala/core/services/push_notification_service.dart';
-import 'package:streamshaala/core/utils/progress_migration.dart';
-import 'package:streamshaala/core/utils/performance_utils.dart';
-import 'package:streamshaala/core/utils/encryption_helper.dart';
+import 'package:crack_the_code/core/platform/platform_consistency_manager.dart';
+import 'package:crack_the_code/core/services/video_metadata_service.dart';
+import 'package:crack_the_code/core/services/content_index.dart';
+import 'package:crack_the_code/core/services/deep_link_service.dart';
+import 'package:crack_the_code/core/services/push_notification_service.dart';
+import 'package:crack_the_code/core/utils/progress_migration.dart';
+import 'package:crack_the_code/core/utils/performance_utils.dart';
+import 'package:crack_the_code/core/utils/encryption_helper.dart';
 
 /// Initialize Firebase Crashlytics with error handlers
 Future<void> _initializeCrashlytics() async {
@@ -64,10 +64,8 @@ Future<void> _initializeCrashlytics() async {
   };
 }
 
-/// Main entry point for all StreamShaala variants
-///
-/// Call this after initializing SegmentConfig in variant-specific main files.
-void runStreamShaalaApp() async {
+/// Main entry point for Crack the Code app
+void runCrackTheCodeApp() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   final settings = SegmentConfig.settings;
@@ -152,7 +150,7 @@ void runStreamShaalaApp() async {
 
     runApp(
       const ProviderScope(
-        child: StreamShaalaApp(),
+        child: CrackTheCodeApp(),
       ),
     );
   } catch (e, stackTrace) {
@@ -198,7 +196,7 @@ void runStreamShaalaApp() async {
                   ElevatedButton(
                     onPressed: () {
                       // Restart app
-                      runStreamShaalaApp();
+                      runCrackTheCodeApp();
                     },
                     child: const Text('Retry'),
                   ),
@@ -212,9 +210,9 @@ void runStreamShaalaApp() async {
   }
 }
 
-/// Main app widget shared across all variants
-class StreamShaalaApp extends ConsumerWidget {
-  const StreamShaalaApp({super.key});
+/// Main app widget for Crack the Code
+class CrackTheCodeApp extends ConsumerWidget {
+  const CrackTheCodeApp({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {

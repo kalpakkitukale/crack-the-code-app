@@ -2,8 +2,8 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_note.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_note.dart';
 
 /// Callback type for saving a note
 typedef NoteEditorCallback = Future<void> Function(

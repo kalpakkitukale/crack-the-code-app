@@ -3,9 +3,9 @@ library;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/data/repositories/path_metrics_repository_impl.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
+import 'package:crack_the_code/data/repositories/path_metrics_repository_impl.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
 
 void main() {
   group('PathMetricsRepositoryImpl', () {

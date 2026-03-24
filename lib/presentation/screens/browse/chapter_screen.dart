@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/widgets/cards/chapter_list_tile.dart';
-import 'package:streamshaala/core/widgets/error/error_state_widget.dart';
-import 'package:streamshaala/presentation/screens/browse/widgets/breadcrumb_bar.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/presentation/providers/content/chapter_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
-import 'package:streamshaala/presentation/providers/user/subject_progress_provider.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/widgets/cards/chapter_list_tile.dart';
+import 'package:crack_the_code/core/widgets/error/error_state_widget.dart';
+import 'package:crack_the_code/presentation/screens/browse/widgets/breadcrumb_bar.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/presentation/providers/content/chapter_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/subject_progress_provider.dart';
 
 /// Sort options for chapters
 enum ChapterSortOption {

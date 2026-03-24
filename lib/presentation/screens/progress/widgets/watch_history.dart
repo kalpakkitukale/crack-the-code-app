@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/widgets/empty/empty_state_widget.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
-import 'package:streamshaala/presentation/widgets/error_state_widget.dart';
-import 'package:streamshaala/presentation/widgets/skeletons/video_card_skeleton.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/widgets/empty/empty_state_widget.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/presentation/widgets/error_state_widget.dart';
+import 'package:crack_the_code/presentation/widgets/skeletons/video_card_skeleton.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
 
 /// Watch History Widget
 /// Shows recently watched videos with timestamps using real data

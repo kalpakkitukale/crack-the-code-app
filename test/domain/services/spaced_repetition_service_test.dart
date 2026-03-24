@@ -2,9 +2,9 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/spaced_repetition_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/spaced_repetition_model.dart';
-import 'package:streamshaala/domain/services/spaced_repetition_service.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/spaced_repetition_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/spaced_repetition_model.dart';
+import 'package:crack_the_code/domain/services/spaced_repetition_service.dart';
 
 void main() {
   group('SpacedRepetitionService', () {

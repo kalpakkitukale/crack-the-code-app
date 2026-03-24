@@ -6,16 +6,16 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard_progress.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_provider.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_stats_provider.dart';
-import 'package:streamshaala/presentation/screens/study_tools/widgets/flashcard_badges.dart';
-import 'package:streamshaala/presentation/screens/study_tools/widgets/streak_banner.dart';
-import 'package:streamshaala/presentation/screens/study_tools/widgets/study_completion_screen.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard_progress.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_provider.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_stats_provider.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/widgets/flashcard_badges.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/widgets/streak_banner.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/widgets/study_completion_screen.dart';
 
 /// Screen for reviewing all due flashcards
 class ReviewDueScreen extends ConsumerStatefulWidget {
@@ -146,7 +146,7 @@ class _ReviewDueScreenState extends ConsumerState<ReviewDueScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final statsAsync = ref.watch(flashcardStatsProvider);
 
     if (_isLoading) {

@@ -1,21 +1,21 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/stats_overview.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/subject_progress.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/watch_history.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/streak_calendar.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/quick_actions.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/enhanced_weekly_chart.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/subject_pie_chart.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/milestones.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/empty_progress_state.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/quiz_progress.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/stats_overview.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/subject_progress.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/watch_history.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/streak_calendar.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/quick_actions.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/enhanced_weekly_chart.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/subject_pie_chart.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/milestones.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/empty_progress_state.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/quiz_progress.dart';
 
 /// Progress Tracking Screen
 /// Shows user's learning analytics and progress

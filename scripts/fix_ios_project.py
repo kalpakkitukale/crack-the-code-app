@@ -5,7 +5,7 @@ Fix iOS Xcode project.pbxproj file by removing duplicate xcconfig references.
 
 import re
 
-pbxproj_path = '/Users/apple/work/StreamShaala/ios/Runner.xcodeproj/project.pbxproj'
+pbxproj_path = '/Users/apple/work/Crack the Code/ios/Runner.xcodeproj/project.pbxproj'
 
 # Read the file
 with open(pbxproj_path, 'r') as f:

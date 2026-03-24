@@ -1,8 +1,8 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_bee_round.dart';
-import 'package:streamshaala/domain/services/spelling_bee_service.dart';
-import 'package:streamshaala/domain/services/spelling_checker_service.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_bee_round.dart';
+import 'package:crack_the_code/domain/services/spelling_bee_service.dart';
+import 'package:crack_the_code/domain/services/spelling_checker_service.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 class SpellingBeeState {
   final List<SpellingBeeRound> rounds;

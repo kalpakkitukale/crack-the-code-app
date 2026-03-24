@@ -1,8 +1,8 @@
 /// Bookmark data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/user/bookmark.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/user/bookmark.dart';
 
 /// Bookmark model for SQLite database
 class BookmarkModel {

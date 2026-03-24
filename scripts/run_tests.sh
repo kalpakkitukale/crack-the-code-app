@@ -1,5 +1,5 @@
 #!/bin/bash
-# StreamShaala Test Runner Script
+# Crack the Code Test Runner Script
 # Usage: ./scripts/run_tests.sh [--coverage] [--ci]
 
 set -e
@@ -20,7 +20,7 @@ while [[ "$#" -gt 0 ]]; do
 done
 
 echo "=========================================="
-echo "StreamShaala Test Runner"
+echo "Crack the Code Test Runner"
 echo "=========================================="
 echo "Coverage: $COVERAGE"
 echo "CI Mode: $CI_MODE"

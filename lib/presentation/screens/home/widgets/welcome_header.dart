@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/presentation/providers/gamification/gamification_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/presentation/providers/gamification/gamification_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 
 /// Welcome header widget displaying greeting and user streak
 class WelcomeHeader extends ConsumerWidget {

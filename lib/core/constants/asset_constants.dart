@@ -1,4 +1,4 @@
-/// Asset paths and constants for StreamShaala
+/// Asset paths and constants for Crack the Code
 ///
 /// This file contains all asset-related constants including:
 /// - JSON data file paths

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/presentation/widgets/skeletons/skeleton_loading.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/presentation/widgets/skeletons/skeleton_loading.dart';
 
 /// Skeleton loading state for subject progress cards
 class SubjectCardSkeleton extends StatelessWidget {

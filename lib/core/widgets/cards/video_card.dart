@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/utils/formatters.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/utils/formatters.dart';
 
 /// Video card widget to display video information
 /// Supports both list and grid layouts with responsive design
@@ -44,7 +44,7 @@ class VideoCard extends StatelessWidget {
 
   // Segment-aware scaling for Junior
   double get _touchScale => SegmentConfig.settings.touchTargetScale;
-  bool get _isJunior => SegmentConfig.isJunior;
+  bool get _isJunior => SegmentConfig.isCrackTheCode;
 
   /// Build semantic label for screen readers
   String _buildSemanticLabel() {

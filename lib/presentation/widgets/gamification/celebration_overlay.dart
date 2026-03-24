@@ -4,10 +4,10 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart' hide Badge;
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/services/feedback_service.dart';
-import 'package:streamshaala/domain/entities/gamification/badge.dart';
-import 'package:streamshaala/presentation/providers/gamification/gamification_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/services/feedback_service.dart';
+import 'package:crack_the_code/domain/entities/gamification/badge.dart';
+import 'package:crack_the_code/presentation/providers/gamification/gamification_provider.dart';
 
 /// Celebration Wrapper Widget
 /// Wraps content and shows celebration overlays for level-ups and achievements

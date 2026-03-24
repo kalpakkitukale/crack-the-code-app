@@ -4,13 +4,13 @@ library;
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/asset_constants.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/models/content/board_model.dart';
-import 'package:streamshaala/data/models/content/subject_model.dart';
-import 'package:streamshaala/data/models/content/video_model.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/asset_constants.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/models/content/board_model.dart';
+import 'package:crack_the_code/data/models/content/subject_model.dart';
+import 'package:crack_the_code/data/models/content/video_model.dart';
 
 /// Data source for reading JSON content files
 class ContentJsonDataSource {
@@ -32,7 +32,7 @@ class ContentJsonDataSource {
       final boards = <BoardModel>[];
 
       // Load appropriate CBSE board based on segment
-      if (SegmentConfig.isJunior) {
+      if (SegmentConfig.isCrackTheCode) {
         // For Junior segment (Grades 4-7), load elementary board
         try {
           final cbseElementary = await _loadBoard(JsonAssets.cbseElementaryBoard, 'cbse_elementary');
@@ -55,7 +55,7 @@ class ContentJsonDataSource {
       }
 
       // Load ICSE board (available for all segments except Junior)
-      if (!SegmentConfig.isJunior) {
+      if (!SegmentConfig.isCrackTheCode) {
         try {
           final icse = await _loadBoard(JsonAssets.icseBoard, 'icse');
           boards.add(icse);
@@ -66,7 +66,7 @@ class ContentJsonDataSource {
       }
 
       // Load state boards (available for all segments except Junior)
-      if (!SegmentConfig.isJunior) {
+      if (!SegmentConfig.isCrackTheCode) {
         try {
           final stateBoards = await _loadBoard(JsonAssets.stateBoards, 'state_boards');
           boards.add(stateBoards);

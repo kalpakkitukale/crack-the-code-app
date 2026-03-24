@@ -5,9 +5,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Segment-aware splash screen with animated branding
 class SegmentSplashScreen extends StatefulWidget {
@@ -84,7 +84,7 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
     }
 
     // For Junior segment, check if grade selection is complete
-    if (SegmentConfig.current == AppSegment.junior) {
+    if (SegmentConfig.current == AppSegment.crackTheCode) {
       if (!hasCompletedGradeSelection) {
         if (mounted) context.go('/grade-selection');
         return;
@@ -92,7 +92,7 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
     }
 
     // For Spelling segment, check if grade selection is complete
-    if (SegmentConfig.isSpelling) {
+    if (SegmentConfig.isCrackTheCode) {
       if (!hasCompletedGradeSelection) {
         if (mounted) context.go('/grade-selection');
         return;
@@ -101,7 +101,7 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
 
     // All checks passed, go to home
     if (mounted) {
-      if (SegmentConfig.isSpelling) {
+      if (SegmentConfig.isCrackTheCode) {
         context.go(RouteConstants.spellingHome);
       } else {
         context.go('/home');
@@ -161,7 +161,7 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
                 ),
 
                 // Loading indicator for Junior/Spelling (more playful)
-                if (segment == AppSegment.junior || segment == AppSegment.spelling) ...[
+                if (segment == AppSegment.crackTheCode || segment == AppSegment.crackTheCode) ...[
                   const SizedBox(height: 48),
                   Opacity(
                     opacity: _fadeAnimation.value,
@@ -179,7 +179,7 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
   Widget _buildLogo(SplashConfig config) {
     final segment = SegmentConfig.current;
 
-    if (segment == AppSegment.junior) {
+    if (segment == AppSegment.crackTheCode) {
       // Playful logo for Junior with gradient background
       return Container(
         width: 140,
@@ -239,15 +239,15 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
 
   IconData _getLogoIcon(AppSegment segment) {
     switch (segment) {
-      case AppSegment.junior:
+      case AppSegment.crackTheCode:
         return Icons.school_rounded;
-      case AppSegment.middle:
+      case AppSegment.crackTheCode:
         return Icons.menu_book_rounded;
-      case AppSegment.preboard:
+      case AppSegment.crackTheCode:
         return Icons.assignment_rounded;
-      case AppSegment.senior:
+      case AppSegment.crackTheCode:
         return Icons.auto_stories_rounded;
-      case AppSegment.spelling:
+      case AppSegment.crackTheCode:
         return Icons.spellcheck_rounded;
     }
   }
@@ -278,61 +278,61 @@ class _SegmentSplashScreenState extends State<SegmentSplashScreen>
 
   SplashConfig _getSplashConfig(AppSegment segment) {
     switch (segment) {
-      case AppSegment.junior:
+      case AppSegment.crackTheCode:
         return SplashConfig(
           backgroundColor: const Color(0xFF4A90E2), // Bright blue
           primaryColor: const Color(0xFFFFD93D), // Happy yellow
           secondaryColor: const Color(0xFFFF6B9D), // Playful pink
           textColor: Colors.white,
-          appName: 'StreamShaala Junior',
+          appName: 'Crack the Code',
           tagline: 'Learning is fun!',
           titleFontSize: 28,
           taglineFontSize: 16,
         );
 
-      case AppSegment.middle:
+      case AppSegment.crackTheCode:
         return SplashConfig(
           backgroundColor: const Color(0xFF2C3E50), // Dark blue-gray
           primaryColor: const Color(0xFF3498DB), // Bright blue
           secondaryColor: const Color(0xFF2ECC71), // Green
           textColor: Colors.white,
-          appName: 'StreamShaala',
+          appName: 'Crack the Code',
           tagline: 'Your learning companion',
           titleFontSize: 26,
           taglineFontSize: 14,
         );
 
-      case AppSegment.preboard:
+      case AppSegment.crackTheCode:
         return SplashConfig(
           backgroundColor: const Color(0xFF1A1A2E), // Deep navy
           primaryColor: const Color(0xFF6C5CE7), // Purple
           secondaryColor: const Color(0xFF00CEC9), // Teal
           textColor: Colors.white,
-          appName: 'StreamShaala Board Prep',
+          appName: 'Crack the Code',
           tagline: 'Ace your boards',
           titleFontSize: 24,
           taglineFontSize: 14,
         );
 
-      case AppSegment.senior:
+      case AppSegment.crackTheCode:
         return SplashConfig(
           backgroundColor: const Color(0xFF0D1B2A), // Dark navy
           primaryColor: AppTheme.primaryBlue,
           secondaryColor: const Color(0xFF48CAE4), // Light blue
           textColor: Colors.white,
-          appName: 'StreamShaala',
+          appName: 'Crack the Code',
           tagline: 'Master your subjects',
           titleFontSize: 26,
           taglineFontSize: 14,
         );
 
-      case AppSegment.spelling:
+      case AppSegment.crackTheCode:
         return SplashConfig(
           backgroundColor: const Color(0xFF1B5E20), // Deep green
           primaryColor: const Color(0xFF66BB6A), // Green
           secondaryColor: const Color(0xFFFFD54F), // Amber
           textColor: Colors.white,
-          appName: 'SpellShaala',
+          appName: 'Crack the Code',
           tagline: 'Master every word!',
           titleFontSize: 28,
           taglineFontSize: 16,

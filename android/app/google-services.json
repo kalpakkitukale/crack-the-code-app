@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "145909045512",
-    "project_id": "streamshaala",
-    "storage_bucket": "streamshaala.firebasestorage.app"
+    "project_id": "crackthecode",
+    "storage_bucket": "crackthecode.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:145909045512:android:d12d557bbc3bbd5a39f4bd",
         "android_client_info": {
-          "package_name": "com.streamshaala.streamshaala"
+          "package_name": "com.crackthecode.app"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "145909045512-6tu97cfl2r8uv24hvmbh4mkm1cpolbrr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.streamshaala.streamshaala",
+            "package_name": "com.crackthecode.app",
             "certificate_hash": "05da61d9ce11ac601269e2a5cc32fdcb32d5ec9e"
           }
         },
@@ -42,7 +42,7 @@
               "client_id": "145909045512-7vaeke4br4aglg1ibs2ouq62ic38ph51.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.streamshaala.streamshaala"
+                "bundle_id": "com.crackthecode.app"
               }
             }
           ]
@@ -53,7 +53,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:145909045512:android:1bdef4a52f6db41339f4bd",
         "android_client_info": {
-          "package_name": "com.streamshaala.streamshaala.junior"
+          "package_name": "com.crackthecode.app.junior"
         }
       },
       "oauth_client": [
@@ -78,7 +78,7 @@
               "client_id": "145909045512-7vaeke4br4aglg1ibs2ouq62ic38ph51.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.streamshaala.streamshaala"
+                "bundle_id": "com.crackthecode.app"
               }
             }
           ]
@@ -89,7 +89,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:145909045512:android:d12d557bbc3bbd5a39f4bd",
         "android_client_info": {
-          "package_name": "com.streamshaala.streamshaala.spelling"
+          "package_name": "com.crackthecode.app.spelling"
         }
       },
       "oauth_client": [
@@ -97,7 +97,7 @@
           "client_id": "145909045512-6tu97cfl2r8uv24hvmbh4mkm1cpolbrr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.streamshaala.streamshaala",
+            "package_name": "com.crackthecode.app",
             "certificate_hash": "05da61d9ce11ac601269e2a5cc32fdcb32d5ec9e"
           }
         },
@@ -122,7 +122,7 @@
               "client_id": "145909045512-7vaeke4br4aglg1ibs2ouq62ic38ph51.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.streamshaala.streamshaala"
+                "bundle_id": "com.crackthecode.app"
               }
             }
           ]

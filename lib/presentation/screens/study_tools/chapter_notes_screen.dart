@@ -3,13 +3,13 @@ library;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_note.dart';
-import 'package:streamshaala/presentation/providers/study_tools/chapter_notes_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
-import 'package:streamshaala/presentation/screens/study_tools/widgets/note_editor.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_note.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/chapter_notes_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/widgets/note_editor.dart';
 
 /// Chapter Notes Screen
 /// Displays curated and personal notes for a chapter
@@ -29,7 +29,7 @@ class ChapterNotesScreen extends ConsumerWidget {
     final notesAsync = ref.watch(
       chapterNotesProvider(chapterId, subjectId, profileId),
     );
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return Scaffold(
       appBar: AppBar(

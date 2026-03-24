@@ -3,66 +3,66 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/pedagogy/learning_path_context.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/presentation/screens/home/home_screen.dart';
-import 'package:streamshaala/presentation/screens/search/search_screen.dart';
-import 'package:streamshaala/presentation/screens/settings/settings_screen.dart';
-import 'package:streamshaala/presentation/screens/settings/privacy_policy_screen.dart';
-import 'package:streamshaala/presentation/screens/browse/board_screen.dart';
-import 'package:streamshaala/presentation/screens/browse/subject_screen.dart';
-import 'package:streamshaala/presentation/screens/browse/chapter_screen.dart';
-import 'package:streamshaala/presentation/screens/browse/topic_screen.dart';
-import 'package:streamshaala/presentation/screens/video/video_player_screen.dart';
-import 'package:streamshaala/presentation/screens/progress/progress_screen.dart';
-import 'package:streamshaala/presentation/screens/progress/all_subjects_screen.dart';
-import 'package:streamshaala/presentation/screens/progress/all_history_screen.dart';
-import 'package:streamshaala/presentation/screens/bookmarks/bookmarks_screen.dart';
-import 'package:streamshaala/presentation/screens/collections/collections_screen.dart';
-import 'package:streamshaala/presentation/screens/collections/collection_detail_screen.dart';
-import 'package:streamshaala/presentation/screens/library/library_screen.dart';
-import 'package:streamshaala/presentation/screens/practice/practice_screen.dart';
-import 'package:streamshaala/presentation/screens/quiz/quiz_taking_screen.dart';
-import 'package:streamshaala/presentation/screens/quiz/quiz_results_screen.dart';
-import 'package:streamshaala/presentation/screens/quiz/quiz_review_screen.dart';
-import 'package:streamshaala/presentation/screens/quiz/quiz_history_screen.dart';
-import 'package:streamshaala/presentation/screens/quiz/quiz_statistics_screen.dart';
-import 'package:streamshaala/presentation/screens/onboarding/onboarding_screen.dart';
-import 'package:streamshaala/presentation/screens/onboarding/junior_onboarding_screen.dart';
-import 'package:streamshaala/presentation/screens/onboarding/grade_selection_screen.dart';
-import 'package:streamshaala/presentation/screens/settings/parental_controls_screen.dart';
-import 'package:streamshaala/presentation/screens/parent/parent_dashboard_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/pre_assessment_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/foundation_path_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/mastery_dashboard_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/recommendations_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/daily_review_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/concept_map_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/revision_screen.dart';
-import 'package:streamshaala/domain/entities/pedagogy/quiz_recommendation.dart';
-import 'package:streamshaala/presentation/screens/debug/test_recommendations_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/mind_map_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/glossary_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/flashcard_decks_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/flashcard_study_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/chapter_study_hub_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/review_due_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/chapter_summary_screen.dart';
-import 'package:streamshaala/presentation/screens/study_tools/chapter_notes_screen.dart';
-import 'package:streamshaala/presentation/screens/auth/login_screen.dart';
-import 'package:streamshaala/presentation/screens/splash/segment_splash_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/spelling_home_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/spelling_practice_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/spelling_bee_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/word_explorer_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/spelling_progress_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/unscramble_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/fill_in_blank_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/word_match_screen.dart';
-import 'package:streamshaala/presentation/screens/onboarding/spelling_onboarding_screen.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/learning_path_context.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/presentation/screens/home/home_screen.dart';
+import 'package:crack_the_code/presentation/screens/search/search_screen.dart';
+import 'package:crack_the_code/presentation/screens/settings/settings_screen.dart';
+import 'package:crack_the_code/presentation/screens/settings/privacy_policy_screen.dart';
+import 'package:crack_the_code/presentation/screens/browse/board_screen.dart';
+import 'package:crack_the_code/presentation/screens/browse/subject_screen.dart';
+import 'package:crack_the_code/presentation/screens/browse/chapter_screen.dart';
+import 'package:crack_the_code/presentation/screens/browse/topic_screen.dart';
+import 'package:crack_the_code/presentation/screens/video/video_player_screen.dart';
+import 'package:crack_the_code/presentation/screens/progress/progress_screen.dart';
+import 'package:crack_the_code/presentation/screens/progress/all_subjects_screen.dart';
+import 'package:crack_the_code/presentation/screens/progress/all_history_screen.dart';
+import 'package:crack_the_code/presentation/screens/bookmarks/bookmarks_screen.dart';
+import 'package:crack_the_code/presentation/screens/collections/collections_screen.dart';
+import 'package:crack_the_code/presentation/screens/collections/collection_detail_screen.dart';
+import 'package:crack_the_code/presentation/screens/library/library_screen.dart';
+import 'package:crack_the_code/presentation/screens/practice/practice_screen.dart';
+import 'package:crack_the_code/presentation/screens/quiz/quiz_taking_screen.dart';
+import 'package:crack_the_code/presentation/screens/quiz/quiz_results_screen.dart';
+import 'package:crack_the_code/presentation/screens/quiz/quiz_review_screen.dart';
+import 'package:crack_the_code/presentation/screens/quiz/quiz_history_screen.dart';
+import 'package:crack_the_code/presentation/screens/quiz/quiz_statistics_screen.dart';
+import 'package:crack_the_code/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:crack_the_code/presentation/screens/onboarding/junior_onboarding_screen.dart';
+import 'package:crack_the_code/presentation/screens/onboarding/grade_selection_screen.dart';
+import 'package:crack_the_code/presentation/screens/settings/parental_controls_screen.dart';
+import 'package:crack_the_code/presentation/screens/parent/parent_dashboard_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/pre_assessment_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/foundation_path_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/mastery_dashboard_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/recommendations_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/daily_review_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/concept_map_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/revision_screen.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/quiz_recommendation.dart';
+import 'package:crack_the_code/presentation/screens/debug/test_recommendations_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/mind_map_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/glossary_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/flashcard_decks_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/flashcard_study_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/chapter_study_hub_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/review_due_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/chapter_summary_screen.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/chapter_notes_screen.dart';
+import 'package:crack_the_code/presentation/screens/auth/login_screen.dart';
+import 'package:crack_the_code/presentation/screens/splash/segment_splash_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_home_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_practice_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_bee_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/word_explorer_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_progress_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/unscramble_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/fill_in_blank_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/word_match_screen.dart';
+import 'package:crack_the_code/presentation/screens/onboarding/spelling_onboarding_screen.dart';
 
 /// App router configuration using go_router
 class AppRouter {
@@ -149,7 +149,7 @@ class AppRouter {
             ),
           ),
 
-          // Spelling Home route (SpellShaala variant)
+          // Spelling Home route (Crack the Code variant)
           GoRoute(
             path: RouteConstants.spellingHome,
             name: RouteConstants.spellingHomeRoute,
@@ -490,7 +490,7 @@ class AppRouter {
         },
       ),
 
-      // ============ SPELLING ROUTES (SpellShaala) ============
+      // ============ SPELLING ROUTES (Crack the Code) ============
 
       // Spelling Practice route (dictation)
       GoRoute(
@@ -570,10 +570,10 @@ class AppRouter {
         name: 'onboarding',
         builder: (context, state) {
           // Use Junior onboarding for Junior segment
-          if (SegmentConfig.current == AppSegment.junior) {
+          if (SegmentConfig.current == AppSegment.crackTheCode) {
             return const JuniorOnboardingScreen();
           }
-          if (SegmentConfig.current == AppSegment.spelling) {
+          if (SegmentConfig.current == AppSegment.crackTheCode) {
             return SpellingOnboardingScreen(
               onComplete: () {
                 // Navigate to grade selection after onboarding
@@ -780,7 +780,7 @@ class AppRouter {
     // Redirect handler
     redirect: (context, state) async {
       final currentPath = state.uri.toString();
-      final isJunior = SegmentConfig.current == AppSegment.junior;
+      final isJunior = SegmentConfig.current == AppSegment.crackTheCode;
 
       // Don't redirect if on splash screen - let splash handle navigation
       if (currentPath == '/' || currentPath == RouteConstants.splash) {
@@ -831,7 +831,7 @@ class AppRouter {
       }
 
       // For Spelling segment, check if grade selection is complete
-      if (SegmentConfig.isSpelling) {
+      if (SegmentConfig.isCrackTheCode) {
         final hasCompletedGradeSelection =
             prefs.getBool('grade_selection_complete') ?? false;
         if (!hasCompletedGradeSelection) {
@@ -876,7 +876,7 @@ class _ScaffoldWithNavBar extends StatelessWidget {
     final destinations = <NavigationDestination>[];
 
     // Spelling segment has its own navigation layout
-    if (SegmentConfig.isInitialized && SegmentConfig.isSpelling) {
+    if (SegmentConfig.isInitialized && SegmentConfig.isCrackTheCode) {
       return const [
         NavigationDestination(
           icon: Icon(Icons.home_outlined),
@@ -951,7 +951,7 @@ class _ScaffoldWithNavBar extends StatelessWidget {
     final settings = SegmentConfig.settings;
 
     // Spelling segment has custom navigation
-    if (SegmentConfig.isInitialized && SegmentConfig.isSpelling) {
+    if (SegmentConfig.isInitialized && SegmentConfig.isCrackTheCode) {
       if (location.startsWith(RouteConstants.spellingHome)) return 0;
       if (location.startsWith('/word-explorer')) return 1;
       if (location.startsWith('/spelling-practice') || location.startsWith(RouteConstants.practice)) return 2;
@@ -985,7 +985,7 @@ class _ScaffoldWithNavBar extends StatelessWidget {
     final settings = SegmentConfig.settings;
 
     // Spelling segment custom navigation
-    if (SegmentConfig.isInitialized && SegmentConfig.isSpelling) {
+    if (SegmentConfig.isInitialized && SegmentConfig.isCrackTheCode) {
       switch (index) {
         case 0: context.go(RouteConstants.spellingHome); break;
         case 1: context.go('/word-explorer'); break;

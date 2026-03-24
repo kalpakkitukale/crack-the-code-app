@@ -2,7 +2,7 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
 
 import '../../fixtures/quiz_fixtures.dart';
 

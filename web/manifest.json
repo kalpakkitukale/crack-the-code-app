@@ -1,11 +1,11 @@
 {
-    "name": "streamshaala",
-    "short_name": "streamshaala",
+    "name": "Crack the Code",
+    "short_name": "CrackTheCode",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#2196F3",
-    "theme_color": "#2196F3",
-    "description": "A new Flutter project.",
+    "background_color": "#0a0618",
+    "theme_color": "#0a0618",
+    "description": "The Hidden Rules That Make English Easy",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -2,7 +2,7 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
 import 'question.dart';
 
 part 'quiz_session.freezed.dart';

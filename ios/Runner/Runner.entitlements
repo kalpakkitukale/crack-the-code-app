@@ -8,8 +8,8 @@
 	</array>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:streamshaala.firebaseapp.com</string>
-		<string>applinks:streamshaala.page.link</string>
+		<string>applinks:crackthecode.firebaseapp.com</string>
+		<string>applinks:crackthecode.page.link</string>
 	</array>
 </dict>
 </plist>

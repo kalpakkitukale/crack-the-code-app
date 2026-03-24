@@ -2,7 +2,7 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
 
 /// Displays an assessment type badge with color-coded styling
 ///

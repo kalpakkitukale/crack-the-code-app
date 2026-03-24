@@ -9,8 +9,8 @@ import 'dart:math';
 import 'dart:typed_data';
 
 import 'package:cryptography/cryptography.dart';
-import 'package:streamshaala/core/services/secure_storage_service.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/services/secure_storage_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Helper class for encrypting and decrypting sensitive data
 class EncryptionHelper {

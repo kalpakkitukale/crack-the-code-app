@@ -2,13 +2,13 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/preference_dao.dart';
-import 'package:streamshaala/data/models/user/preference_model.dart';
-import 'package:streamshaala/domain/entities/user/user_preference.dart';
-import 'package:streamshaala/domain/repositories/preferences_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/preference_dao.dart';
+import 'package:crack_the_code/data/models/user/preference_model.dart';
+import 'package:crack_the_code/domain/entities/user/user_preference.dart';
+import 'package:crack_the_code/domain/repositories/preferences_repository.dart';
 
 /// Implementation of PreferencesRepository using local database
 class PreferencesRepositoryImpl implements PreferencesRepository {

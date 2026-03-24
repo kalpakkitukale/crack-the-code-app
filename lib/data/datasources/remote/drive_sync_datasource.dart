@@ -2,9 +2,9 @@
 /// Handles syncing user data to/from Google Drive appDataFolder
 library;
 
-import 'package:streamshaala/core/services/google_drive_service.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/models/sync/sync_operation.dart';
+import 'package:crack_the_code/core/services/google_drive_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/models/sync/sync_operation.dart';
 
 /// File names for user data stored in Google Drive
 class DriveFileNames {

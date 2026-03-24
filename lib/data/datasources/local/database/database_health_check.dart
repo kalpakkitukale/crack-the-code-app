@@ -4,9 +4,9 @@
 /// and check for missing columns or indexes.
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
 import 'package:sqflite/sqflite.dart' as sqflite_mobile;
 import 'package:sqflite_common_ffi/sqflite_ffi.dart' as sqflite_desktop;
 

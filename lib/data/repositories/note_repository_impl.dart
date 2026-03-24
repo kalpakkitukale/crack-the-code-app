@@ -4,12 +4,12 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/note_dao.dart';
-import 'package:streamshaala/data/models/user/note_model.dart';
-import 'package:streamshaala/data/repositories/base_repository.dart';
-import 'package:streamshaala/domain/entities/user/note.dart';
-import 'package:streamshaala/domain/repositories/note_repository.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/note_dao.dart';
+import 'package:crack_the_code/data/models/user/note_model.dart';
+import 'package:crack_the_code/data/repositories/base_repository.dart';
+import 'package:crack_the_code/domain/entities/user/note.dart';
+import 'package:crack_the_code/domain/repositories/note_repository.dart';
 
 /// Implementation of NoteRepository using local database
 ///

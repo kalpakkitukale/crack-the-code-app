@@ -1,11 +1,11 @@
 /// LearningPathGenerator - Creates personalized learning paths based on gaps
 library;
 
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/json/concept_json_data_source.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/domain/services/gap_analysis_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/json/concept_json_data_source.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/services/gap_analysis_service.dart';
 
 /// Generates personalized learning paths based on detected gaps
 class LearningPathGenerator {

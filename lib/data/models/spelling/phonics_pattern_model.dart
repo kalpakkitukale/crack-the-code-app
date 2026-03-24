@@ -1,4 +1,4 @@
-import 'package:streamshaala/domain/entities/spelling/phonics_pattern.dart';
+import 'package:crack_the_code/domain/entities/spelling/phonics_pattern.dart';
 
 class PhonicsPatternModel {
   final String id;

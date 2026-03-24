@@ -5,16 +5,16 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/services/content_index.dart';
-import 'package:streamshaala/presentation/providers/study_tools/chapter_study_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
-import 'package:streamshaala/presentation/screens/study_tools/widgets/study_tool_card.dart';
-import 'package:streamshaala/presentation/screens/study_tools/widgets/chapter_progress_card.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/services/content_index.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/chapter_study_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/widgets/study_tool_card.dart';
+import 'package:crack_the_code/presentation/screens/study_tools/widgets/chapter_progress_card.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
 
 /// Chapter Study Hub Screen
 /// Provides central access to all study tools for a chapter
@@ -31,7 +31,7 @@ class ChapterStudyHubScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final statsAsync = ref.watch(chapterStudyStatsProvider(chapterId, subjectId));
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     // Get chapter name from content index
     final contentIndex = ContentIndex();
@@ -312,7 +312,7 @@ class ChapterStudyHubScreen extends ConsumerWidget {
         ),
 
         // Q&A / FAQs
-        if (!SegmentConfig.isJunior)
+        if (!SegmentConfig.isCrackTheCode)
           StudyToolCard(
             icon: Icons.question_answer,
             title: 'Q&A',

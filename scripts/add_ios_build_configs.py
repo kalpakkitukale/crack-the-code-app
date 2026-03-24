@@ -60,8 +60,8 @@ def duplicate_config(content, source_flavor, target_flavor, source_id_prefix, ta
                 new_block = config_block.replace(source_key, target_key)
                 new_block = new_block.replace(f"{config_type.title()}-{source_flavor}", f"{config_type.title()}-{target_flavor}")
                 new_block = new_block.replace(f".{source_flavor}", f".{target_flavor}")
-                new_block = new_block.replace(f"StreamShaala Junior", get_product_name(target_flavor))
-                new_block = new_block.replace(f"streamshaala.junior", f"streamshaala.{target_flavor}")
+                new_block = new_block.replace(f"Crack the Code Junior", get_product_name(target_flavor))
+                new_block = new_block.replace(f"crackthecode.junior", f"crackthecode.{target_flavor}")
 
                 # Replace xcconfig reference
                 new_block = new_block.replace(f"{source_flavor.upper()}_", f"{target_flavor.upper()}_")
@@ -75,12 +75,12 @@ def duplicate_config(content, source_flavor, target_flavor, source_id_prefix, ta
 def get_product_name(flavor):
     """Get the product name for a flavor."""
     names = {
-        'junior': 'StreamShaala Junior',
-        'middle': 'StreamShaala',
-        'preboard': 'StreamShaala Board Prep',
-        'senior': 'StreamShaala'
+        'junior': 'Crack the Code Junior',
+        'middle': 'Crack the Code',
+        'preboard': 'Crack the Code Board Prep',
+        'senior': 'Crack the Code'
     }
-    return names.get(flavor, 'StreamShaala')
+    return names.get(flavor, 'Crack the Code')
 
 def add_to_configuration_lists(content, flavors):
     """Add new configurations to the buildConfigurations lists."""
@@ -113,7 +113,7 @@ def add_to_configuration_lists(content, flavors):
     return content
 
 def main():
-    project_file = Path('/Users/apple/work/StreamShaala/ios/Runner.xcodeproj/project.pbxproj')
+    project_file = Path('/Users/apple/work/Crack the Code/ios/Runner.xcodeproj/project.pbxproj')
 
     if not project_file.exists():
         print(f"Error: {project_file} not found")

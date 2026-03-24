@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_history_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_history_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 /// Recommended Quizzes Section for home screen
 /// Shows quizzes that need practice based on low scores
@@ -15,7 +15,7 @@ class RecommendedQuizzesSection extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final theme = Theme.of(context);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final recentQuizzes = ref.watch(recentQuizzesProvider(20));
 
     return recentQuizzes.when(

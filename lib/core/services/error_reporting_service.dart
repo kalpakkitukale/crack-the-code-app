@@ -6,7 +6,7 @@ library;
 
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/foundation.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Service for reporting errors to Firebase Crashlytics
 class ErrorReportingService {

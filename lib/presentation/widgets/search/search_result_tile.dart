@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/search/search_result.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/search/search_result.dart';
 
 /// A tile widget for displaying search results
 class SearchResultTile extends StatelessWidget {

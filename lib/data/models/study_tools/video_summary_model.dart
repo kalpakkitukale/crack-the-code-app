@@ -2,8 +2,8 @@
 library;
 
 import 'dart:convert';
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_summary.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_summary.dart';
 
 /// Video Summary model for SQLite database
 class VideoSummaryModel {

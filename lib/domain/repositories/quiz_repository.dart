@@ -2,15 +2,15 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_filter.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_statistics.dart';
-import 'package:streamshaala/domain/entities/quiz/subject_statistics.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_filter.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_statistics.dart';
+import 'package:crack_the_code/domain/entities/quiz/subject_statistics.dart';
 
 /// Abstract repository for quiz operations
 abstract class QuizRepository {

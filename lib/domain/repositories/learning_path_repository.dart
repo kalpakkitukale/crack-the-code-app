@@ -2,8 +2,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
 
 /// Abstract repository for managing learning paths
 abstract class LearningPathRepository {

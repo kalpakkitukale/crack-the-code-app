@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
-import 'package:streamshaala/main.dart' as app;
+import 'package:crack_the_code/main.dart' as app;
 
 void main() {
   final binding = IntegrationTestWidgetsFlutterBinding.ensureInitialized();
 
-  group('StreamShaala UI Tests', () {
+  group('Crack the Code UI Tests', () {
     testWidgets('Navigate through app and capture screenshots', (tester) async {
       // Start the app
       app.main();

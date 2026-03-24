@@ -2,8 +2,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/user/user_preference.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/user/user_preference.dart';
 
 /// Repository interface for preferences operations
 abstract class PreferencesRepository {

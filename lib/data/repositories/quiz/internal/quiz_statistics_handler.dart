@@ -2,14 +2,14 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_dao.dart';
-import 'package:streamshaala/data/services/quiz_statistics_calculator.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_statistics.dart';
-import 'package:streamshaala/domain/entities/quiz/subject_statistics.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_dao.dart';
+import 'package:crack_the_code/data/services/quiz_statistics_calculator.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_statistics.dart';
+import 'package:crack_the_code/domain/entities/quiz/subject_statistics.dart';
 
 /// Handler function type for getting attempt history
 typedef GetAttemptHistoryFn = Future<Either<Failure, List<QuizAttempt>>>

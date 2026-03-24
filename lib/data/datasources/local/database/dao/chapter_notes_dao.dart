@@ -3,11 +3,11 @@
 /// Refactored to use BaseDao for platform-abstracted database operations.
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/core/utils/validation_helpers.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/base_dao.dart';
-import 'package:streamshaala/data/models/study_tools/chapter_note_model.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/validation_helpers.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/base_dao.dart';
+import 'package:crack_the_code/data/models/study_tools/chapter_note_model.dart';
 
 /// DAO for chapter_notes table operations
 ///

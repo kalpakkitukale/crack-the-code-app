@@ -4,8 +4,8 @@ library;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/services/secure_storage_service.dart';
-import 'package:streamshaala/presentation/providers/auth/auth_provider.dart';
+import 'package:crack_the_code/core/services/secure_storage_service.dart';
+import 'package:crack_the_code/presentation/providers/auth/auth_provider.dart';
 
 /// Email magic link sign-in form
 class EmailMagicLinkForm extends ConsumerStatefulWidget {

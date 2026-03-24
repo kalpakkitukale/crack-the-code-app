@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/presentation/providers/spelling/word_list_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/presentation/providers/spelling/word_list_provider.dart';
 
 class WordExplorerScreen extends ConsumerStatefulWidget {
   const WordExplorerScreen({super.key});

@@ -2,8 +2,8 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
 
 /// Displays recommendation status with color-coded styling
 class RecommendationStatusBadge extends StatelessWidget {

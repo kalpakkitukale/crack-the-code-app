@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/services/tts_service.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/entities/spelling/word_mastery.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/services/tts_service.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_mastery.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 class WordJournalScreen extends ConsumerStatefulWidget {
   const WordJournalScreen({super.key});

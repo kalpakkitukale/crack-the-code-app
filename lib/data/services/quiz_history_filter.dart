@@ -5,8 +5,8 @@
 /// operations including date range, performance, and sorting.
 library;
 
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_filter.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_filter.dart';
 
 /// Service for filtering and sorting quiz attempt history
 class QuizHistoryFilter {

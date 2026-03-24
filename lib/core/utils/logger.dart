@@ -1,4 +1,4 @@
-/// Logger utility for StreamShaala
+/// Logger utility for Crack the Code
 ///
 /// Provides a centralized logging mechanism with different log levels
 /// and formatted output for better debugging.

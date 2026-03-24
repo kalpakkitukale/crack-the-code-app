@@ -2,8 +2,8 @@
 library;
 
 import 'dart:convert';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
 
 /// Question model for SQLite database
 class QuestionModel {

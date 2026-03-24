@@ -1,11 +1,10 @@
-// Segment-aware Theme Factory
-// Creates theme variations based on the current app segment (Junior, Senior, etc.)
-// Junior themes have larger fonts, bigger touch targets, and more playful colors
+// Theme Factory for Crack the Code
+// Navy (#0a0618) + Gold (#FFD700) brand colors with adaptive sizing
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Abstract base class for segment color palettes
 abstract class SegmentColorPalette {
@@ -29,7 +28,7 @@ class SegmentThemeFactory {
       fontScale: settings.fontScale,
       touchTargetScale: settings.touchTargetScale,
       radiusScale: settings.uiComplexity == UIComplexity.simple ? 1.5 : 1.0,
-      isJunior: SegmentConfig.current == AppSegment.junior || SegmentConfig.current == AppSegment.spelling,
+      isJunior: settings.uiComplexity == UIComplexity.simple,
     );
   }
 
@@ -41,7 +40,7 @@ class SegmentThemeFactory {
       fontScale: settings.fontScale,
       touchTargetScale: settings.touchTargetScale,
       radiusScale: settings.uiComplexity == UIComplexity.simple ? 1.5 : 1.0,
-      isJunior: SegmentConfig.current == AppSegment.junior || SegmentConfig.current == AppSegment.spelling,
+      isJunior: settings.uiComplexity == UIComplexity.simple,
     );
   }
 
@@ -55,10 +54,8 @@ class SegmentThemeFactory {
   }) {
     final isLight = brightness == Brightness.light;
 
-    // Segment-specific colors
-    final bool isSpelling = SegmentConfig.isInitialized && SegmentConfig.isSpelling;
-    final SegmentColorPalette colors =
-        isSpelling ? _SpellingColors() : (isJunior ? _JuniorColors() : _SeniorColors());
+    // Crack the Code brand colors — Navy + Gold
+    final SegmentColorPalette colors = _CrackTheCodeColors();
 
     // Scaled dimensions
     final minTouchTarget = AppTheme.minTouchTarget * touchTargetScale;
@@ -347,9 +344,9 @@ class SegmentThemeFactory {
           isJunior: isJunior,
           fontScale: fontScale,
           touchTargetScale: touchTargetScale,
-          juniorPrimary: _JuniorColors().primary,
-          juniorSecondary: _JuniorColors().secondary,
-          juniorAccent: _JuniorColors().accent,
+          juniorPrimary: _CrackTheCodeColors().primary,
+          juniorSecondary: _CrackTheCodeColors().secondary,
+          juniorAccent: _CrackTheCodeColors().accent,
           celebrationGold: const Color(0xFFFFD700),
           celebrationConfetti: const Color(0xFF9C27B0),
           streakFlame: const Color(0xFFFF6B35),
@@ -473,66 +470,23 @@ class SegmentThemeFactory {
   }
 }
 
-/// Junior-specific color palette (more playful, warm colors)
-class _JuniorColors implements SegmentColorPalette {
+/// Crack the Code brand colors — Navy + Gold
+class _CrackTheCodeColors implements SegmentColorPalette {
   // Light theme colors
   @override
-  final Color primary = const Color(0xFF6366F1); // Indigo - playful but calm
+  final Color primary = const Color(0xFF0a0618); // Navy (brand primary)
   @override
-  final Color secondary = const Color(0xFF22C55E); // Green - encouraging
+  final Color secondary = const Color(0xFFFFD700); // Gold (brand accent)
   @override
-  final Color accent = const Color(0xFFF59E0B); // Amber - warm and inviting
+  final Color accent = const Color(0xFFFF6B35); // Warm orange (energy)
 
   // Dark theme colors
   @override
-  final Color primaryDark = const Color(0xFF818CF8); // Lighter indigo
+  final Color primaryDark = const Color(0xFF2A2845); // Lighter navy for dark theme
   @override
-  final Color secondaryDark = const Color(0xFF4ADE80); // Lighter green
+  final Color secondaryDark = const Color(0xFFFFE082); // Lighter gold
   @override
-  final Color accentDark = const Color(0xFFFBBF24); // Lighter amber
-
-  // Additional Junior colors
-  final Color celebration = const Color(0xFFEC4899); // Pink for celebrations
-  final Color achievement = const Color(0xFFFFD700); // Gold for achievements
-  final Color streak = const Color(0xFFFF6B35); // Orange for streaks
-}
-
-/// SpellShaala-specific color palette (warm, energetic, playful)
-class _SpellingColors implements SegmentColorPalette {
-  // Light theme colors
-  @override
-  final Color primary = const Color(0xFFFF6B35); // Warm orange - energetic
-  @override
-  final Color secondary = const Color(0xFF2EC4B6); // Teal - calming contrast
-  @override
-  final Color accent = const Color(0xFFFFD700); // Gold - achievement
-
-  // Dark theme colors
-  @override
-  final Color primaryDark = const Color(0xFFFF8A65); // Lighter orange
-  @override
-  final Color secondaryDark = const Color(0xFF4DD0C8); // Lighter teal
-  @override
-  final Color accentDark = const Color(0xFFFFE082); // Lighter gold
-}
-
-/// Senior-specific color palette (professional, focused)
-class _SeniorColors implements SegmentColorPalette {
-  // Light theme colors
-  @override
-  final Color primary = AppTheme.primaryBlue;
-  @override
-  final Color secondary = AppTheme.primaryGreen;
-  @override
-  final Color accent = AppTheme.accentColor;
-
-  // Dark theme colors
-  @override
-  final Color primaryDark = AppTheme.darkPrimary;
-  @override
-  final Color secondaryDark = AppTheme.primaryGreen;
-  @override
-  final Color accentDark = AppTheme.accentColor;
+  final Color accentDark = const Color(0xFFFF8A65); // Lighter orange
 }
 
 /// Theme extension for segment-specific values

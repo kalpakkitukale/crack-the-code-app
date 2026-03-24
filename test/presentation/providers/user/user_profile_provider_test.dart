@@ -4,7 +4,7 @@ library;
 import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 
 void main() {
   group('UserProfile', () {

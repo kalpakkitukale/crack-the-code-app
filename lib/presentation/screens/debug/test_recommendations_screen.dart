@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/recommendations_provider.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/recommendations_provider.dart';
 
 /// Debug screen for testing recommendations flow without full quiz
 ///

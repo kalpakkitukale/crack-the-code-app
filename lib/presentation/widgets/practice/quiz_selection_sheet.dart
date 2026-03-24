@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/presentation/providers/content/subject_provider.dart';
-import 'package:streamshaala/presentation/providers/content/chapter_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/presentation/providers/content/subject_provider.dart';
+import 'package:crack_the_code/presentation/providers/content/chapter_provider.dart';
 
 /// Quiz type selection for filtering
 enum QuizSelectionType {
@@ -35,7 +35,7 @@ class _QuizSelectionSheetState extends ConsumerState<QuizSelectionSheet> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final subjectState = ref.watch(subjectProvider);
 
     return Column(
@@ -188,7 +188,7 @@ class _QuizSelectionSheetState extends ConsumerState<QuizSelectionSheet> {
   Widget _buildSubjectSection(BuildContext context, dynamic subject) {
     final theme = Theme.of(context);
     final isExpanded = _expandedSubjectId == subject.id;
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     // Get subject color or use a default
     Color subjectColor;
@@ -288,7 +288,7 @@ class _QuizSelectionSheetState extends ConsumerState<QuizSelectionSheet> {
   Widget _buildChaptersList(BuildContext context, String subjectId, Color subjectColor) {
     final theme = Theme.of(context);
     final chapterState = ref.watch(chapterProvider);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     if (chapterState.isLoading) {
       return const Padding(
@@ -376,7 +376,7 @@ class _QuizSelectionSheetState extends ConsumerState<QuizSelectionSheet> {
 
   Widget _buildEmptyState(BuildContext context) {
     final theme = Theme.of(context);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return Center(
       child: Padding(

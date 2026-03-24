@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Widget to display when there's no data to show
 class EmptyStateWidget extends StatelessWidget {

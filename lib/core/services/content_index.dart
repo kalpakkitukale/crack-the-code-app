@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/content/board.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/entities/content/subject.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/content/board.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/entities/content/subject.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
 
 /// High-performance content index for O(1) lookups
 /// Maintains in-memory indexes for fast access to content relationships

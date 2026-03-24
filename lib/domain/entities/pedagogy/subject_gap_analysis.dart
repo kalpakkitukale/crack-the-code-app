@@ -2,8 +2,8 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
 
 part 'subject_gap_analysis.freezed.dart';
 part 'subject_gap_analysis.g.dart';

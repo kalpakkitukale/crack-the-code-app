@@ -2,12 +2,12 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/data/repositories/collection_repository_impl.dart';
-import 'package:streamshaala/domain/entities/user/collection.dart';
-import 'package:streamshaala/domain/entities/user/collection_video.dart';
-import 'package:streamshaala/data/models/user/collection_model.dart';
-import 'package:streamshaala/data/models/user/collection_video_model.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/data/repositories/collection_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/user/collection.dart';
+import 'package:crack_the_code/domain/entities/user/collection_video.dart';
+import 'package:crack_the_code/data/models/user/collection_model.dart';
+import 'package:crack_the_code/data/models/user/collection_video_model.dart';
 import '../../mocks/mock_use_cases.dart';
 
 void main() {

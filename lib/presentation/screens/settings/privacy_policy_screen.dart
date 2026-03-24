@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Privacy Policy Screen
 /// Displays the app's privacy policy
@@ -35,7 +35,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
               context,
               title: 'Introduction',
               content:
-                  'StreamShaala ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.',
+                  'Crack the Code ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.',
             ),
 
             // Information We Collect
@@ -43,7 +43,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
               context,
               title: 'Information We Collect',
               content:
-                  'StreamShaala is designed with privacy in mind. We collect minimal information necessary to provide you with a great learning experience:\n\n'
+                  'Crack the Code is designed with privacy in mind. We collect minimal information necessary to provide you with a great learning experience:\n\n'
                   '• Local Progress Data: Your video watch history, quiz attempts, and progress are stored locally on your device only.\n'
                   '• App Usage: We may collect anonymous usage statistics to improve the app (e.g., crash reports, feature usage).\n'
                   '• No Personal Information: We do not collect, store, or transmit personal information such as your name, email, or contact details.',
@@ -79,7 +79,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
               context,
               title: 'Third-Party Services',
               content:
-                  'StreamShaala uses YouTube\'s API Services to display educational videos. When you watch videos through our app:\n\n'
+                  'Crack the Code uses YouTube\'s API Services to display educational videos. When you watch videos through our app:\n\n'
                   '• You are subject to YouTube\'s Terms of Service and Privacy Policy\n'
                   '• Video playback may send data to YouTube/Google\n'
                   '• We do not control or have access to data collected by YouTube\n\n'
@@ -102,7 +102,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
               context,
               title: 'Children\'s Privacy',
               content:
-                  'StreamShaala is designed for students of all ages. We do not knowingly collect personal information from children. All data is stored locally on the device, and no personal information is transmitted to our servers.',
+                  'Crack the Code is designed for students of all ages. We do not knowingly collect personal information from children. All data is stored locally on the device, and no personal information is transmitted to our servers.',
             ),
 
             // Changes to This Policy
@@ -119,7 +119,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
               title: 'Contact Us',
               content:
                   'If you have any questions about this Privacy Policy, please contact us at:\n\n'
-                  'Email: support@streamshaala.app',
+                  'Email: support@crackthecode.app',
             ),
 
             const SizedBox(height: AppTheme.spacingXl),

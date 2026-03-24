@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/cards/subject_card.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/domain/entities/subject_progress.dart' as entities;
-import 'package:streamshaala/presentation/providers/user/subject_progress_provider.dart';
-import 'package:streamshaala/presentation/widgets/skeletons/subject_card_skeleton.dart';
-import 'package:streamshaala/core/utils/ui_enhancements.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/cards/subject_card.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/domain/entities/subject_progress.dart' as entities;
+import 'package:crack_the_code/presentation/providers/user/subject_progress_provider.dart';
+import 'package:crack_the_code/presentation/widgets/skeletons/subject_card_skeleton.dart';
+import 'package:crack_the_code/core/utils/ui_enhancements.dart';
 
 /// Subject Progress Widget
 /// Shows progress for each subject with real data from the database

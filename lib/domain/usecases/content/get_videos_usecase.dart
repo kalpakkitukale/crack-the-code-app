@@ -2,10 +2,10 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
-import 'package:streamshaala/domain/usecases/base/base_usecase.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/domain/usecases/base/base_usecase.dart';
 
 /// Parameters for GetVideosUseCase
 class GetVideosParams {

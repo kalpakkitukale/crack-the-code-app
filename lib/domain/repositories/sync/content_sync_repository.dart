@@ -3,8 +3,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/config/remote_content_config.dart';
-import 'package:streamshaala/core/errors/failures.dart';
+import 'package:crack_the_code/core/config/remote_content_config.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
 
 /// Repository interface for content synchronization
 abstract class ContentSyncRepository {

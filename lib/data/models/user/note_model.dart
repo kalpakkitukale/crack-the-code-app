@@ -1,8 +1,8 @@
 /// Note data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/user/note.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/user/note.dart';
 
 /// Note model for SQLite database
 class NoteModel {

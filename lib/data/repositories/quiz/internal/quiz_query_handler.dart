@@ -2,11 +2,11 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_dao.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_dao.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
 
 /// Handles quiz query operations (getQuizByEntityId, getQuizzesByLevel, etc.)
 class QuizQueryHandler {

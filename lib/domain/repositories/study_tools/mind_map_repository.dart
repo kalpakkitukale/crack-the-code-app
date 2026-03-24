@@ -2,8 +2,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/study_tools/mind_map_node.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/study_tools/mind_map_node.dart';
 
 /// Repository interface for mind map operations
 abstract class MindMapRepository {

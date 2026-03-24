@@ -4,10 +4,10 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/domain/repositories/learning_path_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/repositories/learning_path_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Node completion status
 class NodeCompletionStatus {

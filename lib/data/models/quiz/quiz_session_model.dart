@@ -2,8 +2,8 @@
 library;
 
 import 'dart:convert';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
 
 /// QuizSession model for SQLite database
 class QuizSessionModel {

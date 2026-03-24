@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/domain/entities/pedagogy/pre_assessment.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/pre_assessment_provider.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/pre_assessment.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/pre_assessment_provider.dart';
 
 /// Pre-Assessment Screen - Subject-level diagnostic assessment
 class PreAssessmentScreen extends ConsumerStatefulWidget {

@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Centralized service for managing video metadata across platforms
 /// Ensures consistent video information and efficient caching

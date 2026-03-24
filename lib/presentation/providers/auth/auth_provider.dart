@@ -3,12 +3,12 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/repositories/auth_repository_impl.dart';
-import 'package:streamshaala/domain/entities/auth/auth_user.dart';
-import 'package:streamshaala/domain/repositories/auth_repository.dart';
-import 'package:streamshaala/presentation/providers/auth/auth_state.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/repositories/auth_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/auth/auth_user.dart';
+import 'package:crack_the_code/domain/repositories/auth_repository.dart';
+import 'package:crack_the_code/presentation/providers/auth/auth_state.dart';
 
 /// Auth repository provider
 final authRepositoryProvider = Provider<AuthRepository>((ref) {

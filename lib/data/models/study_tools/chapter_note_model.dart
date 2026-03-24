@@ -3,8 +3,8 @@ library;
 
 import 'dart:convert';
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_note.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_note.dart';
 
 /// Model class for ChapterNote with database and JSON conversion
 class ChapterNoteModel {

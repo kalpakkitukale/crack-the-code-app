@@ -2,7 +2,7 @@
 library;
 
 import 'package:json_annotation/json_annotation.dart';
-import 'package:streamshaala/domain/entities/content/topic.dart';
+import 'package:crack_the_code/domain/entities/content/topic.dart';
 
 part 'topic_model.g.dart';
 

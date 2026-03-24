@@ -2,7 +2,7 @@
 library;
 
 import 'package:json_annotation/json_annotation.dart';
-import 'package:streamshaala/domain/entities/content/stream.dart' as entity;
+import 'package:crack_the_code/domain/entities/content/stream.dart' as entity;
 
 part 'stream_model.g.dart';
 

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/widgets/cards/video_card.dart';
-import 'package:streamshaala/core/widgets/error/error_state_widget.dart';
-import 'package:streamshaala/core/widgets/empty/empty_state_widget.dart';
-import 'package:streamshaala/presentation/providers/user/bookmark_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/widgets/cards/video_card.dart';
+import 'package:crack_the_code/core/widgets/error/error_state_widget.dart';
+import 'package:crack_the_code/core/widgets/empty/empty_state_widget.dart';
+import 'package:crack_the_code/presentation/providers/user/bookmark_provider.dart';
 
 /// Library Screen (Middle & Senior segments)
 /// Consolidated view of Bookmarks, Notes, and Collections
@@ -85,7 +85,7 @@ class _LibraryScreenState extends ConsumerState<LibraryScreen>
       title: Text(
         'My Library',
         style: TextStyle(
-          fontSize: SegmentConfig.isJunior ? 22 : 20,
+          fontSize: SegmentConfig.isCrackTheCode ? 22 : 20,
           fontWeight: FontWeight.bold,
         ),
       ),
@@ -99,7 +99,7 @@ class _LibraryScreenState extends ConsumerState<LibraryScreen>
           },
           icon: Icon(_isGridView ? Icons.view_list : Icons.grid_view),
           tooltip: _isGridView ? 'List View' : 'Grid View',
-          iconSize: SegmentConfig.isJunior ? 28 : 24,
+          iconSize: SegmentConfig.isCrackTheCode ? 28 : 24,
         ),
       ],
       bottom: TabBar(

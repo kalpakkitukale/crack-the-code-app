@@ -2,9 +2,9 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/pedagogy/quiz_recommendation.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/quiz_recommendation.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
 
 part 'recommendations_history.freezed.dart';
 part 'recommendations_history.g.dart';

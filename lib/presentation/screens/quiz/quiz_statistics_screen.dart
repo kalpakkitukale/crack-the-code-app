@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/utils/semantic_colors.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_statistics.dart';
-import 'package:streamshaala/domain/entities/quiz/subject_statistics.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_history_provider.dart';
-import 'package:streamshaala/presentation/widgets/quiz/achievement_badge.dart';
-import 'package:streamshaala/presentation/widgets/quiz/empty_quiz_state.dart';
-import 'package:streamshaala/presentation/widgets/quiz/performance_chart.dart';
-import 'package:streamshaala/presentation/widgets/quiz/quiz_stat_card.dart';
-import 'package:streamshaala/presentation/widgets/quiz/subject_breakdown_card.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/utils/semantic_colors.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_statistics.dart';
+import 'package:crack_the_code/domain/entities/quiz/subject_statistics.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_history_provider.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/achievement_badge.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/empty_quiz_state.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/performance_chart.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/quiz_stat_card.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/subject_breakdown_card.dart';
 
 /// QuizStatisticsScreen - Comprehensive quiz statistics dashboard
 ///

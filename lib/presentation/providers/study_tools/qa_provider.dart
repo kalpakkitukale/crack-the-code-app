@@ -2,12 +2,12 @@
 library;
 
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/video_qa_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/data/repositories/study_tools/qa_repository_impl.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_question.dart';
-import 'package:streamshaala/domain/repositories/study_tools/qa_repository.dart';
-import 'package:streamshaala/presentation/providers/study_tools/study_tools_json_provider.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/video_qa_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/data/repositories/study_tools/qa_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_question.dart';
+import 'package:crack_the_code/domain/repositories/study_tools/qa_repository.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/study_tools_json_provider.dart';
 
 part 'qa_provider.g.dart';
 

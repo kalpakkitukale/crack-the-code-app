@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:io' show Platform;
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Native platform implementation of YouTube player
 /// Uses flutter_inappwebview for Android, iOS, and macOS
@@ -33,7 +33,7 @@ class _PlatformYoutubePlayerImplState extends State<PlatformYoutubePlayerImpl> {
   bool _playerReady = false;
 
   /// HTTP Referer header to comply with YouTube's embed policy
-  String get _refererHeader => 'https://com.streamshaala.streamshaala';
+  String get _refererHeader => 'https://com.crackthecode.app';
 
   /// Custom HTML page with YouTube IFrame API properly integrated
   String get _youtubePlayerHtml {

@@ -4,14 +4,14 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/pedagogy/pre_assessment.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/domain/services/gap_analysis_service.dart';
-import 'package:streamshaala/domain/services/learning_path_generator.dart';
-import 'package:streamshaala/domain/services/pre_assessment_service.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/pre_assessment.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/services/gap_analysis_service.dart';
+import 'package:crack_the_code/domain/services/learning_path_generator.dart';
+import 'package:crack_the_code/domain/services/pre_assessment_service.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Pre-Assessment state
 class PreAssessmentState {

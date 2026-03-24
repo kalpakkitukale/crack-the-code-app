@@ -4,8 +4,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 
 /// Grade Selection Screen for Junior segment
 class GradeSelectionScreen extends ConsumerStatefulWidget {

@@ -3,11 +3,11 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/user/collection.dart';
-import 'package:streamshaala/domain/entities/user/collection_video.dart';
-import 'package:streamshaala/domain/repositories/collection_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/user/collection.dart';
+import 'package:crack_the_code/domain/entities/user/collection_video.dart';
+import 'package:crack_the_code/domain/repositories/collection_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 import 'package:uuid/uuid.dart';
 
 /// Provider for collection repository access

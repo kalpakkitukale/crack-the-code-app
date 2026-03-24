@@ -8,11 +8,11 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/presentation/providers/auth/auth_provider.dart';
-import 'package:streamshaala/presentation/screens/auth/widgets/google_sign_in_button.dart';
-import 'package:streamshaala/presentation/screens/auth/widgets/apple_sign_in_button.dart';
-import 'package:streamshaala/presentation/screens/auth/widgets/email_magic_link_form.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/presentation/providers/auth/auth_provider.dart';
+import 'package:crack_the_code/presentation/screens/auth/widgets/google_sign_in_button.dart';
+import 'package:crack_the_code/presentation/screens/auth/widgets/apple_sign_in_button.dart';
+import 'package:crack_the_code/presentation/screens/auth/widgets/email_magic_link_form.dart';
 
 /// Login screen with multiple authentication options
 class LoginScreen extends ConsumerStatefulWidget {
@@ -28,7 +28,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
   @override
   Widget build(BuildContext context) {
     final authState = ref.watch(authNotifierProvider);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final theme = Theme.of(context);
 
     // Listen for auth errors

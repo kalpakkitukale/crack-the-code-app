@@ -2,9 +2,9 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/domain/services/spelling_bee_service.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_bee_round.dart';
+import 'package:crack_the_code/domain/services/spelling_bee_service.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_bee_round.dart';
 
 void main() {
   late SpellingBeeService service;

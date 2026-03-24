@@ -4,16 +4,16 @@ library;
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/constants/asset_constants.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/models/study_tools/flashcard_deck_model.dart';
-import 'package:streamshaala/data/models/study_tools/flashcard_model.dart';
-import 'package:streamshaala/data/models/study_tools/glossary_term_model.dart';
-import 'package:streamshaala/data/models/study_tools/mind_map_node_model.dart';
-import 'package:streamshaala/data/models/study_tools/video_question_model.dart';
-import 'package:streamshaala/data/models/study_tools/video_summary_model.dart';
-import 'package:streamshaala/data/models/study_tools/chapter_summary_model.dart';
-import 'package:streamshaala/data/models/study_tools/chapter_note_model.dart';
+import 'package:crack_the_code/core/constants/asset_constants.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/models/study_tools/flashcard_deck_model.dart';
+import 'package:crack_the_code/data/models/study_tools/flashcard_model.dart';
+import 'package:crack_the_code/data/models/study_tools/glossary_term_model.dart';
+import 'package:crack_the_code/data/models/study_tools/mind_map_node_model.dart';
+import 'package:crack_the_code/data/models/study_tools/video_question_model.dart';
+import 'package:crack_the_code/data/models/study_tools/video_summary_model.dart';
+import 'package:crack_the_code/data/models/study_tools/chapter_summary_model.dart';
+import 'package:crack_the_code/data/models/study_tools/chapter_note_model.dart';
 
 /// Data source for reading study tools JSON content files
 class StudyToolsJsonDataSource {

@@ -4,7 +4,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 /// Junior onboarding page data model

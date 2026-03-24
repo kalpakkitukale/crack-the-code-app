@@ -2,15 +2,15 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/data/repositories/content_repository_impl.dart';
-import 'package:streamshaala/data/models/content/board_model.dart';
-import 'package:streamshaala/data/models/content/class_model.dart';
-import 'package:streamshaala/data/models/content/stream_model.dart';
-import 'package:streamshaala/data/models/content/subject_model.dart';
-import 'package:streamshaala/data/models/content/chapter_model.dart';
-import 'package:streamshaala/data/models/content/topic_model.dart';
-import 'package:streamshaala/data/models/content/video_model.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
+import 'package:crack_the_code/data/repositories/content_repository_impl.dart';
+import 'package:crack_the_code/data/models/content/board_model.dart';
+import 'package:crack_the_code/data/models/content/class_model.dart';
+import 'package:crack_the_code/data/models/content/stream_model.dart';
+import 'package:crack_the_code/data/models/content/subject_model.dart';
+import 'package:crack_the_code/data/models/content/chapter_model.dart';
+import 'package:crack_the_code/data/models/content/topic_model.dart';
+import 'package:crack_the_code/data/models/content/video_model.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
 import '../../mocks/mock_use_cases.dart';
 
 void main() {

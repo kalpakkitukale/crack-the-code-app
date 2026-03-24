@@ -3,9 +3,9 @@
 /// Refactored to use BaseDao for platform-abstracted database operations.
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/base_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/spaced_repetition_model.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/base_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/spaced_repetition_model.dart';
 
 /// DAO for spaced_repetition table operations
 ///

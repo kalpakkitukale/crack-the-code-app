@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/empty/empty_state_widget.dart';
-import 'package:streamshaala/core/utils/debouncer.dart';
-import 'package:streamshaala/domain/entities/search/search_result.dart';
-import 'package:streamshaala/presentation/providers/content/search_provider.dart';
-import 'package:streamshaala/presentation/widgets/search/search_suggestion_tile.dart';
-import 'package:streamshaala/presentation/widgets/search/search_result_tile.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/empty/empty_state_widget.dart';
+import 'package:crack_the_code/core/utils/debouncer.dart';
+import 'package:crack_the_code/domain/entities/search/search_result.dart';
+import 'package:crack_the_code/presentation/providers/content/search_provider.dart';
+import 'package:crack_the_code/presentation/widgets/search/search_suggestion_tile.dart';
+import 'package:crack_the_code/presentation/widgets/search/search_result_tile.dart';
 
 /// Search screen for finding subjects, chapters, topics, and videos
 class SearchScreen extends ConsumerStatefulWidget {

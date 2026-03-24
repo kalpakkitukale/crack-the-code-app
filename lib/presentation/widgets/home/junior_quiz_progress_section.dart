@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_history_provider.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_history_provider.dart';
 
 /// Kid-friendly quiz progress section for Junior home screen
 /// Shows quiz stats, recent attempts, and encourages quiz taking

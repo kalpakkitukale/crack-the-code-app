@@ -2,7 +2,7 @@
 library;
 
 import 'package:json_annotation/json_annotation.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
 
 part 'video_model.g.dart';
 

@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'package:crypto/crypto.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/content/board.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/entities/content/subject.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/content/board.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/entities/content/subject.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
 
 /// Validates content consistency across platforms
 /// Ensures all platforms have the same content structure and data

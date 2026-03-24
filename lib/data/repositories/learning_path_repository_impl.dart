@@ -10,13 +10,13 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/learning_path_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/recommendations_history_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/learning_path_model.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/domain/repositories/learning_path_repository.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/learning_path_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/recommendations_history_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/learning_path_model.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/repositories/learning_path_repository.dart';
 
 /// Concrete implementation of LearningPathRepository
 class LearningPathRepositoryImpl implements LearningPathRepository {

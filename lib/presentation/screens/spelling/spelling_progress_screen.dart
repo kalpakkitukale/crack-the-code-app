@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/presentation/providers/spelling/spelling_statistics_provider.dart';
+import 'package:crack_the_code/presentation/providers/spelling/spelling_statistics_provider.dart';
 
 class SpellingProgressScreen extends ConsumerStatefulWidget {
   const SpellingProgressScreen({super.key});

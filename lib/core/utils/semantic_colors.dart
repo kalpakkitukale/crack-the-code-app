@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
 
 /// Centralized semantic color utilities for consistent theming across the app.
 ///

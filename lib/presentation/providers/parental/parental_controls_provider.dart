@@ -7,9 +7,9 @@ import 'dart:math';
 import 'package:crypto/crypto.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/services/secure_storage_service.dart';
-import 'package:streamshaala/domain/entities/parental/parental_settings.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/services/secure_storage_service.dart';
+import 'package:crack_the_code/domain/entities/parental/parental_settings.dart';
 
 /// Result of PIN verification attempt
 enum PinVerificationResult {

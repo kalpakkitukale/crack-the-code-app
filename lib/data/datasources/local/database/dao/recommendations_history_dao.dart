@@ -5,12 +5,12 @@ library;
 
 import 'dart:convert';
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/base_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/recommendations_history_model.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/base_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/recommendations_history_model.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
 
 /// DAO for recommendations_history table operations
 ///

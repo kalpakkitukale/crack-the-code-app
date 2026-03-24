@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/presentation/providers/gamification/gamification_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/providers/gamification/gamification_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 
 /// @Deprecated('Use userProfileProvider for name and gamificationProvider for streak instead')
 /// Simple user info provider - DEPRECATED

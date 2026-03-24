@@ -1,32 +1,32 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
-import 'package:streamshaala/presentation/providers/content/board_provider.dart';
-import 'package:streamshaala/presentation/providers/content/subject_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/welcome_header.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/continue_watching_section.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/subjects_grid_section.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/recent_videos_section.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/quick_stats_section.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/quiz_quick_access_section.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/daily_challenge_card.dart';
-import 'package:streamshaala/presentation/screens/home/widgets/study_zone_section.dart';
-import 'package:streamshaala/presentation/widgets/home/continue_path_card.dart';
-import 'package:streamshaala/presentation/widgets/home/junior_quiz_progress_section.dart';
-import 'package:streamshaala/presentation/widgets/home/recommended_quizzes_section.dart';
-import 'package:streamshaala/presentation/widgets/parental/screen_time_overlay.dart';
-import 'package:streamshaala/presentation/providers/gamification/gamification_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
-import 'package:streamshaala/core/widgets/profile_switcher.dart';
-import 'package:streamshaala/presentation/screens/settings/profile_management_screen.dart';
-import 'package:streamshaala/presentation/screens/spelling/spelling_home_screen.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/presentation/providers/content/board_provider.dart';
+import 'package:crack_the_code/presentation/providers/content/subject_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/welcome_header.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/continue_watching_section.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/subjects_grid_section.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/recent_videos_section.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/quick_stats_section.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/quiz_quick_access_section.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/daily_challenge_card.dart';
+import 'package:crack_the_code/presentation/screens/home/widgets/study_zone_section.dart';
+import 'package:crack_the_code/presentation/widgets/home/continue_path_card.dart';
+import 'package:crack_the_code/presentation/widgets/home/junior_quiz_progress_section.dart';
+import 'package:crack_the_code/presentation/widgets/home/recommended_quizzes_section.dart';
+import 'package:crack_the_code/presentation/widgets/parental/screen_time_overlay.dart';
+import 'package:crack_the_code/presentation/providers/gamification/gamification_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/widgets/profile_switcher.dart';
+import 'package:crack_the_code/presentation/screens/settings/profile_management_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_home_screen.dart';
 
 /// Home Dashboard Screen
 /// Displays welcome header, continue watching, subjects grid, and recent videos
@@ -61,7 +61,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     // Load subjects only if not already loaded
     final subjectState = ref.read(subjectProvider);
     if (subjectState.subjects.isEmpty && !subjectState.isLoading) {
-      if (SegmentConfig.isJunior) {
+      if (SegmentConfig.isCrackTheCode) {
         // For Junior, load based on user's selected grade
         final userState = ref.read(userProfileProvider);
         final grade = userState.profile.grade ?? settings.minGrade;
@@ -87,7 +87,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     }
 
     // Load gamification data for Junior segment only if not loaded
-    if (SegmentConfig.isJunior) {
+    if (SegmentConfig.isCrackTheCode) {
       final gamificationState = ref.read(gamificationProvider);
       if (gamificationState.studentData == null && !gamificationState.isLoading) {
         final studentId = ref.read(effectiveUserIdProvider);
@@ -100,7 +100,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     // For spelling segment, show the spelling home screen
-    if (SegmentConfig.isSpelling) {
+    if (SegmentConfig.isCrackTheCode) {
       return const SpellingHomeScreen();
     }
 
@@ -140,7 +140,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 ),
                 sliver: SliverList(
                   delegate: SliverChildListDelegate(
-                    SegmentConfig.isJunior
+                    SegmentConfig.isCrackTheCode
                         ? _buildJuniorMobileContent()
                         : _buildSeniorMobileContent(),
                   ),
@@ -151,7 +151,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         ),
       ),
       // DEBUG: Floating action button (only for non-Junior)
-      floatingActionButton: !SegmentConfig.isJunior
+      floatingActionButton: !SegmentConfig.isCrackTheCode
           ? FloatingActionButton.extended(
               onPressed: () => context.push('/debug/test-recommendations'),
               icon: const Icon(Icons.science),
@@ -284,7 +284,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 ),
                 sliver: SliverList(
                   delegate: SliverChildListDelegate(
-                    SegmentConfig.isJunior
+                    SegmentConfig.isCrackTheCode
                         ? _buildJuniorTabletContent()
                         : _buildSeniorTabletContent(),
                   ),
@@ -388,7 +388,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                       constraints: const BoxConstraints(maxWidth: 1400),
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
-                        children: SegmentConfig.isJunior
+                        children: SegmentConfig.isCrackTheCode
                             ? _buildJuniorDesktopContent()
                             : _buildSeniorDesktopContent(),
                       ),
@@ -489,14 +489,14 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     return SliverAppBar(
       floating: true,
       snap: true,
-      toolbarHeight: SegmentConfig.isJunior ? 64 : 56,
+      toolbarHeight: SegmentConfig.isCrackTheCode ? 64 : 56,
       title: Row(
         mainAxisSize: MainAxisSize.min,
         children: [
           Icon(
-            SegmentConfig.isJunior ? Icons.rocket_launch : Icons.school,
+            SegmentConfig.isCrackTheCode ? Icons.rocket_launch : Icons.school,
             color: context.colorScheme.primary,
-            size: SegmentConfig.isJunior ? 28 : 24,
+            size: SegmentConfig.isCrackTheCode ? 28 : 24,
           ),
           const SizedBox(width: 8),
           Flexible(
@@ -505,7 +505,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               style: context.textTheme.titleLarge?.copyWith(
                 fontWeight: FontWeight.bold,
                 color: context.colorScheme.primary,
-                fontSize: SegmentConfig.isJunior ? 22 : 20,
+                fontSize: SegmentConfig.isCrackTheCode ? 22 : 20,
               ),
               overflow: TextOverflow.ellipsis,
             ),
@@ -525,7 +525,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           onPressed: () => context.go(RouteConstants.bookmarks),
           icon: const Icon(Icons.bookmark_border),
           tooltip: 'Bookmarks',
-          iconSize: SegmentConfig.isJunior ? 28 : 24,
+          iconSize: SegmentConfig.isCrackTheCode ? 28 : 24,
         ),
 
         // Settings
@@ -533,11 +533,11 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           onPressed: () => context.push(RouteConstants.settings),
           icon: const Icon(Icons.settings_outlined),
           tooltip: 'Settings',
-          iconSize: SegmentConfig.isJunior ? 28 : 24,
+          iconSize: SegmentConfig.isCrackTheCode ? 28 : 24,
         ),
 
         // Profile Switcher (Junior only)
-        if (SegmentConfig.isJunior) ...[
+        if (SegmentConfig.isCrackTheCode) ...[
           const SizedBox(width: 4),
           ProfileSwitcherButton(
             size: 36,

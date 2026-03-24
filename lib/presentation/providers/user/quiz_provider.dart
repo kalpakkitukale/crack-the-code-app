@@ -4,23 +4,23 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_filter.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_statistics.dart';
-import 'package:streamshaala/domain/entities/quiz/subject_statistics.dart';
-import 'package:streamshaala/domain/repositories/quiz_repository.dart';
-import 'package:streamshaala/domain/usecases/quiz/complete_quiz_usecase.dart';
-import 'package:streamshaala/domain/usecases/quiz/get_active_session_usecase.dart';
-import 'package:streamshaala/domain/usecases/quiz/get_quiz_history_usecase.dart';
-import 'package:streamshaala/domain/usecases/quiz/load_quiz_usecase.dart';
-import 'package:streamshaala/domain/usecases/quiz/resume_session_usecase.dart';
-import 'package:streamshaala/domain/usecases/quiz/submit_answer_usecase.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_filter.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_statistics.dart';
+import 'package:crack_the_code/domain/entities/quiz/subject_statistics.dart';
+import 'package:crack_the_code/domain/repositories/quiz_repository.dart';
+import 'package:crack_the_code/domain/usecases/quiz/complete_quiz_usecase.dart';
+import 'package:crack_the_code/domain/usecases/quiz/get_active_session_usecase.dart';
+import 'package:crack_the_code/domain/usecases/quiz/get_quiz_history_usecase.dart';
+import 'package:crack_the_code/domain/usecases/quiz/load_quiz_usecase.dart';
+import 'package:crack_the_code/domain/usecases/quiz/resume_session_usecase.dart';
+import 'package:crack_the_code/domain/usecases/quiz/submit_answer_usecase.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Quiz state class
 class QuizState {

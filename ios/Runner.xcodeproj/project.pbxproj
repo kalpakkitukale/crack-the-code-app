@@ -572,7 +572,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -589,7 +589,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -607,7 +607,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
@@ -623,7 +623,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Runner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Runner";
@@ -758,7 +758,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -780,7 +780,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -860,7 +860,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.junior;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.junior;
 				PRODUCT_NAME = "StreamShaala Junior";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -878,7 +878,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.junior.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.junior.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -959,7 +959,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.middle;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.middle;
 				PRODUCT_NAME = StreamShaala;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -977,7 +977,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.middle.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.middle.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1058,7 +1058,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.preboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.preboard;
 				PRODUCT_NAME = "StreamShaala Board Prep";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1076,7 +1076,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.preboard.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.preboard.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1157,7 +1157,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app;
 				PRODUCT_NAME = StreamShaala;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1175,7 +1175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1251,7 +1251,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.junior;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.junior;
 				PRODUCT_NAME = "StreamShaala Junior";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1268,7 +1268,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.junior.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.junior.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala Junior.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala Junior";
@@ -1342,7 +1342,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.middle;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.middle;
 				PRODUCT_NAME = StreamShaala;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1359,7 +1359,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.middle.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.middle.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala";
@@ -1433,7 +1433,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.preboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.preboard;
 				PRODUCT_NAME = "StreamShaala Board Prep";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1450,7 +1450,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.preboard.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.preboard.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala Board Prep.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala Board Prep";
@@ -1524,7 +1524,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app;
 				PRODUCT_NAME = StreamShaala;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1541,7 +1541,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala";
@@ -1617,7 +1617,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.junior;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.junior;
 				PRODUCT_NAME = "StreamShaala Junior";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1634,7 +1634,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.junior.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.junior.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala Junior.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala Junior";
@@ -1710,7 +1710,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.middle;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.middle;
 				PRODUCT_NAME = StreamShaala;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1727,7 +1727,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.middle.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.middle.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala";
@@ -1803,7 +1803,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.preboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.preboard;
 				PRODUCT_NAME = "StreamShaala Board Prep";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1820,7 +1820,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.preboard.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.preboard.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala Board Prep.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala Board Prep";
@@ -1896,7 +1896,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app;
 				PRODUCT_NAME = StreamShaala;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1913,7 +1913,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.streamshaala.streamshaala.RunnerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.crackthecode.app.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamShaala.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreamShaala";

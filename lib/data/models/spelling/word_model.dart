@@ -1,4 +1,4 @@
-import 'package:streamshaala/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
 
 class WordModel {
   final String id;

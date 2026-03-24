@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/utils/semantic_colors.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/utils/semantic_colors.dart';
 
 /// SubjectBreakdownCard - Subject performance breakdown card
 ///

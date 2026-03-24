@@ -9,11 +9,11 @@ import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart' as sqflite_mobile;
 import 'package:sqflite_common_ffi/sqflite_ffi.dart' as sqflite_desktop;
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/spelling_attempt_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/word_mastery_dao.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/spelling_attempt_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/word_mastery_dao.dart';
 import 'package:universal_platform/universal_platform.dart';
 
 /// Database helper class for managing SQLite database operations
@@ -128,7 +128,7 @@ class DatabaseHelper {
   /// Get database path for desktop platforms
   Future<String> _getDesktopDatabasePath() async {
     final Directory appDocDir = await getApplicationDocumentsDirectory();
-    final String dbDir = join(appDocDir.path, 'streamshaala');
+    final String dbDir = join(appDocDir.path, 'crackthecode');
 
     // Create directory if it doesn't exist
     final dir = Directory(dbDir);

@@ -3,9 +3,9 @@ library;
 
 import 'dart:convert';
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_summary.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_summary.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_summary.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_summary.dart';
 
 /// Model class for ChapterSummary with database and JSON conversion
 class ChapterSummaryModel {

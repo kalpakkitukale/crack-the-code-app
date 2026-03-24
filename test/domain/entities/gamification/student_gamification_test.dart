@@ -2,7 +2,7 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/domain/entities/gamification/student_gamification.dart';
+import 'package:crack_the_code/domain/entities/gamification/student_gamification.dart';
 
 void main() {
   group('StudentGamification', () {

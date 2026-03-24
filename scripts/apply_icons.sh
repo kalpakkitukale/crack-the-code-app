@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Script to apply launcher icons for all StreamShaala segments
+# Script to apply launcher icons for all Crack the Code segments
 # Each segment gets its own unique icon
 
 set -e
 
-echo "🚀 Applying launcher icons for all StreamShaala segments..."
+echo "🚀 Applying launcher icons for all Crack the Code segments..."
 echo ""
 
 # Array of segments

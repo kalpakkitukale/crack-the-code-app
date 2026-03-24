@@ -2,8 +2,8 @@
 library;
 
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/data/datasources/json/study_tools_json_datasource.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/data/datasources/json/study_tools_json_datasource.dart';
 
 part 'study_tools_json_provider.g.dart';
 

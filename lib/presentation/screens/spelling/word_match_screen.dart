@@ -1,9 +1,9 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/services/tts_service.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/presentation/providers/spelling/word_list_provider.dart';
+import 'package:crack_the_code/core/services/tts_service.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/presentation/providers/spelling/word_list_provider.dart';
 
 class WordMatchScreen extends ConsumerStatefulWidget {
   final String wordListId;

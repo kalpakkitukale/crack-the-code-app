@@ -5,12 +5,12 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:just_audio/just_audio.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/services/audio_player_service.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/domain/entities/study_tools/glossary_term.dart';
-import 'package:streamshaala/presentation/providers/study_tools/glossary_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/services/audio_player_service.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/domain/entities/study_tools/glossary_term.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/glossary_provider.dart';
 
 /// Glossary Screen
 /// Displays searchable glossary terms for a chapter
@@ -39,7 +39,7 @@ class _GlossaryScreenState extends ConsumerState<GlossaryScreen> {
   @override
   Widget build(BuildContext context) {
     final termsAsync = ref.watch(glossaryNotifierProvider(widget.chapterId));
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return Scaffold(
       appBar: AppBar(

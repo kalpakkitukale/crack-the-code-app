@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:graphview/GraphView.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/extensions/collection_extensions.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/mastery_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/extensions/collection_extensions.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/mastery_provider.dart';
 
 /// Concept Map Screen
 /// Visual representation of concept relationships and mastery
@@ -37,7 +37,7 @@ class _ConceptMapScreenState extends ConsumerState<ConceptMapScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final masteryState = ref.watch(masteryProvider);
 
     return Scaffold(

@@ -1,15 +1,15 @@
 import 'dart:math';
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/data/datasources/json/spelling_json_datasource.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/spelling_attempt_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/word_mastery_dao.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/entities/spelling/word_list.dart';
-import 'package:streamshaala/domain/entities/spelling/word_mastery.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_attempt.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_statistics.dart';
-import 'package:streamshaala/domain/entities/spelling/phonics_pattern.dart';
-import 'package:streamshaala/domain/repositories/spelling_repository.dart';
+import 'package:crack_the_code/data/datasources/json/spelling_json_datasource.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/spelling_attempt_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/word_mastery_dao.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_list.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_mastery.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_attempt.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_statistics.dart';
+import 'package:crack_the_code/domain/entities/spelling/phonics_pattern.dart';
+import 'package:crack_the_code/domain/repositories/spelling_repository.dart';
 
 class SpellingRepositoryImpl implements SpellingRepository {
   final SpellingJsonDataSource jsonDataSource;

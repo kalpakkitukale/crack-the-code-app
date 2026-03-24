@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/services/tts_service.dart';
-import 'package:streamshaala/presentation/providers/spelling/spelling_bee_provider.dart';
+import 'package:crack_the_code/core/services/tts_service.dart';
+import 'package:crack_the_code/presentation/providers/spelling/spelling_bee_provider.dart';
 
 class SpellingBeeScreen extends ConsumerStatefulWidget {
   final int gradeLevel;

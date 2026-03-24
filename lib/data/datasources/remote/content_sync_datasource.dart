@@ -6,9 +6,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:path_provider/path_provider.dart';
-import 'package:streamshaala/core/config/remote_content_config.dart';
-import 'package:streamshaala/core/services/secure_http_client.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/config/remote_content_config.dart';
+import 'package:crack_the_code/core/services/secure_http_client.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Datasource for fetching and caching content from R2
 class ContentSyncDatasource {

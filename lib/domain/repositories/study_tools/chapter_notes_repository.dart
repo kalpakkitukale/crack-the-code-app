@@ -2,8 +2,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_note.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_note.dart';
 
 /// Repository interface for chapter notes operations
 abstract class ChapterNotesRepository {

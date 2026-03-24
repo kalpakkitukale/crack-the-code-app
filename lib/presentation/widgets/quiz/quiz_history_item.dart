@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/extensions/datetime_extensions.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/utils/semantic_colors.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/presentation/widgets/quiz/assessment_type_badge.dart';
-import 'package:streamshaala/presentation/widgets/quiz/quiz_breadcrumb.dart';
-import 'package:streamshaala/presentation/widgets/quiz/recommendations_indicator.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/extensions/datetime_extensions.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/utils/semantic_colors.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/assessment_type_badge.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/quiz_breadcrumb.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/recommendations_indicator.dart';
 
 /// QuizHistoryItem - Individual quiz history list item
 ///

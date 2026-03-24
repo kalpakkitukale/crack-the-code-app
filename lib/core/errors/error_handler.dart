@@ -7,8 +7,8 @@ library;
 import 'dart:async';
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Error handler for standardized error management
 class ErrorHandler {

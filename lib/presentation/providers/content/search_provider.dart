@@ -1,10 +1,10 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/services/search_keywords_service.dart';
-import 'package:streamshaala/domain/entities/search/search_result.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/services/search_keywords_service.dart';
+import 'package:crack_the_code/domain/entities/search/search_result.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Search Provider
 /// Manages search functionality with autocomplete suggestions and keyword-based results

@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/data/models/spelling/word_model.dart';
-import 'package:streamshaala/data/models/spelling/word_list_model.dart';
-import 'package:streamshaala/data/models/spelling/phonics_pattern_model.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/data/models/spelling/word_model.dart';
+import 'package:crack_the_code/data/models/spelling/word_list_model.dart';
+import 'package:crack_the_code/data/models/spelling/phonics_pattern_model.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Data source for loading spelling content from JSON asset files
 class SpellingJsonDataSource {

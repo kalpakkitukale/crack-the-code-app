@@ -2,10 +2,10 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/data/repositories/progress_repository_impl.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
-import 'package:streamshaala/domain/repositories/progress_repository.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
+import 'package:crack_the_code/data/repositories/progress_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
+import 'package:crack_the_code/domain/repositories/progress_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
 import '../../mocks/mock_use_cases.dart';
 
 void main() {

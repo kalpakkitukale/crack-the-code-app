@@ -3,11 +3,11 @@ library;
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
-import 'package:streamshaala/domain/usecases/content/get_chapters_usecase.dart';
-import 'package:streamshaala/presentation/providers/content/chapter_provider.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/domain/usecases/content/get_chapters_usecase.dart';
+import 'package:crack_the_code/presentation/providers/content/chapter_provider.dart';
 
 void main() {
   group('ChapterState', () {

@@ -1,16 +1,16 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/content/board.dart';
-import 'package:streamshaala/domain/entities/content/subject.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
-import 'package:streamshaala/domain/repositories/progress_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/core/platform/platform_consistency_manager.dart';
-import 'package:streamshaala/presentation/providers/user/subject_progress_provider.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/content/board.dart';
+import 'package:crack_the_code/domain/entities/content/subject.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/domain/repositories/progress_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/platform/platform_consistency_manager.dart';
+import 'package:crack_the_code/presentation/providers/user/subject_progress_provider.dart';
 
 /// Provider for content repository access
 final contentRepositoryProvider = Provider<ContentRepository>((ref) {

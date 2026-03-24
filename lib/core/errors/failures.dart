@@ -1,4 +1,4 @@
-/// Failure classes for error handling in StreamShaala
+/// Failure classes for error handling in Crack the Code
 ///
 /// Failures represent errors that occurred during operations.
 /// They are used in the repository layer to return Either<Failure, Success>

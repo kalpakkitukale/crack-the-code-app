@@ -3,12 +3,12 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/config/remote_content_config.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/services/connectivity_service.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/remote/content_sync_datasource.dart';
-import 'package:streamshaala/domain/repositories/sync/content_sync_repository.dart';
+import 'package:crack_the_code/core/config/remote_content_config.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/services/connectivity_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/remote/content_sync_datasource.dart';
+import 'package:crack_the_code/domain/repositories/sync/content_sync_repository.dart';
 
 /// Implementation of content sync repository
 class ContentSyncRepositoryImpl implements ContentSyncRepository {

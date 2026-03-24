@@ -5,7 +5,7 @@ library;
 
 import 'package:dartz/dartz.dart';
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/errors/failures.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
 
 /// Repository interface for learning path metrics
 abstract class PathMetricsRepository {

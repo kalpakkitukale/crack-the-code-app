@@ -1,10 +1,10 @@
 /// Manual test script to verify recommendations system
 /// Run with: dart run test_recommendations_manual.dart
 
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/usecases/pedagogy/generate_quiz_recommendations_usecase.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/usecases/pedagogy/generate_quiz_recommendations_usecase.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
 
 void main() async {
   print('🧪 Testing Recommendations System...\n');

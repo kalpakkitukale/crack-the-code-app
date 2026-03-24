@@ -12,7 +12,7 @@ import 'dart:async';
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Configuration for the secure HTTP client
 class SecureHttpConfig {
@@ -39,7 +39,7 @@ class SecureHttpConfig {
     this.readTimeout = const Duration(seconds: 60),
     this.maxResponseSize = 10 * 1024 * 1024, // 10MB
     this.minRequestInterval = const Duration(milliseconds: 100),
-    this.userAgent = 'StreamShaala/1.0',
+    this.userAgent = 'Crack the Code/1.0',
     this.allowedDomains,
   });
 
@@ -50,8 +50,8 @@ class SecureHttpConfig {
     maxResponseSize: 50 * 1024 * 1024, // 50MB for content
     minRequestInterval: Duration(milliseconds: 50),
     allowedDomains: [
-      'content.streamshaala.com',
-      'streamshaala.com',
+      'content.crackthecode.app',
+      'crackthecode.app',
     ],
   );
 

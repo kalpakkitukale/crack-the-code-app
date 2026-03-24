@@ -1,35 +1,18 @@
 import 'package:flutter/foundation.dart';
 
-// Segment Configuration for StreamShaala Multi-Variant Architecture
+// Segment Configuration for Crack the Code
 //
-// This is the SINGLE SOURCE OF TRUTH for all segment-specific behavior.
-// Each app variant (Junior, Middle, PreBoard, Senior) has its own settings
-// defined here, controlling UI, features, content, and behavior.
+// Single app with adaptive experience based on user's age level.
+// The app detects age/level and adjusts UI, difficulty, and content.
 //
 // Usage:
-//   // In main_junior.dart
-//   SegmentConfig.initialize(AppSegment.junior);
-//
-//   // Anywhere in the app
+//   SegmentConfig.initialize(AppSegment.crackTheCode);
 //   final settings = SegmentConfig.settings;
-//   if (settings.showParentalControls) { ... }
 
-/// App segment types
+/// App segment types — single product, adaptive experience
 enum AppSegment {
-  /// Grades 1-7 (Elementary) - Ages 6-12
-  junior,
-
-  /// Grades 7-9 (Middle School) - Ages 12-14
-  middle,
-
-  /// Grade 10 (Board Exam Prep) - Age 15
-  preboard,
-
-  /// Grades 11-12 (Senior Secondary) - Ages 16-18
-  senior,
-
-  /// English Spelling Learning - Ages 5-14
-  spelling,
+  /// Crack the Code — English Spelling Learning for all ages (2-14+)
+  crackTheCode,
 }
 
 /// UI complexity levels for different age groups
@@ -60,7 +43,7 @@ enum GamificationIntensity {
 class SegmentConfig {
   SegmentConfig._();
 
-  static AppSegment _current = AppSegment.senior;
+  static AppSegment _current = AppSegment.crackTheCode;
   static bool _initialized = false;
 
   /// Initialize the segment configuration
@@ -96,20 +79,8 @@ class SegmentConfig {
     return _settingsMap[segment]!;
   }
 
-  /// Check if current segment is Junior
-  static bool get isJunior => _current == AppSegment.junior;
-
-  /// Check if current segment is Middle
-  static bool get isMiddle => _current == AppSegment.middle;
-
-  /// Check if current segment is PreBoard
-  static bool get isPreBoard => _current == AppSegment.preboard;
-
-  /// Check if current segment is Senior
-  static bool get isSenior => _current == AppSegment.senior;
-
-  /// Check if current segment is Spelling
-  static bool get isSpelling => _current == AppSegment.spelling;
+  /// Check if current segment is Crack the Code (always true now)
+  static bool get isCrackTheCode => _current == AppSegment.crackTheCode;
 
   /// Check if current segment requires parental controls
   static bool get requiresParentalControls => settings.showParentalControls;
@@ -124,366 +95,38 @@ class SegmentConfig {
     );
   }
 
-  /// Settings for each segment
+  /// Settings for Crack the Code — single adaptive app
   static const Map<AppSegment, SegmentSettings> _settingsMap = {
     // ═══════════════════════════════════════════════════════════════════════
-    // JUNIOR (Grades 1-7) - Elementary Students
+    // CRACK THE CODE — English Spelling for All Ages
+    // UI adapts based on user's selected age level at first launch
     // ═══════════════════════════════════════════════════════════════════════
-    AppSegment.junior: SegmentSettings(
+    AppSegment.crackTheCode: SegmentSettings(
       // Identity
-      appName: 'StreamShaala Junior',
-      appDescription: 'Fun learning for young minds',
-      segmentId: 'junior',
+      appName: 'Crack the Code',
+      appDescription: 'The Hidden Rules That Make English Easy',
+      segmentId: 'crackthecode',
 
-      // Grade Range
+      // Age Range (all ages)
       minGrade: 1,
-      maxGrade: 7,
-      gradePrefix: 'Grade', // "Grade 4" vs "Class 12"
+      maxGrade: 14,
+      gradePrefix: 'Level',
 
       // Content
-      contentPath: 'assets/data/boards/cbse_elementary.json',
-      showStreams: false, // No PCM/PCB/Commerce for elementary
-      showBoards: false, // Assume CBSE for now
-      defaultBoardId: 'cbse_elementary',
-
-      // UI Configuration
-      uiComplexity: UIComplexity.simple,
-      fontScale: 1.25, // 25% larger text
-      touchTargetScale: 1.2, // 20% larger buttons
-      borderRadiusScale: 1.5, // Rounder corners (friendlier)
-      iconScale: 1.2, // Larger icons
-
-      // Navigation
-      bottomNavItemCount: 3, // Home, Search, Progress
-      showSearchInBottomNav: true,
-      showLibraryInBottomNav: false,
-      showPracticeInBottomNav: false,
-      simplifiedBrowseHierarchy: true, // Subject → Chapter → Video
-
-      // Features
-      showParentalControls: true,
-      showScreenTimeControls: true,
-      showDailyChallenge: true,
-      showCharacterAvatar: true,
-      showDetailedStats: false, // Too complex for kids
-      showConceptCharts: false, // Too complex for kids
-
-      // Gamification
-      gamificationIntensity: GamificationIntensity.high,
-      showXpProminently: true,
-      showBadgesOnHome: true,
-      showStreakBanner: true,
-      celebrationAnimationDuration: 2500, // Longer celebrations
-      xpMultiplier: 1.5, // More XP to feel rewarding
-
-      // Quiz Settings
-      defaultQuizQuestionCount: 5,
-      maxQuizQuestionCount: 10,
-      defaultQuizTimeSeconds: 600, // 10 minutes
-      quizPassingScore: 0.6, // 60% to pass
-      showQuizTimer: true,
-      timerDisplayFormat: TimerDisplayFormat.friendly, // "5 minutes left"
-      showHintsProminently: true,
-      maxHintsPerQuestion: 2,
-      simplifiedQuizResults: true, // Stars instead of charts
-
-      // Video Settings
-      defaultVideoSpeed: 1.0,
-      maxVideoSpeed: 1.5, // Limit max speed for kids
-      showRelatedVideosFromSameGrade: true,
-
-      // Theme
-      useBrightColors: true,
-      primaryColorHex: '#4A90E2', // Friendly blue
-      accentColorHex: '#7ED321', // Cheerful green
-
-      // Onboarding
-      onboardingPageCount: 3,
-      showBoardSelection: false,
-      showStreamSelection: false,
-      showGradeSelection: true,
-      onboardingButtonText: "Let's Go!",
-
-      // Database
-      databaseName: 'streamshaala_junior.db',
-
-      // Learning Materials (Junior-specific)
-      showQASection: false, // Q&A hidden for young learners
-      enableRichTextNotes: false, // Simple text notes only
-      showFlashcardAnimations: true, // Fun animations for engagement
-      showGlossaryAudio: true, // Audio pronunciation for vocabulary
-      showGlossaryImages: true, // Visual aids for young learners
-      summaryStyle: 'visual', // Visual bullets with icons
-      enableSpacedRepetition: false, // Keep it simple
-    ),
-
-    // ═══════════════════════════════════════════════════════════════════════
-    // MIDDLE (Grades 7-9) - Middle School Students
-    // ═══════════════════════════════════════════════════════════════════════
-    AppSegment.middle: SegmentSettings(
-      appName: 'StreamShaala',
-      appDescription: 'Smart learning for growing minds',
-      segmentId: 'middle',
-
-      minGrade: 7,
-      maxGrade: 9,
-      gradePrefix: 'Grade',
-
-      contentPath: 'assets/data/boards/cbse_middle.json',
-      showStreams: false,
-      showBoards: false,
-      defaultBoardId: 'cbse',
-
-      uiComplexity: UIComplexity.moderate,
-      fontScale: 1.15,
-      touchTargetScale: 1.1,
-      borderRadiusScale: 1.25,
-      iconScale: 1.1,
-
-      bottomNavItemCount: 4, // Home, Search, Library, Progress
-      showSearchInBottomNav: true,
-      showLibraryInBottomNav: true,
-      showPracticeInBottomNav: false,
-      simplifiedBrowseHierarchy: true,
-
-      showParentalControls: false,
-      showScreenTimeControls: false,
-      showDailyChallenge: true,
-      showCharacterAvatar: false,
-      showDetailedStats: true,
-      showConceptCharts: true,
-
-      gamificationIntensity: GamificationIntensity.medium,
-      showXpProminently: true,
-      showBadgesOnHome: true,
-      showStreakBanner: true,
-      celebrationAnimationDuration: 2000,
-      xpMultiplier: 1.25,
-
-      defaultQuizQuestionCount: 10,
-      maxQuizQuestionCount: 15,
-      defaultQuizTimeSeconds: 900, // 15 minutes
-      quizPassingScore: 0.65,
-      showQuizTimer: true,
-      timerDisplayFormat: TimerDisplayFormat.standard, // "15:00"
-      showHintsProminently: true,
-      maxHintsPerQuestion: 2,
-      simplifiedQuizResults: false,
-
-      defaultVideoSpeed: 1.0,
-      maxVideoSpeed: 1.75,
-      showRelatedVideosFromSameGrade: true,
-
-      useBrightColors: false,
-      primaryColorHex: '#2196F3',
-      accentColorHex: '#4CAF50',
-
-      onboardingPageCount: 4,
-      showBoardSelection: false,
-      showStreamSelection: false,
-      showGradeSelection: true,
-      onboardingButtonText: 'Get Started',
-
-      databaseName: 'streamshaala_middle.db',
-
-      // Learning Materials (Middle-specific)
-      showQASection: true, // Read-only Q&A access
-      enableRichTextNotes: false, // Basic formatting
-      showFlashcardAnimations: false, // Standard flashcards
-      showGlossaryAudio: false, // Standard glossary
-      showGlossaryImages: false, // Standard glossary
-      summaryStyle: 'standard', // Standard bullet points
-      enableSpacedRepetition: false, // Not yet
-    ),
-
-    // ═══════════════════════════════════════════════════════════════════════
-    // PREBOARD (Grade 10) - Board Exam Preparation
-    // ═══════════════════════════════════════════════════════════════════════
-    AppSegment.preboard: SegmentSettings(
-      appName: 'StreamShaala Board Prep',
-      appDescription: 'Excel in your board exams',
-      segmentId: 'preboard',
-
-      minGrade: 10,
-      maxGrade: 10,
-      gradePrefix: 'Class',
-
-      contentPath: 'assets/data/boards/cbse_grade10.json',
-      showStreams: false,
-      showBoards: true, // CBSE, ICSE options
-      defaultBoardId: 'cbse',
-
-      uiComplexity: UIComplexity.advanced,
-      fontScale: 1.0,
-      touchTargetScale: 1.0,
-      borderRadiusScale: 1.0,
-      iconScale: 1.0,
-
-      bottomNavItemCount: 4, // Home, Search, Practice, Progress
-      showSearchInBottomNav: true,
-      showLibraryInBottomNav: false,
-      showPracticeInBottomNav: true,
-      simplifiedBrowseHierarchy: false,
-
-      showParentalControls: false,
-      showScreenTimeControls: false,
-      showDailyChallenge: true,
-      showCharacterAvatar: false,
-      showDetailedStats: true,
-      showConceptCharts: true,
-
-      gamificationIntensity: GamificationIntensity.low,
-      showXpProminently: false,
-      showBadgesOnHome: false,
-      showStreakBanner: true,
-      celebrationAnimationDuration: 1500,
-      xpMultiplier: 1.0,
-
-      defaultQuizQuestionCount: 20,
-      maxQuizQuestionCount: 30,
-      defaultQuizTimeSeconds: 1800, // 30 minutes
-      quizPassingScore: 0.7,
-      showQuizTimer: true,
-      timerDisplayFormat: TimerDisplayFormat.standard,
-      showHintsProminently: false,
-      maxHintsPerQuestion: 1,
-      simplifiedQuizResults: false,
-
-      defaultVideoSpeed: 1.0,
-      maxVideoSpeed: 2.0,
-      showRelatedVideosFromSameGrade: true,
-
-      useBrightColors: false,
-      primaryColorHex: '#1976D2',
-      accentColorHex: '#388E3C',
-
-      onboardingPageCount: 4,
-      showBoardSelection: true,
-      showStreamSelection: false,
-      showGradeSelection: false, // Only Grade 10
-      onboardingButtonText: 'Start Preparing',
-
-      databaseName: 'streamshaala_preboard.db',
-
-      // Learning Materials (PreBoard-specific)
-      showQASection: true, // Full Q&A access
-      enableRichTextNotes: true, // Rich text with export
-      showFlashcardAnimations: false, // Exam-focused flashcards
-      showGlossaryAudio: false, // Standard glossary
-      showGlossaryImages: false, // Standard glossary
-      summaryStyle: 'exam', // Exam-focused summaries
-      enableSpacedRepetition: true, // Help retention for exams
-    ),
-
-    // ═══════════════════════════════════════════════════════════════════════
-    // SENIOR (Grades 11-12) - Current Production App
-    // ═══════════════════════════════════════════════════════════════════════
-    AppSegment.senior: SegmentSettings(
-      appName: 'StreamShaala',
-      appDescription:
-          'Multi-platform educational video aggregator for Indian students',
-      segmentId: 'senior',
-
-      minGrade: 11,
-      maxGrade: 12,
-      gradePrefix: 'Class',
-
-      contentPath: 'assets/data/boards/cbse.json',
-      showStreams: true, // PCM, PCB, Commerce, Arts
-      showBoards: true,
-      defaultBoardId: 'cbse',
-
-      uiComplexity: UIComplexity.advanced,
-      fontScale: 1.0,
-      touchTargetScale: 1.0,
-      borderRadiusScale: 1.0,
-      iconScale: 1.0,
-
-      bottomNavItemCount: 4, // Home, Search, Library, Progress
-      showSearchInBottomNav: true,
-      showLibraryInBottomNav: true,
-      showPracticeInBottomNav: false,
-      simplifiedBrowseHierarchy: false,
-
-      showParentalControls: false,
-      showScreenTimeControls: false,
-      showDailyChallenge: true,
-      showCharacterAvatar: false,
-      showDetailedStats: true,
-      showConceptCharts: true,
-
-      gamificationIntensity: GamificationIntensity.low,
-      showXpProminently: false,
-      showBadgesOnHome: false,
-      showStreakBanner: true,
-      celebrationAnimationDuration: 1500,
-      xpMultiplier: 1.0,
-
-      defaultQuizQuestionCount: 20,
-      maxQuizQuestionCount: 30,
-      defaultQuizTimeSeconds: 1500, // 25 minutes
-      quizPassingScore: 0.7,
-      showQuizTimer: true,
-      timerDisplayFormat: TimerDisplayFormat.standard,
-      showHintsProminently: false,
-      maxHintsPerQuestion: 1,
-      simplifiedQuizResults: false,
-
-      defaultVideoSpeed: 1.0,
-      maxVideoSpeed: 2.0,
-      showRelatedVideosFromSameGrade: false, // Show all related
-
-      useBrightColors: false,
-      primaryColorHex: '#2196F3',
-      accentColorHex: '#4CAF50',
-
-      onboardingPageCount: 4,
-      showBoardSelection: true,
-      showStreamSelection: true,
-      showGradeSelection: true,
-      onboardingButtonText: 'Get Started',
-
-      databaseName: 'streamshaala.db', // Keep existing for migration
-
-      // Learning Materials (Senior-specific)
-      showQASection: true, // Full Q&A access
-      enableRichTextNotes: true, // Full rich text with export
-      showFlashcardAnimations: false, // No animations, focus on content
-      showGlossaryAudio: false, // Standard glossary
-      showGlossaryImages: false, // Standard glossary, technical terms
-      summaryStyle: 'detailed', // Detailed summaries with formulas
-      enableSpacedRepetition: true, // SM-2 algorithm for retention
-    ),
-
-    // ═══════════════════════════════════════════════════════════════════════
-    // SPELLING (Grades 1-8) - English Spelling Learning
-    // ═══════════════════════════════════════════════════════════════════════
-    AppSegment.spelling: SegmentSettings(
-      // Identity
-      appName: 'SpellShaala',
-      appDescription: 'Master English spelling with fun activities',
-      segmentId: 'spelling',
-
-      // Grade Range
-      minGrade: 1,
-      maxGrade: 8,
-      gradePrefix: 'Grade',
-
-      // Content
-      contentPath: 'assets/data/boards/english_spelling.json',
+      contentPath: 'assets/data/english_spelling.json',
       showStreams: false,
       showBoards: false,
       defaultBoardId: 'english_spelling',
 
-      // UI Configuration
+      // UI Configuration — adaptive, starts kid-friendly
       uiComplexity: UIComplexity.simple,
-      fontScale: 1.2,
-      touchTargetScale: 1.15,
+      fontScale: 1.15,
+      touchTargetScale: 1.1,
       borderRadiusScale: 1.3,
-      iconScale: 1.15,
+      iconScale: 1.1,
 
       // Navigation
-      bottomNavItemCount: 4, // Home, Explorer, Practice, Progress
+      bottomNavItemCount: 4, // Home, Explore, Practice, Progress
       showSearchInBottomNav: false,
       showLibraryInBottomNav: false,
       showPracticeInBottomNav: true,
@@ -494,10 +137,10 @@ class SegmentConfig {
       showScreenTimeControls: true,
       showDailyChallenge: true,
       showCharacterAvatar: true,
-      showDetailedStats: false,
+      showDetailedStats: true,
       showConceptCharts: false,
 
-      // Gamification
+      // Gamification — high for engagement
       gamificationIntensity: GamificationIntensity.high,
       showXpProminently: true,
       showBadgesOnHome: true,
@@ -521,20 +164,20 @@ class SegmentConfig {
       maxVideoSpeed: 1.5,
       showRelatedVideosFromSameGrade: true,
 
-      // Theme
+      // Theme — Navy + Gold (Crack the Code brand)
       useBrightColors: true,
-      primaryColorHex: '#FF6B35', // Warm orange - energetic
-      accentColorHex: '#2EC4B6', // Teal - calming contrast
+      primaryColorHex: '#0a0618', // Navy
+      accentColorHex: '#FFD700', // Gold
 
       // Onboarding
       onboardingPageCount: 4,
       showBoardSelection: false,
       showStreamSelection: false,
-      showGradeSelection: true,
-      onboardingButtonText: "Let's Spell!",
+      showGradeSelection: true, // Age level selection
+      onboardingButtonText: "Let's Crack the Code!",
 
       // Database
-      databaseName: 'spellshaala.db',
+      databaseName: 'crackthecode.db',
 
       // Learning Materials
       showQASection: false,
@@ -545,18 +188,18 @@ class SegmentConfig {
       summaryStyle: 'visual',
       enableSpacedRepetition: true,
 
-      // Spelling-specific
+      // Spelling features
       showWordOfTheDay: true,
       showSpellingBee: true,
       showPhonicsPatterns: true,
       showWordJournal: true,
       enableDictation: true,
-      enableSpeechRecognition: false, // Future
-      enableHandwriting: false, // Future
-      enableWritingExercises: false, // Future
+      enableSpeechRecognition: false,
+      enableHandwriting: false,
+      enableWritingExercises: false,
       dailyWordGoal: 5,
       spellingBeeRounds: 5,
-      showEtymology: false, // Too complex for young learners by default
+      showEtymology: false,
       showMnemonics: true,
     ),
   };

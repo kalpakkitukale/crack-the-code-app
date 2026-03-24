@@ -2,9 +2,9 @@
 library;
 
 import 'dart:math';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/spaced_repetition_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/spaced_repetition_model.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/spaced_repetition_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/spaced_repetition_model.dart';
 
 /// Service for spaced repetition scheduling
 /// Implements SM-2 inspired algorithm running entirely on device

@@ -2,9 +2,9 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
-import 'package:streamshaala/presentation/widgets/quiz/recommendation_status_badge.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/recommendation_status_badge.dart';
 
 /// Displays a summary indicator for available recommendations
 class RecommendationsIndicator extends StatelessWidget {

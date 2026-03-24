@@ -2,11 +2,11 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/services/tts_service.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_attempt.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/services/spelling_checker_service.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/services/tts_service.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_attempt.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/services/spelling_checker_service.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 class ReviewDueSpellingScreen extends ConsumerStatefulWidget {
   const ReviewDueSpellingScreen({super.key});

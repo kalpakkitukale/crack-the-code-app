@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// A visual indicator widget that displays the current assessment type context.
 ///

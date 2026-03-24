@@ -4,7 +4,7 @@ import 'package:crypto/crypto.dart';
 import 'package:flutter/foundation.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Manages platform consistency across iOS, Android, and other platforms
 /// Ensures all platforms use the same data sources and state management
@@ -91,7 +91,7 @@ class PlatformConsistencyManager {
       final cacheFiles = cacheDir.listSync();
 
       for (final file in cacheFiles) {
-        if (file.path.contains('streamshaala_cache')) {
+        if (file.path.contains('crackthecode_cache')) {
           await file.delete(recursive: true);
           logger.debug('Cleared cache: ${file.path}');
         }

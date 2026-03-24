@@ -6,8 +6,8 @@ import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:uuid/uuid.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
 
 /// Keys for storing user profile data
 class _ProfileKeys {
@@ -488,7 +488,7 @@ final userProfileProvider =
     StateNotifierProvider<UserProfileNotifier, UserProfileState>(
   (ref) => UserProfileNotifier(
     onProfileIdChanged: (profileId) {
-      if (SegmentConfig.isJunior) {
+      if (SegmentConfig.isCrackTheCode) {
         injectionContainer.setActiveProfileId(profileId);
       }
     },

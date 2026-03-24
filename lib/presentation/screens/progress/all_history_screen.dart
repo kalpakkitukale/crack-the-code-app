@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/presentation/screens/progress/widgets/watch_history.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/presentation/screens/progress/widgets/watch_history.dart';
 
 /// All Watch History Screen
 /// Shows complete watch history without limits

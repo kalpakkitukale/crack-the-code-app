@@ -2,10 +2,10 @@
 // Filters content based on parental control settings for Junior segment
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/domain/entities/parental/parental_settings.dart';
-import 'package:streamshaala/presentation/providers/parental/parental_controls_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/entities/parental/parental_settings.dart';
+import 'package:crack_the_code/presentation/providers/parental/parental_controls_provider.dart';
 
 /// Content Filter Service
 /// Filters videos and quizzes based on parental control settings

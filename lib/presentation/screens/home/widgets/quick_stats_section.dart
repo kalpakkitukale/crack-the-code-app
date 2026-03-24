@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/core/widgets/error/error_widget.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/core/widgets/error/error_widget.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
 
 /// Quick stats section displaying user progress metrics
 class QuickStatsSection extends ConsumerWidget {

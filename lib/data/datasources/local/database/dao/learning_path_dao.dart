@@ -5,12 +5,12 @@ library;
 
 import 'dart:convert';
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/base_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/learning_path_model.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/base_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/learning_path_model.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
 
 /// DAO for managing learning path persistence
 ///

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/widgets/error/error_state_widget.dart';
-import 'package:streamshaala/core/widgets/empty/empty_state_widget.dart';
-import 'package:streamshaala/presentation/providers/content/board_provider.dart';
-import 'package:streamshaala/presentation/screens/browse/widgets/board_card.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/widgets/error/error_state_widget.dart';
+import 'package:crack_the_code/core/widgets/empty/empty_state_widget.dart';
+import 'package:crack_the_code/presentation/providers/content/board_provider.dart';
+import 'package:crack_the_code/presentation/screens/browse/widgets/board_card.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Board Selection Screen
 /// Displays available educational boards (CBSE, State boards, etc.)

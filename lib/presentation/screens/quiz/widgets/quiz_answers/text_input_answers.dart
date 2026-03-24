@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_provider.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_provider.dart';
 
 /// Displays a text input field for fill-in-the-blank questions.
 class FillInBlankAnswer extends ConsumerWidget {

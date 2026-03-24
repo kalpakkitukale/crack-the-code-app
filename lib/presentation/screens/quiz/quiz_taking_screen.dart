@@ -2,19 +2,19 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_provider.dart';
-import 'package:streamshaala/domain/entities/pedagogy/learning_path_context.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/learning_path_provider.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_provider.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/learning_path_context.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/learning_path_provider.dart';
 
 // Extracted widgets
-import 'package:streamshaala/presentation/screens/quiz/widgets/quiz_widgets.dart';
+import 'package:crack_the_code/presentation/screens/quiz/widgets/quiz_widgets.dart';
 
 /// Quiz Taking Screen - Comprehensive quiz interface
 /// Supports all question types with responsive layouts

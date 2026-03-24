@@ -2,10 +2,10 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt_status.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt_status.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
 
 part 'quiz_attempt.freezed.dart';
 

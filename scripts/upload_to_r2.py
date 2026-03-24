@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-R2 Upload Script for StreamShaala
+R2 Upload Script for Crack the Code
 Uploads content to Cloudflare R2 bucket
 
 Usage:
     python upload_to_r2.py <local_dir> <bucket_path> [--dry-run]
 
 Example:
-    python upload_to_r2.py content/v1/ streamshaala-content/v1/
+    python upload_to_r2.py content/v1/ crackthecode-content/v1/
 
 Prerequisites:
     1. Install boto3: pip install boto3
@@ -49,7 +49,7 @@ def get_r2_config() -> Dict[str, str]:
         'account_id': os.environ.get('R2_ACCOUNT_ID', ''),
         'access_key_id': os.environ.get('R2_ACCESS_KEY_ID', ''),
         'secret_access_key': os.environ.get('R2_SECRET_ACCESS_KEY', ''),
-        'bucket_name': os.environ.get('R2_BUCKET_NAME', 'streamshaala-content'),
+        'bucket_name': os.environ.get('R2_BUCKET_NAME', 'crackthecode-content'),
     }
 
     # Validate required fields
@@ -257,13 +257,13 @@ Environment Variables:
 
 Examples:
   # Dry run to see what would be uploaded
-  python upload_to_r2.py content/v1/ streamshaala-content/v1/ --dry-run
+  python upload_to_r2.py content/v1/ crackthecode-content/v1/ --dry-run
 
   # Actually upload
-  python upload_to_r2.py content/v1/ streamshaala-content/v1/
+  python upload_to_r2.py content/v1/ crackthecode-content/v1/
 
   # Upload manifest
-  python upload_to_r2.py manifest.json streamshaala-content/
+  python upload_to_r2.py manifest.json crackthecode-content/
         """
     )
 

@@ -10,7 +10,7 @@
 library;
 
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Keys for secure storage
 class SecureStorageKeys {
@@ -52,16 +52,16 @@ class SecureStorageService {
   final FlutterSecureStorage _storage = const FlutterSecureStorage(
     aOptions: AndroidOptions(
       encryptedSharedPreferences: true,
-      sharedPreferencesName: 'streamshaala_secure_prefs',
+      sharedPreferencesName: 'crackthecode_secure_prefs',
       preferencesKeyPrefix: 'ss_',
     ),
     iOptions: IOSOptions(
       accessibility: KeychainAccessibility.first_unlock_this_device,
-      accountName: 'StreamShaala',
+      accountName: 'Crack the Code',
     ),
     mOptions: MacOsOptions(
-      accountName: 'StreamShaala',
-      groupId: 'com.streamshaala.streamshaala',
+      accountName: 'Crack the Code',
+      groupId: 'com.crackthecode.app',
     ),
     lOptions: LinuxOptions(),
     wOptions: WindowsOptions(),

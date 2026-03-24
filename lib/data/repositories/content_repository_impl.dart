@@ -2,17 +2,17 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/json/content_json_datasource.dart';
-import 'package:streamshaala/domain/entities/content/board.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/entities/content/subject.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/domain/entities/search/search_result.dart';
-import 'package:streamshaala/domain/entities/search/unified_search_results.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/json/content_json_datasource.dart';
+import 'package:crack_the_code/domain/entities/content/board.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/entities/content/subject.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/domain/entities/search/search_result.dart';
+import 'package:crack_the_code/domain/entities/search/unified_search_results.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
 
 /// Implementation of ContentRepository using JSON assets
 class ContentRepositoryImpl implements ContentRepository {

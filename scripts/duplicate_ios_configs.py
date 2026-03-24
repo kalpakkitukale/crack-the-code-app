@@ -12,7 +12,7 @@ def generate_xcode_id():
     return uuid.uuid4().hex[:24].upper()
 
 def main():
-    pbxproj_path = '/Users/apple/work/StreamShaala/ios/Runner.xcodeproj/project.pbxproj'
+    pbxproj_path = '/Users/apple/work/Crack the Code/ios/Runner.xcodeproj/project.pbxproj'
 
     # Read the file
     with open(pbxproj_path, 'r') as f:
@@ -27,23 +27,23 @@ def main():
     # Define flavors to add
     flavors_config = {
         'middle': {
-            'bundle_id': 'com.streamshaala.streamshaala.middle',
-            'product_name': 'StreamShaala',
-            'display_name': 'StreamShaala',
+            'bundle_id': 'com.crackthecode.app.middle',
+            'product_name': 'Crack the Code',
+            'display_name': 'Crack the Code',
             'icon': 'AppIcon-middle',
             'xcconfig_prefix': 'MIDDLE'
         },
         'preboard': {
-            'bundle_id': 'com.streamshaala.streamshaala.preboard',
-            'product_name': 'StreamShaala Board Prep',
-            'display_name': 'StreamShaala Board Prep',
+            'bundle_id': 'com.crackthecode.app.preboard',
+            'product_name': 'Crack the Code Board Prep',
+            'display_name': 'Crack the Code Board Prep',
             'icon': 'AppIcon-preboard',
             'xcconfig_prefix': 'PREBOARD'
         },
         'senior': {
-            'bundle_id': 'com.streamshaala.streamshaala',
-            'product_name': 'StreamShaala',
-            'display_name': 'StreamShaala',
+            'bundle_id': 'com.crackthecode.app',
+            'product_name': 'Crack the Code',
+            'display_name': 'Crack the Code',
             'icon': 'AppIcon-senior',
             'xcconfig_prefix': 'SENIOR'
         }
@@ -110,8 +110,8 @@ def main():
                 new_config = new_config.replace("Profile-junior", f"{config_type.title()}-{flavor}")
 
                 # Replace product identifiers
-                new_config = new_config.replace("com.streamshaala.streamshaala.junior", config['bundle_id'])
-                new_config = new_config.replace("StreamShaala Junior", config['product_name'])
+                new_config = new_config.replace("com.crackthecode.app.junior", config['bundle_id'])
+                new_config = new_config.replace("Crack the Code Junior", config['product_name'])
 
                 # Replace xcconfig references
                 new_config = new_config.replace("JUNIOR_DEBUG_CONFIG", f"{config['xcconfig_prefix']}_DEBUG_CONFIG")

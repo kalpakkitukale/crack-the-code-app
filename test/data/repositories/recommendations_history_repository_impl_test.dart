@@ -2,10 +2,10 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/data/repositories/recommendations_history_repository_impl.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/data/repositories/recommendations_history_repository_impl.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
 import '../../mocks/mock_use_cases.dart';
 
 void main() {

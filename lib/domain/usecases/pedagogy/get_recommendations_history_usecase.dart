@@ -1,10 +1,10 @@
 /// Use case for retrieving recommendations history
 library;
 
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
-import 'package:streamshaala/domain/repositories/recommendations_history_repository.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/domain/repositories/recommendations_history_repository.dart';
 
 /// Use case for getting recommendations history with automatic view tracking
 class GetRecommendationsHistoryUseCase {

@@ -3,13 +3,13 @@ library;
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/user/bookmark.dart';
-import 'package:streamshaala/domain/repositories/bookmark_repository.dart';
-import 'package:streamshaala/domain/usecases/bookmark/add_bookmark_usecase.dart';
-import 'package:streamshaala/domain/usecases/bookmark/get_all_bookmarks_usecase.dart';
-import 'package:streamshaala/domain/usecases/bookmark/remove_bookmark_usecase.dart';
-import 'package:streamshaala/presentation/providers/user/bookmark_provider.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/user/bookmark.dart';
+import 'package:crack_the_code/domain/repositories/bookmark_repository.dart';
+import 'package:crack_the_code/domain/usecases/bookmark/add_bookmark_usecase.dart';
+import 'package:crack_the_code/domain/usecases/bookmark/get_all_bookmarks_usecase.dart';
+import 'package:crack_the_code/domain/usecases/bookmark/remove_bookmark_usecase.dart';
+import 'package:crack_the_code/presentation/providers/user/bookmark_provider.dart';
 
 void main() {
   group('BookmarkState', () {

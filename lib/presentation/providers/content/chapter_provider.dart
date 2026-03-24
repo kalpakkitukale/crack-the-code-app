@@ -1,8 +1,8 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/usecases/content/get_chapters_usecase.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/usecases/content/get_chapters_usecase.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Chapter Provider
 /// Manages chapters for a specific subject

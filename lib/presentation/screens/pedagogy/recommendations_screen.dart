@@ -2,21 +2,21 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/core/utils/semantic_colors.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/pedagogy/quiz_recommendation.dart';
-import 'package:streamshaala/domain/entities/content/video.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/domain/services/learning_path_generator.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/foundation_path_screen.dart';
-import 'package:streamshaala/presentation/screens/pedagogy/recommended_videos_screen.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/semantic_colors.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/quiz_recommendation.dart';
+import 'package:crack_the_code/domain/entities/content/video.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/domain/services/learning_path_generator.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/foundation_path_screen.dart';
+import 'package:crack_the_code/presentation/screens/pedagogy/recommended_videos_screen.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 /// Provider for learning path generator service
 final learningPathGeneratorProvider = Provider<LearningPathGenerator>((ref) {

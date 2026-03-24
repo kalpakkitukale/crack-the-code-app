@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Assessment type enum for clarity in callbacks
 enum AssessmentType {

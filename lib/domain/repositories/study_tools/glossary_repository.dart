@@ -2,8 +2,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/study_tools/glossary_term.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/study_tools/glossary_term.dart';
 
 /// Repository interface for glossary term operations
 abstract class GlossaryRepository {

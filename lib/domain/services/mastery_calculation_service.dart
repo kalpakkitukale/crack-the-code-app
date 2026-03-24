@@ -1,11 +1,11 @@
 /// MasteryCalculationService - Calculates concept mastery scores
 library;
 
-import 'package:streamshaala/core/constants/app_thresholds.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/concept_mastery_dao.dart';
-import 'package:streamshaala/data/models/pedagogy/concept_mastery_model.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_mastery.dart';
+import 'package:crack_the_code/core/constants/app_thresholds.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/concept_mastery_dao.dart';
+import 'package:crack_the_code/data/models/pedagogy/concept_mastery_model.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_mastery.dart';
 
 /// Service for calculating and updating concept mastery
 class MasteryCalculationService {

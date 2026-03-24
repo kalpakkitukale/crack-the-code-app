@@ -3,7 +3,7 @@ library;
 
 import 'dart:async';
 import 'package:just_audio/just_audio.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Service for playing audio files (glossary pronunciations, etc.)
 class AudioPlayerService {

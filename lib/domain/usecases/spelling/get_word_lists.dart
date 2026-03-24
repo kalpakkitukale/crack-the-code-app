@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/domain/entities/spelling/word_list.dart';
-import 'package:streamshaala/domain/repositories/spelling_repository.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_list.dart';
+import 'package:crack_the_code/domain/repositories/spelling_repository.dart';
 
 class GetWordListsUseCase {
   final SpellingRepository repository;

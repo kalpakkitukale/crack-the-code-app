@@ -1,4 +1,4 @@
-package com.streamshaala.streamshaala
+package com.crackthecode.app
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_history_provider.dart';
-import 'package:streamshaala/presentation/widgets/practice/quiz_selection_sheet.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_history_provider.dart';
+import 'package:crack_the_code/presentation/widgets/practice/quiz_selection_sheet.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 /// Practice Screen (Preboard segment)
 /// Mock tests, quiz history, and practice recommendations
@@ -593,7 +593,7 @@ class _PracticeScreenState extends ConsumerState<PracticeScreen> {
 
   /// Show mock test selection sheet
   void _showMockTestSheet(BuildContext context) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     showModalBottomSheet(
       context: context,
@@ -675,7 +675,7 @@ class _PracticeScreenState extends ConsumerState<PracticeScreen> {
 
   /// Show weak areas sheet
   void _showWeakAreasSheet(BuildContext context) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final stats = ref.read(quizStatisticsProvider);
 
     showModalBottomSheet(

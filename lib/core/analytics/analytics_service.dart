@@ -4,7 +4,7 @@
 
 import 'package:flutter/foundation.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
 
 /// Analytics event types
 enum AnalyticsEvent {
@@ -190,7 +190,7 @@ class AnalyticsService {
 
     // Set default user properties
     setUserProperty('segment', SegmentConfig.current.name);
-    setUserProperty('is_junior', SegmentConfig.isJunior);
+    setUserProperty('is_junior', SegmentConfig.isCrackTheCode);
 
     if (_debugMode) {
       debugPrint('[Analytics] Initialized for segment: ${SegmentConfig.current.name}');
@@ -230,7 +230,7 @@ class AnalyticsService {
     if (!_isEnabled) return;
 
     // Privacy: Don't track certain events for Junior unless parental consent
-    if (SegmentConfig.isJunior && _isRestrictedEvent(event)) {
+    if (SegmentConfig.isCrackTheCode && _isRestrictedEvent(event)) {
       if (_debugMode) {
         debugPrint('[Analytics] Skipped restricted event for Junior: ${event.name}');
       }
@@ -331,7 +331,7 @@ class AnalyticsService {
 
   /// Track gamification events (Junior-specific)
   void trackXpEarned(int amount, String source) {
-    if (!SegmentConfig.isJunior) return;
+    if (!SegmentConfig.isCrackTheCode) return;
 
     logEvent(
       AnalyticsEvent.xpEarned,
@@ -340,7 +340,7 @@ class AnalyticsService {
   }
 
   void trackLevelUp(int newLevel, int previousLevel) {
-    if (!SegmentConfig.isJunior) return;
+    if (!SegmentConfig.isCrackTheCode) return;
 
     logEvent(
       AnalyticsEvent.levelUp,
@@ -352,7 +352,7 @@ class AnalyticsService {
   }
 
   void trackBadgeUnlocked(String badgeId, String badgeName) {
-    if (!SegmentConfig.isJunior) return;
+    if (!SegmentConfig.isCrackTheCode) return;
 
     logEvent(
       AnalyticsEvent.badgeUnlocked,
@@ -361,7 +361,7 @@ class AnalyticsService {
   }
 
   void trackStreakUpdated(int streakDays) {
-    if (!SegmentConfig.isJunior) return;
+    if (!SegmentConfig.isCrackTheCode) return;
 
     logEvent(
       AnalyticsEvent.streakUpdated,

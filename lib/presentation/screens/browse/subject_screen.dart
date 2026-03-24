@@ -1,20 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/widgets/cards/subject_card.dart';
-import 'package:streamshaala/core/widgets/error/error_state_widget.dart';
-import 'package:streamshaala/core/widgets/empty/empty_state_widget.dart';
-import 'package:streamshaala/presentation/screens/browse/widgets/breadcrumb_bar.dart';
-import 'package:streamshaala/presentation/providers/content/subject_provider.dart';
-import 'package:streamshaala/presentation/providers/content/board_provider.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
-import 'package:streamshaala/presentation/providers/user/subject_progress_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/widgets/cards/subject_card.dart';
+import 'package:crack_the_code/core/widgets/error/error_state_widget.dart';
+import 'package:crack_the_code/core/widgets/empty/empty_state_widget.dart';
+import 'package:crack_the_code/presentation/screens/browse/widgets/breadcrumb_bar.dart';
+import 'package:crack_the_code/presentation/providers/content/subject_provider.dart';
+import 'package:crack_the_code/presentation/providers/content/board_provider.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/subject_progress_provider.dart';
 
 /// Subject List Screen
 /// Displays subjects for a selected board
@@ -360,7 +360,7 @@ class _SubjectScreenState extends ConsumerState<SubjectScreen> {
     final settings = SegmentConfig.settings;
     final spacing = AppTheme.spacingMd * settings.touchTargetScale;
     // Junior gets larger cards (lower aspect ratio = taller cards)
-    final aspectRatio = SegmentConfig.isJunior ? 0.75 : 0.85;
+    final aspectRatio = SegmentConfig.isCrackTheCode ? 0.75 : 0.85;
 
     // Watch subject progress and convert to Map for O(1) lookups
     final subjectProgressAsync = ref.watch(subjectProgressListProvider);
@@ -507,7 +507,7 @@ class _SubjectScreenState extends ConsumerState<SubjectScreen> {
 
   SliverAppBar _buildSliverAppBar({bool showLoading = false}) {
     final settings = SegmentConfig.settings;
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return SliverAppBar(
       floating: true,

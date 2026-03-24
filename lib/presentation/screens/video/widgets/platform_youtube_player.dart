@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
-import 'package:streamshaala/presentation/providers/content/video_provider.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/presentation/providers/content/video_provider.dart';
 
 /// Platform-aware YouTube player widget
 /// Uses flutter_inappwebview for all platforms with proper HTTP Referer headers
@@ -45,7 +45,7 @@ class _PlatformYoutubePlayerState extends ConsumerState<PlatformYoutubePlayer> {
 
   /// HTTP Referer header to comply with YouTube's embed policy
   /// Format: https://[bundle-identifier] as required by YouTube
-  String get _refererHeader => 'https://com.streamshaala.streamshaala';
+  String get _refererHeader => 'https://com.crackthecode.app';
 
   /// Custom HTML page with YouTube IFrame API properly integrated
   String get _youtubePlayerHtml {

@@ -2,15 +2,15 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/cache_manager.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/json/study_tools_json_datasource.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/chapter_notes_dao.dart';
-import 'package:streamshaala/data/models/study_tools/chapter_note_model.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_note.dart';
-import 'package:streamshaala/domain/repositories/study_tools/chapter_notes_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/cache_manager.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/json/study_tools_json_datasource.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/chapter_notes_dao.dart';
+import 'package:crack_the_code/data/models/study_tools/chapter_note_model.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_note.dart';
+import 'package:crack_the_code/domain/repositories/study_tools/chapter_notes_repository.dart';
 
 /// Implementation of ChapterNotesRepository
 /// - Curated notes: JSON-first loading with database caching

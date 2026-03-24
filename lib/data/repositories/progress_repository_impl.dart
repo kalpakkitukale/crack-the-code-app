@@ -2,17 +2,17 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/progress_dao.dart';
-import 'package:streamshaala/data/models/user/progress_model.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
-import 'package:streamshaala/domain/entities/subject_progress.dart';
-import 'package:streamshaala/domain/entities/chapter_progress.dart';
-import 'package:streamshaala/domain/entities/content/chapter.dart';
-import 'package:streamshaala/domain/repositories/progress_repository.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/progress_dao.dart';
+import 'package:crack_the_code/data/models/user/progress_model.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
+import 'package:crack_the_code/domain/entities/subject_progress.dart';
+import 'package:crack_the_code/domain/entities/chapter_progress.dart';
+import 'package:crack_the_code/domain/entities/content/chapter.dart';
+import 'package:crack_the_code/domain/repositories/progress_repository.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
 
 /// Implementation of ProgressRepository using local database
 class ProgressRepositoryImpl implements ProgressRepository {

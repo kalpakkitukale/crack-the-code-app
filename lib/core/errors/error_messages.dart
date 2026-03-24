@@ -1,4 +1,4 @@
-import 'package:streamshaala/core/errors/failures.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
 
 /// User-friendly error messages mapper
 /// Converts technical errors into friendly, actionable messages

@@ -1,10 +1,10 @@
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/entities/spelling/word_list.dart';
-import 'package:streamshaala/domain/entities/spelling/word_mastery.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_attempt.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_statistics.dart';
-import 'package:streamshaala/domain/entities/spelling/phonics_pattern.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_list.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_mastery.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_attempt.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_statistics.dart';
+import 'package:crack_the_code/domain/entities/spelling/phonics_pattern.dart';
 
 /// Repository interface for spelling learning features
 abstract class SpellingRepository {

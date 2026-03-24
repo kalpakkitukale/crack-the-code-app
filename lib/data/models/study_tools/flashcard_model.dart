@@ -1,8 +1,8 @@
 /// Flashcard data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
 
 /// Flashcard model for SQLite database
 class FlashcardModel {

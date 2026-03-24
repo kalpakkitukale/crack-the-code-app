@@ -68,7 +68,7 @@ class RouteConstants {
   static const String recommendedVideos = '/recommended-videos';
   static const String learningPath = '/learning-path/:pathId';
 
-  // Spelling routes (SpellShaala variant)
+  // Spelling routes (Crack the Code variant)
   static const String spellingHome = '/spelling-home';
   static const String spellingPractice = '/spelling-practice/:wordListId';
   static const String spellingBee = '/spelling-bee';

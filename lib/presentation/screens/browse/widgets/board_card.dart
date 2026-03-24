@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Board card widget to display educational board information
 class BoardCard extends StatelessWidget {

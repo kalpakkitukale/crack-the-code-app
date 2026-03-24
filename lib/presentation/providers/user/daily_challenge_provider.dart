@@ -2,10 +2,10 @@ import 'dart:convert';
 import 'dart:math';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
 
 /// Daily Challenge State
 class DailyChallengeState {
@@ -283,7 +283,7 @@ class DailyChallengeNotifier extends StateNotifier<DailyChallengeState> {
       // Use date-based seed with salt for consistent daily questions
       // Hash-based approach is less predictable than simple date arithmetic
       final now = DateTime.now();
-      final dateString = '${now.year}-${now.month}-${now.day}-streamshaala-daily';
+      final dateString = '${now.year}-${now.month}-${now.day}-crackthecode-daily';
       final hashBytes = utf8.encode(dateString);
       final hash = hashBytes.fold<int>(0, (prev, byte) => prev * 31 + byte);
       final seed = hash.abs();

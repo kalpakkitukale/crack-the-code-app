@@ -5,8 +5,8 @@ library;
 import 'dart:async';
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/models/quiz/quiz_attempt_model.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/models/quiz/quiz_attempt_model.dart';
 
 /// Queue for retrying failed quiz attempt saves
 class QuizRetryQueue {

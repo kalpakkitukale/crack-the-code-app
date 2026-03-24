@@ -1,4 +1,4 @@
-/// Database configuration constants for StreamShaala
+/// Database configuration constants for Crack the Code
 ///
 /// This file contains all database-related constants including:
 /// - Database name and version
@@ -8,7 +8,7 @@
 library;
 
 /// Main database name
-const String kDatabaseName = 'streamshaala.db';
+const String kDatabaseName = 'crackthecode.db';
 
 /// Current database version
 /// Version 2: Added title, channel_name, thumbnail_url to progress table

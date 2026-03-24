@@ -6,27 +6,27 @@ import 'dart:math';
 
 import 'package:dartz/dartz.dart';
 import 'package:uuid/uuid.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/services/quiz_retry_queue.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/core/utils/validation_helpers.dart';
-import 'package:streamshaala/data/datasources/json/quiz_json_datasource.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/question_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_attempt_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_session_dao.dart';
-import 'package:streamshaala/data/models/quiz/question_model.dart';
-import 'package:streamshaala/data/models/quiz/quiz_attempt_model.dart';
-import 'package:streamshaala/data/models/quiz/quiz_model.dart';
-import 'package:streamshaala/data/models/quiz/quiz_session_model.dart';
-import 'package:streamshaala/data/repositories/quiz/internal/quiz_helpers.dart'
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/services/quiz_retry_queue.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/validation_helpers.dart';
+import 'package:crack_the_code/data/datasources/json/quiz_json_datasource.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/question_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_attempt_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_session_dao.dart';
+import 'package:crack_the_code/data/models/quiz/question_model.dart';
+import 'package:crack_the_code/data/models/quiz/quiz_attempt_model.dart';
+import 'package:crack_the_code/data/models/quiz/quiz_model.dart';
+import 'package:crack_the_code/data/models/quiz/quiz_session_model.dart';
+import 'package:crack_the_code/data/repositories/quiz/internal/quiz_helpers.dart'
     as helpers;
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt_status.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt_status.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
 
 const _uuid = Uuid();
 

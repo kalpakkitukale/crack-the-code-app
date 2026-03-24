@@ -9,24 +9,24 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/data/datasources/json/quiz_json_datasource.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/question_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_session_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_attempt_dao.dart';
-import 'package:streamshaala/data/repositories/quiz/internal/quiz_internal.dart';
-import 'package:streamshaala/data/services/quiz_history_filter.dart';
-import 'package:streamshaala/data/services/quiz_statistics_calculator.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_session.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_filter.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_statistics.dart';
-import 'package:streamshaala/domain/entities/quiz/subject_statistics.dart';
-import 'package:streamshaala/domain/repositories/quiz_repository.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/data/datasources/json/quiz_json_datasource.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/question_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_session_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_attempt_dao.dart';
+import 'package:crack_the_code/data/repositories/quiz/internal/quiz_internal.dart';
+import 'package:crack_the_code/data/services/quiz_history_filter.dart';
+import 'package:crack_the_code/data/services/quiz_statistics_calculator.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_session.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_filter.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_statistics.dart';
+import 'package:crack_the_code/domain/entities/quiz/subject_statistics.dart';
+import 'package:crack_the_code/domain/repositories/quiz_repository.dart';
 
 /// Implementation of QuizRepository using facade pattern
 ///

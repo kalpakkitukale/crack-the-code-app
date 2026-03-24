@@ -3,8 +3,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/presentation/providers/parental/parental_controls_provider.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/presentation/providers/parental/parental_controls_provider.dart';
 
 /// Screen Time Wrapper Widget
 /// Wraps the app content and shows overlay when screen time is limited

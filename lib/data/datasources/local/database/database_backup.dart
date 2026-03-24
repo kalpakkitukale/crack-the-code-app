@@ -8,9 +8,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:path_provider/path_provider.dart';
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
 import 'package:sqflite/sqflite.dart' as sqflite_mobile;
 import 'package:sqflite_common_ffi/sqflite_ffi.dart' as sqflite_desktop;
 
@@ -252,7 +252,7 @@ class DatabaseBackup {
       final files = await dir
           .list()
           .where((entity) =>
-              entity is File && entity.path.endsWith('.streamshaala.backup'))
+              entity is File && entity.path.endsWith('.crackthecode.backup'))
           .toList();
 
       // Sort by modification time (newest first)
@@ -299,7 +299,7 @@ class DatabaseBackup {
   /// Get backup directory path
   Future<String> _getBackupDirectory() async {
     final appDir = await getApplicationDocumentsDirectory();
-    final backupDir = '${appDir.path}/streamshaala/backups';
+    final backupDir = '${appDir.path}/crackthecode/backups';
 
     final dir = Directory(backupDir);
     if (!await dir.exists()) {
@@ -313,7 +313,7 @@ class DatabaseBackup {
   Future<String> _getBackupFilePath() async {
     final backupDir = await _getBackupDirectory();
     final timestamp = DateTime.now().toIso8601String().replaceAll(':', '-');
-    return '$backupDir/$timestamp.streamshaala.backup';
+    return '$backupDir/$timestamp.crackthecode.backup';
   }
 
   /// Query all rows from a table

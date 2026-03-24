@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/services/haptic_service.dart';
-import 'package:streamshaala/core/utils/semantic_colors.dart';
-import 'package:streamshaala/domain/entities/recommendation/learning_path.dart';
-import 'package:streamshaala/domain/entities/pedagogy/learning_path_context.dart';
-import 'package:streamshaala/presentation/widgets/path/node_completion_animation.dart';
-import 'package:streamshaala/presentation/widgets/path/milestone_dialog.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/path_analytics_provider.dart';
-import 'package:streamshaala/presentation/providers/auth/user_id_provider.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/services/haptic_service.dart';
+import 'package:crack_the_code/core/utils/semantic_colors.dart';
+import 'package:crack_the_code/domain/entities/recommendation/learning_path.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/learning_path_context.dart';
+import 'package:crack_the_code/presentation/widgets/path/node_completion_animation.dart';
+import 'package:crack_the_code/presentation/widgets/path/milestone_dialog.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/path_analytics_provider.dart';
+import 'package:crack_the_code/presentation/providers/auth/user_id_provider.dart';
 
 /// Foundation Path Screen - Shows personalized learning journey
 class FoundationPathScreen extends ConsumerStatefulWidget {

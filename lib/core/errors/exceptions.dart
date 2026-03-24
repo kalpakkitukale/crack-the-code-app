@@ -1,4 +1,4 @@
-/// Custom exception classes for StreamShaala
+/// Custom exception classes for Crack the Code
 ///
 /// These exceptions are thrown in the data layer and converted to Failures
 /// in the repository implementations for proper error handling.

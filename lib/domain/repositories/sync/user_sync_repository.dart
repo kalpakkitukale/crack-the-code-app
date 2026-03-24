@@ -3,8 +3,8 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/data/models/sync/sync_state.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/data/models/sync/sync_state.dart';
 
 /// Repository interface for user data synchronization
 abstract class UserSyncRepository {

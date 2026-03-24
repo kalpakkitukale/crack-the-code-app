@@ -4,11 +4,11 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/gamification/badge.dart';
-import 'package:streamshaala/domain/entities/gamification/student_gamification.dart';
-import 'package:streamshaala/domain/services/gamification_service.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/gamification/badge.dart';
+import 'package:crack_the_code/domain/entities/gamification/student_gamification.dart';
+import 'package:crack_the_code/domain/services/gamification_service.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Gamification state
 class GamificationState {

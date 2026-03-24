@@ -5,7 +5,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
 
 /// Accessibility configuration based on segment
 class AccessibilityConfig {
@@ -13,41 +13,16 @@ class AccessibilityConfig {
   static AccessibilitySettings get settings {
     final segment = SegmentConfig.current;
 
-    switch (segment) {
-      case AppSegment.junior:
-      case AppSegment.spelling:
-        return const AccessibilitySettings(
-          // Junior/Spelling gets enhanced accessibility for younger users
-          minTouchTargetSize: 48.0,
-          focusHighlightWidth: 3.0,
-          announceNavigationChanges: true,
-          useSimpleLanguage: true,
-          enableHapticFeedback: true,
-          enableSoundEffects: true,
-          textScaleFactor: 1.1,
-        );
-      case AppSegment.middle:
-        return const AccessibilitySettings(
-          minTouchTargetSize: 44.0,
-          focusHighlightWidth: 2.0,
-          announceNavigationChanges: true,
-          useSimpleLanguage: false,
-          enableHapticFeedback: true,
-          enableSoundEffects: false,
-          textScaleFactor: 1.0,
-        );
-      case AppSegment.preboard:
-      case AppSegment.senior:
-        return const AccessibilitySettings(
-          minTouchTargetSize: 44.0,
-          focusHighlightWidth: 2.0,
-          announceNavigationChanges: false,
-          useSimpleLanguage: false,
-          enableHapticFeedback: false,
-          enableSoundEffects: false,
-          textScaleFactor: 1.0,
-        );
-    }
+    // Crack the Code — kid-friendly accessibility for all ages
+    return const AccessibilitySettings(
+      minTouchTargetSize: 48.0,
+      focusHighlightWidth: 3.0,
+      announceNavigationChanges: true,
+      useSimpleLanguage: true,
+      enableHapticFeedback: true,
+      enableSoundEffects: true,
+      textScaleFactor: 1.1,
+    );
   }
 }
 

@@ -2,17 +2,17 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/json/study_tools_json_datasource.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/flashcard_dao.dart';
-import 'package:streamshaala/data/models/study_tools/flashcard_deck_model.dart';
-import 'package:streamshaala/data/models/study_tools/flashcard_model.dart';
-import 'package:streamshaala/data/models/study_tools/flashcard_progress_model.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard_progress.dart';
-import 'package:streamshaala/domain/repositories/study_tools/flashcard_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/json/study_tools_json_datasource.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/flashcard_dao.dart';
+import 'package:crack_the_code/data/models/study_tools/flashcard_deck_model.dart';
+import 'package:crack_the_code/data/models/study_tools/flashcard_model.dart';
+import 'package:crack_the_code/data/models/study_tools/flashcard_progress_model.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard_progress.dart';
+import 'package:crack_the_code/domain/repositories/study_tools/flashcard_repository.dart';
 import 'package:uuid/uuid.dart';
 
 /// Implementation of FlashcardRepository using JSON-first loading with database caching

@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_attempt.dart';
-import 'package:streamshaala/domain/entities/spelling/word_mastery.dart';
-import 'package:streamshaala/domain/repositories/spelling_repository.dart';
-import 'package:streamshaala/domain/services/word_mastery_service.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_attempt.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_mastery.dart';
+import 'package:crack_the_code/domain/repositories/spelling_repository.dart';
+import 'package:crack_the_code/domain/services/word_mastery_service.dart';
 
 class SubmitSpellingAttemptUseCase {
   final SpellingRepository repository;

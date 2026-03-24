@@ -1,10 +1,10 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/subject_progress.dart';
-import 'package:streamshaala/domain/entities/chapter_progress.dart';
-import 'package:streamshaala/domain/repositories/progress_repository.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/presentation/providers/content/subject_provider.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/subject_progress.dart';
+import 'package:crack_the_code/domain/entities/chapter_progress.dart';
+import 'package:crack_the_code/domain/repositories/progress_repository.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/presentation/providers/content/subject_provider.dart';
 
 /// Provider for accessing the progress repository
 final progressRepositoryProvider = Provider<ProgressRepository>((ref) {

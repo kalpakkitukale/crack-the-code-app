@@ -2,10 +2,10 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/domain/entities/gamification/badge.dart';
-import 'package:streamshaala/domain/entities/gamification/student_gamification.dart';
-import 'package:streamshaala/domain/services/gamification_service.dart';
-import 'package:streamshaala/presentation/providers/gamification/gamification_provider.dart';
+import 'package:crack_the_code/domain/entities/gamification/badge.dart';
+import 'package:crack_the_code/domain/entities/gamification/student_gamification.dart';
+import 'package:crack_the_code/domain/services/gamification_service.dart';
+import 'package:crack_the_code/presentation/providers/gamification/gamification_provider.dart';
 
 void main() {
   group('GamificationState', () {

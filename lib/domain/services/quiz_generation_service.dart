@@ -1,8 +1,8 @@
 /// Quiz generation service for intelligent question selection
 library;
 
-import 'package:streamshaala/domain/entities/quiz/question.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
 
 /// Configuration for question difficulty distribution
 class DifficultyDistribution {

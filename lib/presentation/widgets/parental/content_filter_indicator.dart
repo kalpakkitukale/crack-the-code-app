@@ -3,9 +3,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/services/content_filter_service.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/services/content_filter_service.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// Content Filter Indicator
 /// Shows a subtle indicator when content filtering is active

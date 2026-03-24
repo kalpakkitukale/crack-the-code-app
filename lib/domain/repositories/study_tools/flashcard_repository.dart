@@ -2,9 +2,9 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard_progress.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard_progress.dart';
 
 /// Repository interface for flashcard operations
 abstract class FlashcardRepository {

@@ -2,8 +2,8 @@
 library;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/core/config/remote_content_config.dart';
-import 'package:streamshaala/presentation/providers/sync/content_sync_provider.dart';
+import 'package:crack_the_code/core/config/remote_content_config.dart';
+import 'package:crack_the_code/presentation/providers/sync/content_sync_provider.dart';
 
 void main() {
   group('ContentSyncState', () {

@@ -1,13 +1,13 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
-import 'package:streamshaala/domain/repositories/progress_repository.dart';
-import 'package:streamshaala/domain/repositories/content_repository.dart';
-import 'package:streamshaala/domain/usecases/progress/get_statistics_usecase.dart';
-import 'package:streamshaala/domain/usecases/progress/get_watch_history_usecase.dart';
-import 'package:streamshaala/domain/usecases/progress/save_progress_usecase.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/core/services/youtube_metadata_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
+import 'package:crack_the_code/domain/repositories/progress_repository.dart';
+import 'package:crack_the_code/domain/repositories/content_repository.dart';
+import 'package:crack_the_code/domain/usecases/progress/get_statistics_usecase.dart';
+import 'package:crack_the_code/domain/usecases/progress/get_watch_history_usecase.dart';
+import 'package:crack_the_code/domain/usecases/progress/save_progress_usecase.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/services/youtube_metadata_service.dart';
 
 /// Progress Provider
 /// Tracks user video watch progress using real repository

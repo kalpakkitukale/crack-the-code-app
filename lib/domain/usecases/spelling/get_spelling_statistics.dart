@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_statistics.dart';
-import 'package:streamshaala/domain/repositories/spelling_repository.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_statistics.dart';
+import 'package:crack_the_code/domain/repositories/spelling_repository.dart';
 
 class GetSpellingStatisticsUseCase {
   final SpellingRepository repository;

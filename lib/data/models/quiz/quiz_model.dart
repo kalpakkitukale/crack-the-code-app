@@ -2,7 +2,7 @@
 library;
 
 import 'dart:convert';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
 
 /// Quiz model for SQLite database
 class QuizModel {

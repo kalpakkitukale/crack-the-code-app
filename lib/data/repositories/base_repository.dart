@@ -5,11 +5,11 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart'
+import 'package:crack_the_code/core/errors/exceptions.dart'
     hide FormatException, TimeoutException;
-import 'package:streamshaala/core/errors/exceptions.dart' as app_exceptions;
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart' as app_exceptions;
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Mixin providing standardized error handling for repository implementations.
 ///

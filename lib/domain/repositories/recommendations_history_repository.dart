@@ -1,8 +1,8 @@
 /// Repository interface for RecommendationsHistory persistence operations
 library;
 
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
 
 /// Abstract repository for managing recommendations history
 abstract class RecommendationsHistoryRepository {

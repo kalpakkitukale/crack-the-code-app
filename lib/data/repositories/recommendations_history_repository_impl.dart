@@ -1,11 +1,11 @@
 /// Implementation of RecommendationsHistoryRepository
 library;
 
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/recommendations_history_dao.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
-import 'package:streamshaala/domain/repositories/recommendations_history_repository.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/recommendations_history_dao.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/domain/repositories/recommendations_history_repository.dart';
 
 /// Concrete implementation of RecommendationsHistoryRepository
 class RecommendationsHistoryRepositoryImpl

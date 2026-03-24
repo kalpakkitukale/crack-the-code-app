@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_mastery.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/mastery_provider.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_mastery.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/mastery_provider.dart';
 
 /// Mastery Dashboard Screen - Shows concept mastery overview
 class MasteryDashboardScreen extends ConsumerStatefulWidget {

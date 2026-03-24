@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:app_links/app_links.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:streamshaala/core/services/secure_storage_service.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/services/secure_storage_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Service to handle deep links for email magic link authentication
 ///

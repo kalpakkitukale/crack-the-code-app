@@ -3,12 +3,12 @@ library;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/domain/entities/study_tools/chapter_summary.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_summary.dart' show SummarySource;
-import 'package:streamshaala/presentation/providers/study_tools/chapter_summary_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/domain/entities/study_tools/chapter_summary.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_summary.dart' show SummarySource;
+import 'package:crack_the_code/presentation/providers/study_tools/chapter_summary_provider.dart';
 
 /// Chapter Summary Screen
 /// Displays the chapter overview with key points and learning objectives
@@ -25,7 +25,7 @@ class ChapterSummaryScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final summaryAsync = ref.watch(chapterSummaryProvider(chapterId, subjectId));
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return Scaffold(
       appBar: AppBar(

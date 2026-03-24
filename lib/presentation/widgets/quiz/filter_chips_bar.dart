@@ -2,7 +2,7 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
 
 /// Callback for assessment type filter changes
 typedef AssessmentTypeFilterCallback = void Function(AssessmentType?);

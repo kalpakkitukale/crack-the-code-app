@@ -4,12 +4,12 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_provider.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_provider.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
 
 /// Flashcard section in video player tabs
 class FlashcardSection extends ConsumerWidget {
@@ -27,7 +27,7 @@ class FlashcardSection extends ConsumerWidget {
     }
 
     final deckAsync = ref.watch(topicFlashcardsProvider(topicId!));
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return deckAsync.when(
       loading: () => const _FlashcardShimmer(),

@@ -6,15 +6,15 @@ library;
 import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:uuid/uuid.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/quiz_recommendation.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendations_history.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/usecases/pedagogy/generate_quiz_recommendations_usecase.dart';
-import 'package:streamshaala/domain/repositories/recommendations_history_repository.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_attempt_dao.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/quiz_recommendation.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendations_history.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/usecases/pedagogy/generate_quiz_recommendations_usecase.dart';
+import 'package:crack_the_code/domain/repositories/recommendations_history_repository.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_attempt_dao.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Recommendations state
 class RecommendationsState {

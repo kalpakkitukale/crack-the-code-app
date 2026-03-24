@@ -4,12 +4,12 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/domain/entities/study_tools/glossary_term.dart';
-import 'package:streamshaala/presentation/providers/study_tools/glossary_provider.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/domain/entities/study_tools/glossary_term.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/glossary_provider.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
 
 /// Glossary section in video player tabs
 /// Shows glossary terms related to the current video's chapter
@@ -44,7 +44,7 @@ class _GlossarySectionState extends ConsumerState<GlossarySection> {
     }
 
     final glossaryAsync = ref.watch(glossaryNotifierProvider(widget.chapterId!));
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     // Initialize with subject context if available
     if (widget.subjectId != null) {
@@ -274,7 +274,7 @@ class _GlossarySectionState extends ConsumerState<GlossarySection> {
   }
 
   void _showTermDetails(BuildContext context, GlossaryTerm term) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     showDialog(
       context: context,

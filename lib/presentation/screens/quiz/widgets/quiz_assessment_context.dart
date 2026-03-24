@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/presentation/widgets/quiz/assessment_context_indicator.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/assessment_context_indicator.dart';
 
 /// Widget providing contextual information about the assessment type.
 /// Shown on the first question to help users understand the assessment purpose.

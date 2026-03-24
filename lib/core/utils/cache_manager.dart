@@ -2,7 +2,7 @@
 library;
 
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Manages cache timestamps and expiry for local data
 class CacheManager {

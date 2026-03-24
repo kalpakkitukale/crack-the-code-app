@@ -19,7 +19,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.streamshaala.streamshaala"
+    namespace = "com.crackthecode.app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -35,62 +35,14 @@ android {
     }
 
     defaultConfig {
-        // Base Application ID - will be modified by flavors
-        applicationId = "com.streamshaala.streamshaala"
+        applicationId = "com.crackthecode.app"
+        resValue("string", "app_name", "Crack the Code")
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
-    }
-
-    // ═══════════════════════════════════════════════════════════════════════
-    // Product Flavors for Multi-Segment Architecture
-    // ═══════════════════════════════════════════════════════════════════════
-    flavorDimensions += "segment"
-
-    productFlavors {
-        // Junior variant (Grades 1-7)
-        create("junior") {
-            dimension = "segment"
-            applicationIdSuffix = ".junior"
-            versionNameSuffix = "-junior"
-            resValue("string", "app_name", "StreamShaala Junior")
-        }
-
-        // Middle variant (Grades 7-9) - for future use
-        create("middle") {
-            dimension = "segment"
-            applicationIdSuffix = ".middle"
-            versionNameSuffix = "-middle"
-            resValue("string", "app_name", "StreamShaala")
-        }
-
-        // PreBoard variant (Grade 10) - for future use
-        create("preboard") {
-            dimension = "segment"
-            applicationIdSuffix = ".preboard"
-            versionNameSuffix = "-preboard"
-            resValue("string", "app_name", "StreamShaala Board Prep")
-        }
-
-        // SpellShaala variant (English Spelling Learning)
-        create("spelling") {
-            dimension = "segment"
-            applicationIdSuffix = ".spelling"
-            versionNameSuffix = "-spelling"
-            resValue("string", "app_name", "SpellShaala")
-        }
-
-        // Senior variant (Grades 11-12) - current production app
-        create("senior") {
-            dimension = "segment"
-            // No suffix - this is the original app ID for existing users
-            applicationIdSuffix = ""
-            versionNameSuffix = ""
-            resValue("string", "app_name", "StreamShaala")
-        }
     }
 
     // ═══════════════════════════════════════════════════════════════════════

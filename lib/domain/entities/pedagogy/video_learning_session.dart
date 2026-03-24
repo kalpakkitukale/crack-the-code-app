@@ -2,7 +2,7 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/pedagogy/video_checkpoint.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/video_checkpoint.dart';
 
 part 'video_learning_session.freezed.dart';
 part 'video_learning_session.g.dart';

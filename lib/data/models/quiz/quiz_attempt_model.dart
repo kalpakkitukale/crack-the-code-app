@@ -4,12 +4,12 @@
 library;
 
 import 'dart:convert';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt_status.dart';
-import 'package:streamshaala/domain/entities/quiz/question.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt_status.dart';
+import 'package:crack_the_code/domain/entities/quiz/question.dart';
 
 /// Data model for quiz attempts with database serialization
 class QuizAttemptModel {

@@ -1,8 +1,8 @@
 import 'package:sqflite/sqflite.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/core/services/youtube_metadata_service.dart';
-import 'package:streamshaala/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/core/services/youtube_metadata_service.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
 
 /// One-time migration utility to fix progress records
 /// Fixes two issues:

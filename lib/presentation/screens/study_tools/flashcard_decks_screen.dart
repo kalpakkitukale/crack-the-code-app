@@ -5,14 +5,14 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/services/content_index.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/widgets/loaders/shimmer_loading.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard_progress.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/services/content_index.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/widgets/loaders/shimmer_loading.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard_progress.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_provider.dart';
 
 /// Screen showing all flashcard decks in a chapter
 class FlashcardDecksScreen extends ConsumerWidget {
@@ -30,7 +30,7 @@ class FlashcardDecksScreen extends ConsumerWidget {
     final decksAsync = ref.watch(
       chapterFlashcardsProvider(chapterId, subjectId: subjectId),
     );
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     // Get chapter name from content index
     final contentIndex = ContentIndex();

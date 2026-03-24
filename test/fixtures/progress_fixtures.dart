@@ -1,7 +1,7 @@
 /// Progress test fixtures
 library;
 
-import 'package:streamshaala/domain/entities/user/progress.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
 
 /// Fixtures for Progress entity testing
 class ProgressFixtures {

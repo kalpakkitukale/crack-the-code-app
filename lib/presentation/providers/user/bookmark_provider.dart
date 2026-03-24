@@ -1,10 +1,10 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/user/bookmark.dart';
-import 'package:streamshaala/domain/usecases/bookmark/add_bookmark_usecase.dart';
-import 'package:streamshaala/domain/usecases/bookmark/get_all_bookmarks_usecase.dart';
-import 'package:streamshaala/domain/usecases/bookmark/remove_bookmark_usecase.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/user/bookmark.dart';
+import 'package:crack_the_code/domain/usecases/bookmark/add_bookmark_usecase.dart';
+import 'package:crack_the_code/domain/usecases/bookmark/get_all_bookmarks_usecase.dart';
+import 'package:crack_the_code/domain/usecases/bookmark/remove_bookmark_usecase.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// Bookmark Provider
 /// Manages user bookmarks using real repository

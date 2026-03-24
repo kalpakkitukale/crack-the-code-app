@@ -1,4 +1,4 @@
-/// Centralized thresholds and limits for StreamShaala
+/// Centralized thresholds and limits for Crack the Code
 ///
 /// This file consolidates magic numbers used throughout the codebase
 /// to ensure consistency and make them easier to tune.

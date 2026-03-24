@@ -10,11 +10,11 @@ import 'package:dartz/dartz.dart';
 import 'package:firebase_auth/firebase_auth.dart' as firebase;
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
-import 'package:streamshaala/core/config/auth_config.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/auth/auth_user.dart';
-import 'package:streamshaala/domain/repositories/auth_repository.dart';
+import 'package:crack_the_code/core/config/auth_config.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/auth/auth_user.dart';
+import 'package:crack_the_code/domain/repositories/auth_repository.dart';
 
 /// Firebase Authentication Repository Implementation
 class AuthRepositoryImpl implements AuthRepository {
@@ -172,10 +172,10 @@ class AuthRepositoryImpl implements AuthRepository {
       // Configure action code settings for email magic link
       // Uses Firebase Auth domain for reliable cross-platform deep linking
       final actionCodeSettings = firebase.ActionCodeSettings(
-        url: 'https://streamshaala.firebaseapp.com/__/auth/action?mode=signIn',
+        url: 'https://crackthecode.firebaseapp.com/__/auth/action?mode=signIn',
         handleCodeInApp: true,
-        iOSBundleId: 'com.streamshaala.streamshaala',
-        androidPackageName: 'com.streamshaala.streamshaala',
+        iOSBundleId: 'com.crackthecode.app',
+        androidPackageName: 'com.crackthecode.app',
         androidInstallApp: true,
         androidMinimumVersion: '21',
       );

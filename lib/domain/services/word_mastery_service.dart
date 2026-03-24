@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:streamshaala/domain/entities/spelling/word_mastery.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_mastery.dart';
 
 /// Service for calculating word mastery using SM-2 spaced repetition
 class WordMasteryService {

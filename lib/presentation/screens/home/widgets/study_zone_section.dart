@@ -5,9 +5,9 @@ library;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_provider.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_stats_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_provider.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_stats_provider.dart';
 
 /// Study Zone Section showing flashcard stats and due cards
 class StudyZoneSection extends ConsumerWidget {
@@ -17,7 +17,7 @@ class StudyZoneSection extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final dueCardsAsync = ref.watch(dueCardsProvider);
     final statsAsync = ref.watch(flashcardStatsProvider);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return statsAsync.when(
       data: (stats) => dueCardsAsync.when(

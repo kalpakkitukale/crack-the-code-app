@@ -3,29 +3,29 @@
 
 require 'xcodeproj'
 
-project_path = '/Users/apple/work/StreamShaala/ios/Runner.xcodeproj'
+project_path = '/Users/apple/work/Crack the Code/ios/Runner.xcodeproj'
 project = Xcodeproj::Project.open(project_path)
 
 # Flavors to add configurations for
 new_flavors = {
   'middle' => {
-    'bundle_id' => 'com.streamshaala.streamshaala.middle',
-    'product_name' => 'StreamShaala',
-    'display_name' => 'StreamShaala',
+    'bundle_id' => 'com.crackthecode.app.middle',
+    'product_name' => 'Crack the Code',
+    'display_name' => 'Crack the Code',
     'icon_name' => 'AppIcon-middle',
     'entry_point' => 'lib/main_middle.dart'
   },
   'preboard' => {
-    'bundle_id' => 'com.streamshaala.streamshaala.preboard',
-    'product_name' => 'StreamShaala Board Prep',
-    'display_name' => 'StreamShaala Board Prep',
+    'bundle_id' => 'com.crackthecode.app.preboard',
+    'product_name' => 'Crack the Code Board Prep',
+    'display_name' => 'Crack the Code Board Prep',
     'icon_name' => 'AppIcon-preboard',
     'entry_point' => 'lib/main_preboard.dart'
   },
   'senior' => {
-    'bundle_id' => 'com.streamshaala.streamshaala',
-    'product_name' => 'StreamShaala',
-    'display_name' => 'StreamShaala',
+    'bundle_id' => 'com.crackthecode.app',
+    'product_name' => 'Crack the Code',
+    'display_name' => 'Crack the Code',
     'icon_name' => 'AppIcon-senior',
     'entry_point' => 'lib/main_senior.dart'
   }

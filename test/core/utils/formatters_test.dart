@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streamshaala/core/utils/formatters.dart';
+import 'package:crack_the_code/core/utils/formatters.dart';
 
 void main() {
   group('Formatters', () {

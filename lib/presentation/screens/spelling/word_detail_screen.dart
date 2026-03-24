@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/services/tts_service.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/services/tts_service.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
 
 class WordDetailScreen extends StatelessWidget {
   final Word word;

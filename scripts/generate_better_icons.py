@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate distinctive app icons for StreamShaala segments using actual PNG composition
+Generate distinctive app icons for Crack the Code segments using actual PNG composition
 """
 
 from PIL import Image, ImageDraw, ImageFont
@@ -212,7 +212,7 @@ def main():
     icons_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'assets', 'icons')
     os.makedirs(icons_dir, exist_ok=True)
 
-    print("🎨 Generating improved StreamShaala app icons...")
+    print("🎨 Generating improved Crack the Code app icons...")
     print("")
 
     # Generate Junior icon

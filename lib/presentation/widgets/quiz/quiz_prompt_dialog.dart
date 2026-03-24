@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
 
 /// Dialog that prompts user to take a quiz after watching a video
 /// Shows different messaging for Junior vs other segments
@@ -18,7 +18,7 @@ class QuizPromptDialog extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
 
     return AlertDialog(
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),

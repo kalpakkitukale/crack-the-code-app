@@ -1,12 +1,12 @@
 import 'dart:math';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_session.dart';
-import 'package:streamshaala/domain/entities/spelling/spelling_attempt.dart';
-import 'package:streamshaala/domain/entities/spelling/word_mastery.dart';
-import 'package:streamshaala/domain/services/spelling_checker_service.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_session.dart';
+import 'package:crack_the_code/domain/entities/spelling/spelling_attempt.dart';
+import 'package:crack_the_code/domain/entities/spelling/word_mastery.dart';
+import 'package:crack_the_code/domain/services/spelling_checker_service.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
 
 /// State for a spelling practice session
 class SpellingPracticeState {

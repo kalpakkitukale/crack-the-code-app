@@ -6,8 +6,8 @@ library;
 
 import 'dart:async';
 
-import 'package:streamshaala/core/services/connectivity_service.dart';
-import 'package:streamshaala/core/services/secure_http_client.dart';
+import 'package:crack_the_code/core/services/connectivity_service.dart';
+import 'package:crack_the_code/core/services/secure_http_client.dart';
 
 /// Mock ConnectivityService for testing offline/online scenarios
 ///

@@ -1,13 +1,13 @@
 /// PreAssessmentService - Generates and processes pre-assessment questions
 library;
 
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/json/concept_json_data_source.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/concept_mastery_dao.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
-import 'package:streamshaala/domain/entities/pedagogy/pre_assessment.dart';
-import 'package:streamshaala/domain/services/gap_analysis_service.dart';
-import 'package:streamshaala/domain/services/mastery_calculation_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/json/concept_json_data_source.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/concept_mastery_dao.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/pre_assessment.dart';
+import 'package:crack_the_code/domain/services/gap_analysis_service.dart';
+import 'package:crack_the_code/domain/services/mastery_calculation_service.dart';
 
 /// Service for generating adaptive pre-assessment questions
 class PreAssessmentService {

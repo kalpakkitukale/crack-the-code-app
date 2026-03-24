@@ -2,7 +2,7 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_summary.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_summary.dart';
 
 part 'chapter_summary.freezed.dart';
 part 'chapter_summary.g.dart';

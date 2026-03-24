@@ -1,9 +1,9 @@
 /// Use case for tracking user interactions with recommendations
 library;
 
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/quiz_attempt_dao.dart';
-import 'package:streamshaala/domain/repositories/recommendations_history_repository.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/quiz_attempt_dao.dart';
+import 'package:crack_the_code/domain/repositories/recommendations_history_repository.dart';
 
 /// Use case for tracking various user actions on recommendations
 class TrackRecommendationActionsUseCase {

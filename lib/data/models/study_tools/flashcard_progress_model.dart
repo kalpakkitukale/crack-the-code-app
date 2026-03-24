@@ -1,8 +1,8 @@
 /// Flashcard Progress data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/study_tools/flashcard_progress.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/study_tools/flashcard_progress.dart';
 
 /// Flashcard Progress model for SQLite database
 class FlashcardProgressModel {

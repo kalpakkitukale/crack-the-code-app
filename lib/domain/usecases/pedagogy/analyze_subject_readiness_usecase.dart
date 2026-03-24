@@ -2,9 +2,9 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/domain/entities/pedagogy/subject_gap_analysis.dart';
-import 'package:streamshaala/domain/services/gap_analysis_service.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/subject_gap_analysis.dart';
+import 'package:crack_the_code/domain/services/gap_analysis_service.dart';
 
 /// Parameters for analyze subject readiness use case
 class AnalyzeSubjectReadinessParams {

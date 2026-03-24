@@ -1,15 +1,15 @@
-/// Application-wide constants for StreamShaala
+/// Application-wide constants for Crack the Code
 class AppConstants {
   AppConstants._();
 
   // App Information
-  static const String appName = 'StreamShaala';
+  static const String appName = 'Crack the Code';
   static const String appVersion = '1.0.0';
   static const String appDescription =
       'Multi-platform educational video aggregator for Indian 12th standard students';
 
   // Database
-  static const String databaseName = 'streamshaala.db';
+  static const String databaseName = 'crackthecode.db';
   static const int databaseVersion = 1;
 
   // Pagination

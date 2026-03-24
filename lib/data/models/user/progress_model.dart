@@ -1,8 +1,8 @@
 /// Progress data model for database operations
 library;
 
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/domain/entities/user/progress.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/domain/entities/user/progress.dart';
 
 /// Progress model for SQLite database
 class ProgressModel {

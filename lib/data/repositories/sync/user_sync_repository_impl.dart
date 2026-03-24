@@ -5,15 +5,15 @@ library;
 import 'dart:async';
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/constants/database_constants.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/services/connectivity_service.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/data/datasources/remote/drive_sync_datasource.dart';
-import 'package:streamshaala/data/models/sync/sync_operation.dart';
-import 'package:streamshaala/data/models/sync/sync_state.dart';
-import 'package:streamshaala/domain/repositories/sync/user_sync_repository.dart';
+import 'package:crack_the_code/core/constants/database_constants.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/services/connectivity_service.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/data/datasources/remote/drive_sync_datasource.dart';
+import 'package:crack_the_code/data/models/sync/sync_operation.dart';
+import 'package:crack_the_code/data/models/sync/sync_state.dart';
+import 'package:crack_the_code/domain/repositories/sync/user_sync_repository.dart';
 
 /// Implementation of user sync repository
 class UserSyncRepositoryImpl implements UserSyncRepository {

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/mastery_provider.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/mastery_provider.dart';
 
 /// Daily Review Screen
 /// Shows concepts and flashcards due for review based on spaced repetition
@@ -28,7 +28,7 @@ class _DailyReviewScreenState extends ConsumerState<DailyReviewScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final masteryState = ref.watch(masteryProvider);
 
     // Get items due for review (mastery < 80% or last reviewed > 7 days ago)

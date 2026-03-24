@@ -5,10 +5,10 @@ library;
 
 import 'package:dartz/dartz.dart';
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/database_helper.dart';
-import 'package:streamshaala/domain/repositories/path_metrics_repository.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/database_helper.dart';
+import 'package:crack_the_code/domain/repositories/path_metrics_repository.dart';
 
 /// Concrete implementation of PathMetricsRepository
 class PathMetricsRepositoryImpl implements PathMetricsRepository {

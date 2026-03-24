@@ -2,8 +2,8 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:streamshaala/core/config/segment_config.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/config/segment_config.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
 
 /// A card widget for displaying study tools in the Chapter Study Hub
 class StudyToolCard extends StatelessWidget {
@@ -40,7 +40,7 @@ class StudyToolCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final isJunior = SegmentConfig.isJunior;
+    final isJunior = SegmentConfig.isCrackTheCode;
     final cardPadding = isJunior ? AppTheme.spacingLg : AppTheme.spacingMd;
     final iconSize = isJunior ? 36.0 : 28.0;
     final titleStyle = isJunior

@@ -3,16 +3,16 @@ library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/usecases/content/get_videos_usecase.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/presentation/providers/study_tools/flashcard_provider.dart';
-import 'package:streamshaala/presentation/providers/study_tools/glossary_provider.dart';
-import 'package:streamshaala/presentation/providers/study_tools/mind_map_provider.dart';
-import 'package:streamshaala/presentation/providers/study_tools/chapter_summary_provider.dart';
-import 'package:streamshaala/presentation/providers/study_tools/chapter_notes_provider.dart';
-import 'package:streamshaala/presentation/providers/user/progress_provider.dart';
-import 'package:streamshaala/presentation/providers/user/user_profile_provider.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/usecases/content/get_videos_usecase.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/flashcard_provider.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/glossary_provider.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/mind_map_provider.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/chapter_summary_provider.dart';
+import 'package:crack_the_code/presentation/providers/study_tools/chapter_notes_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/progress_provider.dart';
+import 'package:crack_the_code/presentation/providers/user/user_profile_provider.dart';
 
 part 'chapter_study_provider.g.dart';
 

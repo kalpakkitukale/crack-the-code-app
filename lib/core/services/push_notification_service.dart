@@ -6,7 +6,7 @@ import 'dart:io';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:streamshaala/core/utils/logger.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
 
 /// Background message handler - must be top-level function
 @pragma('vm:entry-point')
@@ -34,8 +34,8 @@ class PushNotificationService {
 
   /// Android notification channel
   static const AndroidNotificationChannel _channel = AndroidNotificationChannel(
-    'streamshaala_notifications',
-    'StreamShaala Notifications',
+    'crackthecode_notifications',
+    'Crack the Code Notifications',
     description: 'Notifications for new content, reminders, and updates',
     importance: Importance.high,
     playSound: true,

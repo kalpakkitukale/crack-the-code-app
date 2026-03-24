@@ -2,16 +2,16 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/collection_dao.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/collection_video_dao.dart';
-import 'package:streamshaala/data/models/user/collection_model.dart';
-import 'package:streamshaala/data/models/user/collection_video_model.dart';
-import 'package:streamshaala/domain/entities/user/collection.dart';
-import 'package:streamshaala/domain/entities/user/collection_video.dart';
-import 'package:streamshaala/domain/repositories/collection_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/collection_dao.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/collection_video_dao.dart';
+import 'package:crack_the_code/data/models/user/collection_model.dart';
+import 'package:crack_the_code/data/models/user/collection_video_model.dart';
+import 'package:crack_the_code/domain/entities/user/collection.dart';
+import 'package:crack_the_code/domain/entities/user/collection_video.dart';
+import 'package:crack_the_code/domain/repositories/collection_repository.dart';
 
 /// Implementation of CollectionRepository using local database
 class CollectionRepositoryImpl implements CollectionRepository {

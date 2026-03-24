@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/domain/entities/spelling/word.dart';
-import 'package:streamshaala/domain/repositories/spelling_repository.dart';
+import 'package:crack_the_code/domain/entities/spelling/word.dart';
+import 'package:crack_the_code/domain/repositories/spelling_repository.dart';
 
 class GetWordOfTheDayUseCase {
   final SpellingRepository repository;

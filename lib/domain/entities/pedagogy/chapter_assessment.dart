@@ -2,7 +2,7 @@
 library;
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept_gap.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept_gap.dart';
 
 part 'chapter_assessment.freezed.dart';
 part 'chapter_assessment.g.dart';

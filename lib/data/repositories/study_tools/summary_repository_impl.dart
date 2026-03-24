@@ -2,14 +2,14 @@
 library;
 
 import 'package:dartz/dartz.dart';
-import 'package:streamshaala/core/errors/exceptions.dart';
-import 'package:streamshaala/core/errors/failures.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/data/datasources/json/study_tools_json_datasource.dart';
-import 'package:streamshaala/data/datasources/local/database/dao/video_summary_dao.dart';
-import 'package:streamshaala/data/models/study_tools/video_summary_model.dart';
-import 'package:streamshaala/domain/entities/study_tools/video_summary.dart';
-import 'package:streamshaala/domain/repositories/study_tools/summary_repository.dart';
+import 'package:crack_the_code/core/errors/exceptions.dart';
+import 'package:crack_the_code/core/errors/failures.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/data/datasources/json/study_tools_json_datasource.dart';
+import 'package:crack_the_code/data/datasources/local/database/dao/video_summary_dao.dart';
+import 'package:crack_the_code/data/models/study_tools/video_summary_model.dart';
+import 'package:crack_the_code/domain/entities/study_tools/video_summary.dart';
+import 'package:crack_the_code/domain/repositories/study_tools/summary_repository.dart';
 
 /// Implementation of SummaryRepository using JSON-first loading with database caching
 class SummaryRepositoryImpl implements SummaryRepository {

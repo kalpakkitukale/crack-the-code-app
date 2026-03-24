@@ -1,25 +1,25 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:streamshaala/core/constants/route_constants.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/core/extensions/datetime_extensions.dart';
-import 'package:streamshaala/core/models/assessment_type.dart';
-import 'package:streamshaala/core/responsive/responsive_builder.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/quiz_recommendation.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_attempt.dart';
-import 'package:streamshaala/domain/entities/quiz/quiz_result.dart';
-import 'package:streamshaala/domain/repositories/recommendations_history_repository.dart';
-import 'package:streamshaala/domain/usecases/pedagogy/get_recommendations_history_usecase.dart';
-import 'package:streamshaala/infrastructure/di/injection_container.dart';
-import 'package:streamshaala/presentation/providers/user/quiz_history_provider.dart';
-import 'package:streamshaala/presentation/widgets/quiz/empty_quiz_state.dart';
-import 'package:streamshaala/presentation/widgets/quiz/filter_chips_bar.dart';
-import 'package:streamshaala/presentation/widgets/quiz/quiz_filter_chips.dart' show PerformanceFilter, QuizFilterChips, DateRangeFilter;
-import 'package:streamshaala/presentation/widgets/quiz/quiz_history_item.dart';
+import 'package:crack_the_code/core/constants/route_constants.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/core/extensions/datetime_extensions.dart';
+import 'package:crack_the_code/core/models/assessment_type.dart';
+import 'package:crack_the_code/core/responsive/responsive_builder.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/quiz_recommendation.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_attempt.dart';
+import 'package:crack_the_code/domain/entities/quiz/quiz_result.dart';
+import 'package:crack_the_code/domain/repositories/recommendations_history_repository.dart';
+import 'package:crack_the_code/domain/usecases/pedagogy/get_recommendations_history_usecase.dart';
+import 'package:crack_the_code/infrastructure/di/injection_container.dart';
+import 'package:crack_the_code/presentation/providers/user/quiz_history_provider.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/empty_quiz_state.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/filter_chips_bar.dart';
+import 'package:crack_the_code/presentation/widgets/quiz/quiz_filter_chips.dart' show PerformanceFilter, QuizFilterChips, DateRangeFilter;
+import 'package:crack_the_code/presentation/widgets/quiz/quiz_history_item.dart';
 
 /// Provider for recommendations history repository
 final recommendationsHistoryRepositoryProvider = Provider<RecommendationsHistoryRepository>((ref) {

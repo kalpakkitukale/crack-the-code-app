@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/theme/app_theme.dart';
-import 'package:streamshaala/core/extensions/context_extensions.dart';
-import 'package:streamshaala/domain/entities/pedagogy/learning_path_context.dart';
-import 'package:streamshaala/presentation/providers/pedagogy/learning_path_provider.dart';
+import 'package:crack_the_code/core/theme/app_theme.dart';
+import 'package:crack_the_code/core/extensions/context_extensions.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/learning_path_context.dart';
+import 'package:crack_the_code/presentation/providers/pedagogy/learning_path_provider.dart';
 
 /// Revision Screen - Quick review of key concepts before continuing
 ///

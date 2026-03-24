@@ -3,9 +3,9 @@ library;
 
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/concept.dart';
-import 'package:streamshaala/domain/entities/pedagogy/video_checkpoint.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/concept.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/video_checkpoint.dart';
 
 /// Data source for loading concept data from JSON files
 class ConceptJsonDataSource {

@@ -1,12 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:streamshaala/domain/entities/pedagogy/recommendation_status.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/recommendation_status.dart';
 
 class AppTheme {
-  // Color palette
-  static const primaryBlue = Color(0xFF2196F3);
-  static const primaryGreen = Color(0xFF4CAF50);
-  static const accentColor = Color(0xFF00BCD4);
+  // Crack the Code brand colors
+  static const primaryNavy = Color(0xFF0a0618);
+  static const primaryGold = Color(0xFFFFD700);
+  static const accentOrange = Color(0xFFFF6B35);
+
+  // Legacy aliases (referenced by theme factory)
+  static const primaryBlue = primaryNavy;
+  static const primaryGreen = primaryGold;
+  static const accentColor = accentOrange;
   static const errorColor = Color(0xFFE91E63);
   static const warningColor = Color(0xFFFF9800);
   static const successColor = Color(0xFF4CAF50);

@@ -4,9 +4,9 @@
 library;
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:streamshaala/core/utils/logger.dart';
-import 'package:streamshaala/domain/entities/pedagogy/video_checkpoint.dart';
-import 'package:streamshaala/domain/entities/pedagogy/video_learning_session.dart';
+import 'package:crack_the_code/core/utils/logger.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/video_checkpoint.dart';
+import 'package:crack_the_code/domain/entities/pedagogy/video_learning_session.dart';
 
 /// Video learning state
 class VideoLearningState {
