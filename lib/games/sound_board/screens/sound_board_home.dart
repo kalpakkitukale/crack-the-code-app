@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
-import 'package:crack_the_code/shared/providers/tier_progress_provider.dart';
 import 'package:crack_the_code/shared/widgets/coin_counter.dart';
 import 'package:crack_the_code/games/sound_board/providers/sound_board_providers.dart';
 import 'package:crack_the_code/games/sound_board/widgets/kk_avatar.dart';

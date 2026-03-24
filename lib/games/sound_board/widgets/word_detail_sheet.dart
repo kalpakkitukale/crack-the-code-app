@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:crack_the_code/shared/models/category.dart';
 import 'package:crack_the_code/shared/models/word_entry.dart';
 
 class WordDetailSheet extends StatelessWidget {

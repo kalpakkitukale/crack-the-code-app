@@ -29,7 +29,6 @@ class _PhonogramCollectionTileState extends State<PhonogramCollectionTile>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
   late Animation<double> _scale;
-  bool _justDiscovered = false;
 
   @override
   void initState() {
@@ -47,7 +46,6 @@ class _PhonogramCollectionTileState extends State<PhonogramCollectionTile>
   void didUpdateWidget(PhonogramCollectionTile oldWidget) {
     super.didUpdateWidget(oldWidget);
     if (!oldWidget.isDiscovered && widget.isDiscovered) {
-      _justDiscovered = true;
       _controller.forward().then((_) => _controller.reverse());
     }
   }

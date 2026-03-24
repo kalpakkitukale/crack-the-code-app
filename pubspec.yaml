@@ -23,6 +23,8 @@ dependencies:
   sqflite_common_ffi: ^2.3.4  # For desktop platforms
   path_provider: ^2.1.5
   path: ^1.9.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
 
   # Video Player
   flutter_inappwebview: ^6.1.5  # For all platforms (Android, iOS, Web, Desktop)

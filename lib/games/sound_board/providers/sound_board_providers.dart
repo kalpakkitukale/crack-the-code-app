@@ -6,7 +6,6 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:crack_the_code/shared/models/category.dart';
 import 'package:crack_the_code/shared/models/mastery_data.dart';
 import 'package:crack_the_code/shared/models/phonogram.dart';
-import 'package:crack_the_code/shared/models/word_entry.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
 import 'package:crack_the_code/shared/providers/tier_progress_provider.dart';
 import 'package:crack_the_code/games/sound_board/models/sound_board_progress.dart';
@@ -251,7 +250,7 @@ class WordBuilderNotifier extends Notifier<WordBuilderState> {
       // KK message
       if (isBonus) {
         ref.read(kkMessageProvider.notifier).state =
-            KKMessage.bonusWord(assembled.toUpperCase(), entry!.tier);
+            KKMessage.bonusWord(assembled.toUpperCase(), entry.tier);
       } else {
         ref.read(kkMessageProvider.notifier).state =
             KKMessage.wordBuilt(assembled.toUpperCase());

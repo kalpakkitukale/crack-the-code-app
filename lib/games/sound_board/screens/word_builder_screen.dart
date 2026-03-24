@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
 import 'package:crack_the_code/games/sound_board/providers/sound_board_providers.dart';
-import 'package:crack_the_code/games/sound_board/models/word_builder_state.dart';
 import 'package:crack_the_code/games/sound_board/widgets/kk_avatar.dart';
 import 'package:crack_the_code/games/sound_board/widgets/kk_speech_bubble.dart';
 import 'package:crack_the_code/games/sound_board/widgets/word_detail_sheet.dart';
