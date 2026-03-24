@@ -11,6 +11,7 @@ class WordRepository {
   final Map<String, List<WordEntry>> _byPhonogram = {};
   final Map<int, List<WordEntry>> _byRule = {};
   final Map<int, List<WordEntry>> _byDifficulty = {};
+  final Map<int, List<WordEntry>> _byTier = {};
   bool _loaded = false;
 
   bool get isLoaded => _loaded;
@@ -33,6 +34,7 @@ class WordRepository {
     _byPhonogram.clear();
     _byRule.clear();
     _byDifficulty.clear();
+    _byTier.clear();
     for (final w in _words) {
       for (final p in w.phonogramBreakdown) {
         _byPhonogram.putIfAbsent(p, () => []).add(w);
@@ -41,6 +43,7 @@ class WordRepository {
         _byRule.putIfAbsent(r, () => []).add(w);
       }
       _byDifficulty.putIfAbsent(w.difficulty, () => []).add(w);
+      _byTier.putIfAbsent(w.tier, () => []).add(w);
     }
     _loaded = true;
   }
@@ -84,5 +87,30 @@ class WordRepository {
 
   List<String> autocomplete(String prefix, {int limit = 10}) {
     return _trie.wordsWithPrefix(prefix.toLowerCase(), limit: limit);
+  }
+
+  // Tier-aware queries
+  List<WordEntry> getWordsForTier(int tier) => _byTier[tier] ?? [];
+
+  List<WordEntry> getUnlockedWords(Set<int> unlockedTiers) =>
+      _words.where((w) => unlockedTiers.contains(w.tier)).toList();
+
+  List<WordEntry> getWordsForPhonogramInTiers(
+      String phonogramText, Set<int> unlockedTiers) {
+    return (_byPhonogram[phonogramText] ?? [])
+        .where((w) => unlockedTiers.contains(w.tier))
+        .toList();
+  }
+
+  bool isInUnlockedTier(String word, Set<int> unlockedTiers) {
+    final entry = _words.where(
+        (w) => w.word.toLowerCase() == word.toLowerCase()).firstOrNull;
+    if (entry == null) return false;
+    return unlockedTiers.contains(entry.tier);
+  }
+
+  WordEntry? getWordEntry(String word) {
+    return _words.where(
+        (w) => w.word.toLowerCase() == word.toLowerCase()).firstOrNull;
   }
 }

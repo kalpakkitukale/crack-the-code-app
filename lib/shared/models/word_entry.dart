@@ -1,5 +1,6 @@
 class WordEntry {
   final String word;
+  final int tier;
   final List<String> phonogramBreakdown;
   final List<String> soundBreakdown;
   final List<int> ruleNumbers;
@@ -17,6 +18,7 @@ class WordEntry {
     required this.word,
     required this.phonogramBreakdown,
     required this.soundBreakdown,
+    this.tier = 1,
     this.ruleNumbers = const [],
     this.difficulty = 1,
     this.frequency = 0,
@@ -41,6 +43,7 @@ class WordEntry {
   factory WordEntry.fromJson(Map<String, dynamic> json) {
     return WordEntry(
       word: json['word'] as String,
+      tier: json['tier'] as int? ?? 1,
       phonogramBreakdown: (json['phonogramBreakdown'] as List<dynamic>?)
               ?.map((e) => e as String)
               .toList() ??
@@ -74,6 +77,7 @@ class WordEntry {
 
   Map<String, dynamic> toJson() => {
         'word': word,
+        'tier': tier,
         'phonogramBreakdown': phonogramBreakdown,
         'soundBreakdown': soundBreakdown,
         'ruleNumbers': ruleNumbers,
