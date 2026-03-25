@@ -155,5 +155,12 @@ flutter:
     - assets/data/spelling/word_lists/grade_8/
     - assets/data/lessons/
     - assets/data/episodes/
+    - assets/audio/phonograms/
+    - assets/audio/words/
+    - assets/audio/ui/
+    - assets/audio/hindi/
+    - assets/audio/marathi/
+    - assets/audio/music/
+    - assets/audio/manifests/
     - assets/images/
     - assets/icons/
