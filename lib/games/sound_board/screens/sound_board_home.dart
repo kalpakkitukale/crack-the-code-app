@@ -72,9 +72,25 @@ class SoundBoardHome extends ConsumerWidget {
                 padding: const EdgeInsets.fromLTRB(16, 12, 16, 8),
                 child: TodaySoundCard(
                   onPhonogramTapped: (id) {
+                    // Record progress
                     ref
                         .read(soundBoardProgressProvider.notifier)
                         .recordTap(id);
+                    // Play sound
+                    final phonogram = ref
+                        .read(phonogramRepositoryProvider)
+                        .getById(id);
+                    if (phonogram != null && phonogram.sounds.isNotEmpty) {
+                      final sound = phonogram.sounds.first;
+                      final ex = sound.exampleWords.isNotEmpty
+                          ? sound.exampleWords.first.word
+                          : null;
+                      ref.read(audioRepositoryProvider).playPhonogram(
+                            sound.soundId,
+                            notation: sound.notation,
+                            exampleWord: ex,
+                          );
+                    }
                   },
                 ),
               ),

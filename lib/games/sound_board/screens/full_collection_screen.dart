@@ -109,9 +109,22 @@ class FullCollectionScreen extends ConsumerWidget {
                       masteryLevel: mastery,
                       size: tileSize.clamp(40, 90),
                       onTap: () {
+                        // Record progress
                         ref
                             .read(soundBoardProgressProvider.notifier)
                             .recordTap(p.id);
+                        // Play sound
+                        if (p.sounds.isNotEmpty) {
+                          final sound = p.sounds.first;
+                          final ex = sound.exampleWords.isNotEmpty
+                              ? sound.exampleWords.first.word
+                              : null;
+                          ref.read(audioRepositoryProvider).playPhonogram(
+                                sound.soundId,
+                                notation: sound.notation,
+                                exampleWord: ex,
+                              );
+                        }
                       },
                       onLongPress: () {
                         Navigator.of(context).push(MaterialPageRoute(
