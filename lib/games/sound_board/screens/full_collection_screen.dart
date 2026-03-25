@@ -109,11 +109,10 @@ class FullCollectionScreen extends ConsumerWidget {
                       masteryLevel: mastery,
                       size: tileSize.clamp(40, 90),
                       onTap: () {
-                        // Record progress
+                        // Record progress + play sound
                         ref
                             .read(soundBoardProgressProvider.notifier)
                             .recordTap(p.id);
-                        // Play sound
                         if (p.sounds.isNotEmpty) {
                           final sound = p.sounds.first;
                           final ex = sound.exampleWords.isNotEmpty
@@ -125,6 +124,11 @@ class FullCollectionScreen extends ConsumerWidget {
                                 exampleWord: ex,
                               );
                         }
+                        // Open detail screen
+                        Navigator.of(context).push(MaterialPageRoute(
+                          builder: (_) =>
+                              PhonogramDetailScreen(phonogramId: p.id),
+                        ));
                       },
                       onLongPress: () {
                         Navigator.of(context).push(MaterialPageRoute(
