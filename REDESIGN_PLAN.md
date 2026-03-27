@@ -33,7 +33,7 @@ OLD APP:                          NEW APP:
 | `characters.json` | Didn't exist | 168 characters | CREATE |
 | `rules.json` | 38 rules | 100 rules | REWRITE |
 | `levels.json` | Didn't exist | 5 levels | CREATE |
-| `words.json` | 240 words | 5000 words (expand later) | UPDATE |
+| `words.json` | 240 words | 10,000+ words (frequency-ranked) | REWRITE |
 | `content_config.json` | Basic gating | Level-based gating | UPDATE |
 
 ### New Data Models
