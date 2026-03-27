@@ -17,9 +17,13 @@ import 'package:crack_the_code/shared/services/storage_service.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
 import 'package:crack_the_code/shared/l10n/app_strings.dart';
 import 'package:crack_the_code/games/sound_board/screens/sound_board_home.dart';
+import 'package:crack_the_code/shared/providers/trial_provider.dart';
+import 'package:crack_the_code/presentation/screens/trial/trial_home_screen.dart';
 import 'package:crack_the_code/presentation/screens/learn/learn_hub_screen.dart';
 import 'package:crack_the_code/presentation/screens/practice/practice_hub_screen.dart';
 import 'package:crack_the_code/presentation/screens/games/games_hub_screen.dart';
+import 'package:crack_the_code/presentation/screens/progress/progress_dashboard.dart';
+import 'package:crack_the_code/presentation/screens/collection/collection_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -126,13 +130,19 @@ class _AppShellState extends ConsumerState<_AppShell> {
   Widget build(BuildContext context) {
     final profile = ref.watch(playerProfileProvider);
     final strings = AppStrings(profile.language);
+    final trialProgress = ref.watch(trialProgressProvider);
+
+    // Show trial screen if not completed
+    if (!trialProgress.trialCompleted) {
+      return const TrialHomeScreen();
+    }
 
     final screens = [
       const SoundBoardHome(),
       const LearnHubScreen(),
       const PracticeHubScreen(),
       const GamesHubScreen(),
-      _buildProgressPlaceholder(strings),
+      const ProgressDashboard(),
     ];
 
     return Scaffold(
@@ -182,35 +192,5 @@ class _AppShellState extends ConsumerState<_AppShell> {
     );
   }
 
-  Widget _buildProgressPlaceholder(AppStrings strings) {
-    return Scaffold(
-      backgroundColor: const Color(0xFF0A0618),
-      body: SafeArea(
-        child: Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              const Text('🏆', style: TextStyle(fontSize: 64)),
-              const SizedBox(height: 16),
-              Text(
-                strings.myProgress,
-                style: const TextStyle(
-                  fontSize: 24,
-                  fontWeight: FontWeight.w800,
-                  color: Colors.white,
-                ),
-              ),
-              const SizedBox(height: 8),
-              Text(
-                'Coming in Phase 9',
-                style: TextStyle(
-                  color: Colors.white.withValues(alpha: 0.4),
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
+  // Progress is now the real ProgressDashboard
 }

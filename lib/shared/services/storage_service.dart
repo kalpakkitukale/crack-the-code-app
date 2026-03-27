@@ -26,6 +26,9 @@ class GameStorageService {
       // Game-specific boxes
       Hive.openBox<String>('sound_board_progress'),
       Hive.openBox<String>('lesson_progress'),
+      Hive.openBox<String>('trial_progress'),
+      Hive.openBox<String>('character_collection'),
+      Hive.openBox<String>('level_progress'),
     ]);
     _initialized = true;
   }
