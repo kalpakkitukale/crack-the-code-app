@@ -317,8 +317,23 @@
       "hi": "मैं GRIP हूँ! मैं /g/ बोलता हूँ!",
       "mr": "मी GRIP! मी /g/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BIG",
+      "DRAGON",
+      "ENERGY",
+      "GAME",
+      "GEM",
+      "GENTLE",
+      "GIANT",
+      "GIFT"
+    ],
+    "mediumWords": [
+      "GINGER",
+      "GIRAFFE",
+      "GO",
+      "GOT",
+      "GRASS"
+    ]
   },
   {
     "id": "CHAR-012",
@@ -333,8 +348,23 @@
       "hi": "मैं GEM हूँ! मैं /j/ बोलता हूँ!",
       "mr": "मी GEM! मी /j/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BIG",
+      "DRAGON",
+      "ENERGY",
+      "GAME",
+      "GEM",
+      "GENTLE",
+      "GIANT",
+      "GIFT"
+    ],
+    "mediumWords": [
+      "GINGER",
+      "GIRAFFE",
+      "GO",
+      "GOT",
+      "GRASS"
+    ]
   },
   {
     "id": "CHAR-013",
@@ -349,7 +379,15 @@
       "hi": "मैं HAWK हूँ! मैं /h/ बोलता हूँ!",
       "mr": "मी HAWK! मी /h/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BEHIND",
+      "HAPPY",
+      "HAT",
+      "HELP",
+      "HEN",
+      "HOP",
+      "HOUSE"
+    ],
     "mediumWords": []
   },
   {
@@ -365,8 +403,23 @@
       "hi": "मैं INK हूँ! मैं /ĭ/ बोलता हूँ!",
       "mr": "मी INK! मी /ĭ/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BIKE",
+      "BRIDGE",
+      "FIND",
+      "FISH",
+      "GIFT",
+      "ICE",
+      "ISLAND",
+      "KITE"
+    ],
+    "mediumWords": [
+      "KITTEN",
+      "MIND",
+      "PIG",
+      "SIT",
+      "SKIP"
+    ]
   },
   {
     "id": "CHAR-015",
@@ -381,8 +434,23 @@
       "hi": "मैं ICE हूँ! मैं /ī/ बोलता हूँ!",
       "mr": "मी ICE! मी /ī/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BIKE",
+      "BRIDGE",
+      "FIND",
+      "FISH",
+      "GIFT",
+      "ICE",
+      "ISLAND",
+      "KITE"
+    ],
+    "mediumWords": [
+      "KITTEN",
+      "MIND",
+      "PIG",
+      "SIT",
+      "SKIP"
+    ]
   },
   {
     "id": "CHAR-016",
@@ -397,7 +465,15 @@
       "hi": "मैं JAX हूँ! मैं /j/ बोलता हूँ!",
       "mr": "मी JAX! मी /j/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "ENJOY",
+      "JAM",
+      "JELLY",
+      "JET",
+      "JOY",
+      "JUMP",
+      "JUST"
+    ],
     "mediumWords": []
   },
   {
@@ -413,7 +489,15 @@
       "hi": "मैं KRAIT हूँ! मैं /k/ बोलता हूँ!",
       "mr": "मी KRAIT! मी /k/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BASKET",
+      "KEEP",
+      "KEY",
+      "KICK",
+      "KING",
+      "KITE",
+      "MASK"
+    ],
     "mediumWords": []
   },
   {
@@ -429,7 +513,15 @@
       "hi": "मैं LYNX हूँ! मैं /l/ बोलता हूँ!",
       "mr": "मी LYNX! मी /l/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BALL",
+      "HELLO",
+      "LEARN",
+      "LEG",
+      "LION",
+      "LIP",
+      "LOVE"
+    ],
     "mediumWords": []
   },
   {
@@ -445,7 +537,15 @@
       "hi": "मैं MACE हूँ! मैं /m/ बोलता हूँ!",
       "mr": "मी MACE! मी /m/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "DREAM",
+      "DRUM",
+      "MAP",
+      "MILK",
+      "MOM",
+      "MONKEY",
+      "MOON"
+    ],
     "mediumWords": []
   },
   {
@@ -461,7 +561,15 @@
       "hi": "मैं NEXUS हूँ! मैं /n/ बोलता हूँ!",
       "mr": "मी NEXUS! मी /n/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "ANIMAL",
+      "FAN",
+      "NEST",
+      "NET",
+      "NINE",
+      "NOSE",
+      "NUT"
+    ],
     "mediumWords": []
   },
   {
@@ -477,8 +585,23 @@
       "hi": "मैं OX हूँ! मैं /ŏ/ बोलता हूँ!",
       "mr": "मी OX! मी /ŏ/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "ALONE",
+      "APPROVE",
+      "BROKEN",
+      "CLOCK",
+      "DO",
+      "DOG",
+      "GO",
+      "HOME"
+    ],
+    "mediumWords": [
+      "HOT",
+      "LOSE",
+      "MOVE",
+      "NO",
+      "OCTOPUS"
+    ]
   },
   {
     "id": "CHAR-022",
@@ -493,8 +616,23 @@
       "hi": "मैं ODIN हूँ! मैं /ō/ बोलता हूँ!",
       "mr": "मी ODIN! मी /ō/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "ALONE",
+      "APPROVE",
+      "BROKEN",
+      "CLOCK",
+      "DO",
+      "DOG",
+      "GO",
+      "HOME"
+    ],
+    "mediumWords": [
+      "HOT",
+      "LOSE",
+      "MOVE",
+      "NO",
+      "OCTOPUS"
+    ]
   },
   {
     "id": "CHAR-023",
@@ -509,7 +647,15 @@
       "hi": "मैं PIKE हूँ! मैं /p/ बोलता हूँ!",
       "mr": "मी PIKE! मी /p/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "CUP",
+      "OPEN",
+      "PAN",
+      "PEPPER",
+      "PIE",
+      "PIG",
+      "PLANT"
+    ],
     "mediumWords": []
   },
   {
@@ -525,7 +671,15 @@
       "hi": "मैं QUAKE हूँ! मैं /kw/ बोलता हूँ!",
       "mr": "मी QUAKE! मी /kw/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "QUARTER",
+      "QUEEN",
+      "QUEST",
+      "QUICK",
+      "QUIET",
+      "QUILT",
+      "QUITE"
+    ],
     "mediumWords": []
   },
   {
@@ -541,7 +695,15 @@
       "hi": "मैं RIFT हूँ! मैं /r/ बोलता हूँ!",
       "mr": "मी RIFT! मी /r/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "CAR",
+      "RABBIT",
+      "RAIN",
+      "RED",
+      "RIVER",
+      "ROAD",
+      "RUN"
+    ],
     "mediumWords": []
   },
   {
@@ -557,8 +719,23 @@
       "hi": "मैं SHARD हूँ! मैं /s/ बोलता हूँ!",
       "mr": "मी SHARD! मी /s/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BEST",
+      "DOES",
+      "HIS",
+      "IS",
+      "MUSIC",
+      "NOSE",
+      "PLEASE",
+      "RISE"
+    ],
+    "mediumWords": [
+      "SISTER",
+      "SIT",
+      "SNAKE",
+      "SOCK",
+      "STAR"
+    ]
   },
   {
     "id": "CHAR-027",
@@ -573,7 +750,15 @@
       "hi": "मैं TITAN हूँ! मैं /t/ बोलता हूँ!",
       "mr": "मी TITAN! मी /t/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BAT",
+      "BUTTER",
+      "TEN",
+      "TENT",
+      "TOP",
+      "TOY",
+      "WATER"
+    ],
     "mediumWords": []
   },
   {
@@ -589,8 +774,23 @@
       "hi": "मैं ULTRA हूँ! मैं /ŭ/ बोलता हूँ!",
       "mr": "मी ULTRA! मी /ŭ/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BUS",
+      "BUTTER",
+      "CUP",
+      "CUTE",
+      "FUTURE",
+      "HUMAN",
+      "JUMP",
+      "MULE"
+    ],
+    "mediumWords": [
+      "MUSIC",
+      "SUN",
+      "UMBRELLA",
+      "UNDER",
+      "UNICORN"
+    ]
   },
   {
     "id": "CHAR-029",
@@ -605,7 +805,15 @@
       "hi": "मैं VIPER हूँ! मैं /v/ बोलता हूँ!",
       "mr": "मी VIPER! मी /v/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "GIVE",
+      "LOVE",
+      "RIVER",
+      "VAN",
+      "VASE",
+      "VERY",
+      "VINE"
+    ],
     "mediumWords": []
   },
   {
@@ -621,7 +829,15 @@
       "hi": "मैं WOLF हूँ! मैं /w/ बोलता हूँ!",
       "mr": "मी WOLF! मी /w/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "SWIM",
+      "WATER",
+      "WEB",
+      "WET",
+      "WIN",
+      "WINDOW",
+      "WINTER"
+    ],
     "mediumWords": []
   },
   {
@@ -637,8 +853,23 @@
       "hi": "मैं FLUX हूँ! मैं /ks/ बोलता हूँ!",
       "mr": "मी FLUX! मी /ks/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BOX",
+      "FOX",
+      "MIX",
+      "NEXT",
+      "RELAX",
+      "SIX",
+      "TEXT",
+      "X-RAY"
+    ],
+    "mediumWords": [
+      "XENON",
+      "XEROX",
+      "XERUS",
+      "XMAS",
+      "XYLEM"
+    ]
   },
   {
     "id": "CHAR-032",
@@ -653,8 +884,23 @@
       "hi": "मैं YETI हूँ! मैं /y/ बोलता हूँ!",
       "mr": "मी YETI! मी /y/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BABY",
+      "CHERRY",
+      "CRY",
+      "CRYSTAL",
+      "DRY",
+      "FAMILY",
+      "FLY",
+      "FUNNY"
+    ],
+    "mediumWords": [
+      "GYM",
+      "HAPPY",
+      "LUCKY",
+      "LYNX",
+      "MYSTERY"
+    ]
   },
   {
     "id": "CHAR-033",
@@ -669,7 +915,15 @@
       "hi": "मैं ZEUS हूँ! मैं /z/ बोलता हूँ!",
       "mr": "मी ZEUS! मी /z/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BUZZ",
+      "FIZZ",
+      "PIZZA",
+      "PUZZLE",
+      "ZERO",
+      "ZIP",
+      "ZOO"
+    ],
     "mediumWords": []
   },
   {
@@ -685,7 +939,15 @@
       "hi": "मैं SHADE हूँ! मैं /sh/ बोलता हूँ!",
       "mr": "मी SHADE! मी /sh/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BRUSH",
+      "FISH",
+      "MUSHROOM",
+      "SHELL",
+      "SHIP",
+      "SHOE",
+      "WISH"
+    ],
     "mediumWords": []
   },
   {
@@ -701,8 +963,23 @@
       "hi": "मैं CHIEF हूँ! मैं /ch/ बोलता हूँ!",
       "mr": "मी CHIEF! मी /ch/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "ACHE",
+      "ANCHOR",
+      "BROCHURE",
+      "CHAIR",
+      "CHALET",
+      "CHARADE",
+      "CHAT",
+      "CHEF"
+    ],
+    "mediumWords": [
+      "CHEST",
+      "CHILD",
+      "CHIP",
+      "CHOIR",
+      "CHORUS"
+    ]
   },
   {
     "id": "CHAR-036",
@@ -717,8 +994,23 @@
       "hi": "मैं THORN हूँ! मैं /th/ बोलता हूँ!",
       "mr": "मी THORN! मी /th/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BATH",
+      "BIRTHDAY",
+      "FATHER",
+      "MATH",
+      "TEETH",
+      "THAT",
+      "THE",
+      "THEM"
+    ],
+    "mediumWords": [
+      "THEY",
+      "THIN",
+      "THINK",
+      "THIS",
+      "THREE"
+    ]
   },
   {
     "id": "CHAR-037",
@@ -733,7 +1025,15 @@
       "hi": "मैं BRICK हूँ! मैं /k/ बोलता हूँ!",
       "mr": "मी BRICK! मी /k/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BACK",
+      "CHICKEN",
+      "CLOCK",
+      "DUCK",
+      "KICK",
+      "ROCK",
+      "TRICK"
+    ],
     "mediumWords": []
   },
   {
@@ -749,7 +1049,15 @@
       "hi": "मैं PRONG हूँ! मैं /ng/ बोलता हूँ!",
       "mr": "मी PRONG! मी /ng/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BRING",
+      "KING",
+      "LONG",
+      "MORNING",
+      "RING",
+      "SONG",
+      "THING"
+    ],
     "mediumWords": []
   },
   {
@@ -765,7 +1073,15 @@
       "hi": "मैं EERIE हूँ! मैं /ē/ बोलता हूँ!",
       "mr": "मी EERIE! मी /ē/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BEE",
+      "CHEESE",
+      "FEET",
+      "GREEN",
+      "SLEEP",
+      "TREE",
+      "WHEEL"
+    ],
     "mediumWords": []
   },
   {
@@ -781,8 +1097,23 @@
       "hi": "मैं OOZE हूँ! मैं /oo/ बोलता हूँ!",
       "mr": "मी OOZE! मी /oo/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BALLOON",
+      "BOOK",
+      "COOK",
+      "COOKIE",
+      "COOL",
+      "FOOD",
+      "FOOT",
+      "GOOD"
+    ],
+    "mediumWords": [
+      "MOON",
+      "SCHOOL",
+      "SPOON",
+      "STOOD",
+      "WOOD"
+    ]
   },
   {
     "id": "CHAR-041",
@@ -797,7 +1128,15 @@
       "hi": "मैं AID हूँ! मैं /ā/ बोलता हूँ!",
       "mr": "मी AID! मी /ā/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BRAIN",
+      "CAPTAIN",
+      "PAINT",
+      "RAIN",
+      "SNAIL",
+      "TRAIN",
+      "WAIT"
+    ],
     "mediumWords": []
   },
   {
@@ -813,7 +1152,15 @@
       "hi": "मैं AYRE हूँ! मैं /ā/ बोलता हूँ!",
       "mr": "मी AYRE! मी /ā/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BIRTHDAY",
+      "DAY",
+      "HOLIDAY",
+      "PLAY",
+      "RELAY",
+      "SAY",
+      "STAY"
+    ],
     "mediumWords": []
   },
   {
@@ -829,8 +1176,23 @@
       "hi": "मैं EAST हूँ! मैं /ē/ बोलता हूँ!",
       "mr": "मी EAST! मी /ē/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BEACH",
+      "BEAD",
+      "BEAR",
+      "BREAD",
+      "BREAK",
+      "CLEAN",
+      "DEAD",
+      "DREAM"
+    ],
+    "mediumWords": [
+      "EAT",
+      "FEATHER",
+      "GREAT",
+      "HEAD",
+      "PEAR"
+    ]
   },
   {
     "id": "CHAR-044",
@@ -845,8 +1207,23 @@
       "hi": "मैं OWL हूँ! मैं /ow/ बोलता हूँ!",
       "mr": "मी OWL! मी /ow/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BOW",
+      "BROWN",
+      "COW",
+      "FLOWER",
+      "FOLLOW",
+      "GROW",
+      "HOW",
+      "LOW"
+    ],
+    "mediumWords": [
+      "OWL",
+      "POWDER",
+      "SHOW",
+      "SNOW",
+      "TOWER"
+    ]
   },
   {
     "id": "CHAR-045",
@@ -861,7 +1238,15 @@
       "hi": "मैं OAK हूँ! मैं /ō/ बोलता हूँ!",
       "mr": "मी OAK! मी /ō/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BOAT",
+      "COAT",
+      "FOAM",
+      "ROAD",
+      "SOAP",
+      "THROAT",
+      "TOAST"
+    ],
     "mediumWords": []
   },
   {
@@ -877,7 +1262,15 @@
       "hi": "मैं OIL हूँ! मैं /oy/ बोलता हूँ!",
       "mr": "मी OIL! मी /oy/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BOIL",
+      "CHOICE",
+      "COIN",
+      "JOIN",
+      "NOISE",
+      "OIL",
+      "POINT"
+    ],
     "mediumWords": []
   },
   {
@@ -893,7 +1286,15 @@
       "hi": "मैं OYSTER हूँ! मैं /oy/ बोलता हूँ!",
       "mr": "मी OYSTER! मी /oy/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BOY",
+      "DESTROY",
+      "ENJOY",
+      "JOY",
+      "ROYAL",
+      "TOY",
+      "VOYAGE"
+    ],
     "mediumWords": []
   },
   {
@@ -909,7 +1310,15 @@
       "hi": "मैं ARCH हूँ! मैं /ar/ बोलता हूँ!",
       "mr": "मी ARCH! मी /ar/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "CAR",
+      "DARK",
+      "FARM",
+      "GARDEN",
+      "JAR",
+      "PARK",
+      "STAR"
+    ],
     "mediumWords": []
   },
   {
@@ -925,7 +1334,15 @@
       "hi": "मैं ORB हूँ! मैं /or/ बोलता हूँ!",
       "mr": "मी ORB! मी /or/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BORN",
+      "CORN",
+      "EXPLORE",
+      "FORK",
+      "HORSE",
+      "MORNING",
+      "STORM"
+    ],
     "mediumWords": []
   },
   {
@@ -941,7 +1358,15 @@
       "hi": "मैं ERGO हूँ! मैं /er/ बोलता हूँ!",
       "mr": "मी ERGO! मी /er/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "FERN",
+      "FLOWER",
+      "HER",
+      "NEVER",
+      "SISTER",
+      "TIGER",
+      "WATER"
+    ],
     "mediumWords": []
   },
   {
@@ -957,7 +1382,15 @@
       "hi": "मैं IRKS हूँ! मैं /er/ बोलता हूँ!",
       "mr": "मी IRKS! मी /er/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BIRD",
+      "BIRTHDAY",
+      "CIRCLE",
+      "FIRST",
+      "GIRL",
+      "SHIRT",
+      "STIR"
+    ],
     "mediumWords": []
   },
   {
@@ -973,7 +1406,15 @@
       "hi": "मैं URGE हूँ! मैं /er/ बोलता हूँ!",
       "mr": "मी URGE! मी /er/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BURN",
+      "FUR",
+      "HURT",
+      "NURSE",
+      "PURPLE",
+      "TURN",
+      "TURTLE"
+    ],
     "mediumWords": []
   },
   {
@@ -989,8 +1430,23 @@
       "hi": "मैं ENDED हूँ! मैं /ĕd/ बोलता हूँ!",
       "mr": "मी ENDED! मी /ĕd/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "CALLED",
+      "CLIMBED",
+      "COOKED",
+      "CRASHED",
+      "JUMPED",
+      "KICKED",
+      "LANDED",
+      "LOVED"
+    ],
+    "mediumWords": [
+      "MELTED",
+      "NAMED",
+      "NEEDED",
+      "OPENED",
+      "PAINTED"
+    ]
   },
   {
     "id": "CHAR-054",
@@ -1005,7 +1461,15 @@
       "hi": "मैं WHISK हूँ! मैं /wh/ बोलता हूँ!",
       "mr": "मी WHISK! मी /wh/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "WHALE",
+      "WHAT",
+      "WHEEL",
+      "WHEN",
+      "WHERE",
+      "WHISPER",
+      "WHITE"
+    ],
     "mediumWords": []
   },
   {
@@ -1021,7 +1485,15 @@
       "hi": "मैं BLIGHT हूँ! मैं /ī/ बोलता हूँ!",
       "mr": "मी BLIGHT! मी /ī/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "BRIGHT",
+      "FIGHT",
+      "HIGH",
+      "LIGHT",
+      "MIDNIGHT",
+      "NIGHT",
+      "SIGHT"
+    ],
     "mediumWords": []
   },
   {
@@ -1037,7 +1509,15 @@
       "hi": "मैं PHANTOM हूँ! मैं /f/ बोलता हूँ!",
       "mr": "मी PHANTOM! मी /f/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "ALPHABET",
+      "DOLPHIN",
+      "ELEPHANT",
+      "GRAPH",
+      "PHANTOM",
+      "PHONE",
+      "PHOTO"
+    ],
     "mediumWords": []
   },
   {
@@ -1053,8 +1533,23 @@
       "hi": "मैं OUST हूँ! मैं /ow/ बोलता हूँ!",
       "mr": "मी OUST! मी /ow/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "CLOUD",
+      "COUGAR",
+      "COUNTRY",
+      "COUSIN",
+      "DOUBLE",
+      "ENOUGH",
+      "FOUND",
+      "GROUP"
+    ],
+    "mediumWords": [
+      "HOUSE",
+      "LOUD",
+      "MOUNTAIN",
+      "MOUSE",
+      "OUT"
+    ]
   },
   {
     "id": "CHAR-058",
@@ -1069,8 +1564,23 @@
       "hi": "मैं EIGHT हूँ! मैं /ā/ बोलता हूँ!",
       "mr": "मी EIGHT! मी /ā/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "CAFFEINE",
+      "CEILING",
+      "CONCEIVE",
+      "DECEIVE",
+      "EIGHT",
+      "FREIGHT",
+      "NEIGHBOR",
+      "PROTEIN"
+    ],
+    "mediumWords": [
+      "RECEIVE",
+      "REIN",
+      "REINDEER",
+      "SEIZE",
+      "VEIN"
+    ]
   },
   {
     "id": "CHAR-059",
@@ -1085,8 +1595,23 @@
       "hi": "मैं EYRIE हूँ! मैं /ā/ बोलता हूँ!",
       "mr": "मी EYRIE! मी /ā/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "CONVEY",
+      "DONKEY",
+      "GREY",
+      "HONEY",
+      "KEY",
+      "MONEY",
+      "MONKEY",
+      "OBEY"
+    ],
+    "mediumWords": [
+      "PREY",
+      "SURVEY",
+      "THEY",
+      "TURKEY",
+      "VALLEY"
+    ]
   },
   {
     "id": "CHAR-060",
@@ -1101,8 +1626,23 @@
       "hi": "मैं EWER हूँ! मैं /oo/ बोलता हूँ!",
       "mr": "मी EWER! मी /oo/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BLEW",
+      "CHEW",
+      "CURFEW",
+      "DEW",
+      "DREW",
+      "FEW",
+      "FLEW",
+      "HEWN"
+    ],
+    "mediumWords": [
+      "JEWEL",
+      "NEPHEW",
+      "NEW",
+      "PEWS",
+      "STEW"
+    ]
   },
   {
     "id": "CHAR-061",
@@ -1117,8 +1657,23 @@
       "hi": "मैं SIEGE हूँ! मैं /ē/ बोलता हूँ!",
       "mr": "मी SIEGE! मी /ē/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "ACHIEVE",
+      "APPLIED",
+      "BELIEVE",
+      "CHIEF",
+      "DIE",
+      "DRIED",
+      "FIELD",
+      "FRY"
+    ],
+    "mediumWords": [
+      "LIE",
+      "PIE",
+      "PIECE",
+      "SHIELD",
+      "THIEF"
+    ]
   },
   {
     "id": "CHAR-062",
@@ -1133,8 +1688,23 @@
       "hi": "मैं GUARD हूँ! मैं /g/ बोलता हूँ!",
       "mr": "मी GUARD! मी /g/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "GO",
+      "GAME",
+      "GIFT",
+      "GOT",
+      "GUM",
+      "GAP",
+      "GET",
+      "GAS"
+    ],
+    "mediumWords": [
+      "GRASS",
+      "DRAGON",
+      "GARDEN",
+      "GOLDEN",
+      "GRAPE"
+    ]
   },
   {
     "id": "CHAR-063",
@@ -1149,7 +1719,15 @@
       "hi": "मैं GNAT हूँ! मैं /n/ बोलता हूँ!",
       "mr": "मी GNAT! मी /n/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "DESIGN",
+      "GNASH",
+      "GNAT",
+      "GNAW",
+      "GNOME",
+      "REIGN",
+      "SIGN"
+    ],
     "mediumWords": []
   },
   {
@@ -1165,8 +1743,23 @@
       "hi": "मैं RIDGE हूँ! मैं /j/ बोलता हूँ!",
       "mr": "मी RIDGE! मी /j/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BADGE",
+      "BRIDGE",
+      "EDGE",
+      "FRIDGE",
+      "FUDGE",
+      "HEDGE",
+      "JUDGE",
+      "KNOWLEDGE"
+    ],
+    "mediumWords": [
+      "LEDGE",
+      "LODGE",
+      "RIDGE",
+      "SMUDGE",
+      "WEDGE"
+    ]
   },
   {
     "id": "CHAR-065",
@@ -1181,7 +1774,15 @@
       "hi": "मैं HATCH हूँ! मैं /ch/ बोलता हूँ!",
       "mr": "मी HATCH! मी /ch/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "CATCH",
+      "HATCH",
+      "KITCHEN",
+      "MATCH",
+      "SCRATCH",
+      "WATCH",
+      "WITCH"
+    ],
     "mediumWords": []
   },
   {
@@ -1197,8 +1798,23 @@
       "hi": "मैं CEIL हूँ! मैं /s/ बोलता हूँ!",
       "mr": "मी CEIL! मी /s/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "SUN",
+      "SIT",
+      "SET",
+      "SAT",
+      "SIX",
+      "SIP",
+      "SOB",
+      "SAD"
+    ],
+    "mediumWords": [
+      "SMILE",
+      "SILVER",
+      "SUMMER",
+      "SECOND",
+      "SIMPLE"
+    ]
   },
   {
     "id": "CHAR-067",
@@ -1213,7 +1829,15 @@
       "hi": "मैं AUGHT हूँ! मैं /ah/ बोलता हूँ!",
       "mr": "मी AUGHT! मी /ah/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "CAUGHT",
+      "DAUGHTER",
+      "HAUGHTY",
+      "LAUGHTER",
+      "NAUGHTY",
+      "SLAUGHTER",
+      "TAUGHT"
+    ],
     "mediumWords": []
   },
   {
@@ -1229,7 +1853,15 @@
       "hi": "मैं EIGHTY हूँ! मैं /ā/ बोलता हूँ!",
       "mr": "मी EIGHTY! मी /ā/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "EIGHT",
+      "FREIGHT",
+      "NEIGHBOR",
+      "REIGH",
+      "SLEIGH",
+      "WEIGH",
+      "WEIGHT"
+    ],
     "mediumWords": []
   },
   {
@@ -1245,8 +1877,22 @@
       "hi": "मैं WORM हूँ! मैं /er/ बोलता हूँ!",
       "mr": "मी WORM! मी /er/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "HER",
+      "BIRD",
+      "FERN",
+      "TURN",
+      "BURN",
+      "FUR",
+      "HURT"
+    ],
+    "mediumWords": [
+      "SISTER",
+      "WINTER",
+      "MIRROR",
+      "DOCTOR",
+      "ANSWER"
+    ]
   },
   {
     "id": "CHAR-070",
@@ -1261,8 +1907,23 @@
       "hi": "मैं DOUGH हूँ! मैं /ō/ बोलता हूँ!",
       "mr": "मी DOUGH! मी /ō/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "ALTHOUGH",
+      "BOROUGH",
+      "BOUGH",
+      "BOUGHS",
+      "BOUGHT",
+      "BREAKTHROUGH",
+      "BREAKTHROUGHS",
+      "BROUGHT"
+    ],
+    "mediumWords": [
+      "COUGH",
+      "COUGHED",
+      "COUGHING",
+      "COUGHS",
+      "DOUGH"
+    ]
   },
   {
     "id": "CHAR-071",
@@ -1277,8 +1938,23 @@
       "hi": "मैं CLASH हूँ! मैं /sh/ बोलता हूँ!",
       "mr": "मी CLASH! मी /sh/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "DECISION",
+      "DISCUSSION",
+      "EXPLOSION",
+      "EXPRESSION",
+      "FUSION",
+      "INVASION",
+      "MISSION",
+      "OCCASION"
+    ],
+    "mediumWords": [
+      "PASSION",
+      "PERMISSION",
+      "SESSION",
+      "TELEVISION",
+      "TENSION"
+    ]
   },
   {
     "id": "CHAR-072",
@@ -1293,7 +1969,15 @@
       "hi": "मैं POTION हूँ! मैं /sh/ बोलता हूँ!",
       "mr": "मी POTION! मी /sh/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "ACTION",
+      "MENTION",
+      "MOTION",
+      "NATION",
+      "PATIENT",
+      "STATION",
+      "VACATION"
+    ],
     "mediumWords": []
   },
   {
@@ -1309,7 +1993,15 @@
       "hi": "मैं GLACIS हूँ! मैं /sh/ बोलता हूँ!",
       "mr": "मी GLACIS! मी /sh/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "ANCIENT",
+      "GLACIER",
+      "MAGICIAN",
+      "MUSICIAN",
+      "OFFICIAL",
+      "SOCIAL",
+      "SPECIAL"
+    ],
     "mediumWords": []
   },
   {
@@ -1325,8 +2017,23 @@
       "hi": "मैं BRUISE हूँ! मैं /oo/ बोलता हूँ!",
       "mr": "मी BRUISE! मी /oo/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "BISCUIT",
+      "BRUISE",
+      "BUILD",
+      "CIRCUIT",
+      "CRUISE",
+      "FRUIT",
+      "GUILD",
+      "GUILT"
+    ],
+    "mediumWords": [
+      "GUINEA",
+      "GUITAR",
+      "JUICE",
+      "PURSUIT",
+      "RECRUIT"
+    ]
   },
   {
     "id": "CHAR-075",
@@ -1341,8 +2048,22 @@
       "hi": "मैं EARTH हूँ! मैं /er/ बोलता हूँ!",
       "mr": "मी EARTH! मी /er/ बोलतो!"
     },
-    "easyWords": [],
-    "mediumWords": []
+    "easyWords": [
+      "HER",
+      "BIRD",
+      "FERN",
+      "TURN",
+      "BURN",
+      "FUR",
+      "HURT"
+    ],
+    "mediumWords": [
+      "SISTER",
+      "WINTER",
+      "MIRROR",
+      "DOCTOR",
+      "ANSWER"
+    ]
   },
   {
     "id": "CHAR-076",
@@ -1357,7 +2078,15 @@
       "hi": "मैं KNAVE हूँ! मैं /n/ बोलता हूँ!",
       "mr": "मी KNAVE! मी /n/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "KNEE",
+      "KNIFE",
+      "KNIGHT",
+      "KNOCK",
+      "KNOT",
+      "KNOW",
+      "KNUCKLE"
+    ],
     "mediumWords": []
   },
   {
@@ -1373,7 +2102,15 @@
       "hi": "मैं WRATH हूँ! मैं /r/ बोलता हूँ!",
       "mr": "मी WRATH! मी /r/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "WRAP",
+      "WRECK",
+      "WREN",
+      "WRESTLE",
+      "WRIST",
+      "WRITE",
+      "WRONG"
+    ],
     "mediumWords": []
   },
   {
@@ -1389,7 +2126,15 @@
       "hi": "मैं AURA हूँ! मैं /ah/ बोलता हूँ!",
       "mr": "मी AURA! मी /ah/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "AUTHOR",
+      "CAUSE",
+      "DINOSAUR",
+      "HAUL",
+      "LAUNCH",
+      "PAUSE",
+      "SAUCE"
+    ],
     "mediumWords": []
   },
   {
@@ -1405,7 +2150,15 @@
       "hi": "मैं AWL हूँ! मैं /ah/ बोलता हूँ!",
       "mr": "मी AWL! मी /ah/ बोलतो!"
     },
-    "easyWords": [],
+    "easyWords": [
+      "AWESOME",
+      "CLAW",
+      "CRAWL",
+      "DRAW",
+      "PAWN",
+      "SAW",
+      "STRAW"
+    ],
     "mediumWords": []
   },
   {
@@ -1421,7 +2174,1062 @@
       "hi": "मैं OEVA हूँ! मैं /ō/ बोलता हूँ!",
       "mr": "मी OEVA! मी /ō/ बोलतो!"
     },
+    "easyWords": [
+      "HOME",
+      "BONE",
+      "NOSE",
+      "BOAT",
+      "ROAD",
+      "COAT",
+      "GOAL",
+      "GOAT"
+    ],
+    "mediumWords": [
+      "SNOW",
+      "STONE",
+      "BROKEN",
+      "FROZEN",
+      "OCEAN"
+    ]
+  },
+  {
+    "id": "CHAR-081",
+    "name": "AERO",
+    "phonogram": "ae",
+    "sound": "/ā/",
+    "soundId": "s33",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm AERO! I make the /ā/ sound!",
+      "hi": "मैं AERO हूँ! मैं /ā/ बोलता हूँ!",
+      "mr": "मी AERO! मी /ā/ बोलतो!"
+    },
+    "easyWords": [
+      "CAKE",
+      "LAKE",
+      "GAME",
+      "MAKE",
+      "RAIN",
+      "PLAY"
+    ],
+    "mediumWords": [
+      "TABLE",
+      "PAPER",
+      "FAMOUS",
+      "NATURE"
+    ]
+  },
+  {
+    "id": "CHAR-082",
+    "name": "ALGAE",
+    "phonogram": "ae",
+    "sound": "/ē/",
+    "soundId": "s34",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm ALGAE! I make the /ē/ sound!",
+      "hi": "मैं ALGAE हूँ! मैं /ē/ बोलता हूँ!",
+      "mr": "मी ALGAE! मी /ē/ बोलतो!"
+    },
+    "easyWords": [
+      "TREE",
+      "BEE",
+      "SEE",
+      "SHE",
+      "KEY",
+      "BE"
+    ],
+    "mediumWords": [
+      "BEACH",
+      "FIELD",
+      "BELIEVE",
+      "EVENING"
+    ]
+  },
+  {
+    "id": "CHAR-083",
+    "name": "AHAB",
+    "phonogram": "ah",
+    "sound": "/ah/",
+    "soundId": "s41",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm AHAB! I make the /ah/ sound!",
+      "hi": "मैं AHAB हूँ! मैं /ah/ बोलता हूँ!",
+      "mr": "मी AHAB! मी /ah/ बोलतो!"
+    },
+    "easyWords": [
+      "FATHER",
+      "CAR",
+      "STAR",
+      "BAR",
+      "JAR",
+      "FAR"
+    ],
+    "mediumWords": [
+      "CALM",
+      "PALM",
+      "DRAMA",
+      "BANANA"
+    ]
+  },
+  {
+    "id": "CHAR-084",
+    "name": "STRAIGHT",
+    "phonogram": "aigh",
+    "sound": "/ī/",
+    "soundId": "s35",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm STRAIGHT! I make the /ī/ sound!",
+      "hi": "मैं STRAIGHT हूँ! मैं /ī/ बोलता हूँ!",
+      "mr": "मी STRAIGHT! मी /ī/ बोलतो!"
+    },
+    "easyWords": [
+      "KITE",
+      "BIKE",
+      "RICE",
+      "FIVE",
+      "NINE",
+      "LIKE"
+    ],
+    "mediumWords": [
+      "NIGHT",
+      "LIGHT",
+      "TIGER",
+      "ISLAND"
+    ]
+  },
+  {
+    "id": "CHAR-085",
+    "name": "CHALK",
+    "phonogram": "al",
+    "sound": "/ah/",
+    "soundId": "s41",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm CHALK! I make the /ah/ sound!",
+      "hi": "मैं CHALK हूँ! मैं /ah/ बोलता हूँ!",
+      "mr": "मी CHALK! मी /ah/ बोलतो!"
+    },
+    "easyWords": [
+      "FATHER",
+      "CAR",
+      "STAR",
+      "BAR",
+      "JAR",
+      "FAR"
+    ],
+    "mediumWords": [
+      "CALM",
+      "PALM",
+      "DRAMA",
+      "BANANA"
+    ]
+  },
+  {
+    "id": "CHAR-086",
+    "name": "DOUBT",
+    "phonogram": "bt",
+    "sound": "/t/",
+    "soundId": "s14",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm DOUBT! I make the /t/ sound!",
+      "hi": "मैं DOUBT हूँ! मैं /t/ बोलता हूँ!",
+      "mr": "मी DOUBT! मी /t/ बोलतो!"
+    },
+    "easyWords": [
+      "TOP",
+      "TEN",
+      "TIN",
+      "TAP",
+      "TUG",
+      "TIP"
+    ],
+    "mediumWords": [
+      "TIGER",
+      "TRAVEL",
+      "TUNNEL",
+      "TICKET"
+    ]
+  },
+  {
+    "id": "CHAR-087",
+    "name": "ACCENT",
+    "phonogram": "cc",
+    "sound": "/ks/",
+    "soundId": "s17",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm ACCENT! I make the /ks/ sound!",
+      "hi": "मैं ACCENT हूँ! मैं /ks/ बोलता हूँ!",
+      "mr": "मी ACCENT! मी /ks/ बोलतो!"
+    },
+    "easyWords": [
+      "FOX",
+      "BOX",
+      "SIX",
+      "MIX",
+      "WAX",
+      "TAX"
+    ],
+    "mediumWords": [
+      "EXTRA",
+      "EXPAND",
+      "EXAMINE",
+      "EXAMPLE"
+    ]
+  },
+  {
+    "id": "CHAR-088",
+    "name": "FIASCO",
+    "phonogram": "co",
+    "sound": "/k/",
+    "soundId": "s07",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm FIASCO! I make the /k/ sound!",
+      "hi": "मैं FIASCO हूँ! मैं /k/ बोलता हूँ!",
+      "mr": "मी FIASCO! मी /k/ बोलतो!"
+    },
+    "easyWords": [
+      "CAT",
+      "CUP",
+      "KIT",
+      "KEY",
+      "COW",
+      "CUT"
+    ],
+    "mediumWords": [
+      "KITCHEN",
+      "CAPTAIN",
+      "CRYSTAL",
+      "COUNTRY"
+    ]
+  },
+  {
+    "id": "CHAR-089",
+    "name": "BEAU",
+    "phonogram": "eau",
+    "sound": "/ō/",
+    "soundId": "s36",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm BEAU! I make the /ō/ sound!",
+      "hi": "मैं BEAU हूँ! मैं /ō/ बोलता हूँ!",
+      "mr": "मी BEAU! मी /ō/ बोलतो!"
+    },
+    "easyWords": [
+      "HOME",
+      "BONE",
+      "NOSE",
+      "BOAT",
+      "ROAD",
+      "COAT"
+    ],
+    "mediumWords": [
+      "SNOW",
+      "STONE",
+      "BROKEN",
+      "FROZEN"
+    ]
+  },
+  {
+    "id": "CHAR-090",
+    "name": "BERET",
+    "phonogram": "et",
+    "sound": "/ā/",
+    "soundId": "s33",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm BERET! I make the /ā/ sound!",
+      "hi": "मैं BERET हूँ! मैं /ā/ बोलता हूँ!",
+      "mr": "मी BERET! मी /ā/ बोलतो!"
+    },
+    "easyWords": [
+      "CAKE",
+      "LAKE",
+      "GAME",
+      "MAKE",
+      "RAIN",
+      "PLAY"
+    ],
+    "mediumWords": [
+      "TABLE",
+      "PAPER",
+      "FAMOUS",
+      "NATURE"
+    ]
+  },
+  {
+    "id": "CHAR-091",
+    "name": "EULER",
+    "phonogram": "eu",
+    "sound": "/oo/",
+    "soundId": "s37",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm EULER! I make the /oo/ sound!",
+      "hi": "मैं EULER हूँ! मैं /oo/ बोलता हूँ!",
+      "mr": "मी EULER! मी /oo/ बोलतो!"
+    },
+    "easyWords": [
+      "MOON",
+      "FOOD",
+      "ROOM",
+      "COOL",
+      "POOL",
+      "TOOL"
+    ],
+    "mediumWords": [
+      "SCHOOL",
+      "BALLOON",
+      "CARTOON",
+      "NOODLE"
+    ]
+  },
+  {
+    "id": "CHAR-092",
+    "name": "EUROPE",
+    "phonogram": "eur",
+    "sound": "/er/",
+    "soundId": "s44",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm EUROPE! I make the /er/ sound!",
+      "hi": "मैं EUROPE हूँ! मैं /er/ बोलता हूँ!",
+      "mr": "मी EUROPE! मी /er/ बोलतो!"
+    },
+    "easyWords": [
+      "HER",
+      "BIRD",
+      "FERN",
+      "TURN",
+      "BURN",
+      "FUR"
+    ],
+    "mediumWords": [
+      "SISTER",
+      "WINTER",
+      "MIRROR",
+      "DOCTOR"
+    ]
+  },
+  {
+    "id": "CHAR-093",
+    "name": "GHOST",
+    "phonogram": "gh",
+    "sound": "/g/",
+    "soundId": "s04",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm GHOST! I make the /g/ sound!",
+      "hi": "मैं GHOST हूँ! मैं /g/ बोलता हूँ!",
+      "mr": "मी GHOST! मी /g/ बोलतो!"
+    },
+    "easyWords": [
+      "GO",
+      "GAME",
+      "GIFT",
+      "GOT",
+      "GUM",
+      "GAP"
+    ],
+    "mediumWords": [
+      "GRASS",
+      "DRAGON",
+      "GARDEN",
+      "GOLDEN"
+    ]
+  },
+  {
+    "id": "CHAR-094",
+    "name": "LEGION",
+    "phonogram": "gi",
+    "sound": "/j/",
+    "soundId": "s06",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm LEGION! I make the /j/ sound!",
+      "hi": "मैं LEGION हूँ! मैं /j/ बोलता हूँ!",
+      "mr": "मी LEGION! मी /j/ बोलतो!"
+    },
+    "easyWords": [
+      "JAM",
+      "JET",
+      "JOB",
+      "JUG",
+      "JOY",
+      "JAR"
+    ],
+    "mediumWords": [
+      "JUICE",
+      "JACKET",
+      "JUNGLE",
+      "JOURNEY"
+    ]
+  },
+  {
+    "id": "CHAR-095",
+    "name": "GNOCCHI",
+    "phonogram": "gn",
+    "sound": "/ny/",
+    "soundId": "s10",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm GNOCCHI! I make the /ny/ sound!",
+      "hi": "मैं GNOCCHI हूँ! मैं /ny/ बोलता हूँ!",
+      "mr": "मी GNOCCHI! मी /ny/ बोलतो!"
+    },
     "easyWords": [],
     "mediumWords": []
+  },
+  {
+    "id": "CHAR-096",
+    "name": "JALAPE",
+    "phonogram": "j",
+    "sound": "/h/",
+    "soundId": "s05",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm JALAPE! I make the /h/ sound!",
+      "hi": "मैं JALAPE हूँ! मैं /h/ बोलता हूँ!",
+      "mr": "मी JALAPE! मी /h/ बोलतो!"
+    },
+    "easyWords": [
+      "HAT",
+      "HOP",
+      "HEN",
+      "HIT",
+      "HOT",
+      "HIM"
+    ],
+    "mediumWords": [
+      "HOUSE",
+      "HAPPY",
+      "HEART",
+      "HUNGRY"
+    ]
+  },
+  {
+    "id": "CHAR-097",
+    "name": "FJORD",
+    "phonogram": "j",
+    "sound": "/y/",
+    "soundId": "s19",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm FJORD! I make the /y/ sound!",
+      "hi": "मैं FJORD हूँ! मैं /y/ बोलता हूँ!",
+      "mr": "मी FJORD! मी /y/ बोलतो!"
+    },
+    "easyWords": [
+      "YES",
+      "YAM",
+      "YAK",
+      "YAP",
+      "YEW",
+      "YEN"
+    ],
+    "mediumWords": [
+      "YELL",
+      "YELLOW",
+      "YOGURT",
+      "YOUNG"
+    ]
+  },
+  {
+    "id": "CHAR-098",
+    "name": "KHAKI",
+    "phonogram": "kh",
+    "sound": "/k/",
+    "soundId": "s07",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm KHAKI! I make the /k/ sound!",
+      "hi": "मैं KHAKI हूँ! मैं /k/ बोलता हूँ!",
+      "mr": "मी KHAKI! मी /k/ बोलतो!"
+    },
+    "easyWords": [
+      "CAT",
+      "CUP",
+      "KIT",
+      "KEY",
+      "COW",
+      "CUT"
+    ],
+    "mediumWords": [
+      "KITCHEN",
+      "CAPTAIN",
+      "CRYSTAL",
+      "COUNTRY"
+    ]
+  },
+  {
+    "id": "CHAR-099",
+    "name": "CLIMB",
+    "phonogram": "mb",
+    "sound": "/m/",
+    "soundId": "s09",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm CLIMB! I make the /m/ sound!",
+      "hi": "मैं CLIMB हूँ! मैं /m/ बोलता हूँ!",
+      "mr": "मी CLIMB! मी /m/ बोलतो!"
+    },
+    "easyWords": [
+      "MOM",
+      "MAN",
+      "MAP",
+      "MIX",
+      "MUD",
+      "MAT"
+    ],
+    "mediumWords": [
+      "MONEY",
+      "MONKEY",
+      "MORNING",
+      "MOUNTAIN"
+    ]
+  },
+  {
+    "id": "CHAR-100",
+    "name": "HYMN",
+    "phonogram": "mn",
+    "sound": "/n/",
+    "soundId": "s10",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm HYMN! I make the /n/ sound!",
+      "hi": "मैं HYMN हूँ! मैं /n/ बोलता हूँ!",
+      "mr": "मी HYMN! मी /n/ बोलतो!"
+    },
+    "easyWords": [
+      "NUT",
+      "NET",
+      "NAP",
+      "NIT",
+      "NOD",
+      "NEW"
+    ],
+    "mediumWords": [
+      "NEVER",
+      "NUMBER",
+      "NATURE",
+      "NEEDLE"
+    ]
+  },
+  {
+    "id": "CHAR-101",
+    "name": "AMOEBA",
+    "phonogram": "oe",
+    "sound": "/ē/",
+    "soundId": "s34",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm AMOEBA! I make the /ē/ sound!",
+      "hi": "मैं AMOEBA हूँ! मैं /ē/ बोलता हूँ!",
+      "mr": "मी AMOEBA! मी /ē/ बोलतो!"
+    },
+    "easyWords": [
+      "TREE",
+      "BEE",
+      "SEE",
+      "SHE",
+      "KEY",
+      "BE"
+    ],
+    "mediumWords": [
+      "BEACH",
+      "FIELD",
+      "BELIEVE",
+      "EVENING"
+    ]
+  },
+  {
+    "id": "CHAR-102",
+    "name": "DEPOT",
+    "phonogram": "ot",
+    "sound": "/ō/",
+    "soundId": "s36",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm DEPOT! I make the /ō/ sound!",
+      "hi": "मैं DEPOT हूँ! मैं /ō/ बोलता हूँ!",
+      "mr": "मी DEPOT! मी /ō/ बोलतो!"
+    },
+    "easyWords": [
+      "HOME",
+      "BONE",
+      "NOSE",
+      "BOAT",
+      "ROAD",
+      "COAT"
+    ],
+    "mediumWords": [
+      "SNOW",
+      "STONE",
+      "BROKEN",
+      "FROZEN"
+    ]
+  },
+  {
+    "id": "CHAR-103",
+    "name": "FOUR",
+    "phonogram": "our",
+    "sound": "/or/",
+    "soundId": "s43",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm FOUR! I make the /or/ sound!",
+      "hi": "मैं FOUR हूँ! मैं /or/ बोलता हूँ!",
+      "mr": "मी FOUR! मी /or/ बोलतो!"
+    },
+    "easyWords": [
+      "FORK",
+      "CORN",
+      "DOOR",
+      "FOUR",
+      "POUR",
+      "MORE"
+    ],
+    "mediumWords": [
+      "HORSE",
+      "FOREST",
+      "MORNING",
+      "CORNER"
+    ]
+  },
+  {
+    "id": "CHAR-104",
+    "name": "JOURNAL",
+    "phonogram": "our",
+    "sound": "/er/",
+    "soundId": "s44",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm JOURNAL! I make the /er/ sound!",
+      "hi": "मैं JOURNAL हूँ! मैं /er/ बोलता हूँ!",
+      "mr": "मी JOURNAL! मी /er/ बोलतो!"
+    },
+    "easyWords": [
+      "HER",
+      "BIRD",
+      "FERN",
+      "TURN",
+      "BURN",
+      "FUR"
+    ],
+    "mediumWords": [
+      "SISTER",
+      "WINTER",
+      "MIRROR",
+      "DOCTOR"
+    ]
+  },
+  {
+    "id": "CHAR-105",
+    "name": "PNEUMA",
+    "phonogram": "pn",
+    "sound": "/n/",
+    "soundId": "s10",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm PNEUMA! I make the /n/ sound!",
+      "hi": "मैं PNEUMA हूँ! मैं /n/ बोलता हूँ!",
+      "mr": "मी PNEUMA! मी /n/ बोलतो!"
+    },
+    "easyWords": [
+      "NUT",
+      "NET",
+      "NAP",
+      "NIT",
+      "NOD",
+      "NEW"
+    ],
+    "mediumWords": [
+      "NEVER",
+      "NUMBER",
+      "NATURE",
+      "NEEDLE"
+    ]
+  },
+  {
+    "id": "CHAR-106",
+    "name": "PSALM",
+    "phonogram": "ps",
+    "sound": "/s/",
+    "soundId": "s13",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm PSALM! I make the /s/ sound!",
+      "hi": "मैं PSALM हूँ! मैं /s/ बोलता हूँ!",
+      "mr": "मी PSALM! मी /s/ बोलतो!"
+    },
+    "easyWords": [
+      "SUN",
+      "SIT",
+      "SET",
+      "SAT",
+      "SIX",
+      "SIP"
+    ],
+    "mediumWords": [
+      "SMILE",
+      "SILVER",
+      "SUMMER",
+      "SECOND"
+    ]
+  },
+  {
+    "id": "CHAR-107",
+    "name": "PTERO",
+    "phonogram": "pt",
+    "sound": "/t/",
+    "soundId": "s14",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm PTERO! I make the /t/ sound!",
+      "hi": "मैं PTERO हूँ! मैं /t/ बोलता हूँ!",
+      "mr": "मी PTERO! मी /t/ बोलतो!"
+    },
+    "easyWords": [
+      "TOP",
+      "TEN",
+      "TIN",
+      "TAP",
+      "TUG",
+      "TIP"
+    ],
+    "mediumWords": [
+      "TIGER",
+      "TRAVEL",
+      "TUNNEL",
+      "TICKET"
+    ]
+  },
+  {
+    "id": "CHAR-108",
+    "name": "RHYME",
+    "phonogram": "rh",
+    "sound": "/r/",
+    "soundId": "s12",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm RHYME! I make the /r/ sound!",
+      "hi": "मैं RHYME हूँ! मैं /r/ बोलता हूँ!",
+      "mr": "मी RHYME! मी /r/ बोलतो!"
+    },
+    "easyWords": [
+      "RUN",
+      "RED",
+      "RAT",
+      "RUG",
+      "RIM",
+      "RAP"
+    ],
+    "mediumWords": [
+      "RIVER",
+      "RABBIT",
+      "ROCKET",
+      "RESCUE"
+    ]
+  },
+  {
+    "id": "CHAR-109",
+    "name": "ERROR",
+    "phonogram": "rr",
+    "sound": "/r/",
+    "soundId": "s12",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm ERROR! I make the /r/ sound!",
+      "hi": "मैं ERROR हूँ! मैं /r/ बोलता हूँ!",
+      "mr": "मी ERROR! मी /r/ बोलतो!"
+    },
+    "easyWords": [
+      "RUN",
+      "RED",
+      "RAT",
+      "RUG",
+      "RIM",
+      "RAP"
+    ],
+    "mediumWords": [
+      "RIVER",
+      "RABBIT",
+      "ROCKET",
+      "RESCUE"
+    ]
+  },
+  {
+    "id": "CHAR-110",
+    "name": "ISLE",
+    "phonogram": "s",
+    "sound": "/silent/",
+    "soundId": "s13",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm ISLE! I make the /silent/ sound!",
+      "hi": "मैं ISLE हूँ! मैं /silent/ बोलता हूँ!",
+      "mr": "मी ISLE! मी /silent/ बोलतो!"
+    },
+    "easyWords": [],
+    "mediumWords": []
+  },
+  {
+    "id": "CHAR-111",
+    "name": "SCENE",
+    "phonogram": "sc",
+    "sound": "/s/",
+    "soundId": "s13",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm SCENE! I make the /s/ sound!",
+      "hi": "मैं SCENE हूँ! मैं /s/ बोलता हूँ!",
+      "mr": "मी SCENE! मी /s/ बोलतो!"
+    },
+    "easyWords": [
+      "SUN",
+      "SIT",
+      "SET",
+      "SAT",
+      "SIX",
+      "SIP"
+    ],
+    "mediumWords": [
+      "SMILE",
+      "SILVER",
+      "SUMMER",
+      "SECOND"
+    ]
+  },
+  {
+    "id": "CHAR-112",
+    "name": "FASCIA",
+    "phonogram": "sc",
+    "sound": "/sh/",
+    "soundId": "s21",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm FASCIA! I make the /sh/ sound!",
+      "hi": "मैं FASCIA हूँ! मैं /sh/ बोलता हूँ!",
+      "mr": "मी FASCIA! मी /sh/ बोलतो!"
+    },
+    "easyWords": [
+      "SHIP",
+      "FISH",
+      "SHOP",
+      "SHED",
+      "SHIN",
+      "SHE"
+    ],
+    "mediumWords": [
+      "SHADOW",
+      "SHELTER",
+      "SHOULDER",
+      "NATION"
+    ]
+  },
+  {
+    "id": "CHAR-113",
+    "name": "SCHMALTZ",
+    "phonogram": "sch",
+    "sound": "/sh/",
+    "soundId": "s21",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm SCHMALTZ! I make the /sh/ sound!",
+      "hi": "मैं SCHMALTZ हूँ! मैं /sh/ बोलता हूँ!",
+      "mr": "मी SCHMALTZ! मी /sh/ बोलतो!"
+    },
+    "easyWords": [
+      "SHIP",
+      "FISH",
+      "SHOP",
+      "SHED",
+      "SHIN",
+      "SHE"
+    ],
+    "mediumWords": [
+      "SHADOW",
+      "SHELTER",
+      "SHOULDER",
+      "NATION"
+    ]
+  },
+  {
+    "id": "CHAR-114",
+    "name": "THYME",
+    "phonogram": "th",
+    "sound": "/t/",
+    "soundId": "s14",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm THYME! I make the /t/ sound!",
+      "hi": "मैं THYME हूँ! मैं /t/ बोलता हूँ!",
+      "mr": "मी THYME! मी /t/ बोलतो!"
+    },
+    "easyWords": [
+      "TOP",
+      "TEN",
+      "TIN",
+      "TAP",
+      "TUG",
+      "TIP"
+    ],
+    "mediumWords": [
+      "TIGER",
+      "TRAVEL",
+      "TUNNEL",
+      "TICKET"
+    ]
+  },
+  {
+    "id": "CHAR-115",
+    "name": "DEBUT",
+    "phonogram": "ut",
+    "sound": "/oo/",
+    "soundId": "s37",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm DEBUT! I make the /oo/ sound!",
+      "hi": "मैं DEBUT हूँ! मैं /oo/ बोलता हूँ!",
+      "mr": "मी DEBUT! मी /oo/ बोलतो!"
+    },
+    "easyWords": [
+      "MOON",
+      "FOOD",
+      "ROOM",
+      "COOL",
+      "POOL",
+      "TOOL"
+    ],
+    "mediumWords": [
+      "SCHOOL",
+      "BALLOON",
+      "CARTOON",
+      "NOODLE"
+    ]
+  },
+  {
+    "id": "CHAR-116",
+    "name": "FORFEIT",
+    "phonogram": "ei",
+    "sound": "/ĭ/",
+    "soundId": "s28",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm FORFEIT! I make the /ĭ/ sound!",
+      "hi": "मैं FORFEIT हूँ! मैं /ĭ/ बोलता हूँ!",
+      "mr": "मी FORFEIT! मी /ĭ/ बोलतो!"
+    },
+    "easyWords": [
+      "SIT",
+      "PIG",
+      "FISH",
+      "HIT",
+      "BIT",
+      "DIG"
+    ],
+    "mediumWords": [
+      "GIFT",
+      "BRIDGE",
+      "KITTEN",
+      "SISTER"
+    ]
+  },
+  {
+    "id": "CHAR-117",
+    "name": "CAYENNE",
+    "phonogram": "ay",
+    "sound": "/ī/",
+    "soundId": "s35",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm CAYENNE! I make the /ī/ sound!",
+      "hi": "मैं CAYENNE हूँ! मैं /ī/ बोलता हूँ!",
+      "mr": "मी CAYENNE! मी /ī/ बोलतो!"
+    },
+    "easyWords": [
+      "KITE",
+      "BIKE",
+      "RICE",
+      "FIVE",
+      "NINE",
+      "LIKE"
+    ],
+    "mediumWords": [
+      "NIGHT",
+      "LIGHT",
+      "TIGER",
+      "ISLAND"
+    ]
+  },
+  {
+    "id": "CHAR-118",
+    "name": "COIF",
+    "phonogram": "co",
+    "sound": "/oo/",
+    "soundId": "s37",
+    "level": 5,
+    "levelColor": "gold",
+    "introduction": {
+      "en": "I'm COIF! I make the /oo/ sound!",
+      "hi": "मैं COIF हूँ! मैं /oo/ बोलता हूँ!",
+      "mr": "मी COIF! मी /oo/ बोलतो!"
+    },
+    "easyWords": [
+      "MOON",
+      "FOOD",
+      "ROOM",
+      "COOL",
+      "POOL",
+      "TOOL"
+    ],
+    "mediumWords": [
+      "SCHOOL",
+      "BALLOON",
+      "CARTOON",
+      "NOODLE"
+    ]
   }
 ]
