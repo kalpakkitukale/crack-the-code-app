@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ep00",
+    "number": 0,
+    "title": {
+      "en": "The Hidden Code",
+      "hi": "छुपा कोड",
+      "mr": "लपलेला कोड"
+    },
+    "level": "free",
+    "hasSoundDrill": false,
+    "duration": "5:30"
+  },
+  {
+    "id": "ep01",
+    "number": 1,
+    "title": {
+      "en": "Why English Looks Impossible",
+      "hi": "अंग्रेज़ी क्यों असंभव लगती है",
+      "mr": "इंग्रजी अशक्य का वाटते"
+    },
+    "level": "free",
+    "hasSoundDrill": false,
+    "duration": "8:00"
+  },
+  {
+    "id": "ep02",
+    "number": 2,
+    "title": {
+      "en": "The 45 Sounds",
+      "hi": "45 ध्वनियाँ",
+      "mr": "45 ध्वनी"
+    },
+    "level": "free",
+    "hasSoundDrill": true,
+    "drillType": "overview",
+    "duration": "10:00"
+  },
+  {
+    "id": "ep02a",
+    "number": 3,
+    "title": {
+      "en": "Consonant Sound Drill",
+      "hi": "व्यंजन ध्वनि ड्रिल",
+      "mr": "व्यंजन ध्वनी ड्रिल"
+    },
+    "level": "free",
+    "hasSoundDrill": true,
+    "drillType": "consonants",
+    "duration": "15:00"
+  },
+  {
+    "id": "ep02b",
+    "number": 4,
+    "title": {
+      "en": "Vowel Sound Drill",
+      "hi": "स्वर ध्वनि ड्रिल",
+      "mr": "स्वर ध्वनी ड्रिल"
+    },
+    "level": "free",
+    "hasSoundDrill": true,
+    "drillType": "vowels",
+    "duration": "15:00"
+  },
+  {
+    "id": "ep03",
+    "number": 5,
+    "title": {
+      "en": "The Missing Toolkit",
+      "hi": "गायब टूलकिट",
+      "mr": "हरवलेली टूलकिट"
+    },
+    "level": 1,
+    "hasSoundDrill": false,
+    "duration": "7:00"
+  },
+  {
+    "id": "ep03a",
+    "number": 6,
+    "title": {
+      "en": "Building Blocks Part 1",
+      "hi": "बिल्डिंग ब्लॉक्स भाग 1",
+      "mr": "बिल्डिंग ब्लॉक्स भाग 1"
+    },
+    "level": 1,
+    "hasSoundDrill": true,
+    "drillType": "phonograms",
+    "duration": "12:00"
+  },
+  {
+    "id": "ep03b",
+    "number": 7,
+    "title": {
+      "en": "Building Blocks Part 2",
+      "hi": "बिल्डिंग ब्लॉक्स भाग 2",
+      "mr": "बिल्डिंग ब्लॉक्स भाग 2"
+    },
+    "level": 1,
+    "hasSoundDrill": true,
+    "drillType": "phonograms",
+    "duration": "10:00"
+  },
+  {
+    "id": "ep04",
+    "number": 8,
+    "title": {
+      "en": "Three Pillars",
+      "hi": "तीन स्तंभ",
+      "mr": "तीन स्तंभ"
+    },
+    "level": 1,
+    "hasSoundDrill": false,
+    "duration": "9:00"
+  },
+  {
+    "id": "ep05",
+    "number": 9,
+    "title": {
+      "en": "When Letters Change",
+      "hi": "जब अक्षर बदलते हैं",
+      "mr": "जेव्हा अक्षरे बदलतात"
+    },
+    "level": 1,
+    "hasSoundDrill": false,
+    "duration": "11:00"
+  },
+  {
+    "id": "ep06",
+    "number": 10,
+    "title": {
+      "en": "Vowel Switch",
+      "hi": "स्वर स्विच",
+      "mr": "स्वर स्विच"
+    },
+    "level": 2,
+    "hasSoundDrill": false,
+    "duration": "10:00"
+  },
+  {
+    "id": "ep07",
+    "number": 11,
+    "title": {
+      "en": "Invisible Letter",
+      "hi": "अदृश्य अक्षर",
+      "mr": "अदृश्य अक्षर"
+    },
+    "level": 2,
+    "hasSoundDrill": false,
+    "duration": "12:00"
+  },
+  {
+    "id": "ep08",
+    "number": 12,
+    "title": {
+      "en": "Wall Builder",
+      "hi": "दीवार बनाने वाला",
+      "mr": "भिंत बांधणारा"
+    },
+    "level": 2,
+    "hasSoundDrill": false,
+    "duration": "10:00"
+  },
+  {
+    "id": "ep09",
+    "number": 13,
+    "title": {
+      "en": "Double Agent",
+      "hi": "डबल एजेंट",
+      "mr": "डबल एजंट"
+    },
+    "level": 2,
+    "hasSoundDrill": false,
+    "duration": "9:00"
+  },
+  {
+    "id": "ep10",
+    "number": 14,
+    "title": {
+      "en": "Ending Engine",
+      "hi": "एंडिंग इंजन",
+      "mr": "एंडिंग इंजिन"
+    },
+    "level": 2,
+    "hasSoundDrill": false,
+    "duration": "11:00"
+  },
+  {
+    "id": "ep11",
+    "number": 15,
+    "title": {
+      "en": "French-Latin Connection",
+      "hi": "फ्रेंच-लैटिन कनेक्शन",
+      "mr": "फ्रेंच-लॅटिन कनेक्शन"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "10:00"
+  },
+  {
+    "id": "ep12",
+    "number": 16,
+    "title": {
+      "en": "Time Machine",
+      "hi": "टाइम मशीन",
+      "mr": "टाइम मशीन"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "8:00"
+  },
+  {
+    "id": "ep13",
+    "number": 17,
+    "title": {
+      "en": "Words Multiply",
+      "hi": "शब्द गुणा",
+      "mr": "शब्द गुणाकार"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "9:00"
+  },
+  {
+    "id": "ep14",
+    "number": 18,
+    "title": {
+      "en": "One-L Trick",
+      "hi": "वन-L ट्रिक",
+      "mr": "वन-L ट्रिक"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "7:00"
+  },
+  {
+    "id": "ep15",
+    "number": 19,
+    "title": {
+      "en": "Shield Rules",
+      "hi": "शील्ड रूल्स",
+      "mr": "शील्ड रूल्स"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "10:00"
+  },
+  {
+    "id": "ep16",
+    "number": 20,
+    "title": {
+      "en": "Pronunciation Lab",
+      "hi": "उच्चारण लैब",
+      "mr": "उच्चार लॅब"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "9:00"
+  },
+  {
+    "id": "ep17",
+    "number": 21,
+    "title": {
+      "en": "Word Factory",
+      "hi": "शब्द फैक्ट्री",
+      "mr": "शब्द फॅक्टरी"
+    },
+    "level": 3,
+    "hasSoundDrill": false,
+    "duration": "11:00"
+  },
+  {
+    "id": "ep18",
+    "number": 22,
+    "title": {
+      "en": "Suffix Science",
+      "hi": "प्रत्यय विज्ञान",
+      "mr": "प्रत्यय विज्ञान"
+    },
+    "level": 4,
+    "hasSoundDrill": false,
+    "duration": "10:00"
+  },
+  {
+    "id": "ep19",
+    "number": 23,
+    "title": {
+      "en": "Ending Mastery",
+      "hi": "एंडिंग महारत",
+      "mr": "एंडिंग प्रभुत्व"
+    },
+    "level": 4,
+    "hasSoundDrill": false,
+    "duration": "10:00"
+  },
+  {
+    "id": "ep20",
+    "number": 24,
+    "title": {
+      "en": "Consonant Secrets",
+      "hi": "व्यंजन रहस्य",
+      "mr": "व्यंजन रहस्य"
+    },
+    "level": 4,
+    "hasSoundDrill": false,
+    "duration": "9:00"
+  },
+  {
+    "id": "ep21",
+    "number": 25,
+    "title": {
+      "en": "Word DNA",
+      "hi": "शब्द DNA",
+      "mr": "शब्द DNA"
+    },
+    "level": 4,
+    "hasSoundDrill": false,
+    "duration": "11:00"
+  },
+  {
+    "id": "ep24",
+    "number": 26,
+    "title": {
+      "en": "Advanced Phonograms",
+      "hi": "उन्नत फोनोग्राम",
+      "mr": "प्रगत फोनोग्राम"
+    },
+    "level": 5,
+    "hasSoundDrill": true,
+    "drillType": "advanced",
+    "duration": "12:00"
+  },
+  {
+    "id": "ep26",
+    "number": 27,
+    "title": {
+      "en": "The Complete Code",
+      "hi": "पूरा कोड",
+      "mr": "पूर्ण कोड"
+    },
+    "level": 5,
+    "hasSoundDrill": false,
+    "duration": "8:00"
+  }
+]

@@ -8,6 +8,12 @@ import 'package:crack_the_code/shared/repositories/audio_repository.dart';
 import 'package:crack_the_code/shared/repositories/phonogram_repository.dart';
 import 'package:crack_the_code/shared/repositories/rule_repository.dart';
 import 'package:crack_the_code/shared/repositories/word_repository.dart';
+import 'package:crack_the_code/shared/repositories/sound_repository.dart';
+import 'package:crack_the_code/shared/repositories/character_repository.dart';
+import 'package:crack_the_code/shared/repositories/level_repository.dart';
+import 'package:crack_the_code/shared/models/sound.dart';
+import 'package:crack_the_code/shared/models/character.dart';
+import 'package:crack_the_code/shared/models/level.dart';
 import 'package:crack_the_code/shared/services/audio_service.dart';
 import 'package:crack_the_code/shared/services/storage_service.dart';
 
@@ -30,6 +36,19 @@ final wordRepositoryProvider = Provider<WordRepository>((ref) {
       'wordRepositoryProvider must be overridden in ProviderScope');
 });
 
+// New repositories (5-level system)
+final soundRepositoryProvider = Provider<SoundRepository>((ref) {
+  throw UnimplementedError('soundRepositoryProvider must be overridden');
+});
+
+final characterRepositoryProvider = Provider<CharacterRepository>((ref) {
+  throw UnimplementedError('characterRepositoryProvider must be overridden');
+});
+
+final levelRepositoryProvider = Provider<LevelRepository>((ref) {
+  throw UnimplementedError('levelRepositoryProvider must be overridden');
+});
+
 // ═══════════════════════════════════════════════════════════════
 // Convenience Accessors
 // ═══════════════════════════════════════════════════════════════
@@ -40,6 +59,18 @@ final phonogramsProvider = Provider<List<Phonogram>>((ref) {
 
 final rulesProvider = Provider<List<SpellingRule>>((ref) {
   return ref.watch(ruleRepositoryProvider).getAll();
+});
+
+final allSoundsProvider = Provider<List<Sound>>((ref) {
+  return ref.watch(soundRepositoryProvider).getAll();
+});
+
+final allCharactersProvider = Provider<List<Character>>((ref) {
+  return ref.watch(characterRepositoryProvider).getAll();
+});
+
+final allLevelsProvider = Provider<List<Level>>((ref) {
+  return ref.watch(levelRepositoryProvider).getAll();
 });
 
 // ═══════════════════════════════════════════════════════════════

@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "name": {
+      "en": "Sound Master",
+      "hi": "साउंड मास्टर",
+      "mr": "साउंड मास्टर"
+    },
+    "color": "#4CAF50",
+    "colorName": "green",
+    "stars": 1,
+    "ageMin": 3,
+    "ageMax": 7,
+    "durationWeeks": 9,
+    "phonogramCount": 50,
+    "ruleCount": 15,
+    "characterCount": 70,
+    "totalCards": 130
+  },
+  {
+    "number": 2,
+    "name": {
+      "en": "Pattern Spotter",
+      "hi": "पैटर्न स्पॉटर",
+      "mr": "पॅटर्न स्पॉटर"
+    },
+    "color": "#2196F3",
+    "colorName": "blue",
+    "stars": 2,
+    "ageMin": 6,
+    "ageMax": 9,
+    "durationWeeks": 4,
+    "phonogramCount": 74,
+    "ruleCount": 25,
+    "characterCount": 130,
+    "totalCards": 200
+  },
+  {
+    "number": 3,
+    "name": {
+      "en": "Code Breaker",
+      "hi": "कोड ब्रेकर",
+      "mr": "कोड ब्रेकर"
+    },
+    "color": "#FF9800",
+    "colorName": "orange",
+    "stars": 3,
+    "ageMin": 8,
+    "ageMax": 11,
+    "durationWeeks": 3,
+    "phonogramCount": 74,
+    "ruleCount": 38,
+    "characterCount": 130,
+    "totalCards": 213
+  },
+  {
+    "number": 4,
+    "name": {
+      "en": "Word Scientist",
+      "hi": "वर्ड साइंटिस्ट",
+      "mr": "वर्ड सायंटिस्ट"
+    },
+    "color": "#F44336",
+    "colorName": "red",
+    "stars": 4,
+    "ageMin": 11,
+    "ageMax": 14,
+    "durationWeeks": 6,
+    "phonogramCount": 74,
+    "ruleCount": 80,
+    "characterCount": 130,
+    "totalCards": 255
+  },
+  {
+    "number": 5,
+    "name": {
+      "en": "Legend",
+      "hi": "लेजेंड",
+      "mr": "लेजेंड"
+    },
+    "color": "#FFD700",
+    "colorName": "gold",
+    "stars": 5,
+    "ageMin": 14,
+    "ageMax": 99,
+    "durationWeeks": 4,
+    "phonogramCount": 107,
+    "ruleCount": 100,
+    "characterCount": 168,
+    "totalCards": 313
+  }
+]

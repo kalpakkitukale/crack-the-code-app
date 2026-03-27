@@ -9,6 +9,9 @@ import 'package:crack_the_code/shared/repositories/phonogram_repository.dart';
 import 'package:crack_the_code/shared/repositories/rule_repository.dart';
 import 'package:crack_the_code/shared/repositories/word_repository.dart';
 import 'package:crack_the_code/shared/repositories/audio_repository.dart';
+import 'package:crack_the_code/shared/repositories/sound_repository.dart';
+import 'package:crack_the_code/shared/repositories/character_repository.dart';
+import 'package:crack_the_code/shared/repositories/level_repository.dart';
 import 'package:crack_the_code/shared/services/audio_service.dart';
 import 'package:crack_the_code/shared/services/storage_service.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
@@ -29,11 +32,17 @@ Future<void> main() async {
   final phonogramRepo = PhonogramRepository();
   final ruleRepo = RuleRepository();
   final wordRepo = WordRepository();
+  final soundRepo = SoundRepository();
+  final characterRepo = CharacterRepository();
+  final levelRepo = LevelRepository();
 
   await Future.wait([
     phonogramRepo.loadFromAssets(),
     ruleRepo.loadFromAssets(),
     wordRepo.loadFromAssets(),
+    soundRepo.loadFromAssets(),
+    characterRepo.loadFromAssets(),
+    levelRepo.loadFromAssets(),
   ]);
 
   final audioService = AudioService();
@@ -57,7 +66,10 @@ Future<void> main() async {
   debugPrint('✅ Loaded: ${phonogramRepo.totalPhonograms} phonograms, '
       '${phonogramRepo.totalSounds} sounds, '
       '${ruleRepo.getAll().length} rules, '
-      '${wordRepo.totalWords} words');
+      '${wordRepo.totalWords} words, '
+      '${soundRepo.totalSounds} base sounds, '
+      '${characterRepo.totalCharacters} characters, '
+      '${levelRepo.getAll().length} levels');
 
   runApp(
     ProviderScope(
@@ -68,6 +80,9 @@ Future<void> main() async {
         wordRepositoryProvider.overrideWithValue(wordRepo),
         audioServiceProvider.overrideWithValue(audioService),
         audioRepositoryProvider.overrideWithValue(audioRepo),
+        soundRepositoryProvider.overrideWithValue(soundRepo),
+        characterRepositoryProvider.overrideWithValue(characterRepo),
+        levelRepositoryProvider.overrideWithValue(levelRepo),
       ],
       child: const CrackTheCodeDevApp(),
     ),

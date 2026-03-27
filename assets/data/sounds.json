@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "s01",
+    "notation": "/b/",
+    "name": {
+      "en": "B sound",
+      "hi": "/ब/ ध्वनि",
+      "mr": "/ब/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "stop",
+    "phonogramIds": [
+      "b",
+      "bu"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Press lips together, then pop!",
+      "hi": "होंठ बंद करो, फिर खोलो!",
+      "mr": "ओठ बंद करा, मग उघडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "BIG",
+        "emoji": "🐘"
+      },
+      {
+        "word": "BAT",
+        "emoji": "🦇"
+      },
+      {
+        "word": "BUS",
+        "emoji": "🚌"
+      }
+    ]
+  },
+  {
+    "id": "s02",
+    "notation": "/d/",
+    "name": {
+      "en": "D sound",
+      "hi": "/ड/ ध्वनि",
+      "mr": "/ड/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "stop",
+    "phonogramIds": [
+      "d",
+      "ed"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Touch tongue behind top teeth, then release!",
+      "hi": "जीभ ऊपर के दाँतों के पीछे लगाओ, फिर छोड़ो!",
+      "mr": "जीभ वरच्या दातांमागे लावा, मग सोडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "DOG",
+        "emoji": "🐶"
+      },
+      {
+        "word": "DAD",
+        "emoji": "👨"
+      },
+      {
+        "word": "DIG",
+        "emoji": "⛏️"
+      }
+    ]
+  },
+  {
+    "id": "s03",
+    "notation": "/f/",
+    "name": {
+      "en": "F sound",
+      "hi": "/फ़/ ध्वनि",
+      "mr": "/फ/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "f",
+      "ph",
+      "gh"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Top teeth on lower lip, blow air!",
+      "hi": "ऊपर के दाँत नीचे के होंठ पर, हवा फूंको!",
+      "mr": "वरचे दात खालच्या ओठावर, हवा फुंका!"
+    },
+    "exampleWords": [
+      {
+        "word": "FISH",
+        "emoji": "🐟"
+      },
+      {
+        "word": "FOX",
+        "emoji": "🦊"
+      },
+      {
+        "word": "FIRE",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "id": "s04",
+    "notation": "/g/",
+    "name": {
+      "en": "G sound",
+      "hi": "/ग/ ध्वनि",
+      "mr": "/ग/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "stop",
+    "phonogramIds": [
+      "g",
+      "gu",
+      "gh"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Back of tongue touches roof, then release!",
+      "hi": "जीभ का पिछला हिस्सा तालू को छुए, फिर छोड़ो!",
+      "mr": "जिभेचा मागचा भाग टाळूला लावा, मग सोडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "GO",
+        "emoji": "🏃"
+      },
+      {
+        "word": "GAME",
+        "emoji": "🎮"
+      },
+      {
+        "word": "GIFT",
+        "emoji": "🎁"
+      }
+    ]
+  },
+  {
+    "id": "s05",
+    "notation": "/h/",
+    "name": {
+      "en": "H sound",
+      "hi": "/ह/ ध्वनि",
+      "mr": "/ह/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "h"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Open mouth, push air from throat!",
+      "hi": "मुँह खोलो, गले से हवा धकेलो!",
+      "mr": "तोंड उघडा, घशातून हवा ढकला!"
+    },
+    "exampleWords": [
+      {
+        "word": "HAT",
+        "emoji": "🎩"
+      },
+      {
+        "word": "HOP",
+        "emoji": "🐰"
+      },
+      {
+        "word": "HOUSE",
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "id": "s06",
+    "notation": "/j/",
+    "name": {
+      "en": "J sound",
+      "hi": "/ज/ ध्वनि",
+      "mr": "/ज/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "affricate",
+    "phonogramIds": [
+      "j",
+      "g",
+      "dge",
+      "gi"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Tongue touches roof, then slides forward with voice!",
+      "hi": "जीभ तालू को छुए, फिर आवाज़ के साथ आगे फिसले!",
+      "mr": "जीभ टाळूला लावा, मग आवाजासह पुढे सरकवा!"
+    },
+    "exampleWords": [
+      {
+        "word": "JAM",
+        "emoji": "🍯"
+      },
+      {
+        "word": "GEM",
+        "emoji": "💎"
+      },
+      {
+        "word": "JUMP",
+        "emoji": "🦘"
+      }
+    ]
+  },
+  {
+    "id": "s07",
+    "notation": "/k/",
+    "name": {
+      "en": "K sound",
+      "hi": "/क/ ध्वनि",
+      "mr": "/क/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "stop",
+    "phonogramIds": [
+      "c",
+      "k",
+      "ck",
+      "ch",
+      "kh"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Back of tongue hits roof of mouth!",
+      "hi": "जीभ का पिछला हिस्सा मुँह की छत से टकराए!",
+      "mr": "जिभेचा मागचा भाग तोंडाच्या छतावर आदळा!"
+    },
+    "exampleWords": [
+      {
+        "word": "CAT",
+        "emoji": "🐱"
+      },
+      {
+        "word": "KING",
+        "emoji": "👑"
+      },
+      {
+        "word": "BACK",
+        "emoji": "🔙"
+      }
+    ]
+  },
+  {
+    "id": "s08",
+    "notation": "/l/",
+    "name": {
+      "en": "L sound",
+      "hi": "/ल/ ध्वनि",
+      "mr": "/ल/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "lateral",
+    "phonogramIds": [
+      "l"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Tongue tip behind top teeth, air flows around sides!",
+      "hi": "जीभ की नोक ऊपर के दाँतों के पीछे, हवा किनारों से बहे!",
+      "mr": "जिभेचे टोक वरच्या दातांमागे, हवा बाजूंनी वाहते!"
+    },
+    "exampleWords": [
+      {
+        "word": "LION",
+        "emoji": "🦁"
+      },
+      {
+        "word": "LAMP",
+        "emoji": "💡"
+      },
+      {
+        "word": "BELL",
+        "emoji": "🔔"
+      }
+    ]
+  },
+  {
+    "id": "s09",
+    "notation": "/m/",
+    "name": {
+      "en": "M sound",
+      "hi": "/म/ ध्वनि",
+      "mr": "/म/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "nasal",
+    "phonogramIds": [
+      "m",
+      "mb",
+      "mn"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Close lips, hum through nose!",
+      "hi": "होंठ बंद करो, नाक से गुनगुनाओ!",
+      "mr": "ओठ बंद करा, नाकातून गुणगुणा!"
+    },
+    "exampleWords": [
+      {
+        "word": "MOM",
+        "emoji": "👩"
+      },
+      {
+        "word": "MOON",
+        "emoji": "🌙"
+      },
+      {
+        "word": "MAP",
+        "emoji": "🗺️"
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "notation": "/n/",
+    "name": {
+      "en": "N sound",
+      "hi": "/न/ ध्वनि",
+      "mr": "/न/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "nasal",
+    "phonogramIds": [
+      "n",
+      "kn",
+      "gn",
+      "pn"
+    ],
+    "trialDay": 1,
+    "mouthPosition": {
+      "en": "Tongue behind top teeth, air through nose!",
+      "hi": "जीभ ऊपर के दाँतों के पीछे, नाक से हवा!",
+      "mr": "जीभ वरच्या दातांमागे, नाकातून हवा!"
+    },
+    "exampleWords": [
+      {
+        "word": "NUT",
+        "emoji": "🥜"
+      },
+      {
+        "word": "NINE",
+        "emoji": "9️⃣"
+      },
+      {
+        "word": "NET",
+        "emoji": "🥅"
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "notation": "/p/",
+    "name": {
+      "en": "P sound",
+      "hi": "/प/ ध्वनि",
+      "mr": "/प/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "stop",
+    "phonogramIds": [
+      "p"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Press lips, then pop without voice!",
+      "hi": "होंठ दबाओ, फिर बिना आवाज़ के पॉप करो!",
+      "mr": "ओठ दाबा, मग आवाजाशिवाय पॉप करा!"
+    },
+    "exampleWords": [
+      {
+        "word": "PIG",
+        "emoji": "🐷"
+      },
+      {
+        "word": "PEN",
+        "emoji": "🖊️"
+      },
+      {
+        "word": "POT",
+        "emoji": "🍲"
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "notation": "/r/",
+    "name": {
+      "en": "R sound",
+      "hi": "/र/ ध्वनि",
+      "mr": "/र/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "approximant",
+    "phonogramIds": [
+      "r",
+      "wr",
+      "rh",
+      "rr"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Curl tongue back, don't touch roof!",
+      "hi": "जीभ पीछे मोड़ो, तालू को मत छुओ!",
+      "mr": "जीभ मागे वळवा, टाळूला लावू नका!"
+    },
+    "exampleWords": [
+      {
+        "word": "RUN",
+        "emoji": "🏃"
+      },
+      {
+        "word": "RED",
+        "emoji": "🔴"
+      },
+      {
+        "word": "RAIN",
+        "emoji": "🌧️"
+      }
+    ]
+  },
+  {
+    "id": "s13",
+    "notation": "/s/",
+    "name": {
+      "en": "S sound",
+      "hi": "/स/ ध्वनि",
+      "mr": "/स/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "s",
+      "c",
+      "sc",
+      "ps"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Teeth close, tongue behind, push air like a snake!",
+      "hi": "दाँत बंद, जीभ पीछे, साँप की तरह हवा!",
+      "mr": "दात बंद, जीभ मागे, सापासारखी हवा!"
+    },
+    "exampleWords": [
+      {
+        "word": "SUN",
+        "emoji": "☀️"
+      },
+      {
+        "word": "SIT",
+        "emoji": "🪑"
+      },
+      {
+        "word": "CITY",
+        "emoji": "🏙️"
+      }
+    ]
+  },
+  {
+    "id": "s14",
+    "notation": "/t/",
+    "name": {
+      "en": "T sound",
+      "hi": "/ट/ ध्वनि",
+      "mr": "/ट/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "stop",
+    "phonogramIds": [
+      "t",
+      "ed",
+      "bt",
+      "pt"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Tongue behind top teeth, then release!",
+      "hi": "जीभ ऊपर के दाँतों के पीछे, फिर छोड़ो!",
+      "mr": "जीभ वरच्या दातांमागे, मग सोडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "TOP",
+        "emoji": "🔝"
+      },
+      {
+        "word": "TEN",
+        "emoji": "🔟"
+      },
+      {
+        "word": "TREE",
+        "emoji": "🌳"
+      }
+    ]
+  },
+  {
+    "id": "s15",
+    "notation": "/v/",
+    "name": {
+      "en": "V sound",
+      "hi": "/व/ ध्वनि",
+      "mr": "/व/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "v"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Top teeth on lower lip, vibrate!",
+      "hi": "ऊपर के दाँत नीचे के होंठ पर, कंपन करो!",
+      "mr": "वरचे दात खालच्या ओठावर, कंपन करा!"
+    },
+    "exampleWords": [
+      {
+        "word": "VAN",
+        "emoji": "🚐"
+      },
+      {
+        "word": "VINE",
+        "emoji": "🍇"
+      },
+      {
+        "word": "LOVE",
+        "emoji": "❤️"
+      }
+    ]
+  },
+  {
+    "id": "s16",
+    "notation": "/w/",
+    "name": {
+      "en": "W sound",
+      "hi": "/व/ ध्वनि",
+      "mr": "/व/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "glide",
+    "phonogramIds": [
+      "w"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Round lips into an O, then open!",
+      "hi": "होंठ O बनाओ, फिर खोलो!",
+      "mr": "ओठ O करा, मग उघडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "WIN",
+        "emoji": "🏆"
+      },
+      {
+        "word": "WET",
+        "emoji": "💧"
+      },
+      {
+        "word": "WALL",
+        "emoji": "🧱"
+      }
+    ]
+  },
+  {
+    "id": "s17",
+    "notation": "/ks/",
+    "name": {
+      "en": "KS sound",
+      "hi": "/क्स/ ध्वनि",
+      "mr": "/क्स/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "blend",
+    "phonogramIds": [
+      "x",
+      "cc"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Quick K then S together!",
+      "hi": "तेज़ K फिर S साथ में!",
+      "mr": "वेगवान K मग S एकत्र!"
+    },
+    "exampleWords": [
+      {
+        "word": "FOX",
+        "emoji": "🦊"
+      },
+      {
+        "word": "BOX",
+        "emoji": "📦"
+      },
+      {
+        "word": "SIX",
+        "emoji": "6️⃣"
+      }
+    ]
+  },
+  {
+    "id": "s18",
+    "notation": "/kw/",
+    "name": {
+      "en": "KW sound",
+      "hi": "/क्व/ ध्वनि",
+      "mr": "/क्व/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "blend",
+    "phonogramIds": [
+      "qu"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "K sound then quickly W!",
+      "hi": "K फिर जल्दी W!",
+      "mr": "K मग पटकन W!"
+    },
+    "exampleWords": [
+      {
+        "word": "QUEEN",
+        "emoji": "👑"
+      },
+      {
+        "word": "QUIZ",
+        "emoji": "❓"
+      },
+      {
+        "word": "QUICK",
+        "emoji": "⚡"
+      }
+    ]
+  },
+  {
+    "id": "s19",
+    "notation": "/y/",
+    "name": {
+      "en": "Y sound",
+      "hi": "/य/ ध्वनि",
+      "mr": "/य/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "glide",
+    "phonogramIds": [
+      "y",
+      "i"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Tongue high and forward, like starting to say EE!",
+      "hi": "जीभ ऊँची और आगे, जैसे ईई बोलने लगो!",
+      "mr": "जीभ उंच आणि पुढे, जसे ईई बोलायला लागा!"
+    },
+    "exampleWords": [
+      {
+        "word": "YES",
+        "emoji": "✅"
+      },
+      {
+        "word": "YAM",
+        "emoji": "🍠"
+      },
+      {
+        "word": "YELL",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "id": "s20",
+    "notation": "/z/",
+    "name": {
+      "en": "Z sound",
+      "hi": "/ज़/ ध्वनि",
+      "mr": "/झ/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "z",
+      "s",
+      "x"
+    ],
+    "trialDay": 2,
+    "mouthPosition": {
+      "en": "Like S but with voice buzzing!",
+      "hi": "S जैसा लेकिन आवाज़ गूँजे!",
+      "mr": "S सारखे पण आवाजाने गुंजते!"
+    },
+    "exampleWords": [
+      {
+        "word": "ZOO",
+        "emoji": "🦁"
+      },
+      {
+        "word": "ZIP",
+        "emoji": "🤐"
+      },
+      {
+        "word": "BUZZ",
+        "emoji": "🐝"
+      }
+    ]
+  },
+  {
+    "id": "s21",
+    "notation": "/sh/",
+    "name": {
+      "en": "SH sound",
+      "hi": "/श/ ध्वनि",
+      "mr": "/श/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "sh",
+      "ti",
+      "ci",
+      "si",
+      "ch",
+      "sch"
+    ],
+    "trialDay": 3,
+    "mouthPosition": {
+      "en": "Lips rounded, tongue back, push air: SHHH!",
+      "hi": "होंठ गोल, जीभ पीछे, हवा: श्श्श!",
+      "mr": "ओठ गोल, जीभ मागे, हवा: श्श्श!"
+    },
+    "exampleWords": [
+      {
+        "word": "SHIP",
+        "emoji": "🚢"
+      },
+      {
+        "word": "FISH",
+        "emoji": "🐟"
+      },
+      {
+        "word": "NATION",
+        "emoji": "🏛️"
+      }
+    ]
+  },
+  {
+    "id": "s22",
+    "notation": "/ch/",
+    "name": {
+      "en": "CH sound",
+      "hi": "/च/ ध्वनि",
+      "mr": "/च/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "affricate",
+    "phonogramIds": [
+      "ch",
+      "tch"
+    ],
+    "trialDay": 3,
+    "mouthPosition": {
+      "en": "Start with T, end with SH: T-SH!",
+      "hi": "T से शुरू, SH पर खत्म: T-SH!",
+      "mr": "T ने सुरू, SH ने संपा: T-SH!"
+    },
+    "exampleWords": [
+      {
+        "word": "CHAT",
+        "emoji": "💬"
+      },
+      {
+        "word": "CHEESE",
+        "emoji": "🧀"
+      },
+      {
+        "word": "MATCH",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "id": "s23",
+    "notation": "/th/",
+    "name": {
+      "en": "TH sound (unvoiced)",
+      "hi": "/थ/ ध्वनि",
+      "mr": "/थ/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "th"
+    ],
+    "trialDay": 3,
+    "mouthPosition": {
+      "en": "Tongue between teeth, blow air gently!",
+      "hi": "जीभ दाँतों के बीच, धीरे हवा फूंको!",
+      "mr": "जीभ दातांमध्ये, हळूवार हवा फुंका!"
+    },
+    "exampleWords": [
+      {
+        "word": "THINK",
+        "emoji": "🤔"
+      },
+      {
+        "word": "THIN",
+        "emoji": "📏"
+      },
+      {
+        "word": "MATH",
+        "emoji": "➕"
+      }
+    ]
+  },
+  {
+    "id": "s24",
+    "notation": "/TH/",
+    "name": {
+      "en": "TH sound (voiced)",
+      "hi": "/ध/ ध्वनि",
+      "mr": "/ध/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "fricative",
+    "phonogramIds": [
+      "th"
+    ],
+    "trialDay": 3,
+    "mouthPosition": {
+      "en": "Same as TH but add voice vibration!",
+      "hi": "TH जैसा लेकिन आवाज़ कंपन जोड़ो!",
+      "mr": "TH सारखे पण आवाज कंपन जोडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "THIS",
+        "emoji": "👆"
+      },
+      {
+        "word": "THAT",
+        "emoji": "👉"
+      },
+      {
+        "word": "THEM",
+        "emoji": "👫"
+      }
+    ]
+  },
+  {
+    "id": "s25",
+    "notation": "/ng/",
+    "name": {
+      "en": "NG sound",
+      "hi": "/ं/ ध्वनि",
+      "mr": "/ं/ ध्वनी"
+    },
+    "type": "consonant",
+    "subType": "nasal",
+    "phonogramIds": [
+      "ng"
+    ],
+    "trialDay": 3,
+    "mouthPosition": {
+      "en": "Back of tongue touches soft palate, air through nose!",
+      "hi": "जीभ का पिछला भाग नरम तालू से, नाक से हवा!",
+      "mr": "जिभेचा मागचा भाग मऊ टाळूशी, नाकातून हवा!"
+    },
+    "exampleWords": [
+      {
+        "word": "SING",
+        "emoji": "🎤"
+      },
+      {
+        "word": "RING",
+        "emoji": "💍"
+      },
+      {
+        "word": "KING",
+        "emoji": "👑"
+      }
+    ]
+  },
+  {
+    "id": "s26",
+    "notation": "/ă/",
+    "name": {
+      "en": "Short A",
+      "hi": "छोटा A",
+      "mr": "छोटा A"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "a"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "Open mouth wide, tongue flat!",
+      "hi": "मुँह चौड़ा खोलो, जीभ सपाट!",
+      "mr": "तोंड रुंद उघडा, जीभ सपाट!"
+    },
+    "exampleWords": [
+      {
+        "word": "CAT",
+        "emoji": "🐱"
+      },
+      {
+        "word": "BAT",
+        "emoji": "🦇"
+      },
+      {
+        "word": "HAT",
+        "emoji": "🎩"
+      }
+    ]
+  },
+  {
+    "id": "s27",
+    "notation": "/ĕ/",
+    "name": {
+      "en": "Short E",
+      "hi": "छोटा E",
+      "mr": "छोटा E"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "e",
+      "ea",
+      "ie"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "Mouth slightly open, tongue middle!",
+      "hi": "मुँह थोड़ा खुला, जीभ बीच में!",
+      "mr": "तोंड थोडे उघडे, जीभ मध्ये!"
+    },
+    "exampleWords": [
+      {
+        "word": "BED",
+        "emoji": "🛏️"
+      },
+      {
+        "word": "PEN",
+        "emoji": "🖊️"
+      },
+      {
+        "word": "RED",
+        "emoji": "🔴"
+      }
+    ]
+  },
+  {
+    "id": "s28",
+    "notation": "/ĭ/",
+    "name": {
+      "en": "Short I",
+      "hi": "छोटा I",
+      "mr": "छोटा I"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "i",
+      "y",
+      "ei"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "Lips relaxed, tongue high!",
+      "hi": "होंठ शिथिल, जीभ ऊँची!",
+      "mr": "ओठ शिथिल, जीभ उंच!"
+    },
+    "exampleWords": [
+      {
+        "word": "SIT",
+        "emoji": "🪑"
+      },
+      {
+        "word": "PIG",
+        "emoji": "🐷"
+      },
+      {
+        "word": "FISH",
+        "emoji": "🐟"
+      }
+    ]
+  },
+  {
+    "id": "s29",
+    "notation": "/ŏ/",
+    "name": {
+      "en": "Short O",
+      "hi": "छोटा O",
+      "mr": "छोटा O"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "o"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "Round mouth, tongue low!",
+      "hi": "गोल मुँह, जीभ नीचे!",
+      "mr": "गोल तोंड, जीभ खाली!"
+    },
+    "exampleWords": [
+      {
+        "word": "DOG",
+        "emoji": "🐶"
+      },
+      {
+        "word": "HOT",
+        "emoji": "🔥"
+      },
+      {
+        "word": "POT",
+        "emoji": "🍲"
+      }
+    ]
+  },
+  {
+    "id": "s30",
+    "notation": "/ŭ/",
+    "name": {
+      "en": "Short U",
+      "hi": "छोटा U",
+      "mr": "छोटा U"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "u",
+      "ou",
+      "o"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "Mouth barely open, tongue relaxed!",
+      "hi": "मुँह बमुश्किल खुला, जीभ शिथिल!",
+      "mr": "तोंड कसेबसे उघडे, जीभ शिथिल!"
+    },
+    "exampleWords": [
+      {
+        "word": "CUP",
+        "emoji": "☕"
+      },
+      {
+        "word": "BUS",
+        "emoji": "🚌"
+      },
+      {
+        "word": "SUN",
+        "emoji": "☀️"
+      }
+    ]
+  },
+  {
+    "id": "s31",
+    "notation": "/ŏŏ/",
+    "name": {
+      "en": "Short OO",
+      "hi": "छोटा OO",
+      "mr": "छोटा OO"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "oo",
+      "u",
+      "ou"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "Lips slightly rounded, tongue back!",
+      "hi": "होंठ थोड़े गोल, जीभ पीछे!",
+      "mr": "ओठ थोडे गोल, जीभ मागे!"
+    },
+    "exampleWords": [
+      {
+        "word": "BOOK",
+        "emoji": "📖"
+      },
+      {
+        "word": "COOK",
+        "emoji": "👨‍🍳"
+      },
+      {
+        "word": "FOOT",
+        "emoji": "🦶"
+      }
+    ]
+  },
+  {
+    "id": "s32",
+    "notation": "/ə/",
+    "name": {
+      "en": "Schwa",
+      "hi": "श्वा",
+      "mr": "श्वा"
+    },
+    "type": "vowel",
+    "subType": "short",
+    "phonogramIds": [
+      "a",
+      "e",
+      "i",
+      "o",
+      "u"
+    ],
+    "trialDay": 4,
+    "mouthPosition": {
+      "en": "The laziest sound — mouth barely moves!",
+      "hi": "सबसे आलसी ध्वनि — मुँह मुश्किल से हिलता है!",
+      "mr": "सर्वात आळशी ध्वनी — तोंड कसेबसे हलते!"
+    },
+    "exampleWords": [
+      {
+        "word": "ABOUT",
+        "emoji": "ℹ️"
+      },
+      {
+        "word": "PENCIL",
+        "emoji": "✏️"
+      },
+      {
+        "word": "LEMON",
+        "emoji": "🍋"
+      }
+    ]
+  },
+  {
+    "id": "s33",
+    "notation": "/ā/",
+    "name": {
+      "en": "Long A",
+      "hi": "लंबा A",
+      "mr": "लांब A"
+    },
+    "type": "vowel",
+    "subType": "long",
+    "phonogramIds": [
+      "a",
+      "ai",
+      "ay",
+      "ea",
+      "eigh",
+      "ei",
+      "ey"
+    ],
+    "trialDay": 5,
+    "mouthPosition": {
+      "en": "Say the letter name A!",
+      "hi": "अक्षर A का नाम बोलो!",
+      "mr": "अक्षर A चे नाव बोला!"
+    },
+    "exampleWords": [
+      {
+        "word": "CAKE",
+        "emoji": "🎂"
+      },
+      {
+        "word": "RAIN",
+        "emoji": "🌧️"
+      },
+      {
+        "word": "PLAY",
+        "emoji": "🎮"
+      }
+    ]
+  },
+  {
+    "id": "s34",
+    "notation": "/ē/",
+    "name": {
+      "en": "Long E",
+      "hi": "लंबा E",
+      "mr": "लांब E"
+    },
+    "type": "vowel",
+    "subType": "long",
+    "phonogramIds": [
+      "e",
+      "ee",
+      "ea",
+      "ie",
+      "ey",
+      "ei",
+      "y",
+      "cei"
+    ],
+    "trialDay": 5,
+    "mouthPosition": {
+      "en": "Big smile, tongue high and forward!",
+      "hi": "बड़ी मुस्कान, जीभ ऊँची और आगे!",
+      "mr": "मोठे स्मित, जीभ उंच आणि पुढे!"
+    },
+    "exampleWords": [
+      {
+        "word": "TREE",
+        "emoji": "🌳"
+      },
+      {
+        "word": "BEACH",
+        "emoji": "🏖️"
+      },
+      {
+        "word": "FIELD",
+        "emoji": "🌾"
+      }
+    ]
+  },
+  {
+    "id": "s35",
+    "notation": "/ī/",
+    "name": {
+      "en": "Long I",
+      "hi": "लंबा I",
+      "mr": "लांब I"
+    },
+    "type": "vowel",
+    "subType": "long",
+    "phonogramIds": [
+      "i",
+      "y",
+      "igh",
+      "ie"
+    ],
+    "trialDay": 5,
+    "mouthPosition": {
+      "en": "Start wide, end with a smile: AH-EE!",
+      "hi": "चौड़ा शुरू, मुस्कान पर खत्म: AH-EE!",
+      "mr": "रुंद सुरू, स्मितासह संपा: AH-EE!"
+    },
+    "exampleWords": [
+      {
+        "word": "KITE",
+        "emoji": "🪁"
+      },
+      {
+        "word": "BIKE",
+        "emoji": "🚲"
+      },
+      {
+        "word": "NIGHT",
+        "emoji": "🌙"
+      }
+    ]
+  },
+  {
+    "id": "s36",
+    "notation": "/ō/",
+    "name": {
+      "en": "Long O",
+      "hi": "लंबा O",
+      "mr": "लांब O"
+    },
+    "type": "vowel",
+    "subType": "long",
+    "phonogramIds": [
+      "o",
+      "oa",
+      "ow",
+      "oe",
+      "ough",
+      "ou"
+    ],
+    "trialDay": 5,
+    "mouthPosition": {
+      "en": "Round lips: OH!",
+      "hi": "गोल होंठ: OH!",
+      "mr": "गोल ओठ: OH!"
+    },
+    "exampleWords": [
+      {
+        "word": "HOME",
+        "emoji": "🏠"
+      },
+      {
+        "word": "BOAT",
+        "emoji": "⛵"
+      },
+      {
+        "word": "SNOW",
+        "emoji": "❄️"
+      }
+    ]
+  },
+  {
+    "id": "s37",
+    "notation": "/oo/",
+    "name": {
+      "en": "Long OO",
+      "hi": "लंबा OO",
+      "mr": "लांब OO"
+    },
+    "type": "vowel",
+    "subType": "long",
+    "phonogramIds": [
+      "oo",
+      "u",
+      "ew",
+      "ui",
+      "ough",
+      "oe",
+      "ou"
+    ],
+    "trialDay": 5,
+    "mouthPosition": {
+      "en": "Lips in a small O, tongue back!",
+      "hi": "होंठ छोटे O में, जीभ पीछे!",
+      "mr": "ओठ छोट्या O मध्ये, जीभ मागे!"
+    },
+    "exampleWords": [
+      {
+        "word": "MOON",
+        "emoji": "🌙"
+      },
+      {
+        "word": "FOOD",
+        "emoji": "🍕"
+      },
+      {
+        "word": "BLUE",
+        "emoji": "🔵"
+      }
+    ]
+  },
+  {
+    "id": "s38",
+    "notation": "/ū/",
+    "name": {
+      "en": "Long U",
+      "hi": "लंबा U",
+      "mr": "लांब U"
+    },
+    "type": "vowel",
+    "subType": "long",
+    "phonogramIds": [
+      "u",
+      "ew"
+    ],
+    "trialDay": 5,
+    "mouthPosition": {
+      "en": "Start with Y, then OO: YOO!",
+      "hi": "Y से शुरू, फिर OO: YOO!",
+      "mr": "Y ने सुरू, मग OO: YOO!"
+    },
+    "exampleWords": [
+      {
+        "word": "CUTE",
+        "emoji": "🥰"
+      },
+      {
+        "word": "MUSIC",
+        "emoji": "🎵"
+      },
+      {
+        "word": "FEW",
+        "emoji": "🤏"
+      }
+    ]
+  },
+  {
+    "id": "s39",
+    "notation": "/ow/",
+    "name": {
+      "en": "OW diphthong",
+      "hi": "OW द्विस्वर",
+      "mr": "OW द्विस्वर"
+    },
+    "type": "vowel",
+    "subType": "diphthong",
+    "phonogramIds": [
+      "ow",
+      "ou",
+      "ough"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Start wide, end with rounded lips: AH-OO!",
+      "hi": "चौड़ा शुरू, गोल होंठों पर खत्म: AH-OO!",
+      "mr": "रुंद सुरू, गोल ओठांनी संपा: AH-OO!"
+    },
+    "exampleWords": [
+      {
+        "word": "COW",
+        "emoji": "🐄"
+      },
+      {
+        "word": "HOUSE",
+        "emoji": "🏠"
+      },
+      {
+        "word": "OWL",
+        "emoji": "🦉"
+      }
+    ]
+  },
+  {
+    "id": "s40",
+    "notation": "/oy/",
+    "name": {
+      "en": "OY diphthong",
+      "hi": "OY द्विस्वर",
+      "mr": "OY द्विस्वर"
+    },
+    "type": "vowel",
+    "subType": "diphthong",
+    "phonogramIds": [
+      "oy",
+      "oi"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Round lips then smile: OH-EE!",
+      "hi": "गोल होंठ फिर मुस्कान: OH-EE!",
+      "mr": "गोल ओठ मग स्मित: OH-EE!"
+    },
+    "exampleWords": [
+      {
+        "word": "BOY",
+        "emoji": "👦"
+      },
+      {
+        "word": "TOY",
+        "emoji": "🧸"
+      },
+      {
+        "word": "COIN",
+        "emoji": "🪙"
+      }
+    ]
+  },
+  {
+    "id": "s41",
+    "notation": "/ah/",
+    "name": {
+      "en": "Broad A",
+      "hi": "चौड़ा A",
+      "mr": "रुंद A"
+    },
+    "type": "vowel",
+    "subType": "broad",
+    "phonogramIds": [
+      "a",
+      "au",
+      "aw",
+      "augh",
+      "ough",
+      "al"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Wide open mouth, tongue flat: AHHH!",
+      "hi": "चौड़ा खुला मुँह, जीभ सपाट: AHHH!",
+      "mr": "रुंद उघडे तोंड, जीभ सपाट: AHHH!"
+    },
+    "exampleWords": [
+      {
+        "word": "FATHER",
+        "emoji": "👨"
+      },
+      {
+        "word": "SAW",
+        "emoji": "🪚"
+      },
+      {
+        "word": "BALL",
+        "emoji": "⚽"
+      }
+    ]
+  },
+  {
+    "id": "s42",
+    "notation": "/ar/",
+    "name": {
+      "en": "AR sound",
+      "hi": "AR ध्वनि",
+      "mr": "AR ध्वनी"
+    },
+    "type": "vowel",
+    "subType": "r-controlled",
+    "phonogramIds": [
+      "ar"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Wide open, then add R!",
+      "hi": "चौड़ा खोलो, फिर R जोड़ो!",
+      "mr": "रुंद उघडा, मग R जोडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "CAR",
+        "emoji": "🚗"
+      },
+      {
+        "word": "STAR",
+        "emoji": "⭐"
+      },
+      {
+        "word": "FARM",
+        "emoji": "🌾"
+      }
+    ]
+  },
+  {
+    "id": "s43",
+    "notation": "/or/",
+    "name": {
+      "en": "OR sound",
+      "hi": "OR ध्वनि",
+      "mr": "OR ध्वनी"
+    },
+    "type": "vowel",
+    "subType": "r-controlled",
+    "phonogramIds": [
+      "or",
+      "our",
+      "ar"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Round lips, add R!",
+      "hi": "गोल होंठ, R जोड़ो!",
+      "mr": "गोल ओठ, R जोडा!"
+    },
+    "exampleWords": [
+      {
+        "word": "FORK",
+        "emoji": "🍴"
+      },
+      {
+        "word": "CORN",
+        "emoji": "🌽"
+      },
+      {
+        "word": "DOOR",
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "id": "s44",
+    "notation": "/er/",
+    "name": {
+      "en": "ER sound",
+      "hi": "ER ध्वनि",
+      "mr": "ER ध्वनी"
+    },
+    "type": "vowel",
+    "subType": "r-controlled",
+    "phonogramIds": [
+      "er",
+      "ir",
+      "ur",
+      "ear",
+      "wor",
+      "or"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Tongue curls back, lips neutral!",
+      "hi": "जीभ पीछे मुड़ती है, होंठ तटस्थ!",
+      "mr": "जीभ मागे वळते, ओठ तटस्थ!"
+    },
+    "exampleWords": [
+      {
+        "word": "HER",
+        "emoji": "👩"
+      },
+      {
+        "word": "BIRD",
+        "emoji": "🐦"
+      },
+      {
+        "word": "FERN",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "id": "s45",
+    "notation": "/air/",
+    "name": {
+      "en": "AIR sound",
+      "hi": "AIR ध्वनि",
+      "mr": "AIR ध्वनी"
+    },
+    "type": "vowel",
+    "subType": "r-controlled",
+    "phonogramIds": [
+      "air",
+      "ear",
+      "ar"
+    ],
+    "trialDay": 6,
+    "mouthPosition": {
+      "en": "Open mouth for A, then add R!",
+      "hi": "A के लिए मुँह खोलो, फिर R!",
+      "mr": "A साठी तोंड उघडा, मग R!"
+    },
+    "exampleWords": [
+      {
+        "word": "FAIR",
+        "emoji": "🎡"
+      },
+      {
+        "word": "BEAR",
+        "emoji": "🐻"
+      },
+      {
+        "word": "CARE",
+        "emoji": "💚"
+      }
+    ]
+  }
+]
