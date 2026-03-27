@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
 import 'package:crack_the_code/shared/widgets/coin_counter.dart';
+import 'package:crack_the_code/presentation/screens/scanner/card_scanner_screen.dart';
+import 'package:crack_the_code/presentation/screens/collection/collection_screen.dart';
+import 'package:crack_the_code/games/sound_board/screens/full_collection_screen.dart';
 
 class GamesHubScreen extends ConsumerWidget {
   const GamesHubScreen({super.key});
@@ -67,7 +70,8 @@ class GamesHubScreen extends ConsumerWidget {
                     icon: '🔊',
                     color: const Color(0xFFE57373),
                     isFree: true,
-                    onTap: () => _showComingSoon(context, 'Sound Board'),
+                    onTap: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => const FullCollectionScreen())),
                   ),
                   _GameCard(
                     title: 'Sound Quest',
@@ -125,6 +129,83 @@ class GamesHubScreen extends ConsumerWidget {
                   isFree: true,
                   isWide: true,
                   onTap: () => _showComingSoon(context, 'Classroom Arena'),
+                ),
+              ),
+            ),
+
+            // Physical Card Scanner
+            SliverToBoxAdapter(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+                child: GestureDetector(
+                  onTap: () => Navigator.push(context,
+                      MaterialPageRoute(builder: (_) => const CardScannerScreen())),
+                  child: Container(
+                    padding: const EdgeInsets.all(16),
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(colors: [
+                        const Color(0xFFFFD700).withValues(alpha: 0.12),
+                        const Color(0xFFFFD700).withValues(alpha: 0.04),
+                      ]),
+                      borderRadius: BorderRadius.circular(16),
+                      border: Border.all(color: const Color(0xFFFFD700).withValues(alpha: 0.2)),
+                    ),
+                    child: Row(
+                      children: [
+                        const Text('📱', style: TextStyle(fontSize: 28)),
+                        const SizedBox(width: 12),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              const Text('Scan Physical Card',
+                                  style: TextStyle(fontSize: 15, fontWeight: FontWeight.w700, color: Color(0xFFFFD700))),
+                              Text('Unlock characters from your card game!',
+                                  style: TextStyle(fontSize: 12, color: Colors.white.withValues(alpha: 0.4))),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.qr_code_scanner, color: Color(0xFFFFD700)),
+                      ],
+                    ),
+                  ),
+                ),
+              ),
+            ),
+
+            // Character Collection
+            SliverToBoxAdapter(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+                child: GestureDetector(
+                  onTap: () => Navigator.push(context,
+                      MaterialPageRoute(builder: (_) => const CollectionScreen())),
+                  child: Container(
+                    padding: const EdgeInsets.all(16),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withValues(alpha: 0.03),
+                      borderRadius: BorderRadius.circular(16),
+                      border: Border.all(color: Colors.white.withValues(alpha: 0.06)),
+                    ),
+                    child: Row(
+                      children: [
+                        const Text('🃏', style: TextStyle(fontSize: 28)),
+                        const SizedBox(width: 12),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              const Text('Character Collection',
+                                  style: TextStyle(fontSize: 15, fontWeight: FontWeight.w700, color: Colors.white)),
+                              Text('Browse all 168 characters',
+                                  style: TextStyle(fontSize: 12, color: Colors.white.withValues(alpha: 0.4))),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.chevron_right, color: Colors.white38),
+                      ],
+                    ),
+                  ),
                 ),
               ),
             ),
