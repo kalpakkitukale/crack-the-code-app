@@ -102,7 +102,15 @@ class LearnHubScreen extends ConsumerWidget {
                                       LessonScreen(lesson: lesson),
                                 ),
                               )
-                          : null,
+                          : () {
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                SnackBar(
+                                  content: Text(
+                                      'Complete Lesson ${lesson.prerequisite} first to unlock this!'),
+                                  behavior: SnackBarBehavior.floating,
+                                ),
+                              );
+                            },
                     );
                   },
                   childCount: lessonList.length,
@@ -230,7 +238,12 @@ class LearnHubScreen extends ConsumerWidget {
                       label: strings.flashcards,
                       color: const Color(0xFF9C27B0),
                       onTap: () {
-                        // Navigate to flashcard decks with spelling data
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('Flashcards — Coming soon! Data is ready.'),
+                            behavior: SnackBarBehavior.floating,
+                          ),
+                        );
                       },
                     ),
                     const SizedBox(width: 10),
@@ -239,7 +252,12 @@ class LearnHubScreen extends ConsumerWidget {
                       label: strings.glossary,
                       color: const Color(0xFF2196F3),
                       onTap: () {
-                        // Navigate to glossary
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('Glossary — Coming soon! 274 terms ready.'),
+                            behavior: SnackBarBehavior.floating,
+                          ),
+                        );
                       },
                     ),
                     const SizedBox(width: 10),
@@ -248,7 +266,14 @@ class LearnHubScreen extends ConsumerWidget {
                       label: strings.mindMaps,
                       color: const Color(0xFF4CAF50),
                       isPremium: true,
-                      onTap: () {},
+                      onTap: () {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('Mind Maps — Premium feature. Coming soon!'),
+                            behavior: SnackBarBehavior.floating,
+                          ),
+                        );
+                      },
                     ),
                   ],
                 ),

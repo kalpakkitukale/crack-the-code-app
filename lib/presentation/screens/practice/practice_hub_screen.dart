@@ -2,6 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
 import 'package:crack_the_code/shared/l10n/app_strings.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_bee_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/spelling_practice_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/unscramble_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/word_match_screen.dart';
+import 'package:crack_the_code/presentation/screens/spelling/daily_challenge_screen.dart';
 
 class PracticeHubScreen extends ConsumerWidget {
   const PracticeHubScreen({super.key});
@@ -75,7 +80,8 @@ class PracticeHubScreen extends ConsumerWidget {
                       ),
                     ),
                     ElevatedButton(
-                      onPressed: () {},
+                      onPressed: () => Navigator.push(context,
+                          MaterialPageRoute(builder: (_) => const DailyChallengeScreen())),
                       style: ElevatedButton.styleFrom(
                         backgroundColor: const Color(0xFFFFD700),
                         foregroundColor: Colors.black,
@@ -107,28 +113,32 @@ class PracticeHubScreen extends ConsumerWidget {
                     label: strings.spellingBee,
                     subtitle: 'Listen and spell',
                     color: const Color(0xFFFFD700),
-                    onTap: () {},
+                    onTap: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => const SpellingBeeScreen(gradeLevel: 1, roundCount: 5))),
                   ),
                   _ActivityCard(
                     icon: '📝',
                     label: strings.dictation,
                     subtitle: 'Write what you hear',
                     color: const Color(0xFF4ECDC4),
-                    onTap: () {},
+                    onTap: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => const SpellingPracticeScreen(wordListId: 'grade_1', activityType: 'dictation'))),
                   ),
                   _ActivityCard(
                     icon: '🔀',
                     label: strings.unscramble,
                     subtitle: 'Rearrange the letters',
                     color: const Color(0xFFFF8C42),
-                    onTap: () {},
+                    onTap: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => const UnscrambleScreen(wordListId: 'grade_1'))),
                   ),
                   _ActivityCard(
                     icon: '🔗',
                     label: strings.wordMatch,
                     subtitle: 'Pair sounds with words',
                     color: const Color(0xFF50C878),
-                    onTap: () {},
+                    onTap: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => const WordMatchScreen(wordListId: 'grade_1'))),
                   ),
                 ]),
               ),
@@ -154,7 +164,7 @@ class PracticeHubScreen extends ConsumerWidget {
                 icon: '👂',
                 label: 'Phonogram Recognition',
                 subtitle: 'Hear the sound, pick the spelling',
-                onTap: () {},
+                onTap: () => _showComingSoon(context, 'Phonogram Recognition Quiz'),
               ),
             ),
             SliverToBoxAdapter(
@@ -162,7 +172,7 @@ class PracticeHubScreen extends ConsumerWidget {
                 icon: '📜',
                 label: 'Spelling Rules',
                 subtitle: 'Apply the 38 rules',
-                onTap: () {},
+                onTap: () => _showComingSoon(context, 'Spelling Rules Quiz'),
               ),
             ),
             SliverToBoxAdapter(
@@ -170,13 +180,23 @@ class PracticeHubScreen extends ConsumerWidget {
                 icon: '✏️',
                 label: 'Word Spelling',
                 subtitle: 'Spell the word correctly',
-                onTap: () {},
+                onTap: () => _showComingSoon(context, 'Word Spelling Quiz'),
               ),
             ),
 
             const SliverToBoxAdapter(child: SizedBox(height: 100)),
           ],
         ),
+      ),
+    );
+  }
+
+  void _showComingSoon(BuildContext context, String feature) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text('$feature — Coming soon!'),
+        duration: const Duration(seconds: 1),
+        behavior: SnackBarBehavior.floating,
       ),
     );
   }

@@ -14,7 +14,8 @@ import 'package:crack_the_code/games/sound_board/screens/word_builder_screen.dar
 import 'package:crack_the_code/games/sound_board/screens/onboarding_flow.dart';
 import 'package:crack_the_code/games/sound_board/widgets/tier_overview_sheet.dart';
 import 'package:crack_the_code/games/sound_board/widgets/settings_sheet.dart';
-
+import 'package:crack_the_code/shared/providers/lesson_provider.dart';
+import 'package:crack_the_code/presentation/screens/learn/lesson_screen.dart';
 class SoundBoardHome extends ConsumerWidget {
   const SoundBoardHome({super.key});
 
@@ -64,6 +65,11 @@ class SoundBoardHome extends ConsumerWidget {
                   ],
                 ),
               ),
+            ),
+
+            // Continue Lesson
+            SliverToBoxAdapter(
+              child: _buildContinueLesson(context, ref),
             ),
 
             // Today's Sound
@@ -166,6 +172,105 @@ class SoundBoardHome extends ConsumerWidget {
           ],
         ),
       ),
+    );
+  }
+
+  Widget _buildContinueLesson(BuildContext context, WidgetRef ref) {
+    final lessons = ref.watch(lessonsProvider);
+    final lessonProgress = ref.watch(lessonProgressProvider);
+
+    return lessons.when(
+      data: (lessonList) {
+        final notifier = ref.read(lessonProgressProvider.notifier);
+        final next = notifier.nextLesson(lessonList);
+        if (next == null) return const SizedBox.shrink(); // all complete
+
+        final lang = ref.watch(playerProfileProvider).language.name;
+        final progress = lessonProgress[next.lessonId];
+        final learned = progress?.phonogramsLearned ?? 0;
+        final color =
+            Color(int.parse(next.color.replaceFirst('#', '0xFF')));
+
+        return Padding(
+          padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
+          child: GestureDetector(
+            onTap: () => Navigator.push(context,
+                MaterialPageRoute(builder: (_) => LessonScreen(lesson: next))),
+            child: Container(
+              padding: const EdgeInsets.all(14),
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  colors: [
+                    color.withValues(alpha: 0.12),
+                    color.withValues(alpha: 0.04),
+                  ],
+                ),
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(color: color.withValues(alpha: 0.2)),
+              ),
+              child: Row(
+                children: [
+                  Container(
+                    width: 44,
+                    height: 44,
+                    decoration: BoxDecoration(
+                      color: color.withValues(alpha: 0.2),
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Center(
+                      child:
+                          Text(next.emoji, style: const TextStyle(fontSize: 22)),
+                    ),
+                  ),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          'CONTINUE LESSON',
+                          style: TextStyle(
+                            fontSize: 9,
+                            fontWeight: FontWeight.w700,
+                            color: color,
+                            letterSpacing: 2,
+                          ),
+                        ),
+                        const SizedBox(height: 2),
+                        Text(
+                          'Lesson ${next.lessonId}: ${next.titleForLang(lang)}',
+                          style: const TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w600,
+                            color: Colors.white,
+                          ),
+                        ),
+                        if (learned > 0) ...[
+                          const SizedBox(height: 6),
+                          ClipRRect(
+                            borderRadius: BorderRadius.circular(2),
+                            child: LinearProgressIndicator(
+                              value: learned / next.phonogramCount,
+                              minHeight: 3,
+                              backgroundColor:
+                                  Colors.white.withValues(alpha: 0.08),
+                              valueColor: AlwaysStoppedAnimation(color),
+                            ),
+                          ),
+                        ],
+                      ],
+                    ),
+                  ),
+                  Icon(Icons.play_circle_fill,
+                      color: color, size: 32),
+                ],
+              ),
+            ),
+          ),
+        );
+      },
+      loading: () => const SizedBox.shrink(),
+      error: (_, __) => const SizedBox.shrink(),
     );
   }
 }

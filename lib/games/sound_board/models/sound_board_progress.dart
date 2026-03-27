@@ -16,7 +16,7 @@ class SoundBoardProgress {
   });
 
   int get totalExplored => exploredPhonogramIds.length;
-  int get totalAvailable => 74;
+  int get totalAvailable => 73;
   double get explorationPercent =>
       totalAvailable == 0 ? 0 : totalExplored / totalAvailable;
   bool isExplored(String id) => exploredPhonogramIds.contains(id);

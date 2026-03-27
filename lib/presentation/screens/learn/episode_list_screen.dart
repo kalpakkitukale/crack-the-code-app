@@ -152,7 +152,14 @@ class EpisodeListScreen extends ConsumerWidget {
               isPremium: true,
               onTap: () {
                 Navigator.pop(context);
-                // Play animated video
+                final url = episode.kkAdventureUrl[lang] ?? '';
+                if (url.isNotEmpty) {
+                  // TODO: Open video player with url
+                } else {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(content: Text('Video coming soon! We\'re producing KK\'s animated adventures.'),
+                        behavior: SnackBarBehavior.floating));
+                }
               },
             ),
             const SizedBox(height: 8),
@@ -163,7 +170,14 @@ class EpisodeListScreen extends ConsumerWidget {
               isPremium: false,
               onTap: () {
                 Navigator.pop(context);
-                // Play NLM audio
+                final url = episode.audioLessonUrl[lang] ?? '';
+                if (url.isNotEmpty) {
+                  // TODO: Open audio player with url
+                } else {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(content: Text('Audio lesson coming soon! Being recorded now.'),
+                        behavior: SnackBarBehavior.floating));
+                }
               },
             ),
             const SizedBox(height: 8),
@@ -174,7 +188,14 @@ class EpisodeListScreen extends ConsumerWidget {
               isPremium: false,
               onTap: () {
                 Navigator.pop(context);
-                // Play NLM video
+                final url = episode.videoGuideUrl[lang] ?? '';
+                if (url.isNotEmpty) {
+                  // TODO: Open video player with url
+                } else {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(content: Text('Video guide coming soon! Being created now.'),
+                        behavior: SnackBarBehavior.floating));
+                }
               },
             ),
             const SizedBox(height: 16),
