@@ -636,6 +636,450 @@ mobile_scanner: ^5.0.0  # QR code scanning
 
 ---
 
+## PHASE 10A: VIDEO COURSE INTEGRATION
+
+**Goal:** 28 episodes in 3 formats × 3 languages, level-grouped, with sound drills.
+
+### How the Video Course Works
+
+```
+Each episode has 3 formats:
+  🎬 KK's Adventure    → Premium animated (Flow/Veo 3)
+  🎧 Audio Lesson      → FREE podcast-style (NLM audio)
+  📺 Video Guide       → FREE presentation (NLM video)
+
+Each format in 3 languages:
+  [English] [हिंदी] [मराठी]
+
+Total: 28 episodes × 3 formats × 3 languages = 252 content URLs
+```
+
+### Episode Screen Design
+
+```
+┌──────────────────────────────────────┐
+│  ← ep05: When Letters Change         │
+│  🟢 Level 1 · Rules 1-4             │
+│                                      │
+│  ┌─── WATCH ───────────────────────┐ │
+│  │                                  │ │
+│  │  🎬 KK's Adventure       👑     │ │
+│  │     12 min · Premium animated    │ │
+│  │                                  │ │
+│  │  🎧 Audio Lesson         FREE   │ │
+│  │     15 min · Like a podcast      │ │
+│  │                                  │ │
+│  │  📺 Video Guide          FREE   │ │
+│  │     15 min · Visual guide        │ │
+│  │                                  │ │
+│  │  🌐 [English] [हिंदी] [मराठी]    │ │
+│  └──────────────────────────────────┘ │
+│                                      │
+│  SOUND DRILL (if episode has one):   │
+│  ┌──────────────────────────────────┐│
+│  │  Practice the sounds from this   ││
+│  │  episode with interactive drill   ││
+│  │  [▶ Start Sound Drill]          ││
+│  └──────────────────────────────────┘│
+│                                      │
+│  AFTER WATCHING:                     │
+│  ✅ Flashcards for Rules 1-4        │
+│  ✅ Quiz: Test Rules 1-4            │
+│  ✅ Related characters unlocked     │
+│                                      │
+└──────────────────────────────────────┘
+```
+
+### Files
+
+| # | Action | File | Purpose |
+|---|--------|------|---------|
+| 1 | MODIFY | `lib/presentation/screens/learn/episode_list_screen.dart` | Level-grouped episodes with sound drill badges |
+| 2 | CREATE | `lib/presentation/screens/learn/episode_detail_screen.dart` | 3-format × 3-language player + sound drill link |
+| 3 | CREATE | `lib/presentation/screens/learn/sound_drill_episode_screen.dart` | Interactive sound drill linked from episode |
+| 4 | MODIFY | `assets/data/episodes/video_course.json` | Add level, soundDrill, format URLs per language |
+
+**Phase 10A Output: 4 files**
+
+---
+
+## PHASE 10B: FLASHCARD SYSTEM (Character + Sound + Rule Decks)
+
+**Goal:** 168 character cards + 45 sound cards + 100 rule cards, level-grouped with spaced repetition.
+
+### Flashcard Deck Types
+
+| Deck | Cards | Front | Back |
+|------|:-----:|-------|------|
+| **Character Cards** | 168 | Character name + art | Phonogram → Sound + 6 words |
+| **Sound Cards** | 45 | Sound notation /f/ | All phonograms that spell it + words |
+| **Rule Cards** | 100 | Rule number + title | Full explanation + examples + exceptions |
+| **Word Cards** | 1000+ | Word + emoji | Phonogram breakdown + meaning + spelling note |
+
+### Flashcard Design
+
+```
+CHARACTER FLASHCARD:
+
+FRONT:                          BACK:
+┌──────────────────┐           ┌──────────────────┐
+│                  │           │                  │
+│    🐺 FANG       │           │  F → /f/         │
+│                  │           │                  │
+│    🟢 Level 1    │           │  "F always       │
+│                  │           │   says /f/"      │
+│                  │           │                  │
+│  Tap to flip     │           │  🐟 FISH         │
+│                  │           │  🦊 FOX          │
+│                  │           │  🔥 FIRE         │
+│                  │           │  🍟 FUN          │
+│                  │           │  💐 FLOWER       │
+│                  │           │  ⚡ FAST         │
+│                  │           │                  │
+│                  │           │  Other: PH, GH   │
+└──────────────────┘           └──────────────────┘
+
+SOUND FLASHCARD:
+
+FRONT:                          BACK:
+┌──────────────────┐           ┌──────────────────┐
+│                  │           │  3 ways to        │
+│     /f/          │           │  spell /f/:       │
+│                  │           │                  │
+│  How do you      │           │  F  → FISH 🐟   │
+│  spell this      │           │  PH → PHONE 📞  │
+│  sound?          │           │  GH → LAUGH 😂  │
+│                  │           │                  │
+│  Tap to flip     │           │  F is most       │
+│                  │           │  common (90%)    │
+└──────────────────┘           └──────────────────┘
+
+RULE FLASHCARD:
+
+FRONT:                          BACK:
+┌──────────────────┐           ┌──────────────────┐
+│                  │           │  C says /s/       │
+│  Rule 1          │           │  before E, I, Y   │
+│                  │           │                  │
+│  When does C     │           │  ✅ CITY, ICE,   │
+│  say /s/?        │           │  PENCIL, CEILING │
+│                  │           │                  │
+│  Tap to flip     │           │  100% reliable!  │
+│                  │           │  No exceptions.  │
+│                  │           │                  │
+│                  │           │  Compare:        │
+│                  │           │  CAT (before A)  │
+│                  │           │  = /k/ sound     │
+└──────────────────┘           └──────────────────┘
+```
+
+### How Flashcards Connect to Levels
+
+```
+Level 1 🟢: 70 character cards + 15 rule cards + 45 sound cards = 130 flashcards
+Level 2 🔵: +60 character cards + 10 rule cards = 70 new flashcards
+Level 3 🟠: +13 rule cards = 13 new flashcards
+Level 4 🔴: +42 rule cards = 42 new flashcards
+Level 5 🟡: +38 character cards + 20 rule cards = 58 new flashcards
+
+Total: 313 flashcards = exactly matches the 313-card physical set!
+```
+
+### Spaced Repetition Integration
+
+```
+Existing FlashcardStudyScreen already has:
+  - Card flip animation
+  - "Again / Hard / Good / Easy" rating buttons
+  - Spaced repetition algorithm
+  - Due card tracking
+
+We just need to feed it CHARACTER/SOUND/RULE card data
+instead of NCERT chapter data. The screen works as-is!
+```
+
+### Files
+
+| # | Action | File | Purpose |
+|---|--------|------|---------|
+| 1 | CREATE | `assets/data/study_tools/flashcards/spelling_characters_flashcards.json` | 168 character cards grouped by level |
+| 2 | CREATE | `assets/data/study_tools/flashcards/spelling_sounds_flashcards.json` | 45 sound cards |
+| 3 | UPDATE | `assets/data/study_tools/flashcards/spelling_rules_flashcards.json` | Expand from 38 → 100 rules |
+| 4 | UPDATE | `assets/data/study_tools/flashcards/spelling_words_flashcards.json` | Expand from 110 → 1000+ word cards |
+| 5 | MODIFY | `lib/presentation/screens/learn/learn_hub_screen.dart` | Wire flashcard button to character deck |
+
+**Phase 10B Output: 5 files**
+**Dependencies: Phase 0 (data), uses existing FlashcardStudyScreen as-is**
+
+---
+
+## PHASE 10C: MIND MAP SYSTEM (Phonogram Family Trees by Level)
+
+**Goal:** Visual maps showing how sounds connect to phonograms, organized by level.
+
+### Mind Map Types
+
+| Map | Nodes | What It Shows |
+|-----|:-----:|--------------|
+| **Sound → Spelling Map** | ~200 | Each sound branches to all phonograms that spell it |
+| **Level 1 Phonogram Tree** | ~80 | All 50 Level 1 phonograms with characters |
+| **Level 2 Addition Tree** | ~50 | 24 new phonograms added at Level 2 |
+| **Rule Category Map** | ~110 | 6 rule categories → individual rules |
+| **Word Family Map** | ~150 | Common word families (-at, -an, -ig, -op, etc.) |
+
+### Mind Map Design
+
+```
+Sound → Spelling Map for /f/:
+
+                    ┌─ FISH 🐟
+            ┌── F ──┤
+            │       └─ FOX 🦊
+            │
+   /f/ ─────┤       ┌─ PHONE 📞
+            ├── PH ─┤
+            │       └─ DOLPHIN 🐬
+            │
+            │       ┌─ LAUGH 😂
+            └── GH ─┤
+                    └─ COUGH 😷
+
+Each node:
+  - Tappable → plays audio
+  - Shows level color (🟢/🔵/🟡)
+  - Character avatar on phonogram nodes
+```
+
+### Files
+
+| # | Action | File | Purpose |
+|---|--------|------|---------|
+| 1 | CREATE | `assets/data/study_tools/mind_maps/spelling_sound_spelling_map.json` | Sound → all spellings |
+| 2 | UPDATE | `assets/data/study_tools/mind_maps/spelling_phonogram_families_mindmap.json` | Update to 107 phonograms with levels |
+| 3 | UPDATE | `assets/data/study_tools/mind_maps/spelling_rules_overview_mindmap.json` | Update to 100 rules |
+| 4 | CREATE | `assets/data/study_tools/mind_maps/spelling_word_families_mindmap.json` | Word family trees |
+| 5 | MODIFY | `lib/presentation/screens/learn/learn_hub_screen.dart` | Wire mind map button |
+
+**Phase 10C Output: 5 files**
+**Dependencies: Phase 0 (data), uses existing MindMapScreen as-is**
+
+---
+
+## PHASE 10D: QUIZ SYSTEM (Level-Appropriate Spelling Quizzes)
+
+**Goal:** Dynamic quizzes generated from phonogram, rule, and word data.
+
+### Quiz Types
+
+| Type | Question | Answer Options | Level |
+|------|----------|---------------|:-----:|
+| **Sound Recognition** | "Which sound does SH make?" (plays audio) | 4 sound options | All |
+| **Phonogram Identification** | "Which phonogram spells /f/ in PHONE?" | PH, SH, TH, GH | L1+ |
+| **Rule Application** | "C says /s/ before which letters?" | E,I,Y / A,O,U / B,D,G / All | L1+ |
+| **Word Spelling** | "Spell: [plays BEAUTIFUL]" | Type answer | L2+ |
+| **Character Match** | "Which character makes /sh/?" | SHADOW, FANG, BLITZ, ACE | All |
+| **Exception Finder** | "Which word BREAKS Rule 2?" | GET, GEM, GIANT, GENTLE | L3+ |
+| **Fill Blank** | "___ I P (it's a boat)" | SH | All |
+| **Word Origin** | "PHONE comes from which language?" | Greek, Latin, French, German | L4+ |
+
+### Quiz Screen Design
+
+```
+┌──────────────────────────────────────┐
+│  ← Rule Quiz · Question 4/10        │
+│  ████████░░░░░░░░                    │
+│                                      │
+│  Rule 1:                             │
+│  C says /s/ before...                │
+│                                      │
+│  ┌────────────────────────────────┐  │
+│  │  A)  A, O, U                  │  │
+│  └────────────────────────────────┘  │
+│  ┌────────────────────────────────┐  │
+│  │  B)  E, I, Y    ✅ CORRECT!  │  │  ← green highlight
+│  └────────────────────────────────┘  │
+│  ┌────────────────────────────────┐  │
+│  │  C)  B, D, G                  │  │
+│  └────────────────────────────────┘  │
+│  ┌────────────────────────────────┐  │
+│  │  D)  All consonants           │  │
+│  └────────────────────────────────┘  │
+│                                      │
+│  KK: "Right! 100% reliable rule!"    │
+│  Examples: CITY, ICE, PENCIL         │
+│                                      │
+│  +10 XP · +5 coins                   │
+│                                      │
+│  [Next Question →]                   │
+└──────────────────────────────────────┘
+```
+
+### Files
+
+| # | Action | File | Purpose |
+|---|--------|------|---------|
+| 1 | CREATE | `lib/shared/providers/spelling_quiz_provider.dart` | Generate quiz questions dynamically from repos |
+| 2 | CREATE | `lib/presentation/screens/quiz/spelling_quiz_screen.dart` | Quiz taking screen for spelling |
+| 3 | CREATE | `lib/presentation/screens/quiz/quiz_results_screen.dart` | Results with mastery update |
+| 4 | MODIFY | `lib/presentation/screens/practice/practice_hub_screen.dart` | Wire quiz buttons to spelling_quiz_screen |
+
+**Phase 10D Output: 4 files**
+**Dependencies: Phase 1 (repos), Phase 2 (providers)**
+
+---
+
+## PHASE 10E: DIGITAL GAMES ARCHITECTURE
+
+**Goal:** Framework for 7 games, level-gated with shared data.
+
+### The 7 Games
+
+| # | Game | Engine | Level | Status |
+|---|------|:------:|:-----:|--------|
+| 0 | **Sound Explorer** | Flutter | FREE + All | Phase 7 (redesigned Sound Board) |
+| 1 | **Sound Quest** | Flutter + Flame | L1+ | Needs implementation |
+| 2 | **Rule Master** | Flutter + Flame | L1+ | Needs implementation |
+| 3 | **Word Crusher** | Flame | L2+ | Needs implementation |
+| 4 | **Rule Runner** | Flame | L2+ | Needs implementation |
+| 5 | **Daily Decoder** | Flutter | FREE | Needs implementation |
+| 6 | **Classroom Arena** | Flutter + WebSocket | L1+ | Needs implementation |
+
+### How Games Connect to Levels
+
+```
+FREE:
+  Sound Explorer → browse 45 sounds (free) / all phonograms + characters (paid)
+  Daily Decoder → 1 puzzle per day using current level's content
+
+Level 1 🟢:
+  Sound Quest → 7 worlds, one per phonogram category
+                World 1-3 use Level 1 phonograms (50)
+  Rule Master → Puzzles for Rules 1-15
+
+Level 2 🔵:
+  Sound Quest → Worlds 4-5 use Level 2 phonograms (+24)
+  Rule Master → Puzzles for Rules 16-25
+  Word Crusher → Match-3 with Level 1+2 words
+  Rule Runner → Endless runner with Level 1+2 content
+
+Level 3+ 🟠🔴🟡:
+  All games unlock more content as levels progress
+  Classroom Arena available at any paid level
+```
+
+### Game Implementation Order
+
+```
+Phase 7:  Sound Explorer (redesigned Sound Board) ← ALREADY IN PLAN
+Phase ?:  Daily Decoder (daily puzzle, pure Flutter) ← BUILD NEXT
+Phase ?:  Sound Quest (adventure, Flutter + Flame) ← BIGGEST GAME
+Phase ?:  Rule Master (puzzles, Flutter + Flame)
+Phase ?:  Word Crusher (match-3, Flame)
+Phase ?:  Rule Runner (endless runner, Flame)
+Phase ?:  Classroom Arena (multiplayer, WebSocket)
+```
+
+### Files (Framework Only — Individual Games Built Later)
+
+| # | Action | File | Purpose |
+|---|--------|------|---------|
+| 1 | MODIFY | `lib/presentation/screens/games/games_hub_screen.dart` | Level-gated game cards with progress |
+| 2 | CREATE | `lib/shared/providers/game_access_provider.dart` | Which games are accessible at current level |
+| 3 | MODIFY | `lib/presentation/screens/games/games_hub_screen.dart` | Show level requirement per game |
+
+**Phase 10E Output: 3 files (framework only, individual games are separate sprints)**
+
+---
+
+## PHASE 10F: PHYSICAL GAME COMPANION (Beyond QR Scanner)
+
+**Goal:** Complete physical game experience in the app.
+
+### Features
+
+```
+┌──────────────────────────────────────┐
+│  MY PHYSICAL GAMES                   │
+│                                      │
+│  ── YOUR CARD COLLECTION ──          │
+│  Physical cards scanned: 45/313      │
+│  🟢 35  🔵 8  🟠 0  🔴 0  🟡 2    │
+│                                      │
+│  ── GAME MODES ──                    │
+│                                      │
+│  🃏 Power Cards (40 modes)           │
+│    ▶ Snap — Same Sound!             │
+│    ▶ Word Builder                    │
+│    ▶ Trump & Memory Match            │
+│    ▶ Decode Race                     │
+│    ▶ Team Battle                     │
+│    🔒 34 more modes (Premium)        │
+│                                      │
+│  ♟️ Rule Breaker Board (50 modes)    │
+│    ▶ Classic Board Game              │
+│    🔒 49 more modes (Premium)        │
+│                                      │
+│  🗼 Crack the Tower (50 modes)       │
+│  👋 Phonogram Slam (34 modes)        │
+│  📊 Sticker Chart (25 modes)         │
+│                                      │
+│  ── HOW TO PLAY ──                   │
+│  Each game has:                      │
+│    🎧 Audio instructions (3 lang)    │
+│    📺 Video demo (3 lang)            │
+│    📖 Written rules                  │
+│                                      │
+│  ── SCORE TRACKER ──                 │
+│  Record your physical game scores!   │
+│  [+ New Game Session]               │
+│                                      │
+│  ── BUY GAMES ──                     │
+│  [🛒 Order from website]            │
+│                                      │
+└──────────────────────────────────────┘
+```
+
+### Files
+
+| # | Action | File | Purpose |
+|---|--------|------|---------|
+| 1 | CREATE | `lib/presentation/screens/games/physical_games_hub.dart` | Physical game browser |
+| 2 | CREATE | `lib/presentation/screens/games/game_modes_screen.dart` | Mode list per physical game |
+| 3 | CREATE | `lib/presentation/screens/games/how_to_play_screen.dart` | Audio/video/text instructions |
+| 4 | CREATE | `lib/presentation/screens/games/score_tracker_screen.dart` | Manual score entry |
+| 5 | CREATE | `assets/data/physical_games.json` | 10 games × modes × instructions |
+
+**Phase 10F Output: 5 files**
+
+---
+
+## UPDATED PHASE SUMMARY
+
+### Original 12 Phases + 6 New Sub-Phases
+
+| Phase | What | Files |
+|:-----:|------|:-----:|
+| 0 | Data Generation | 14 |
+| 1 | Data Models + Repos | 12 |
+| 2 | Providers + Core Logic | 8 |
+| 3 | 7-Day Free Trial | 5 |
+| 4 | Home Screen | 5 |
+| 5 | Character Collection | 4 |
+| 6 | Learn Tab | 6 |
+| 7 | Sound Explorer | 3 |
+| 8 | Practice Integration | 1 |
+| 9 | Progress Dashboard | 4 |
+| 10 | Physical Card Scanner | 3 |
+| **10A** | **Video Course Integration** | **4** |
+| **10B** | **Flashcard System** | **5** |
+| **10C** | **Mind Map System** | **5** |
+| **10D** | **Quiz System** | **4** |
+| **10E** | **Digital Games Framework** | **3** |
+| **10F** | **Physical Game Companion** | **5** |
+| 11 | Audio Generation | ~1200 |
+| 12 | Polish | ~20 |
+| **TOTAL** | | **~1310** |
+
 ## PHASE 11: AUDIO GENERATION
 
 **Goal:** Generate audio for all new content.
