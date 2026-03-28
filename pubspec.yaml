@@ -13,6 +13,7 @@ dependencies:
 
   # UI & Icons
   cupertino_icons: ^1.0.8
+  mobile_scanner: ^5.2.3
 
   # State Management
   flutter_riverpod: ^2.6.1
