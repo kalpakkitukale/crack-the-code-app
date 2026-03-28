@@ -7,6 +7,7 @@ import 'package:crack_the_code/presentation/screens/spelling/spelling_practice_s
 import 'package:crack_the_code/presentation/screens/spelling/unscramble_screen.dart';
 import 'package:crack_the_code/presentation/screens/spelling/word_match_screen.dart';
 import 'package:crack_the_code/presentation/screens/spelling/daily_challenge_screen.dart';
+import 'package:crack_the_code/presentation/screens/quiz/spelling_quiz_screen.dart';
 
 class PracticeHubScreen extends ConsumerWidget {
   const PracticeHubScreen({super.key});
@@ -164,15 +165,17 @@ class PracticeHubScreen extends ConsumerWidget {
                 icon: '👂',
                 label: 'Phonogram Recognition',
                 subtitle: 'Hear the sound, pick the spelling',
-                onTap: () => _showComingSoon(context, 'Phonogram Recognition Quiz'),
+                onTap: () => Navigator.push(context,
+                    MaterialPageRoute(builder: (_) => const SpellingQuizScreen(quizType: 'phonogram'))),
               ),
             ),
             SliverToBoxAdapter(
               child: _QuizCard(
                 icon: '📜',
                 label: 'Spelling Rules',
-                subtitle: 'Apply the 38 rules',
-                onTap: () => _showComingSoon(context, 'Spelling Rules Quiz'),
+                subtitle: 'Apply the 100 rules',
+                onTap: () => Navigator.push(context,
+                    MaterialPageRoute(builder: (_) => const SpellingQuizScreen(quizType: 'rule'))),
               ),
             ),
             SliverToBoxAdapter(
@@ -180,7 +183,8 @@ class PracticeHubScreen extends ConsumerWidget {
                 icon: '✏️',
                 label: 'Word Spelling',
                 subtitle: 'Spell the word correctly',
-                onTap: () => _showComingSoon(context, 'Word Spelling Quiz'),
+                onTap: () => Navigator.push(context,
+                    MaterialPageRoute(builder: (_) => const SpellingQuizScreen(quizType: 'word'))),
               ),
             ),
 
