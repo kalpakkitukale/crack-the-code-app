@@ -29,6 +29,7 @@ class GameStorageService {
       Hive.openBox<String>('trial_progress'),
       Hive.openBox<String>('character_collection'),
       Hive.openBox<String>('level_progress'),
+      Hive.openBox<String>('daily_decoder_progress'),
     ]);
     _initialized = true;
   }

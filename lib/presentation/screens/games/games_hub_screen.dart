@@ -5,6 +5,7 @@ import 'package:crack_the_code/shared/widgets/coin_counter.dart';
 import 'package:crack_the_code/presentation/screens/scanner/card_scanner_screen.dart';
 import 'package:crack_the_code/presentation/screens/collection/collection_screen.dart';
 import 'package:crack_the_code/games/sound_board/screens/full_collection_screen.dart';
+import 'package:crack_the_code/games/daily_decoder/screens/daily_decoder_screen.dart';
 
 class GamesHubScreen extends ConsumerWidget {
   const GamesHubScreen({super.key});
@@ -111,7 +112,8 @@ class GamesHubScreen extends ConsumerWidget {
                     icon: '📅',
                     color: const Color(0xFFFFD700),
                     isFree: true,
-                    onTap: () => _showComingSoon(context, 'Daily Decoder'),
+                    onTap: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => const DailyDecoderScreen())),
                   ),
                 ]),
               ),

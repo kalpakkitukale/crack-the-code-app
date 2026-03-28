@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:crack_the_code/shared/models/lesson.dart';
 import 'package:crack_the_code/shared/providers/core_providers.dart';
 import 'package:crack_the_code/shared/providers/episode_provider.dart';
+import 'package:crack_the_code/presentation/screens/learn/episode_player_screen.dart';
 import 'package:crack_the_code/shared/providers/content_gating_provider.dart';
 import 'package:crack_the_code/shared/l10n/app_strings.dart';
 import 'package:crack_the_code/games/sound_board/widgets/kk_avatar.dart';
@@ -153,13 +154,10 @@ class EpisodeListScreen extends ConsumerWidget {
               onTap: () {
                 Navigator.pop(context);
                 final url = episode.kkAdventureUrl[lang] ?? '';
-                if (url.isNotEmpty) {
-                  // TODO: Open video player with url
-                } else {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Video coming soon! We\'re producing KK\'s animated adventures.'),
-                        behavior: SnackBarBehavior.floating));
-                }
+                Navigator.push(context, MaterialPageRoute(
+                  builder: (_) => EpisodePlayerScreen(
+                    title: episode.titleForLang(lang),
+                    format: 'adventure', url: url, language: lang)));
               },
             ),
             const SizedBox(height: 8),
@@ -171,13 +169,10 @@ class EpisodeListScreen extends ConsumerWidget {
               onTap: () {
                 Navigator.pop(context);
                 final url = episode.audioLessonUrl[lang] ?? '';
-                if (url.isNotEmpty) {
-                  // TODO: Open audio player with url
-                } else {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Audio lesson coming soon! Being recorded now.'),
-                        behavior: SnackBarBehavior.floating));
-                }
+                Navigator.push(context, MaterialPageRoute(
+                  builder: (_) => EpisodePlayerScreen(
+                    title: episode.titleForLang(lang),
+                    format: 'audio', url: url, language: lang)));
               },
             ),
             const SizedBox(height: 8),
@@ -189,13 +184,10 @@ class EpisodeListScreen extends ConsumerWidget {
               onTap: () {
                 Navigator.pop(context);
                 final url = episode.videoGuideUrl[lang] ?? '';
-                if (url.isNotEmpty) {
-                  // TODO: Open video player with url
-                } else {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Video guide coming soon! Being created now.'),
-                        behavior: SnackBarBehavior.floating));
-                }
+                Navigator.push(context, MaterialPageRoute(
+                  builder: (_) => EpisodePlayerScreen(
+                    title: episode.titleForLang(lang),
+                    format: 'video', url: url, language: lang)));
               },
             ),
             const SizedBox(height: 16),
