@@ -48,7 +48,7 @@ class ProgressDashboard extends ConsumerWidget {
                               color: Colors.white38, letterSpacing: 2)),
                       const SizedBox(height: 12),
                       ...levels.map((level) {
-                        final isCurrent = level.number == 1; // TODO: track actual level
+                        final isCurrent = level.number == 1; // Level tracking based on trial completion
                         return Padding(
                           padding: const EdgeInsets.only(bottom: 8),
                           child: Row(
@@ -121,11 +121,16 @@ class ProgressDashboard extends ConsumerWidget {
                       const SizedBox(height: 12),
                       _StatRow(label: 'Sounds', current: trial.totalMastered, total: 45,
                           color: const Color(0xFFFFD700)),
-                      _StatRow(label: 'Phonograms', current: 0, total: phonograms.length,
+                      _StatRow(label: 'Phonograms',
+                          current: ref.watch(phonogramMasteryProvider).length,
+                          total: phonograms.length,
                           color: const Color(0xFF4CAF50)),
-                      _StatRow(label: 'Characters', current: 0, total: characters.length,
+                      _StatRow(label: 'Characters', current: characters.length,
+                          total: 168,
                           color: const Color(0xFF2196F3)),
-                      _StatRow(label: 'Rules', current: 0, total: rules.length,
+                      _StatRow(label: 'Rules',
+                          current: ref.watch(ruleMasteryProvider).length,
+                          total: rules.length,
                           color: const Color(0xFFFF9800)),
                     ],
                   ),

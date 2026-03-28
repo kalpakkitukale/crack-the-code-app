@@ -16,6 +16,7 @@ import 'package:crack_the_code/games/sound_board/widgets/tier_overview_sheet.dar
 import 'package:crack_the_code/games/sound_board/widgets/settings_sheet.dart';
 import 'package:crack_the_code/shared/providers/lesson_provider.dart';
 import 'package:crack_the_code/presentation/screens/learn/lesson_screen.dart';
+import 'package:crack_the_code/shared/widgets/level_banner.dart';
 class SoundBoardHome extends ConsumerWidget {
   const SoundBoardHome({super.key});
 
@@ -35,6 +36,11 @@ class SoundBoardHome extends ConsumerWidget {
       body: SafeArea(
         child: CustomScrollView(
           slivers: [
+            // Level Banner
+            SliverToBoxAdapter(
+              child: _buildLevelBanner(ref),
+            ),
+
             // Header: KK + greeting + coins
             SliverToBoxAdapter(
               child: Padding(
@@ -272,5 +278,13 @@ class SoundBoardHome extends ConsumerWidget {
       loading: () => const SizedBox.shrink(),
       error: (_, __) => const SizedBox.shrink(),
     );
+  }
+
+  Widget _buildLevelBanner(WidgetRef ref) {
+    final levels = ref.watch(allLevelsProvider);
+    if (levels.isEmpty) return const SizedBox.shrink();
+    final lang = ref.watch(playerProfileProvider).language.name;
+    final level = levels.first; // Currently Level 1
+    return LevelBanner(level: level, lang: lang);
   }
 }
